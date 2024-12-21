@@ -1,12 +1,17 @@
 import { defineConfig } from "tinacms";
 
-// Your hosting provider likely exposes this as an environment variable
-const branch = process.env.NEXT_PUBLIC_TINA_BRANCH || process.env.HEAD || process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF || "main";
+// Dynamically determine the branch
+const branch =
+    process.env.NEXT_PUBLIC_TINA_BRANCH ||
+    process.env.HEAD ||
+    process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF ||
+    "main";
 
+// Export TinaCMS configuration
 export default defineConfig({
   branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID, // Use environment variable for Tina client ID
+  token: process.env.TINA_TOKEN, // Use environment variable for Tina token
   build: {
     outputFolder: "admin",
     publicFolder: "public",
@@ -23,7 +28,7 @@ export default defineConfig({
         name: "posts",
         label: "Posts",
         path: "src/content/posts",
-        format: 'mdx',
+        format: "mdx",
         fields: [
           {
             type: "string",
