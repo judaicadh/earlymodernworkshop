@@ -1,109 +1,59 @@
-# Workflow to build and deploy an Astro site with TinaCMS to GitHub Pages
 name: Deploy Astro site with TinaCMS to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Trigger workflow on push to the main branch
   push:
     branches: ["main"]
 
-  # Allows manual runs from the Actions tab
+  # Allows you to manually trigger the workflow
   workflow_dispatch:
 
-# Permissions needed for GitHub Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
-
-# Ensure only one deployment runs at a time
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-env:
-  BUILD_PATH: "." # Default build path
 
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout repository
-      - name: Checkout
+      # Step 1: Check out the repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      # Step 2: Detect the package manager
-      - name: Detect package manager
-        id: detect-package-manager
-        run: |
-          if [ -f "${{ github.workspace }}/yarn.lock" ]; then
-            echo "manager=yarn" >> $GITHUB_OUTPUT
-            echo "command=install" >> $GITHUB_OUTPUT
-            echo "runner=yarn" >> $GITHUB_OUTPUT
-            echo "lockfile=yarn.lock" >> $GITHUB_OUTPUT
-            exit 0
-          elif [ -f "${{ github.workspace }}/package.json" ]; then
-            echo "manager=npm" >> $GITHUB_OUTPUT
-            echo "command=ci" >> $GITHUB_OUTPUT
-            echo "runner=npx --no-install" >> $GITHUB_OUTPUT
-            echo "lockfile=package-lock.json" >> $GITHUB_OUTPUT
-            exit 0
-          else
-            echo "Unable to determine package manager"
-            exit 1
-          fi
-
-      # Step 3: Setup Node.js
-      - name: Setup Node
+      # Step 2: Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: ${{ steps.detect-package-manager.outputs.manager }}
-          cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.lockfile }}
 
-      # Step 4: Setup Pages deployment
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
-      # Step 5: Install dependencies
+      # Step 3: Install dependencies
       - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
-        working-directory: ${{ env.BUILD_PATH }}
+        run: npm install
 
-      # Step 6: Build the Astro site
-      - name: Build with Astro
-        run: |
-          ${{ steps.detect-package-manager.outputs.runner }} astro build \
-            --site "${{ steps.pages.outputs.origin }}" \
-            --base "${{ steps.pages.outputs.base_path }}"
-        working-directory: ${{ env.BUILD_PATH }}
-
-      # Step 7: Build TinaCMS admin interface
+      # Step 4: Build TinaCMS
       - name: Build TinaCMS
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: npx tinacms build
-        working-directory: ${{ env.BUILD_PATH }}
 
-      # Step 8: Upload artifacts to GitHub Pages
+      # Step 5: Build the Astro site
+      - name: Build Astro site
+        run: npm run build
+
+      # Step 6: Upload the artifact for GitHub Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ env.BUILD_PATH }}/dist
+          path: ./dist
 
   deploy:
-    name: Deploy
+    name: Deploy to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
     steps:
       # Step 1: Deploy the site to GitHub Pages
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy
         uses: actions/deploy-pages@v4
-
-    # TinaCMS Secrets (provided via GitHub Actions Secrets)
-    env:
-      TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
-      TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
