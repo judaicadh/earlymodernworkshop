@@ -1,0 +1,20 @@
+{
+  "name": "earlymodernworkshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"dev\": \"tinacms dev -c \\\"astro dev\\\"\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tinacms/cli": "^1.7.0",
+    "astro": "^5.1.1",
+    "tinacms": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
