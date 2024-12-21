@@ -24,7 +24,9 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
-  output: 'static',
+  site: "https://judaicadh.github.io", // Replace with your GitHub Pages URL
+  base: "/earlymodernworkshop", // Replace with your repository name
+  
 
   integrations: [tailwind({
     applyBaseStyles: false,
@@ -72,6 +74,14 @@ export default defineConfig({
   },
 
   vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          // Ensures correct asset paths for GitHub Pages
+          assetFileNames: "[name]-[hash][extname]",
+        },
+      },
+    },
     resolve: {
       alias: {
         '~': path.resolve(__dirname, './src'),
