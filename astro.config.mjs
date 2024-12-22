@@ -18,7 +18,8 @@ import collectionSearch from 'astro-collection-search';
 // https://astro.build/config
 export default defineConfig({
   output: 'static', // Ensures static files are generated
-
+  site: 'https://judaicadh.github.io',
+  base: 'earlymodernworkshop',
   build: {
     format: "file",
   },
