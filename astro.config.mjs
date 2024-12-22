@@ -17,7 +17,7 @@ import collectionSearch from 'astro-collection-search';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'static', // Ensures static files are generated
+
   site: 'https://earlymodernworkshop.judaicadhpenn.org', // The full URL to your site
 
   build: {
