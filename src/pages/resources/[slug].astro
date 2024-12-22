@@ -34,7 +34,7 @@ const documents = (await getCollection('documents')).filter(doc => doc.data.year
             {documents.length > 0 ? (
                     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
                         {documents.map(doc => (
-                                <a href={`/documents/${doc.data.slug}`} class="group block border rounded-lg shadow-lg hover:shadow-xl bg-white transition-all overflow-hidden">
+                                <a href={`/earlymodernworkshop/documents/${doc.data.slug}`} class="group block border rounded-lg shadow-lg hover:shadow-xl bg-white transition-all overflow-hidden">
                                     {doc.data.thumbnail && (
                                             <div class="relative h-48 overflow-hidden">
                                                 <img src={doc.data.thumbnail} alt={doc.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform" />
