@@ -19,7 +19,7 @@ import collectionSearch from 'astro-collection-search';
 export default defineConfig({
   output: 'static', // Ensures static files are generated
   site: 'https://judaicadhpenn.org/earlymodernworkshop', // The full URL to your site
-  base: '/earlymodernworkshop', // Subdirectory for GitHub Pages
+
   build: {
     format: "file",
   },
