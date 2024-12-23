@@ -2,36 +2,39 @@
 import Footer from "../components/Footer.astro";
 import Nav from "../components/Nav.astro";
 import "astro-breadcrumbs/breadcrumbs.css";
- ---
+import "../styles/global.css";
+---
+
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
 	<meta name="generator" content={Astro.generator} />
+	<meta name="description" content="Early Modern Workshop: Resources in Jewish History" />
 	<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 	<link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
-
-
+	<link rel="stylesheet" href="/styles/global.css" />
 	<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 	<script src="/pagefind/pagefind-ui.js" defer></script>
-	<link rel="stylesheet" href="/src/styles/global.css" />
+	<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js" defer></script>
 </head>
 <body>
-<Nav /> <!-- Navigation Bar -->
+<!-- Navigation Bar -->
+<Nav />
 
 <!-- Breadcrumb Navigation -->
 <div class="container mx-auto px-4">
-
+	<!-- Add breadcrumbs here if needed -->
 </div>
 
 <!-- Main Content -->
 <main>
 	<slot />
 </main>
-<script is:inline src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
-<Footer /> <!-- Footer Section -->
+
+<!-- Footer Section -->
+<Footer />
 </body>
 </html>
 
