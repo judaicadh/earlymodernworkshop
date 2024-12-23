@@ -1,0 +1,125 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from "../../../layouts/Layout.astro";
+import { Schema } from "astro-seo-schema";
+
+// Generate static paths for documents
+export async function getStaticPaths() {
+    const documents = await getCollection('documents');
+
+    if (!documents || documents.length === 0) {
+        console.warn("No documents found for generating static paths.");
+        return { paths: [] }; // Return an empty array if no documents exist
+    }
+
+    // Generate paths for all documents with year and slug
+    return documents.map(doc => ({
+        params: {
+            year: doc.data.year.toString(),
+            slug: doc.data.slug,
+        },
+    }));
+}
+
+// Extract year and slug from the route parameters
+const { year, slug } = Astro.params;
+
+// Fetch the document by year and slug
+const document = (await getCollection('documents')).find(
+    doc => doc.data.slug === slug && doc.data.year.toString() === year
+);
+
+if (!document) {
+    console.error(`No document found for slug: ${slug} in year: ${year}`);
+    return Astro.redirect('/404'); // Redirect to a 404 page if not found
+}
+
+// Destructure the document data
+const { title, description, language, author, tags } = document.data;
+
+// Render the Markdown content
+const { Content } = await render(document);
+---
+
+<Layout>
+    <head>
+        <!-- Astro SEO Schema -->
+        <Schema
+                item={{
+                    "@context": "https://schema.org",
+                    "@type": "CreativeWork",
+                    headline: title,
+                    description: description,
+                    author: {
+                        "@type": "Person",
+                        name: author,
+                    },
+                    datePublished: year,
+                    mainEntityOfPage: {
+                        "@type": "WebPage",
+                        "@id": `/resources/${year}/${slug}`,
+                    },
+                    keywords: tags?.join(", "),
+                }}
+        />
+
+        <!-- COinS Metadata -->
+        <span class="Z3988"
+              title={`ctx_ver=Z39.88-2004&
+                rft_val_fmt=info:ofi/fmt:kev:mtx:journal&
+                rft.genre=article&
+                rft.atitle=${encodeURIComponent(title)}&
+                rft.description=${encodeURIComponent(description || "")}&
+                rft.date=${encodeURIComponent(year || "")}&
+                rft.aulast=${encodeURIComponent(author || "")}&
+                rft_id=${encodeURIComponent(`/resources/${year}/${slug}`)}&
+                rft.language=${encodeURIComponent(language || "en-US")}`}>
+    </span>
+    </head>
+
+    <!-- Blog Post Content -->
+    <section class="py-24 bg-gray-50">
+        <div class="container mx-auto px-6 lg:px-8">
+            <!-- Breadcrumbs -->
+            <nav class="text-sm mb-6" aria-label="Breadcrumb">
+                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a> /
+                <a href={`/resources/${year}`} class="text-indigo-600 hover:underline">{year}</a> /
+                <span class="text-gray-500">{title}</span>
+            </nav>
+
+            <!-- Page Title -->
+            <h1 class="text-4xl font-bold mb-6 text-gray-900">{title}</h1>
+
+            <!-- Metadata -->
+            {author && (
+                    <p class="text-gray-500 mb-4">
+                        <span class="font-medium">Author:</span> {author}
+                    </p>
+            )}
+            {description && (
+                    <p class="text-gray-500 mb-4">
+                        <span class="font-medium">Description:</span> {description}
+                    </p>
+            )}
+
+            <!-- Tags -->
+            {tags && tags.length > 0 && (
+                    <div class="mb-4">
+                        <h3 class="text-lg font-semibold">Tags:</h3>
+                        <div class="flex flex-wrap gap-2">
+                            {tags.map(tag => (
+                                    <span class="bg-indigo-100 text-indigo-800 text-sm px-3 py-1 rounded-full">
+                                {tag}
+                            </span>
+                            ))}
+                        </div>
+                    </div>
+            )}
+
+            <!-- Document Content -->
+            <article class="prose max-w-none">
+                <Content /> <!-- Render Markdown content -->
+            </article>
+        </div>
+    </section>
+</Layout>

@@ -1,35 +1,50 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import yearsData from '../../../src/content/years.json';
+import yearsData from '../../content/years.json';
 
 // Sort the data by year (descending)
 const years = yearsData.sort((a, b) => parseInt(b.year) - parseInt(a.year));
+
+
 ---
+
+
 <Layout>
     <section class="py-24 bg-gray-100">
+
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+
             <h2 class="font-manrope text-4xl font-bold text-gray-900 text-center mb-16">Resources from Past Workshops</h2>
             {years.length === 0 ? (
                     <p class="text-center text-gray-500">No resources available.</p>
             ) : (
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {years.map(year => (
-                                <a href={`/resources/${year.slug}`} class="block p-4 bg-white border rounded-lg shadow-lg hover:shadow-xl transition flex flex-col justify-between">
+                                <a
+                                        href={`/resources/${year.year}`}
+                                        class="block p-4 bg-white border rounded-lg shadow-lg hover:shadow-xl transition flex flex-col justify-between"
+                                        aria-label={`Resources from ${year.year}`}
+                                >
                                     <span class="bg-indigo-100 mb-2 self-start text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-indigo-900 dark:text-indigo-300">{year.year}</span>
 
                                     <div>
                                         <h3 class="text-2xl font-semibold mb-2">{year.title}</h3>
                                         <p class="text-gray-500 mb-4 line-clamp-3">{year.description || "No description available."}</p>
                                     </div>
-                                    <button class="rounded-md bg-indigo-800 py-2 px-4 mt-4 self-start border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-slate-700 focus:shadow-none active:bg-slate-700 hover:bg-slate-700 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none" type="button">
+                                    <button
+                                            class="rounded-md bg-indigo-800 py-2 px-4 mt-4 self-start border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-slate-700 focus:shadow-none active:bg-slate-700 hover:bg-slate-700 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                                            type="button"
+                                            aria-label={`View resources for the year ${year.year}`}
+                                    >
                                         Resources from {year.year}
                                     </button>
                                   <!--  {year.thumbnail && (
                                             <img
-                                                    src={year.thumbnail}
-                                                    alt={year.title}
-                                                    class="rounded-lg"
-                                            />
+  src={year.thumbnail}
+  alt={year.title}
+  class="rounded-lg"
+  loading="lazy"
+/>
                                     )}-->
                                 </a>
                         ))}

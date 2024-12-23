@@ -15,6 +15,10 @@ import partytown from '@astrojs/partytown';
 
 import collectionSearch from 'astro-collection-search';
 
+import readingTime from 'astro-reading-time';
+
+import itsmatteomanfpagefind from '@itsmatteomanf/astro-pagefind';
+
 // https://astro.build/config
 export default defineConfig({
 
@@ -31,6 +35,8 @@ export default defineConfig({
     mdx(),
     sitemap(),
     partytown(),
-    collectionSearch()
+    collectionSearch(),
+    readingTime(),
+    itsmatteomanfpagefind()
   ]
 });
