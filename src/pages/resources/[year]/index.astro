@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from "../../../layouts/Layout.astro";
+
+const { year } = Astro.params;
+export async function getStaticPaths() {
+    const documents = await getCollection('documents');
+
+    // Extract unique years
+    const years = [...new Set(documents.map((doc) => doc.data.year))];
+
+    const paths = years.map((year) => ({
+        params: { year: year.toString() },
+    }));
+
+    console.log("Generated Paths:", paths);
+
+    return paths;
+}
+// Debugging: Fetch and log the documents collection
+const documents = (await getCollection('documents')).filter(
+    (doc) => doc.data.year === year
+);
+const tags = [...new Set(documents.flatMap((doc) => doc.data.tags || []))];
+
+---
+
+<Layout>
+    <section class="py-24 bg-gray-100">
+        <div class="container mx-auto px-6 lg:px-8">
+            <!-- Breadcrumb Navigation -->
+            <nav class="text-sm mb-6" aria-label="Breadcrumb">
+                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a> /
+                <span class="text-gray-500">{year}</span>
+            </nav>
+
+            <!-- Title Section -->
+            <h1 class="text-4xl font-bold text-gray-900 text-center mb-10">
+                Resources for {year}
+            </h1>
+
+            <!-- Documents Grid -->
+            {documents.length > 0 ? (
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                        {documents.map((doc) => (
+                                <a
+                                        href={`/resources/${year}/${doc.data.slug}`}
+                                        class="group block p-5 bg-white border border-gray-200 rounded-lg shadow-md hover:shadow-lg hover:border-indigo-500 transition-all"
+                                        aria-label={`View document: ${doc.data.title}`}
+                                >
+                                    <!-- Card Header -->
+                                    <h2 class="text-2xl font-semibold mb-3 text-gray-800 group-hover:text-indigo-600">
+                                        {doc.data.title}
+                                    </h2>
+
+                                    <!-- Description -->
+                                    <p class="text-gray-600 mb-4 line-clamp-3">
+                                        {doc.data.description || "No description available."}
+                                    </p>
+
+                                    <!-- Tags as Pills -->
+
+
+                                    <!-- Additional Metadata (Optional) -->
+                                    {doc.data.tags?.length > 0 && (
+                                            <div class="flex flex-wrap gap-2">
+                                                {doc.data.tags.map((tag) => (
+                                                        <span
+                                                                class="inline-block bg-indigo-100 text-indigo-800 text-sm font-medium px-3 py-1 rounded-full"
+                                                        >
+                                            {tag}
+                                        </span>
+                                                ))}
+                                            </div>
+                                    )}
+                                </a>
+                        ))}
+                    </div>
+            ) : (
+                    <p class="text-center text-gray-500">
+                        No resources available for {year}.
+                    </p>
+            )}
+        </div>
+    </section>
+</Layout>
