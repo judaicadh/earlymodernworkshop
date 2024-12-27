@@ -17,7 +17,7 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "dist", // For GitHub Pages
+    publicFolder: "public", // For GitHub Pages
   },
   media: {
     tina: {
