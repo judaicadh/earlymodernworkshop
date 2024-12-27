@@ -1,0 +1,43 @@
+backend:
+  name: github
+  repo: judaicadh/earlymodernworkshop # Or "github" if using GitHub directly
+  branch: main # Your main branch
+  commit_messages:
+    create: "Create {{collection}}: {{slug}}"
+    update: "Update {{collection}}: {{slug}}"
+    delete: "Delete {{collection}}: {{slug}}"
+    uploadMedia: "Upload media file"
+    deleteMedia: "Delete media file"
+
+media_folder: "src/assets/images" # Location where files will be stored in the repo
+public_folder: "src/assets/images" # The src attribute for uploaded media
+
+collections:
+  - name: "years"
+    label: "Years"
+    label_singular: "Year"
+    folder: "src/content/years" # Match the location of your years JSON files
+    create: true # Allow creating new years
+    slug: "{{slug}}" # Use the `slug` field from your schema
+    fields:
+      - { name: "year", label: "Year", widget: "string" }
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "description", label: "Description", widget: "text", required: false }
+      - { name: "slug", label: "Slug", widget: "string" }
+      - { name: "thumbnail", label: "Thumbnail", widget: "image", required: false }
+
+  - name: "documents"
+    label: "Documents"
+    label_singular: "Document"
+    folder: "src/content/documents" # Match the folder for your Markdown files
+    create: true # Allow creating new documents
+    slug: "{{slug}}" # Use the `slug` field from your schema
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "description", label: "Description", widget: "text", required: false }
+      - { name: "author", label: "Author", widget: "string", required: false }
+      - { name: "year", label: "Year", widget: "relation", collection: "years", search_fields: ["year"], display_fields: ["year"], value_field: "slug" }
+      - { name: "slug", label: "Slug", widget: "string" }
+      - { name: "tags", label: "Tags", widget: "list", required: false }
+      - { name: "thumbnail", label: "Thumbnail", widget: "image", required: false }
+      - { name: "file", label: "File", widget: "file", required: false }
