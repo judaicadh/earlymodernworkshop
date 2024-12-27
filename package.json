@@ -3,7 +3,8 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "tinacms dev -c \"astro dev\"",
+    "start": "tinacms dev -c \"astro dev\"",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
@@ -37,10 +38,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-forms": "^1.0.6",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.17",
+    "tinacms": "^2.5.2"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.9",
+    "@tinacms/cli": "^1.7.0",
+    "@types/node": "^22.10.2",
     "gh-pages": "^6.2.0"
   }
 }
