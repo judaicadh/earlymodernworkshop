@@ -12,30 +12,7 @@ media:
     - docx
 
 content:
-  - name: years
-    label: Years
-    type: file
-    path: src/content/years.json # Path to your JSON file
-    format: json # File format
-    fields:
-      - name: year
-        label: Year
-        type: string
-        required: true
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: description
-        label: Description
-        type: text
-      - name: slug
-        label: Slug
-        type: string
-        required: true
-      - name: thumbnail
-        label: Thumbnail
-        type: image
+ 
 
   - name: documents
     label: Documents
