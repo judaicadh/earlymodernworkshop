@@ -1,55 +1,41 @@
 ---
 title: "Messengers to Themselves: Private Letters from Jerusalem"
-author: "Ruth Lamdan"
-theme: "Jewish Communities and Emissaries"
+author: Ruth Lamdan
+volume: 21
 year: "2024"
-slug: "messengers-to-themselves"
+slug: messengers-to-themselves
 event:
   name: "Early Modern Workshop: Jewish History Resources"
-  theme: "The Land of Israel"
-  date: 
-    start: "2024-08-19"
-    end: "2024-08-20"
-tags: 
+  theme: The Land of Israel
+  date:
+    start: 2024-08-19
+    end: 2024-08-20
+tags:
   - Jerusalem Community
   - Emissaries
   - Ottoman Era
   - 16th Century
 description: >
-  This study highlights a unique phenomenon in 16th and 17th-century Jerusalem: "Messengers to Themselves" (שלוחים לעצמם), individuals who sought alms for personal survival. Unlike traditional emissaries who solicited funds for communal needs, these individuals carried letters from Jerusalem's leaders addressing personal crises such as poverty, dowry funds, or captivity. The letters reveal the precarious circumstances of Jerusalem's Jewish population during the Ottoman period and the community's reliance on diaspora networks.
-focus:
-  - Financial struggles of the Jerusalem community in the 16th and 17th centuries.
-  - Individualized letters for personal fundraising missions.
-  - Examples of letters illustrating unique personal crises.
-sources:
-  - title: "National Library of Israel"
-    manuscript: "MS 8*61"
-  - title: "Rozen, The Jewish Community of Jerusalem"
-    year: "1984"
-    pages: "299-315"
-  - title: "Yaari, Emissaries from the Land of Israel"
-    year: "1977"
+  This study highlights a unique phenomenon in 16th and 17th-century Jerusalem:
+  "Messengers to Themselves" (שלוחים לעצמם), individuals who sought alms for
+  personal survival. Unlike traditional emissaries who solicited funds for
+  communal needs, these individuals carried letters from Jerusalem's leaders
+  addressing personal crises such as poverty, dowry funds, or captivity. The
+  letters reveal the precarious circumstances of Jerusalem's Jewish population
+  during the Ottoman period and the community's reliance on diaspora networks.
+sections:
+  - {}
+footnotes:
+  - {}
 bibliography:
-  - author: "Matthias Lehmann"
-    title: "*Emissaries from the Holy Land: The Sephardic Diaspora and the Practice of Pan-Judaism in the Eighteenth Century*"
-    publisher: "Stanford University Press"
+  - author: Matthias Lehmann
+    title: "*Emissaries from the Holy Land: The Sephardic Diaspora and the Practice
+      of Pan-Judaism in the Eighteenth Century*"
     year: "2014"
-    pages: "15, 160"
-  - author: "Abraham Yaari"
+    pages: 15, 160
+  - author: Abraham Yaari
     title: "*Emissaries from the Land of Israel*"
-    publisher: "Jerusalem"
     year: "1977"
-footnotes: true
-letters:
-  - letter_1: 
-      description: >
-        A general plea on behalf of David, an immigrant who lost all his possessions on the way to Jerusalem. The letter is addressed to a family of benefactors and praises their generosity.
-  - letter_2: 
-      description: >
-        A plea on behalf of a mother, published previously in *Haaretz*, highlighting her struggles and seeking aid for her family.
-  - letter_3: 
-      description: >
-        A letter emphasizing the inability of the Jerusalem community to aid all its poor, urging external support for a specific individual.
 ---
 The Jerusalem community was never well-off. It has gone through worse and less bad times, but the majority of its Jewish residents, most of them new immigrants, have always lived very modestly. In the last quarter of the 16th century, the economic situation in the Ottoman Empire worsened. The community's debts to the authorities and private creditors multiplied, and the legal struggle for possession of the synagogue, known as ‘the Ramban synagogue’, in which a great deal of money was invested, ended in failure and its final closure at the end of the century.[^1]   
 The number of Jews in Jerusalem by that time was reduced to about a thousand souls. According to the poet Rabbi Israel Najara, about a quarter of them, 230 souls, were poor.[^2]   
