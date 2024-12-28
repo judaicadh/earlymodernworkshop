@@ -11,6 +11,8 @@ event:
   date:
     start: 2024-08-19
     end: 2024-08-20
+language:
+  - en
 tags:
   - Pinkas Jerusalem
   - Ottoman Palestine
