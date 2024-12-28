@@ -23,7 +23,7 @@ import itsmatteomanfpagefind from '@itsmatteomanf/astro-pagefind';
 export default defineConfig({
 
   site: 'https://earlymodernworkshop.judaicadhpenn.org', // The full URL to your site
-  output: 'server',
+
   build: {
     format: "file",
   },
