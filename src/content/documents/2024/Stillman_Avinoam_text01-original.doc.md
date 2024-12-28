@@ -1,7 +1,7 @@
 ---
 title: "'Pinkas Jerusalem' and the Ashkenazi Jews of Ottoman Palestine (Original)"
 author: Avinoam J. Stillman
-institution: Library of the Jewish Theological Seminary of America
+institution: Freie Universität Berlin
 volume: 21
 year: "2024"
 slug: pinkas-jerusalem-originial
