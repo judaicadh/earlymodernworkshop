@@ -1,0 +1,149 @@
+media:
+  input: src/assets
+  output: /assets
+  path: src/assets/images
+  extensions:
+    - jpg
+    - png
+    - gif
+    - svg
+    - md
+    - pdf
+    - docx
+
+content:
+  - name: years
+    label: Years
+    type: file
+    path: src/content/years.json # Path to your JSON file
+    format: json # File format
+    fields:
+      - name: year
+        label: Year
+        type: string
+        required: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Description
+        type: text
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+      - name: thumbnail
+        label: Thumbnail
+        type: image
+
+  - name: documents
+    label: Documents
+    type: collection
+    path: src/content/documents
+    format: yaml-frontmatter
+    filename: "{year}-{slug}.md"
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: author
+        label: Author
+        type: string
+      - name: institution
+        label: Institution
+        type: string
+      - name: volume
+        label: Volume
+        type: number
+      - name: year
+        label: Year
+        type: string
+        required: true
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+      - name: event
+        label: Event
+        type: object
+        fields:
+          - name: name
+            label: Event Name
+            type: string
+          - name: theme
+            label: Theme
+            type: string
+          - name: date
+            label: Date
+            type: object
+            fields:
+              - name: start
+                label: Start Date
+                type: string
+              - name: end
+                label: End Date
+                type: string
+      - name: language
+        label: Language
+        type: string
+        list: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: description
+        label: Description
+        type: text
+      - name: sections
+        label: Sections
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Section Title
+            type: string
+          - name: content
+            label: Section Content
+            type: text
+      - name: footnotes
+        label: Footnotes
+        type: object
+        list: true
+        fields:
+          - name: ref
+            label: Reference
+            type: string
+          - name: text
+            label: Text
+            type: text
+      - name: bibliography
+        label: Bibliography
+        type: object
+        list: true
+        fields:
+          - name: author
+            label: Author
+            type: string
+          - name: title
+            label: Title
+            type: string
+          - name: publication
+            label: Publication
+            type: string
+          - name: type
+            label: Type
+            type: string
+          - name: institution
+            label: Institution
+            type: string
+          - name: year
+            label: Year
+            type: string
+          - name: pages
+            label: Pages
+            type: string
+      - name: body
+        label: Body
+        type: text 
