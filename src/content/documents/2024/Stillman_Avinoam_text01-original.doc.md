@@ -1,27 +1,28 @@
 ---
 title: "'Pinkas Jerusalem' and the Ashkenazi Jews of Ottoman Palestine (Original)"
-description: >
-  MS 3541 in the Library of the Jewish Theological Seminary in New York is a complex Hebrew codex from Ottoman Palestine. Selections include accounts of communal transactions, diasporic correspondence, and scholarly traditions in the Jewish communities of early modern times. The manuscript reflects daily life, communal structure, and scholarly interactions.
-author: "Avinoam J. Stillman"
+author: Avinoam J. Stillman
+institution: Library of the Jewish Theological Seminary of America
+volume: 21
 year: "2024"
-slug: "pinkas-jerusalem-originial"
-institution: "Library of the Jewish Theological Seminary of America"
-manuscript_id: "MS 3541"
+slug: pinkas-jerusalem-originial
 tags:
-  - "Land of Israel"
-  - "Ottoman Palestine"
-  - "Ashkenazi Jews"
+  - Land of Israel
+  - Ottoman Palestine
+  - Ashkenazi Jews
+description: >
+  MS 3541 in the Library of the Jewish Theological Seminary in New York is a
+  complex Hebrew codex from Ottoman Palestine. Selections include accounts of
+  communal transactions, diasporic correspondence, and scholarly traditions in
+  the Jewish communities of early modern times. The manuscript reflects daily
+  life, communal structure, and scholarly interactions.
 sections:
-  - title: "Of Cheese and Charity"
-    folio: "f. 136v - f. 137r"
-  - title: "Diasporic Networks"
-    folio: "f. 140r - f. 140v"
-  - title: "A Scholarly Economy"
-    folio: "f. 143v"
-languages:
-  - Hebrew
-sources:
-  - New York, Library of the Jewish Theological Seminary of America, MS 3541
+  - title: Of Cheese and Charity
+  - title: Diasporic Networks
+  - title: A Scholarly Economy
+footnotes:
+  - {}
+bibliography:
+  - {}
 ---
 New York, Library of the Jewish Theological Seminary of America, MS 3541
 
