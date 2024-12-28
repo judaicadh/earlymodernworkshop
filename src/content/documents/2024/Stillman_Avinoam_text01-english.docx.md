@@ -1,16 +1,16 @@
 ---
-title: "Pinkas Jerusalem and the Ashkenazi Jews of Ottoman Palestine (English)"
-author: "Avinoam J. Stillman"
-theme: "Jewish Life in Ottoman Palestine"
+title: Pinkas Jerusalem and the Ashkenazi Jews of Ottoman Palestine (English)
+author: Avinoam J. Stillman
+institution: Freie Universität Berlin
 volume: 21
 year: "2024"
-slug: "pinkas-jerusalem-english"
+slug: pinkas-jerusalem-english
 event:
   name: "Early Modern Workshop: Jewish History Resources"
-  theme: "The Land of Israel"
+  theme: The Land of Israel
   date:
-    start: "2024-08-19"
-    end: "2024-08-20"
+    start: 2024-08-19
+    end: 2024-08-20
 tags:
   - Ashkenazi Jews
   - Ottoman Palestine
@@ -18,67 +18,37 @@ tags:
   - Safed
   - Jerusalem
 description: >
-  This study delves into selections from the "Pinkas Jerusalem," a 17th-century manuscript by Rabbi Jacob Philip. Preserved in MS 3541 at the Jewish Theological Seminary, the manuscript captures records of financial transactions, diasporic networks, and scholarly economies. It offers unique insights into Ashkenazi Jewish life in Ottoman Palestine, highlighting community interactions, charitable networks, and the dynamics of scholarly and religious practices.
-focus:
-  - Financial transactions and resource allocations in Ashkenazi communities.
-  - Diasporic connections linking Ottoman Palestine to global Jewish networks.
-  - The role of Torah scholarship in community development.
-manuscript:
-  repository: "Library of the Jewish Theological Seminary of America"
-  identifier: "MS 3541"
-content_sections:
-  - title: "Of Cheese and Charity"
-    folio: "f. 136v - f. 137v"
-    description: >
-      This section outlines financial transactions, including the purchase of cheese, citrons, and religious items, as well as funds distributed to Jerusalem and Safed communities. It highlights the economic intricacies of Ashkenazi communal life in Ottoman Palestine.
-  - title: "Diasporic Networks"
-    folio: "f. 140r - f. 140v"
-    description: >
-      A detailed list of correspondences to Jewish communities across Europe and the Ottoman Empire, showcasing the interconnectedness of Jewish diasporic networks and their contributions to Jerusalem and Safed.
-  - title: "A Scholarly Economy"
-    folio: "f. 143v"
-    description: >
-      A record of payments and obligations related to Torah study, highlighting the financial framework sustaining scholarship within the Ashkenazi community in Ottoman Palestine.
-bibliography:
-  - author: "Mordecai Kosover"
-    title: "*Arabic Elements in Palestinian Yiddish: The Old Ashkenazic Jewish Community in Palestine Its History and Its Language*"
-    publisher: "Reuben Mass"
-    year: "1966"
-    pages: "378-387"
-  - author: "Minna Rozen"
-    title: "*The Jewish Community of Jerusalem in the Seventeenth Century*"
-    publisher: "Tel Aviv University Press"
-    year: "1984"
-  - author: "Carsten Wilke"
-    title: "Kabbalistic Fraternities of Ottoman Galilee and their Central European Members, Funders, and Successors"
-    book_title: "*Entangled Confessionalizations? Dialogic Perspectives on the Politics of Piety and Community-Building in the Ottoman Empire, 15th–18th Centuries*"
-    editors: "Tijana Krstić and Derin Terzioğlu"
-    publisher: "Gorgias Press"
-    year: "2022"
-    pages: "255-283"
-  - author: "Sevket Pamuk"
-    title: "*A Monetary History of the Ottoman Empire*"
-    publisher: "Cambridge University Press"
-    year: "2000"
-    pages: "101-105"
-suggested_readings:
-  - title: "MS 3541 Digitized Manuscript"
-    url: "https://makor.primo.exlibrisgroup.com/view/BookReaderViewer/01JTS_INST/1256376190007706"
-  - title: "Mordecai Kosover, *Arabic Elements in Palestinian Yiddish*"
-    year: "1966"
-    pages: "18-22, 378-387"
-  - title: "Minna Rozen, *The Jewish Community of Jerusalem in Seventeenth Century*"
-    year: "1984"
-    pages: "271-272"
+  This study delves into selections from the "Pinkas Jerusalem," a 17th-century
+  manuscript by Rabbi Jacob Philip. Preserved in MS 3541 at the Jewish
+  Theological Seminary, the manuscript captures records of financial
+  transactions, diasporic networks, and scholarly economies. It offers unique
+  insights into Ashkenazi Jewish life in Ottoman Palestine, highlighting
+  community interactions, charitable networks, and the dynamics of scholarly and
+  religious practices.
+sections:
+  - {}
 footnotes:
-  - number: 1
-    content: >
-      The term באלוש might refer to "ballots" used in elections or "bags" depending on interpretation. Ruth Lamdan suggests the latter.
-  - number: 2
-    content: >
-      A *shahi* was a silver coin used during the Ottoman Empire. See Sevket Pamuk, *A Monetary History of the Ottoman Empire*, pp. 101–105.
+  - {}
+  - {}
+bibliography:
+  - author: Mordecai Kosover
+    title: "*Arabic Elements in Palestinian Yiddish: The Old Ashkenazic Jewish
+      Community in Palestine Its History and Its Language*"
+    year: "1966"
+    pages: 378-387
+  - author: Minna Rozen
+    title: "*The Jewish Community of Jerusalem in the Seventeenth Century*"
+    year: "1984"
+  - author: Carsten Wilke
+    title: Kabbalistic Fraternities of Ottoman Galilee and their Central European
+      Members, Funders, and Successors
+    year: "2022"
+    pages: 255-283
+  - author: Sevket Pamuk
+    title: "*A Monetary History of the Ottoman Empire*"
+    year: "2000"
+    pages: 101-105
 ---
-
 New York, Library of the Jewish Theological Seminary of America, MS 3541
 
 \[Note: I have omitted some honorifics for the sake of brevity and clarity.\]
