@@ -87,11 +87,11 @@ content:
                 type: string
       - name: language
         label: Language
-        type: select
+        type: string
         list: true
       - name: tags
         label: Tags
-        type: select
+        type: string
         list: true
       - name: description
         label: Description
