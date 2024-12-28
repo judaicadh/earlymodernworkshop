@@ -1,6 +1,7 @@
 ---
 title: Pinkas Jerusalem and the Ashkenazi Jews of Ottoman Palestine (Introduction)
 author: Avinoam J. Stillman
+institution: Freie Universität Berlin
 volume: 21
 year: "2024"
 slug: pinkas-jerusalem-introduction
