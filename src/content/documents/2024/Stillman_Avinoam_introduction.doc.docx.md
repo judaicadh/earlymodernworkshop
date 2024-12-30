@@ -55,11 +55,12 @@ bibliography:
     year: "2023"
     pages: 38-41
 ---
+### Introduction
 MS 3541 in the Library of the Jewish Theological Seminary in New York is a complex Hebrew codex from Ottoman Palestine. It contains textual units copied by multiple hands over the course of a century or more: autographs of the sixteenth century Safed kabbalist Elazar Azikri (including the poem *Yedid Nefesh*), Sephardic historical chronicles, Talmudic novellae, and even the signature of Nathan of Gaza, the prophet of Sabbatai Zevi. Another of its sections is the so-called “Pinkas Jerusalem,” a series of records related to the Ashkenazi communities of Safed and Jerusalem. These texts were inscribed across many folios by the Ashkenazi rabbi Jacob Philip between 1611 and 1628 in Safed. Philip also copied other sections of MS 3541, including homilies and eulogies. Mordecai Kosover published a partial transcription of “Pinkas Jerusalem” in *Palestinian Yiddish* (Jerusalem: Rubin Mass, 1966); here, I transcribe and translate selections from “Pinkas Jerusalem” which relate to three major themes of Ashkenazi life in Safed and Jerusalem: financial transactions (Selection 1: Of Cheese and Charity), connections to other Jewish communities (Selection 2: Diasporic Networks), and the maintenance of Torah scholars (Selection 3: A Scholarly Economy).
 
 Numerous questions emerge from the pages of “Pinkas Jerusalem.” How did the Jewish community of Jerusalem come to eclipse that of Safed in the seventeenth century? What challenges did Ashkenazi Jews confront as pilgrims to a foreign, albeit holy, land? How did they interact with other (Sephardi, Musta‘arbi, and Maghrebi) Jews and with local Muslims? To what extent did they depend on – and cultivate – global Jewish charitable networks? What sorts of religious knowledge, pious praxis, and social groupings did they develop? “Pinkas Jerusalem” is a rich and surprising source for the intellectual and social history of the Jews in early 17th century Ottoman Palestine.
 
-Suggested Readings
+### Suggested Readings
 
 The digitized manuscript, including a detailed description by Joseph R. Hacker, available at: [https://makor.primo.exlibrisgroup.com/view/BookReaderViewer/01JTS\_INST/1256376190007706](https://makor.primo.exlibrisgroup.com/view/BookReaderViewer/01JTS_INST/1256376190007706)
 
