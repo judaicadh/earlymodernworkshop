@@ -1,8 +1,20 @@
 ---
 import { getCollection, render } from 'astro:content';
+import {
+    FacebookShareButton,
+
+    LinkedInShareButton,
+
+    RedditShareButton,
+    TwitterShareButton,
+    WhatsAppShareButton,
+    SocialShare
+} from "astro-social-share";
+const BUTTONS = [TwitterShareButton, LinkedInShareButton, WhatsAppShareButton, FacebookShareButton]
 import Layout from "../../../layouts/Layout.astro";
 import { Schema } from "astro-seo-schema";
-
+import Comments from "../../../components/Comments.astro";
+import { Disqus } from "astro-disqus";
 // Generate static paths for documents
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
@@ -81,12 +93,25 @@ const { Content } = await render(document);
     <section class="py-24 bg-gray-50">
         <div class="container mx-auto px-6 lg:px-8">
             <!-- Breadcrumbs -->
-            <nav class="text-sm mb-6" aria-label="Breadcrumb">
-                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a> /
-                <a href={`/resources/${year}`} class="text-indigo-600 hover:underline">{year}</a> /
-                <span class="text-gray-500">{title}</span>
-            </nav>
+            <nav class="flex flex-wrap items-center justify-between text-sm mb-6" aria-label="Breadcrumb">
+                <!-- Breadcrumb Links -->
+                <div class="flex items-center gap-2 mb-2 sm:mb-0">
+                    <a href="/resources" class="text-indigo-600 hover:underline">Resources</a>
+                    <span>/</span>
+                    <a href={`/resources/${year}`} class="text-indigo-600 hover:underline">{year}</a>
+                    <span>/</span>
+                    <span class="text-gray-500">{title}</span>
+                </div>
 
+                <!-- Social Share Component -->
+                <div class="flex sm:ml-auto">
+                    <SocialShare
+                            buttons={BUTTONS}
+                            description="{description}"
+                            title="{title}"
+                    />
+                </div>
+            </nav>
             <!-- Page Title -->
             <h1 class="text-4xl font-bold mb-6 text-gray-900">{title}</h1>
 
@@ -118,8 +143,22 @@ const { Content } = await render(document);
 
             <!-- Document Content -->
             <article class="prose max-w-none">
-                <Content /> <!-- Render Markdown content -->
+                <Content />
+
+
+
+                <!-- Render Markdown content -->
             </article>
+            <SocialShare
+                    buttons={BUTTONS}
+                    description="{description}"
+                    title="{title}"
+            />
+            <Disqus embed="https://early-modern-workshop.disqus.com/embed.js" />
+
+
         </div>
     </section>
+
 </Layout>
+
