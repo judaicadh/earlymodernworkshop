@@ -53,7 +53,7 @@ New York, Library of the Jewish Theological Seminary of America, MS 3541
 
 \[Note: I have omitted some honorifics for the sake of brevity and clarity.\]
 
-**Selection 1: Of Cheese and Charity**
+### Selection 1: Of Cheese and Charity
 
 \[f. 136v\]  
 I received 3 gold florins from the traveler R. Yehuda Levi Ashkenazi. I repaid 3 ½ gurush to R. Shimon Uri for the citrons and I took 1 gurush for myself, as he commanded me.  
@@ -97,7 +97,7 @@ Another 7 florins cash, another gurush all told. \[…\]
 
 Today, Friday, the Torah portion of “And the complaints of the children of Israel ended” \[*Korah*\] I bought cheese for R. Benjamin and I exchanged his soap for the cheese. \[…\] I also paid a *shahi*[^2] to bring the cheese to my house \<and to transport the soap to storage\>. Another 3 pieces to transport the cheese from my house to the *khan* when the caravan left \[…\] Another 7 rotl to R. Simon Uri, a value of 1 ¾ gurush, which I owed him for the citrons of the year 5373\. Another rotl of soap to Doña Dina for a value of ¼ gurush. Another rotl for a value of ¼ as well to my mother-in-law for my account \[…\]
 
-**Selection 2: Diasporic Networks**
+### Selection 2: Diasporic Networks
 
 \[f. 140r\]  
 Venice, a letter to the holy community, may it be saved and protected.  
@@ -230,7 +230,7 @@ And a letter
 
 A reminder that we have relatives in Ashkenaz in the holy community of Bretwald, R. Mordecai son of R. Abraham Philip of blessed memory, \[and\] also in the town of Hellerdorf, R. Aaron son of R. Isaac Philip of blessed eternal memory. 
 
-**Selection 3: A Scholarly Economy**
+### Selection 3: A Scholarly Economy
 
 \[f. 143v\]  
 With a good omen, with the help of heaven, we began to study in the study hall \[*hesger*\] of the elder and distinguished R. Noah son of R. Solomon from the Torah portion of “How goodly are your tents, Jacob” \[*Balak*\]. We did not study for the entire month of Tishrei because the holidays occupied our time.  
