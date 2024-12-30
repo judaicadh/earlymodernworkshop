@@ -46,7 +46,7 @@ bibliography:
     language: "Hebrew"
 ---
 
-**Introduction**
+### Introduction
 
 Joseph Karo’s (1488–1575) legal *oeuvre* marks a transition between the Jewish Middle Ages and early modernity. Of his legal works, two are particularly consequential: the analytic magnum opus *Beit Yosef* (“House of Joseph”), presented in the form of a commentary on Jacob ben Asher’s fourteenth-century lawbook *Arba‘ah Turim* (“Four Rows,” known as “Tur”), and its companion, *Shulhan Arukh* (“Prepared Table”). Karo composed *Beit Yosef* over an approximately twenty-year period (1522–1547, with later revisions), and its four parts were printed in Italy between 1550 and 1559\. *Shulhan Arukh* was first published in Italy in 1565\. In a brief introduction, Karo describes *Shulhan Arukh* as a lawbook that collects *Beit Yosef*’s rulings, presenting them “in a concise manner.” *Shulhan Arukh* is also to serve as a Jewish law *aide mémoire,* the content of which both seasoned scholars and students would come to know by heart through constant monthly study and repetition. While the story of *Shulhan Arukh*’s composition and reception is incomplete without reference to Moses Isserles’s (1530–1572) glosses and their early printing as part of the work (beginning in 1574), this presentation focuses on Karo’s own text. 
 
@@ -335,7 +335,7 @@ And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the 
 וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
 
 
-**Bibliography**
+### Bibliography
 
 Altshuler, Mor. “Rabbi Joseph Karo and Sixteenth-Century Messianic Maimonideanism.” *The Cultures of Maimonideanism: New Approaches to the History of Jewish Thought.* Ed. James T. Robinson. Leiden, 2009\. 191–210.
 
