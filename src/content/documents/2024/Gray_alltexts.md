@@ -109,15 +109,29 @@ And thus did the Rivash[^3] write in a responsum (chapter 101\) that this which 
  
 *Shulhan Arukh Orach Hayyim* 248.4
 
+<div class="rtl">
+
  היוצאים בשיירא במדבר, והכל יודעים שהם צריכים לחלל שבת כי מפני הסכנה לא יוכלו לעכב במדבר בשבת לבדם, ג' ימים קודם שבת אסורים לצאת, וביום ראשון ובשני ובשלישי מותר לצאת, ואם אחר כך יארע לו סכנה ויצטרך לחלל שבת מפני פיקוח נפש, מותר, ואין כאן חילול; **והעולה לארץ ישראל, אם נזדמנה לו שיירא אפילו בערב שבת, כיון דדבר מצוה הוא, יכול לפרוש. . . .** 
+
+<div class="ltr">
 
 *Tur Orach Hayyim* 248
 
+
+<div class="rtl">
+
 אין מפליגין בספינה פחות מג' ימים קודם השבת בד"א לדבר הרשות אבל לדבר מצוה מותר. . . ולענין דבר מצוה פר"ת שכל מקום שאדם הולך כגון לסחורה או לראות פני חבירו חשיב הכל דבר מצוה ואין חשובה דבר הרשות אלא כשהולך לטייל:
+
+<div class="ltr">
 
 *Beit Yosef to Tur Orach Hayyim* 248
 
+
+<div class="rtl">
+
 וכן כתב הריב"ש בתשובה (סי' קא) שזה שכתב רבינו בשם רבינו תם קולא יתירה היא ומכל מקום כתב שלעלות לארץ ישראל הוי שפיר לדבר מצוה. . . 
+
+<div class="ltr">
 
 *Shulhan Arukh Orach Hayyim* 269
 
@@ -127,12 +141,22 @@ They are accustomed to sanctify \[the Sabbath\] in the synagogue.[^4] The one wh
 
 And they are accustomed in all places that the prayer leader sanctifies \[the Sabbath on Friday nights\] in the synagogue. And I am astonished: How has this practice spread?. . . for they only instituted \[the recitation of the Friday night sanctification in the synagogue\] on account of guests. And since there are no \[longer any\] guests \[who eat meals in the  synagogue\], it is appropriate not to sanctify \[the Sabbath there\]. And had I the power I would nullify \[this practice\].  
 *Shulhan Arukh Orach Hayyim* 269  
-   
+
+
+<div class="rtl">
+
 נוהגין לקדש בבהכ"נ, ואין למקדש לטעום מיין הקידוש אלא מטעימו לקטן, דאין קידוש אלא במקום סעודה (וע"ל סי' רע"ג). ומעיקרא לא נתקן אלא בשביל אורחים דאכלי ושתי בבי כנישתא, להוציאם י"ח, ועכשיו אע"ג דלא אכלי אורחים בבי כנישתא לא בטלה התקנה, זהו טעם המקומות שנהגו לקדש בבהכ"נ. **אבל יותר טוב להנהיג שלא לקדש בבהכ"נ, וכן מנהג ארץ ישראל**.
+
+<div class="ltr">
 
 *Tur Orach Hayyim* 269
 
-ונוהגין בכל המקומות שש"ץ מקדש בבה"כ ואני תמה היאך נתפשט זה המנהג. . .שלא תקנו אותו אלא משום אורחין וכיון דליכא אורחין ראוי היה שלא לקדש ואי איישר חילי אבטליניה.  
+
+<div class="rtl">
+
+ונוהגין בכל המקומות שש"ץ מקדש בבה"כ ואני תמה היאך נתפשט זה המנהג. . .שלא תקנו אותו אלא משום אורחין וכיון דליכא אורחין ראוי היה שלא לקדש ואי איישר חילי אבטליניה.
+
+<div class="ltr">
 
 *Shulhan Arukh Orach Hayyim* 306.11
 
@@ -152,19 +176,35 @@ And there is another proof, for we say in the first chapter of \[Babylonian Talm
 
 *Shulhan Arukh Orach Hayyim* 306.11
 
+
+<div class="rtl">
+
  מותר לקנות בית בארץ ישראל מן הא"י, בשבת, וחותם ומעלה בערכאות
+
+<div class="ltr">
 
 *Beit Yosef to Tur Orach Hayyim* 306
 
+
+<div class="rtl">
+
 כתוב בהגהות אשירי פרק ב' דמועד קטן (סי' יח) בשם אור זרוע מותר לקנות בתים מן הגוי בשבת כיצד הוא עושה מראה הוא לו כיסים של דינרין והגוי חותם ומעלה לערכאות עכ"ל **ונראה דבקונה בית בארץ ישראל מיירי** וכדאמרינן בפרק קמא דגיטין (ח:) ובסוף פרק מרובה (ב"ק פ:).
+
+<div class="ltr">
 
 *Hagahot Asheri*, Mo‘ed Katan 2.18
 
+
+<div class="rtl">
+
 **מותר לקנות בתים מן הנכרי בשבת** כיצד הוא עושה מראה הוא לו כיס של דינרים והנכרי חותם ומעלה לערכאות. מא"ז:
-<
+
 <div class="ltr">
 
 *Or Zar‘ua* 2.85
+
+
+<div class="rtl">
 
 ועוד ראיה דאמרי' פ"ק דגיטין דהקונה שדה \[בסוריא כקונה\] בפרוורי ירושלים אומר לעכו"ם וכותב עליו אונו אפי' בשבת דאע"ג דאמירה לעכו"ם שבות **משום ישוב ארץ ישראל ל"ג רבנן**.
 
@@ -186,11 +226,17 @@ And they are accustomed to increase \[the number of\] petitionary prayers in the
 
 *Shulhan Arukh Orach Hayyim* 566.4
 
+
+<div class="rtl">
+
 נוהגים להרבות סליחות בברכת סלח לנו; ויש שאין נוהגים לומר סליחות עד אחר סיום י"ח ברכות, **וכן הנהיגו הקדמונים בא"י והוא המנהג הנכון**.
 
 <div class="ltr">
 
 *Tur Orach Hayyim* 566
+
+
+<div class="rtl">
 
 ונוהגין להרבות סליחות בברכת סלח לנו ופר"י שסומכין על הא דאמרינן (ע"ג ח א) ואם בא לומר בסוף כל ברכה מעין אותה ברכה אומר רק שיתחיל מעין הברכה ואח"כ יכול להאריך בדברי ריצוי ותחנונים כפי רצונו בין יחיד בין רבים והא דאמר רבי יהושע בן לוי שיכול לומר אחר תפילתו אפי' כסדר י"ה לא בא למעט בסוף כל ברכה וברכה אם התחיל מעין הברכה אלא שלאחר התפלה יכול להתחיל ולומר היאך שירצה מה שאין כן בתוך התפלה ויש מקומות שנוהגין לומר סליחות אחר סיום י"ח ברכות וכ"כ רב עמרם שיכולין לומר סליחות בסלח לנו והכי קאמר רב נטרונאי מנהג ב' ישיבות בתענית צבור בשחרית אומרים ז' סליחות ובמנחה ג' ואם יש פנאי אומר ה' וכ"כ רב שר שלום בתענית צבור אין מנהגינו לומר סליחות אחר י"ח ברכות אלא בסלח לנו.
 
@@ -198,7 +244,12 @@ And they are accustomed to increase \[the number of\] petitionary prayers in the
 
 *Beit Yosef to Tur Orach Hayyim* 566
 
+
+<div class="rtl">
+
   ונוהגים להרבות סליחות בברכת סלח לנו ופירש ר"י שסומכין על הא דאמרינן אם בא לומר בסוף כל ברכה מעין אותה ברכה אומר וכו'. והתוספות כתבו בפרק קמא דעבודה זרה (ח. ד"ה אם בא) אהא דאמר רבי יהושע בן לוי אם בא לומר אחר תפילתו כסדר יום הכפורים אומר משמע אבל באמצע תפילתו לא ומה שנוהגים עתה בתעניות להאריך בפסוקי דרחמי ובסליחות בברכת סלח לנו איכא למימר דציבור שאני עכ"ל ונראה שטעמם משום דמשמע להו דהא דאמרינן אם בא לומר בסוף כל ברכה מעין אותה ברכה אומר היינו לומר קצת דברים אבל להאריך כל כך כמו שאנו מאריכים לא:
+
+<div class="ltr">
 
 *Shulhan Arukh Orach Hayyim* 576.11
 
@@ -213,13 +264,21 @@ One prays concerning any trouble, that it not come upon them, except for excessi
 
 *Shulhan Arukh Orach Hayyim* 576.11
 
+
+<div class="rtl">
+
 וכן על המטר. כיצד, הרי שרבו עליהם גשמים עד שיצרו להם, הרי אלו מתפללים עליהם, שאין לך צרה יתירה מזו שהבתים נופלים ונמצא בתיהם קבריהם; **ובארץ ישראל** אין מתפללין על רוב הגשמים, **מפני שהיא ארץ הרים ובתיהם בנוים באבנים ורוב הגשמים טובה להם ואין מתענים להעביר הטובה; ועכשיו בצפת מצוים מפולת בתים מפני הגשמים, ומתפללים עליהם**.
 
 <div class="ltr">
 
 *Tur Orach Hayyim* 577
 
+
+<div class="rtl">
+
 מתפללין על כל צרה שלא תבא עליהם חוץ מעל רוב הגשמים שאין מתפללין על ריבוי הטובה וה"מ בארץ הרים שצריכה לרוב גשמים אבל ארץ מצולה שרוב גשמים קשין לה ולא עוד אלא שמפילין בתים עליהם אין לך צרה גדולה מזו ומתפללין עליהם:
+
+<div class="ltr">
 
  
 *Shulhan Arukh Yor’eh De‘ah* 251.3 (excerpt)
@@ -236,16 +295,31 @@ It was taught in the Sifrei[^19] (see *piska* 63): *your brother* (Deuteronomy 1
  
 *Shulhan Arukh Yor’eh De‘ah* 251.3 (excerpt)
 
+
+<div class="rtl">
+
 ועניי ביתו קודמין לעניי עירו, ועניי עירו קודמין לעניי אחרת **ויושבי ארץ ישראל קודמין ליושבי חוצה לארץ**.
+
+<div class="ltr">
 
 *Tur Yor’eh De‘ah* 251
 
+
+<div class="rtl">
+
 ועניי ביתו קודמין לעניי עירו ועניי עירו קודמין לעניי עיר אחרת.
+
+<div class="ltr">
 
 *Beit Yosef to Tur Yor’eh De‘ah* 251
 
+
+<div class="rtl">
+
  תניא בספרי (ראה פסקא סג) אחיך זה אחיך מאביך מאחד אחיך \[זה אחיך מאמך\] מלמד שאחיך מאביך קודם לאחיך מאמך באחד שעריך אנשי עירך קודם לאנשי עיר אחרת בארצך יושבי ארץ ישראל קודמים ליושבי חוצה לארץ ויושבי חוצה לארץ מנלן תלמוד לומר אשר ה' אלהיך נותן לך לרבות כל מקום ע"כ. וכתבוה סמ"ג (שם רז ע"א) להאי ברייתא והמרדכי בפ"ק דב"ב (סי' תקג):
- 
+
+<div class="ltr">
+
 *Shulhan Arukh Yo’reh De‘ah* 310.3
 
 A non-expert who looked over a firstborn animal which was then slaughtered \[erroneously\] on his say-so, \[the animal\] is buried and \[the non-expert\] compensates \[the owner\] from his own resources. How much should he pay \[as compensation\]? If he is in the land of Israel, he should pay half the value of a large animal and a quarter of the value of a small animal. And outside the land, \[he should pay\] half the value of either a large or small animal. **And today, in which most fields even in the land of Israel are not \[in the possession\] of Jews, it is permitted to raise small cattle even in the land of Israel. Therefore, even in the land of Israel he pays half \[the animal’s\] value \[as compensation\]**.
@@ -256,13 +330,23 @@ A non-expert who looked over a firstborn animal which was then slaughtered \[err
 
 *Shulhan Arukh Yo’reh De‘ah* 310.3
 
+
+<div class="rtl">
+
 מי שאינו מומחה, וראה את הבכור, ונשחט על פיו, יקבר וישלם מביתו. וכמה ישלם, אם הוא בארץ ישראל משלם בגסה חצי דמיו, ובדקה רביע דמיו; ובחוץ לארץ, בין בדקה בין בגסה חצי דמיו. **והאידנא, שאף בא"י אין רוב שדות של ישראל, מותר לגדל בהמה דקה אפילו בארץ ישראל, הילכך אפי' בא"י אף בדקה משלם חצי דמים**.
+
+<div class="ltr">
 
 *Tur Yo’reh De‘ah* 310
 
+
+<div class="rtl">
+
 מי שאינו מומחה ורואה בכור ונשחט על פיו יקבר וישלם וכמה ישלם אם הוא בא"י משלם בגסה חצי דמיו ובדקה רביע דמיו ובח"ל בין בדקה בין בגסה חצי דמיו:
- 
- 
+
+<div class="ltr">
+
+
 **Today, the entire kingdom of the land of Israel, Egypt, and Turkey are not accustomed to be concerned about nuptial gifts**, except in Constantinople, where they are concerned about them. 
 
 *Tur Even Haezer* 45
@@ -271,11 +355,21 @@ One is concerned about nuptial gifts. And Rashi[^22] explained that if \[the pro
  
 *Shulhan Arukh Even Haezer* 45.2
 
+
+<div class="rtl">
+
 **האידנא, נהגו בכל מלכות ארץ ישראל ומצרים ותוגרמא שלא לחוש לסבלונות**, זולתי בקוסטנטינה שחוששין להם.
+
+<div class="ltr">
 
 *Tur Even Haezer* 45
 
+
+<div class="rtl">
+
 חוששין לסבלונות ופירש"י שאם שדכה תחילה ואח"כ שלח לה סבלונות בעדים אנו חוששין שמא שלחם לה לשם קדושין וצריכה גט לפיכך אם רוב העיר רגילים לקדש ואח"כ שולחים סבלונות חוששין שמא לשם קידושין שלחם אבל אם רוב העיר רגילים לשלוח תחילה ואח"כ מקדשין אין חוששין . . . ולפירש"י חוששין הלכך טוב לחוש . . . להחמיר וכן היא מסקנת א"א הרא"ש ז"ל. . . .:
+
+<div class="ltr">
 
 *Shulhan Arukh Even Haezer* 142.1
 
@@ -287,11 +381,19 @@ One who brings a bill of divorce from a province of the sea and the husband made
  
 *Shulhan Arukh Even Haezer* 142.1
 
+
+<div class="rtl">
+
 שליח שהביא גט ממקום למקום בחוצה לארץ, או מארץ ישראל לחוצה לארץ, או מחוצה לארץ לארץ ישראל, אם היה השליח עומד בשעת כתיבת הגט וחתימתו, ה"ז אומר בפני שנים: בפני נכתב ובפני נחתם, ואחר כך יתן לה בפניהם ותתגרש בו; ואע"פ שאין עדיו ידועים אצלנו. . . .ואם בא הבעל ועמד וערער, אין משגיחין בו. . . .וכן שליח שהביא גט בארץ ישראל ואמר: בפני נכתב ובפני נחתם, אף ע"פ שאינו צריך, אם יבא הבעל ויערער, אין משגיחין בו. . . . ומפני מה הצריכו לומר: בפני נכתב ובפני נחתם, בחוצה לארץ, כדי שלא תהיה האשה צריכה לקיימו אם יבא הבעל ויערער, מפני שאין עדים מצויים לקיימו ממקום למקום בחוצה לארץ. **ונ"ל דהאידנא, אפילו בארץ ישראל צריך לומר: בפני נכתב ובפני נחתם**.
 
 *Tur Even Haezer* 142
 
+
+<div class="rtl">
+
 המביא גט ממ"ה והבעל עשאו שליח להוליכו לאשתו צריך שיעמוד על כתיבתו וחתימתו ויאמר בפני נכתב ובפני נחתם אבל מא"י אין צריך וטעמא משום דבחוצה לארץ אין עדים מצויין לקיימו ואם תינשא בו היום או מחר יבא הבעל ויערער ולא תוכל למצוא עדים לקיימו לכך תקנו שלא תתגרש בו עד שיאמר השליח בפני נכתב ובפני נחתם והאמינוהו ואז לא נחוש לערערו של הבעל אבל בא"י שתוכל לקיימו תינשא בו אע"פ שלא אמר בפני נכתב ובפני נחתם. . . ובא"י נמי אם אומר בפני נכתב ובפני נחתם מועיל לדחות ערעורו של בעל אע"פ שלא היה צריך.
+
+<div class="ltr">
 
 
 *Shulhan Arukh Hoshen Mishpat* 30.2
@@ -306,14 +408,27 @@ But if they contradicted each other in \[their responses to\] examinations, thei
  
 *Shulhan Arukh Hoshen Mishpat* 30.2
 
+
+<div class="rtl">
+
+
+<div class="rtl">
+
 אעפ"י שאין עידי דיני ממונות צריכין דרישה וחקירה, אם הכחישו זה את זה בדרישות או בחקירות, עדותן בטלה; ואם הכחישו זה את זה בבדיקות, עדותן קיימת. כיצד, אחד אומר: בניסן לוה ממנו, והשני אומר: לא כי אלא באייר, **או שאמר האחד: בירושלים, והשני אמר: לא כי אלא בלוד**, עדותן בטלה.
 
 *Tur Hoshen Mishpat* 30
 
-ואע"פ שאין צריך דרישה וחקירה אם הכחישו זה את זה בדרישות וחקירות עדותן בטילה: 
+<div class="rtl">
+
+
+<div class="rtl">
+
+ואע"פ שאין צריך דרישה וחקירה אם הכחישו זה את זה בדרישות וחקירות עדותן בטילה:
 
 אבל אם הכחישו זה את זה בבדיקות עדותן קיימת כיצד אחד אמר בניסן לוה הימנו והשני אמר לא כי אלא באייר לוה הימנו או שאמר האחד במקום פלוני והשני אמר לא כי אלא במקום פלוני עדותן בטלה:
 
+
+<div class="ltr">
 
 *Shulhan Arukh Hoshen Mishpat* 409.1 
 
@@ -325,13 +440,21 @@ The sages instituted that people should not raise \[small cattle\] is a place of
  
 *Shulhan Arukh Hoshen Mishpa*t 409.1 
 
+<div class="rtl">
+
 אין מגדלים בהמה דקה בארץ ישראל, מפני שדרכם לרעות בשדות של אחרים והיזקם מצוי; אבל מגדלים בסוריא ובמדברות שבארץ ישראל. **והאידנא, שאין מצוי שיהיו לישראל בארץ ישראל שדות, נראה דשרי**.
+
+<div class="ltr">
 
 *Tur Hoshen Mishpat* 409
 
+<div class="rtl">
+
 מפני שהבהמה דקה דרכה לרעות בשדות אחרות והיזקה מצוי תקנו חכמים שלא יגדלנה האדם במקום שדות וכרמים אלא ביערים ואפילו בבית אסור ואפילו שאינה שלו והחמירו בה כדי להרחיק מההיזק שאסור לאדם שיזיק את חבירו ומיהו עיקר תקנה זו לא נתקנה אלא על ארץ ישראל אלא דקאמר בגמרא שבבל יש לה דין ארץ ישראל לדבר זה וי"א דבכל מנהגי דילן בתר בבל גרירינן ולדידן נמי אסור ונראה דבהא לא גרירינן בתר בבל דטעמא דאסור בבבל לפי שהיו שם רוב שדות ישראל וכיון דהשתא ליתא להאי טעמא שרי:
 
- 
+
+<div class="ltr">
+
 *Shulhan Arukh Orach Hayyim* 601
 
 1 On the second day \[of Rosh Hashanah\]  . . .[^24] and we read from “And God tested Abraham” (Genesis 22:1) until the end of the portion, and the \[reader that\] concludes[^25] reads in the same manner as on the previous day, concluding with Jeremiah (Jeremiah  31:1), “Thus says the Lord, found favor in the desert” through “Is Ephraim not a dear child to me” (Jeremiah 31:20). And on the evening after Rosh Hashanah, we divide[^26] as on the evening after the Sabbath, except that we bless neither over the spices nor the flame.
@@ -353,15 +476,25 @@ And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the 
  
 *Shulhan Arukh Orach Hayyim* 601
 
-א ביום שני וקורים מוהאלהים נסה את אברהם עד סוף סידרא, ומפטיר קורא כמו אתמול ומפטיר בירמיה (ירמיה לא, א) כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים; ובמוצאי ר"ה מבדילין כמו במוצאי שבת, אלא שאין מברכין על הבשמים ועל האש. 
+<div class="rtl">
+
+א ביום שני וקורים מוהאלהים נסה את אברהם עד סוף סידרא, ומפטיר קורא כמו אתמול ומפטיר בירמיה (ירמיה לא, א) כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים; ובמוצאי ר"ה מבדילין כמו במוצאי שבת, אלא שאין מברכין על הבשמים ועל האש.
 
 ב **אף בארץ ישראל עושים ר"ה שני ימים**.
 
+<div class="ltr">
+
 *Tur Orach Hayyi*m 601 
+
+<div class="rtl">
 
 בשני מתפללין ותוקעין כמו בראשון וקורין בפרשת וירא אליו מן והאלהים נסה את אברהם עד סוף סדרא ומפטיר קורא כמו אתמול ומפטיר בירמיה כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים ובמוצאי ר"ה מבדילין כמו במ"ש אלא שאין מברכין על הבשמים ועל האש:
 
+<div class="ltr">
+
 *Beit Yosef to Tur Orach Hayyim* 601
+
+<div class="rtl">
 
 וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
 
