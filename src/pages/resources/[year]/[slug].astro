@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+
 import {
     FacebookShareButton,
 
@@ -47,7 +48,7 @@ if (!document) {
 }
 
 // Destructure the document data
-const { title, description, language, author, tags } = document.data;
+const { title, description, author, tags } = document.data;
 
 // Render the Markdown content
 const { Content } = await render(document);
@@ -85,7 +86,7 @@ const { Content } = await render(document);
                 rft.date=${encodeURIComponent(year || "")}&
                 rft.aulast=${encodeURIComponent(author || "")}&
                 rft_id=${encodeURIComponent(`/resources/${year}/${slug}`)}&
-                rft.language=${encodeURIComponent(language || "en-US")}`}>
+                 `}>
     </span>
     </head>
 
@@ -100,7 +101,7 @@ const { Content } = await render(document);
                     <span>/</span>
                     <a href={`/resources/${year}`} class="text-indigo-600 hover:underline">{year}</a>
                     <span>/</span>
-                    <span class="text-gray-500">{title}</span>
+                    <span class="text-gray-500"></span>
                 </div>
 
                 <!-- Social Share Component -->

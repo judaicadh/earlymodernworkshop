@@ -1,5 +1,5 @@
 ---
-title: "The Representation of the Land of Israel in Joseph Karo’s <em>Shulhan ‘Arukh</em>"
+title: "The Representation of the Land of Israel in Joseph Karo’s *Shulhan ‘Arukh*"
 author: "Alyssa M. Gray, Hebrew Union College-Jewish Institute of Religion"
 volume: 21
 year: "2024"
@@ -46,6 +46,7 @@ bibliography:
     language: "Hebrew"
 ---
 
+## Table of Contents
 ### Introduction
 
 Joseph Karo’s (1488–1575) legal *oeuvre* marks a transition between the Jewish Middle Ages and early modernity. Of his legal works, two are particularly consequential: the analytic magnum opus *Beit Yosef* (“House of Joseph”), presented in the form of a commentary on Jacob ben Asher’s fourteenth-century lawbook *Arba‘ah Turim* (“Four Rows,” known as “Tur”), and its companion, *Shulhan Arukh* (“Prepared Table”). Karo composed *Beit Yosef* over an approximately twenty-year period (1522–1547, with later revisions), and its four parts were printed in Italy between 1550 and 1559\. *Shulhan Arukh* was first published in Italy in 1565\. In a brief introduction, Karo describes *Shulhan Arukh* as a lawbook that collects *Beit Yosef*’s rulings, presenting them “in a concise manner.” *Shulhan Arukh* is also to serve as a Jewish law *aide mémoire,* the content of which both seasoned scholars and students would come to know by heart through constant monthly study and repetition. While the story of *Shulhan Arukh*’s composition and reception is incomplete without reference to Moses Isserles’s (1530–1572) glosses and their early printing as part of the work (beginning in 1574), this presentation focuses on Karo’s own text. 

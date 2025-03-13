@@ -55,6 +55,9 @@ bibliography:
     year: "2023"
     pages: 38-41
 ---
+
+## Table of Contents
+
 ### Introduction
 MS 3541 in the Library of the Jewish Theological Seminary in New York is a complex Hebrew codex from Ottoman Palestine. It contains textual units copied by multiple hands over the course of a century or more: autographs of the sixteenth century Safed kabbalist Elazar Azikri (including the poem *Yedid Nefesh*), Sephardic historical chronicles, Talmudic novellae, and even the signature of Nathan of Gaza, the prophet of Sabbatai Zevi. Another of its sections is the so-called “Pinkas Jerusalem,” a series of records related to the Ashkenazi communities of Safed and Jerusalem. These texts were inscribed across many folios by the Ashkenazi rabbi Jacob Philip between 1611 and 1628 in Safed. Philip also copied other sections of MS 3541, including homilies and eulogies. Mordecai Kosover published a partial transcription of “Pinkas Jerusalem” in *Palestinian Yiddish* (Jerusalem: Rubin Mass, 1966); here, I transcribe and translate selections from “Pinkas Jerusalem” which relate to three major themes of Ashkenazi life in Safed and Jerusalem: financial transactions (Selection 1: Of Cheese and Charity), connections to other Jewish communities (Selection 2: Diasporic Networks), and the maintenance of Torah scholars (Selection 3: A Scholarly Economy).
 
