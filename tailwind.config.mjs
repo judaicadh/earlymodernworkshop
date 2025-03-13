@@ -9,7 +9,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				roboto: ['Roboto', 'sans-serif'], // Your custom font
+				serif: ['Merriweather', 'serif'],
 			},
 			colors: {
 				primary: '#1D4ED8',
