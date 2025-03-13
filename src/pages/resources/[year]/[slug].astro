@@ -104,13 +104,9 @@ const { Content } = await render(document);
                     <span class="text-gray-500"></span>
                 </div>
 
-                <!-- Social Share Component -->
+                 <!-- Social Share Component -->
                 <div class="flex sm:ml-auto">
-                    <SocialShare
-                            buttons={BUTTONS}
-                            description="{description}"
-                            title="{title}"
-                    />
+
                 </div>
             </nav>
             <!-- Page Title -->
@@ -146,17 +142,8 @@ const { Content } = await render(document);
             <article class="prose max-w-none">
                 <Content />
 
-
-
                 <!-- Render Markdown content -->
             </article>
-            <SocialShare
-                    buttons={BUTTONS}
-                    description="{description}"
-                    title="{title}"
-            />
-            <Disqus embed="https://early-modern-workshop.disqus.com/embed.js" />
-
 
         </div>
     </section>
