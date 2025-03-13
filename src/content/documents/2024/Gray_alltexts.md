@@ -1,5 +1,5 @@
 ---
-title: "The Representation of the Land of Israel in Joseph Karo’s *Shulhan ‘Arukh*"
+title: The Representation of the Land of Israel in Joseph Karo’s Shulhan ‘Arukh
 author: "Alyssa M. Gray, Hebrew Union College-Jewish Institute of Religion"
 volume: 21
 year: "2024"

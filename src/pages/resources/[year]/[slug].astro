@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+const {frontmatter} = Astro.props;
 
 import {
     FacebookShareButton,
@@ -92,7 +93,7 @@ const { Content } = await render(document);
 
     <!-- Blog Post Content -->
     <section class="py-24 bg-gray-50">
-        <div class="container mx-auto px-6 lg:px-8">
+        <div class="container   lg:px-8  mx-auto px-4 max-w-prose leading-relaxed text-lg">
             <!-- Breadcrumbs -->
             <nav class="flex flex-wrap items-center justify-between text-sm mb-6" aria-label="Breadcrumb">
                 <!-- Breadcrumb Links -->
@@ -144,7 +145,7 @@ const { Content } = await render(document);
             )}
 
             <!-- Document Content -->
-            <article class="prose max-w-none">
+            <article class="prose">
                 <Content />
 
                 <!-- Render Markdown content -->

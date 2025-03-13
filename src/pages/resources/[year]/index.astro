@@ -1,7 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from "../../../layouts/Layout.astro";
-
+const {frontmatter} = Astro.props;
 const { year } = Astro.params;
 export async function getStaticPaths() {
     const documents = await getCollection('documents');

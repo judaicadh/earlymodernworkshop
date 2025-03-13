@@ -8,6 +8,9 @@ export default {
 
 	theme: {
 		extend: {
+			fontFamily: {
+				roboto: ['Roboto', 'sans-serif'], // Your custom font
+			},
 			colors: {
 				primary: '#1D4ED8',
 				secondary: '#9333EA',
