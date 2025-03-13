@@ -48,7 +48,7 @@ if (!document) {
 }
 
 // Destructure the document data
-const { title, description, author, tags } = document.data;
+const { title, description, author, tags } = document.data;const docFileName = document.id.split('/').pop().replace('.md', '.docx');
 
 // Render the Markdown content
 const { Content } = await render(document);
@@ -107,14 +107,10 @@ const { Content } = await render(document);
                  <!-- Social Share Component -->
                 <div class="flex sm:ml-auto">
 
+                    <a href={`/downloads/${year}/${docFileName}.docx`} download  class="bg-transparent outline-indigo-700 outline-2 outline-solid text-indigo-900 px-6 py-3 rounded-md font-bold underline hover:bg-indigo-700 hover:text-white transition">
+                        <button >Download Document</button>
+                    </a>
 
-                        <a href={`/downloads/${year}/${slug}.docx`} download>
-                            <button>Download as DOCX</button>
-                        </a>
-
-                        <a href={`/downloads/${year}/${slug}.pdf`} download>
-                            <button>Download as PDF</button>
-                        </a>
 
                 </div>
             </nav>
