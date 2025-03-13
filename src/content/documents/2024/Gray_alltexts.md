@@ -46,7 +46,8 @@ bibliography:
     language: "Hebrew"
 ---
 
-## Table of Contents
+<div class="ltr">
+
 ### Introduction
 
 Joseph Karo’s (1488–1575) legal *oeuvre* marks a transition between the Jewish Middle Ages and early modernity. Of his legal works, two are particularly consequential: the analytic magnum opus *Beit Yosef* (“House of Joseph”), presented in the form of a commentary on Jacob ben Asher’s fourteenth-century lawbook *Arba‘ah Turim* (“Four Rows,” known as “Tur”), and its companion, *Shulhan Arukh* (“Prepared Table”). Karo composed *Beit Yosef* over an approximately twenty-year period (1522–1547, with later revisions), and its four parts were printed in Italy between 1550 and 1559\. *Shulhan Arukh* was first published in Italy in 1565\. In a brief introduction, Karo describes *Shulhan Arukh* as a lawbook that collects *Beit Yosef*’s rulings, presenting them “in a concise manner.” *Shulhan Arukh* is also to serve as a Jewish law *aide mémoire,* the content of which both seasoned scholars and students would come to know by heart through constant monthly study and repetition. While the story of *Shulhan Arukh*’s composition and reception is incomplete without reference to Moses Isserles’s (1530–1572) glosses and their early printing as part of the work (beginning in 1574), this presentation focuses on Karo’s own text. 
@@ -67,17 +68,32 @@ And the Tosafists wrote[^1] that this \[principle\] “\[synagogues\] are made o
  
 *Shulhan Arukh Orach Hayyim* 151.11
 
+<div class="rtl">
+
 אם בשעת בנין בהכ"נ התנו עליו להשתמש בו, מותר להשתמש בו בחרבנו; אבל ביישובו, לא מהני תנאי. ואפילו בחרבנו, לתשמיש מגונה, כגון: זריעה וחשבונות של רבים, לא מהני תנאה; **בד"א, בבתי כנסיות שבחוצה לארץ, אבל בבתי כנסיות שבא"י, לא מהני שום תנאי**.
+
+
+<div class="ltr">
 
 *Tur Orach Hayyim* 151
 
+<div class="rtl">
+
 ואם התנו עליו להשתמש בו בשעת בנין מותר להשתמש בו בחורבתו אבל בישובו לא מהני ביה תנאה ואפילו בחורבנו לתשמיש מגונה כגון זריעה וחשבונות של רבים לא מהני תנאה:
+
+
+<div class="ltr">
 
 *Beit Yosef to Tur Orach Hayyim* 151
 
+
+<div class="rtl">
+
 וכתבו התוספות (כח: ד"ה בתי כנסיות) דהא דעל תנאי הן עשויין לא מהני אלא לאותם שבבבל שהרי לעת בוא גואל במהרה בימינו תפקע קדושתם אבל לאותם שבארץ ישראל לא מהני תנאי שהרי קדושתן לעולם קיימת:
 
- 
+
+<div class="ltr">
+
 *Shulhan Arukh Orach Hayyim* 248.4
 
 It is forbidden \[for Jewish travelers\] to depart three days prior to the Sabbath (i.e., Wednesday–Friday) as part of a desert caravan \[led by non-Jews\]. Everyone \[involved\] knows that \[the Jewish travelers\] will need to desecrate the Sabbath because, on account of the danger \[to life entailed by a desert journey\], they will not be able to delay \[their journey and remain\] by themselves in the desert on the Sabbath. They are permitted to depart on Sunday, Monday, and Tuesday, and if thereafter a \[situation of\] danger emerges and \[the traveler\] must desecrate the Sabbath on account of \[the obligation of\] saving life, this is permitted and there \[legally\] is no \[Sabbath\] desecration. **And the one who ascends to the land of Israel, if he chances upon a caravan even on Friday, since this is a matter of \[divine\] commandment, he may depart. . . .**
@@ -145,10 +161,14 @@ And there is another proof, for we say in the first chapter of \[Babylonian Talm
 *Hagahot Asheri*, Mo‘ed Katan 2.18
 
 **מותר לקנות בתים מן הנכרי בשבת** כיצד הוא עושה מראה הוא לו כיס של דינרים והנכרי חותם ומעלה לערכאות. מא"ז:
+<
+<div class="ltr">
 
 *Or Zar‘ua* 2.85
 
 ועוד ראיה דאמרי' פ"ק דגיטין דהקונה שדה \[בסוריא כקונה\] בפרוורי ירושלים אומר לעכו"ם וכותב עליו אונו אפי' בשבת דאע"ג דאמירה לעכו"ם שבות **משום ישוב ארץ ישראל ל"ג רבנן**.
+
+<div class="ltr">
 
 *Shulhan Arukh Orach Hayyim* 566.4
 
@@ -162,13 +182,19 @@ And they are accustomed to increase \[the number of\] penitential prayers in the
 
 And they are accustomed to increase \[the number of\] petitionary prayers in the blessing “Forgive us.” And the Ri explained that they rely on that which we say: “And if he \[wishes\] to \[add petitions\] at the end of each \[petitionary\] blessing \[of the *Amidah*\] reflecting that blessing, he may do so,” etc. And the Tosafists wrote in the first chapter of \[Babylonian Talmud tractate\] Avodah Zarah (8a, s.v. “*im ba*”) that Rabbi Yehoshua ben Levi’s statement that one can say \[petitions\] after his \[*Amidah*\] prayer even like the order of the Yom Kippur \[prayer service\] means what it says, but that \[he may\] not add petitionary prayers in the middle of his \[*Amidah*\] prayer. And \[continue the Tosafists\], one can say that our practice now on fast days to lengthen \[the *Amidah* prayer\] with \[scriptural\] verses of mercy and petitionary prayers in the blessing “Forgive us” is due a community’s being different (i.e., a community is permitted to take liturgical liberties that an individual may not). End quote. And it appears that \[the Tosafists’\] reasoning is that they understand that which we say: “‘And if he wishes to \[add petitions\] at the end of each \[petitionary\] blessing \[of the *Amidah*\] reflecting that blessing, he may do so’ means \[adding\] a few things, but not to go on at length to the extent that we do.
 
+<div class="ltr">
+
 *Shulhan Arukh Orach Hayyim* 566.4
 
 נוהגים להרבות סליחות בברכת סלח לנו; ויש שאין נוהגים לומר סליחות עד אחר סיום י"ח ברכות, **וכן הנהיגו הקדמונים בא"י והוא המנהג הנכון**.
 
+<div class="ltr">
+
 *Tur Orach Hayyim* 566
 
 ונוהגין להרבות סליחות בברכת סלח לנו ופר"י שסומכין על הא דאמרינן (ע"ג ח א) ואם בא לומר בסוף כל ברכה מעין אותה ברכה אומר רק שיתחיל מעין הברכה ואח"כ יכול להאריך בדברי ריצוי ותחנונים כפי רצונו בין יחיד בין רבים והא דאמר רבי יהושע בן לוי שיכול לומר אחר תפילתו אפי' כסדר י"ה לא בא למעט בסוף כל ברכה וברכה אם התחיל מעין הברכה אלא שלאחר התפלה יכול להתחיל ולומר היאך שירצה מה שאין כן בתוך התפלה ויש מקומות שנוהגין לומר סליחות אחר סיום י"ח ברכות וכ"כ רב עמרם שיכולין לומר סליחות בסלח לנו והכי קאמר רב נטרונאי מנהג ב' ישיבות בתענית צבור בשחרית אומרים ז' סליחות ובמנחה ג' ואם יש פנאי אומר ה' וכ"כ רב שר שלום בתענית צבור אין מנהגינו לומר סליחות אחר י"ח ברכות אלא בסלח לנו.
+
+<div class="ltr">
 
 *Beit Yosef to Tur Orach Hayyim* 566
 
@@ -182,10 +208,14 @@ And similarly, over rain. How so? Were the rains to be overwhelming to the point
 
 One prays concerning any trouble, that it not come upon them, except for excessive rain, since one does not pray for \[the cessation of\] an excess of goodness. And this applies to a hilly land that requires much rain. But a sunken land for which excessive rain is a hardship and in which, moreover, it causes house collapses, one prays \[for the rains to stop\] since there is no greater anguish.
 
- 
+
+<div class="ltr">
+
 *Shulhan Arukh Orach Hayyim* 576.11
 
 וכן על המטר. כיצד, הרי שרבו עליהם גשמים עד שיצרו להם, הרי אלו מתפללים עליהם, שאין לך צרה יתירה מזו שהבתים נופלים ונמצא בתיהם קבריהם; **ובארץ ישראל** אין מתפללין על רוב הגשמים, **מפני שהיא ארץ הרים ובתיהם בנוים באבנים ורוב הגשמים טובה להם ואין מתענים להעביר הטובה; ועכשיו בצפת מצוים מפולת בתים מפני הגשמים, ומתפללים עליהם**.
+
+<div class="ltr">
 
 *Tur Orach Hayyim* 577
 
@@ -335,6 +365,7 @@ And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the 
 
 וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
 
+<div class="ltr">
 
 ### Bibliography
 

@@ -107,6 +107,15 @@ const { Content } = await render(document);
                  <!-- Social Share Component -->
                 <div class="flex sm:ml-auto">
 
+
+                        <a href={`/downloads/${year}/${slug}.docx`} download>
+                            <button>Download as DOCX</button>
+                        </a>
+
+                        <a href={`/downloads/${year}/${slug}.pdf`} download>
+                            <button>Download as PDF</button>
+                        </a>
+
                 </div>
             </nav>
             <!-- Page Title -->
