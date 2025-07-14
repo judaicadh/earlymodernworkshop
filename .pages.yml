@@ -70,6 +70,10 @@ content:
         label: Tags
         type: string
         list: true
+      - name: publication_location
+        label: Publication location
+        type: string
+        list: true
       - name: description
         label: Description
         type: text
