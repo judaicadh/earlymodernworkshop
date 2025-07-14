@@ -37,8 +37,7 @@ bibliography:
     title: "*Emissaries from the Land of Israel*"
     year: "1977"
 ---
-
-<div class="ltr">
+<div class="ltr"> 
 
 **Ruth Lamdan**
 
