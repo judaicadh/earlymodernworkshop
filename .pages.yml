@@ -74,10 +74,12 @@ content:
         label: Publication location
         type: string
         list: true
+        required: false
       - name: text_location
         label: Locations mention in text
         type: string
         list: true
+        required: false
       - name: resource_link
         label: url to resource
         type: string
