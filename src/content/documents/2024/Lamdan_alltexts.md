@@ -171,7 +171,7 @@ To you, the holy community, may God watch over you, shalom. We have seen the pov
 
 1. This is a traumatic event for the Jerusalem community. For summaries and additional references see A. Cohen, _The Jewish Community of Jerusalem in the 16th Century_, Jerusalem 1982, pp. 85-93 (Hebrew); A. Cohen and E. Simon-Pikali, _Jews in the Moslem Religious Court (16th Century)_, Jerusalem 1993 , pp. 70-88 (Hebrew); idem, _Jews in the Moslem Religious court (17<sup>th</sup> Century)_, vol. I, Jerusalem 2010, pp. 142-144 (Hebrew); M. Rozen, _The Jewish Community of Jerusalem in the 17<sup>th</sup> Century_, Tel Aviv 1984, pp. 32-33 (Hebrew). [↑](#footnote-ref-1)
 
-2. ישראל נג'ארה, מימי ישראל, ויניציאה שס"ה, קסב ע"ב.. Ottoman pole 1553/5 - 325 households. [↑](#footnote-ref-2)
+2. ישראל נג'ארה, מימי ישראל, ויניציאה שס"ה, קסב ע"ב. Ottoman pole 1553/5 - 325 households. [↑](#footnote-ref-2)
 
 3. Rozen, The Jewish Community, pp. 3-20. On Ibn Farokh period and its consequences see pp. 36-50; _The Ruins of Jerusalem_ (first published in 1631), edited and annotated by M. Rozen, Tel Aviv 1981 (Hebrew). Ottoman pole 1625/6 - 200 households. [↑](#footnote-ref-3)
 
