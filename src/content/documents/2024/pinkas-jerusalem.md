@@ -21,6 +21,13 @@ tags:
   - 17th Century
   - Charitable Networks
   - Kabbalah
+primarysourceinfo: https://makor.primo.exlibrisgroup.com/discovery/delivery/01JTS_INST:01JTS/1271878930007706
+resource_link:
+  - <iframe
+    src="https://uv-v4.netlify.app/uv.html#?manifest=https://makor.primo.exlibrisgroup.com/view/iiif/presentation/01JTS_INST/1256376190007706/manifest?iiifVersion=2&c=0&m=0&cv=0&config=&locales=en-GB:English
+    (GB),cy-GB:Cymraeg,fr-FR:Français
+    (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-1808,-316,8019,6307&r=0" width="560"
+    height="420" allowfullscreen frameborder="0"></iframe>
 description: >
   This study explores the 'Pinkas Jerusalem,' a segment of MS 3541 housed at the
   Jewish Theological Seminary, which provides unique insights into the Ashkenazi
@@ -29,7 +36,6 @@ description: >
   networks, and the maintenance of Torah scholars. This session examines the
   challenges and dynamics of Ashkenazi Jewish life in Ottoman Palestine and
   their interaction with local Jewish and Muslim communities.
-primarysourceinfo: https://makor.primo.exlibrisgroup.com/discovery/delivery/01JTS_INST:01JTS/1271878930007706
 sections:
   - {}
 footnotes:
@@ -56,7 +62,6 @@ bibliography:
     year: "2023"
     pages: 38-41
 ---
-
 <div class="ltr">
 
 ### Introduction
