@@ -29,6 +29,7 @@ const documents = defineCollection({
         primarysourceinfo: z.string().optional(),
         thumbnail: z.string().optional(),
         file: z.string().optional(),
+        publication_location: z.array(z.string()).optional(),
     }),
 });
 
