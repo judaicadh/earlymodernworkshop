@@ -70,6 +70,9 @@ content:
         label: Tags
         type: string
         list: true
+      - name: primarysourceinfo
+        label: Primary Source Information
+        required: false
       - name: publication_location
         label: Publication location
         type: string
