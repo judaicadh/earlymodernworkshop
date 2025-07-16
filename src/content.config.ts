@@ -25,6 +25,8 @@ const documents = defineCollection({
         year: z.string(), // Match year with JSON slug
         slug: z.string(), // Required slug field
         tags: z.array(z.string()).optional(),
+        location: z.string().optional(),
+        primarysourceinfo: z.string().optional(),
         thumbnail: z.string().optional(),
         file: z.string().optional(),
     }),

@@ -29,6 +29,7 @@ description: >
   networks, and the maintenance of Torah scholars. This session examines the
   challenges and dynamics of Ashkenazi Jewish life in Ottoman Palestine and
   their interaction with local Jewish and Muslim communities.
+primarysourceinfo: https://makor.primo.exlibrisgroup.com/discovery/delivery/01JTS_INST:01JTS/1271878930007706
 sections:
   - {}
 footnotes:
