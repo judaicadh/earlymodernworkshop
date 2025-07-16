@@ -68,12 +68,15 @@ content:
         label: Language
         type: string
         list: true
+        required: false
       - name: tags
         label: Tags
         type: string
         list: true
+        required: false
       - name: primarysourceinfo
         label: Primary Source Information
+        type: string
         required: false
       - name: publication_location
         label: Publication location
@@ -89,20 +92,25 @@ content:
         label: url to resource
         type: string
         list: true
+        required: false
       - name: description
         label: Description
         type: text
+        required: false
       - name: sections
         label: Sections
         type: object
         list: true
+        required: false
         fields:
           - name: title
             label: Section Title
             type: string
+            required: false
           - name: content
             label: Section Content
             type: text
+            required: false
       - name: footnotes
         label: Footnotes
         type: object
