@@ -31,9 +31,11 @@ content:
       - name: institution
         label: Institution
         type: string
+        required: false
       - name: volume
         label: Volume
         type: number
+        required: false
       - name: year
         label: Year
         type: string
