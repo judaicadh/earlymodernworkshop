@@ -6,7 +6,20 @@
     "thumbnail": "https://via.placeholder.com/400",
     "slug": "2024"
   },
-
+    {
+    "year": "2023",
+    "title": "Fun, Leisure, and Play",
+    "description": "Key events and resources from the year 2023.",
+    "thumbnail": "https://via.placeholder.com/400",
+    "slug": "2023"
+  },
+    {
+    "year": "2022",
+    "title": "Jewish Mobility Reconsidered: People, Objects, & Information in Motion",
+    "description": "Key events and resources from the year 2022.",
+    "thumbnail": "https://via.placeholder.com/400",
+    "slug": "2022"
+  },
   {
     "year": "2021",
     "title": "Health and Wellbeing in the Jewish Experience",
