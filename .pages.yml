@@ -12,14 +12,14 @@ media:
     - docx
 
 content:
- 
+
 
   - name: documents
     label: Documents
     type: collection
     path: src/content/documents
     format: yaml-frontmatter
-    filename: "{year}-{slug}.md"
+    filename: "{slug}.md"
     fields:
       - name: title
         label: Title
