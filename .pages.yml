@@ -74,6 +74,10 @@ content:
         type: string
         list: true
         required: false
+      - name: source_author
+        label: Source Author
+        type: string
+        required: false
       - name: publication_location
         label: Publication location
         type: string
