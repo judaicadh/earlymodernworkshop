@@ -13,4 +13,6 @@ language:
   - "Hebrew "
 publication_location:
   - Venice
+text_location:
+  - Pisa
 ---
