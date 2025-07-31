@@ -99,7 +99,7 @@ content:
         required: false
       - name: description
         label: Description
-        type: text
+        type: rich-text
         required: false
       - name: sections
         label: Sections
