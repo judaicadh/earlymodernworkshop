@@ -113,7 +113,7 @@ content:
             required: false
           - name: content
             label: Section Content
-            type: text
+            type: rich-text
             required: false
       - name: footnotes
         label: Footnotes
@@ -123,9 +123,9 @@ content:
           - name: ref
             label: Reference
             type: string
-          - name: text
+          - name: rich-text
             label: Text
-            type: text
+            type: rich-text
       - name: bibliography
         label: Bibliography
         type: object
@@ -154,4 +154,4 @@ content:
             type: string
       - name: body
         label: Body
-        type: text 
+        type: rich-text 
