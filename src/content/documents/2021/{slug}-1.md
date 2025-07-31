@@ -39,8 +39,9 @@ description: >
   which was not limited to ‘official’ practitioners or professionals and
   encompassed a much wider spectrum of individuals than has often been assumed.
 ---
-National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370)
-Memorbuch of the Community of Metz
+**National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370)
+Memorbuch of the Community of Metz**
+
 Scan 23: 
 May God remember the soul of the esteemed, pure, pious, upright woman, Marat Mindle Rivkah bat Yaakov ha-Levi, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that all her days she followed a straight and honest path, and she performed kindness with the living and the deceased, and especially with the parturients, and she also visited the sick […] and she fasted each day for eighteen years, and more so, she also spun (thread for) tzitzit for our community almost all her days. [On account of this, her children gave] money to charity. As reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden.
 Deceased on Tuesday, 2 Heshvan 5415 [1654]
