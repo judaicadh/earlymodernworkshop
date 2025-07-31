@@ -1,5 +1,5 @@
 ---
-title: Childbirth and Healthcare in Early Modern Memorbücher
+title: Childbirth and Healthcare in Early Modern *Memorbücher*
 author: Jordan Katz
 institution: University of Massachusetts-Amherst
 volume: 18
@@ -27,6 +27,7 @@ description: >
   their childbirth work as merely one aspect of a larger constellation of
   charitable contributions they made to the community. 
 
+  <br>
 
   Formulaic in nature, individual entries offer little information about the
   mechanics of childbirth as it played out within the Ashkenazic world. But
