@@ -7,8 +7,8 @@ volume: 18
 year: "2021"
 slug: remedy-magical-segulot
 event:
-  name: Health and Wellbeing in the Jewish Experience
-  theme: "Early Modern Workshop: Jewish History Resources"
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Health and Wellbeing in the Jewish Experience
 language:
   - "Hebrew "
   - Yiddish
