@@ -10,4 +10,8 @@ event:
   theme: Health and Wellbeing in the Jewish Experience
 language:
   - "Hebrew "
+publication_location:
+  - Metz (first source)
+  - Frankfurt am Main (second source)
+  - Mainz (third source)
 ---
