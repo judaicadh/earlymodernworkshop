@@ -5,5 +5,4 @@ institution: Brown University
 volume: 2
 year: "2005"
 slug: close-quarters-privacy
-description: "*Hello*"
 ---
