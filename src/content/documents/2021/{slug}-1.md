@@ -11,7 +11,7 @@ event:
 language:
   - "Hebrew "
 publication_location:
-  - Metz (first source)
-  - Frankfurt am Main (second source)
-  - Mainz (third source)
+  - Metz
+  - Frankfurt am Main
+  - Mainz
 ---
