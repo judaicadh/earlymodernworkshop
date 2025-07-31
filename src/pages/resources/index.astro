@@ -20,12 +20,26 @@ const years = yearsData.sort((a, b) => parseInt(b.year) - parseInt(a.year));
             ) : (
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {years.map(year => (
+
                                 <a
                                         href={`/resources/${year.year}`}
                                         class="block p-4 bg-white border rounded-lg shadow-lg hover:shadow-xl transition flex flex-col justify-between"
                                         aria-label={`Resources from ${year.year}`}
                                 >
-                                    <span class="bg-indigo-100 mb-2 self-start text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-indigo-900 dark:text-indigo-300">{year.year}</span>
+                                    <div class="relative">
+                                        {year.thumbnail && (
+                                                <img
+                                                        src={year.thumbnail}
+                                                        alt={year.title}
+                                                        class="w-full h-48 object-cover transition-transform group-hover:scale-105"
+                                                        loading="lazy"
+                                                />
+                                        )}
+                                        <span class="absolute top-2 left-2 bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-indigo-900 dark:text-indigo-300 shadow">
+          {year.year}
+        </span>
+                                    </div>
+
 
                                     <div>
                                         <h3 class="text-2xl font-semibold mb-2">{year.title}</h3>
@@ -38,14 +52,7 @@ const years = yearsData.sort((a, b) => parseInt(b.year) - parseInt(a.year));
                                     >
                                         Resources from {year.year}
                                     </button>
-                                  <!--  {year.thumbnail && (
-                                            <img
-  src={year.thumbnail}
-  alt={year.title}
-  class="rounded-lg"
-  loading="lazy"
-/>
-                                    )}-->
+
                                 </a>
                         ))}
                     </div>
