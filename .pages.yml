@@ -23,7 +23,7 @@ content:
     fields:
       - name: title
         label: Title
-        type: string
+        type: rich-text
         required: true
       - name: author
         label: Author
