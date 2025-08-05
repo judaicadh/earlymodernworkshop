@@ -1,8 +1,5 @@
 ---
-title: |-
-  ```
-  <p>Childbirth and Healthcare in Early Modern *Memorbüch*</p>
-  ```
+title: Childbirth and Healthcare in Early Modern _Memorbüch_
 author: Jordan Katz
 institution: University of Massachusetts-Amherst
 volume: 18
