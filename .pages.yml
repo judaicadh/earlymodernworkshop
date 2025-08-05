@@ -155,3 +155,6 @@ content:
       - name: body
         label: Body
         type: rich-text 
+      - name: original_language_body
+        label: Original Language Body
+        type: rich-text
