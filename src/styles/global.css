@@ -12,3 +12,6 @@
     direction: ltr;
     text-align: left;
 }
+em, i {
+    font-style: italic !important;
+}

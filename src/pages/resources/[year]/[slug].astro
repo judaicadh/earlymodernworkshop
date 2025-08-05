@@ -17,6 +17,7 @@ import Layout from "../../../layouts/Layout.astro";
 import { Schema } from "astro-seo-schema";
 import Comments from "../../../components/Comments.astro";
 import { Disqus } from "astro-disqus";
+import {marked} from "marked";
 // Generate static paths for documents
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
@@ -82,7 +83,7 @@ const { Content } = await render(document);
               title={`ctx_ver=Z39.88-2004&
                 rft_val_fmt=info:ofi/fmt:kev:mtx:journal&
                 rft.genre=article&
-                rft.atitle=${encodeURIComponent(title)}&
+                rft.title=${encodeURIComponent(title)}&
                 rft.description=${encodeURIComponent(description || "")}&
                 rft.date=${encodeURIComponent(year || "")}&
                 rft.aulast=${encodeURIComponent(author || "")}&
@@ -116,7 +117,8 @@ const { Content } = await render(document);
                 </div>
             </nav>
             <!-- Page Title -->
-            <h1 class="text-4xl font-bold mb-6 text-gray-900">{title}</h1>
+            <h1 class="text-4xl font-bold mb-6 text-gray-900" set:html={marked.parseInline(title)} />
+        
 
             <!-- Metadata -->
             {author && (

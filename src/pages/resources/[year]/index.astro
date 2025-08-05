@@ -1,8 +1,11 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
 import Layout from "../../../layouts/Layout.astro";
+import {marked} from "marked";
+
 const {frontmatter} = Astro.props;
 const { year } = Astro.params;
+const { title } = Astro.params;
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
 
@@ -49,9 +52,8 @@ const tags = [...new Set(documents.flatMap((doc) => doc.data.tags || []))];
                                         aria-label={`View document: ${doc.data.title}`}
                                 >
                                     <!-- Card Header -->
-                                    <h2 class="text-2xl font-semibold mb-3 text-gray-800 group-hover:text-indigo-600">
-                                        {doc.data.title}
-                                    </h2>
+                                    <h2 class="text-2xl font-semibold mb-3 text-gray-800 group-hover:text-indigo-600"
+                                        set:html={marked.parseInline(doc.data.title)} />
 
                                     <!-- Description -->
                                     <p class="text-gray-600 mb-4 line-clamp-3">
