@@ -1,5 +1,8 @@
 ---
-title: Childbirth and Healthcare in Early Modern \*Memorbüch\*
+title: |-
+  ```
+  Childbirth and Healthcare in Early Modern *Memorbüch*
+  ```
 author: Jordan Katz
 institution: University of Massachusetts-Amherst
 volume: 18
@@ -48,8 +51,8 @@ Scan 39: May God remember the soul of the dear, upright woman, Marat Malka bat A
 
 Scan 51: May God remember the soul of the dear, esteemed, righteous, upright woman, Marat Breinle bat parnas ha-haver R’ Moshe Yirmiya ha-Levi, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that she acted charitably all her days, whether with her body or her money, to the poor and rich alike, with the living and the dead, men and women, and especially with the parturients, for she would feed and deliver many, many women without midwives, and she would prepare the child like Shiphrah and would make a comforting sound as she would remove the child like Pu’ah. And she was entrusted to collect coins (?) from modest women’s talismans in order to clothe the poor and to revive the population. She stretches out her hand to the poor; she reaches forth her hands to the needy. And she supplied medicine, bandages, and dressings for free to all people, in order to heal their wounds, and she herself healed many individuals near and far, and would visit the sick day and night, and would never derive benefit from any person, and would not eat outside of her home. She practiced self-denial for over 25 years when she would fast each day and did not eat meat or drink wine and did not consume fruit. All her deeds were modest, and at every opportunity she attended synagogue, and her prayers were with great concentration. For all her days, she acted honestly with all people and was modest in all her deeds. Her husband gave charity on her behalf, and as reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Amen. Deceased with a good name on Thursday evening and buried on Friday, Erev Shabbat Kodesh, 10 Heshvan 5448 \[1687\] to the small counting
 
-Scan 88: May God remember the soul of the esteemed, pious woman, Marat Yekht, daughter of the officer, the deceased parnas (?) R’ Eli Maklif, the righteous of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that her home was open to all \[……\] and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births… \[…\] 1709/1710  
-  
+Scan 88: May God remember the soul of the esteemed, pious woman, Marat Yekht, daughter of the officer, the deceased parnas (?) R’ Eli Maklif, the righteous of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that her home was open to all \[……\] and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births… \[…\] 1709/1710
+
 National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370)
 
 _Memorbuch_ of the Community of Metz
@@ -62,8 +65,6 @@ Scan 23:
 
 ונקברת ביום ד׳ ג׳ חשון שלאחריו
 
-  
-
 Scan 35:
 
 <p style="text-align: right">יזכור אלקים נשמת אשה החסידה וחשובה והישרה מרת מיכֿלין בת ישעיה יעקב ז״ל ע״נ אי״ו שרר״ו בעבור שכל ימיה הלכה בדרכי יושר גם השכימה והעריבה לב״ה ותפלתה היה בכוונה גדולה עם הרבה תחינות גם היתה כמה שנים בתענית כל ימי תחנון גם נדבה רוחה ללכת עם בעלה החסיד כהר״ר פייבש חלפֿון ז״ל אלול ת״י לירושלים ע״ה [עיר הקודש] תוב״ב (?) ושמה ירושלים תוב״ב וגם פה ק״ק מיץ היא היתה אם כל חיה ויולדת גחולים לגמול עמהם חסד הן בגופה הן במאורה גם בניה נתנו צדקה בעבורה בשכר זה תהא נשמתה צרורה בצרור החיים ע״ש צדיקים וצקדניות שבג״ע אמן</p><p style="text-align: right">נפטרת ונקברת תוך ירושלים ע״ה</p><p style="text-align: right">כ״ד אלול ת״ל</p>
@@ -72,13 +73,9 @@ Scan 39: 
 
 <p style="text-align: right">יזכור אלקים את נשמת אשה היקרה והישרה מרת מלכה בת אברהם ז״ל משרלויל בעבור שהיתה גומלת חסד עם החיים והמתים <strong>שהיתה מילדת לנשים</strong> ומשפרת את הולד גם עשתה כל ימיה מלבושים לשוכני עפר וסגפה נפשה שנים רבות בתענית ולא היתה נהנתי משום אדם באכילה ושתיה חוץ לביתה כל ימיה היותה על האדמה ונתנה מזור ואספלנית לכל אדם בחנם לרפאות מכותיהם ובקרה כל ימיה חולים ומשכימה ומעריבה תמיד לב״ה וכל ימיה הלכה בתמימות עם כל אדם והיתה צנועה ביותר בכל מעשיה ורבות שארי מידות טובת היתה בה ונפטרת בשם טוב גם נתן בעלה עבורה לצדקה</p><p style="text-align: right">נפטרת והלכה לעולמה יום ה׳ ו׳ למנחם ונקברת יום ו׳ עש״ק ז׳ למנחם שנת תל״ו</p><p style="text-align: right">בעבור זה תהא נשמתה צרורה בצרור החיים עם שצ״ו שבג״ע אמן</p>
 
-  
-
 Scan 51:
 
 <p style="text-align: right">יזכור אלקי׳ את נשמת אשה היקרה והחשובה והצדקת והישרה מרת בריינלה בת הפרנס החבר ר׳ משה ירמיה הלוי ז״ל ע״נ אי״ו שרר״ו בעבור שהיתה גומלת חסד כל ימיה בגופה ובממונה לענים ולעשירים עם החיים והמתים אנשים ונשים ובפרט עם היולד[ו]ת שהיתה מסעדין ומילדין כמה וכמה נשים בלי מילדת ומשפרין את הולד כשפרה והיתה מפיעה את הולד כפועה והיתה נאמנת לגבות (?) פריטות(?) מן סגולות הנשים הצנועות למלבושי עניים ולהחיות עם רב כפה פרשה לעני וידיה שלחה לאביון ונתנה מזור ואספלנות ותחבושת לכל אדם בחינם לרפות את מכותיהן והיא עצמה רפה כמה וכמה קרובים או רחוקים והיתה מבקרות החולים בין ביום בין בלילה ולא היתה נהנה משום אדם ולא אכלה חוץ לביתה וסגפה את עצמה יותר מחמש ועשרים שנה שהיתה יושבת בתענית כל יום ויום ולא אכלה בשר ולא שתה יין ולא אכלה פירות. וכל מעשיה היתה בהצנע והשיכמה והעריבה לב״ה ותפילתה היתה בכוונה גדולה והלכה בתמימות כל ימיה עם כל אדם והיתה צנועה בכל מעשיה וגם נתן בעלה עבורה לצדקה בשכר זה תהא נשמתה צרורה בצרור החיים ע״ש צדיקים וצדקניות שבג״ע אמן נפטרת בשם טוב ליל ה׳ ונקברת ביום ו׳ עש״ק יו״ד חשון שנת מת״ח [תמ״ח] דין עליה לפ״ק</p>
-
-  
 
 Scan 88:
 
