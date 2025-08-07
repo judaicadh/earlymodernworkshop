@@ -1,5 +1,5 @@
 ---
-title: Childbirth and Healthcare in Early Modern __Memorbüch__
+title: Childbirth and Healthcare in Early Modern _Memorbüch_
 author: Jordan Katz
 institution: University of Massachusetts-Amherst
 volume: 18
@@ -115,6 +115,43 @@ original_language_body: >-
   right">[.....]</p><p style="text-align: right"><strong>ורב טוב עשתה בכמה וכמה
   מיני סגול[ו]ת להיולד[ו]ת המקשות לילדת שלא יהי׳ בצער לידתן&nbsp;</strong></p><p
   style="text-align: right">[......]</p><p style="text-align: right">ת״ע</p>
+
+
+  <p style="text-align: right">National Library of Israel, Ms. Heb. 8°1465, f.
+  80</p>
+
+
+  _Memorbuch_ of the Community of Frankfurt am Main
+
+
+  <p style="text-align: right">יזכור אלקי׳ את נשמת האשה חשובה והגבירה החסידה מרת
+  פרומיטלה בת ה״ה כמ״ר מאיר שנאפיר סגל ז״ל עם נשמת אי״ו שרר״ל עבור שהית׳ צנועה
+  והגונה. משכמת ומעריבת לבית התפילה להתפלל אל השוכן מעונה. מלעשות תפילתה בכוונה.
+  ועשתה ג״ח עם החיים והמתים. ומשפרת הילדום [הילדים] שנולדה בהקדש כשפרה וכפועה.
+  ובכל מצוותי׳ נזהרה בכל עת ועונה. רצתה יום ולילה לעשות רצון קונה. ולא הניח שום
+  מצוה גדולה וקטנה. ולעשות רפואות בחנם לעשירים ולענים. גם נתן בעלה סך מה לצדקה
+  כדי שתי׳ נשמתה צרורה בצרור החיים. עם נשמת שארי צדיקי׳ וצדקוניות שבגן עדן
+  אמן.</p><p style="text-align: right">נפטרת בליל ה׳ ונקברת בשם טוב ביום ויו
+  עש״ק חית אלול תקי״ג ל׳ ונקרא בפי כל אדם פרומיטלה אשת יעקב וואהל</p>
+
+
+  <p style="text-align: right">Universitätsbibliothek Mainz, Johannes
+  Gutenberg-Universität Mainz, Jewish Community of Mainz, Mainz Germany, Ms. 16,
+  fol. 1r</p>
+
+
+  Pinkas Hevra Kadisha of the Community of Mainz
+
+
+  <p style="text-align: right">כבר אמר הכתוב והלך לפניך צדקך. צדקה תציל ממות
+  מיתה תנינא, ולפניו יהלך לתור מנוחה בארץ החיים לחזור הפקדון למקומה הראשון לקיים
+  ברוך אתה בבואך וברוך בצאתך, ועל הטוב יזכרה שמה האשה הצנועה וטהורה מרת גיטלה
+  אַפינים אשר היתה כמה שנים כאן מגענצא <strong>פלעגרן אצל קינדבעדרן</strong>
+  כפועה ושפרה שפרה במעשי׳ והעיר ה׳ את רוחה ונשמתה לצוותה קודם שפרחה נשמתה בדעת
+  מיושבת וצלולה, לפקח עלי׳ לאחר יציאת נשמתה ללמוד לזכות נשמתה שיעור משניות שבעת
+  ימי אבילות במנינן לומדים עדה קדושה בעשרה ולהדליק נר תמיד בשבילה שנה ראשונה
+  כנהוג.</p><p style="text-align: right">[......]</p><p style="text-align:
+  right">נפטרת, ושבק לן חיים עש״ק יום שני דחה״מ של פסח תקכ״ג ל׳ במגענצא</p>
 ---
 **National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370) Memorbuch of the Community of Metz**
 
