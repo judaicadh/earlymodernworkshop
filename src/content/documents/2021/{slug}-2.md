@@ -16,18 +16,18 @@ publication_location:
 text_location:
   - Pisa
 description: >-
-  _Zemah David, Dittionario novo Hebraico…Dechiarato in Tre Lingue_ (Venice:
+  _Zemah David, Dittionario novo Hebraico…Dechiarato in Tre Lingu_e (Venice:
   1587)
 
 
   David de’ Pomis (152?–15??) has long been known to Jewish historians for his
   lexicographical work and especially for his articulate defense of the right of
   Jews to practice medicine. More recently, scholars have identified and
-  examined several other of de’ Pomis’ works dealing with biblical exegesis **as
-  well as a defense of Venice**. Here we will focus on his short memoir—a brief
-  account of his family, education, and medical practice that he attached as a
-  preface to his tri-lingual dictionary _Zemah David, Dittionario novo
-  Hebraico…Dechiarato in Tre Lingue_ (Venice: 1587)_._ Our goal is, so to speak,
+  examined several other of de’ Pomis’ works dealing with biblical exegesis as
+  well **as a defense of Venice**. Here we will focus on his short memoir—a
+  brief account of his family, education, and medical practice that he attached
+  as a preface to his tri-lingual dictionary _Zemah David, Dittionario novo
+  Hebraico…Dechiarato in Tre Lingue_ (Venice: 1587). Our goal is, so to speak,
   to read between the lines in order to understand the mechanics of becoming a
   Jewish doctor and the limits on that career at that time in the papal states
   and then in the rest of Italy. Beyond the specific restrictions on Jewish
@@ -36,20 +36,20 @@ description: >-
   contemporary Jewish physicians I hope to uncover a set of structural
   limitations of Jewish medical practice. And finally, we will look at de’
   Pomis’ 1592 letter to Grand Duke Ferdinando I of Tuscany and evaluate his hope
-  for a position at the University in Pisa. 
+  for a position at the University in Pisa.
 
 
   **Suggestions for further reading**:
 
 
   Guido Bartolucci, “_Hebraeus semper fidus._ David de’ Pomis e l’apologia
-  dell’ebraismo tra volgare e latino,” _Umanesimo e cultura ebraica_ _nel
-  Rinascimento italiano,_ ed. Stefano U. Baldassarri and Fabrizio Lelli
+  dell’ebraismo tra volgare e latino,” _Umanesimo e cultura ebraica nel
+  Rinascimento italiano_, ed. Stefano U. Baldassarri and Fabrizio Lelli
   (Florence: Angelo Pontecorboli, 2016), pp. 59–90.
 
 
   Idem, “Venezia nel pensiero politico ebraico rinascimentale: un testo
-  ritrovato di David de Pomis,” _Rinascimento,_ 2nd ser., vol. 44 (Florence:
+  ritrovato di David de Pomis,” _Rinascimento_, 2nd ser., vol. 44 (Florence:
   Olschki, 2005), pp. 225–247.
 
 
@@ -59,12 +59,12 @@ description: >-
 
 
   Bernard Dov Cooperman, “Cultural Pluralism from the Ghetto: What Might It Have
-  Meant?” in _Non contrarii, ma diversi,_ ed. Pierre Savy and Alessandro Guetta
-  (Rome: Viella 2020), pp. 
+  Meant?” in _Non contrarii, ma diversi_, ed. Pierre Savy and Alessandro Guetta
+  (Rome: Viella 2020), pp.
 
 
   Harry Friedenwald, “Apologetic Works of Jewish Physicians,” _The Jewish
-  Quarterly Review,_ n.s., 32 (1942), pp. 227-255 and 407-426.
+  Quarterly Review_, n.s., 32 (1942), pp. 227-255 and 407-426.
 
 
   Alessandro Guetta, “David de Pomi’s Commentary to Ecclesiastes: a Catholic
@@ -72,7 +72,7 @@ description: >-
 
 
   Michela Torbidoni, “Pomis, David ben Isaac de,” _Encyclopedia of Renaissance
-  Philosophy,_ 2017, s.v.
+  Philosophy_, 2017, s.v.
 footnotes:
   - ref: "[^1]"
     rich-text: The year Hebrew year \[5\]287, equivalent to the Christian calendar
