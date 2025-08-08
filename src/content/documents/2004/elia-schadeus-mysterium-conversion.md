@@ -49,6 +49,28 @@ description: >-
   conversion to Christianity. It also documents the desperation felt by Jewish
   converts to Christianity, who had difficulty integrating into both their old
   and new societies.
+footnotes:
+  - ref: "[^1]"
+    rich-text: He required letters testifying that her conversion was complete and
+      thorough.
+  - ref: "[^2]"
+    rich-text: Without the _Burgerrecht_, or right of citizenship, she could not
+      practice a craft within the city.
+  - ref: "[^3]"
+    rich-text: See 2 Chronicles 2:16-17.
+  - ref: "[^4]"
+    rich-text: The endowment of 20 _fl_. which was given to _Stattkinder_ was
+      designed to help them begin working at a craft within the city, subject to
+      the limits imposed by guild regulations. By awarding Susanna with such a
+      stipend, and by allowing her to work and to marry in the city, the
+      magistrates were effectively giving her the same rights that a burgher
+      would have, without requiring her to purchase the _Burgerrecht_. These
+      benefits, in turn, could serve as her dowry, for her husband would be
+      permitted to work. As someone born in Wurtemberg, he would not have had
+      the rights of a burgher without purchasing them from the city.
+  - ref: "[^5]"
+    rich-text: Having brought her to the baptismal font, Schadeus feels responsible
+      for Susanna's wellbeing.
 ---
 Copy of a Supplication to the respectable Magistrates of the City of Strasbourg, \[in the\] year 1591, the third of January, offered on behalf of a baptized Jewess, in order to obtain both her rights as a burgher and her marriage tax. And this is laid out here \[for\] the respectable council to honor, and for others in the same situation, as an example of the following.
 
