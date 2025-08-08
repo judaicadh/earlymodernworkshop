@@ -48,6 +48,10 @@ Hillel Ba’al Shem, Sefer ha-Heshekh, MS Verdnasky National Library of Ukraine,
 
 For difficulty in childbirth or _benemish_, that affects women, God save us, whereby her child is switched during birth, or in the seventh month \[of her pregnancy\], later or earlier. When she is about to give birth, this woman should go to a tree that produces hazelnuts called _egoz luz/ hayzin nislekh_ – and whenever _egoz laz_ (in contrast to _luz_) is mentioned or written in non-Jewish books, this \[usually\] refers to וועלסי נוס (a walnut?), \[but\] _egoz luz_ is written without an _ayin_. She should stand there in front of the tree facing it, after it has produced its fruit. He should then make a hole with a new awl that a blacksmith made solely for this purpose. He should then take her finger and toenails, as well as some hair from the four corners of her head and he should take some string and weave together with a string which he is supposed to use for measuring from the top of her head to her toe. Then he should collect and place the nails, the hair in a white piece of paper and tie it with the string used above and place it in the hollow \[of the tree\]. Then he should make a peg from the wood/bark of the hazel tree and strike the above-mentioned hollow with force, saying: “Just as the wood, hair, nails of one’s hands and feet, cannot get out of the tree, so an evil infirmity, calamity, or injury is forbidden to ever enter and come close.” This recipe is good for a difficult pregnancy, epilepsy, and fever. The infirm is permitted to say this in any language: the holy tongue, the vernacular, or Greek.”
 
+```
+<br>
+```
+
 Hillel Ba’al Shem, _Sefer ha-Heshekh_, MS Verdnasky National Library of Ukraine, OR 178, Fol. 43a-b
 
 Fol. 43a.
