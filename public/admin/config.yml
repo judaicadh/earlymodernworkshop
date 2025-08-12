@@ -1,0 +1,115 @@
+backend:
+  # If deploying on Netlify with Identity + Git Gateway (easiest multi-user)
+  name: git-gateway
+  branch: main
+  # If NOT using Netlify, comment the above and use GitHub backend instead:
+  # name: github
+  # repo: YOUR_USER/YOUR_REPO
+  # branch: main
+
+# Use your existing asset layout
+media_folder: "src/assets"   # files committed here
+public_folder: "/assets"     # how they’re referenced at runtime
+
+publish_mode: editorial_workflow
+slug:
+  encoding: "unicode"
+  clean_accents: true
+
+collections:
+  - name: "documents"
+    label: "Documents"
+    folder: "src/content/documents"
+    create: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{slug}}"
+
+    fields:
+      - { label: "Title", name: "title", widget: "markdown", required: true }   # was rich-text
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Institution", name: "institution", widget: "string", required: false }
+      - { label: "Volume", name: "volume", widget: "number", required: false }
+      - { label: "Year", name: "year", widget: "string", required: true }
+      - { label: "Slug", name: "slug", widget: "string", required: true }
+
+      - label: "Event"
+        name: "event"
+        widget: "object"
+        fields:
+          - { label: "Event Name", name: "name", widget: "string" }
+          - { label: "Theme", name: "theme", widget: "string" }
+          - label: "Date"
+            name: "date"
+            widget: "object"
+            fields:
+              - { label: "Start Date", name: "start", widget: "string" }
+              - { label: "End Date", name: "end", widget: "string" }
+
+      - label: "Language"
+        name: "language"
+        widget: "list"
+        required: false
+        field: { label: "Language", name: "item", widget: "string" }
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: { label: "Tag", name: "item", widget: "string" }
+
+      - { label: "Source Author", name: "source_author", widget: "string", required: false }
+
+      - label: "Publication location"
+        name: "publication_location"
+        widget: "list"
+        required: false
+        field: { label: "Location", name: "item", widget: "string" }
+
+      - label: "Locations mentioned in text"
+        name: "text_location"
+        widget: "list"
+        required: false
+        field: { label: "Location", name: "item", widget: "string" }
+
+      - { label: "Primary Source Information", name: "primarysourceinfo", widget: "string", required: false }
+
+      - label: "URL to resource"
+        name: "resource_link"
+        widget: "list"
+        required: false
+        field: { label: "URL", name: "item", widget: "string" }
+
+      - { label: "Description", name: "description", widget: "markdown", required: false }  # was rich-text
+
+      - label: "Sections"
+        name: "sections"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Section Title", name: "title", widget: "string", required: false }
+          - { label: "Section Content", name: "content", widget: "markdown", required: false }  # was rich-text
+
+      - label: "Footnotes"
+        name: "footnotes"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Reference", name: "ref", widget: "string" }
+          - { label: "Text", name: "text", widget: "markdown" }   # was rich-text
+
+      - label: "Bibliography"
+        name: "bibliography"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Author", name: "author", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publication", name: "publication", widget: "string" }
+          - { label: "Type", name: "type", widget: "string" }
+          - { label: "Institution", name: "institution", widget: "string" }
+          - { label: "Year", name: "year", widget: "string" }
+          - { label: "Pages", name: "pages", widget: "string" }
+
+      - { label: "Body", name: "body", widget: "markdown" }                     # was rich-text
+      - { label: "Original Language Body", name: "original_language_body", widget: "markdown" }  # was rich-text
