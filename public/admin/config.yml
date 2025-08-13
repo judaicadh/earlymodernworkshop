@@ -2,6 +2,7 @@ backend:
   # If deploying on Netlify with Identity + Git Gateway (easiest multi-user)
   name: git-gateway
   branch: main
+site_url: https://earlymodernworkshop.judaicadhpenn.org
   # If NOT using Netlify, comment the above and use GitHub backend instead:
   # name: github
   # repo: YOUR_USER/YOUR_REPO
