@@ -28,10 +28,14 @@ import remarkLint from "remark-lint";
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 
 
+import netlify from '@astrojs/netlify';
+
+
 // https://astro.build/config
 export default defineConfig({
+  // The full URL to your site
+  site: 'https://earlymodernworkshop.judaicadhpenn.org',
 
-  site: 'https://earlymodernworkshop.judaicadhpenn.org', // The full URL to your site
   markdown: {
     remarkPlugins: [
        [ remarkToc, { heading: 'toc', maxDepth: 3 }],
@@ -46,9 +50,11 @@ export default defineConfig({
 
     ]
   },
+
   build: {
     format: "file",
   },
+
   integrations: [
     react(),
     tailwind(),
@@ -60,5 +66,7 @@ export default defineConfig({
     collectionSearch(),
     readingTime(),
     itsmatteomanfpagefind()
-  ]
+  ],
+
+  adapter: netlify()
 });
