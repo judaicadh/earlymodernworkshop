@@ -79,12 +79,12 @@ content:
         type: string
         required: false
       - name: publication_location
-        label: Publication location
+        label: Primary Location
         type: string
         list: true
         required: false
       - name: text_location
-        label: Locations mention in text
+        label: secondary location(s)
         type: string
         list: true
         required: false
@@ -158,3 +158,6 @@ content:
       - name: original_language_body
         label: Original Language Body
         type: rich-text
+      - name: test
+        label: test
+        type: text
