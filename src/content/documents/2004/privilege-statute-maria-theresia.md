@@ -14,6 +14,192 @@ publication_location:
   - Trieste
 text_location:
   - Vienna
+original_language_body: >-
+  ## Il Privilegio di Maria Teresa Maria Theresia, 1771
+
+
+  ## Privilege and Statute of Maria Theresia
+
+
+  Prepared by Lois Dubin, Smith College, USA
+
+
+  ALLEGATO B I. IL PRIVILEGIO DI MARIA TERESA Noi Maria Teresa per la Iddio
+  Grazia Imperatrice de' Romani, Vedova Regina d'Ongaria . . . ecc. ecc. La
+  felicità interna de' Nostri sudditi naturali, essendo sempre stata il
+  principale oggetto delle cure, e operazioni della Nostra Regenza; persuasa
+  Noi, che a tal felicità influisce efficacemente il Commercio esterno, come che
+  alimentando l'industria nazionale, e promovendo la ricchezza de sudditi, li
+  rende più atti al servizio ed alli pesi dello stato . Nell'ulterior
+  considerazione che il commercio esterno de' Nostri stati ereditarj puol
+  esercitarsi, sostenersi, ed ampliarsi più facilmente, e regolarmente per il
+  canale delli nostri porti-franchi di Trieste e Fiume, non abbiamo negletta
+  provvidenza, opera, o spesa, tendente al doppio fine di prosperare il
+  commercio singolarmente in Trieste, e di vantaggiare la condizione de'
+  Negozianti sudditi ed esteri, nel medesimo Porto stabiliti . La nazione ebrea,
+  al commercio, specialmente addeta, invitata con generali Patenti
+  dall'Augustissimo Nostro Genitore e distinta con privati Privilegi delli
+  gloriosissimi Suoi predecessori, eccita li clementissimi par ticolari Nostri
+  riflessi, maggiormente, che, da una parte gli stabilimenti della Nazione
+  medesima in Trieste costituiscano già una formale comunità, e dall'altra parte
+  alcuni suoi Individui aggregati alla Borsa mercantile concorrono con l'opera,
+  e con il consiglio all'incremento del Commercio e Navigazione al vantaggio
+  comune de' negozianti e della piazza. Noi quindi volendo dare alla Communità
+  ebrea di Trieste in generale, alli Negozianti nazionali di Borsa in
+  particolare una solenne dimostrazione del Sovrano nostro aggradimento,
+  all'effetto ancora di ani mare il concorso di quelle famiglie e persone, che
+  con lo stabilimento di nuove ditte mercantili, e coll'esercizio del Commercio
+  all'ingrosso si rendano benemerite della città, e dello stato, e conferiscano
+  al compimento delle sovrane Nostre premure; prese sul proposito le congrue
+  consultive informazioni dell'Intendenza commerciale nel Litorale austriaco, e
+  del Nostro Consiglio aulico di Vienna; in virtù del presente Diploma
+  placidiamo alla mentovata Communità ebrea di Trieste in generale, ed alli
+  Negozianti di Borsa in particolare li seguenti Privilegj :
+
+
+  Accogliamo e prendiamo sotto gli auspicj della singolare Nostra Protezione,
+  Grazia e Clemenza gli Ebrei già stabiliti, o che si stabilissero in Trieste,
+  come pure le loro mogli, e figli, mariti delle loro figlie, nipoti, eredi,
+  parenti, ministri, servi, e tutt'i loro attinenti, con promettergli
+  l'opportuna sicurezza personale.
+
+
+  Accogliamo e prendiamo ugualmente sotto li medesimi auspicj della Sovrana
+  Nostra Clemenza, ed efficace Protezione, gli effetti mercantili e comuni, e li
+  beni mobili ed immobili, che attualmente posseggono, o che successivamente
+  potessero con modi legitimi acquistare li detti Ebrei, e le loro mogli, figli,
+  mariti di figlie, nipoti, ministri, servi e tutti loro attinenti con prometter
+  loro la congrua sicurezza reale. 
+
+
+  Gli conferiamo la facoltà libera liberissima di negoziare per Mare, e per
+  Terra e di piantare in Trieste Fabbriche, e Manifatture senza alcuna
+  difficoltà o impedimento.
+
+
+  Gli concediamo di professare la Religione ebraica, e di esercitare nella loro
+  Sinagoga le funzioni, ceremonie e ritti della medesima Religione, di
+  seppellire i defunti, e insomma di partecipare e godere tutte le Prerogative,
+  e Libertà competenti ad una Nazione, che abbiamo assicurata, e nuovamente
+  assicuriamo della Sovrana Nostra Protezione, senza che possino, nè devino
+  incontrare impedimento o difficoltà nella profes. sione della loro Religione,
+  e nell'esercizio solito delle cerimonie, e senza che devino, nè passino essere
+  forzati a abbracciare un'altra Religione, confermando le precedenti
+  correlative Nostre Resoluzioni . 
+
+
+  Nel commercio d'importazione nelli Nostri Stati austriaci saranno ammessi a
+  quelle convenienze, e beneficj mudali, che sono. e saranno statuiti a
+  riguardo, e a favore di altri Nostri sudditi .
+
+
+  Li negozianti di Borsa, come pure quegl'individui i quali benchè non aggregati
+  alla Borsa, sostenessero il Commercio di Esportazione dei Prodotti di natura,
+  e dell'arte de' Nostri Stati, transitando e permanendo per ragione di
+  Commercio o di privati affari nelli detti Nostri Stati, saranno immuni dalla
+  Gabella personale, nota sotto la voce di Leib-Steuer, vegliante nella Nostra
+  Capitale di Vienna, e in altre Nostre Città. 
+
+
+  Promettiamo, dichiariamo, e vogliamo che agli Ebrei stabiliti e che si
+  stabilissero in Trieste, alle loro mogli, figli, mariti delle figlie,
+  ministri, servi, e parenti sia amministrata la medesima imparziale Giustizia,
+  che gli altri Nostri sudditi incontrano nelle Nostre Leggi e Tribunali .
+
+
+  Promettiamo agli Ebrei già stabiliti, o che si stabilissero in Trieste il
+  libero esercizio dell'arti, fabbriche, e manifatture, e saranno tenuti in
+  ugual condizione personale, reale e mudale con le altre Nazioni, o sia sudditi
+  non tanto nell'opera, vendita, e consumo in Trieste delle dette manifatture,
+  fabbriche ed arti, quanto nell'importazione de' loro prodotti negli stati di
+  Nostro Dominio in Germania, e in Italia.
+
+
+  Dichiariamo, che ne' giorni di Sabato, e in altri giorni festivi ebraici non
+  possino gli Ebrei esser forzati di agire, procedere, rispondere, accettare
+  Cambiali, pagare o riscuotere, nè fare alcuna opera innibita dalla loro Legge,
+  nè in giudizio, nè fuori in cause o materie attive o passive, conseguentemente
+  che non deva agirsi contro loro personalmente nè realmente, salvi sufficienti
+  sospetti o indicij di fuga o di distrazione di effetti, ne' quali casi potrà
+  impetrarsi l'arresto, e sequestri delle persone e effetti ne' giorni ancora
+  festivi ebraici.
+
+
+  Abbiamo placidato e confermiamo agl'Ebrei la grazia di acquistare un campo,
+  nel quale siano inumati i loro defunti, e la Nostra Intendenza Commerciale
+  saprà garantire il detto campo, e sepolcri da ogni oltraggio e insulto.
+
+
+  Confermiamo generalmente e indistintamente a favore degli Ebrei già stabiliti,
+  o che si stabilissero in Trieste le Franchiggie e Prerogative placidategli con
+  le Patenti del Porto franco, e di tutte le posteriori Nostre Sovrane
+  Resoluzioni a favore della medesima Nazione.
+
+
+  E finalmente tutti gli Ebrei indistintamente, e singolarmente i Negozianti
+  nazionali di Borsa già stabiliti, o che si stabilissero in Trieste e quelli
+  particolarmente, che si distinguessero nel Commercio e nell'Esportazione de'
+  Prodotti austriaci, sperimenteranno gli ulteriori benefici, influssi, e li
+  clementissimi Effetti della Sovrana Nostra Protezione, Grazia, e Munificenza.
+
+
+  Data nella Nostra Residenza di Vienna li diciannove del mese d'Aprile
+  dell'Anno mille settecento settanta uno, e de Nostri Regni nel trentesimo
+  primo (1).
+
+
+  MARIA THERESIA (Seguono le altre firme)
+
+
+  ALLEGATOC
+
+
+  LO STATUTO DI MARIA TERESA
+
+
+  Noi Maria Teresa per l'Iddio grazia Imperatrice dei romani, Vedova, Regina
+  d'Ongaria, Boemia, Dalmazia, Croazia, Sclavonia, Galizia, Lodomiria, etc. etc.
+  Arciduchessa d'Austria, Duchessa di Borgogna, Stiria, Ca rintia, e Cragno,
+  Gran Principessa di Transilvania, Margravia di Moravia, Duchessa di Bramante,
+  Limburgo, Lucemburgo, di Gheldria, di Wirtemberga, della Superiore e
+  Inferiore-Silesia, di Milano, Mantova, Parma, Piacenza e Guastalla,
+  d'Auschwitz, e Zattor, Principessa della Suevia, Contessa d'Asburgo, Fiandra,
+  Tirolo, Hennegau, Kiburgo, Gorizia e Gradisca; Margravia del Sacro Romano Imp:
+  di Burgovia, dell'Alta e Bassa Lusazia, Contessa di Namur, Signora della
+  Marca, e di Mechlina etc. Duchessa Vedova di Lorena, e di Baar, Granduchessa
+  di Toscana, etc. etc.
+
+
+  L'ordine e la polizia sono quelle pietre fondamentali, sopra le quali riposa
+  la felicità di Società tutte, di Comunità tutte che vivono insieme in una
+  civile radunanza, e per metterle sopra un piede stabile e fisso nel ceto della
+  nazione Ebraica tolerata nel NOSTRO PORTO FRANCO di Trieste, abbiamo ordinato
+  alla NOSTRA Intendenza di tutto il Litorale, di esaminare le constituzioni e
+  consuetudini correnti fin ad'ora, e di presentare un piano, secondo il quale
+  possa essere accordato, e prescritto alla predetta nazione un normativo sicuro
+  e chiaro, che serva di legislativa scorta, per mantenere nel ghetto un'armonia
+  mai interrotta della nazione, un ordine esemplare privo di qualunque Scandalo,
+  e finalmente una Polizia esatta, senza la quale Società veruna puol chiamarsi
+  per. fetta ; avendo dunque la predetta Intendenza eseguito un tal Nostro
+  Sovrano comandamento, ed avendoci presentato l'abbozzo di tali nazionali
+  legislative ordinanze, che tendono al predetto fine ; NOI tutto bene, e
+  maturamente considerato a Supplichevoli umilissime preci della nazione,
+  abbiamo clementissimamente assentito di ratificarlo a tenore degli arti. coli
+  seguenti.
+
+
+  Articolo Primo. - Dei capi della Comunità degli Ebrei tolerati in Trieste
+  della loro elezione e attività.
+
+
+   I. In un giorno della Settimana, che precederà il primo giorno del mese di
+  Settembre, si eleggeranno dalla Comunità a pluralità di voti tre Capi della
+  medema Comunità e nazione .
+
+
+  (1) Il testo del nostro documento differisce spesso nella forma da quello che
+  di il Kandler. Devo dunque notare che la nostra copia è tratta dall'originale
+  conservato nella Cancelleria della Comunità.
 ---
 ### Introduction to Privilege and Statute of Maria Theresia
 
