@@ -17,6 +17,10 @@ description: In this presentation Boaz Huss of Ben Gurion University discusses
   century, illustrating the popularization of the Zohar, the foundational
   kabbalistic text, in the early modern period.
 ---
+### Introduction to Minhat Yehuda
+
+Boaz Huss, Ben-Gurion University of the Negev, Israel
+
 **Notes:** A commentary on Sefer Ma'rekhet ha-Elohut 
 
 R. Yehuda Hayat, an exiled Kabbalist from Spain, wrote _Minhat Yehuda_, a commentary to the early fourteenth century anonymous _Sefer Ma'arekhet ha-Elohut_, in Mantua, Italy, in the early sixteenth century. In the introduction to his commentary, R. Yehuda Hayat describes the sufferings he endured during his travels from Spain, via North Africa, to Italy, and discusses the importance of studying Kabbalah.
@@ -25,7 +29,13 @@ Hayat, who wrote his commentary at the request of the Sephardic exiles that resi
 
 While R. Yehuda Hayat's recommended list, including the Zohar, reflects the Sephardic Kabbalistic canon of the late fifteenth century, the books that R. Yehuda Hayat warns against represent the forms of Kabbalah which were current in Italy in this period. Hayat's emphatic - and very influential - declarations of the sanctity and authority of the Zohar served to undermine current Italian Kabbalistic trends and enhance the cultural hegemony of the Sephardic exiles.
 
-R. Yehuda Hayat's strong declaration of the sanctity and authority of the Zohar [](http://www.earlymodern.org/workshops/2004/huss/text01/resources.php)was very influential in the sixteenth century. His commentary to _Sefer Marekhet ha-Elohut_ was printed twice, in Ferrara and Mantua, in the same year - and probably as a preparation to - the first printings of the Zohar, in Cremona and Mantua in 1558-1560.
+R. Yehuda Hayat's strong declaration of the sanctity and authority of the Zohar was very influential in the sixteenth century. His commentary to _Sefer Marekhet ha-Elohut_ was printed twice, in Ferrara and Mantua, in the same year - and probably as a preparation to - the first printings of the Zohar, in Cremona and Mantua in 1558-1560.
+
+# Minhat Yehuda
+
+## Yehuda Hayat, 1558
+
+Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel
 
 It is written in Sefer ha-Tikkunim: "\`if along the road, you chance upon a birds nest\` (Deut 22.6). Fledglings: these are Torah Scholars (Talmidei Hachamim), whose merit makes the Divine Presence (Schechina) dwell on earth. Or eggs: these are young students of the Torah (Tinokot shel beit Raban), whose merit makes the Divine Presence dwell with the people of Israel, and they are the masters of the Bible (Ba'alei Mikra). And while they are studying Torah or Commandment, who are the Holy One Blessed be He and the Divine Presence, they unite them as one, and inherit from them souls, that are called Birds. Because the masters of the Bible and the masters of the Mishna are her wings, the mother sits over the fledgling or the on the eggs (ibid). She sits upon them with her four wings. About them it is written four wings (Ezekiel 1.6). Suckling, small countenance - these are four faces each. With these the mother sits upon them, and at time, she ascends from them. Yet, the young (Banim) (Ibid) - from her own womb, on them it is said, sons of love. These are the masters of Kabbalah. On them it is written: do not take the mother together with her young (ibid) - the Divine Presence never forsakes them."\[1\]
 
@@ -33,9 +43,7 @@ From here you can learn that the masters of Kabbalah have ten times the merit of
 
 How happy we are, how great is our portion that we have merited to know Sefer ha-Zohar, which our forefathers (such as R. Hai Gaon, R. Sheshet Gaon, R. Eliezer of Warms, Ramban, Rabad, Rashba and other sages) did not, although their little finger was thicker than our waist! They did not taste its honey, as it wasn't revealed in their time. Do not be perplexed about this, because it surely was not revealed until the last generation, which we live in.
 
-I have found a proof for that in Sefer Ha-Tikkunim: "Elijah said to R. Shimon: Rabbi Rabbi, how great is your merit! From this book of yours (i.e., the Zohar), many supreme beings will find nourishment, until it will be revealed to the lower beings, at the end of days, and through its merit each of you shall return to his holding and each of you shall return to his family
-
-(Leviticus 25.10)".\[2\]
+I have found a proof for that in Sefer Ha-Tikkunim: "Elijah said to R. Shimon: Rabbi Rabbi, how great is your merit! From this book of yours (i.e., the Zohar), many supreme beings will find nourishment, until it will be revealed to the lower beings, at the end of days, and through its merit each of you shall return to his holding and each of you shall return to his family (Leviticus 25.10)".\[2\]
 
 It is explained here, that this book was intended to be hidden, and at that time the supreme beings, i.e., the angels, were to benefit from it, until the last generation, in which it would be revealed to the lower beings. And through the merit of those who learn and study it, the Messaiah will come, for the land shall be filled with knowledge of the Lord through it, and this will be the cause for his coming, as it was written "through its merit each of you shall return to his holding".
 
