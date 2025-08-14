@@ -23,19 +23,12 @@ description: The _Triumpho del Govierno Popular, y de la Antiguedad Holandesa_
   on which God rested. The seven numbered stanzas of the dedicatory poem
   correspond to the seven sections of this introduction.
 original_language_body: >-
-  ## Triumpho del Govierno Popular
-
-
-  ## Y de la Antigudad Holandesa
-
-
-  ## The Triumph of Popular Government
-
-
-  ## Daniel Levi (a.k.a. Miguel) de Barrios, 1683
-
-
-  Prepared by Anne Oravetz Albert, University of Pennsylvania, USA
+  <h2 style="text-align: center">Triumpho del Govierno Popular</h2><h2
+  style="text-align: center">Y de la Antigudad Holandesa</h2><h2
+  style="text-align: center">The Triumph of Popular Government</h2><h2
+  style="text-align: center">Daniel Levi (a.k.a. Miguel) de Barrios, 1683</h2><p
+  style="text-align: center">Prepared by Anne Oravetz Albert, University of
+  Pennsylvania, USA</p>
 
 
   Triumpho del Govierno Popular,
@@ -92,9 +85,9 @@ original_language_body: >-
   los Atlantes del Sacro Firmamento,
 
 
-  \*sustentan su beldad de Kahal, y canto; _\*_Parnasim significa sustenadores.
-  sin que el Nesso que hurtar su honor previene la camisa de Holanda le
-  envenene.
+  \*sustentan su beldad de Kahal, y canto; \_\*\_Parnasim significa
+  sustenadores. sin que el Nesso que hurtar su honor previene la camisa de
+  Holanda le envenene.
 
 
   Del Popular Govierno el triumpho canto,
@@ -453,7 +446,7 @@ original_language_body: >-
 
   Dynastia se llamò de los Pastores,
 
-    
+
   otro entre Babilonios, y Phenizios:
 
 
@@ -558,18 +551,16 @@ original_language_body: >-
   **Archive:** University of Portugal, MS 1280
 
 
-  ### Endnotes
+  <h3 style="text-align: center">Endnotes</h3>
 
 
   \[1\]_Onquel. en Cant. 5._
 ---
-### Introduction to Triumpho del Govierno Popular
-
-Anne Oravetz Albert, University of Pennsylvania, USA
+<h3 style="text-align: center">Introduction to Triumpho del Govierno Popular</h3><p style="text-align: center">Anne Oravetz Albert, University of Pennsylvania, USA</p>
 
 Born a converso in Spain, Daniel Levi (a.k.a. Miguel) de Barrios emigrated to Livorno to convert to Judaism, and after some travels settled in the Sephardic congregation in Amsterdam. He is known to have continued to compose poetry for Catholics with whom he maintained contact in Brussels through the 1660s, and to have been ignited with messianic enthusiasm in the early 1670s. The Triumpho del Govierno Popular, y de la Antiguedad Holandesa describes the political and religious 'government' of the community, and includes accounts of its literary and charitable associations, along with poems, encomia, funeral orations, and other miscellanea from de Barrios' Jewish oeuvre. This excerpt constitutes the opening of the work, part of a 58- page introduction which sets a theme for the rest by relating the exilic governance of the Jewish people to the six days of creation, and the restored monarchy of the messianic age to the seventh day, on which God rested. The seven numbered stanzas of the dedicatory poem correspond to the seven sections of this introduction. Although the subject of the governance of contemporary Jewish society is unusual for early modern Jewish writings, the work is representative in some ways. It shows the remarkable association with Spanish literary and political culture among the converso-descended Sephardim of Amsterdam, it describes a fairly typical communal organization, and it tells us about the flourishing of literary 'academies' among some elite Jews. The interest in contemporary Jewish life as an object of exposition and analysis could also be seen as characteristic of the period, similar to Leone Modena's Historia de' riti hebraici, but concerned with cultural and political matters rather than with specifically religious practices.
 
-Further Readings
+<p style="text-align: center"><strong>Further Readings</strong></p>
 
 Bodian, Miriam. "Biblical Hebrews and the Rhetoric of Republicanism: Seventeenth-Century Portuguese Jews on the Jewish Community." AJS Review 22, no. 2 (1997): 199-221. Kaplan, Yosef. From Christianity to Judaism: The Story of Isaac Orobio De Castro. Translated by Raphael Loewe. New York: Littman Library, 1989.
 
@@ -585,13 +576,7 @@ Scholberg, Kenneth. La Poesía Religiosa De Miguel De Barrios. Columbus: Ohio St
 
 Wilke, Carsten Lorenz. "La Trompette Du Jugement De Miguel De Barrios: Essai De Déchiffrement"." In _Mémorial I.S. Révah_, edited by Henry Méchoulan and Gérard Nahon, 515- 27. Paris, Louvain: E. Peeters, 2001.
 
-## The Triumph of Popular Government
-
-## And of Dutch Antiquity
-
-## Triumpho del Govierno Popular
-
-## Daniel Levi (a.k.a. Miguel) de Barrios, 1683
+<h2 style="text-align: center">The Triumph of Popular Government</h2><h2 style="text-align: center">And of Dutch Antiquity</h2><h2 style="text-align: center">Triumpho del Govierno Popular</h2><h2 style="text-align: center">Daniel Levi (a.k.a. Miguel) de Barrios, 1683</h2>
 
 Translated by Anne Oravetz Albert, University of Pennsylvania, USA
 
@@ -723,7 +708,7 @@ This world is a game of tricks
 
 that only he who steals can win, and rule.
 
-With the sword of this example I defeat those who affirm majestic rule to be better than noble or popular for the conservation of the people, because rare is the royal that puts the benefit of his vassals before his own, and rare are the vassals who serve God more than the king, because most, caught in the spell of the world, only try to win the grace of the king; and the few who do procure the grace of God are not agreeable enough in the eyes of the vain, like those who are cheered by the lively vanities of pompous accoutrements. Thus I determine that a monarchy unlike that of Moses, with fear of God, deserves the name of tyranny, and that Moses, being so just, did not believe himself capable of ascending the Israelite throne, nor of taking the divine embassy, when he said to the supreme king: _Send for whomever you will send_.\[3\]  
+With the sword of this example I defeat those who affirm majestic rule to be better than noble or popular for the conservation of the people, because rare is the royal that puts the benefit of his vassals before his own, and rare are the vassals who serve God more than the king, because most, caught in the spell of the world, only try to win the grace of the king; and the few who do procure the grace of God are not agreeable enough in the eyes of the vain, like those who are cheered by the lively vanities of pompous accoutrements. Thus I determine that a monarchy unlike that of Moses, with fear of God, deserves the name of tyranny, and that Moses, being so just, did not believe himself capable of ascending the Israelite throne, nor of taking the divine embassy, when he said to the supreme king: _Send for whomever you will send_.\[3\]
 
 Jerome, Sixtus of Sienna, and Francisco Vales, write that the dreamed statue represents the four monarchies, Babylonia, Persia or Media, Greece, and Rome. Better, they say it is the four general tyrannies, shown in four different metals: either for the coins that take foreign arms, or for the arms that take foreign coins. People imitate those showoffs when the wheels of fortune make them pompous with the vanity of seeing their colorful adornment; and when they are undone by the horror of seeing their feet of clay.
 
@@ -735,7 +720,7 @@ Solon advises: Learn first to be governed, when you ambition to govern, because 
 
 Therefore the popular government is better than the noble, if the noble than the kingly: because the popular, with reciprocal equality, maintains itself without the necessity of the noble, nor of the royalty, as the royalty and the nobility require the plebe that chooses the judges.
 
-I   _Democracy_ means popula_r_ dominion in Greek; _monarchy_ government of one; and _aristocracy_ designates that of the noble betters.
+I   _Democracy_ means popula\_r\_ dominion in Greek; _monarchy_ government of one; and _aristocracy_ designates that of the noble betters.
 
 \[Glosses III and IV deal mainly with an elaborate history of Jewish monarchies.\]
 
@@ -753,7 +738,7 @@ All the attributes of the Lord are included in four: the first is _physician_, b
 
 My son Simon Levi Caniso declared the same in the _Masquil Eldad_ Yeshiva, in the following manner.
 
- \[A short, repetitive paragraph follows.\]  
+ \[A short, repetitive paragraph follows.\]
 
 §. IV.
 
@@ -775,7 +760,7 @@ Or Parnassim, with such facades
 
 In various temples among various peoples
 
-That in them God has his luminaries.  
+That in them God has his luminaries.
 
 The infinite mercy also came to the Mosaic popular governments among the Babylonians, and among the Phoenicians, by the concert that they had with the three holy Patriarchs Abraham,
 
@@ -787,11 +772,11 @@ The Doctor Isaac Cardoso, in the First Excellence of the Hebrews, folio 16, writ
 
 According to the affirmation of Josephus book 1 chapter 5, the Hebrews or Israelites began to call themselves Jews for the Tribe of Judah which had seniority since those of the proper Tribe of Judah returned from the Babylonian captivity, along with those of Benjamin, and the fragments of the other tribes that had mixed with them. Chapter 2 of Esther tells us this, as it calls Mordechai, being Benjaminite, a _Jewish man_: and Chronicles book 2 chapter 30 number 25 affirms that many of those of Israel will unite with those of Judah in the time of the King Hezekiah. Achior tells this to Holofernes in chapter 5 of Judith: _Now they have returned to their God, and have come back from the places where they were scattered, and settled in the mountains, and returned to occupy Jerusalem_.\[14\]
 
-Those Israelites or Jews who do not rebuild the second temple will not lose their democratic government, giving clear light of the eternal divinity among the nations with observable demonstrations, as the prophet Micah announced in chapter 1 number 11: _For from the rising of the sun even unto the going down of the same My name is great among the nations; and in every place offerings are presented unto My name, even pure .oblations; for My name is great among the nations, saith the Lor_d _of hosts_.\[15\] Menasseh ben Israel in book 2 of _Conciliador_, Jeremiah question 4, declared: _In all the places where Israel lives, they know the holiness of the law, as the Real Prophet said in Psalm 72 verse 2_. In Judah is God known; His name is great in Israel;\[16\] _and according to Hebrew grammar the letter_ \[ \[17\]\] Bet _which is translated as_ In _denotes place: and this signifies that in all places where Israelites reside, the Blessed God is known by half of them._ David does not say that in Judah, but that in Israel great is the name of the creator: and Israel, being the first to be captive among the nations, began to publish among them the divine greatness as he said: _Great is my name among the Nations_.\[18\] Only the Mosaic people can testify among the nations that they have the true knowledge of the supreme archetype, who in chapter 43 of Isaiah twice calls them _his witnesses_:\[19\]and in another place _Light of the nations_.\[20\]
+Those Israelites or Jews who do not rebuild the second temple will not lose their democratic government, giving clear light of the eternal divinity among the nations with observable demonstrations, as the prophet Micah announced in chapter 1 number 11: \_For from the rising of the sun even unto the going down of the same My name is great among the nations; and in every place offerings are presented unto My name, even pure .oblations; for My name is great among the nations, saith the Lor\_d _of hosts_.\[15\] Menasseh ben Israel in book 2 of _Conciliador_, Jeremiah question 4, declared: _In all the places where Israel lives, they know the holiness of the law, as the Real Prophet said in Psalm 72 verse 2_. In Judah is God known; His name is great in Israel;\[16\] _and according to Hebrew grammar the letter_ \[ \[17\]\] Bet _which is translated as_ In _denotes place: and this signifies that in all places where Israelites reside, the Blessed God is known by half of them._ David does not say that in Judah, but that in Israel great is the name of the creator: and Israel, being the first to be captive among the nations, began to publish among them the divine greatness as he said: _Great is my name among the Nations_.\[18\] Only the Mosaic people can testify among the nations that they have the true knowledge of the supreme archetype, who in chapter 43 of Isaiah twice calls them _his witnesses_:\[19\]and in another place _Light of the nations_.\[20\]
 
 Chapter 9 of Esther number 30 shows that in all 127 provinces of King Ahasueras there were Jews, and in all of them half had the divine knowledge,\[21\] with which Darius, because of the miracle done for Daniel in the lions' den, announces to all those of his empire, that they should love the God of Israel, because he is a living God, and permanent from eternity, and his reign incorruptible, and his dominion without end.
 
-### Endnotes
+<h3 style="text-align: center">Endnotes</h3>
 
 \[1\] The meaning is not entirely clear. Nessus is the third named centaur in Greek mythology,EMW2004 a symbol of incivility and the wild side of human nature. He is said to have tried to steal Deianira, the betrothed of Hercules, just before their wedding. Hercules shot him with a poisoned arrow during the attempt, and before he died Nessus gave Deianira a garment soaked with his blood. He told her to take it to Hercules, since it would preserve Hercules' love for her, but actually it poisoned Hercules when he put it on.
 
