@@ -1,13 +1,10 @@
 // netlify/functions/oauth/oauth.mjs
 // GitHub OAuth proxy for Decap CMS (ESM)
 
-const {
-  GITHUB_CLIENT_ID,
-  GITHUB_CLIENT_SECRET,
-  OAUTH_REDIRECT_URI,
-  GITHUB_SCOPES = 'public_repo', // use 'repo' if your repo is private
-} = process.env;
 
+const { GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET, OAUTH_REDIRECT_URI } = process.env;
+// Hardcode the scope (not a secret)
+const GITHUB_SCOPES = 'public_repo';
 function htmlPopup(body) {
   return `<!doctype html><meta charset="utf-8">
 <script>
