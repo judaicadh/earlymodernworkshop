@@ -250,3 +250,47 @@ Those Israelites or Jews who do not rebuild the second temple will not lose thei
 Chapter 9 of Esther number 30 shows that in all 127 provinces of King Ahasueras there were Jews, and in all of them half had the divine knowledge,\[21\] with which Darius, because of the miracle done for Daniel in the lions' den, announces to all those of his empire, that they should love the God of Israel, because he is a living God, and permanent from eternity, and his reign incorruptible, and his dominion without end.
 
 ### Endnotes
+
+\[1\] The meaning is not entirely clear. Nessus is the third named centaur in Greek mythology,EMW2004 a symbol of incivility and the wild side of human nature. He is said to have tried to steal Deianira, the betrothed of Hercules, just before their wedding. Hercules shot him with a poisoned arrow during the attempt, and before he died Nessus gave Deianira a garment soaked with his blood. He told her to take it to Hercules, since it would preserve Hercules' love for her, but actually it poisoned Hercules when he put it on.
+
+\[2\] Rhadamanthus was one of three judges of souls in the underworld, known for his stern and unbendable virtue.
+
+\[3\] Exodus 4:13, usually translated as "send someone else" (NRSV) or "make someone else Your agent" (JPS), but de Barrios gives a more literal translation. 
+
+\[4\] Numbers 11:16
+
+\[5\]Isaiah 1:26
+
+\[6\] Text reads _domicilio_, abode, instead of _dominio_, rule, seemingly in error.
+
+\[7\]Ezekiel 37:6
+
+\[8\]_Onquel. en Cant. 5._ 
+
+\[9\] De Barrios seems to refer to the resuscitation of the child of the Shunemite widow, and of the dead man who touched Elisha's funeral bier. 
+
+\[10\] The quote is from Obadiah 1:19 (JPS), but where de Barrios has "France" the Hebrew has "Zarphat," and where he has "Austria" the Hebrew has "the Negev." It is not yet clear whether this is de Barrios' innovation, or that of his source.
+
+\[11\]Leviticus 26:44
+
+ \[12\] see Menachot 110a
+
+\[13\] These lines are also found in Josephus' _Antiquities of the Jews_ Book 14 Chapter 7, where they are attributed to Strabo. Similarly the last lines of this paragraph (ending with "a republic of their own") are included in the same chapter of Josephus.
+
+\[14\] Philo, _On the Embassy to Gaius_, chapter 36 lines 281-2
+
+\[15\] Similar to Judith 5:17
+
+\[16\] Malachi (not Micah) 1:11
+
+\[17\]Psalm 76:2 (not 72:2)
+
+\[18\] A Hebrew letter is inserted here, which looks more like a Kaf than a Bet.
+
+\[19\] Malachi 1:11
+
+\[20\] Isaiah 43:10
+
+\[21\] Isaiah 49:6
+
+\[22\] Esther 9:30 confirms the presence of Jews in all 127 provinces, but does not mention what portion of them have divine knowledge.
