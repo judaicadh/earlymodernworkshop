@@ -19,6 +19,12 @@ description: Using Benjamin Slonik's _Seder mitsvot ha-nashim_ (1577), Edward
 footnotes:
   - {}
 original_language_body: >-
+  <h2 style="text-align: center">Seder Mitzvot Nashim</h2><h2 style="text-align:
+  center">The Order of Women's Commandments</h2><h2 style="text-align:
+  center">Benjamin Slonik, 1577</h2><p style="text-align: center">Prepared by
+  Edward Fram, Ben-Gurion University, Israel</p>
+
+
   <p style="text-align: right">[דף ב ע"א]גוטדען וועלין מיר לובן. ווען ער איז
   לובן ווערט. ער איז גיוועלטיג אונטן</p><p style="text-align: right">אונ‘ אובן.
   אונ‘ ער אלי בישעפֿנש דער נערט. דרום האבין מיר איין</p><p style="text-align:
@@ -208,19 +214,11 @@ original_language_body: >-
 
   Endnotes: First end note\[1\] Subsequent end notes\[2\]
 ---
-**Introduction to Seder Mitzvot Nashim**
-
-Edward Fram, Ben-Gurion University, Israel
+<p style="text-align: center"><strong>Introduction to Seder Mitzvot Nashim</strong></p><p style="text-align: center">Edward Fram, Ben-Gurion University, Israel</p>
 
 The advent of print in the mid-fifteenth century brought with it a major cultural change from the period of manuscripts. The printing press could make multiple copies of any given work available in a relatively short period of time and at a cheaper price than a scribe could ever have done. Jews quickly learned the importance of this new technology and by the late fifteenth-century, many classic works of Jewish scholarship, including the Hebrew Bible and portions of the Babylonian Talmud with commentaries, had been published. However, it was only when printing was combined with the vernacular that full possibilities of the press were realized. The Seder mizvot nashim, or The Order of Women's Commandments, was an early attempt to use printing and the vernacular to educate Jewish women about their religious obligations, particularly the three commandments that from at least mishnaic times had been specifically connected to women: (1) the taking of a piece of dough before baking bread and some types of cakes (hallah; see (2) the lighting of lights on the eve of the Sabbath and festivals, and (3) observing the various rules of ritual purity during and after periods of uterine bleeding. Written in Yiddish by Rabbi Benjamin Slonik and first published in Cracow in 1577, the book tried not only to teach the law to women but to convince them of the importance of proper observance. As such it was both a law book and a homiletical work of sorts. A comparison with legal works published during the period, such as Rabbi Jacob ben Asher's Four Columns (Araba\`ah Turim) and Rabbi Joseph Caro's Shulhan\`aruk, highlights some of the differences in approach between legal codes written for rabbis and students of Jewish law and a text that expected no specialized knowledge of its readers.
 
-# The Order of Women's Commandments
-
-## Seder Mitzvot Nashim
-
-## Benjamin Slonik, 1577
-
-Translated by Edward Fram, Ben-Gurion University, Israel
+<h1 style="text-align: center">The Order of Women's Commandments</h1><h2 style="text-align: center">Seder Mitzvot Nashim</h2><h2 style="text-align: center">Benjamin Slonik, 1577</h2><p style="text-align: center">Translated by Edward Fram, Ben-Gurion University, Israel</p>
 
 \[2a\] \[1\] We shall praise God for he is worthy of praise. He rules above and below. He nourishes all creatures. It is for this reason that we wanted to write a lovely booklet for women, for the betterment of the body and the adornment of the soul - unlike songs and tales. Rather, containing only God fearing things so that everyone should know what to observe and what to avoid; what she must do and what she may not do.
 
@@ -258,7 +256,7 @@ Section 3
 
 Women are charged with fulfilling this command more than men because women are generally found around the house and they deal with domestic matters. If one does not have sufficient funds to purchase both the Sabbath lights and wine for Kiddush, the Sabbath lights take precedent. And so too, if one does not have sufficient funds to buy both Sabbath lights and Hanukkah lights, the Sabbath lights take precedent because of the happiness that they cause for there can be no happiness without light.
 
-### Endnotes
+<h3 style="text-align: center">Endnotes</h3>
 
 \[1\]A mostly Latin character transcription of much of the introduction based on the 1602 (Basel) edition appears in Max Grunbaum, Judischdeutsche Chrestomathie, reprint, 1882 (Hildesheim: Georg Olms, 1969), 266-9.
 
