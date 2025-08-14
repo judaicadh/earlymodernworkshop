@@ -9,10 +9,15 @@ const YEARS = [
 ].sort((a, b) => b - a);
 
 const schema = {
-
+    title: fields.markdoc({ label: 'Title' }),
+    description: fields.markdoc({ label: 'Description' }),
+    author: fields.text({ label: 'Author' }),
     year: fields.text({ label: 'Year', validation: { isRequired: true } }),
-    title: fields.text({ label: 'Title', validation: { isRequired: true } }),
-    description: fields.markdoc({ label: 'Description', validation: { isRequired: true } }),
+    volume: fields.integer({ label: 'Volume' }),
+    slug:fields.slug({ name: 'Slug' }),
+
+    source_author: fields.text({ label: 'Source Author' }),
+
     original_language_body: fields.array(
         fields.text({ label: 'Original Language' }),
         // Labelling options
@@ -21,35 +26,35 @@ const schema = {
             itemLabel: props => props.value
         }
     ),
-    bibliography: fields.object({
-        title: fields.text({ label: 'Title' }),
-        author: fields.text({ label: 'Author' }),
-        publication: fields.text({ label: 'Publication' }),
-        type: fields.text({ label: 'Type' }),
-        institution: fields.text({ label: 'Institution' }),
-        year: fields.text({ label: 'Publication Year' }),
-        pages: fields.text({ label: 'Pages' }),
-    }),
+
     resource_link: fields.array(
-        fields.url({ label: 'Resource Link' }),
+        fields.url({ label: 'Resource Link(s)' }),
         // Labelling options
         {
-            label: 'Resource Link',
+            label: 'Resource Link (s)',
         }
     ),
     publication_location: fields.array(
-        fields.text({ label: 'Primary Location' }),
+        fields.text({ label: 'Primary Location(s)' }),
         // Labelling options
         {
-            label: 'Primary Location',
+            label: 'Primary Location(s)',
+            itemLabel: props => props.value
+        }
+    ),
+    text_location: fields.array(
+        fields.text({ label: 'Secondary Location(s)' }),
+        // Labelling options
+        {
+            label: 'Secondary Location(s)',
             itemLabel: props => props.value
         }
     ),
     language: fields.array(
-        fields.text({ label: 'Language' }),
+        fields.text({ label: 'Language(s)' }),
         // Labelling options
         {
-            label: 'Language',
+            label: 'Language(s)',
             itemLabel: props => props.value
         }
     ),
@@ -58,29 +63,32 @@ const schema = {
         fields.text({ label: 'Tag' }),
         // Labelling options
         {
-            label: 'Tag',
+            label: 'Tag(s)',
             itemLabel: props => props.value
         }
     ),
 
-    institution: fields.text({ label: 'Institution', validation: { isRequired: true } }),
+    institution: fields.text({ label: 'Institution' }),
     event: fields.object({
         name: fields.text({label: 'Event Name'}),
-        theme: fields.text({label: 'Theme', validation: {isRequired: true}}),
+        theme: fields.text({label: 'Theme'}),
         Date: fields.object({
-            start: fields.date({label: 'Start Date', validation: {isRequired: true}}),
-            end: fields.date({label: 'End Date', validation: {isRequired: true}}),
+            start: fields.date({label: 'Start Date'}),
+            end: fields.date({label: 'End Date'}),
         }),
     }),
-
-    volume: fields.integer({ label: 'Volume', validation: { isRequired: true } }),
-    author: fields.text({ label: 'Author', validation: { isRequired: true } }),
-    slug: fields.text({
-        label: 'Slug',
-        validation: { isRequired: true },
-        description: 'Filename without extension (e.g. my-post-title)',
+    bibliography: fields.object({
+        title: fields.text({ label: 'Title' }),
+        author: fields.text({ label: 'Author' }),
+        publication: fields.text({ label: 'Publication' }),
+        type: fields.text({ label: 'Type' }),
+        institution: fields.text({ label: 'Institution' }),
+        year: fields.text({ label: 'Publication Year' }),
+        pages: fields.text({ label: 'Pages' }),
 
     }),
+    primarysourceinfo: fields.markdoc({ label: 'Primary Source Info' }),
+
     content: fields.markdoc({ label: 'Content', extension: 'md' }),
 };
 
