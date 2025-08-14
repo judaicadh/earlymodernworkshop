@@ -158,3 +158,6 @@ content:
       - name: original_language_body
         label: Original Language Body
         type: rich-text
+      - name: test
+        label: test
+        type: text
