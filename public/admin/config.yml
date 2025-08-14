@@ -2,8 +2,6 @@ backend:
   name: github
   repo: judaicadh/earlymodernworkshop
   branch: main
-
-  # IMPORTANT: point to your own site (the integration exposes /oauth here)
   base_url: https://earlymodernworkshop.judaicadhpenn.org
   auth_endpoint: oauth
 
@@ -20,15 +18,26 @@ collections:
     extension: "md"
     format: "frontmatter"
 
-    slug: "{{slug}}"
-    path: "{{fields.year}}/{{slug}}"      # write into documents/<year>/<slug>.md
-    summary: "{{fields.year}} — {{title}}" # how each item appears in the list
+    # Show folders by year: documents/<year>/<file>.md
+    nested:
+      depth: 2
+      summary: "{{title}}"
 
-    sortable_fields: ["commit_date", "year", "title"]
-    view_groups:                           # optional: group the list by year
-      - { label: "Year", field: "year" }
+    slug: "{{slug}}"
+    path: "{{fields.year}}/{{slug}}"
 
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "Year",  name: "year",  widget: "number", required: true }
+      - { label: "Body",  name: "body",  widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    folder: "src/content/pages"
+    create: true
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Slug",  name: "slug",  widget: "string" }
       - { label: "Body",  name: "body",  widget: "markdown" }
