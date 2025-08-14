@@ -15,13 +15,10 @@ publication_location:
 text_location:
   - Vienna
 original_language_body: >-
-  ## Il Privilegio di Maria Teresa Maria Theresia, 1771
-
-
-  ## Privilege and Statute of Maria Theresia
-
-
-  Prepared by Lois Dubin, Smith College, USA
+  <h2 style="text-align: center">Il Privilegio di Maria Teresa Maria Theresia,
+  1771</h2><h2 style="text-align: center">Privilege and Statute of Maria
+  Theresia</h2><p style="text-align: center">Prepared by Lois Dubin, Smith
+  College, USA</p>
 
 
   ALLEGATO B I. IL PRIVILEGIO DI MARIA TERESA Noi Maria Teresa per la Iddio
@@ -201,13 +198,11 @@ original_language_body: >-
   di il Kandler. Devo dunque notare che la nostra copia è tratta dall'originale
   conservato nella Cancelleria della Comunità.
 ---
-### Introduction to Privilege and Statute of Maria Theresia
-
-Lois Dubin, Smith College, USA
+<h3 style="text-align: center">Introduction to Privilege and Statute of Maria Theresia</h3><p style="text-align: center">Lois Dubin, Smith College, USA</p>
 
 In 1771 the Habsburg ruler Maria Theresia issued a Privilege and a Statute to Jews in Trieste, both to confirm their status and to attract additional Jewish merchants to help develop the Adriatic Free Port. Utility was the key: the perception of Jewish commercial utility was the basis for initially including Jews in general invitations to merchants (1719, 1725), and then for granting formal standing to the Jewish community as a corporate body (“Nation”) in 1746 (a model followed for other non-Catholic mercantile communities), and also favorable conditions of residence, work, protection, justice, and religion to Jews as individuals. Jews were recognized as subjects of the realm, and were in many respects, as individuals and as a community, put on a par with others, particularly non-Catholic merchants. Favorable status and economic opportunity drew Jews to Trieste; they increased from approximately 100 in 1735 to 400 in 1775 to 1250 in 1800, becoming the largest minority, approximately five percent of the city's population. The Theresian documents are useful for reconsidering Jewish status in early modern Europe and particularly the roads from expulsion (1492) to readmission to emancipation (1790-1). Maria Theresia's pragmatic policy in Trieste, adopted despite her usual anti-Jewish hostility, underscores the importance of utility, maritime commerce, and port-cities in creating new opportunities for Jews. Certain familiar dichotomies are too simplistic: expulsion or emancipation; tolerated aliens or equal citizens; utility or humanity; old-style privileges or modern constitutional rights; corporate or individual rights. The Theresian documents and the accompanying ones--ranging from 17th-century Holland through the Josephinian toleration edicts of the 1780s (here Vienna 1782) through the Emancipation of French Jews, especially of Sephardim in 1790-- reveal noteworthy continuities concerning utility, service, and rights of subjects and citizens. They highlight changing notions of subjecthood and civil inclusion of Jews before legal emancipation, and show that individual and corporate communal rights were not necessarily antithetical.
 
-### **Texts:**
+<h3 style="text-align: center"><strong>Texts:</strong></h3>
 
 **A. Theresian Privilege and Statute:**
 
@@ -255,11 +250,7 @@ Sorkin, David. “The Port Jew: Notes Toward a Social Type.” _Journal of Jewis
 
 Stock, Mario. _Nel segno di Geremia. Storia della comunità israelitica di Trieste dal 1200_. Udine, 1979
 
-## Privilege and Statute of Maria Theresia
-
-## Il Privilegio di Maria Teresa Maria Theresia, 1771
-
-Translated by Lois Dubin, Smith College, USA
+<h2 style="text-align: center">Privilege and Statute of Maria Theresia</h2><h2 style="text-align: center">Il Privilegio di Maria Teresa Maria Theresia, 1771</h2><p style="text-align: center">Translated by Lois Dubin, Smith College, USA</p>
 
 We, Maria Theresia, Empress by the grace of God ...
 
