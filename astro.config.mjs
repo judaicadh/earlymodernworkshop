@@ -4,6 +4,8 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 import pagefind from "astro-pagefind";
+import keystatic from "@keystatic/astro";
+
 import markdoc from '@astrojs/markdoc';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
@@ -21,7 +23,6 @@ import remarkLint from "remark-lint";
 
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
-import keystatic from "@keystatic/astro";
 
 
 
@@ -29,7 +30,7 @@ import keystatic from "@keystatic/astro";
 export default defineConfig({
   // The full URL to your site
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
-
+  output: 'server',
   markdown: {
     remarkPlugins: [
        [ remarkToc, { heading: 'toc', maxDepth: 3 }],
