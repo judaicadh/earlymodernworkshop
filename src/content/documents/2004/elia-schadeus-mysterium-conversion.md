@@ -142,6 +142,32 @@ Schadeus also applied his knowledge of Hebrew in an attempt to actively convert 
 
 Included in this published volume is a supplication to Strasbourg's council, in which Schadeus beseeches the magistrates on behalf of a young Jewess he had baptized as Susanna. His request, written ten years after her baptism, is that Susanna be granted the status of a Stattkind, a ward of the city. This status and the stipend involved would help combat her poverty and facilitate her marriage by enabling her to work within the city. This text reflects Schadeus' position that economic tolerance of Jews and of converts would facilitate conversion to Christianity. It also documents the desperation felt by Jewish converts to Christianity, who had difficulty integrating into both their old and new societies.
 
+**Bibliography**
+
+**_Primary Sources_**
+
+Archives Municipales de Strasbourg, AST 374-375.
+
+AMS, Kirchenbüch, Alt Sankt Peter.
+
+Schadeus, Elias. _Oratio de Linguae Sanctae Origine, Progresivi et Varia Fortuna, ad nostrum usque Saeculum_. Academia Argentinensi, 1591.
+
+\_\_\_\_\_\_\_. _Mysterium: Das ist Geheimnis S. Pauli Rom am II Von Bekherung der Juden als gelegt und geprediget zu Strassburg Munster_. Strasbourg, 1592.
+
+**_Secondary Source_**
+
+Carlebach, Elisheva. “Between History and Myth: The Regenburg Expulsion in Josel of Rosheim's “Sefer ha Miknah.” J_ewish History and Jewish Memory_. ed. Carlebach, 1988, pp. 40-53.
+
+\_\_\_\_\_\_\_. Divided Souls: Converts from Judaism in Early Modern German Lands, 1500- 1750. New Haven: Yale University Press, 2001.
+
+Coudert, Allison and Jeffrey Shoulson, eds. _Hebraica Veritas?: Christian Hebraists and the study of Judaism in Early Modern Europe_. Philadelphia: University of Pennsylvania Press, 2004.
+
+Horning, Wilhelm. _Magister Elias Schadäus, Pfarrer an der Alt-St.-Peterkirche, Professor der Theologie und Münsterprediger zu Strassburg : Beitrag zur Geschichte der lutherischen Judenmission in Strassburg (16. Jahrhundert)_ Leipzig: Akademische Buchhandlung, 1892.
+
+Schang, Pierre. _Histoire du Gymnase Jean Sturm, Berceau de l'Université de Strasbourg 1538-1988._ Strasbourg: Oberlin, 1988.
+
+Schindling, Anton. _Humanistische Hochschule und freie Reichsstadt : Gymnasium u. Akademie in Strassburg 1538-1621_. Wiesbade: Steiner, 1977
+
 ## Source 1 Translation
 
 Copy of a Supplication to the respectable Magistrates of the City of Strasbourg, \[in the\] year 1591, the third of January, offered on behalf of a baptized Jewess, in order to obtain both her rights as a burgher and her marriage tax. And this is laid out here \[for\] the respectable council to honor, and for others in the same situation, as an example of the following.
@@ -166,9 +192,9 @@ Because of that, then, I ask daily. And to do such a journey also with diligence
 
 Subservient Citizen and Preacher, M. Elias Schad
 
-## In the name and on behalf of the contemporary person  
-  
-Source 1 Original Text
+In the name and on behalf of the contemporary person
+
+## Source 1 Original Text
 
 Copia einer Supplication an einen Ehrsamen Rath der Statt Straßburg/ Anno 91. den 3. Januarii/ für eine getauffte Judin gestellt/ dadurch ihr beide das Burgrecht und Ehestewr erlanget/ dem Ehrsamen Rath zu Ehren/ und andern in gleichen fellen zum Exempel der nachfolgung hierhergesetzt.
 
