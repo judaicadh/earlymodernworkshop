@@ -7,33 +7,28 @@ backend:
   base_url: https://earlymodernworkshop.judaicadhpenn.org
   auth_endpoint: oauth
 
-media_folder: "public/uploads"
-public_folder: "/uploads"
+media_folder: "src/assets"
+public_folder: "/assets"
 
 site_url: "https://earlymodernworkshop.judaicadhpenn.org"
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "src/content/pages"   # change if needed
-    create: true
-    slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Slug",  name: "slug",  widget: "string" }
-      - { label: "Body",  name: "body",  widget: "markdown" }
-
-  # Example: year-based docs (optional)
   - name: "documents"
     label: "Documents"
     folder: "src/content/documents"
     create: true
-    slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
+
+    slug: "{{slug}}"
+    path: "{{fields.year}}/{{slug}}"      # write into documents/<year>/<slug>.md
+    summary: "{{fields.year}} — {{title}}" # how each item appears in the list
+
+    sortable_fields: ["commit_date", "year", "title"]
+    view_groups:                           # optional: group the list by year
+      - { label: "Year", field: "year" }
+
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Year",  name: "year",  widget: "number" }
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Year",  name: "year",  widget: "string", required: true }
       - { label: "Body",  name: "body",  widget: "markdown" }
