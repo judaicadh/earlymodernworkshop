@@ -38,6 +38,14 @@ collections:
     extension: "md"
     format: "frontmatter"
     slug: "{{slug}}"
+    nested:
+      depth: 10            # how deep to allow navigation
+      summary: "{{title}}" # what to show for each file in the tree
+
+    # ✅ When creating new entries, save them under /{year}/{slug}.md
+    # (uses the 'year' and 'slug' fields from your form)
+    path: "{{year}}/{{slug}}"
+
 
     fields:
       - { label: "Title", name: "title", widget: "markdown", required: true }   # was rich-text
