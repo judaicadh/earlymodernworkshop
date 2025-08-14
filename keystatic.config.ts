@@ -1,45 +1,41 @@
 // keystatic.config.ts
 import { config, fields, collection } from '@keystatic/core';
 
+// List your years and sort DESC so newest shows first in the sidebar
 const YEARS = [
     2003, 2004, 2005, 2006, 2007,
-    2008, 2009, 2010, 2011, 2012,
-    // add more years here…
-];
+    2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+    // …add the rest (e.g., 2013–2025)
+].sort((a, b) => b - a);
 
-// Shared schema for each year’s collection
-const docSchema = {
-    // You can keep `year` in frontmatter (nice for summaries),
-    // but it's not required because the folder path already encodes it.
+const schema = {
     year: fields.integer({ label: 'Year', validation: { isRequired: true } }),
-    title: fields.slug({
-        name: { label: 'Title' },
-        slug: { label: 'Slug' }, // filename; editable
+    title: fields.text({ label: 'Title', validation: { isRequired: true } }),
+    slug: fields.text({
+        label: 'Slug',
+        validation: { isRequired: true },
+        description: 'Filename without extension (e.g. my-post-title)',
     }),
     content: fields.markdoc({ label: 'Content' }),
 };
-
-// Build one collection per year, each pointing to its own folder
-const yearCollections = Object.fromEntries(
-    YEARS.map((y) => [
-        `documents_${y}`,
-        collection({
-            label: String(y),
-            path: `src/content/documents/${y}/*`, // files live under that year folder
-            slugField: 'title',                    // '*' comes from the slug inside `title`
-            format: { contentField: 'content', contentExtension: 'md' },
-            schema: docSchema,
-        }),
-    ])
-);
 
 export default config({
     storage: {
         kind: 'github',
         repo: { owner: 'judaicadh', name: 'earlymodernworkshop' },
-        branch: 'main',
+
     },
-    collections: {
-        ...yearCollections,
-    },
+    // Build one collection per year; object key order = sidebar order
+    collections: Object.fromEntries(
+        YEARS.map((year) => [
+            `docs_${year}`,
+            collection({
+                label: String(year),
+                path: `src/content/documents/${year}/*`,
+                slugField: 'slug',
+                format: { contentField: 'content', contentExtension: 'md' },
+                schema,
+            }),
+        ])
+    ),
 });
