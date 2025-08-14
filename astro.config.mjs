@@ -21,6 +21,7 @@ import decapOauth from 'astro-decap-cms-oauth';
 
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
+import keystatic from "@keystatic/astro";
 
 
 
@@ -55,6 +56,7 @@ export default defineConfig({
     markdoc(),
     mdx(),
     sitemap(),
+    keystatic(),
     partytown(),
     collectionSearch(),
     readingTime(),
