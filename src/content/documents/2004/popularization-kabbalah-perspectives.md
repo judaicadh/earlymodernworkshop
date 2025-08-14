@@ -17,7 +17,7 @@ description: In this presentation Boaz Huss of Ben Gurion University discusses
   century, illustrating the popularization of the Zohar, the foundational
   kabbalistic text, in the early modern period.
 original_language_body: >-
-  # Yehuda Hayat, 1558
+  ## Yehuda Hayat, 1558
 
 
   Prepared by Boaz Huss, Ben-Gurion University of the Negev, Israel
@@ -150,7 +150,7 @@ original_language_body: >-
   style="text-align: right">[2]תיקוני זוהר, כג ע"ב- כד ע"א (תיקון ו)</p>
 
 
-  # Yakov Emden, 1769
+  ## Yakov Emden, 1769
 
 
   Prepared by Boaz Huss, Ben-Gurion University of the Negev, Israel
