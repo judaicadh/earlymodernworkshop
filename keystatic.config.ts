@@ -17,7 +17,7 @@ export default config({
             slugField: 'slug',
 
             // Write/read the body content from the same file, with .md extension
-            format: { contentField: 'body' },
+            format: { contentField: 'content'},
 
             schema: {
                 // Basics
