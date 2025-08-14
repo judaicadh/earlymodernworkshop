@@ -22,6 +22,595 @@ description: The _Triumpho del Govierno Popular, y de la Antiguedad Holandesa_
   creation, and the restored monarchy of the messianic age to the seventh day,
   on which God rested. The seven numbered stanzas of the dedicatory poem
   correspond to the seven sections of this introduction.
+original_language_body: >-
+  ## Triumpho del Govierno Popular
+
+
+  ## Y de la Antigudad Holandesa
+
+
+  ## The Triumph of Popular Government
+
+
+  ## Daniel Levi (a.k.a. Miguel) de Barrios, 1683
+
+
+  Prepared by Anne Oravetz Albert, University of Pennsylvania, USA
+
+
+  Triumpho del Govierno Popular,
+
+
+  Y de la Antigudad Holandesa.
+
+
+  Dedicalo en el Año de 5443 \[1683\]
+
+
+  DANIEL LEVI DE BARRIOS.
+
+
+  A los muy Ilustres Señores Parnasim, y Gabay Del Kahal Kados Amstelodamo,
+
+
+  Ishac Belmonte.         Iacob Abendana de Brito. 
+
+
+  Iacob de Pinto.            Ishac Levi Ximenes.
+
+
+  Abraham Gutierres.     Mordechay Franco.
+
+
+  Iosseph Mocat\[...\]
+
+
+  De la Ley los Hebreos son las Flores, 
+
+
+  bejas los maestros, que en las Hojas
+
+
+  se sustentan por sus Mantenedores. 
+
+
+  PROEMIO
+
+
+  Llama Ciencia à la Ley, y Entendimiento
+
+
+  del Sancto Pueblo su Architecto Santo;
+
+
+  porque le dá feliz conocimiento
+
+
+  de lo ´q cubre con glorioso manto:
+
+
+  los Atlantes del Sacro Firmamento,
+
+
+  \*sustentan su beldad de Kahal, y canto; _\*_Parnasim significa sustenadores.
+  sin que el Nesso que hurtar su honor previene la camisa de Holanda le
+  envenene.
+
+
+  Del Popular Govierno el triumpho canto,
+
+
+  al dulce son del Harpa de la Historia,
+
+
+  en Coro Hebreo con la voz del llanto; 
+
+
+  que es eco de Ysraelitica Memoria: 
+
+
+  Las aguas de Vermejo Radamanto,
+
+
+  no anegaràn al campo de su gloria;
+
+
+  si qual Orpheo, su furor enfreno,
+
+
+  y qual David, su espiritu encadeno.
+
+
+  Dame ò Gran Dios! En cytara erudita,
+
+
+  pluma tan dulce, mano tan sonora,
+
+
+  que sirva de alas à tu Ley Bendita,
+
+
+  y que parezca de tu lumbre Aurora. 
+
+
+  A los Juezes que juzga tu Infinita
+
+
+  Magestade entre Angeles que mora,
+
+
+  ofrezco lo que canto, y lo que escrivo,
+
+
+  porque en ellos, la Luz de ti recivo.
+
+
+  Triumpho del Govierno Popular, 
+
+
+  A los muy Ilustres Señores Parnasim, y Gabay del Kahal Kados Amstelodamo. 
+
+
+  Ishac Belmonte.            Iacob Abendana de Brito.
+
+
+  Iacob de Pinto..             Ishac Levi Ximenes.
+
+
+  Abraham Gutierres.      Mordechay Franco. 
+
+
+  Josseph Mocata. 
+
+
+  ILUSTRISSIMOS SEÑORES.
+
+
+  1        _Democrasia_ Popular Dominio quiere dezir en Griego; _Monarchia_
+  Govierno de uno; y _Aristocrasia_ de los mejores Señoril designio.
+
+
+  2         Es politico de este el escutrinio, fuerte el de la Imperial
+  Soberania: pero mas docil la Democrasia, y mejor con el alto Patrocinio.
+
+
+  3         Elige al Juez que sabia la domina, quando con el exemplo, y justa
+  prueva, mas que con las palabras lo doctrina.
+
+
+  4         El que govierna assi, agrada, y eleva, porque la voz del Pueblo, es
+  voz Divina, y es venturoso el Juez que se la lleva.
+
+
+  5         Al Universo, Dios, criò en seys dias,
+
+
+  6         y en Mundos tres lo dividió, el primero _Monarchico_ con altas
+  Hyerarchias; _Noble_ el segundo con Celeste fuero. De elementos se vé, y de
+  compañias mixtas, y razionales el tercero:             \*parnasim
+
+
+  todo _oy_ tiene en los \*_seys_ laço propicio,
+
+
+   con union, con nobleza, y con juyzio.
+
+
+  7      En el Septimo Dia, Dios reposa:               \*Gabay
+
+
+  su Pueblo halla en \*Josseph descãso bueno: 
+
+
+  de los seys Parnasim viene piadosa 
+
+
+  la Justicia á Iosseph. que es el Seteno: 
+
+
+  los siete Maravillas Iudayzantes 
+
+
+  que el Arbol de la Ley ciñen constantes.
+
+
+  GLOSA I. 
+
+
+  La Generalidad de las Politicas Gentes consta de tres divisiones dominantes:
+  la primera _Monarchia,_ ó _singular, como la de Moysen, Saul, David, y
+  Salomon._ La segunda _Aristrocrasia_, ò _Noble_; como la de Iosue, de los
+  Sacros _Juezes_, y _Machabeos_: y la tercera _Democracia_, ò _Popular_, como
+  la de los Israelitas en Egypto, en Babilonia, y en todas las partes que con la
+  Ley Mosayca estàn divisos, desde que los Assirios esparcieron à los de Israel,
+  y los Romanos à los Hierusalemitanos. 
+
+
+  GLOSA II
+
+
+  Aristoteles con la autoridad de Homero distingue al Monarcha del tirano, en
+  que el Monarcha antepone los bienes del subdito, à los bienes propios: y el
+  tirano antepone \[3\] los bienes propios à los del subdito. Singularizose
+  Moseh, anteponiendo la electa Nacion à la vida propia, pidiendo à la Soberana
+  Magestad, ó que lo borràra de su libro, ó que perdonasse la criminal ofensa,
+  que contra su eterna Soberania havia cometido el Pueblo Israelitico. Este si
+  que es buen Monarchico Pastor, mas no el que como Nimrod en el Babel de la
+  ambicion, se intitula Monarcha, y es tirano, porque con el anhelo de mandar,
+  no atiende à la comun utilidad, sino alevantar torres de vanas confianças, ó
+  para oponerse à la Divina Superioridad, como Sancherib, y Antioco; ó para
+  eternizar su nombre en simulacros, y laminas de metal como Nabuchodosor, Ciro,
+  Alexandro, y Tito. 
+
+
+  Consemejante consideracion cantó un Poeta,
+
+
+  _Toda esta vida es hurtar,_
+
+
+   _no es el ser ladron afrenta,_
+
+
+   _que como este Mundo es venta,_
+
+
+   _en el es propio el robar._
+
+
+   _Nadie veras castigar_
+
+
+   _porque hurta plata, ò cobre:_
+
+
+  _al que açotan es por pobre_
+
+
+  _de suerte favor, y traças._
+
+
+  _Este Mundo es juego de baças_ 
+
+
+  _que solo el que roba triumpha, y manda._
+
+
+  \[4\]  Con la espada deste exemplo venço à quantos afirman ser mejor à la
+  conservacion de las gentes, el dominio Magestuoso, que el Noble, y que el
+  Popular: porque rara es la Magestad que antepone la conveniencia de sus
+  vassallos à la propia, y raros son los vassallos, que sirven mas à Dios, que
+  al Rey, porque los mas con el hechizo del Mundo, solo atienden à grangear la
+  gracia del Rey: y los menos que procuran la gracia de Dios, no son tan
+  agradables à los ojos de la vanidad, como aquellos que los alegran con los
+  vanos luzimientos de pomposos aparatos. Assi distingo que la Monarchia, no
+  siendo como la de Moseh, con el Divino temor, merece nombre de tirania, y que
+  Moseh con ser tan justo, no se creyó capaz de empuñar el Cetro Israelitico, ni
+  de llevar la Divina Embaxada, quando dixo al Supremo Rey: _Embia aora por
+  quien haz de embiar._
+
+
+  Hieronimo, Sixto Sinense, y Francisco Vales, escriven que la soñada estatua,
+  representa las quatro Monarchias, Babilonica, Persa, o Meda, Griega, y Romana.
+  Mejor dixeran las quatro Generales tiranias, figuradas en quatro diferentes
+  metales: ó por las monedas que toman aun agenas armas; ó por las armas que
+  \[5\] toman aun agenas monedas. Imitan à los pavones quando hazen pomposas
+  ruedas de fortuna, con la vanidad de ver su vistoso adorno; y quando las
+  deshazen con el espanto de mirar sus pies de barro.
+
+
+  La Monarchia, es pieza de Rey disparando valas de execuciones, con truenos de
+  .ordenes: y la Aristrocrasia, es una sonora harpa, tocada del que assentado en
+  la silla del Govierno, le aplica si el cuerpo de su vigilante zelo, para
+  tenerla en pie con su arrimo; la llave de su afabilidad para templar las
+  cuerdas de las diferentes voluntades, y las manos de su misericordia, y
+  justicia, para atraer las distantes atenciones con la agradable harmonia de
+  las conformes distancias.
+
+
+  Favorece mi opinion Don Ishac Abarbanel, provando con varios exemplos, ser
+  mejor el Govierno de la Nobleza, que el Magestuoso; y si tal vez el Dominio
+  Divino dura poco, es quando la discordia lo divide, mas quando conforma el
+  Amor las partes, permanece. Govierno divisamente reciprocro queria Moseh, mas
+  no Monarchico: porque la Aristrocrasia ofrece la ayuda que se dan unos à otros
+  para el govierno: y Moseh conoce que aun para levantar las manos al Cielo,
+  necessita \[6\] que le ayuden Aaron, y Hur. Y Monarchia es imperio de uno: y
+  uno solo era Adam sin Heva quando vió Dios que estar solo el hombre no era
+  bueno. Por esso dize Salomon: _Mejor es dos que uno_, y Ciceron: _.El
+  Governador, y Magestrado es una ley que habla_: luego para el hombre mejor es
+  la Aristocrasia, que la Monarchia, por ser tan pesada aun
+
+
+  à  Moseh; que Dios se la alivió, añadiendole la Aristocrasia en los Setenta
+  Ancianos que le mandó escoger, diziendole: _Y llevaran contigo la carga del
+  Pueblo, y no la llevaras tu solo_. Con la misma consideracion dixo por Isaias
+  à la Sacra Ciudad: _Y restituiré tus Juezes como al principio, y tus
+  Consejeros como de primero: entonces te llamaras Ciudad de justicia, Ciudad_
+
+    
+
+  <p style="text-align: center">114</p>
+
+    
+
+  _fiel_.
+
+    
+
+  EMW 2004
+
+    
+
+  Solon aconseja: Aprende primero à ser governado ´q te atrevas à governar,
+  porque no puede bien governar à otros, el ´q à si no se govierna. Governava de
+  suerte Moseh, que quando mas lo exaltava la eterna Magestad, con los dones
+  Monarchico, y Aristocratico; mas humilde desseava que todos fuessen Prophetas,
+  paraque todos le igualassen, y que todos iguales, no tuviessen occasion de
+  envidiar al govierno de uno, ni al de los mejores, incluyendose los dos
+  goviernos en el Popular, que siempre \[7\] elige Governador: y esto anhelava
+  Moseh, porque (segun delinea Plinio) "El que ha de mandar, y regir à todos,
+  conviene ser elegido de todos." Deste modo: "El arte de governar las ciudades,
+  y republicas del Mundo tiene el primado, y principado en todas las artes.
+  Dizelo Aristoteles, y Platon: "No se haze el Pueblo por causa del Governador:
+  antes se haze el Governador por causa del Pueblo. De aqui faco que el
+  domicilio Popular conviene mas ´q el de la Nobleza, y que el Regio, porque no
+  hay Noble sin Pleveyo; ni Rey sin Pueblo: y puede haver Pleve sin Noble, y sin
+  Rey, eligiendo Juezes que en administrar, y governar la republica tienen, y
+  estiman las cosas publicas por particulares, y las particulares por publicas.
+
+
+  Luego mayor es el Govierno Popular que el Noble, si el Noble que el Regio:
+  porque el Popular con reciproca igualdad, se maniene sin necessitar de la
+  Nobleza, ni de la Magestad, como necessitan la Magestad, y la Nobleza de la
+  plebe que escoge los Juezes.
+
+
+  I    _Democrasia_ Popular Dominio quiere dezir en Griego; _Monarchia_ Govierno
+  de uno; y _Aristrocrasia_ de los mejores, Señoril designio.
+
+
+  GLOSA III...
+
+
+  GLOSA IV...
+
+
+  \[19\] GLOSA V.
+
+
+  _Descrive los tres Estados de Israel Monarchico, Ilustre, y Popular, y que en
+  todos resplandece la particular Providencia que tiene Dios con los
+  Israelitas._
+
+
+  §  I...
+
+
+  §  II...
+
+
+  §  III.
+
+
+  <p style="text-align: justify"><em>Instruye como es mas amor de la infinita
+  Omnipotencia conduzir à su Pueblo a Tierra Sancta, que medecinarlo, que
+  librarlo de Egipto, y que romper el Mar Roxo paraque lo passasse apie
+  enjuto</em>.</p>
+
+
+  Todos los atributos del Señor se comprehenden en quatro: el primero de
+  _Medico_, porque
+
+    
+
+  <p style="text-align: center">115</p>
+
+    
+
+  ninguno como el sabe aplicar a la dolencia los medicamentos naturales respecto
+  de ser Autor
+
+
+  EMW 2004
+
+
+  de la Naturaleza: el segundo atributo, es el de _Redentor_, porque solo el
+  tiene poder para librar de las mas fuertes prisiones a los que en ella le
+  imploran como fue el Pueblo .de Israel congojado, y captivo de la violencia
+  Egypciana. El tercer atributo, es el de _Prodigioso_ como fue quando rompio
+  las hinchadas ondas de Roxo Pielago guiando à los Israelitas para inundar a
+  los violentos Egypcios, y sacar de su opresion al Pueblo Electo. El Quarto
+  atributo, es el de _Animador_, ò _Vivificativo_ còmo es el de dar alma a
+  quanto haze, y principalmente al hombre infundiendosela con el soplo de su
+  aliento, \[25\] .y prometiendo bolverlo a vivificar como manifesto a Ezechiel:
+  _cap.37. Assi dixo el Señor Dios a los huessos. Hare entrar en vosotros
+  Espiritu, y vivires_. Algunos Expositores tienen que estos huessos son de los
+  cadaveres Israeliticos cuyo symbolo se ofrece el cadaver de Jacob, y el de
+  Joseph llevados de Egypto à la Prometida Tierra en señal de que todos los
+  justos que de Israel murieron en Reynos estraños, han de bolver a tener .vida
+  en la sagrada Patria Hierusalemitana como advierte el
+
+
+  Paraphrastico \[1} Onquelos: y de aqui la Prophezia la llama Tierra de las
+  vidas, porque han de resucitar en ella, saliendo de Muerte a Vida: y ningun
+  Pueblo estivo en las braços de la Muerte como Israel en la enfermedad, en la
+  carçel, y en la persecutcion de Pharaon; que mas maravillosamente escapasse
+  por la divina Mano echando a los Chananeos de la desseada Tierra. Assi
+  Averiquo que mas es conduzir à Israel a modo de entonces a Tierra Sancta, que
+  curarlo, que librarlo, y que romper el mar Roxo; Porque solo el Autor de las
+  vidas las puede bolver y unir en Sancta paz, y Hermandad guiandolo, por si
+  solo, y no por algun Paranympho Celestial como las guio en la salida de Egypto
+  hasta \[27\] entralas en la prometida Tierra, y el curar, librar, y hazer
+  Milagros suele conceder a los Medicos, a los Poderosos, y a los Magos: Pero no
+  el resucitar como concedio al Propheta Elias, y dos vezes a Eliseo una en el
+  hospicio de la biudá, y otra en la sepultura de su funesto cadaver.
+
+
+  La mismo declaró mi hijo Simon Levi Caniso en la Yesibá de Masquil Eldad, del
+  modo
+
+
+  siguiente....
+
+
+  § IV.
+
+
+  _Solemniza los Govierno Populares de los Iudios en las partes que fueron
+  expulsos_.
+
+
+  El segundo Govierno Popular, comencò de los esparcidos Israelitas por los
+  Assirios y continuo con los captivos de Iuda en Babilonia: aquellos llegaron
+  hasta _Zarphat_, ò _Francia_ con los Chananeos: y estos se extremaron en
+  Zepharad, oy España con los Phenizes, Babilonios, y los Reynos de _Dara_, y de
+  _Fez_; que entonces comprehendian a Barbaria cifrandose en la anagrama de
+  _Zefarad_ que es _Dara Fez_. Certificalo el Propheta Abdias. _.Y los captivos
+  de este exercito de los hijos de Israel que Chananeos hasta Francia, y los
+  captivos de Ierusalem que en Zepfarad; heredaràn las ciudades del Austro_.
+
+
+  Tuvo tres populares, ó inferiores
+
+
+  Goviernos Israel, uno entre Egypcios
+
+
+  Dynastia se llamò de los Pastores,
+
+    
+
+  <p style="text-align: center">116</p>
+
+    
+
+  otro entre Babilonios, y Phenizios:
+
+
+  es el tercero de Sustentadores
+
+
+  o Parnasim, con tales frontispicios,
+
+
+  en varios templos entre gentes varias,
+
+
+  que en ellos tiene Dios sus luminarias.
+
+    
+
+  EMW 2004
+
+    
+
+  Tambien acudiò entre los Babilonios, y entre los Phenizios la infinita
+  Misericordia á los Goviernos populares Mosaycos, por el concierto que hizo con
+  los tres sagrador Patriarcas Abraham, Ishac, y Iacob, conforme textifica el
+  cap. 26. del Levitico: _En Tierra de sus enemigos no los aborreci, y no los
+  deseché por hazer baldar mi firmamento con ellos: .que yo (soy) A. su Dios._
+
+
+  A los Reyes de Iudea, despues de la captividad Babilonica, los primeros
+  Israelitas que embiaron presentes son los de España entre los Phenizes, de
+  donde dixeron los antiguos Rabinos en lo Guemará de Menahot cap. ultimo: _De
+  Tiro a Cartagena conocen a Israel, .y al Señor del Cielo_. Porque Cartagena es
+  en España: y Juliano en sus adversarios n. 134. traê que los Hebreos de España
+  pagaván tributo à los Reyes de Juda: refierelo Pellizer sobre la octava 42.
+  del Panagirico Gongorico: y Fray Iuan de la Puente lib. 3. cap. 13. p. 1.
+  escrive: _los Iudios que vivian en Atenas y en España persuadieron a los
+  Gentiles Atenienses, y Españoles hiziessen ara al Sancto Dios de Israel_.
+
+
+  El Doctor Ishac Cardoso, en la Primera Ex- \[30\] celencia de los Hebreos fol.
+  16. escrive con Estrabon, _Quatro Generos de Hombres hay en la Ciudad de
+  Cyrene Ciudadanos, Labradores, Estrangeros, y el quarto Iudios: y estas quatro
+  Gerarquias se hallan_ en todas _la Ciudades. No sera facil hallar lugar en
+  toda la Tierra a donde una vez recivida esta nacion, no prevalezca, porque
+  Egypto, y Cirene, otras muchas Provincias han admitido su religion, y
+  mantienen grandes congregaciones de Iudios que se han aumentado con el tiempo
+  y viven con sus mismas leyes._ Iosepho lib. 14. Ant. c. 12. afirma que los de
+  su Nacion llenaron la redondes de la Tierra; y Philon en el libro que escrivio
+  de la Embaxada al Emperador Cayo Caligula; introduze al Rey Agripa de los
+  Iudios, diziendo al Emperador, que Ierusalem no solo es metropoli de Iudea,
+  sino tambien de muchas Provincias donde habitan Iudios, por las colonias de
+  Hebreos que en ellas se transfirieron como en Egypto, Phenicia, Siria,
+  Cilicicia, Pamfilia, Macedonia, Athenas, Argos, Corinto, las Islas de Cubea,
+  Chipre, Creta y en la otra parte del Eufrates: y ensuma todas las Ciudades
+  fertiles, y abundantes son habitadas de Iudios en el Assia, Africa, y Europa,
+  tanto maritimas como terrenas ò Islas. Y contra Flacco presidente de Egypto,
+  dize que no caben \[31\] los Iudios en una sola Provincia, por ser tantos, que
+  se estienden en muchas Ciudades, y Provincias, y Islas de Europa y de Assia,
+  reconociendo como cabeça a la Sancta Ciudad. Estrabon, hablando de Alexandria,
+  afirma que tenian los Hebreos calles señaladas adonde vivian, con sus fueros,
+  con Governadores de su propia nacion, con potestad absoluta como si fuera
+  Republica de por si.
+
+
+  Començaron sugun afirma Iosepho lib. I. c. 5, los Hebreos o Israelitas á
+  llamarse Iudios por el
+
+    
+
+  <p style="text-align: center">117</p>
+
+    
+
+  Tribu de Iudà que tenia el Señorio desde que tornaron de la captividad de
+  Babilonia los del
+
+
+  EMW 2004
+
+
+  propuesto Tribu de Iuda, con los de Benjamin, y los troços de otros Tribus que
+  e mezclaron con ellos. Dálo à conocer el cap. 2. de Hesther en apellidar à
+  Mordacheo con ser Benjaminita, _Varon Iudio_: y en afirmar el Paralipomenon
+  lib. 2. c. 30. n. 25. que muchos de Israel se unieron con los de Iuda en
+  tiempo del Rey Ezechias. Adviertelo Achior á Holophernes en el cap. 5. de
+  Iudith _Convertidos ha poco al Señor su Dios fueron juntados del esparcimiento
+  con que havian sido exparcidos y subieron a estas montañas: y tornaron à
+  cobrar à Ierusalem_.
+
+
+  No perdieron el govierno Democrastico los Israelitas ò Iudios que no fueron a
+  la reedi- \[32\] ficacion del segundo Templo dando entre las Gentes con
+  observantes demostraciones, clara Luz de la eterna Divinidad que lo advirtio
+  al Propheta Micheas c. I. n. II. _del Oriente del Sol, y hasta su Peniente
+  grande (es) mi nombre entre las Gentes: y en todo lugar, perfume llegado a mi
+  nombre, y presente limpio: porque (es) grande mi nombre entre las gentes: dixo
+  el Señor de los exercitos._ Menasses ben Israel lib. 2. Concil. en Ieremias
+  quest. 4. declara: _En todas las partes donde Israel habita, conocen la
+  sanctidad de la Ley como dize el Real Propheta Psal._
+
+
+  _72.  v. 2._ Dios es conocido en Iuda, en Israel grande su nombre _que segun
+  la gramatica Hebrea la letra_ \[ \]. Bet _que se interpreta_ En _denota el
+  lugar: y assi significa que en todas las partes donde residen Israelitas, es
+  condocido por medio dellos el Señor Bendito._ No dize David que en Iuda, sino
+  que en Israel es grande el nombre del Criador: y \[...\] Israel por ser el
+  primero qeu fue captivo entre las Gentes comenco apublicar entre ellas la
+  divina Grandeza que dize: _Grande_ _es mi nombre entre las Gentes_. Solamente
+  los Mosaycos pueden entre las Gentes testificar que tienen el Verdadero
+  conocimiento del supremo Archetypo, que en el c. 43. de Esaias los aclama dos
+  vezes _sus Testigos_: y en otra parte _Luz de las Gentes_.
+
+
+  \[33\]  El cap. 9. de Ester n. 30. presenta que en todas las ciento y veynte y
+  siete Provincias del Rey Assuero havia Judios, y todas por medo dellos tenian
+  el Divino conocimiento, conque Dario por el milagro hecho à Daniel en el lago
+  de los leones, decretò à todos los de su Imperio, que adorassen al Dios de
+  Ysrael, porque el es Dios Vivo, y permanente de eterno, y su Reyno
+  incorruptible, y su Dominio sin termino.
+
+
+  **Archive:** University of Portugal, MS 1280
+
+
+  ### Endnotes
+
+
+  \[1\]_Onquel. en Cant. 5._
 ---
 ### Introduction to Triumpho del Govierno Popular
 
@@ -45,7 +634,9 @@ Scholberg, Kenneth. La Poesía Religiosa De Miguel De Barrios. Columbus: Ohio St
 
 Wilke, Carsten Lorenz. "La Trompette Du Jugement De Miguel De Barrios: Essai De Déchiffrement"." In _Mémorial I.S. Révah_, edited by Henry Méchoulan and Gérard Nahon, 515- 27. Paris, Louvain: E. Peeters, 2001.
 
-## The Triumph of Popular Government and of Dutch Antiquity
+## The Triumph of Popular Government
+
+## And of Dutch Antiquity
 
 ## Triumpho del Govierno Popular
 
