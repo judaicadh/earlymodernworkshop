@@ -17,7 +17,7 @@ import remarkToc from "remark-toc";
 import remarkGfm from "remark-gfm";
 import rehypeMeta from "rehype-meta";
 import remarkLint from "remark-lint";
-import decapOauth from 'astro-decap-cms-oauth';
+
 
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
@@ -61,7 +61,7 @@ export default defineConfig({
     collectionSearch(),
     readingTime(),
     itsmatteomanfpagefind(),
-    decapOauth(),
+
   ],
 
   adapter: netlify()
