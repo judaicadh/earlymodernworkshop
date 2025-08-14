@@ -325,21 +325,9 @@ original_language_body: >-
   Ancianos que le mandó escoger, diziendole: _Y llevaran contigo la carga del
   Pueblo, y no la llevaras tu solo_. Con la misma consideracion dixo por Isaias
   à la Sacra Ciudad: _Y restituiré tus Juezes como al principio, y tus
-  Consejeros como de primero: entonces te llamaras Ciudad de justicia, Ciudad_
+  Consejeros como de primero: entonces te llamaras Ciudad de justicia, Ciudad
+  fiel_.
 
-    
-
-  <p style="text-align: center">114</p>
-
-    
-
-  _fiel_.
-
-    
-
-  EMW 2004
-
-    
 
   Solon aconseja: Aprende primero à ser governado ´q te atrevas à governar,
   porque no puede bien governar à otros, el ´q à si no se govierna. Governava de
@@ -399,36 +387,23 @@ original_language_body: >-
 
 
   Todos los atributos del Señor se comprehenden en quatro: el primero de
-  _Medico_, porque
-
-    
-
-  <p style="text-align: center">115</p>
-
-    
-
-  ninguno como el sabe aplicar a la dolencia los medicamentos naturales respecto
-  de ser Autor
-
-
-  EMW 2004
-
-
-  de la Naturaleza: el segundo atributo, es el de _Redentor_, porque solo el
-  tiene poder para librar de las mas fuertes prisiones a los que en ella le
-  imploran como fue el Pueblo .de Israel congojado, y captivo de la violencia
-  Egypciana. El tercer atributo, es el de _Prodigioso_ como fue quando rompio
-  las hinchadas ondas de Roxo Pielago guiando à los Israelitas para inundar a
-  los violentos Egypcios, y sacar de su opresion al Pueblo Electo. El Quarto
-  atributo, es el de _Animador_, ò _Vivificativo_ còmo es el de dar alma a
-  quanto haze, y principalmente al hombre infundiendosela con el soplo de su
-  aliento, \[25\] .y prometiendo bolverlo a vivificar como manifesto a Ezechiel:
-  _cap.37. Assi dixo el Señor Dios a los huessos. Hare entrar en vosotros
-  Espiritu, y vivires_. Algunos Expositores tienen que estos huessos son de los
-  cadaveres Israeliticos cuyo symbolo se ofrece el cadaver de Jacob, y el de
-  Joseph llevados de Egypto à la Prometida Tierra en señal de que todos los
-  justos que de Israel murieron en Reynos estraños, han de bolver a tener .vida
-  en la sagrada Patria Hierusalemitana como advierte el
+  _Medico_, porque ninguno como el sabe aplicar a la dolencia los medicamentos
+  naturales respecto de ser Autor de la Naturaleza: el segundo atributo, es el
+  de _Redentor_, porque solo el tiene poder para librar de las mas fuertes
+  prisiones a los que en ella le imploran como fue el Pueblo .de Israel
+  congojado, y captivo de la violencia Egypciana. El tercer atributo, es el de
+  _Prodigioso_ como fue quando rompio las hinchadas ondas de Roxo Pielago
+  guiando à los Israelitas para inundar a los violentos Egypcios, y sacar de su
+  opresion al Pueblo Electo. El Quarto atributo, es el de _Animador_, ò
+  _Vivificativo_ còmo es el de dar alma a quanto haze, y principalmente al
+  hombre infundiendosela con el soplo de su aliento, \[25\] .y prometiendo
+  bolverlo a vivificar como manifesto a Ezechiel: _cap.37. Assi dixo el Señor
+  Dios a los huessos. Hare entrar en vosotros Espiritu, y vivires_. Algunos
+  Expositores tienen que estos huessos son de los cadaveres Israeliticos cuyo
+  symbolo se ofrece el cadaver de Jacob, y el de Joseph llevados de Egypto à la
+  Prometida Tierra en señal de que todos los justos que de Israel murieron en
+  Reynos estraños, han de bolver a tener .vida en la sagrada Patria
+  Hierusalemitana como advierte el
 
 
   Paraphrastico \[1} Onquelos: y de aqui la Prophezia la llama Tierra de las
@@ -447,10 +422,10 @@ original_language_body: >-
 
 
   La mismo declaró mi hijo Simon Levi Caniso en la Yesibá de Masquil Eldad, del
-  modo
+  modo 
 
 
-  siguiente....
+  siguiente.... 
 
 
   § IV.
@@ -479,11 +454,6 @@ original_language_body: >-
   Dynastia se llamò de los Pastores,
 
     
-
-  <p style="text-align: center">116</p>
-
-    
-
   otro entre Babilonios, y Phenizios:
 
 
@@ -498,11 +468,6 @@ original_language_body: >-
 
   que en ellos tiene Dios sus luminarias.
 
-    
-
-  EMW 2004
-
-    
 
   Tambien acudiò entre los Babilonios, y entre los Phenizios la infinita
   Misericordia á los Goviernos populares Mosaycos, por el concierto que hizo con
@@ -519,7 +484,7 @@ original_language_body: >-
   pagaván tributo à los Reyes de Juda: refierelo Pellizer sobre la octava 42.
   del Panagirico Gongorico: y Fray Iuan de la Puente lib. 3. cap. 13. p. 1.
   escrive: _los Iudios que vivian en Atenas y en España persuadieron a los
-  Gentiles Atenienses, y Españoles hiziessen ara al Sancto Dios de Israel_.
+  Gentiles Atenienses, y Españoles hiziessen ara al Sancto Dios de Israel_. 
 
 
   El Doctor Ishac Cardoso, en la Primera Ex- \[30\] celencia de los Hebreos fol.
@@ -544,33 +509,19 @@ original_language_body: >-
   reconociendo como cabeça a la Sancta Ciudad. Estrabon, hablando de Alexandria,
   afirma que tenian los Hebreos calles señaladas adonde vivian, con sus fueros,
   con Governadores de su propia nacion, con potestad absoluta como si fuera
-  Republica de por si.
+  Republica de por si. 
 
 
   Començaron sugun afirma Iosepho lib. I. c. 5, los Hebreos o Israelitas á
-  llamarse Iudios por el
-
-    
-
-  <p style="text-align: center">117</p>
-
-    
-
-  Tribu de Iudà que tenia el Señorio desde que tornaron de la captividad de
-  Babilonia los del
-
-
-  EMW 2004
-
-
-  propuesto Tribu de Iuda, con los de Benjamin, y los troços de otros Tribus que
-  e mezclaron con ellos. Dálo à conocer el cap. 2. de Hesther en apellidar à
-  Mordacheo con ser Benjaminita, _Varon Iudio_: y en afirmar el Paralipomenon
-  lib. 2. c. 30. n. 25. que muchos de Israel se unieron con los de Iuda en
-  tiempo del Rey Ezechias. Adviertelo Achior á Holophernes en el cap. 5. de
-  Iudith _Convertidos ha poco al Señor su Dios fueron juntados del esparcimiento
-  con que havian sido exparcidos y subieron a estas montañas: y tornaron à
-  cobrar à Ierusalem_.
+  llamarse Iudios por el Tribu de Iudà que tenia el Señorio desde que tornaron
+  de la captividad de Babilonia los del propuesto Tribu de Iuda, con los de
+  Benjamin, y los troços de otros Tribus que e mezclaron con ellos. Dálo à
+  conocer el cap. 2. de Hesther en apellidar à Mordacheo con ser Benjaminita,
+  _Varon Iudio_: y en afirmar el Paralipomenon lib. 2. c. 30. n. 25. que muchos
+  de Israel se unieron con los de Iuda en tiempo del Rey Ezechias. Adviertelo
+  Achior á Holophernes en el cap. 5. de Iudith _Convertidos ha poco al Señor su
+  Dios fueron juntados del esparcimiento con que havian sido exparcidos y
+  subieron a estas montañas: y tornaron à cobrar à Ierusalem_.
 
 
   No perdieron el govierno Democrastico los Israelitas ò Iudios que no fueron a
