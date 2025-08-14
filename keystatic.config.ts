@@ -1,149 +1,106 @@
 // keystatic.config.ts
 import { config, fields, collection } from '@keystatic/core';
 
+// List your years and sort DESC so newest shows first in the sidebar
+const YEARS = [
+    2003, 2004, 2005, 2006, 2007,
+    2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+    // …add the rest (e.g., 2013–2025)
+].sort((a, b) => b - a);
+
+const schema = {
+
+    year: fields.text({ label: 'Year', validation: { isRequired: true } }),
+    title: fields.text({ label: 'Title', validation: { isRequired: true } }),
+    description: fields.markdoc({ label: 'Description', validation: { isRequired: true } }),
+    original_language_body: fields.array(
+        fields.text({ label: 'Original Language' }),
+        // Labelling options
+        {
+            label: 'Original Langugage',
+            itemLabel: props => props.value
+        }
+    ),
+    bibliography: fields.object({
+        title: fields.text({ label: 'Title' }),
+        author: fields.text({ label: 'Author' }),
+        publication: fields.text({ label: 'Publication' }),
+        type: fields.text({ label: 'Type' }),
+        institution: fields.text({ label: 'Institution' }),
+        year: fields.text({ label: 'Publication Year' }),
+        pages: fields.text({ label: 'Pages' }),
+    }),
+    resource_link: fields.array(
+        fields.url({ label: 'Resource Link' }),
+        // Labelling options
+        {
+            label: 'Resource Link',
+        }
+    ),
+    publication_location: fields.array(
+        fields.text({ label: 'Primary Location' }),
+        // Labelling options
+        {
+            label: 'Primary Location',
+            itemLabel: props => props.value
+        }
+    ),
+    language: fields.array(
+        fields.text({ label: 'Language' }),
+        // Labelling options
+        {
+            label: 'Language',
+            itemLabel: props => props.value
+        }
+    ),
+
+    tags: fields.array(
+        fields.text({ label: 'Tag' }),
+        // Labelling options
+        {
+            label: 'Tag',
+            itemLabel: props => props.value
+        }
+    ),
+
+    institution: fields.text({ label: 'Institution', validation: { isRequired: true } }),
+    event: fields.object({
+        name: fields.text({label: 'Event Name'}),
+        theme: fields.text({label: 'Theme', validation: {isRequired: true}}),
+        Date: fields.object({
+            start: fields.date({label: 'Start Date', validation: {isRequired: true}}),
+            end: fields.date({label: 'End Date', validation: {isRequired: true}}),
+        }),
+    }),
+
+    volume: fields.integer({ label: 'Volume', validation: { isRequired: true } }),
+    author: fields.text({ label: 'Author', validation: { isRequired: true } }),
+    slug: fields.text({
+        label: 'Slug',
+        validation: { isRequired: true },
+        description: 'Filename without extension (e.g. my-post-title)',
+
+    }),
+    content: fields.markdoc({ label: 'Content', extension: 'md' }),
+};
+
 export default config({
     storage: {
         kind: 'github',
         repo: { owner: 'judaicadh', name: 'earlymodernworkshop' },
-        // Keystatic uses the repo’s default branch
+
     },
-
-    // One collection spanning all years (files live in per-year folders)
-    collections: {
-        documents: collection({
-            label: 'Documents',
-            // Folder per year; filename comes from the slug field (no extension here)
-            path: 'src/content/documents/{year}/*',
-            slugField: 'slug',
-
-            // Write/read the body content from the same file, with .md extension
-            format: { contentField: 'content'},
-
-            schema: {
-                // Basics
-                title: fields.text({ label: 'Title', validation: { isRequired: true } }),
-                author: fields.text({ label: 'Author' }),
-                institution: fields.text({ label: 'Institution' }),
-                volume: fields.integer({ label: 'Volume' }),
-                year: fields.text({
-                    label: 'Year',
-                    // you currently store year as a string in frontmatter; keep it as text to match
-                    validation: { isRequired: true },
-                }),
-                slug: fields.text({
-                    label: 'Slug',
-                    description: 'Filename without extension (e.g. messengers-to-themselves)',
-                    validation: { isRequired: true },
-                }),
-
-                // Event
-                event: fields.object(
-                    {
-                        name: fields.text({ label: 'Event Name' }),
-                        theme: fields.text({ label: 'Theme' }),
-                        date: fields.object(
-                            {
-                                start: fields.text({ label: 'Start Date (YYYY-MM-DD)' }),
-                                end: fields.text({ label: 'End Date (YYYY-MM-DD)' }),
-                            },
-                            { label: 'Date' }
-                        ),
-                    },
-                    { label: 'Event' }
-                ),
-
-                // Lists
-                language: fields.array(fields.text({ label: 'Language' }), {
-                    label: 'Language',
-                    itemLabel: ({ value }) => value ?? 'Language',
-                }),
-                tags: fields.array(fields.text({ label: 'Tag' }), {
-                    label: 'Tags',
-                    itemLabel: ({ value }) => value ?? 'Tag',
-                }),
-                publication_location: fields.array(fields.text({ label: 'Primary Location' }), {
-                    label: 'Primary Location',
-                    itemLabel: ({ value }) => value ?? 'Primary Location',
-                }),
-                text_location: fields.array(fields.text({ label: 'Secondary Location' }), {
-                    label: 'Secondary Location(s)',
-                    itemLabel: ({ value }) => value ?? 'Secondary Location',
-                }),
-                resource_link: fields.array(fields.text({ label: 'URL' }), {
-                    label: 'URL to resource',
-                    itemLabel: ({ value }) => value ?? 'URL',
-                }),
-
-                // Misc text
-                source_author: fields.text({ label: 'Source Author' }),
-                primarysourceinfo: fields.text({ label: 'Primary Source Information' }),
-
-                // Rich text / long text
-                description: fields.markdoc({
-                    label: 'Description',
-                    extension: "md",
-
-                }),
-
-                // Sections (list of rich sections)
-                sections: fields.array(
-                    fields.object(
-                        {
-                            title: fields.text({ label: 'Section Title' }),
-                            content: fields.markdoc({
-                                label: 'Section Content',
-                                extension: 'md',
-
-                            }),
-                        },
-                        { label: 'Section' }
-                    ),
-                    { label: 'Sections' }
-                ),
-
-
-
-                // Bibliography (list of objects)
-                bibliography: fields.array(
-                    fields.object(
-                        {
-                            author: fields.text({ label: 'Author' }),
-                            title: fields.text({ label: 'Title' }),
-                            publication: fields.text({ label: 'Publication' }),
-                            type: fields.text({ label: 'Type' }),
-                            institution: fields.text({ label: 'Institution' }),
-                            year: fields.text({ label: 'Year' }),
-                            pages: fields.text({ label: 'Pages' }),
-                        },
-                        { label: 'Bibliography Entry' }
-                    ),
-                    { label: 'Bibliography' }
-                ),
-
-                // Body fields
-                body: fields.markdoc({
-                    label: 'Body',
-                    extension: "md",
-                }), // <- this is the file body (contentField)
-
-                original_language_body: fields.text({
-                    label: 'Original Language Body',
-
-                }),
-
-                // Extra free text
-                test: fields.text({ label: 'test' }),
-
-                // Optional: attachments (PDFs, docs, images). Uncomment if you want uploads here.
-                // attachments: fields.array(
-                //   fields.file({
-                //     label: 'Attachment',
-                //     // Store under /public/assets so they serve at /assets/...
-                //     directory: 'public/assets',
-                //   }),
-                //   { label: 'Attachments' }
-                // ),
-            },
-        }),
-    },
+    // Build one collection per year; object key order = sidebar order
+    collections: Object.fromEntries(
+        YEARS.map((year) => [
+            `${year}`,
+            collection({
+                label: String(year),
+                path: `src/content/documents/${year}/*`,
+                slugField: 'slug',
+                format: { contentField: 'content'   },
+                schema,
+            }),
+        ])
+    ),
 });

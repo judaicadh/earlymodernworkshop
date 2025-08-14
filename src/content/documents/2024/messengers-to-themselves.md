@@ -7,9 +7,7 @@ slug: messengers-to-themselves
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: The Land of Israel
-  date:
-    start: 2024-08-19
-    end: 2024-08-20
+ 
 tags:
   - Jerusalem Community
   - Emissaries
@@ -22,19 +20,9 @@ description: "This study highlights a unique phenomenon in 16th and 17th-century
   addressing personal crises such as poverty, dowry funds, or captivity. The
   letters reveal the precarious circumstances of Jerusalem's Jewish population
   during the Ottoman period and the community's reliance on diaspora networks."
-sections:
-  - {}
-footnotes:
-  - {}
-bibliography:
-  - author: Matthias Lehmann
-    title: "*Emissaries from the Holy Land: The Sephardic Diaspora and the Practice
-      of Pan-Judaism in the Eighteenth Century*"
-    year: "2014"
-    pages: 15, 160
-  - author: Abraham Yaari
-    title: "*Emissaries from the Land of Israel*"
-    year: "1977"
+
+ 
+ 
 ---
 **Ruth Lamdan**
 
