@@ -291,7 +291,7 @@ While R. Yehuda Hayat's recommended list, including the Zohar, reflects the Seph
 
 R. Yehuda Hayat's strong declaration of the sanctity and authority of the Zohar was very influential in the sixteenth century. His commentary to _Sefer Marekhet ha-Elohut_ was printed twice, in Ferrara and Mantua, in the same year - and probably as a preparation to - the first printings of the Zohar, in Cremona and Mantua in 1558-1560.
 
-# Minhat Yehuda
+## Minhat Yehuda
 
 ## Yehuda Hayat, 1558
 
@@ -361,9 +361,9 @@ Boaz Huss, Ben-Gurion University of the Negev
 
 Israel R. Yakov Emden, one of the foremost Jewish intellectuals and rabbinic authorities of the second half of the eighteenth century, known for his fierce battle against Sabbatianism, wrote and published Mitpahat Sefarim, in Altona, in 1769. Mitpahat Sefarim includes lengthy arguments against the antiquity and authoritative status of the Zohar. It represents Emden's response to Sabbatianism still active at the time. It is also a response to the popularization of Kabbalah in his period. Irked by the centrality of Zohar study amongst the Sabbatianists, Emden, a Kabbalist himself, sought to challenge the authority of the Zohar by proving that the Zohar was not written by the second-century sage, R. Shimon bar Yochai. Emden argues that the Zohar is a complex composition, which, although may include some ancient texts, includes also many later additions and corruptions. He provided many historical and philological arguments that prove that the Zohar could not have been written in the Mishnaic period. Emden's critique of Zohar, which was partially based on earlier critiques against its authenticity, was the most elaborated and influential criticism against the Zohar at the time. His work was very influential: his critique of the Zohar was adopted enthusiastically by nineteenth-century Maskilim, who objected to the Kabbalah altogether, while some of his arguments were also accepted by modern academic Zohar scholarship.
 
-# Mitpahat Sefarim
+## Mitpahat Sefarim
 
-# Yakov Emden, 1769
+## Yakov Emden, 1769
 
 Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel
 
