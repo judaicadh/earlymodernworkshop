@@ -17,10 +17,8 @@ description: In this presentation Boaz Huss of Ben Gurion University discusses
   century, illustrating the popularization of the Zohar, the foundational
   kabbalistic text, in the early modern period.
 original_language_body: >-
-  ## Yehuda Hayat, 1558
-
-
-  Prepared by Boaz Huss, Ben-Gurion University of the Negev, Israel
+  <h2 style="text-align: center">Yehuda Hayat, 1558</h2><p style="text-align:
+  center">Prepared by Boaz Huss, Ben-Gurion University of the Negev, Israel</p>
 
 
   Notes: A commentary on Sefer Ma'rekhet ha-Elohut
@@ -140,41 +138,30 @@ original_language_body: >-
   והרב ר' שם טוב דליאון ענדם על גרגרותיך. וסודות הרמב"ן כתבם על לוח לבך. וספרי
   הרב ר' מנחם מריקנאטי ע"ה תקשרם לאות של ידך. וספר המערכת עם פירושי זה יהיה
   לטוטפות בין עיניך ואז תצליח את דרכיך ואז תשכיל. ומה' אשאל העזר ואומר כי אתה
-  תאיר נרי ה' אלקי יגיה חשכי:</p>
-
-
-  ### Endnotes
-
-
-  <p style="text-align: right">[1]תיקוני זוהר, כא ע"ב (תיקון ו).</p><p
-  style="text-align: right">[2]תיקוני זוהר, כג ע"ב- כד ע"א (תיקון ו)</p>
-
-
-  ## Yakov Emden, 1769
-
-
-  Prepared by Boaz Huss, Ben-Gurion University of the Negev, Israel
-
-
-  <p style="text-align: right">ר' יעקב עמדן, מטפחת ספרים, לבוב תרל'א (ד"צ
-  ירושלים תש"ל), סעיף קי, עמ' .104-106</p><p style="text-align: right">ואודות
-  המחבר, כבר פרשתי ובארתי דעתי היטב בחלק ראשון, ומנה לא אזוע, עד שיראני זולתי
-  הפכה, ואודה על האמת ואקבלנו, איך שיהא התערובת הפגום שנמצא בס"ה אשר ציינתי
-  ובארתי שם נראה בכ"מ כתורה חדשה. ותו קשיה לי טובא על אותן המראות הגדולות
-  וכנופיא של מלאכים וגילוי שכינה שנזכרו בס"ה לרוב, ביחוד באידרא, ובגמרא קחשיב ג'
-  הרצאות ותו לא, וד' שנכנס (!) בפרדס[1], טפי לא ואי איתא דרשב"י דס"ה, הוא התנא
-  הידוע, א"ה אמאי לא קחשיב ליה, לא בהרצאות ולא בנכנסים לפרדס, עוד יש לתמוה שבס"ה
-  נראה שהיו רגילים אצלו נשמות וצבא מעלה, ובגמרא ספ"ד דמעילה מצאנו ראינו שנתרעם
-  שלא נזדמן לו אפילו מלאך בעת צרה,[2] אולי היה אותו מעשה קודם שעמד בצער המערה,
-  מ"מ אידך הא קשיא.</p><p style="text-align: right">ועוד זאת הפעם אדרוש לבית
-  ישראל, אף אם כתבתי לך שלישים במועצות ודעת (משלי כב, כ) ואשרי דרכי ישמורו,
-  שומרי אמרת קדוש ישראל ובריתו ינצורו, לשקוד על דלתותיה יום יום, לדרוש דבר ה'
-  לדעת לעשות את כל מצות ה' ולשמור חוקותיו ומשפטיו וללכת בדרכיו, הם הם גבורי כח
-  עושי דבריו לשמוע בקול דברו וזוכרי פיקודיו לעשותם זהו העקר לא המדרש אלא המעשה,
-  וכמו שחתם החכם מכל האדם ספר החכמה ס"ד הכל נשמע א"א ירא ואת מצותיו שמור, כי זה
-  כל האדם (קהלת יב, יג), וכבר דברתי משפטים על הקובעים כל עיקר למודם בס"ה
-  ומשליכים אחרי גיום למוד ידעות המצות ואופן קיומן כהוגן, כמ"ש בס"ד במשנה לחם
-  בס"ד, אל תאבה ולא תשמע להם: ואע"פ שכתב בס"מ פ' התיקונים, דבהאי חבורא יפקון
+  תאיר נרי ה' אלקי יגיה חשכי:</p><h3 style="text-align: center">Endnotes</h3><p
+  style="text-align: right">[1]תיקוני זוהר, כא ע"ב (תיקון ו).</p><p
+  style="text-align: right">[2]תיקוני זוהר, כג ע"ב- כד ע"א (תיקון ו)</p><h2
+  style="text-align: center">Yakov Emden, 1769</h2><p style="text-align:
+  center">Prepared by Boaz Huss, Ben-Gurion University of the Negev,
+  Israel</p><p style="text-align: right">ר' יעקב עמדן, מטפחת ספרים, לבוב תרל'א
+  (ד"צ ירושלים תש"ל), סעיף קי, עמ' .104-106</p><p style="text-align:
+  right">ואודות המחבר, כבר פרשתי ובארתי דעתי היטב בחלק ראשון, ומנה לא אזוע, עד
+  שיראני זולתי הפכה, ואודה על האמת ואקבלנו, איך שיהא התערובת הפגום שנמצא בס"ה
+  אשר ציינתי ובארתי שם נראה בכ"מ כתורה חדשה. ותו קשיה לי טובא על אותן המראות
+  הגדולות וכנופיא של מלאכים וגילוי שכינה שנזכרו בס"ה לרוב, ביחוד באידרא, ובגמרא
+  קחשיב ג' הרצאות ותו לא, וד' שנכנס (!) בפרדס[1], טפי לא ואי איתא דרשב"י דס"ה,
+  הוא התנא הידוע, א"ה אמאי לא קחשיב ליה, לא בהרצאות ולא בנכנסים לפרדס, עוד יש
+  לתמוה שבס"ה נראה שהיו רגילים אצלו נשמות וצבא מעלה, ובגמרא ספ"ד דמעילה מצאנו
+  ראינו שנתרעם שלא נזדמן לו אפילו מלאך בעת צרה,[2] אולי היה אותו מעשה קודם שעמד
+  בצער המערה, מ"מ אידך הא קשיא.</p><p style="text-align: right">ועוד זאת הפעם
+  אדרוש לבית ישראל, אף אם כתבתי לך שלישים במועצות ודעת (משלי כב, כ) ואשרי דרכי
+  ישמורו, שומרי אמרת קדוש ישראל ובריתו ינצורו, לשקוד על דלתותיה יום יום, לדרוש
+  דבר ה' לדעת לעשות את כל מצות ה' ולשמור חוקותיו ומשפטיו וללכת בדרכיו, הם הם
+  גבורי כח עושי דבריו לשמוע בקול דברו וזוכרי פיקודיו לעשותם זהו העקר לא המדרש
+  אלא המעשה, וכמו שחתם החכם מכל האדם ספר החכמה ס"ד הכל נשמע א"א ירא ואת מצותיו
+  שמור, כי זה כל האדם (קהלת יב, יג), וכבר דברתי משפטים על הקובעים כל עיקר למודם
+  בס"ה ומשליכים אחרי גיום למוד ידעות המצות ואופן קיומן כהוגן, כמ"ש בס"ד במשנה
+  לחם בס"ד, אל תאבה ולא תשמע להם: ואע"פ שכתב בס"מ פ' התיקונים, דבהאי חבורא יפקון
   מגלותא ובגיניה וקראתם דרור[3], שמאמרים כאלא הניאו את לב ב"י מן העבודה, ומניחים
   התלמוד וכן כל ספרי פוסקי דינים והלכות, ואינם חוששין לגמרי לדעת מה יעשו, רק כל
   מגמתם ס"ה לא זולת, ובאמת הם מעקבים הקץ, וכמה תקלות יצאו מזה, בעו"ה וגרם חיי
@@ -261,25 +248,19 @@ original_language_body: >-
   צרעת של זקן ממרא, וצותה להמיתו על המראה קלה שבקלות, נדון על שם סופו כבן סורר
   ומורה הוקשה הוא הימנו, לכן צריך שמירה מעולה מקבלה מאיפת המוליכה אל התופת אשר
   חרשו חורשי און מבועים ועוטי עמל בגד בוגדים עושי' חסידות (עם חברותיה מנאפת)
-  פסולה, ה' רגלי חסידיו ישור (!) (שמ"א ב ט) ואל ישובו לכסלה (תהל' פה ט):</p>
-
-
-  **Endnotes**
-
-
-  <p style="text-align: right">[1] חגיגה יד ע"ב.</p><p style="text-align:
-  right">[2]מעילה יז ע"ב.</p><p style="text-align: right">[3]זוהר ח"ג קכד
-  ע"ב(רעיא מהימנא); ת"ז כד ע"א.</p><p style="text-align: right">[4]צ"ל
-  'מפי'</p><p style="text-align: right">[5]ספר יצירה, הקדמת הראב"ד, י ע"א.</p><p
-  style="text-align: right">[6]זוהר ח"א נה ע"ב.</p><p style="text-align:
-  right">[7]ב"מ נט ע"ב.</p><p style="text-align: right">[8]ע"פ מיכה ד, ז.</p><p
+  פסולה, ה' רגלי חסידיו ישור (!) (שמ"א ב ט) ואל ישובו לכסלה (תהל' פה ט):</p><p
+  style="text-align: center"><strong>Endnotes</strong></p><p style="text-align:
+  right">[1] חגיגה יד ע"ב.</p><p style="text-align: right">[2]מעילה יז
+  ע"ב.</p><p style="text-align: right">[3]זוהר ח"ג קכד ע"ב(רעיא מהימנא); ת"ז כד
+  ע"א.</p><p style="text-align: right">[4]צ"ל 'מפי'</p><p style="text-align:
+  right">[5]ספר יצירה, הקדמת הראב"ד, י ע"א.</p><p style="text-align:
+  right">[6]זוהר ח"א נה ע"ב.</p><p style="text-align: right">[7]ב"מ נט
+  ע"ב.</p><p style="text-align: right">[8]ע"פ מיכה ד, ז.</p><p
   style="text-align: right">[9]בחינת עולם, פרק יז, ירושלים תשי"ד, עמ' 85</p><p
   style="text-align: right">[10]נשמת חיים, מאמר רביעי, פרק כג, ירושלים תשכ"ח, עד
   ע"ב.</p><p style="text-align: right">[11]שבת קה ע"ב.</p>
 ---
-### Introduction to Minhat Yehuda
-
-Boaz Huss, Ben-Gurion University of the Negev, Israel
+<h3 style="text-align: center">Introduction to Minhat Yehuda</h3><p style="text-align: center">Boaz Huss, Ben-Gurion University of the Negev, Israel</p>
 
 **Notes:** A commentary on Sefer Ma'rekhet ha-Elohut 
 
@@ -291,11 +272,7 @@ While R. Yehuda Hayat's recommended list, including the Zohar, reflects the Seph
 
 R. Yehuda Hayat's strong declaration of the sanctity and authority of the Zohar was very influential in the sixteenth century. His commentary to _Sefer Marekhet ha-Elohut_ was printed twice, in Ferrara and Mantua, in the same year - and probably as a preparation to - the first printings of the Zohar, in Cremona and Mantua in 1558-1560.
 
-## Minhat Yehuda
-
-## Yehuda Hayat, 1558
-
-Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel
+<h2 style="text-align: center">Minhat Yehuda</h2><h2 style="text-align: center">Yehuda Hayat, 1558</h2><p style="text-align: center">Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel</p>
 
 It is written in Sefer ha-Tikkunim: "\`if along the road, you chance upon a birds nest\` (Deut 22.6). \`Fledglings\`: these are Torah Scholars (Talmidei Hachamim), whose merit makes the Divine Presence (Schechina) dwell on earth. \`Or eggs\`: these are young students of the Torah (Tinokot shel beit Raban), whose merit makes the Divine Presence dwell with the people of Israel, and they are the masters of the Bible (Ba'alei Mikra). And while they are studying Torah or Commandment, who are the Holy One Blessed be He and the Divine Presence, they unite them as one, and inherit from them souls, that are called \`Birds\`. Because the masters of the Bible and the masters of the Mishna are her wings, \`the mother sits over the fledgling or the on the eggs\` (ibid). She sits upon them with her four wings. About them it is written \`four wings\` (Ezekiel 1.6). Suckling, small countenance - these are four faces each. With these the mother sits upon them, and at time, she ascends from them. Yet, \`the young (Banim)\` (Ibid) - from her own womb, on them it is said, \`sons of love\`. These are the masters of Kabbalah. On them it is written: \`do not take the mother together with her young\` (ibid) - the Divine Presence never forsakes them."\[1\]
 
@@ -349,23 +326,19 @@ Than you shall succeed in your ways and become wise.
 
 From the Lord I ask help and say, it is \`You who light my lamp; the Lord, my God, lights up my darkness\`(Psalms 18.29)
 
-### Endnotes
+<h3 style="text-align: center">Endnotes</h3>
 
 \[1\]TZ 21b
 
 \[3\]TZ 116a.
 
-### Introduction to Mitpahat Sefarim
+<h3 style="text-align: center">Introduction to Mitpahat Sefarim</h3>
 
 Boaz Huss, Ben-Gurion University of the Negev
 
 Israel R. Yakov Emden, one of the foremost Jewish intellectuals and rabbinic authorities of the second half of the eighteenth century, known for his fierce battle against Sabbatianism, wrote and published Mitpahat Sefarim, in Altona, in 1769. Mitpahat Sefarim includes lengthy arguments against the antiquity and authoritative status of the Zohar. It represents Emden's response to Sabbatianism still active at the time. It is also a response to the popularization of Kabbalah in his period. Irked by the centrality of Zohar study amongst the Sabbatianists, Emden, a Kabbalist himself, sought to challenge the authority of the Zohar by proving that the Zohar was not written by the second-century sage, R. Shimon bar Yochai. Emden argues that the Zohar is a complex composition, which, although may include some ancient texts, includes also many later additions and corruptions. He provided many historical and philological arguments that prove that the Zohar could not have been written in the Mishnaic period. Emden's critique of Zohar, which was partially based on earlier critiques against its authenticity, was the most elaborated and influential criticism against the Zohar at the time. His work was very influential: his critique of the Zohar was adopted enthusiastically by nineteenth-century Maskilim, who objected to the Kabbalah altogether, while some of his arguments were also accepted by modern academic Zohar scholarship.
 
-## Mitpahat Sefarim
-
-## Yakov Emden, 1769
-
-Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel
+<h2 style="text-align: center">Mitpahat Sefarim</h2><h2 style="text-align: center">Yakov Emden, 1769</h2><p style="text-align: center">Translated by Boaz Huss, Ben-Gurion University of the Negev, Israel</p>
 
 Concerning the author, I have already explained well and clarified my opinion in the first part, and I will not change it. Only if someone shall prove the opposite, than I will admit the truth and accept it. For the flawed mixture that is found in the Zohar, which I have explained there, seems like a new Torah. Furthermore, I find it very difficult to account for the great visions, the assemblies of angels, and the revelations of the Shekhina, which are mentioned many times in the Zohar, especially in the Idra. In the Talmud, only three lectures (on Ma\`aseh Merkava) are accounted for, no more, and only four who entered the Pardes, no more.\[1\] If Rashbi of the Zohar is the famous Tanna, why is he not mentioned amongst the lecturers, or those who entered the Pardes? Furthermore, it is perplexing that according to the Zohar he was frequented by (deceased) souls and higher powers, while in the Talmud, at the end of the 4th chapter of Me\`ilah\[2\], we have found that he complained that he was not visited by an angel even in times of distress? This may have happened before he suffered in the cave, but the other cases are difficult to account for.
 
@@ -387,7 +360,7 @@ Much more so after it became clear that bad weeds have grown in the lovely fruit
 
 Thus my son, guard yourself and be careful, take heed of my warning, do not lie in your heart to say, I shall investigate much, and will not stray at all from the way. Look well into Nahmanides introduction to his Torah commentary. The gist of the matter is whether my heart inclines right to the words of the Kabbalists, or inclines left to the external books, to the wise and their riddles, do not study what is inexplicable for you, do not investigate what is hidden from you, and do not rely on your own understanding. Do not be wise in your own eyes, like the Bedershi, at the end of Sefer \`Behinat ha-Olam\`\[6\], nor let your heart be quick to bring forth speech before God, like the author of \`Nishmat Hayyim\` at the end of his book.\[7\] But, believe in what your forefathers believed in (\`Ask your father he will inform you\` \[Deut. 32,7\], \`Ask the generation past\` \[Job 8,8\]) and your Rabbis, the authors of the Mishna, that was written and compiled by our holy Rabbi, the disciple of the true Tanna Rashbi, the disciple of R. Akiva, the disciple of R. Eliezer and R. Yehoshua, the disciples of R. Yohanan ben Zacai, the disciple of Hillel the elder, who received from the couples, who received from the prophets and elders, until Moses from Sinai. And from the words of the Talmud that the Tannaim and Amoraim have founded do not let your feet stray, and do not deviate from the verdict that they announce to you either to the right or to the left. Know that if one attempts to annul an impediment in their decrees he is seeking after evil, \`today he says do thus etc.\`\[8\] We have learned from experience that everyone who at the beginning was lenient with the decrees of Hazal, at the end attempted to change the law.
 
-### Endnotes
+<h3 style="text-align: center">Endnotes</h3>
 
 \[1\] BT Hagiga 14b.
 
