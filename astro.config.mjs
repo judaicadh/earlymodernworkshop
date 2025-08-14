@@ -29,7 +29,7 @@ import keystatic from "@keystatic/astro";
 export default defineConfig({
   // The full URL to your site
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
-  output: 'server',
+ 
   markdown: {
     remarkPlugins: [
        [ remarkToc, { heading: 'toc', maxDepth: 3 }],
