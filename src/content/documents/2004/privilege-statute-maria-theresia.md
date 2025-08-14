@@ -207,9 +207,9 @@ Lois Dubin, Smith College, USA
 
 In 1771 the Habsburg ruler Maria Theresia issued a Privilege and a Statute to Jews in Trieste, both to confirm their status and to attract additional Jewish merchants to help develop the Adriatic Free Port. Utility was the key: the perception of Jewish commercial utility was the basis for initially including Jews in general invitations to merchants (1719, 1725), and then for granting formal standing to the Jewish community as a corporate body (“Nation”) in 1746 (a model followed for other non-Catholic mercantile communities), and also favorable conditions of residence, work, protection, justice, and religion to Jews as individuals. Jews were recognized as subjects of the realm, and were in many respects, as individuals and as a community, put on a par with others, particularly non-Catholic merchants. Favorable status and economic opportunity drew Jews to Trieste; they increased from approximately 100 in 1735 to 400 in 1775 to 1250 in 1800, becoming the largest minority, approximately five percent of the city's population. The Theresian documents are useful for reconsidering Jewish status in early modern Europe and particularly the roads from expulsion (1492) to readmission to emancipation (1790-1). Maria Theresia's pragmatic policy in Trieste, adopted despite her usual anti-Jewish hostility, underscores the importance of utility, maritime commerce, and port-cities in creating new opportunities for Jews. Certain familiar dichotomies are too simplistic: expulsion or emancipation; tolerated aliens or equal citizens; utility or humanity; old-style privileges or modern constitutional rights; corporate or individual rights. The Theresian documents and the accompanying ones--ranging from 17th-century Holland through the Josephinian toleration edicts of the 1780s (here Vienna 1782) through the Emancipation of French Jews, especially of Sephardim in 1790-- reveal noteworthy continuities concerning utility, service, and rights of subjects and citizens. They highlight changing notions of subjecthood and civil inclusion of Jews before legal emancipation, and show that individual and corporate communal rights were not necessarily antithetical.
 
-**Texts:**
+### **Texts:**
 
-A. Theresian Privilege and Statute:
+**A. Theresian Privilege and Statute:**
 
 Italian originals:
 
@@ -219,7 +219,7 @@ Statute, opening paragraph only, from Maternini-Zotta book, p. 218
 
 English translations by Lois Dubin
 
-B. Accompanying documents:
+**B. Accompanying documents:**
 
 1\. Menasseh ben Israel, “How Profitable the Nation of the Jews Are” (1655), from MendesFlohr and Reinharz, _The Jew in the Modern World_, pp. 10-13
 
@@ -229,7 +229,7 @@ B. Accompanying documents:
 
 4\. Documents concerning the Emancipation of the Jews in France, The French National Assembly 1789-1791, excerpts from Mendes-Flohr and Reinharz, _The Jew in the Modern World_, pp. 114-118
 
-Short Bibliography
+**Short Bibliography**
 
 Catalan, Tullia. _La comunità ebraica di Trieste: Politica, società e cultura_ (1781-1914). Trieste, 2000.
 
