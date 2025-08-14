@@ -1,20 +1,19 @@
-# netlify.toml
 [build]
-  command  = "npm ci && npm run build"
-  publish  = "dist"
+  command = "npm run build"
+  publish = "dist"
   functions = "netlify/functions"
 
-[build.environment]
-  NODE_VERSION = "20"
+[functions]
+  node_bundler = "esbuild"
 
-# Make sure /admin routes to the static admin shell
+# OAuth endpoints expected by the GitHub backend
 [[redirects]]
-  from = "/admin/*"
-  to   = "/admin/index.html"
+  from = "/oauth/*"
+  to = "/.netlify/functions/oauth"
   status = 200
 
-# SPA/astro client-side routing fallback
+# CMS SPA routing (optional)
 [[redirects]]
-  from = "/*"
-  to   = "/index.html"
+  from = "/admin/*"
+  to = "/admin/index.html"
   status = 200

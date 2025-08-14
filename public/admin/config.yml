@@ -1,138 +1,21 @@
-# Use DecapBridge auth (required)
 backend:
-  name: git-gateway
+  name: github
   repo: judaicadh/earlymodernworkshop
   branch: main
-  identity_url: https://auth.decapbridge.com/sites/ef8e5243-7d3a-4445-b792-316be33379ba
-  gateway_url: https://gateway.decapbridge.com
+  base_url: https://earlymodernworkshop.judaicadhpenn.org  # where the OAuth proxy lives
 
-  # Quickly see who did what (optional)
-  commit_messages:
-    create: Create {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
-    update: Update {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
-    delete: Delete {{collection}} “{{slug}}” - {{author-name}} <{{author-login}}> via DecapBridge
-    uploadMedia: Upload “{{path}}” - {{author-name}} <{{author-login}}> via DecapBridge
-    deleteMedia: Delete “{{path}}” - {{author-name}} <{{author-login}}> via DecapBridge
-    openAuthoring: Message {{message}} - {{author-name}} <{{author-login}}> via DecapBridge
-
-# Better Decap + Bridge logo (optional)
-logo_url: https://decapbridge.com/decapcms-with-bridge.svg
-
-# Add site links in DecapCMS (optional)
-site_url: https://earlymodernworkshop.judaicadhpenn.org
-
-# Use your existing asset layout
-media_folder: "src/assets"   # files committed here
-public_folder: "/assets"     # how they’re referenced at runtime
-
-publish_mode: editorial_workflow
-slug:
-  encoding: "unicode"
-  clean_accents: true
+media_folder: "public/uploads"
+public_folder: "/uploads"
 
 collections:
-  - name: "documents"
-    label: "Documents"
-    folder: "src/content/documents"
+  - name: "pages"
+    label: "Pages"
+    folder: "src/content/documents"    # change to your path(s)
     create: true
-    preview_path: {{year}}/{{slug}}
+    slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
-    slug: "{{slug}}"
-    nested:
-      depth: 10            # how deep to allow navigation
-      summary: "{{title}}" # what to show for each file in the tree
-
-    # ✅ When creating new entries, save them under /{year}/{slug}.md
-    # (uses the 'year' and 'slug' fields from your form)
-    path: "{{year}}/{{slug}}"
-
-
     fields:
-      - { label: "Title", name: "title", widget: "markdown", required: true }   # was rich-text
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Institution", name: "institution", widget: "string", required: false }
-      - { label: "Volume", name: "volume", widget: "number", required: false }
-      - { label: "Year", name: "year", widget: "string", required: true }
-      - { label: "Slug", name: "slug", widget: "string", required: true }
-
-      - label: "Event"
-        name: "event"
-        widget: "object"
-        fields:
-          - { label: "Event Name", name: "name", widget: "string" }
-          - { label: "Theme", name: "theme", widget: "string" }
-          - label: "Date"
-            name: "date"
-            widget: "object"
-            fields:
-              - { label: "Start Date", name: "start", widget: "string" }
-              - { label: "End Date", name: "end", widget: "string" }
-
-      - label: "Language"
-        name: "language"
-        widget: "list"
-        required: false
-        field: { label: "Language", name: "item", widget: "string" }
-
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        required: false
-        field: { label: "Tag", name: "item", widget: "string" }
-
-      - { label: "Source Author", name: "source_author", widget: "string", required: false }
-
-      - label: "Publication location"
-        name: "publication_location"
-        widget: "list"
-        required: false
-        field: { label: "Location", name: "item", widget: "string" }
-
-      - label: "Locations mentioned in text"
-        name: "text_location"
-        widget: "list"
-        required: false
-        field: { label: "Location", name: "item", widget: "string" }
-
-      - { label: "Primary Source Information", name: "primarysourceinfo", widget: "string", required: false }
-
-      - label: "URL to resource"
-        name: "resource_link"
-        widget: "list"
-        required: false
-        field: { label: "URL", name: "item", widget: "string" }
-
-      - { label: "Description", name: "description", widget: "markdown", required: false }  # was rich-text
-
-      - label: "Sections"
-        name: "sections"
-        widget: "list"
-        required: false
-        fields:
-          - { label: "Section Title", name: "title", widget: "string", required: false }
-          - { label: "Section Content", name: "content", widget: "markdown", required: false }  # was rich-text
-
-      - label: "Footnotes"
-        name: "footnotes"
-        widget: "list"
-        required: false
-        fields:
-          - { label: "Reference", name: "ref", widget: "string" }
-          - { label: "Text", name: "text", widget: "markdown" }   # was rich-text
-
-      - label: "Bibliography"
-        name: "bibliography"
-        widget: "list"
-        required: false
-        fields:
-          - { label: "Author", name: "author", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publication", name: "publication", widget: "string" }
-          - { label: "Type", name: "type", widget: "string" }
-          - { label: "Institution", name: "institution", widget: "string" }
-          - { label: "Year", name: "year", widget: "string" }
-          - { label: "Pages", name: "pages", widget: "string" }
-
-      - { label: "Body", name: "body", widget: "markdown" }                     # was rich-text
-      - { label: "Original Language Body", name: "original_language_body", widget: "markdown" }  # was rich-text
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug",  name: "slug",  widget: "string" }
+      - { label: "Body",  name: "body",  widget: "markdown" }
