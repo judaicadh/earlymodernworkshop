@@ -12,43 +12,10 @@ language:
   - German
 publication_location:
   - Strausbourg
-description: >-
-  Mysterium: About the Conversion of the Jews: As was situated and preached in
-  the Strasbourg cathedral. Das ist Geheimnis S. Pauli Rom am II Von Bekherung
-  der Juden als gelegt und geprediget zu Strassburg Munster. Strasbourg, 1592
-
-
-  Elias Schadeus (1541-1593) held various pastoral positions in Strasbourg's
-  Lutheran churches, beginning in 1570 until his death. In 1586, Schadeus was
-  appointed as a Hebrew professor at Strasbourg's university. Like many of the
-  Christian Hebraists in Strasbourg, Schadeus composed various grammatical
-  textbooks, teaching students Hebrew grammar and language in an effort to
-  instruct them in the truths of Christianity, based on the Hebraica Veritas.
-
-
-  Schadeus also applied his knowledge of Hebrew in an attempt to actively
-  convert the Jews. In his role as preacher at Strasbourg's cathedral from
-  1581-1593, Schadeus preached tolerance of the Jew. Echoing the notion
-  expressed by Martin Luther in his 1523 treatise, That Jesus Christ was Born a
-  Jew, Schadeus argued that Christian kindness and economic inclusion would
-  facilitate Jewish conversion. In addition, Schadeus founded a Hebrew printing
-  press, through which he hoped to attract the Jews to Christianity through
-  printed media in their own language. To this end, he translated five books of
-  Luther's New Testament into Judaeo- German, which he published together with a
-  preface, excerpts from the Old Testament, some of his sermons and additional
-  arguments intended to attract the Jews to Lutheranism.
-
-
-  Included in this published volume is a supplication to Strasbourg's council,
-  in which Schadeus beseeches the magistrates on behalf of a young Jewess he had
-  baptized as Susanna. His request, written ten years after her baptism, is that
-  Susanna be granted the status of a Stattkind, a ward of the city. This status
-  and the stipend involved would help combat her poverty and facilitate her
-  marriage by enabling her to work within the city. This text reflects Schadeus'
-  position that economic tolerance of Jews and of converts would facilitate
-  conversion to Christianity. It also documents the desperation felt by Jewish
-  converts to Christianity, who had difficulty integrating into both their old
-  and new societies.
+description: This text reflects Elia Schadeus' position that economic tolerance
+  of Jews and of converts would facilitate conversion to Christianity. It also
+  documents the desperation felt by Jewish converts to Christianity, who had
+  difficulty integrating into both their old and new societies.
 footnotes:
   - ref: "[^1]"
     rich-text: He required letters testifying that her conversion was complete and
@@ -165,6 +132,18 @@ original_language_body: >-
   Undertheniger Burger und Prediger M. Elias Schad/ in namen und von wegen
   gegenwertiger Personen
 ---
+## Source 1 Introduction
+
+Mysterium: About the Conversion of the Jews: As was situated and preached in the Strasbourg cathedral. Das ist Geheimnis S. Pauli Rom am II Von Bekherung der Juden als gelegt und geprediget zu Strassburg Munster. Strasbourg, 1592
+
+Elias Schadeus (1541-1593) held various pastoral positions in Strasbourg's Lutheran churches, beginning in 1570 until his death. In 1586, Schadeus was appointed as a Hebrew professor at Strasbourg's university. Like many of the Christian Hebraists in Strasbourg, Schadeus composed various grammatical textbooks, teaching students Hebrew grammar and language in an effort to instruct them in the truths of Christianity, based on the Hebraica Veritas.
+
+Schadeus also applied his knowledge of Hebrew in an attempt to actively convert the Jews. In his role as preacher at Strasbourg's cathedral from 1581-1593, Schadeus preached tolerance of the Jew. Echoing the notion expressed by Martin Luther in his 1523 treatise, That Jesus Christ was Born a Jew, Schadeus argued that Christian kindness and economic inclusion would facilitate Jewish conversion. In addition, Schadeus founded a Hebrew printing press, through which he hoped to attract the Jews to Christianity through printed media in their own language. To this end, he translated five books of Luther's New Testament into Judaeo- German, which he published together with a preface, excerpts from the Old Testament, some of his sermons and additional arguments intended to attract the Jews to Lutheranism.
+
+Included in this published volume is a supplication to Strasbourg's council, in which Schadeus beseeches the magistrates on behalf of a young Jewess he had baptized as Susanna. His request, written ten years after her baptism, is that Susanna be granted the status of a Stattkind, a ward of the city. This status and the stipend involved would help combat her poverty and facilitate her marriage by enabling her to work within the city. This text reflects Schadeus' position that economic tolerance of Jews and of converts would facilitate conversion to Christianity. It also documents the desperation felt by Jewish converts to Christianity, who had difficulty integrating into both their old and new societies.
+
+## Source 1 Translation
+
 Copy of a Supplication to the respectable Magistrates of the City of Strasbourg, \[in the\] year 1591, the third of January, offered on behalf of a baptized Jewess, in order to obtain both her rights as a burgher and her marriage tax. And this is laid out here \[for\] the respectable council to honor, and for others in the same situation, as an example of the following.
 
 Stern, noble, honorable, cautious, wise, gracious men, \[who\] command respect:
@@ -187,4 +166,24 @@ Because of that, then, I ask daily. And to do such a journey also with diligence
 
 Subservient Citizen and Preacher, M. Elias Schad
 
-In the name and on behalf of the contemporary person
+## In the name and on behalf of the contemporary person  
+  
+Source 1 Original Text
+
+Copia einer Supplication an einen Ehrsamen Rath der Statt Straßburg/ Anno 91. den 3. Januarii/ für eine getauffte Judin gestellt/ dadurch ihr beide das Burgrecht und Ehestewr erlanget/ dem Ehrsamen Rath zu Ehren/ und andern in gleichen fellen zum Exempel der nachfolgung hierhergesetzt.
+
+Gestrenge/ Edle/ Ehrnveste/ Fürsichtige/ Weise/ Gnedige und gebietende herren/ Wiewol ich E.G. eine solche sach fürbringe/ die zu vor an diesem orth/ viellich in 100. oder mehr Jaren nicht fürkomen/ so hoff ich doch zu Gott/ Es werd E.G. nach dem sie dieselb sampt den ursachen angehört/ dabey thun/ das sie nach ihrer Gottes forcht und hohen verstand/ Christlich und billich zu sein erkennen.
+
+Sie belanget aber gegenwertige Personen/ und sonderlich die Weibsperson/ Die ist auß dem Jüdischen volck geboren/ vor 11. Jaren/ durch deß lieben Gottes wunderbare und gnedige schickung mir zu gebracht/ ein halb Jar in meinem hause gewesen/ recht unterwissen/ zum Alten S. Peter in gegenwart einer grossen Gemein/ den herrn Christo unnd seiner lieben Kirchen durch die heilige Tauffe eingeleibet worden/ von der selben zeit an/ hat sie 10. gantzer Jar bey ihrer göttel und pfettern/ herr Johann Adolph Fürsten gedienet/ un\[d\] sich _Relative_ zu melden/ also in ihrem dienst unnd Nachbarschafft verhalten/ das sie ires Christlichen und Erbaren Wandels meniglich lieb gewesen/ und wegen ihres guten zeugnis von gegenwertigem Schreinergesellen auß dem Würtenbergerland bürtig zur Ehe begert/ un\[d\] auff sein Ehrlich Man\[nes\]recht und Lehrbrieff so er gebracht/ von ihren herrn pfettern/ herr Johan Adoplh Fürsten/ herr Johan Jacob Stössern/ auch mir/ ihme zugesagt/ un\[d\] drauff ihre Ehe mit offenem und ordentlichen kirchgang bestetiget worden.
+
+Nun sie aber Burgerlich unnd haußlich sich allhie nicht können einlassen ohne das Burgrecht und aber beyde arm und uber ire kleider anders nichts zusamen gebracht/ denn was inen von iren Pfettern und götelen un\[d\] andern guthertzigen auß Christlicher liebe gestewret/ als
+
+erscheinen sie für E.G. und herrlichkeit Persönlich/ und ich als ihr armer Patron Schrifftlich/ underthenig unnd Demutig Supplierend/ das E.G. diese Person so allhie widergeboren/ unnd so lang zeit sich Christlich gehalten/ für ein Stattkind annemmen und Adoptieren wolle/ In betrachung daß sie deß herrn Christi/ der uns heiden in das Geistliche unnd himlisch Burgrecht Adoptiert/ Blutsverwandte/ und umb des Christliche glaubens willen eine Tochter deß glaubigen Abrahambs ist/ und derhalben billich d\[ar\]z\[u\] sie mehr der glaubigen Patriarchen/ Propheten/ Apostel/ ja deß herrn Christi geniesse/ den der verstocken und lesterigen Juden entgelte. Das sie auch umb der Christlichen Religionen willen/ Ihr volck/ Vatter/ Mutter. Freundschafft/ auch nahrung und Erb/ so sie zugewarten gehabt/ hat müssen verlassen.
+
+Das es auch _Iure gentium_ Je unnd je also gehalten worden/ und noch unter den Türke\[n\] ublich/ das die Jenigen so von andern Völckern zu ihnen getreten dieselb Religion angenommen/ an dem orth da sie ihre Profession gethan/ gleich mit in die gemeinschafft aller Burgerlichen gerechtigkeit und Freyheit angenommen worden und noch werden. Endlich das auch Gott der herr im alten Testament zu underschieden malen durch Mosen befohlt un\[d\] die verordnung gethan/ Das die Frembdlinge/ das ist/ Die sich von heiden zu ihnen begeben/ einerley Recht mit den Juden haben und geniessen solten/ Welchs auch jederzeit also gehalten und do es nicht geschehe\[n\] durch die Propheten ernstlich gestrafft. Und ist sonderlich zumercken/ das/ wie im 2. buch der Cronik 2. zulessen/ die Frembdlinge gezehlet/ und derselben eine grosse Sum\[ma\]/ Nemlich 153600. gefunden/ und zum Baw des Tempels gebrauchen worden. Und so solches im Alten Testament geschähen/ soll es billich im Newen Testament/ da sich das blat umb gekehret/ auch also gehalten werden. In betrachtung der ursachen die der Apostel Paulus Ro\[mans\] 11. meldet/ un\[d\] hie umb geliebter kürtze willen/ Weil ich sie vor etlichen Wochen inn der Mittagspredigt außführlich gehandelt/ unnd unuonnöthen zu widerholen.
+
+So dann nu E.G. Wie ich hoff in erwegung angedeuter ursachen/ sie zum Stattkind Adoptieren und auß gnaden annemen/ so versihe ich mich gentzlich/ der Stifftung gar nicht zuwider oder entgegen sein/ Wenn ihr auch die 20. gulden zum anfang ihres handwercks wie andern armen Ehrlichen Stattkindern von E.G. zu erkent/ oder anderswoher eine stewr widerfare\[n\] möchte. Darin\[nen\] ich doch E.G. gar nichts fürgeschreiben/ sondern umb Christi deß Edlen Juden willen/ auch aller glaubigens Vatters Abraham/ der lieben Propheten und Aposteln/ so Juden gewesen/ und von denen und durch die uns heiden das heil und viel guts zukomen/ allein angedeutet gebeten/ und doch denselben in aller underthenigkeit heimgestelt haben will: der gentzlichen hoffnung/ es werden nicht allein gegenwertige Personen sich als Christliche Eheleut/ Gottförchtig Erbar und danckbarlich verhalten un\[d\] erzeige\[n\]/ sondern auch der herr Christus selbs umb dessen willen es geschicht/ solche gutthat/ E.G. unnd gantzer Statt in andern wegen/ mit Reichen Segen vergelten/ Darumb ich denn auch teglich bitte/ unnd solches hinfort auch fleissig zuthin/ wie mich schuldig erken\[n\]e/ also hiemit will erbotten haben.
+
+E.G. und H.
+
+Undertheniger Burger und Prediger M. Elias Schad/ in namen und von wegen gegenwertiger Personen
