@@ -35,6 +35,7 @@ collections:
     label: "Documents"
     folder: "src/content/documents"
     create: true
+    preview_path: {{year}}/{{slug}}
     extension: "md"
     format: "frontmatter"
     slug: "{{slug}}"
