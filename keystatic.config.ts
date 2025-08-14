@@ -8,7 +8,7 @@ export default config({
     collections: {
         documents: collection({
             label: 'Documents',
-            path: 'src/content/documents/{year}/{slug}.md',
+            path: 'src/content/documents/*/*.md',
             slugField: 'slug',
             format: { contentField: 'content' },
             schema: {
