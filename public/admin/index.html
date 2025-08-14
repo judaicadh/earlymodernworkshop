@@ -1,30 +1,20 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Static CMS styles -->
     <link rel="stylesheet" href="https://unpkg.com/@staticcms/app@^4.0.0/dist/main.css" />
     <title>Content Manager</title>
 </head>
 <body>
-<!-- Include the script that builds the page and powers Static CMS -->
+<!-- Static CMS app -->
 <script src="https://unpkg.com/@staticcms/app@^4.0.0/dist/static-cms-app.js"></script>
 <script>
+    // If you keep config at /admin/config.yml, this one line is enough:
     window.CMS.init();
+    // (Optional) Be explicit:
+    // window.CMS.init({ configPath: '/admin/config.yml' });
 </script>
-<script>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-            if (!user) {
-                window.netlifyIdentity.on('login', () => {
-                    document.location.href = '/admin/';
-                });
-            }
-        });
-    }
-</script>
-
 </body>
 </html>
