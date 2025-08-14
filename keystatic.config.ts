@@ -16,7 +16,7 @@ const schema = {
         validation: { isRequired: true },
         description: 'Filename without extension (e.g. my-post-title)',
     }),
-    content: fields.markdoc({ label: 'Content' }),
+    content: fields.markdoc({ label: 'Content', extension: 'md' }),
 };
 
 export default config({
@@ -33,7 +33,7 @@ export default config({
                 label: String(year),
                 path: `src/content/documents/${year}/*`,
                 slugField: 'slug',
-                format: { contentField: 'content', contentExtension: 'md' },
+                format: { contentField: 'content'   },
                 schema,
             }),
         ])
