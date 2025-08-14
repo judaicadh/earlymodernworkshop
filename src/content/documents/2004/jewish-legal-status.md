@@ -37,7 +37,7 @@ Sh. A. Cygielman, “The Basic Privileges of the Jews in Great Poland as Reflect
 
 A. Teller, “A View from the East: The Legal Status and the Legal System of Polish Jewry in the 16th-18th Centuries” in: A. Gotzmann, S. Wendehorst (eds.)_, Von den Rechtsnormen zur Rechtspraxis. Ein neuer Zugang zur Rechtsgeschichte der Juden im Alten Reich \[Beiheft der Zeitschrift fuer Historische Forschung_\] (Forthcoming).
 
-## **Source 1**
+## **Source 1 Translation**
 
 In the Name of the Lord, Amen. As a perpetual memorial, We, Kazimierz, by the grace of God, King of Poland, as well as of the lands of Krakow, Sandomierz, Sieradz, Leczyca and Kujawa, Grand Duke of Lithuania. Hereditary Lord of Pomerania and Ruthenia, give notice by this present document to all those whom it may benefit, both now and in the future, who have knowledge of this document: That before Our Majesty appeared as delegates Our Jews from the lands of Great Poland, namely from the Palatinates of Poznań, Kalisz, Sieradz, Łęczyca, Brześć, and Włocławek, and the districts pertaining to them, and related: That the laws which they had previously received from the most serene prince of blessed memory, Our predecessor, Lord Kazimierz, King of Poland, and which they had always enjoyed in the times of the other kings, Our predecessors, and in our day, at all times and occasions, were reduced to ashes by the fire when before Our very eyes Our city of Poznań, in Our presence, was consumed in a firestorm. They \[i.e. the Jews\] are requesting and humbly supplicating that we should graciously agree to renew, ratify, and confirm the laws, according to a copy of the said laws which they have shown us. Which laws thus given, copied word for word, read thus.
 
@@ -73,4 +73,40 @@ J. Goldberg, "The Privileges Granted to Jewish Communities of the Polish Commomw
 
 A. Teller, "The Legal Status of the Jews on the Magnate Estates of Poland-Lithuania in the Eighteenth Century", _Gal-Ed_ 15-16 (1997): 41-63.
 
-## **Source 2**
+## **Source 2 Translation**
+
+To all those in general and anyone in particular, whether now or in the future, who needs to know, we state:
+
+That the kahal and burghers of our town of Jampol have laid before us in presentation a privilege written on parchment and granted to that kahal by His Grace, Prince Janusz Korybut Wiśniowiecki Wojewoda of Kraków, of blessed memory. In response to their strenuous request we permit its copying here as follows.
+
+With this, my privilege, I inform all those in general and anyone in particular who needs to know, now and in the future, that God Almighty, who grants earthly consolations to all, has caused the afflictions of the last thirty years - the tiresome Turkish war and frequent Tatar incursions, and now the daily trial of the Swedish and Muscovite armies and other passersthrough, which have deprived this country of its pride and caused it the most unfortunate and highly lamentable loss; Jampol, my hereditary town has also undergone this misfortune. With divine help, raising \[the town\] from its ruins \[and\] striving to bring it back to vigor, I have resolved, desiring to encourage both those who are returning to their patrimony and other \[settlers\], to grant the citizens of this town rights to the benefit of their greater freedom and the increase of their fortunes. Which freedoms and rights - with the same benefits held by all my other towns - \[are\] granted them by me in the following privilege to serve their \[needs\].
+
+First of all, there is to be free distillation of vodka, and alcohol may be sold in all the houses and open streets; however, Jews and Christians must return \[payments\] to my arenda on the distillation of vodka, the fermentation of mead and the brewing of beer according to the contract which will be made at the time. I grant them the freedom to engage in all forms of trade, both purchasing and selling goods of whatever sort, and in particular they may deal in woolen cloths, blue silks, fabrics, linens, silks, haberdashery, morocco leather, shoes, all kinds of cattle hide and goatskins - whether worked or unworked, imported or made in Jampol - wax, tallow and things of the sort which are sold in homes and in stalls. All craftsmen, Christians and Jews, whether linen-makers, tailors, furriers, bakers, slaughterers and others, may safely settle in this city and conduct free trade with each other.
+
+The election of city councilors should be held in the following manner: the _podstarosci_ of Jampol must choose one on behalf of the castle, the Jewish kahal a second, while the burghers are to choose two. These councilors must take good care that total order be kept in the town; the Catholic town guard must take care that the Jews not be harassed nor suffer any damage \[to property\] at the hands of fractious individuals during the Good Friday and Corpus Christi processions.
+
+The free construction of a synagogue with its surrounding buildings is permitted, for which we allow \[the use of\] wood from our hereditary and leased forests, with the permission of the holders. They may have a cemetery and the man who lives there is to be exempt from labor obligations to both town and castle. A bathhouse with a well may \[be constructed\].
+
+The Jewish kahal must give 12 days a year to the usual municipal works from houses fronting the street; from the houses without a front they must give 6 days if necessary and only to the \[upkeep of the\] municipal dykes, nothing else. On the great holidays of Easter, Ascension day, Whitsuntide, Corpus Christi, Christmas, Conception day and the Feast of the Assumption, no work may be done in the distilleries.
+
+Any Jew who has been insubordinate to the kahal, I shall hand over to the jurisdiction of the kahal to prosecute him according to its religious law. A Jew sued by a Christian must \[be brought\] before the quarterly Jewish councilor; should he not be satisfied with the verdict, he may freely appeal to the castle. If the Jew is found guilty, the _podstarosci_ must then send him to the quarterly councilor for sentencing. Jews may not purchase, bloody or damp items, nor church goods, under pain of death. They may freely trade in other goods according to the laws of the land. Weights and measures must be fair - the _podstarosci_ must ensure this.
+
+Those _arendarze_ on my estates, in my hereditary lands and on those I have mortgaged under any title, who live in the vicinity of Jampol, belong to the Jampol kahal and must pay taxes to the Crown Treasury accordingly. These Jews must be tried according to their religious law and not before the castle \[court\].
+
+Desirous that every clause of this law be carried out and consolidated, and in order to give it greater weight and reliability, I hereby sign in my own hand and give order that my seal be impressed.
+
+Granted in Lublin, 5th June, 1711
+
+This signature: Prince Janusz Wiśniowiecki, Wojewoda of Kraków, Starosta of Krzemieniec etc.
+
+(Seal impression)
+
+Which privilege, copied word for word, having signed, I give order to suspend my seal.
+
+\[Michał Kazimierz Radziwiłł\]
+
+Granted in Biała Krynica 7th March 1753
+
+## **Source 1 Original Text**
+
+## **Source 2 Original Text**
