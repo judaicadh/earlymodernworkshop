@@ -24,6 +24,63 @@ description: The presented sources have been selected from the oldest minute
   intensive pursuit of amusement, evidenced by numerous theatres, operas, and
   pubs, as well as by people’s colorful dresses and the soldiers’ extraordinary
   uniforms.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><h2 style="text-align:
+  center">Haag Jewish Community Minute Book Pinkas, 1723-1798</h2>
+
+
+  Fol. 219 v., entry No.1:
+
+
+  <p style="text-align: right">שבת הגדול תקלב הוט הגא''בד ש' בדרשה שלו שטארק
+  מזהיר גוועזן דש קיינר זיך דר וועגן זול בשבת אין בוש צו גיהן, וויילן מען זיך
+  ניט גנוגן פֿאר זעהן קאן דש מען ניקש בייא זיך טרוגן זול ובנקל מון קען קומן
+  חלילה לכדי חילול שבת דאורייתא</p><p style="text-align: right">יום א אסרו חג
+  דפסח תקלב זיין קהל יצ' פר גאדרט בבית הגאב''ד ש' הוט מון לוזן רופן אן מיכל
+  בנימן הז, הבן איהם קהל יצ' בצירוף הגא''בד ש' גפראגט וויילין מון גאנץ וואוהל
+  וויישט, ער ביום אתמול בשבת קודש אין בוש איזט גוועזן אונד בייא זיך גטראגן זיין
+  אורלושי ווארום ער מחלל שבת הוט גוועזן, אויב ער שבת הגדול ניט גהערט הוט דער רבי
+  דא פון דרשנן, והשיב זולכש בשוגג גטאהן צו האבן דש ער שבת הגדול ניט צו דיא דרשה
+  איזט גוועזן, ער הוט גמיינט איין אורלאשי מעג מען וואוהל ביי זיך טראגן חוץ
+  למקום, אונד פר שפראכן זולכש ניט ווידר צו טוהן וואו אויף קהל יצ' איהם גזאגט הבן
+  דש ער ראוי ונכון וועהר גשטראפיט צו ווערן איהם ניט שולין צו לאזן וכהנה רבים
+  שארי עונשין, אך ורק וויילין ער זיך עקסקוזיהרט דש זולכש ניט גווישט הוט אונ
+  וויילין עש ערשטי מאהל איזט, איהם קהל יצ' דיזיש מאהל ניט ווערדן מענש זיין אונ
+  ער אצל הגא''בד ש' זול מקבל תשובה זיין על חטאיו</p><p style="text-align:
+  center">ע''ז הבן קהל יצ' פרייטאג צו נאכט פולגנדי כרוז בבה''כ לוזן פובליציהרן
+  (אונ מיכל הנ''ל שולין גוועזן)</p><p style="text-align: right">מאחר בשבת שעברה
+  זיך לייטן ניט ענטזעהין הבן, אום בשבת קודש אין בוש צו גיהן וקצתן הבן גטראגן
+  מרשות לרשות, כמו זיא זעלבשטן הען מודה גוועזן וועלכש בעו''ה איין חילול שבת גמור
+  איזט, וכמו כן בשנה העבר איזט פרצה גדולה דלא יעשה בישראל גשעהן שיצאו אנשים בני
+  בליעל, במרד ובעל מחוץ לתחום בשבת קודש, אויף זולביגי פלאץ וואו דיא עקסערציציע
+  מבעלי מלחמות גשעהן אום זעלביגש צו צו זעהן, אונד וועהר ראוי ונכון גוועזן
+  זעלביגי לייטן מפרסים ברבים צו זיין פר רשעים גמורים אונד זיא מחרים ומנדה צו
+  זיין רק אין עונשין אלא מזהירין, ובפרט דש זיך עקסקוזיהרט הבן בחסרון
+  ידיעתם</p><p style="text-align: right">בכן זיין קהל יצ' בצרוף הגאון אב''ד ש'
+  מזהיר באזהרה גדולה דש קיינר הן איש הן אישה מגדול ועד קטן זיך דר וועגן זול
+  מהיום והלאה בשבת אין בוש צו געהן אויב שוין זיא ניקש בייא זיך טראגן כדי שלא
+  לפרוץ הגדר ח''ו ומי שיערב לבו לגשת ולעבור על הגבול ווערט מען דעם זעלביגן מחרים
+  ומנדה ומפריש מקהל ישראל זיין שיהי' בכלל ארור אשר לא יקים, וויא זולכי עוברי
+  עבירה צו קומן דיא מחלל שבת בפרהסיא זייןלכל השומע תבוא עליו ברכה</p><p
+  style="text-align: right">יום א' דר''ח אייר תקלב ל' זיינן קהל יצ' פר גאדירט
+  בחדר הקהל ובאו עדות לפני קהל יצ' ה''ה אייזק שליזר אונ וואלף בן מנחם ב''ב אונ
+  מיכל ב' אנשיל ביקטן והעידו, דש זיא ביום אתמול בשבת קודש הבן זעהן אויז עש בוש
+  ארויז קומן אן מיכל בן בנימן הז</p><p style="text-align: right">קהל יצ' הבן
+  מיכל הנ''ל ווידר לוזן רופן וועלכר עד הנה נאך ניט לפס[ק] קהל קומן אמו הענא אשת
+  בנימן הז איזט קומן אונד גזאגט בנה הנ''ל איזט אין בוש גוועזן אבר הוט ניקש בייא
+  זיך גטראגן אונד שטארק אן גהאלטן אצל קהל יצ' דש מען קיין פסק על בנה מיכל הנ''ל
+  מאכן זול שלא בפניו, זיא פר שפרעכט דש ער זיך פר קהל שטעללין ווערט</p><p
+  style="text-align: right">קהל יצ' הבן גוט גפונדן להחזן ר' מתתי' ולהקורא ר'
+  בנימן היא מיט אן צו זאגן דש זיא זיך מהיום והלאה ניט אונטר שטיהן זוללין אין
+  אייניגה קומעדיע או opera צו גיהן, ובאם שיעברו על זה, זיא אודר איינר מהם זיך
+  אונטרשטין זעלט אין קומעדיע או opera צו גיהן פר פעם ראשון 6 וואוכן משירות שלו
+  דעפורטירט זיין משך אותו זמן קיין שירות צו גניסן ובפעם שנית פון אירה אופֿיסיע
+  פֿעליג דעפורטיהרט ווערן, מזה זול מען יעדרם העתקה ע''י השמש איבר ליוורט ווערן
+  אום זיך נאך צו רעגוליהרן נעשה בחדר הקהל פה האג יום א ו תמוז תקלט לפ''ק</p><p
+  style="text-align: right">הק' איצק ליידן נה''ק</p>
+
+
+  **Archive:** Gemeentearchief Den Haag, NIG Den Haag, Nos. 1-3
 ---
 <h2 style="text-align: center">Introduction to Haag Jewish Community Minute Book</h2>
 
@@ -35,7 +92,7 @@ Another example for the participation of Jews in the secular, largely non-Jewish
 
 The examples presented here illustrate the broad encounter between traditional Jewish life in the late eighteenth century and the world of the secular pleasures of the urban center of The Hague.
 
-<h2 style="text-align: center">Haag Jewish Community Minute Book Pinkas, 1723-1798</h2>
+<h2 style="text-align: center">Source 1 Translation</h2><h2 style="text-align: center">Haag Jewish Community Minute Book Pinkas, 1723-1798</h2>
 
 On _Shabbat Hagadol_ 532, the wise head of the _beit din_, he may live, has insistently warned in his sermon that no one shall dare to walk on Shabbat to the Bosch. This is because one cannot be careful enough not to carry anything, and easily one can cause a desecration of the Shabbat as the Bible says, God forbid!
 
