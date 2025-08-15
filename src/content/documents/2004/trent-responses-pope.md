@@ -8,4 +8,10 @@ slug: trent-responses-pope
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Early Modern Jewries
+language:
+  - Latin, Hebrew
+publication_location:
+  - Trent, Italy
+text_location:
+  - Rome
 ---
