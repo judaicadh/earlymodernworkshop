@@ -226,3 +226,5 @@ We have also decided that the orphan is entitled to receive the revenue from Net
 \[2\] For prior reference to the coercive measure referred to be the court, see: Samuel Kerner, "Le règlement de la communauté juive de Metz de 1769," _Annales de l'Est_ 24 (1972): 210-253, articles 68 and 71 ; and paragraph 16 of Rabbi Aryeh Loeb Günzberg's contract, in Schwarzfuchs, "The Rabbinic Contract of the Sha'agat Aryeh in Metz," _Moriah_ 15 (1986): 81-90.
 
 \[3\] The _curateur_ was a legal representative, usually designated by a judge, until the child reached age of majority
+
+החשבון הנעשה לפני קרובי' והחשבון שנעשה מקדמת החדש שבט תק"ל לפ"ק. וגם ינוכה מחשבונם הרווחי' עבור הוצאות מצאנו זה לעומת זה שהאפטרופסי' אין מחויבי' לשלם הוצאות עבור שכר נתינת החשבון נגד זה, ינוכה מחשבונם הרווחי'.
