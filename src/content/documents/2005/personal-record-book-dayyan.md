@@ -24,6 +24,106 @@ description: Rabbinic courts were and remain an integral part of the Jewish
   More introductory information about the Jewish ghetto and some of the families
   who lived there can be found at
   [http://www.judengasse.de/index.htm](http://www.judengasse.de/index.htm).
+original_language_body: >-
+  <h2 style="text-align: center">A Court Official's Personal Record Book</h2><h2
+  style="text-align: center">Hayyim Gundersheim Dayyan, 1774</h2><p
+  style="text-align: right">נא ע"א</p><p style="text-align: right">1. ב"ה</p><p
+  style="text-align: right">2. ע"ד שבא לפנינו ה"ה התורני כ"ה משה אויך בהרשאות
+  ה"ה הו"ה כ' טעבלי לנדויא</p><p style="text-align: right">3. ששייך לו החצי בית
+  צום וועטרהאַן והציע לפנינו כתב גורל מחילוקי דירות הנעשה בין</p><p
+  style="text-align: right">4. האשה המנוח מ' בילה אל' כ"ה לימא וועטרהאַן ז"ל
+  ובין האשה המונוח מ' רייזלה }אל'{אל' המנוח כ'</p><p style="text-align:
+  right">5. ליפמן ש"ש]1[ ז"ל אחותו כ"ט]2[ הנ"ל ביו' ויו תמוז תק]י"א[ ואח"כ אחר
+  העדרת אל' ריזלה הנ"ל נתחזק הגורל</p><p style="text-align: right">6. בין האשה
+  מ' בילא ובין הו"ה כ"ט]3[ הנ"ל ולפי הגורל וחילוקי דירות הנ"ל מגיע דירה
+  התחתונה</p><p style="text-align: right">7. מר"ח אלול הבע"ל על ששה שנים רצופים
+  לכ' טעבלי לנדויא ולכ' יוזפא וו]י[עסרהאן בן</p><p style="text-align: right">8.
+  המנוח כ"ה לימא ז"ל הנ"ל הדירה העליונה בכן תבע כה"מ]4[ הנ"ל מן כ' יוזפא
+  הנ"ל</p><p style="text-align: right">9. שיפנה שטח התחתונה לשוכר של כ"ט הנ"ל
+  והוא ידור בשטח העליונה באשר שנזכר</p><p style="text-align: right">10. בגורל
+  הנ"ל שנעשה הגורל הנ"ל שיהי' חוזר חלילה ע"ע ואף לי"א וב"כ ואף אם לא יזכה</p><p
+  style="text-align: right">11. בזה מ"מ באשר שכ' יוזפא הנ"ל הי' דר בשטח התחתונה
+  לאחר מיתת אמה מ' בילה הנ"ל</p><p style="text-align: right">12. ע"ע שלשה שני'
+  דהיינו משנת תקלא עד שנת תקלד בכן מגיע עכ"פ לכ' טעבלי הנ"ל</p><p
+  style="text-align: right">13. ג"כ דירה התחתונה כמו שהי' דר בו כ"י]5[ הנ"ל וה"ה
+  כ"ה זלמן גייגר בהרשאות</p><p style="text-align: right">14. הו"ה כ"י וועטרהאַן
+  השיב שאותו כתב גורל וחילוקי דירות הנעשה מן אל' בילה הנ"ל</p><p
+  style="text-align: right">15. בטלה עכשיו שמתה האשה מ' בילה הנ"ל באשר שלא הי'
+  בידה לעשות על י"א וב"כ</p><p style="text-align: right">16. הואיל שלא הי' לה
+  חלק בחצי בית הנ"ל לא מכח יד העליונה ולא במיגר אל' רק שהית' דר</p><p
+  style="text-align: right">17. בו בשכירות כמו שהציע לפנינו כה"ז הנ"ל כתב וסילוק
+  השבעות כתובת' וגם ת"ר[6]</p><p style="text-align: right">18. מן כ' יוזפא הנ"ל
+  ומבואר מתוכם שהי' דר האל' מ' בילה הנ"ל בחצי בית הנ"ל בשכירות</p><p
+  style="text-align: right">19. שהי' צריכה ליתן לבניה בכן נתבטל הגורל עכשיו ומה
+  שהי' דר בשטח התחתונה</p><p style="text-align: right">20. כ' יוזפא הנ"ל לאחר
+  מיתת אמו שלשה שני' לא גרע זכות בזה עבור שלא מיחה לו כ"ט הנ"ל</p><p
+  style="text-align: right">21. }בוואד{בוודאי מחל לו ב]-[כן תבע כה"ז הנ"ל שיעשו
+  ב"ד גורל מחדש בניהם והאריכו</p><p style="text-align: right">22. הצדדים הנ"ל
+  }בפני-נו{ בפנינו כמבואר הכל בק"ה]7[ המונח לפנינו ובעבור</p><p
+  style="text-align: right">23. שה] הנ"ל[</p>
+
+
+  <p style="text-align: right">נא ע"ב</p><p style="text-align: right">1.
+  ב"ה</p><p style="text-align: right">2. שהצדדים הנ"ל חתמו עצמם בתוקף קומפרמיס
+  בח"ח ובקנס סך מסויים להקדש</p><p style="text-align: right">3. ולשררה יר"ה לאשר
+  ולקיים את כל אשר יצא מאתנו נזדקקנו להם ומצאנו שאין לכ"ט הנ"ל</p><p
+  style="text-align: right">4. [8]שום זכות יותר מכ' יוזפא הנ"ל בשטח התחתונה מחמת
+  הגורל הנ"ל וגם לא מחמת ה"ג</p><p style="text-align: right">5. ה"ג שישנו שהי'
+  דר בו כ"י הנ"ל בלי גורל חדש בכן צריכי' שני הצדדים הנ"ל לעשות</p><p
+  style="text-align: right">6. מעתה גורל חדש על חלוקת דירות בית הנ"ל בניהם
+  והתרצו הצדדים הנ"ל שאנחנו</p><p style="text-align: right">7. כ"ה [10] בניהם
+  ושלחנו אחר כ' ישי בה"מ [9] ב"ד ח"מ נעשה גורל מחדש (על חלוקות בית הנ"ל)</p><p
+  style="text-align: right">8. לימא וועטרהאן ז"ל הנ"ל שיש לו ג"כ חלק רביעית בבית
+  הנ"ל ובא לפנינו ואמר שהוא</p><p style="text-align: right">9. מרוצה ג"כ בחלוקות
+  דירות וגורל שנעשה אנחנו ח"מ על אופן שהתרצו הצדדים הנ"ל</p><p
+  style="text-align: right">10. בכן נזדקקנו להם והפלנו גורל ביניהם בפני כ"ה זלמן
+  הנ"ל בהרשאות כ' יוזפא הנ"ל</p><p style="text-align: right">11. וכ' ישי הנ"ל
+  ובפני כה"מ הנ"ל בהרשאת כ' טעבלי הנ"ל ועלה ע"פ הגורל שטח מטה</p><p
+  style="text-align: right">12. על שלשה שני' רצופי' מיו' דלמטה לכ' טעבלי לנדויא
+  הנ"ל ושטח מעלה להאחים כ' יוזפא</p><p style="text-align: right">13. וכ' ישי
+  הנ"ל והיינו מן ר"ח אלול תקלד עד ר"ח אלול תקלז הבע"ל יהי' לה"ה הו"ה כ'
+  טעבלי</p><p style="text-align: right">14. לנדויא ששייך לו החצי מבית הנ"ל ולי"א
+  וב"כ בית החורף למטה על הארץ עם הסוכה</p><p style="text-align: right">15.
+  '[-]שני שטאָק הויך שני חדרים זה מול זה עם הויז עהרן עוד שלשה שטאק הויך
+  חדר</p><p style="text-align: right">16. 'לצד הרחוב עוד חדר אחד ארבע שטאק הויך
+  לצד הרחוב ואותו חצי עליי</p><p style="text-align: right">17. 'שאינינו בתוכה
+  הקעמרכה האָלץ האף תחת הסוכה ומרתף הפנימי ולהאחים כ</p><p style="text-align:
+  right">18. יוזפא וכ' ישי הנ"ל שיש להם חצי שניי' מבית הנ"ל יהי' להם ולי"א וב"כ
+  על משך</p><p style="text-align: right">19. שלשה שנים הנ"ל חד שטאק הויך שני
+  חדרי' זה מול זה עם הויז עהרן אונד גענגלכה</p><p style="text-align: right">20.
+  שלושה שטאק הויך חדר אחד לצד החומה עוד חדר אחד ארבע שטאק לצד</p><p
+  style="text-align: right">21. החומה ואותו חצי עליי' עם הקעמרכה שבתוכה האלץ
+  הויף תחת בית החורף דלמט[ה]</p><p style="text-align: right">22. ומרתף החיצון
+  שתחת הרחוב ומשך חג הסוכות ישתמשו שני הדייר' הנ"ל בסוכה שוה</p><p
+  style="text-align: right">23. בשוה גם בהויז עהרן התחתון ישתמשו תמיד שוה בשוה
+  ובכלות זמן שלשה שנים הנ"ל</p><p style="text-align: right">24. 'אחרים רצופים
+  בלי שום שהיי' ודחיי' שבעול [...]</p>
+
+
+  <p style="text-align: right">נב ע"א</p><p style="text-align: right">1.
+  ב"ה</p><p style="text-align: right">2. והיינו מן ר"ח אלול תקל"ז עד ר"ח אלול
+  תק"מ הבע"ל יהי' להאחי' הנ"ל וליא]11[ וב"כ שטח מטה וכנ"ל</p><p
+  style="text-align: right">3. לכ"ט]12[ הנ"ל וליא וב"כ שטח מעלה וכנ"ל וחוזר
+  חלילה עד עולם משלשה לשלשה שני' כה יהי' וכה</p><p style="text-align: right">4.
+  יקום ע"ע ובאנו אנחנו ב"ד ח"מ ליתן לחולקת הדירות וגורל הנ"ל כל תוקף ועוז כתוקף
+  מעשה</p><p style="text-align: right">5. ב"ד ובכ"ח ב"ד יפה ולראי חתמנו היו' יו'
+  א' א' דר"ח אלול שנת תקלד לפק</p><p style="text-align: right">6. הק אברהם טריר
+  כהן הק מאיר שיף ואני</p>
+
+
+  **Archive:** A holograph of the author's judicial diary held in the Jewish
+  Museum of Frankfurt
+
+
+  <p style="text-align: center"><strong>Endnotes</strong></p><p
+  style="text-align: right">שוורצשילד? [1]</p><p style="text-align: right">כבוד
+  טעבלי [2]</p><p style="text-align: right">כבוד טעבלי [3]</p><p
+  style="text-align: right">כבוד הרב משה [4]</p><p style="text-align:
+  right">כבוד יוזפא [5]</p><p style="text-align: right">תנאים ראשונים [6]</p><p
+  style="text-align: right">קונטרס הטענות [7]</p><p style="text-align:
+  right">הסגת גבול [8]</p><p style="text-align: right">הסוגרים במקור [9]</p><p
+  style="text-align: right">בן המנוח [10]</p><p style="text-align: right">יורשיו
+  אחריו [11]</p><p style="text-align: right">כבוד טעבלי [12]</p>
 ---
 <h2 style="text-align: center">Introduction to a Personal Record Book</h2>
 
