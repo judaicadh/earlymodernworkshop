@@ -14,6 +14,13 @@ publication_location:
   - Trieste
 text_location:
   - Vienna
+description: >-
+  In 1771 the Habsburg ruler Maria Theresia issued a Privilege and a Statute to
+  Jews in Trieste, both to confirm their status and to attract additional Jewish
+  merchants to help develop the Adriatic Free Port.
+
+
+  Lois Dubin discusses the legal and historical significance of this privilege.
 original_language_body: >-
   <h2 style="text-align: center">Il Privilegio di Maria Teresa Maria Theresia,
   1771</h2><h2 style="text-align: center">Privilege and Statute of Maria
