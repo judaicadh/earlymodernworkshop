@@ -155,6 +155,8 @@ original_language_body: >-
   style="text-align: right">[3]לא ברור לי מה פירושו.</p><p style="text-align:
   right">[4]לא ברור מה פירושו.</p>
 ---
+גם יצא מאתנו ב"ד שהאפטרופסי' מחויבי' ליתן רשימה מחותם בחתימת ידיהם להתורני הקצין כ"ה איצק פ"ב וכל כ"י\[2\] שיש להם תחת ידם ששייכי' לעזבון המנוח ז"ל והוא ישלח הרשימה לב"ד. וע"ד שטען שהאפטרופסי' מחויבי' לשלם כל הוצאות החשבון הן החשבון הנעשה לפני קרובי' והחשבון שנעשה מקדמת החדש שבט תק"ל לפ"ק. וגם ינוכה מחשבונם הרווחי' עבור הוצאות מצאנו זה לעומת זה שהאפטרופסי' אין מחויבי' לשלם הוצאות עבור שכר נתינת החשבון נגד זה, ינוכה מחשבונם הרווחי'.
+
 <h3 style="text-align: center">Introduction to Records of the Metz Beit Din&nbsp;</h3><p style="text-align: center">Jay R. Berkovitz, University of Massachusetts, USA</p>
 
 Until roughly 1789, the hallmark of Jewish communal autonomy was the authority granted to rabbinic courts to adjudicate civil cases involving Jewish litigants. Nevertheless, the exclusive civil jurisdiction of these tribunals was challenged regularly by individuals seeking to resolve their disputes in the general courts. The bestowal of Jewish emancipation in France was conditioned on the agreement of the Ashkenazic communities of Alsace and Lorraine to surrender their judicial authority in the civil sphere. In Metz, the much esteemed rabbinic court (_beit din_) continued to convene until early 1790. Three registers from the _beit din_ are preserved in manuscript at the YIVO Archives in New York. Commencing in 1771, the registers contain nearly two decades of judicial cases totaling 1167 decisions.
