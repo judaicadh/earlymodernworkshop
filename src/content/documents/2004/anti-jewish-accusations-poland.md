@@ -81,6 +81,40 @@ Kowarsk to be fugitives \[_infamisy_\] deserving death and issued an order of ar
 
 ## Source 2 Introduction
 
+Introduction to Criminal Trial Concerning the Innocent Child Jan Krosnowski
+
+The text is a chapter from an eighteenth-century anti-Jewish book _Process Kryminalny_ published around 1713 by Stefan Żuchowski, a canon in the cathedral church in the town of Sandomierz, following a ritual murder trial in that town that started in 1710. This was his second book. The first book, _Odgłos processu przewiedzionego z Żydami_ \[A Report of the Trial against Jews\] published in 1700, was a telling of the first ritual murder trial that Żuchowski instigated in 1698.
+
+The chapter presented here lists cases of the accusations of desecration of the host in Poland and abroad in the Middle Ages and the early modern period. Such accusations against Jews of Host desecration emerged in the thirteenth century after the Catholic Church sanctioned the doctrine of transubstantiation in 1215. The first story involving a host miracle resulting from mishandling of the host by a Jew comes from a letter Pope Innocent III wrote to Archbishop of Sens. The doctrine of transubstantiation was not accepted in Poland until 1420, with the exception of Cracow, which formally accepted it in the fourteenth century, and two other towns, which had some cult of the Corpus Christi by the second half of the fourteenth century.
+
+The myth of host desecration by Jews came to Poland late. Although Żuchowski mentions cases in Poznań in 1399, and in Kazimierz, near Cracow, in 1407, there is no evidence of these cases outside of polemical anti-Jewish works. Before mid-16th century there are few, inconsistent, and vague stories about Poznań, and a more developed legend emerged only in the late 16th century, with two books published about it in 1583 and 1589. The timing is not accidental, Poznań at the time was a prominent Reformation center, and the Protestants challenged the Catholic doctrine of transubstantiation.
+
+The first documented case of the accusations of host desecration against Jews in Poland took place in Sochaczew in 1556, and was also popularized in printed polemical works against Jews. This case, too, is linked to the Reformation and Counter Reformation. The main instigator of the trial, Cardinal Luigi Lippomano, a papal nuncio at the time, was a strong opponent of the Reformation and a propagator of the Catholic dogmas. The Sochaczew case became a venue for a religious polemic between Protestants and Catholics in Poland. The spread of the medieval accusations against Jews of desecrating the host in Poland are closely to the two early modern developments: the Reformation and the invention of the printing press.  
+
+**Additional Readings**
+
+Guldon, Zenon, and Jacek Wijaczka. "The Accusation of Ritual Murder in Poland, 1500-1800." _Polin_ 10 (1997).
+
+\------. _Procesy o Mordy Rytualne w Polsce w XVI-XVIII Wieku_. Kielce: DCF, 1995.  
+
+Hsia, R. Po-chia. _The Myth of Ritual Murder: Jews and Magic in Reformation Germany_. New
+
+Haven: Yale University Press, 1988.
+
+Kowalski, Waldemar. ""W Obronie Wiary": Ks. Stefan Żuchowski -- Między Wzniosłością a Okrucieństwem." In Żydzi Wśród Chrześcijan w Dobie Szlacheckiej Rzeczypospolitej, 221-33. Kielce: KTN, 1996.
+
+Rok, Bogdan. "Stosunek Polskiego Kościoła Katolickiego do Sprawy Żydowskiej w Pierwszej Połowie XVIII Wieku." In _Z Historii Ludności Żydowskiej w Polsce i Na Śląsku_, edited by Krystyn Matwijowski, 85-97. Wrocław: Wydawnictwo Uniwersytetu Wroclawskiego, 1994.
+
+\------. "Z Dziejów Literatury Antyżydowskiej w Dawnej Rzeczypospolitej w XVIII w." _Prawo_ 251, no. Studia historyczno-demograficzne (1996): 55-64.
+
+\------. "Z Literatury Antyżydowskiej w Polsce XVIII Wieku." In _Z Historii Ludności Żydowskiej w Polsce i Na Śląsku_, edited by Krystyn Matwijowski. Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego, 1994.
+
+Rubin, Miri. _Gentile Tales: The Narrative Assault on Late Medieval Jews_. New Haven, Conn.; London: Yale University Press, 1999.
+
+Tollet, Daniel. "Le Goupillon, Le Prétorire Et la Plume: Stefan Żuchowski Et L'accusation De Crimes Rituels En Pologne à la Fin Du XVII Siècle Et Au Début Du XVIII Siècle." In _Żydzi Wsród Chrześcijan w Dobie Szlacheckiej Rzeczypospolitej_, 221-33. Kielce: KTN, 1996.
+
+Trachtenberg, Joshua. _The Devil and the Jews : The Medieval Conception of the Jew and Its Relation to Modern Antisemitism_. Philadelphia: Jewish Publication Society of America, 1983.
+
 ## Source 2 Translation
 
 ## Source 1 Original Text
