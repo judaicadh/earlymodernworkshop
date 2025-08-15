@@ -28,16 +28,13 @@ description: >-
   This presentation is for the following text(s):
 
 
-  Decree banning Jewish commerce in Strassburg
-
-
-  Letter from Josel of Rosheim to the magistrates of Strasbourg
-
-
-  Letter from Josel of Rosheim to the magistrates of the city of Strasbourg
-
-
-  Letter from Lazarus of Surbourg to the magistrates of Hagenau
+  *   Decree banning Jewish commerce in Strassburg
+      
+  *   Letter from Josel of Rosheim to the magistrates of Strasbourg
+      
+  *   Letter from Josel of Rosheim to the magistrates of the city of Strasbourg
+      
+  *   Letter from Lazarus of Surbourg to the magistrates of Hagenau
 ---
 ## Source 1 Introduction
 
