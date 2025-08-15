@@ -18,6 +18,93 @@ description: This presentation discusses two responses to the 1475 trial of Jews
   accused of ritually murdering a Christian boy, Simon, in the city of Trent.
   One comes from Pope Sixtus IV and another, a century later, from a Jewish
   chronicler, Joseph ha-Cohen.
+original_language_body: >-
+  <h2 style="text-align: center">Bull of Sixtus IV</h2><h2 style="text-align:
+  center">Pope Sixtus IV, 1478</h2><p style="text-align: center">Prepared by
+  Kenneth Stow, Haifa University, Israel</p>
+
+
+  SIXTUS IV 1471-1484
+
+
+  <p style="text-align: right">Rome, 20 June 1478&nbsp;</p>
+
+
+  Sixtus episcopus, servus servorum Dei. Venerabili fratri loanni, episcopo
+  Tridentino, salutem et apostolicam benedictionem. Facit nos pietas divina
+  solicitos animarum saluti consulere, et illarum, quantumin nobis est,
+  periculis obviare. Cum itaque pridem pretor civitatis tue Tridentine, fama
+  publica referente, contra nonnullos Iudeos, tunc in ipsa civitate commorantes,
+  qui Christianum infantem, nomine Simonem, occidisse inhumaniter dicebantur,
+  prout rei gravitas exigebat, et suo incumbebat officio, ad inquisitionem
+  descendisset, et repertos culpabiles ultimo supplicio deputasset, multique
+  propterea viri graves murmurare, et sinistra quadam suspicione in diversas
+  partes rem ipsum interpetrari cepissent, nos, ut suspicionis huiusmodi omnis
+  tolleretur occasio, et in tanta re debitum nostri pastoralis officii
+  servaremus, utque facti veritas cunctis fidelibus innotesceret, processum
+  clausum per ipsum pretorem contra Iudeos predictos habitum, et ad nos postea
+  per to destinatum, tuoque et nuntii nostri sigillis munitum, per nonnullos ex
+  venerabilibus fratribus nostris Sancte Romane Ecclesie cardinalibus,
+  archiepiscopis quoque, referendariis nostris, et causarum palatii apostolici
+  auditoribus, inspici et examinari fecimus diligenter, qui super hoc sepius
+  congregati, ac singulis ipsius processus partibus accurate inspectis, tandem
+  processum ipsum rite et recte factum in nostro consistorio retulerunt. Nos
+  igitur, una cum eisdem fratribus nostris per relationem supradictam idem
+  pariter sentientes, necnon studium et diligentiam eiusdem tue fraternitatis in
+  Domino commendantes, nihilominus volumus, et eidem fraternitati tue per
+  presentes iniungimus, ut in hac pia fidelium inchoata devotione non permittas,
+  iuxta decretum felicis recordationis Innocentii pape III predecessoris nostri,
+  in concilio generali editum, aliquid illicitum attemptari, quod in Dei
+  iniuriam, aut sedis apostolice contemptum cedat, vel alias contra canonicas
+  sanctiones inexcusabiliter factum fore deprehendatur, super quo tuam, de qua
+  in Domino confidimus, conscientiam oneramus . Attente quoque provideas, quod
+  nullus Christianus, premissorum vel alia occasione absque iudicio terrene
+  potestatis, Iudeorum aliquem occidere, mutilare, aut vulnerare, sive ab eis
+  pecunias indebite extorquere, sive eos quominus ritus suos a iure permissos
+  continuare valeant, impedire presumant. Preterea volumus, et eadem tibi
+  auctoritate iniungimus, quod omnem adhibeas diligentiam, ut infantes Iudeorum
+  damnatorum filii, eorum baptizatis matribus, una cum dotibus matrum eorundem,
+  apud quoscunque reperiantur deposite, omnino restituantur; contradictores
+  quoslibet et rebelles per censuram ecclesiasticam, et alia iuris remedia
+  compescendo. Non obstantibus quibuscunque litteris et ordinationibus
+  apostolicis forsitan in contrarium editis, ceterisque contrariis quibuscunque
+  . Dat. Rome, apud Sanctum Petrum, anno Incarnationis Dominice millesimo
+  quadringentesimo septuagesimo octavo, duodecimo Kalendas lulii, pontificatus
+  nostri anno septimo.
+
+
+  <h2 style="text-align: center">`Emeq haBakh'a</h2><h2 style="text-align:
+  center">Yosef Ha-Cohen, 1575</h2><p style="text-align: center">Prepared by
+  Kenneth Stow, Haifa University, Israel&nbsp;</p><p style="text-align:
+  right">:94-95</p><p style="text-align: right">ותלבש הלבנה קדרות בליל ט''ו לחדש
+  ניסן בשנת רל''ה וה' אלפים, היא שנת תע''ה ואלף (1475)בימים ההם בחג המצות הכה
+  אינצו [איש] הבליעל בטרנטו אשר באיטליאה ילד קטן בן שנתים, שימון שמו, ויתן אותו
+  בברכת המים אשר אצל בית שמואל היהודי בלט, ואיש לא ראה. ויעלילו על היהודים
+  כמשפטם. ויכלו בדבר ההגמון אל ביתם ולא מצאוהו, וישובו איש לביתו. ויהי היום
+  וימצא, ויצו ההגמון ויכלו לראות את הילד באשר הוא שם. ויצו ויתפשו את כל היהודים
+  וימררו את חייהם, ענו בכבל נפשם ויתודו את אשר לא יזמו לעשותו. רק זקן אחד בא
+  בימים משה שמו לא הודה את השקר הגדול הזה וימ[ו]ת תחת השבט, כצדקתו השב לו
+  אלוהי.</p><p style="text-align: right">ויבאו שנים אנשים חכמים נוצרים מפאדובה
+  יודעי דת ודין, להבין פשר דבר, ויחר אף יושבי הארץ עליהם וביקשו להמיתם. וירשיעם
+  ההגמון, וימררו את חייהם בצבתים וישרפום באש, ותעל נשמתם הטהורה השמימה, ויקח
+  ההגמון את כל קנינם כאשר זמם וימלא מעונותיו טרפה (נחום ב' י''ג).</p><p
+  style="text-align: right">ויאמרו: קדש הילד והנה הוא עושה נפלאות [והננו עושה
+  פלאות]. וישלח ההגמון לבשר בכל המדינות, ויהרסו כל העם לראות ולא נראו פניו ריקם
+  [ן], וישנאו כל עמי הארץ את היהודים במושבותם בעת ההיא, ולא יכלו דבר אתם לשלום
+  [לשלם].</p><p style="text-align: right">וישלח ההגמון אל האפיפיור לאמר: קדש את
+  הילד (הזה) כי קדש, וישלח האפיפיור שמה אחד מחשמניו אשר יקראו ליגאטו לחקור את
+  הדבר באר היטב. ויהי כבואו ויחקור את הדבר, וידרוש היטב, וירא כי הבל המה מעשי
+  תעתועים, וגם [את] נבלת הילד דרוש דרש. והנה חנטו אותו בבשמים ובתמרוקי המתים,
+  ויהתל בהם ויאמר לעיני העמים, כי שקר המה. ויחר אף עמי הארץ עליו ויברח מפניהם,
+  ויחן בעיר הקרובה אל טרינטו, וישלח להביא את אשר הודו האומללים ההם ואת אשר נגזר
+  עליהם. ויתפוש אחד מעבדי האיש הבליעל אשר הרג את הילד ויתודה, ויאמר אליו: בדבר
+  ההגמון נעשתה הרעה הגדולה הזאת, אשר נתן עיניו ביהודים לאבדם. ויוליכנו עמו
+  רומתה, וידברו אל האפיפיור , ולא קדש את הילד כאשר בקש ההגמון מאתו דבר יום
+  ביומו, ויקראו (את) שמו ביאה שימון, וקדש לא נקרא עד היום הזה.</p><p
+  style="text-align: right">:131</p><p style="text-align: right">פצחו הרים רנה,
+  כי מת יוליו די מונטי, האפיפיור אשר דמה להדיחנו, אשר שרף ספרי תפארתנו, בכ''א
+  יום לחדש מארצו בשנת שט''ו וה' אלפים, היא שנת תקנ''ה ואלף (1555). אנא ה' אלהי
+  הרוחות לכל בשר, תולעתו לא תמות, ואשו לא תכבה והיה דראון לכל בשר.</p>
 ---
 <h3 style="text-align: center"><strong>Introduction to Bull of Sixtus IV and `Emeq haBakh'a</strong></h3><p style="text-align: center">Kenneth Stow, Haifa University, Israel</p>
 
