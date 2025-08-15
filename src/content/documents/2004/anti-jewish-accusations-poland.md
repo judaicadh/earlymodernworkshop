@@ -336,3 +336,171 @@ Przed nami sędziami głównemi na trybunał w w-m x-ie Lit-m z woiewodztw zie
 "Akty o evreiakh" (Vilna: Russkii Pochin’, 1902), 244-253, no. 153.
 
 ## Source 2 Original Text
+
+Process Kryminalny o niewinne dziecię Jana Krosnowskiego
+
+O Świętokradzwach Nayświętszego Sakramentu
+
+\[44\] Zabiwszy żywego, że w Niebie królującego Chrystusa, dostać nie może złość niepoięta Żydowska, szuka niewinnego z Herodem okrutnym, w osobach chleba utaionego, z tym większą łacnością, że im go sami bezbożni wydaiąc Katolicy..
+
+Roku 1213 W Francyi, Żyd u służebnice swoiey kupioną Hostyą (chcąc zachować na skłócie) puszkę gdzie miał siedm pieniędzy srebrnych wrzucił, które w Hostye widząc odniemione
+
+nawrócony poszedł do Rzymu, y tam od Innocentego Papieża okrzczony został.\[1\]  
+Roku 1305. W Paryżu że Sakrementu S. Od Białygłowy kupionego, Żyd niemogł na pateli spalić,
+
+puginałem uderzył, z którego się krew rzuciła, y wydała, Żydzi skarani y wyfnani a Kościół _Salvatoris Bullientis_, Cudu tego, po dziś dzień, prawdę iawną pokazuie.\[2\]
+
+Roku 1300. W Krakowie Kościół okradszy, Hostye SS pokłoli, podeptali, y po drogach pozacierali dla zdeptania ich, od samychże Katolików wzięci, z suspicyi z koła wplatani.
+
+Roku 330 \[sic\]. W Gustrowie przy kłociu Hostyi, głos dziecięcia płaczącego nawrócił Żydowkę, która świętokratdzcow potym znalaszy \[45\] Hostyą, we szkle w chustę uwinioną, w bożnicy, y pokrwawioną wydała; spaleni Żydzi z Niewiastą co Hostye przedała, a kaplica Hostyi Cudowney wystawiona.
+
+W Megapolskim Xięstwie dwie Hostye ukłote od Żydów opisał wierszami Bocerus.  
+Roku 1338. W Niemczech w Mieście Pulka, krwią sklota płynęła Hostya o co z rozkazania
+
+Papieża Benedykta są od Rakuskiego Xiążecia pokarani.\[3\]
+
+Roku 1369. W Bruxellach w Brabancyi, przez krew choynie płynącą, wydani Iudaszowie, targani kleszczami.\[4\] Tegoż Roku w Lowanium, o tosz skazani na stos, a Hostyę skrwawioną w kaplicy złożono.
+
+Roku 1414. W Kolnie Żyd przebrawszy się Kommunią przyiął y w kąt poszedszy, z ust brzydkich wyiął; widząc obroconą w osobie dziecięcia ieszcze płaczącego, uchodzić z Kościoła począł, ale mu Czart zastąpił, rzucił tedy w dołek na Cmentarzu dziecię płaczące na co z Kościoła gdy się ludzie zbiegli i Kapłani, Cud opowiedział y wiele Żydów przy sobie nawrócił.\[5\]
+
+  
+Roku 1466. W Hiszpanii, gdy nie mogli dostaney Hostyi, ani spalić ani zniszczyć, d Klasztoru Dominikańskiego w Segovium odnieśli, o co byli śmiercią skarani.\[6\]
+
+  
+Roku 1426. W Wiedniu niewiasta przedała S. Hostyą Żydom, za co Frederyk Cesarz kazał Żydów trzysta spalić, a Niewiastę kleszczami targać.
+
+  
+Roku 1433. W Dywionie takaz Hostya skłota od Żydów, y skrwawiona za Eugeniusza Czwartego Papieża approbacyą, złożona w Kaplicy.
+
+  
+Roku 1434. W Dekendorfie Thalmudystowie Hostyą S. Kłowszy, na kowadle kowalskim zbluźnierstwy tłukli, potym wpiec wrzucili. Za co także tych Diabłow ziemskich większą część blachami popalono y poćwiartowano.\[7\]
+
+Roku 1453. Na Śląsku bardzo wiele Żydów o uczynioną Hostyi S. Obelgę popalono. Roku 1492. W Czechach w miasteczku Sterberck, Eleazar, Żyd \[46\], za kupioną Hostyą y pokłotą oraz krwią płynącą, y zdrugiemi trzydziestą ogniem spalony.\[8\]
+
+Roku 1510. W Szpandawie Salomon Zyd za sześć groszy, u łotra iakiego kupiwszy Hostyą nożem kraiał, aż się na troie Hostyą rozpadła, dwie części posłał sowim przyiaciołom, do Brandenburgu, sam iedne skłotą krwią oblaną w placek zagniotszy w piec w rzucił, gdzie dzieciątko w wielkiej światłości widział, y ten placek w Bużnicy zawiesił. W Brandenburgu że krwi ze stołu z drugiey partykuły skłotey ciekącey zetrzeć niemogli, odłupiwszy trzaskę y z częscią Hostyi do Hostenburgu na wesele z sobą wzięli, ktorą Żyd Maier na misie Pani młodey oddał, mowiąc: masz się z czego weselic, oto masz Chrześciańskiego BOGA, y tak znowu czterdziestu prawie Żydów Hostyą kłoli, że krew obficie płynęła, za co Ioachim Brandeburski Margrabia trzydziestu w Berlinie w piątek po S. Rożesłańcach spalić kazał a Pawła Form, ktory im z puszką Hostye przedał, y w pasy darto, Żydzie przyznali się y do dzieci siedmiu umęczonych, o czym niżey w roz. XI.\[9\]  
+Roku 1540. We Wrocławiu, iako także Hostyą ukłoli Zwierciadło Przykładow.
+
+Roku 1514. W Hali, Żyd krzczony Kapłanem się \[nie będąc nim\] uczynił dostawszy Hostyi dwie Żydom przedał a trzecią sam z niedowiarstwa tak tłukł aż się krwią oblała.\[10\]
+
+Roku 1592. W Pradze Żyd Lewek \[bestya okrutna\] ukradszy u Franciszkanów trzy Hostye S. oddał Żydom, ktorzy ie nozami koląc, bluźnili: Ieśliś iest BOG Chrześciański, ukaz moc swoie y ukazał bo piorum uderzywszy w dzień pogodny, w dom ten swietokradców spalił, trzec co uciekło, wziętych kleszczami targano, y na pale powbiiano.\[11\]
+
+  
+Roku 1619. Na Granicach Hiszpanyi. Żydówka przebrana y postrzeżona, że S. Hostyą z ust w chwustkę wzięła, w beczkę wsadzona, zaraz spalona została.\[12\]
+
+W Polszcze naszey iako wygnani z kraiow Cuszych Żydzi Ray znaleźli, tak też piekło się na wszystkie kryminały, osobliwie przeciwko Sakramentom SS y dzieciom niewinnym otworzyło.
+
+\[46\] Roku 1399. W Poznaniu, OO. Karmelitom Kościół Bożego Ciała Krol Iagiello wystawił na tym mieyscu, gdzie trzy Hostye (od służebnicy Diabelskiey ukradzione w Kościele OO. Dominikanów, przedane y w kamienicy Swidnińskiey włochu kłote, krwią płynące Cudownie od żydowki ślepey uzdrowioney ogłoszone) od żydów wyniesione, y w dołku zakopane, a potym przyklękaniem bydła, po powietrzu lataiące obiawione, y na ręce pobożnego Kapłana, Iana Ryczywoła spuszczone, Cudami do tą słuną, żydzi pobrani, y z Niewiastą wolym ogniem pieczeni y od psow przykutych, do nich pozarci zostali. Iako Xiążka o tym pod tytułem Depozyt Ciała &c 1663 wydana świadczy.\[13\]  
+Roku 1407. W Krakowie, woła na żydow Kościoł także Bożego Ciała na Kazimierzu zbudowany, na tym mieyscu gdzie Hostya SS od żydów sklote w błoto wrzucone, znalezione.\[14\] Przydaie Miechowita, że ich potym o dziecię zabite z Krakowa za Kazmierza wypędzono.\[15\]
+
+Roku 1508, dnia piątego Kwietnia, przekonany Rabin od X. Mikołaia Doktora Dominikańskiego przez publiczny dowow w Kościele P. Maryi w Rynku o obelgę S. Hostyi, i inne excesy, oddany Urzędowi, y spalony.\[16\]
+
+Roku 1556. W Sochaczewie Dorota Laszecka Hostya, S. w Kościele Kozłowskim, bez spowiedzi w Sobotę Wielką przyiąwszy żydom za trzy talery wydała, z ktorey tkrwie szklenice nazbierali Żydzi spaleni y Białogłowa wyznaiąca na siebie, że dziecka z żydem dostawszy, bez krztu go udusiła y na kierkucie pogrzebła, z listu Aloizego Lipomana: Nuncyusza na ten czas w Polszcze.\[17\]  
+Roku 1562. W Skierbieszowie Dzwonnik Żydom S. Hostyą Krasnostawskim przedał, którą w ognisku zakopali, gdzie się ogień palić nie chciał. Ale klecha uszedł, a żydzi się upominki wykręcili.\[18\]
+
+Roku 1580. W Osmiecimiu dwoch świętokradzcow spalono, o wydanie Żydom ukradzionych Hostyi, Żydzi sami (sromota wieczna) za Iudaszowskim workiem od śmierci wolni.\[19\] W Pilcy także się też stało, że Katolik spalony, żydzi wolno puszczeni.\[20\] EMW 2004 \[48\] Roku 1580. Żyd bluznierca Nayswiętszego SAKRAMENTU spalony.
+
+Roku 1598. W Pułtusku okradszy Hostyą Łotr nie iaki Krzyczkowski, Żydom do Płońska za cztery złote przedał poimany z suspicyi wyznał, Żydzi na mękach parli się, ale potym wyznali, ża zaślepieni drogi przed sobą niewidząc, uchodzić nie mogli, znaleziona puszka w gnoiu y z processyą do Kościoła Hostye wziete Iudaszowie spaleni.\[21\]
+
+Roku 1600. w Bochni mazur wydawszy S. Hostyą Zydom, boiaznią zdięty sumnienia, ani spowiedzą uspokoiony sam przed Urzędem na siebie y komornika swego wyznał. Źydzi Iakub Ickowic, Frącek Icko Wronka z poręki P. Mikołaia Borzynowskiego uszli gdy przez dekret Krolewski stawic ich kazano. Protektor że nagle \[na Seym pozwany\] umarł. Żydzi wszyscy wygnani Achaty Kmita w processie drukowanym: ktory przydaie przyczyne handlu tego Iudaszowskiego ze Roku 1698 \[sic\] Żona prawi Ickowa Wronina, raz prosię drugi raz dziwo, iak
+
+Indyka szpetnego urodziła.\[22\] Druga także łatkę z żebami zaięczymi z grzywą końską, z ogonem wężowym, urodziwszy, na iakąś przez Czary Expiacyą Sakramentu S. dostać się ważyly, znaleziono także przed tym u tego Frącka Krola Stefana suknie, w Niepołomicach mu pokradzione, przed Dekretem _Expulsionis_ Latawiec za uderzeniem Piorunu, do Boznice im wleciał, y potym tak im przeszkadzało, że Boznice zamknęli, ktorą w krotce za Dekretem odebrano y ich wygnano.
+
+Roku 1619. Żydzi z Kalisza kupili u Niewiasty z Sobotki Hostyą Swietą y nad nią się pastwili, znależli wiele Fautorów, y Protektorów, dla ktorych się sprawiedliwość choć o samego BOGA naszego krzywdę przewlokła.\[23\]
+
+Roku 1669, _die ultima Iulii Lovicii_ na Konfessatach przed wysadzonemi Xiążęcia na on czas I.M. Prażmowskiego Prymasa Kommisarzami nieiaki Murzynkowic _profugustz_ pewnego Zakonu wyznał że będąc Presbiterem u Fary u Maryi Magdaleny w Poznaniu wziął kilichy dwa y _cuppam a pixide_ wysypawszy, Hostye odkręcił \[49\], Żydom tamże przedał za co wsadzony, z Karceres się wyłamawszy uszedł _in habitu lascali_ kowalstwo po wsiach robiąc (iako Syn niegdy Kowalski) w Pakendzu Żone od Męża odomowiwszy mieszkał z nią na wiarę z Corką iey także _incestum commisse_ pytany o Świętokradztwa lubo co na torturach zeznał to rewokował że to z bolu wielkiego uczynił iednak _pervasionibus ad salutem anima motus D.D. Commissariorum Corde contrito effusisque lachrymis coram Imagine Crucifizi sponte et claravoce recognovit_. W Chełcach służac za Kantora ukradłem Kommunikant, y Łewkowi Żydowi przedałem w Kaliszu Anno 1669 za złotych Osmidziesiąt albo Dziewięćdziesiąt _circiter ex Ciborio_ go wziąłem klucze były w Kościele uczyniłem przed tym z Lewkiem kontrakt o kupno on mie na to namawiął, w Kaliszu y odniosłem mu go do domu wziąl go w ręke Lewek nożem pchnął pokazała się krew widziąłem sam oczyma memi raz tylko pchnął był Syn iego przytym, y drudzy ktorych nie znam czterech albo pięc, było to około Mięsopustu, szwargotali tam z sobą zaraz na coby tego potrzebowali nie pytałem w Raysku też służąc za Bakałarza ukradłem Kommunikant przedałem go Samuelowi Żydowi w Dobrey, wie o tym Żyd Marek z Kozminka Anno 1662. po EMW 2004
+
+Wielkieynocy zaraz dali im za to złotych Sześcdziesiąt czyli Siedmdziesiąt _circiter_ nie mogli pamiętać. Trzeci Kommunikant w Miłowicach ukradłem y temusz Salomonowi w Dobrey z Zięciem iego Anno 1663, wie otym tenże Zięci iego za złotych Sześdziesiąt potym Anno 1667. Tamże w Miłkowicach ukradłem Kommunikant y temuż Salomonowi przedałem za złotych Sześcdziesiąt. Hostyą przedałem w Warcie Żydom Moyżeszowi y Szklarzowi Iakubowi z ktoremem targ uczynił drugich nieznam trzech ich było, zawsze mię o to prosili, mieli byli dać im złotych Sześdziesiąt, ale niewiem co mi dali w worku, bom Ich nieliczył, tom uczynił in Anno _Currenti_ wziąłem ią przed lutrznią w Niedzielę Wielkonocną z grobu y nieodmieniałem nigdy \[50\] inszey Hostyi, prostego też nieprzedałeł Kommunikanta, bo by go poznali y o co mię prosili, abym prawdziwie Konsekrowane a nie proste im nosił, maią probę że kolą y krew idzie z nich na co by tego potrzebowali y zażywali niepytałem się o to, u Żydów w tey przedaży nie miałem żadnego dubium y że prawdziwe Ciało y Krew Nayświętsza iest wierze, tylkom tom czynił z łakomstwa tę Hostyą chowałem ad Festum Ascensionis Domini w Kościele Miłowskim _in tumba_ w Ołtarzu podle Kazalnice y nazaiutrz _in crestina Festi Ascensionis_ na Iarmarku w Warcie przedałem Żydom, y iuż to na gotowem zaniosł nikt niewiedział o tey kradzieży, y Żona o tym niewiedziała, y Corka niewiedziała, tylko była na Kwietną Niedzielą u mnie y zaraz w Poniedziałek poszła przy sobie Nayświetszego SAKRAMENTU tylko raz byłem w Kaliszu ten Kommunikant z ktorego to krew szła konsenkrował X. Swieykowski Pleban Chełmski, te pieniące com za Kommunikanty brał, provictu et amictu obracałem, y tych zbrodni nigdym się niespowiadał, często żeby mię niemieli za Heretyka, y nigdziem _Hostiam non Consecratam in lacum consecratum supposui_ mogl bym był, alem tego nieuczynił. Oddany Urzędowi potym spalony a Żydzi pouciekali powołani.
+
+Około Roku 1670 we Mławie żyd Kurek kupił u Złodzieia S. Hostyą y z puszką, ktorą gdy kłoli w nocy w piwnicy nożami krew się rzuciła, Hostyą nazaiutrz na powietrzu widziaan była, y dzwony słyszane nad tym domem, w ktorym naleziono Zlóczyńcow Synowie dwa tegu Kurka ochrzczeni, uczyli się w Pułtusku in Anno 1704 w Seminarium mieszkali.
+
+W Maminie za Księdza Biskupa Trzebickiego o Hostyę S. kupioną Arendarza \[że tylko X Pleban wyrzekł, trzeba by cie spalić\] Pospolstwo dol wykopawszy spaliło.
+
+Roku 1696 w Sendomirzy Białagłowa w Wielki Czwartek S. Hostyą przyiętą w chustę wyplutą iuż była do żydow zanioła ale postrzeżona na śmierc tamże w Mieście dekretowana.
+
+Roku 1698. W Rawie złapano sześciu Żydów, o skradzenie \[51\] w żelazny tak sreber iako y Hostyi S. z Monstrancyą pod czas Okrawy Bożego Ciała, y dwoch Slosarzow _Complices_, ktorych zaraz powieszano, Żydzi niewiem czy się nie wykręcili.
+
+1710 w Łęczny _Feria 5ta post Festa solennia Pascha_ dekretem ferowanym, tamże w mieście z roskazu I.M. P. Strażnika W.X. K. BOGA sprawiedliwości (nie Świętokradzcow) obrocone, Żydow Żydowek siedm spalono y Podgorskiego Dzwonnika, osiedmaśie wyanych Hostyi SS> y inne Kośilene rzeczy: gdzie Iudasz wyznał że iednę Hystyą \[sic\] wziąl z sobą do Gdańska, drugiena Czary obracali.
+
+  
+Roku 1712. Z Jędrzejowa Arendarz (ledwie tam przyięty przeciwko prawu) wygnany, o Hostyą kupioną także u świętokradzce Dzwonnika.
+
+A że niezostało iuż sposobów Żydom na kredyty, na Prowizye brać pieniędzy, a przecie lekko robiąc powinna się mieć dobrze; rzucili się do łupienie y kradzieży Kościołom, gdzie oraz y Nayświętszey Hostyi, lubo sami lubo od świętokradzcow przewodniow sowich dostaią, o co kiedy ktory Pleban czynić pocznie, to mu potrzeba y życie y gotowiznę łożyć, a ieszcze rzadko doydzie dla Protektorów sprawiedliwości. Niech żeby ieno żydom Przykazanie ukradziono z Bożnice, ieżeli by wszyscy na to się nisładali nieciekali, żeby się zemścić krzywdy. My Katolicy, czy nie wierzemy w Chrystusa, o ktorego wzgarde Aktorom czyniącym, przeszkadzamy, a ieszcze dla pieniędzy podobno żydowskich, ktorych BOGU duszą Przypłacić będzie trzeba. Niektore Świętokradztwa, wieku naszego wspomnnie, bo ich spisać wszystkich niepodobna.
+
+Przed Rokiem 1648. w Krakowie u S. Anny kielich na Zamku Trzybularz u P. Maryi Krzyż wielki srebrny, u S. Szczepana łańcuch złoty z Monstrancyi, u S. Troyce Antependium, u Franciszkanów lichtarze, na piasku srebra z Obrazu pokradzione u Żydow zostały, Katolicy pokarani, Żydzi się okupili.\[24\]
+
+W Piotrkowie Żydow tracono, o takąż sreber Kościelnych kradzież \[52\] stary żyd zapamiętał stracony. Młodemu Gołebica naramieniu padła na placu, znakiem była iego powołania do Wiary, ktorą przyiąwszy ścięty, to z relacyi OO. Piarum Scholarum.
+
+W Kościele pod Krakowem puszkę z Hostyi Arendarz kupił, I.X. Opacki Archidyakon Krakowski czynil o to, że żyd stracony y wszyscy z browarów z tey parafii przez dekret Grodzki wyfnani Wodzisławscy zaś żydzi _complices_ daią dolampy tamże oliwę.
+
+W Opatowcu, w Bałutowie, w Denkowie, w Opatowie: razem cztery Kościoły okradli żydzie, ktorzy tu aż z Litwy byli na tę robotę przyszli.
+
+Roku 1688. w Chełmie tracono także żydów y Katolika o skradzenie kilku Kościołow gdzie że srebrem zabierali y SSm: na obelgę y czary sobie zwykłe.
+
+W Siennie Żyda także stracono o srebro Kościelne y Relikwie Swięt: Antoniego, ktorego gnatkami nazwał, pokazawszy gdzie ie był zakopał w gnoiu.
+
+W Kozminku pod Kaliszem okradł Kościół, gdzie zabrali y srebra Kościelne y Plebanowi na złotych sześć tysięcy y I. M. Panu Lętkowskiemu w pieniądzach y w kleynotach na złotych Sześctysięcy tych stracono w Piotrkowie.
+
+Roku 1694. Kościól Farny w Bełzie Rusin z Waręza oklradszy, z puszką osmnaście Hostyi przedał żydowi Sokalskiemu, Rusina spalono za żydami instancyie wielkich Panow sprawiły, (a żal się Boże y od Biskupa pewnego niegdy Inhibicya wydana), że Sędzia wziąwszy dwieście talerow bitych, żydow przypuścił _ad evasionem_ przez dekret w Aktach Grody Bełskiego zapisany.
+
+Roku 1696. Kościół Świętego Ducha w Sendomierzu okradli także żydzi process moy świadczy 1698 wydany.
+
+Roku 1607. we Cmielowie z Ołtarza Swiętey Anny złotnik srebro pobrał, ktore się żydom dostało. Złotnik tylko stracony.
+
+\[53\] Roku 1697, na Wołyniu żydzi Cech mieli Złodzieyski, ktorzy około Łucka Kościołow więcey niż dwadzieścia że sreber złupili, iako to w Targowicy u Arendarza. W Łucku naostatku Cerkiew łupiących połapano a drudzy pouciekali, Arendarz z Targowicy przyznaiąc Cuda od Krzyża u siebie zakopanego, okrzczony ścięty, Rabina Syn że dwiema spalony. A toż Kontubernia takie handlow żydowskich do ktorych w pisuią pewnie y tych co fla ich łakomstwa kraść y Kościoły muszą.
+
+Roku 1698 z Przytyka żydzi Kościół okradli we Wrzosie, ale że u nas process z żydami trudny ktorzy zaraz pouciekali przepadło.
+
+Roku 1700. W Szczeglicach pokradzione srebro Kościelne pokupili żydzi Opatowscy.
+
+Roku 1702. we Frysztaku Kościele żydzie na Dwadzieścia Tysięcy srebra zabrali, I.M. P. Iozef Rołowski Chorązy Parnawski okupem sobie Offiarowanym z pobożności Chrześcianskiey w zgardziwszy, piąciu spalić kazał, a na czterech Infamią otrzymał, niewrociło się tylko dwadzieścia dziewięc grzywien srebra bo z drugiego tynfy y szostaki fałszywe bili. Ciż siedm inszych Kościołow okradli byli.
+
+Roku 1703. W Głogowie y bliższych Kościołow kilka żydzi pokradli.
+
+Roku 1711. Woyciech Floryk z drugiemi drabami okradli Kościól w Ulanowie że srebra ktore przedali zydom iedne w Bilgoraiu, drugie Leybie Rzeżnikowi w Goraycu, są Konfessaty iego w Mieście Oleszycach dnia 7 Augusta opisane.
+
+Roku 1712 w Kozuchowku w ziemi Drobinkiey. Zydzi z Łosic puszkę z Hostyami u złodzieia kupili ktory spalony żydzi na torturach się niechcieli przyznać, choć srebro od nich licem wzięto.
+
+\[54\] Roku 1712 z Opatowskiemi żydami iest dekret moy iako _commisarii synodalis_ z I.M. Panem Kasztelanem Zawichoyskiem _statutionis_ Żydow ktorzy srebra z Kościołow w Kiełczynie w Chobrzanach, Pskanowie, w Glinianach, y w Sobotce osobliwie puszki pokradzione od drabow skupowali y iako naywiecey kazali im przenosic o Hostye ich prosili, ferowany _in Vigilia Festi S. Ioannis Baptistae_ w Opatowie.
+
+Roku 1713. Iest sprawa w Grodzie Sanockim o pokradzenie Kościoła w Hoczewie, z zydamie, ktorych wydała przekrzcionka zabieraiąca się na komprobacyą, a żydzi na Ewazyi w lat dwadzieścia licami od nich odebrano, y 1710. w Iarosławiu ich na Trybunale o to sądzono, albo iako ow Cygan ktory więcey było potrzeba dać od dekretu _Evasionis_, niż się podkowa stała, podkowę (przysiągszy że iey nieukradł) wrocił.
+
+**Endnotes**
+
+\[1\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. \[Several copies preserved at the library of the Jagiellonian University in Cracow\]; Also Jan Kwiatkiewicz _Roczne Dzieje kościelne od Roku Pań skiego 1118 aż do lat naszych_ (Kalisz: Typis Societatis Jesu, 1695, 21.
+
+\[2\] Jan Kwiatkiewicz _Nowych dziejów kościelnych_ (Kalisz: SJ, 1706). \[3\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+
+\[4\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Szymon Hubicki, _Żydowskie Okrucieństwa_ (Cracow: 1602), 3.
+
+\[5\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_ (Cologne: 1622).
+
+\[6\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XVII Rerum in Orbe Christiano Ab Anno Domini 1448 Usque as Annum Domini 1471_ (Cologne: 1624).
+
+\[7\] Hubicki, Żydowskie okrucieństwa, 3. He also mentions Śleszkowski, Sebastyan Śleszkowski, _Dostateczna Genealogia Żydowska._(Brunsberg: Schonfels, 1622), Chapter 10.
+
+\[8\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Also, Hubicki, _Żydowskie okrucie ństwa_, 4.
+
+\[9\] Cites Śleszkowski as a reference, but see also, Hubicki, _Żydowskie okrucieństwa_, 3-4..  
+\[10\] Żuchowski cites Przecław Mojecki, _Żydowskie okrucieństwa, mordy i zabobony_ (Cracow: 1589), chapter 12. But see also, Hubicki, _Żydowskie okrucieństwa_, 3v.
+
+\[11\] Hubicki, _Żydowskie okrucieństwa_, 4.  
+\[12\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+
+\[13\] He also cites, Śleszkowski, _Dostateczna genealogia żydowska_.
+
+\[14\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem. Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_.
+
+\[15\] Maciej Miechowita, _Chronica Polonorum_ (Cracow: Hieronim Vietor, 1519 \[1521\]).
+
+\[16\] Cites Marcin Bielski, _Kronika Wssythyego Swyata Na Ssesc Wiekow a Na Czwory Ksiegi Takiez Monarchie Rozdzielona_ (Cracow: Hironim Scharffenberg, 1554 \[1551\]). And Mojecki, _Żydowskie okrucieństwa_.
+
+\[17\] Hubicki, _Żydowskie okrucieństwa_, 5r. Hubicki himself notes the importance of print there “Pisał też w tey sprawie Anloysius Lipomanus Nuncius Aposto, ktore listy w Rzymie potym wydrukowano.”  
+\[18\] Hubicki, _Żydowskie okrucieństwa_, 5r-v.  
+\[19\] Hubicki, _Żydowskie okrucieństwa_, 5v.  
+\[20\] Almost identical wording as Hubicki, _Żydowskie okrucieństwa_, 5v. \[21\] Hubicki, _Żydowskie okrucieństwa, 5v_.
+
+\[22\] Cites Jan Achacy Kmita, _Process Sprawy Bochenskiej z Żydami o Nayświętszey Eucharistiey Sakrament of Żydów u Świętokradców Kupiony y Cudownie Okazany_ (n.p.: n.p., 1601 \[1602\]). See also, Hubicki, Żydowskie okrucieństwa, 5v-6v. Hubicki also mentions Alfonso de Espina, _Fortalitium Fidei_.
+
+\[23\] Cites Śleszkowski.
+
+\[24\] Cites Sebastian Miczynski, _Zwierciad ło Korony Polskiey: Urázy Cięż kie y Utrapienia Wielkie, Które Ponosi Od Żydow Wyrazaiące Synom Koronnym Ná Seym Walny w Roku Panskim 1618_ (Cracow: Máciej Jedrzeiowczyk, 1618). Perhaps the year 1648 above is a mistake.
