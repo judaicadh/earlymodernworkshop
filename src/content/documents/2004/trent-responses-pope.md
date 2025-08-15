@@ -19,7 +19,7 @@ description: This presentation discusses two responses to the 1475 trial of Jews
   One comes from Pope Sixtus IV and another, a century later, from a Jewish
   chronicler, Joseph ha-Cohen.
 ---
-<h3 style="text-align: center"><strong>Introduction to Bull of Sixtus IV</strong></h3><p style="text-align: center">Kenneth Stow, Haifa University, Israel</p>
+<h3 style="text-align: center"><strong>Introduction to Bull of Sixtus IV and `Emeq haBakh'a</strong></h3><p style="text-align: center">Kenneth Stow, Haifa University, Israel</p>
 
 **Notes:** See on these issues, Kenneth Stow, "Papal Mendicants or Mendicant Popes: Continuity and Change in Papal policies toward the Jews at the end of the Fifteenth Century" Friars and Jews in the Middle Ages and Renaissance. ed. S. McMichael. Leiden, 2004, 255-73, and the literature cited there, including references to texts noted here. 
 
