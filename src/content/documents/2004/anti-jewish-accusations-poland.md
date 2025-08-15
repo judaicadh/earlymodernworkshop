@@ -117,6 +117,210 @@ Trachtenberg, Joshua. _The Devil and the Jews : The Medieval Conception of the J
 
 ## Source 2 Translation
 
+Criminal Trial Concerning the Innocent Child Jan Krosnowski
+
+On the Desecrations of the Most Holy Sacrament
+
+Process Kryminalny o niewinne dziecię Jana Krosnowskiego
+
+Stefan Żuchowski, 1713?
+
+\[p.44\] Having killed Christ, the unimaginable Jewish malice, not being able to reach Him, who now rules in Heavens, seeks the innocent \[Christ\] hidden in the bread, all the more greedily that godless Catholics themselves give Him to them.
+
+In the year 1213, in France, a Jew had bought the Host from his female servant, and intending to stab it, placed it in a box where he had seven silver coins. When he saw that the coins changed into Hosts he converted and went to Rome where he was christened by Pope Innocent.\[1\]
+
+In the year 1305, a Jew was unable to burn the Host, which he had bought from a \[Christian\] woman, so he stabbed it with a dagger and when the blood began streaming out, everything was revealed, and the Jews were punished and expelled; and today the church Salvatoris Bullientis testifies to the truth of this miracle.\[2\]
+
+In the year 1300, in Cracow, Jews, having broken into a church and stolen the Most Holy Hosts, which they stabbed, trampled upon and scattered on the roads, were arrested by Catholics and placed them on the wheel \[for torture\].
+
+In the year 330 \[sic\], in Gustrow,\[3\] a Jewish woman was converted when during the stabbing of the Host, a voice of a child was heard. The Jewish woman then found the sacrilegious Jews in the synagogue and \[45\] retrieved the Host wrapped in a bloodied kerchief. The Jews were burned along with the woman who had sold them the Host, and a chapel to the Miraculous Host was built.
+
+In the Duchy of Megapol \[Great Poland?\], Bocerus described two hosts stabbed by Jews.  
+In the year 1338, in Germany, in the town of Pulkau, blood was streaming out of stabbed host, for which Jews were punished by the Prince at the order of the Pope Benedict.\[4\]
+
+In the year 1369, in Brussels in Brabant, Jews were discovered because of the blood streaming out of the Host, for which they were torn into pieces.\[5\]
+
+The same year, in Louvain \[?\] Jews were condemned to the stake for the same crime and the bleeding Host was placed in the chapel.
+
+In 1414, in Köln, a Jew, dressed up \[as Christian\], took communion and went to a corner where he took the Host out of his ugly mouth; when he saw the Host had turned into a crying child, he began to flee the church, but the Devil stopped him, and threw the crying child into a ditch in the adjacent cemetery. That's when the people run out of the church, along with priests, and that miracle converted many Jews.\[6\]
+
+In the year 1466. In Spain, when \[Jews\] could not burn or destroy hosts they had obtained, they took them to the Dominican monastery in Segovia and were punished by death.\[7\]
+
+In the year 1426, in Vienna, a woman sold the Most Holy Host to Jews, for which Emperor Frederick ordered that three hundred Jews be burned and the woman be torn into pieces with clamps \[_kleszczami_\].
+
+In the year 1433, in Dywona \[Dijion?\] a Host stabbed by Jews, and bleeding was deposited in the local chapel with the approbation of Pope Eugene IV.
+
+In the year, 1434, in Dekendorf, Talmudists, having stabbed the Host, and beaten in on an anvil, threw it into an oven. For which the majority of these earthly Devils was burned on metal sheets and quartered.\[8\]
+
+In the year 1452, in Silesia, many Jews were burned for offending the Host.\[9\]
+
+In the year 1492, in Czech lands, in a small town Sterberck \[Sternberg\], a Jew, Eleazar, was burned with thirty others, \[46\] for buying the Host, then stabbing it, and making it bleed.\[10\]
+
+In the year 1510, in Szpandaw \[ Spandau\], a Jew, Solomon, having bought the Host for six grosze from some crook, cut it with a knife, so that it was divided into three pieces. Two, he sent to his friends in Brandenburg, and one, stabbed and bleeding, he kneaded into a dough and threw into an oven, where he suddenly saw a child in great brightness, and so he hanged the bread in the synagogue. In Brandenburg, because they could not clean the blood of the second part of the stabbed Host from the table, they cut the piece of the table, and with the Host took it to a wedding in Hostenburg. The Jew, Maier, gave it in a basin, to the bride saying: here you have something to rejoice, here you have the Christian GOD, and so again almost 40 Jews stabbed the Host, and so the blood was streaming profusely. And for this, the Margrave Ioachim of Brandenburg ordered to burn thirty \[Jews\] in Berlin after the Holy Apostles, and Pawel Form, who had sold them the box with Hosts, was flayed, and Jews also admitted to having tortured seven children, about which below in chapter XI.\[11\]
+
+In the year 1540, in Breslau, they stabbed the Host according to the _Zwierciadło Przykładów._ \[12\]
+
+In the year 1514 \[sic\], in Halle, a baptized Jew pretended to be a priest and, having received the Hosts, sold two of them to other Jews and the third, one out of his own unbelief, he beat it so much that it was covered in blood.\[13\]
+
+In the year 1592, in Prague a Jew Lewek, a cruel beast, having stolen three Hosts from the Franciscans gave them to Jews, who blasphemed while stabbing them: "If you are a Christian GOD, show your power." And he did show it because on a clear day, a lightening hit the house of the sacrilegious men and burned it, the three \[Jews\] had run away, but were caught and torn with pliers and impaled. \[14\]
+
+In the year 1619, at the borders of Spain, a Jewish woman under disguise was discovered. And because she had taken the Host out of her mouth and put it in a kerchief, she was placed in a barrel and immediately burned.\[15\]
+
+In our Poland, since Jews who had been expelled from foreign countries found Paradise, so the Hell of all crimes, especially against the most holy Host and innocent children opened up.\[16\]
+
+\[47\] In the year 1399. In Poznań, King Jagiełło founded a church of the Corpus Christi for the Carmelite friars in a spot where three Hosts (which had been stolen from the church of the Dominican friars by a \[female\] servant of the Devil, sold \[to Jews\] and then stabbed in the cellars of the Świdnica house, covered in blood healed a blind Jewess), having been taken out and buried, were revealed by kneeling cattle. The Hosts were floating in the air and descended into the hands of the reverend father Jan Ryczywoł, \[17\] and miracles followed. Jews, apprehended, were roasted in fire along with the \[Christian\] woman, and were devoured by dogs to which they had been attached, as the book entitled _Deposit Ciała_ \[the deposition of the body\] published in 1663 testifies.\[18\]
+
+In the year 1407, in Cracow, a church of Corpus Christi was built in Kazimierz on the spot where the most holy Hosts were found in the mud, after they had been mutilated by Jews. And Miechowita reports that the Jews were expelled from Cracow to Kazimierz after they had been \[accused\] of killing a child.\[19\]  
+In the year 1508, on the fifth of April a rabbi was accused of desecrating the holy Host and other crimes by reverend Mikołaj, a Dominican scholar, in a public trial in the church of Mary the Virgin on the \[ Cracow's\] market square, and subsequently burned. \[20\]
+
+In the year 1556, in Sochachew, Dorota Łaszecka, having taken communion in the Kozłowski church on the Saturday before Easter, without the confession, sold it for three thalers to Jews. \[From this Host\] Jews collected \[a few\] cups of blood. They were burned along the woman, who had confessed that he had had a child by one of the Jews, whom she smothered before it was baptized, and buried it in a Jewish cemetery. That \[is reported\] from the letter of Aloysius Lippomano, a papal nuncio in Poland at the time. \[21\]
+
+In the year 1562, in Skierbieszow.\[22\] The church bell-ringer sold the holy Host to the Jews of Krasnystaw, which they buried in fire, and the fire was extinguished. The priest fled and the Jews got off because of gifts.\[23\]
+
+In the year 1580 in Oświęcim, two \[Christian\] perpetrators of a sacrilege were burned because they had given stolen Hosts to Jews. Jews, a great disgrace, were saved from death because of Judas' sack.\[24\]
+
+Also in Pilica a Catholic was burned and Jews were freed.\[25\]
+
+  
+\[47\] In the year 1580, a Jew, who had blasphemed against the most holy sacrament, was burnt.
+
+In the year 1598, in Pułtusk, a certain villain, Krzyczkowski, having stolen the Host, sold it to Jews of Płońsk for four złoty, when apprehended he confessed to all. Jews first denied \[everything\] under torture but later they confessed that they were blinded and not being able to see their way they could not run away. The pyx was found in dung and they Host were returned to church in a procession. Jews were burnt.
+
+In the year 1600 in Bochnia, a man from Masovia having given the holy hosts to Jews, frightened and \[pressured\] by his conscience, but not being able to find consolation even by confession, turned himself and his landlord in to the magistrate. Jews, Jacob Ickowic, Frącek Icko Wronka, were freed under bail and guarantee from lord Mikołaj Borzynowski. They fled when a royal decree ordered them to present themselves \[in court\]. Their protector, having been called to participate in the Sejm,\[26\] died suddenly. Jews were expelled. Achacy Kmita presents the reasons for this trade of Judas in his printed book. In the year 1698, the wife of
+
+Icko Wronin \[sic\], gave birth first to a piglet and then a monster ugly like a turkey.\[27\] And after
+
+another monster\[28\] was born, maned with rabbit teeth and a tail like a snake, to expiate it by means of magic they dared to obtain the holy host. At the same time King Stefan's cassocks that had been stolen from Niepołomice were found in the house of the said Fr1cek. Just before the expulsion decree a demonic ghost\[29\] entered their synagogue after lightening had hit it. It disturbed them so much that they closed the synagogue, which shortly afterward was confiscated and they were expelled.
+
+In the year 1619, Jews of Kalisz bought the holy host from a \[Christian\] woman from Sobótka and they tormented it, but they found many protectors and because of them justice was delayed even though it was about an injury to our GOD himself.\[30\]
+
+In the year 1669, on the last day of July, in Łowicz, at the inquiry before the committee led by Reverend Primate Prazmowski, a certain Murzynkowic a fugutive from a certain monastery confessed that when he was a priest in the parish church of Mary Magdalene in Poznań, he took two chalices and having thrown out the remains out of the pyx \[?_cuppam a pixide_\], he took the hosts and sold them to Jews for which he was incarcerated. But he fled in lay clothes and engaged in smithcraft (since he was a son of a blacksmith) in different villages. And in Palędz he seduced a wife of a certain man and lived with her without marriage and also with her daughter, committing incest. Having been asked about sacrilege he denied whatever he confessed under torture claiming that he confessed so under great pain but after persuasion of the committee, moved to achieve salvation of his soul, he acknowledged in clear voice and with a contrite heart, spontaneously pouring out tears in front of the image of the crucifix: When I served as a chanter in Chełce in the year 1669, I stole the host and sold it to a Jew, Lewko, in Kalisz for about eighty or ninety zlotys. I took it from ciborium, and the keys were in the church. Beforehand, I made a contract with Lewko regarding the purchase. He encouraged me to do that in Kalisz. And when I brought \[the host\] to Lewko's home, he took it in his hand and stabbed it with a knife. Blood poured. I saw it with my own eyes. His son was present and others whom I don't know, about four or five. It happened around a carnival,\[31\] the \[Jews\] were jabbering among themselves. I did not ask what they needed it for. I also stole the hosts when I served as a teacher in Rzysko. I sold it to a Jew Samuel of Dobra. A Jew Marek of Kozminek knows about it. In the year 1662, just after Easter they gave me about sixty or seventy zlotys, I cannot remember exactly. The third host, I stole in Miłkowice, and \[I sold it\] to the Jew Solomon of Dobra and his son-in-law in 1663 for about sixty zloty, as his son-in-law knows. And later, in the year 1667, also in Miłkowice I stole the host and sold it to this Solomon for sixty zlotys. I also sold the host in Warta to Jews, Moses and Jacob the glazier, with whom I made a deal. I don't know others, but there were three of them, and they always asked me to do it. They were supposed to give me sixty zlotys but I don't know what they gave me in the sack, because I did not count. I did that in the current year before Easter Sunday from the tomb \[of Jesus in the church\] and I did not exchange it for another host. I never sold them unconsecrated regular host because they would recognize \[that it was not consecrated\] and they had asked me to bring in true consecrated hosts and not the regular ones. They check by stabbing it to see if blood flows. I did not ask what they need it for, I never hesitated to sell it to Jews. I believe that this is true most holy body and blood but I did it out of greed. I stored this host in the church of Miłkowice in a tomb near the altar right next to the pulpit, till the festival of Ascension of Christ. The following day I sold the host at the fair in Warta to Jews and ... no one knew about this theft, \[my?\] wife did not know, \[my\] daughter did not know. She came to visit me during the Pentecost Sunday but she left on Monday. I visited the tomb of the Holy Sacrament only once during the holiday in Kalisz. The host that bled was consecrated by priest Swieykowski of Chełm. The money that I made from the hosts I used for food and clothes\[32\] and I never confessed these crimes so that I would not be regarded as a heretic, and I have never replaced the consecrated host with the unconsecrated host, even though I could have. He was turned over to the magistrate and burned. Jews fled.
+
+About 1670, in Mława, a Jew Kurek bought a host with a pyx from a thief. When they stabbed it blood poured out. And the host was seen the following day in the air, and bells were heard above the house where the criminals were found. Two sons of this Jew Kurek converted to Christianity and they were studying in Pułtusk in 1704, living in a seminary there.
+
+In Mamin during the tenure of Bishop Trzebicki, local riff raff dug a ditch and burned an arrendator because of the holy host, just because the local priest said "you should be burned."
+
+In the year 1696 in Sandomierz, on the Thursday during the Easter Week, a woman took to the Jews a host, which she had received and then spat out into a kerchief, but she was apprehended and convicted to death.
+
+In the year 1696 in Rawa, six Jews were caught and accused of stealing silver and the Host together with the monstrance from Zelazne during the Octave of the Corpus Christi. Two \[Christian\] carpenters, their accomplices, were immediately hung, and Jews I don't know if they were let off.
+
+In 1710 in Łęczna on the fifth Sunday after Easter, seven Jewish men and women, and the church bell-ringer were burnt by a decree of the Guardian of the divine Justice of the Grand Duchy of Lithuania and not the sacrilegious criminals. Eighteen hosts were found along with other church objects and the Judas confessed that he took one host along to Gdansk and the rest were used for magic.
+
+In the year 1712 an arrendator was expelled from Jędrzejów ... because of the host bought also from the local church bell-ringer.
+
+And as if Jews did not have enough ways to make money, through credits, and commission, they rush to rob churches, where they also obtain the most holy host, either on their own or from other sacrilegious criminals, and when the parish priest does something about it, one need to provide him with support and food, and it is rare that he can find protectors of justice.
+
+If only the Torah \[33\] was stolen from Jews from their synagogue, all would chip in and they would not wait to avenge their injuries. And we Catholics, don't we believe in CHRIST, when we--to his insults--prevent prosecutors \[from reaching justice\], and often because of Jewish money for which we will have to pay GOD with our souls. I will mention only some of the sacrilegious acts because it is impossible to list them all.
+
+Before the year 1648 in the city of Cracow, a chalice was stolen from the church of St. Anna, a large silver crucifix from the church of Mary the Virgin, a golden chain from the monstrance was taken from the church of St. Szczepan, antependium from the church of the Trinity, candlesticks from the Franciscan church, in the district of Piaski silver from a painting was stolen too. All this was found with Jews. Catholics were punished but the Jews bribed their way out.\[34\]
+
+In Piotrków, Jews were executed for such theft of church silver. It is remembered that an old Jew was executed, and on a shoulder of a young one a dove sat \[before the execution\] as a sign of a calling to the Faith, which he accepted and was beheaded afterwards. That's what the Piarist fathers relate.
+
+In Kościelec near Cracow an arrendator bought a pyx, and the Archdeacon of Cracow, Father Opacki did all he could to execute the Jew and to expel others from the breweries in his parish. ...
+
+In Opatowiec, Bałuty, Denków, and Opatów Jews, who arrived from Lithuania to work, robbed four churches.
+
+In the year 1688, in Chełm Jews were also executed along with a Catholic for robbing a number of churches, from which they stole the silver and the holy sacrament for sacrilege and magic.
+
+Also in Sienna, a Jew was executed because of church silver and relics of St. Anthony, which he called little bones, \[35\] and he showed the place in manure where he had buried them.
+
+In Koźminki near Kalisz they robbed a church, from which they stole church silver and six thousand zlotys in cash and six thousand zlotys in jewels from the parish priest there. They were executed in Piotrków.
+
+In the year 1694, a man from Rus'\[36\] of a town Wręż was burned after he had robbed a parish church in Bełz and sold eighteenth hosts to a Jew of Sokale. But the intervention of grand lords
+
+on behalf of Jews resulted (and God forbid even a Bishop issued a decree to dismiss the case)\[37\] in the judge's taking of two hundred thalers, and letting Jews go by a decree _ad evasionem\[38\]_ registered in the municipal court in Be3z.
+
+In 1696, Jews robbed the church of the Holy Spirit in Sandomierz as the trial I instigated in 1698 testifies.
+
+In 1697, in Ćmielów a goldsmith stole silver from the altar of St. Anna. The gold got into Jews' hands but only the goldsmith was executed.
+
+In 1697 in Wołyń \[Volhynia\], Jews had a robbers' guild. They robbed over twenty churches of silver around Łuck, e.g. in Targowica, Stepań, Beresteczko etc. They even stole silver from the Bernardine friars in Łuck, and so \[the friars\] were left with no chalice for mass. The \[Jews\] divided the silver in a tavern of a certain arrendator in Targowica. Finally, they were caught robbing an Orthodox church\[39\] in Łuck, but some of them managed to flee. The arrendator in Targowica witnessed miracles from the crucifix that he had buried and converted to Christianity, he was then beheaded. The rabbi's son and two others were burned. And this was an association of such Jewish traders\[40\] to which they probably also admit those who because of greed rob churches for them.
+
+In the year 1698 Jews of Przytyka robbed a church in Wrzosie, but because putting Jews on trial is so difficult here, some of them fled and \[the opportunity\] was lost.
+
+In 1700, Jews of Opatów bought silver stolen from a church in Szczeglice.
+
+  
+In 1702, Jews stole silver from a church in Frysztak, all worth twenty thousand. Lord Józef
+
+Rosłowski, the standard keeper of Parnów, \[41\] having spurned a bribe that had been offered to him, out of Christian piety ordered that five \[of those Jews\] be burned, and four received the sentence of Infamy. But only twenty nine _grzywien_ of silver were returned, from the rest they minted fake coins. They had also robbed seven other churches.
+
+In 1703, Jews robbed several churches in Głogów and surroundings.
+
+In 1711, Woyciech Floryk along with other criminals robbed a church in Ulanów and sold the silver to Jews, some in Biłgoraj, some to a Jew, Leyba the butcher, in Góraiec. His confession was filed on August 7 in the town of Oleszyce.
+
+In 1712, in Kożuchowek in the region of Drobinki, Jews of Łosice bought a ciborium with hosts from a thief. He was burned but Jews did not confess even under torture, even though the silver was found with them.
+
+In 1712, I, as the synodal commissioner, along with Lord Castellan of Zawichost, issued a decree against Jews who from criminals bought silver and ciboria stolen from churches in Chobrany, Pskanów, Gliniany, Sobótka. And they asked \[the criminals\] to bring hosts. \[The decree was\] passed in Opatów on the eve of the festival of John the Baptist.
+
+In 1713, in the court of Sanok, there is a case against Jews concerning church robbery in Hoczew. \[The Jews\] were betrayed by a baptized woman .... They Jews were hoping for the case to be thrown out of court as in the case of butler silver, which after the case had been dismissed\[42\]-- twenty years later -- were found among them; and in 1710 they were tried for that in Jarosław at the Tribunal; or as this Gypsy who had to pay more for the case to be dismissed\[43\] than the horseshoe \[he was accused of stealing\], which he swore he had not stolen. But he returned the horseshoe in the end.
+
+**Endnotes**
+
+\[1\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. \[Several copies preserved at the library of the Jagiellonian University in Cracow\]; Also Jan Kwiatkiewicz _Roczne Dzieje Kościelne od Roku Pańskiego 1118 Aż do Lat Naszych_ (Kalisz: Typis Societatis Jesu, 1695, 21. On this case see, Miri Rubin, _Gentile Tales: The Narrative Assault on Late Medieval Jews_ (New Haven, Conn.; London: Yale University Press, 1999), 31-32.
+
+\[2\] Jan Kwiatkiewicz _Przydatek Nowych Dziejów Kościelnych_ ( Kalisz: SJ, 1706). \[3\] In northern Germany.
+
+\[4\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. On the complexity of the Pulkau case, see, Rubin, _Gentile Tales_, 65-68.
+
+\[5\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Szymon Hubicki, _Żydowskie Okrucieństwa_ (Cracow: 1602), 3. Miri Rubin gives 1370 as the year of the accusation, see Rubin, _Gentile Tales_, the map, p. xiv, and 181-188.
+
+\[6\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_ (Cologne: 1622)
+
+\[7\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XVII Rerum in Orbe Christiano Ab Anno Domini 1448 Usque as Annum Domini 1471_ (Cologne: 1624).
+
+\[8\] Hubicki, Żydowskie Okrucieństwa, 3. Żuchowski also mentions Śleszkowski, Sebastyan Śleszkowski, _Dostateczna Genealogia Żydowska._(Brunsberg: Schonfels, 1622), Chapter 10.
+
+\[9\] This might be a reference to the 1453 accusation in Wrocław/Breslau, see, Rubin, _Gentile Tales_, 76, 119-28.
+
+\[10\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Also, Hubicki, _Żydowskie Okrucieństwa_, 4.
+
+\[11\] Cites Śleszkowski as a reference, but see also, Hubicki, _Żydowskie Okrucieństwa,_ 3-4.
+
+\[12\] Reference to the _Speculum Exemplorum_, a popular book of exempla, published in numerous editions in the last quarter of the fifteenth century, and then republished many times again in the seventeenth century.
+
+\[13\] Żuchowski cites Przecław Mojecki, _Żydowskie Okrucieństwa, Mordy i Zabobony_ ( Cracow : 1589), chapter 12. But see also, Hubicki, _Żydowskie Okrucieństwa_, 3v.
+
+\[14\] Hubicki, _Żydowskie Okrucieństwa_, 4.  
+\[15\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+
+\[16\] A cliché in early modern Poland that Poland was "a paradise for Jews, a purgatory for the clergy and a hell for the serfs."
+
+\[17\] The name can be translated as a "loud ox" or a "screaming ox." \[18\] He also cites, Śleszkowski, _Dostateczna Genealogia Żydowska_.
+
+\[19\] Reference to Maciej Miechowita, _Chronica Polonorum_ ( Cracow: Hieronim Vietor, 1519 \[1521\]). On the margins Żuchowski also cites, Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_.
+
+\[20\] Cites Marcin Bielski, _Kronika Wssythyego Swyata Na Ssesc Wiekow a Na Czwory Ksiegi Takiez Monarchie Rozdzielona_ ( Cracow: Hironim Scharffenberg, 1554 \[1551\]). And Mojecki, _Żydowskie Okrucieństwa_. In Bielski, 405v: "Tegoż roku żyda w Krakowie spalono przekonawszy go pismem, ktory wiele przeciw ciału Bożemu mówił." \[That year (1508) a Jew was burned in Cracow after it was proven in writing that he had spoken against God's body.\]
+
+\[21\] Hubicki, _Żydowskie Okrucieństwa_, 5r. Hubicki himself notes the importance of print there "Pisał też w tey sprawie Aloysius Lipomanus Nuncius Aposto, ktore listy w Rzymie potym wydrukowano." \[Aloysius Lipomanus (Luigi Lippomano), Apostolic Nuntio, also wrote about this case, and his letters were later published in Rome\].
+
+\[22\] Skierbieszów at that time belonged to the bishop of Chełm. \[23\] Hubicki, _Żydowskie Okrucieństwa_, 5r-v.  
+\[24\] I.e. Bribery. Hubicki, _Żydowskie Okrucieństwa_, 5v.  
+\[25\] Hubicki, _Żydowskie Okrucieństwa_, 5v.
+
+\[26\] Sejm, the Polish parliament, a diet.
+
+\[27\] Cites Jan Achacy Kmita, _Process Sprawy Bochenskiej z Żydami o Nayświętszey Eucharistiey Sakrament od Żydow u Świętokradcow Kupiony y Cudownie Okazany_ (n.p.: n.p., 1601 \[1602\]).
+
+\[28\]_Łątka_, in old Polish means a doll, puppet, but here clearly means a monster. \[29\]_Latawiec_.  
+\[30\] Cites Śleszkowski.  
+\[31\]_Mięsopust_.
+
+\[32\] Provictu et amictu. \[33\] Przykazanie.
+
+\[34\] Cites Sebastian Miczynski, _Zwierciadło Korony Polskiey: Urázy Ciężkie y Utrapienia Wielkie, Które Ponosi Od Żydow Wyrazaiące Synom Koronnym Ná Seym Walny w Roku Panskim 1618_ ( Cracow: Máciej Jedrzeiowczyk, 1618). The year 1648 above appears to be a mistake.
+
+\[35\] Gnatki. \[36\] Rusin.
+
+\[37\] Inhibicya, a decree from high authorities, e.g. the king or bishop, ordering a dismissal of a court case.
+
+\[38\] This implies that the plaintiff's witnesses did not appear in court. \[39\] Cerkiew.  
+\[40\]Kontubernia handlów żydowskich.  
+\[41\] Chorąży Parnawski.
+
+\[42\]_Ewazya_, a court case is thrown out of court because the plaintiff's witnesses fail to appear in court.  
+\[43\] Evasionis.
+
 ## Source 1 Original Text
 
 Akty izdavaemye vilenskoiu kommisieiu dla razbora
