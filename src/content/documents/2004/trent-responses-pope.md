@@ -5,4 +5,7 @@ institution: Haifa University, Israel
 volume: 1
 year: "2004"
 slug: trent-responses-pope
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Early Modern Jewries
 ---
