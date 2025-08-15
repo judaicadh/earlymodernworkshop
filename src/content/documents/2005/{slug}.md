@@ -114,12 +114,6 @@ Mr Saint: These are the goods he stole out of my shop.
 
 Thomas Church: I was constable and heard the prisoner confess he took the goods before my Lord Mayor.
 
-23
-
-EMW - Workshops
-
-EMW 2005
-
 Prisoner: I went to the shop and looked out 20 shillings-worth of goods for a man that goes over sea, which I laid by. Then I looked out these for myself and asked the gentleman if he had anybody to send home with me for the money, for it was almost 7 o'clock, and we Jews don't touch money after our Sabbath is begun; but the gentleman told me he would let me carry them home and I might bring him the money. So I went away, and a man followed me and bid me come back. What must I come back for? says I. I am going to fetch a man to pay for the goods I have looked out, and as I was going to fetch him, the parcel I had bought for myself dropped through a hole I had in my pocket, and they said I had stole them.
 
 Jacob Isaacs: I have known him 4 or 5 years. I keep a shop and he fetches his necessaries from thence and paid me very honestly.
