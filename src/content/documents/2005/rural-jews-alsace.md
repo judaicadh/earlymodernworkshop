@@ -5,4 +5,179 @@ institution: Yeshiva University
 volume: 2
 year: "2005"
 slug: rural-jews-alsace
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Jews and Urbans Spaces
+language:
+  - German
+publication_location:
+  - Strasbourg
+  - Hagenau
+description: >-
+  From 1348/9-1477, the Jews of Alsace were expelled from the cities in which
+  they had lived throughout the Middle Ages. While many opted to leave the
+  Empire for centers in Eastern Europe and Italy, some Jews remained, moving to
+  the towns and villages in the countryside. By the 1470's, the majority of
+  Alsatian Jews lived in rural areas. Quotas often dictated residential policies
+  in towns and villages, so it was not uncommon to find one or two Jewish
+  families per village/town. The following documents detail the relationship of
+  rural Alsatian Jews, as represented by their communal leaders, with two
+  Alsatian cities, Strasbourg and Hagenau.
+
+
+  This presentation is for the following text(s):
+
+
+  Decree banning Jewish commerce in Strassburg
+
+
+  Letter from Josel of Rosheim to the magistrates of Strasbourg
+
+
+  Letter from Josel of Rosheim to the magistrates of the city of Strasbourg
+
+
+  Letter from Lazarus of Surbourg to the magistrates of Hagenau
 ---
+## Source 1 Introduction
+
+<p style="text-align: center">Introduction to the 1530 Decree banning Jewish commerce in Strassburg</p><p style="text-align: center">MS. III/174/20/82</p>
+
+From 1348/9-1477, the Jews of Alsace were expelled from the cities in which they had lived throughout the Middle Ages. While many opted to leave the Empire for centers in Eastern Europe and Italy, some Jews remained, moving to the towns and villages in the countryside. By the 1470's, the majority of Alsatian Jews lived in rural areas. Quotas often dictated residential policies in towns and villages, so it was not uncommon to find one or two Jewish families per village/town.
+
+Although Jews were not permitted to return to the cities until after the Thirty Years War or even later, rural Jews maintained a relationship with the magistrates and citizens of various Alsatian cities. Primarily, this was an economic relationship, as Jews entered urban marketplaces as moneylenders, wine and horse sellers, and as doctors. Though such activity was at times illegal, Jewish commerce in the cities of Alsace persisted throughout the early modern period. City magistrates also protected the Jews of the countryside in various times of strife, including the Peasants Rebellion in 1525, and the Thirty Years War.
+
+The following documents detail the relationship of rural Alsatian Jews, as represented by their communal leaders, with two Alsatian cities, Strasbourg and Hagenau.
+
+The first text is a letter from Josel of Rosheim to the magistrates of the city of Strasbourg, dated 1534. This letter is a draft of a contract between the Jews of the province of Hagenau, in Lower Alsace, and the city's magistrates\[1\]. Jewish moneylenders had been charging what the magistrates deemed to be overly high usury. In addition, some Jews had been pursuing unpaid debts and claims in the Imperial Chamber Court at Rotweil, which charged high legal fees. Because the city held the right of _non appelando_, an exemption from imperial courts even for cases involving appeals, among its privileges as a free imperial city, litigation between Jews and Strasbourg's residents in an imperial venue was seen as all the more threatening to the city.
+
+In response to the usury and to the court cases at Rotweil, the city banned all Jewish commerce under its jurisdiction. (An example of a law from 1530 banning Jewish commerce is included on the website. While this law was not directly responsible for the formation of the contract, it is referred to by Josel in the body of the contract.)
+
+In order to preserve the relationship between Strasbourg and local Alsatian Jews, and to ensure that Jews could continue to do commerce in the city, Josel drew up this contract, which was eventually signed by the Jews of Lower and Upper Alsace.
+
+The third and fourth texts document Jewish requests for refuge during wartime. The first text is from Josel to Strasbourg's magistrates in 1534, the second, from Lazarus of Surbourg, a Jewish communal leader, to the magistrates of Hagenau, a free imperial city in Lower Alsace, in 1575.
+
+## Source 1 Translation
+
+<p style="text-align: center">Decree banning Jewish commerce in Strassburg MS. III/174/20/82</p><p style="text-align: center">Bernhart Wurbmser the Knight, the Mayor and Council of Strassburg, 1530</p>
+
+We, Bernhart Wurbmser the Knight, the Mayor and Council of Strassburg, declare: Since we, through much experience and inquiries have learned how many of our burghers, subjects, and those who belong to us, in the city and in the rural areas, have become troubled through borrowing from the Jews, and the ensuing usury, also the prescriptions in which the weakening, usurious practices follow. And such, that a few desert their wives, children and their good ways, and come to poverty...Hereupon, we ask each and every of our burgers, subjects and those who belong to us in the city and in rural areas, that from here on, they borrow or receive nothing, whether a little or a lot, from any Jew. And that, since from this day, they are arrested, they free themselves from further \[contacts\] and completely remove themselves, and no longer in any form, should be burdened \[obligated to\] the Jews. Then, whoever will borrow or receive any money or monies from the Jews, or whoever through him the Jews proceed quickly in discussing a prescription or a declaration \[whoever is party to a contract with the Jews\], or \[whoever\] becomes obligated, he or she, will be punished with a heavy fine.
+
+Hereupon, we order all of our dukes, counts, bailiffs and courts, that they earnestly understand and they should take notice of our statute, and any further transaction that they will now find, they should, at first sign, undertake for us. Rather than wait for our answer, \[know\] that we, concerning each damage have \[our wishes\] proclaimed here.
+
+Decreed Wednesday, 16 March 1530.
+
+## Source 2 Introduction
+
+## Source 2 Translation
+
+<p style="text-align: center">Letter from Josel of Rosheim to the magistrates of Strasbourg</p><p style="text-align: center">MS. III/174/38/9</p><p style="text-align: center">Josel of Rosheim, 1534</p>
+
+Noble, strong, honorable, respectable, cautious, wise and honored sirs, Your Honors: I bring here for myself and those related to me, subserviently, requesting: Until now, Your Honors, out of mercy to us poor Jews in all many worrisome \[instances\] and dangerous perils of war, protected us from \[troop\] movement, near to you here in the commendable city of Strasbourg, or \[during\] other violent things, \[we\] were not offended \[hurt?\] -- so we say at all times, and still today, Your Honors, high praise and thanks. Honorable Sirs, in the meantime, now and at the moment, there is a great damaging march, and a swift course in the German nation. Therefore, we, the poor, at all times, in all ways, us -- more than others -- must prepare and provide. So it is to Your Honors, our subservient request and application, that once again you will wish to stop us (which should be for God) from the perils, with leniency and honorable thought, and permit us to stay, with our wives and children, goods and possessions, all in the aforementioned commendable city of Strasbourg, until the point when the movements and war courses will stay in quiet and peace. It is not through our willfulness, or that in other ways \[we\] want to be injurious or powerful, \[but\] we want this so much in our poor abilities, all subserviently towards the commendable city Strasbourg and those who belong to it, subserviently earned and responsible,
+
+Your Honors,  
+Subserviently  
+Josel the Jew of Rosheim the leader of the Jewish community
+
+## Source 3 Introduction
+
+## Source 3 Translation
+
+<p style="text-align: center">Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</p><p style="text-align: center">Draft of a commerce contract-MS. III/174/21</p><p style="text-align: center">Josel of Rosheim, ca 1534</p>
+
+I, Josel the Jew of Rosheim and the Jewish community of the province of Hagenau in Lower Alsace profess together and as individuals, for ourselves, our heirs, and descendants, in the aforementioned Province and \[we\] declare in this letter:
+
+As has often happened, several Jews of this province have taken one of the commendable city of Strasbourg's burghers and subjects \[literally: those who belong to the city\] to foreign courts, and they, for years, requested a proper court.\[1\] Now, therefore, the strong, cautious, respectable and wise men, the mayor and council of the aforementioned city Strasbourg, for that reason, sent out a public mandate to their burghers, that they should be released from us, the aforementioned Jews, and with more words in the content of that mandate, their burghers are to be forbidden \[from borrowing money, or any commercial activity with Jews\], \[and in the\] land we stay.\[2\]
+
+But once again, this same has occurred, with Schmuel the Jew of Eschbach and with Blumel the Jew\[ess\] of Pfaffenhoffen,\[3\] who took a burgher from the aforementioned city of Strasbourg to court in Rotweil,\[4\] to collect with rare \[high\] costs, and therefore now, the aforementioned, our honorable men from Strasbourg are taken and grasped with a displeasure and anger towards us, the Jewish community.
+
+To such an extent, so long as we, without exception, do not stop and prescribe to no longer appear \[in court\] with them other than before their Honors or where they instruct \[us to go\], they want to stop us poor \[from having\] safe conduct into the city of Strasbourg, as we had long before. For this reason and for other more movable \[?\] reasons, that the Jewish community is at all times well inclined, and of the will, to do even less than nothing against the commendable city of Strasbourg,\[5\] we gathered in Rosheim and decided that we, without exception of any of us, according to this letter, will no longer take any burgher, or burgher's burgher of the city of Strasbourg to a foreign court, and only before our honorable men, the law and council of the aforementioned city of Strasbourg, or wherever they direct us, are we permitted to \[appear?\]\[6\]
+
+Likewise, we already, without exception, have a prescription concerning their burghers or burghers' burghers, or in the future, will gain one. So that, one can help oneself against \[the case that\] such a contract should be null and void, or missing something, especially \[concerning\] its justice and the most important thing -- \[that it is\] attested to or not attested to before the high aforementioned men from Strasbourg. And \[we agree\] not to further appeal or transact, other than what the commendable city Strasbourg's law and need is.\[7\] Concerning that same burgher, who was summoned \[to court\] by the aforementioned Jews or Jewesses, together or as individuals, and should that same \[burgher\] think to also bring a countersuit, that same Jew or Jewess, will behave lawfully, and will also give his answer \[legal response to the suit\] before the aforementioned, our honorable sirs, the city of Strasbourg...
+
+What is more, as we Jews have resolved, that in the past years, goods that were stolen were carried by Jews and were sold.\[8\] And meanwhile, now, we find that the commendable city Strasbourg at all times, in the dangerous peril of war, has proven \[to be of\] equal honor and good, and presented us accommodation with protection and safety, so the Jewish community has decided also, that where something was stolen, whatever it is, dear God, from their burghers, inside of the community of the city of Strasbourg, and it came to \[one\] of us in the Jewish community, during the day or night, he \[the Jew\] will by his testimony faithfully \[attest that he was not involved\] and will return the "damaged" \[item\] to the city of Strasbourg, in vain, without any fees.\[9\]
+
+Hereby we proceed, for us, all of our heirs and descendants, not to do anything against this article, \[we\] believe and swear also to hold firm to the city, and if it should pass that one of us does something against \[this agreement\], then the high aforementioned sirs should give him a 10 pound (pfund) fine, and he shall not enter into the city, other than with the costs and damages to the men \[magistrates\]...each will carry his own burden and punishment, as is God's law, he carries \[it\] himself. Hereby, we, together and as individuals, have all been willing and proceeded, believed, and sworn to hold firmly to the city.
+
+Strong, noble, honorable, cautious, respectable and wise honorable sirs, Your Honors: I report subserviently, and Your Honors sent to me copies of a contract. Although now Your Honors without a doubt, are in such high, honorable understanding, that Your Honors do not desire nor are \[you\] inclined, against propriety, to deal with a Jew as with a Christian, but through several of our misunderstandings, Your Honors did not have a thorough understanding, therefore you commanded now to me, \[with\] leniency, as commander \[of the Jewish community\], to settle these differences, so that men in future years will not want to come to any misunderstandings, and happily, we as poor, as in the old days, want protection from Your Honors and entrance with safe conduct and protection. I have, hereby, as a humble and simple \[person\], included the reported content and that same approval, also a further article that Your Honors had wanted. We ask, herein: Your Honors wanted honorable men to consider this, and then for me to present \[this\] one more time. I will gather again in fourteen days, and humbly complete these things, as much as is possible for us, and I will obtain approval from the Jewish community, and I will not hold \[it\] back from Your Honors. May the spirit of God the Almighty be with Your Honors and with us all.
+
+Your Honors  
+Subserviently  
+Josel of Rosheim, Commander of the Jewish community .
+
+**Endnotes**
+
+\[1\]Meaning, a local court headed by Strasbourg’s magistrates.  
+\[2\]The reference here is to a law from 1530, prohibiting any transactions between Jews and any residents or burghers of Strasbourg. Staying in the land alludes to the restriction barring Jews from entering Strasbourg or any territory under its jurisdiction. See AMS III/174/20/82, and III/174/21/98-101.  
+\[3\]In other correspondence she is identified as Blomel, Abraham of Hochfeld’s daughter. See III/174/21/98-101.  
+\[4\] The burgers on question are Mör Claus of Marlenheim, who figures prominently in several cases, and Peter Haman.  
+\[5\] In another similar document, Josel claims that just as the city had protected the Jews during the Peasants Rebellion of 1525, he could expect them to shelter the Jewish community in the event of another war.  
+\[6\] In the document addressed to the Jewish community, there is also a ban against eating, drinking, or hosting any person who breaks this contract. This excommunicative ban was used against Jacob of Niderschopfen, and for a short while against Hitzig of Dankolsheim. See III/174/21, folio 86 and AMS III/174/38/64-68.  
+\[7\] Ultimately the Jews agree to appeal to Strasbourg’s version of the imperial court – the XIII, a part of the general council. See III/174/21/98-101.  
+\[8\] Specifically, stolen goods were brought to Jews and used as pawns for a loan.  
+\[9\] Similar promises are recorded in III/174/21/ 98-101 and in Archives Départementales du Bas Rhin, C78.
+
+## Source 4 Introduction
+
+## Source 4 Translation
+
+<p style="text-align: center">Letter from Lazarus of Surbourg to the magistrates of Hagenau</p><p style="text-align: center">MS. GG 65</p><p style="text-align: center">Lazarus of Surbourg, 1575</p>
+
+I, Lazarus the Jew, resident of Surbourg, and with me, the Jewish community of the province of Hagenau, of which I am the advocate, commander and _Parnass_, profess and make known with the present letter, for us, our heirs, our descendants, \[including\] that which we are now, or in the future, that which we and other Jews will want. After the honorable princes, the learned, honorable, respectable, careful and wise sirs, the mayor and council of the Holy Roman Imperial City Hagenau, our favorable and good sirs, we, the Jewish community living in the province of Hagenau (for which reasons, I, Lazarus as the _Parnass_ and salary holder, appeared and came before the honorable council, on the undersigned date.)
+
+On account of our various flights, (as \[is the case\] everywhere in the country, as the riding folk is present and their march has been taken towards France,) we undeservedly call and ask that our love\[d ones\], possessions and goods, by themselves, our possessions and goods, due to our flight, will receive shelter with you and are to be permitted accommodation, all honorably, \[with\] the honorable council of the city of Hagenau and its burghers and residents, out of honor and mercy, one month for a payment of 80 gulden Strasbourg.
+
+Hereby we spoke and we promise the honorable aforementioned men, the honored council of the city of Hagenau that exists now or \[that will exist\] in the future, for time eternal, \[on behalf of\] ourselves, our heirs, and descendants, that the imperial privileges, reprieves, old ordinances, statues and old customs, also traditions, or any of the other of the council's jurisdiction and authority, are not harmed \[by this agreement\] nor a part \[of it\]. Still, our individual justice should be given, specifically what the honorable aforementioned men, the honored council, see done for us, the Jewish community. \[It is\] out of honor and mercy, and not \[for reasons of\] law, \[that they\] give us access \[to the city\]. Also, we, or anyone from among us, who in the future does not understand \[this\], or who wants or should make it so that someone from the entire city of Hagenau must give \[us\] shelter, or \[who\] holds them \[the council\] responsible...we, hereby excuse and forgo...\[these rights\]
+
+Because we do not need an insignia for our community, we have asked and pleaded with special purpose, through our named _Parnass_ \- I, Lazarus the Jew -- that the honorable Simon Bissingen, the imperial notary, procurator and burgher of Hagenau, affix his individual insignia here on this letter for us, our heirs and descendants. And I, Lazarus the Jew, in my own name and \[in the name of\] the Jewish community, sign here, where I have given recognition that the forenamed Bissingen and specifically the Jews want to ask (in all times, I and my heirs are without responsibility)
+
+Monday, the 7th of September, 1575  
+Signed: _Ich Eliezer b"r Yuda z"l_ in Hebrew letters
+
+## Source 1 Original Text
+
+<p style="text-align: center">Decree banning Jewish commerce in Strasbourg (1530)</p><p style="text-align: center">MS. III/174/20/82</p>
+
+Wir Bernhard Wormbser Ritter der Meister und d\[er\] Rath zü Straßburg Thün kundt nach de\[m\] wir durch vil erfaru\[n\]g und erkündigung erlernt haben wie mancher unser Burger hindersaß und angeheriger inn Statt un\[d\] Land sich mit anlyhung bey den Juden und daruff gefolgten wücher auch der verschreibungen darin sye durch amgeschlagne w:ucherische practickgen gefü hoch beschwerdt werden unnd dermassen das etliche von weib kindern innd iren gütern wichen die verlassen unnd zü armut kommen. Wie sy auch dirch solchen verbottenen gesüch landtrinning worden seind ab wellichem wir nit klein beschwerd un\[d\] mittbauren smit den unsern empfangen darbey auch uns entschlossen dem selbigen vorzusein und so ferr müglich abzustellen Gepieten hieruff allen und yeden unsern Burgern hindersassen angehörigen unnd verwandten inn Statt unnd Land was standts oder wesens die syhen das sy hinfürter vom keim Juden weder wenig noch vil gar nichts entlehenen oder uffnehmen und ob sy schon uff disen tag hinder inen verhafft das sy sich zum fürderlichsten von inen ledigen und iren gentzlichen entziehen und nichts mehr sollicher gestalt sich der Juden beladen sollen, da\[n\]n welcher oder welche harüber einich gelt oder gelts werdt von dern Juden also uff nemen oder entlehenen oder sich durch ir DER Juden geschwind beredungen in einiche verschreibung oder bekanntniß begeben oder obligieren wurden den oder die wöllen verschreibung oder iwe hefftig der gepür nach straffen.
+
+Bevlehen eüch heruff allen unsern Vögten Amptleüten Schultheissen und Gerichten das sye über solicher unserer satzu\[n\]g ir ernstlichs einsehen und uffmercken s haben solle\[n\] und so winer herwider gehandelt zühaben befunden wirt das sy sich als bald irer hab und gutter underziehen und dasselbig uns zum ersten verkünden sollen ferrer demnach unsers bescheids zü erwarten das wir eim yeden sich vir schaden züver bieten hiemit verkündt haben wollen.
+
+Actum et decretu\[m\] Mitwoch den xvi. Marcii anno. C. 15 XXX
+
+## Source 2 Original Text
+
+<p style="text-align: center">Letter from Josel of Rosheim to the magistrates of Strasbourg</p><p style="text-align: center">MS. III/174/38/9</p><p style="text-align: center">Josel of Rosheim, 1534</p>
+
+Edlen, Strengen, Erenfesten Ersamen fursichtigen weysen gnadigem herren, E. Gnad bring ich hie noch genant fur mich und min mytverwantten undertheniglich Bittlicher weys fur dem noch E.G. bys allher allen sorgfeltigen Kriegsnötten gnedlich by Euch all hie inn der loblichen Statt Strasburg ingnome und beschirmt damit wir von überzug, oder andern gewaltsamen sachen nit beleydigt worden synd dess wir um allzit und noch heytt by tag E.G. hohen lob und dank sagen; Gnaedigen Herrn dieweyl nu aber jetzunt grosse treffenliche zug und geschwinde leuf tutscher nation sich zutragen deshalb wir arme allzeit inn alle we guns mer (dan andere) besorgen und versehen myessen, so ist an E. G. Unser underthenige Bitt und Ansuchung ir Wollen abermols so es von Nötten syen wurd (do fur Gott syn soll) us milter und gnädiger meynung zulossen das wir myt unsern wybern kindern, Güttern und hab, allhie in vorgemelter lobliger Stat Strasburg blyben lossen bis sich dann sie selbigen zufallen den zugund Kriegsleuff zu Ruh und fried gestellt wurden, so myt wir nyt durch wuttwyll, oder inn anderweyss geschädigt oder gewältigt werden möchten, des wellen wir so vyl iu unserm armen vermögen zimlicher Weys alle zit undertheiniglichen umb ein lobliche Stat Strasburg und iren zugehorden undertheininglich verdiennen und beschulden,
+
+E.G. Undertheniger Jössel jud von Rosheim der gemeynen judischen Regierer **Archive:** Archives Municipales de Strasbourg MS. III/174/38/9
+
+## Source 3 Original Text
+
+<p style="text-align: center">Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</p><p style="text-align: center">Draft of a commerce contract-MS. III/174/21</p><p style="text-align: center">Archives Municipales de Strasbourg, III/174/21, folios 96-97</p>
+
+Ich Josell Judt zu Roßheim und die gemein Judißheit den Landvogtey Hagenow in under Elsas bekennen sammentlich und unverscheidenlich fur unns unnser Erben und nachkhomen in gemelter Landvogtey unnd thunt kunth meniglichen mit disem brief. Als sich um zum offtermalen zugetragen, das ettlichen Juden diser Landvogtey einer loblichen statt Strasburg burger unnd zegehörden mit ußlendischen Rechten furgenomen, unnd sie nit vor vor J\[a\]ren Ordenlichen Rechten ersücht, därumb nün die Bestrengen vestern, fursichtigen, Ersamen und weisen her\[re\]n, Meister unnd Rath gemelter statt Strasburg, derhalben ein offene Mandat an ire burger Lassen aüsgon, das sie sich sollen von unns gemelt\[er\] Juden entledigen, mit mer worten Inhalt derselben Mandat, iren burger\[e\]n gebott uffgelegt worden, Landt wir bliben.
+
+Aber gezundt daz dis briefs hatt sich abermals deren glichen von Schmül Juden Aspach unnd Blümel Juden Pfaffenhoff so gemelter statt Strasburg burger mit Rottwyllischem Rechten furgenommen, ungebrüchlichen costen uffgetriben darümb nün gemelter unnser G\[nadige\]n her\[ren\] von Strasburg ein unwillen unnd zorn geg\[en\] unns gemeinen Judisheit gefaßht unnd furgenommen. In sollcher maß so lang wir unns sampt und sonder von sollichem nit absteen, und unns verschryben, die iren wythers nit furzunomen dan vor iren g\[nadigen\] od\[er\] wohin sie das weisent. So wollen sie unns armen des gleit in der statt Strasburg wie von alter har nÿme zulassen, uff solchem ursach\[en\] und ander beweglich ursach\[en\] mer, das ein gemeine Judischheit allezeit geneigt unnd des willen sein wider ein loblich statt Strasburg od\[er\] noch vyl weniger gar nitz thin. Hierumb haben wir unns zu Rosheim versamlet und estflossen, das wir sampt oder sonder Ihenier von unns nach dan dis brieffs, kheinen der statt Strasburg burger oder burgers burger mit ußlandischen Rechten mer furzunemen, sonder vor unser\[e\]n g\[nadigen\] her\[re\]n Rechten und Rath gemelter statt Strasburg, oder wohin sie es weisent, benügen laßß\[en\].
+
+Desgleich ob schon wir sampt oder sonder verschribung uff ire burger od\[er\] burgers burger hatten od\[er\] kunftiglich gewynnen wurden, damit sich einer behelff wolt wider sollich vertrag soll vurtaßßeig unnd ab sein, sonder seine gerechtigkeit unnd haupt sach verbriefft od\[er\] unverbrieff vor hochgemelt\[er\] herren von Strassburg furnemen mag und bevorfugen und nit withers zu appelieren noch handten, den was einer loblich stat Strassburg ordnunng unnd gebrauch ist.
+
+Darzu mit derselbig burger, die von gemelte Juden od\[er\] Judin sampt oder sonder beclagt wurdt, und derselbig auch ein gegenclag zu haben vermeint solle Ime, derselbig Jud oder Judin des Rechten zu sein unnd antwort geben auch vor gemelt\[er\] unser\[e\]n g\[nadigen\] herren, der statt Strasburg, so aber ein burger der stat Strasburg, aussprach oder vorderung an unns sampt od\[er\] sonder vermeint zu haben, one sollich ursach wie gehort, mag unns derselbig sampt od\[er\] sonder auch vor unnserem ordenlich Richter nach vermög des Reichs abscheint erssüchen. Darzu vor, als wir Judischheit vernomen haben, wie by Zettl den iren in der statt Strassburg durch dieben ettlich Jar gutter verunterwort unnd gestollen worden, und ettlichen Juden zugetragen unnd zu kauffen geben haben zu, dieweyl nün wir befunden das ein loblich statt Strasburg allezeit in kriegs nött\[en\] und deren glich Erbarkeit unnd guts bewisen, mit schutz und schirm by inen uns beherbzoget, hierumb hat ein gemeine Judishait sollich mehr voll auch entschlossen, wo iren burgern innerthalb der gmein der statt Strasburg etwas der Gott fur sey gestollen wurdt, was das was, und \[g\]emein Jud\[ishait\] von uns zu komme\[n\] by tag od\[er\] nacht, solle er das by seinen Eyde getruwlich uffhalte unnd vergebenklich one alle entgeltens denselbige beschedigte in der Statt Strasburg wider zu stellen
+
+Hieruff begeben wir uns fur unns, alle unnser Erben unnd nach khomen wider sollichs art\[ik\]l nit zuthon, globen und schwören auch sollichs statt und vest zuhalten, und wer es sach, das einer von uns wider sollichs thett, des soll hochgemelte hern 10 ₤ zu einer straff geben, unnd in ir statt nit zu khomen dan mit bekherung costen und schaden der herren, willen doch solle ein gemeine Judishait vor den selbige der do fellig nomedt, derohalben khein Jerung od\[er\] nachtheil haben, wie by alher geschehen ist, sonder yeder sein bürde unnd straff lade ,als das Göttlich Rechtn und sonder bewilliger und begeben, globen unnd schwören sollichs statt unnd vest zu halt\[en\]
+
+Bestrenge Edlen Erenveste Fursichtig\[en\] Ersamen und Weisen gnedig\[en\] her\[re\]n, E\[wer\] G\[nadigen\]: Zeig ich undertheniglich an, als nur E\[wer\] G\[nadigen\] abschrifften eins vertrags zugeschickt. Wiewol nun E\[wer\] g\[nadigen\] on Zwiffel, in solchen gnadige hohenverstand seindt, das E\[wer\] G\[\[nedige\] nit begeren od\[er\] geneigt sein wider billigkeit zu handlen ein Juden als ein Christ\[en\] aber durch ettliche von den unnser\[e\]n unverstandige solche E\[wer\] G\[nadliche\] begeren nit gründlich verstant haben, darumb sie nun wir als bewolch haben bewolchen, ein milten unnd verstendigen abscheidt uffzurichten lassen, damit man in kunfftigten Jaren in derheim misssverstand möcht khomen, und fridlich wir alse arme by E\[wer\] G\[nedige\] wie von alterher den eingang mit gleit und schurm beschirm möcht werden, hab ich als gehorsamer und einfettiger hieby angezeigte begriff derselbige bewilligung begriffen, auch ein wither\[e\]n artickell E\[wer\] g\[nadige\] zugefallen begeben wöllen. Bitten hierumb E\[were\] g\[nadige\] wöllens gnediglich hierinn bedencke unnd als dan dasselbig nur noch ein mal zu stellen, will Ich in dissent 14 tage noch einmal versamlen, und disse sachen gehorsamklich vollenden so wyl wir müglich ist, unnd ich by der Judischheit erlange mag, will Ich gege\[n\] E\[wer\] g\[nedige\] nit verhalt\[en\]. Hiemit sey der find von Gott dem almechtige by E\[wer\] G\[nadige\] unnd unns allen.
+
+E\[wer\] G\[nedige\]  
+Underthenig  
+Josel Jud von Rosheim, gemeiner Judischeit bevelch haber
+
+## Source 4 Original Text
+
+<p style="text-align: center">Letter from Lazarus of Surbourg to the magistrates of Hagenau</p><p style="text-align: center">MS. GG 65</p><p style="text-align: center">Lazarus of Surbourg, 1575</p><p style="text-align: center">1575</p>
+
+Ich Lazarus Jud, wohnhaft zu Surbourg, und mit mir gemeine Judigkeit der Landvogtei Hagenau, deren Anwalt, befelshaber und Parnos ich bin, bekennen und thun kund mit gegenwärtigem briefe, für uns, unsere erben, nachommen und brothsgenossen, denen wir jetzundt seind, oder in kunftigen von uns und anderen juden werden möchten, nachdem die ehrenfürsten, hochgelernten ehrenhaften, ehrbaren, fürsichtigen, und weisen Herren, Meister und Rath des heiligen Reich Chammer und Statt Hagenau, unsere gnädige günstige Herren uns geimene Judigkeit in der Landvogtei Hagenau wohnend (von welcher wegen ich bestimmter Lazarus als dasselben Parnos und gehalthaber von einem ersamen Rath, auf untengeschrieben Datum, ershinnen und kommen) auf unser vilfeltigs flöhllichs und unverdiennslichs anruefen und bitten als allenthalben in dem Land das Reuter Volk gelegen und ihren Zug nach Frankreich genommen, wir unserer leib haab und gutter bei denselben unseren Haab und Güter, in bemerkter unsere flucht, zu ihnen ganz gnedlich in eines ersamen Raths, Statt Hagenau, bei deren Burgern und Invohnern us Barmherzigkeit und gnaden, ein monat gegen Bezahlung achzig Gulden Strassburger underschleif gegeben, und underkommen lassen, dass hiermit wir für uns, unsere Erben und nachkommen gereden und versprechen, das es ehrengemeldten Herrn, ein ersamen Ratt der Statt Hagenau so jetzt seindt oder in künftigen, nach ewigen zeiten an denn Keiserlichen Freiheiten, Begnadigung, alten Ordnungen, Statuten und alten gebreuchen auch herkommen, oder anders eines ersamen Raths jurisdiction und obrigkeit, hiemit nit schedlich oder nachtheilig sein, noch uns und den unsern einige Gerechtigkeit geberen soll, sondern was von ehrengemelden Herrn einem ersamen Rhat, uns gemeiner Judigkeit wiederfahren, dass es aus lauter Gnad, Barmherzigkeit, und keener gerechtigkeit zugangen. Das auch wir oder jemand von uns jetzt oder in künftigen, hindurch nit verstehen oder theuten wollen oder sollten, als man gemeine Statt Hagenau uns müsthe underschlief geben, oder das sie das zuthun schuldig, welcher aller und jeder gesuch behil fund exception wie die auch in specie gennant möcht werden, wir uns hiemit in bester form der rechtn, fur uns, under erben und nachkommen, wissentlicher kraft dieser schrift verziehen und begeben, dessen zu waren Urkundt und gezeugniss.
+
+Weil wir uns gemeiner Insigels nüt gebracuhen, haben wir surch ermelten unsern Parnos, mich Lazarus Jud, mit sonderm Fliess gebeten und erbeten den erbaren Simeon Bissingen Kesierlich Notarien procuratoren und Burgern zu Hagenau, das er für uns und undere Erben und Nachkommen sein eigenes Insiegel hinfür an diesen Brief hat thun henken, Und ich Lazarus Jud in namen mein selbs und gemeine Judigkeit mich hiefür unterschrieben, welcher ich bennanter Bissingen und sondern der Juden bitt willen (soch in allweg mir und meine Erben ohne Shaden) bekenne getan haben.
+
+Actum und besehen Montag den 7sten Septembris in Jahre 1575 _Underneath: Ich Eliezer b"r Yuda z"l_ in Hebrew letters **Archive:** Archives de Hagenau, MS. GG 65.
