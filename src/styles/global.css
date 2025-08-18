@@ -15,3 +15,14 @@
 em, i {
     font-style: italic !important;
 }
+html {
+    scroll-behavior: smooth;
+}
+.scroll-to-top-btn-tooltip {
+    color: black !important;
+}
+#scroll-to-top-button {
+    background-color: white !important;
+    color: black !important;
+}
+

@@ -4,6 +4,10 @@
     ".astro/types.d.ts",
     "**/*"
   ],
+  "safelist": [
+    "bg-[url('/images/years/2004.png')]",
+    "bg-[url('/images/years/2005.png')]",
+ ],
   "exclude": [
     "dist"
   ],

@@ -1,0 +1,18 @@
+---
+// TableOfContents.astro
+const { headings = [] } = Astro.props;
+const filtered = headings.filter(h => h.depth === 2 || h.depth === 3);
+---
+
+{filtered.length > 0 && (
+<aside class="sticky top-24 max-h-[80vh] overflow-auto text-sm text-gray-700 hidden lg:block border-l border-gray-200 pl-4">
+    <h2 class="font-semibold mb-3">On this page</h2>
+    <ul class="space-y-2">
+        {filtered.map(h => (
+                <li>
+                    <a href={`#${h.slug}`} class="hover:underline">{h.text}</a>
+                </li>
+        ))}
+    </ul>
+</aside>
+    )}

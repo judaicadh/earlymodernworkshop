@@ -17,6 +17,7 @@
     "@astrojs/react": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.4.2",
+    "@astrojs/starlight": "^0.35.2",
     "@astrojs/tailwind": "^6.0.2",
     "@benrbray/remark-cite": "^2.0.1-alpha.4",
     "@giscus/react": "^3.1.0",
@@ -33,6 +34,7 @@
     "astro-collection-search": "^0.0.13",
     "astro-disqus": "^1.0.1",
     "astro-embed": "^0.9.0",
+    "astro-expressive-code": "^0.41.3",
     "astro-pagefind": "^1.7.0",
     "astro-reading-time": "^0.1.13",
     "astro-seo": "^0.8.4",
@@ -57,6 +59,7 @@
     "remark-gfm": "^4.0.1",
     "remark-lint": "^10.0.0",
     "remark-toc": "^9.0.0",
+    "starlight-scroll-to-top": "^0.3.1",
     "tailwind-forms": "^1.0.6",
     "tailwindcss": "^3.4.17",
     "unist-util-visit": "^5.0.0"

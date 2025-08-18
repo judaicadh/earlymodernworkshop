@@ -1,5 +1,6 @@
 ---
 import Footer from "../components/Footer.astro";
+import Head from "../components/Head.astro";
 import Nav from "../components/Nav.astro";
 import "astro-breadcrumbs/breadcrumbs.css";
 import "../styles/global.css";
@@ -8,20 +9,8 @@ import "../styles/global.css";
 
 <!doctype html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name="generator" content={Astro.generator} />
-	<meta name="description" content="Early Modern Workshop: Resources in Jewish History" />
-	<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
-	<link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
-	<link rel="stylesheet" href="/styles/global.css" />
-	<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-	<script src="/pagefind/pagefind-ui.js" defer></script>
-	<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js" defer></script>
-</head>
+<Head/>
+
 <body class="font-serif">
 <!-- Navigation Bar -->
 <Nav />

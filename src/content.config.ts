@@ -1,6 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob, file } from 'astro/loaders';
-
+import { docsLoader } from '@astrojs/starlight/loaders';
+import { docsSchema } from '@astrojs/starlight/schema';
 // Collection for years (using JSON file)
 const years = defineCollection({
     loader: file("src/content/years.json"), // Load data from JSON
@@ -37,4 +38,11 @@ const documents = defineCollection({
 export const collections = {
     years, // Collection for year metadata
     documents, // Collection for individual documents
+    docs: defineCollection({
+        loader: glob({
+            base: 'src/content/documents',        // <— your folder
+            pattern: '**/*.{md,mdx,markdoc}',     // whatever you use
+        }),
+        schema: docsSchema(),                    // Starlight’s frontmatter schema
+    }),
 };

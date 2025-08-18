@@ -1,103 +1,78 @@
 ---
 import { getCollection, render } from 'astro:content';
-const {frontmatter} = Astro.props;
 
-import {
-    FacebookShareButton,
 
-    LinkedInShareButton,
-
-    RedditShareButton,
-    TwitterShareButton,
-    WhatsAppShareButton,
-    SocialShare
-} from "astro-social-share";
-const BUTTONS = [TwitterShareButton, LinkedInShareButton, WhatsAppShareButton, FacebookShareButton]
+import { Schema } from 'astro-seo-schema';
+import Comments from '../../../components/Comments.astro';
+import { Disqus } from 'astro-disqus';
+import { marked } from 'marked';
 import Layout from "../../../layouts/Layout.astro";
-import { Schema } from "astro-seo-schema";
-import Comments from "../../../components/Comments.astro";
-import { Disqus } from "astro-disqus";
-import {marked} from "marked";
-// Generate static paths for documents
+import SmartToc from "../../../components/SmartToc.astro";
+
+
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
-
-    if (!documents || documents.length === 0) {
-        console.warn("No documents found for generating static paths.");
-        return { paths: [] }; // Return an empty array if no documents exist
-    }
-
-    // Generate paths for all documents with year and slug
+    if (!documents?.length) return { paths: [] };
     return documents.map(doc => ({
-        params: {
-            year: doc.data.year.toString(),
-            slug: doc.data.slug,
-        },
+        params: { year: String(doc.data.year), slug: doc.data.slug },
     }));
 }
 
-// Extract year and slug from the route parameters
 const { year, slug } = Astro.params;
 
-// Fetch the document by year and slug
 const document = (await getCollection('documents')).find(
-    doc => doc.data.slug === slug && doc.data.year.toString() === year
+    doc => doc.data.slug === slug && String(doc.data.year) === String(year)
 );
 
 if (!document) {
-    console.error(`No document found for slug: ${slug} in year: ${year}`);
-    return Astro.redirect('/404'); // Redirect to a 404 page if not found
+    return Astro.redirect('/404');
 }
 
-// Destructure the document data
-const { title, description, author, tags, primarysourceinfo } = document.data;const docFileName = document.id.split('/').pop().replace('.md', '.docx');
+const { title, description, author, tags, primarysourceinfo } = document.data;
+const docFileName = document.id.split('/').pop().replace('.md', '.docx');
 
-// Render the Markdown content
-const { Content } = await render(document);
+// ✅ Get rendered MD *and* the extracted headings for ToC
+const { Content, headings } = await render(document);
 ---
 
 <Layout>
-    <head>
-        <!-- Astro SEO Schema -->
+    <Fragment slot="head">
         <Schema
                 item={{
-                    "@context": "https://schema.org",
-                    "@type": "CreativeWork",
+                    '@context': 'https://schema.org',
+                    '@type': 'CreativeWork',
                     headline: title,
-                    description: description,
-                    author: {
-                        "@type": "Person",
-                        name: author,
-                    },
+                    description,
+                    author: author ? { '@type': 'Person', name: author } : undefined,
                     datePublished: year,
-                    mainEntityOfPage: {
-                        "@type": "WebPage",
-                        "@id": `/resources/${year}/${slug}`,
-                    },
-                    keywords: tags?.join(", "),
+                    mainEntityOfPage: { '@type': 'WebPage', '@id': `/resources/${year}/${slug}` },
+                    keywords: tags?.join(', '),
                 }}
         />
 
-        <!-- COinS Metadata -->
+        <!-- COinS -->
         <span class="Z3988"
               title={`ctx_ver=Z39.88-2004&
-                rft_val_fmt=info:ofi/fmt:kev:mtx:journal&
-                rft.genre=article&
-                rft.title=${encodeURIComponent(title)}&
-                rft.description=${encodeURIComponent(description || "")}&
-                rft.date=${encodeURIComponent(year || "")}&
-                rft.aulast=${encodeURIComponent(author || "")}&
-                rft_id=${encodeURIComponent(`/resources/${year}/${slug}`)}&
-                 `}>
-    </span>
-    </head>
+        rft_val_fmt=info:ofi/fmt:kev:mtx:journal&
+        rft.genre=article&
+        rft.title=${encodeURIComponent(title)}&
+        rft.description=${encodeURIComponent(description || '')}&
+        rft.date=${encodeURIComponent(String(year) || '')}&
+        rft.aulast=${encodeURIComponent(author || '')}&
+        rft_id=${encodeURIComponent(`/resources/${year}/${slug}`)}&
+      `} />
+    </Fragment>
 
-    <!-- Blog Post Content -->
-    <section class="py-24 bg-gray-50">
-        <div class="container   lg:px-8  mx-auto px-4 max-w-prose leading-relaxed text-lg">
-            <!-- Breadcrumbs -->
+    <!-- Optional inline ToC (keeps the right-hand ToC too). Remove if you only want the sidebar. -->
+    <!--
+    <aside class="sticky top-24 max-h-[80vh] overflow-auto mb-8">
+      <TableOfContents />
+    </aside>
+    -->
+
+    <section class="py-24 ">
+        <div class="container lg:px-8 mx-auto px-4 max-w-prose leading-relaxed text-lg">
             <nav class="flex flex-wrap items-center justify-between text-sm mb-6" aria-label="Breadcrumb">
-                <!-- Breadcrumb Links -->
                 <div class="flex items-center gap-2 mb-2 sm:mb-0">
                     <a href="/resources" class="text-indigo-600 hover:underline">Resources</a>
                     <span>/</span>
@@ -105,61 +80,96 @@ const { Content } = await render(document);
                     <span>/</span>
                     <span class="text-gray-500"></span>
                 </div>
-
-                 <!-- Social Share Component -->
-                <div class="flex sm:ml-auto">
-
-                    <a href={`/downloads/${year}/${docFileName}.pdf`} download  class="bg-transparent outline-indigo-700 outline-2 outline-solid text-indigo-900 px-6 py-3 rounded-md font-bold underline hover:bg-indigo-700 hover:text-white transition">
-                        <button >Download PDF</button>
-                    </a>
+                <div>
+                    <!-- Mobile TOC -->
 
 
                 </div>
+
+                <!-- Desktop TOC -->
+
+
+                <div class="flex sm:ml-auto">
+                    <a href={`/downloads/${year}/${docFileName}.pdf`} download
+                       class="outline outline-2 outline-offset-12  outline-indigo-700     rounded-md font-bold underline hover:bg-indigo-700 hover:text-white transition">
+                        <button>Download PDF</button>
+                    </a>
+                </div>
             </nav>
-            <!-- Page Title -->
+
             <h1 class="text-4xl font-bold mb-6 text-gray-900" set:html={marked.parseInline(title)} />
 
-
-            <!-- Metadata -->
             {author && (
-                    <p class="text-gray-500 mb-4">
-                        <span class="font-medium">Author:</span> {author}
-                    </p>
+                    <p class="text-gray-500 mb-4"><span class="font-medium">Author:</span> {author}</p>
             )}
-            { primarysourceinfo && (
-                    <p class="text-gray-500 mb-4">
-                        <span class="font-medium">Primary Source information:</span> {primarysourceinfo}
-                    </p>
+            {primarysourceinfo && (
+                    <p class="text-gray-500 mb-4"><span class="font-medium">Primary Source information:</span> {primarysourceinfo}</p>
             )}
             {description && (
-                    <p class="text-gray-500 mb-4">
-                        <span class="font-medium">Description:</span> {description}
-                    </p>
+                    <p class="text-gray-500 mb-4"><span class="font-medium">Description:</span> {description}</p>
             )}
 
-            <!-- Tags -->
-            {tags && tags.length > 0 && (
+            {tags?.length > 0 && (
                     <div class="mb-4">
                         <h3 class="text-lg font-semibold">Tags:</h3>
                         <div class="flex flex-wrap gap-2">
                             {tags.map(tag => (
-                                    <span class="bg-indigo-100 text-indigo-800 text-sm px-3 py-1 rounded-full">
-                                {tag}
-                            </span>
+                                    <span class="bg-indigo-100 text-indigo-800 text-sm px-3 py-1 rounded-full">{tag}</span>
                             ))}
                         </div>
                     </div>
             )}
-
-            <!-- Document Content -->
+            {headings.length > 0 && (
+                    <div class="md:hidden sticky top-0 z-30 bg-white/90 backdrop-blur border-b border-gray-200 mb-6 px-4 py-3">
+                        <div class="relative inline-block">
+                            <button
+                                    type="button"
+                                    class="bg-white border border-gray-300 shadow-sm px-4 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring"
+                                    onclick="document.getElementById('tocDropdownMenu').classList.toggle('hidden')"
+                            >
+                                Table of Contents
+                            </button>
+                            <div
+                                    id="tocDropdownMenu"
+                                    class="absolute z-40 mt-2 w-72 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 hidden max-h-80 overflow-auto"
+                            >
+                                <ul class="py-1 text-sm text-gray-700">
+                                    {headings.map((heading) => (
+                                            <li>
+                                                <a
+                                                        href={`#${heading.slug}`}
+                                                        class="block px-4 py-2 hover:bg-gray-100"
+                                                        onclick="document.getElementById('tocDropdownMenu').classList.add('hidden')"
+                                                >
+                                                    {heading.text}
+                                                </a>
+                                            </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            )}
             <article class="prose">
                 <Content />
-
-                <!-- Render Markdown content -->
             </article>
 
         </div>
+
+        <aside class="hidden xl:block fixed top-32 right-10 w-64 text-sm z-20">
+            <nav class="space-y-2 bg-white/80 backdrop-blur p-4 rounded shadow">
+                <h2 class="text-lg font-light mb-2">On this page</h2>
+                <ul class="space-y-1">
+                    {headings.map((heading) => (
+                            <li>
+                                <a href={`#${heading.slug}`} class="hover:underline text-gray-800">
+                                    {heading.text}
+                                </a>
+                            </li>
+                    ))}
+                </ul>
+            </nav>
+        </aside>
     </section>
 
 </Layout>
-

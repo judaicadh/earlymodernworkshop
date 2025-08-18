@@ -1,11 +1,14 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
+import years from '../../../content/years.json'; // adjust path as needed
+
 import Layout from "../../../layouts/Layout.astro";
 import {marked} from "marked";
 
-const {frontmatter} = Astro.props;
 const { year } = Astro.params;
-const { title } = Astro.params;
+
+
+const yearData = years.find(y => y.year === year);
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
 
@@ -29,16 +32,29 @@ const tags = [...new Set(documents.flatMap((doc) => doc.data.tags || []))];
 ---
 
 <Layout>
-    <section class="py-24 bg-gray-100">
-        <div class="container mx-auto px-6 lg:px-8">
-            <!-- Breadcrumb Navigation -->
+    <section class="relative py-24 overflow-hidden">
+        <div
+                class="absolute inset-0 bg-cover bg-center z-[-2]"
+                style={`background-image: url(/Year%20images/${year}.png);`}
+        ></div>
+
+        <!-- Dark Overlay -->
+        <div class="absolute inset-0 bg-black opacity-50 z-[-1]"></div>
+        {yearData?.credit && (
+                <div class="absolute bottom-4 right-4 bg-white/70 backdrop-blur-sm text-xs text-gray-800 px-3 py-1 rounded shadow z-10 max-w-xs">
+                  Image Credit:  {yearData.credit}
+                </div>
+        )}
+        <!-- Content -->
+        <div class="relative container mx-auto px-6 lg:px-8 text-white">
             <nav class="text-sm mb-6" aria-label="Breadcrumb">
-                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a> /
-                <span class="text-gray-500">{year}</span>
+                <a href="/resources" class="text-white hover:underline">Resources</a> /
+                <span class="text-white">{year}</span>
+
             </nav>
 
             <!-- Title Section -->
-            <h1 class="text-4xl font-bold text-gray-900 text-center mb-10">
+            <h1 class="text-4xl font-bold text-white text-center mb-10">
                 Resources for {year}
             </h1>
 
@@ -84,5 +100,6 @@ const tags = [...new Set(documents.flatMap((doc) => doc.data.tags || []))];
                     </p>
             )}
         </div>
+    </div>
     </section>
 </Layout>
