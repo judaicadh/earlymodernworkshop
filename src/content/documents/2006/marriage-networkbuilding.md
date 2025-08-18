@@ -28,6 +28,98 @@ description: "In eastern France Jewish marriages are well documented in the
   often a translation or a shortened version of the whole text either in French
   or in German. The same applies to Alsace: More than 5000 Jewish marriage
   contracts and last wills have been deposited with royal notaries."
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><h2 style="text-align:
+  center">Ehekontrakt zwischen Abraham Jakob und Sara Kassell<br>Marriage
+  Contract Between Abraham Jacob and Sara Kassell</h2><h2 style="text-align:
+  center">Abraham Jacob, November 25, 1754</h2>
+
+
+  Kundt und zu wissen seye jedermann mäniglich wer es zu wissen vonnöthen,
+  dass heut dato den 25. November 1754 vor dem unterschriebenen Tabellion der
+  hoch gräfflichen graffschaft Crichingen seint in eigenen persohnen erschinen
+  und zugegen gestanden gegenwarth uns unten gemelten glaubwürdigen und
+  unterschriebenen gezeugen der wohlerbar Abraham Jacob Schutz-Juden Vorsteher
+  wohnhafftig zu Steinbiedersdorf ein seits wie auch Sara Kassell eheliche
+  Tochter des Isaac Kassell, zue Lebzeiten wonhafftig in der Statt Franckfort
+  anderseits mit beystandt vieller Judenschaft; welche beyde Abraham Jacob und
+  Sara Kassell sich versprochen zusammen auf obige dato und gleich auf ihren
+  glauben und gesetz dess Moises und Israels wie unter ihnen der Judenschafft
+  gebrauchlich, und seint heut dato hochzeither und hochzeitherin mit dem trau
+  rink vermählet worden in dem gemeldeten Steinbiedersdorf nach denen
+  jüdischen seremonialia, sagent und declarierent hiermit die zu künfftige
+  Contrate zu contractieren in ihren beyden Nahmen die articulen des vergleichs
+  patcionnes matrimoniales aufgericht wie hernach specificieret als folget: so
+  dan 1mo bringet und hat gegeben die Sara Kassell ihm Judenvosteher dem Abraham
+  Jacob zu heyrats gutt und an baarem vorgeschossenem geld die summa neun
+  hundert thaller französiche Währung, thuet siebenund zwanzig hundert livres
+  französische Währung wie nicht weniger 2. ihre kleidungen, quasturen
+  geschmuck bestehet in perellen und diamanten so sie an ihrem leib traget, wie
+  auch 3. ein vorhang und robelitt vor der Tabell Moises, welches allhier zu
+  Steinbidersdorf in der Sinagoge solle appliciret werden wie auch ein kleidt
+  vor die gedachte tabell moyses alle drey stücker mit gold und silber
+  gesticket und brodiert welche gemelte drey stücker in der allhier sinagoge
+  sollen pleiben so lang sie in steinbiedersdorf wonen bleibt(?) wie dann 4. ist
+  alhier contratiert und vorbehalten, wan wofehren er Judenvorsteher Abraham
+  Jacob vor ihr Sara Kassell thätt das ewigen ingeen und mit tott abgehen , so
+  ist Sara berechtiget alle ihr zugebrachtes Geld der summe der neun hundert
+  Thaler französische Währung, ihr zugebrachte kleidungen, quasturen,
+  bestehend in Perlen und Diamanten mit dem trau rink und dem anhang, wie die
+  ander zwei stück in der dasige sinagoge alles wie oben gemeltt abzuholen ,
+  nebst die augmentation so sich beläuft ad zwey hundert thaller frantzösische
+  Währung thuet zusammen ölf hundert thaller thuet drey tausend und drey
+  hundert livres frantzösische währung wie nicht weniger alle schangasung so
+  sie empfangen vom ge abraham jacob biß auf heut dato und die jenige
+  Schangasung in künftig ist sie Sara Kassell verobligieret eine schrifft von
+  ge Jacob zu liefern und zu weißen, was er ir gegeben hatt alles wie oben
+  gemeldt frey und frank abzunehmen ohne einige derogierung wie dann nicht
+  weniger 5. wan und wofehren sie Sara Kassell vor dem Abraham Jacob thätte mit
+  tott abgehen, so seint ihr hinterlassene Erben nicht mehr berechtigt
+  abzunehmen von der vohr gemeldte Summa als siebenhundert thaller französische
+  thuet einunzwanzig livres französischer Währung und ihr zugebracht
+  kleidungen, geschmeit an perlen , diamanten trau rink , die drei stück in der
+  sinagog und schangasung alles wie obengenannt von heut dato ohne einige
+  exception hingegen die zukünftigen schangasung die schriftliche ausweisung,
+  was er ir annoch gegeben hätte so dann letztl. 6. wann und wofehrne die Sara
+  Kassell annoch thäte mit leibsfruchten und erben gesegnet werden, und kinder
+  möchte bekommen, sie auch als rechtmäßig erben an ihr sein sollten wie die
+  erste an alle ihr vermögen de also seint diese hieroben specificierte
+  articulen dieses contract de mariage contratiret versprechung diesem von
+  articul zu articul von wort zu wort wislich demnach zukommen ohne einige
+  derogierung und unwiderrufflich zu halten wie vor her specifizierte bey
+  obligation aller ihr andern mobilia und vermögen, und renuncieret – geschehen
+  zu Steinbiedersdorf gegenwarth Nicolas Lorraine Schmid und Schöffen und Peter
+  Bommersbach ... allhier beyde als zeugen welche sich nach dem dises vorgelesen
+  sämbtlich contracten demnach unterschrieben die et anno ut supra und den
+  ölften tag monath Kißlew in der Klain ueber fünf (tausend)hundertfünzehen
+  nach des jüdischen seremonilia , also seind durch mich unterschriebenen
+  tabellion die ihrige hebräisch schriften unterschrieben , und paraphiert
+  nebst auch der Juden Seithend seint die gezeugen Moises Neumark, Vorsinger zu
+  Steinbiedersdorf und Ahron Heym von Hamburg anietzo in Steinbiedersdorf
+  demnach auch solches unterschrieben die et anno ut supr
+
+
+  <p style="text-align: right">Abraham Jacob</p><p style="text-align:
+  right">הקצין אברהם שטיינבידרשדרף</p>
+
+
+  <p style="text-align: right">שרה בת כהרר מיקאסיל (?) ז"ל</p><p
+  style="text-align: right">Sara Kassel</p>
+
+
+  <p style="text-align: right">Mayergoldschmid as legal advisor</p><p
+  style="text-align: right">Nicolas Lorraine lay assessor as witness</p><p
+  style="text-align: right">Peter Bommersbach witness</p>
+
+
+  <p style="text-align: right">משה בן כ"ה אייזק נייא מרק ז"ל שץ ונאמן משטיין
+  בידרש דארף עד</p><p style="text-align: right">Moyser Neumark</p>
+
+
+  <p style="text-align: right">Ahron Heym from Hamburg</p><p style="text-align:
+  right">ה"ק אהרן לא"א כהר"ר חיים י"צ מהמבורג עד</p><p style="text-align:
+  right">D. Barell Tabellion</p><p style="text-align: right"><strong>Archive:
+  </strong>Archives Départemnetales de la Moselle 3 E 6019, fol. 111-113</p>
 ---
 <h2 style="text-align: center">Introduction to Marriage Contract Between Abraham Jacob and Sara Kassell</h2>
 
