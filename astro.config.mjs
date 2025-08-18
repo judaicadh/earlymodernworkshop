@@ -67,7 +67,7 @@ export default defineConfig({
 
       },
       // Optional: group sidebar by year from the file path
-      plugins: [starlightScrollToTop({showTooltip: true, smoothScroll: true, svgStrokeWidth: 1, svgPath: })],
+      plugins: [starlightScrollToTop({showTooltip: true, smoothScroll: true, svgStrokeWidth: 1, })],
     }),
     // Content / docs integrations
     markdoc(),
