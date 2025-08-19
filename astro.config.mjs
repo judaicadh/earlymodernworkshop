@@ -20,13 +20,7 @@ import rehypeMeta from 'rehype-meta';
 import remarkLint from 'remark-lint';
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
-import starlightScrollToTop from 'starlight-scroll-to-top'
 
-// ⭐ NEW: expressive code — MUST come before mdx()
-import expressiveCode from 'astro-expressive-code';
-
-// Optional: Starlight (uses MDX under the hood)
-import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
@@ -50,25 +44,7 @@ export default defineConfig({
   integrations: [
     react(),
     tailwind(),
-    starlight({ title: 'Early Modern Workshop',
-      customCss: [
-        // Relative path to your custom CSS file
-        '/src/styles/global.css',
-      ],
-      // Set English as the default language for this site.
-      tableOfContents: { minHeadingLevel: 1, maxHeadingLevel: 6 },
-      expressiveCode: {
 
-
-      },
-      components: {
-        // Override the default `SocialIcons` component.
-
-
-      },
-      // Optional: group sidebar by year from the file path
-      plugins: [starlightScrollToTop({showTooltip: true, smoothScroll: true, svgStrokeWidth: 1, })],
-    }),
     // Content / docs integrations
     markdoc(),
     mdx(),

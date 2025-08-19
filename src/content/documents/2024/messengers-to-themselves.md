@@ -4,6 +4,7 @@ author: Ruth Lamdan
 volume: 21
 year: "2024"
 slug: messengers-to-themselves
+primarysourceinfo: "https://cimetieres.judaisme-alsalor.fr/ingwiller/affichage3.php"
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: The Land of Israel
@@ -32,8 +33,6 @@ bibliography:
   - title: "*Emissaries from the Land of Israel*"
   - year: "1977"
 ---
-**Ruth Lamdan**
-
 ### Introduction and 3 letters for "messengers to themselves" (שלוחים לעצמם)
 
 The Jerusalem community was never well-off. It has gone through worse and less bad times, but the majority of its Jewish residents, most of them new immigrants, have always lived very modestly. In the last quarter of the 16th century, the economic situation in the Ottoman Empire worsened. The community's debts to the authorities and private creditors multiplied, and the legal struggle for possession of the synagogue, known as ‘the Ramban synagogue’, in which a great deal of money was invested, ended in failure and its final closure at the end of the century.\[^1\]

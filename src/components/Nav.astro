@@ -1,13 +1,13 @@
 ---
-import Search from "astro-pagefind/components/Search";
+// import your search wrapper
 import SearchComponent from "./Search.astro";
+import Search from "astro-pagefind/components/Search";
 ---
-
-<nav class="bg-white border-gray-200 dark:bg-gray-900">
-    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-        <!-- Logo Section -->
-        <a href="/" class="flex flex-col space-y-1 rtl:space-y-reverse">
-      <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+<nav class="sticky top-0 z-40 bg-white/95 dark:bg-gray-900/95 backdrop-blur border-b">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center">
+        <!-- Left: Brand -->
+        <a href="/" class="flex flex-col leading-tight shrink-0">
+      <span class="text-2xl font-semibold text-gray-900 dark:text-gray-100">
         Early Modern Workshop
       </span>
             <span class="text-sm text-gray-600 dark:text-gray-400">
@@ -15,93 +15,60 @@ import SearchComponent from "./Search.astro";
       </span>
         </a>
 
-        <!-- Mobile Menu Button -->
-        <button
-                id="menu-toggle"
-                aria-controls="mobile-menu"
-                aria-expanded="false"
-                class="inline-flex items-center p-2 w-10 h-10 justify-center text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
-        >
-            <span class="sr-only">Open main menu</span>
-            <svg
-                    class="w-5 h-5"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 20 20"
-                    aria-hidden="true"
-            >
-                <path
-                        stroke="currentColor"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M3 6h14M3 12h14M3 18h14"
-                />
-            </svg>
-        </button>
+        <!-- Spacer pushes the right group over -->
+        <div class="flex-1"></div>
 
-        <!-- Desktop Menu -->
-        <div class="hidden md:flex items-center space-x-8">
-            <a
-                    href="/"
-                    class="text-gray-900 hover:text-blue-700 dark:text-white dark:hover:text-blue-500"
-            >
-                Home
-            </a>
-            <a
-                    href="/about"
-                    class="text-gray-900 hover:text-blue-700 dark:text-white dark:hover:text-blue-500"
-            >
-                About
-            </a>
-            <a
-                    href="/resources"
-                    class="text-gray-900 hover:text-blue-700 dark:text-white dark:hover:text-blue-500"
-            >
-                Resources
-            </a>
+        <!-- Right: Links then Search -->
+        <div class="hidden md:flex items-center gap-6">
+            <a href="/" class="text-gray-800 dark:text-gray-200 hover:text-indigo-600">Home</a>
+            <a href="/resources" class="text-gray-800 dark:text-gray-200 hover:text-indigo-600">Resources</a>
+            <a href="/about" class="text-gray-800 dark:text-gray-200 hover:text-indigo-600">About</a>
 
-            <!-- Search Bar -->
-            <div class="relative">
-             <SearchComponent                />
+            <!-- Search sits last, aligned right -->
+            <div class="">
+<SearchComponent/>
             </div>
+
         </div>
 
-        <!-- Mobile Menu -->
-        <div
-                id="mobile-menu"
-                class="hidden w-full md:hidden bg-gray-50 dark:bg-gray-800"
-        >
-            <ul class="flex flex-col space-y-4 p-4">
-                <li>
-                    <a
-                            href="/"
-                            class="block text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
-                    >
-                        Home
-                    </a>
-                </li>
-                <li>
-                    <a
-                            href="/about"
-                            class="block text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
-                    >
-                        About
-                    </a>
-                </li>
-                <li>
-                    <a
-                            href="/resources"
-                            class="block text-gray-900 hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
-                    >
-                        Resources
-                    </a>
-                </li>
-                <li>
-                    <!-- Mobile Search Bar -->
-                    <SearchComponent                />
-                </li>
-            </ul>
+        <!-- Mobile: menu button + compact search -->
+        <div class="md:hidden ml-3 flex items-center gap-2">
+            <button id="menu-toggle"
+                    class="inline-flex h-10 w-10 items-center justify-center rounded-lg text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800"
+                    aria-controls="mobile-menu" aria-expanded="false">
+                <span class="sr-only">Open main menu</span>
+                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          d="M4 6h16M4 12h16M4 18h16"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile menu (links under brand) -->
+    <div id="mobile-menu" class="md:hidden hidden border-t">
+        <div class="mx-auto max-w-7xl px-4 py-3 space-y-3">
+            <div class="w-full">
+                <Search
+                        id="search"
+                        className="pagefind-ui w-full"
+                        uiOptions={{ showImages: false }}
+                />
+            </div>
+            <div class="flex flex-col divide-y divide-gray-200 dark:divide-gray-800 rounded-md overflow-hidden">
+                <a href="/" class="px-3 py-2 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100">Home</a>
+                <a href="/resources" class="px-3 py-2 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100">Resources</a>
+                <a href="/about" class="px-3 py-2 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100">About</a>
+            </div>
         </div>
     </div>
 </nav>
+
+<script is:inline>
+    const btn = document.getElementById('menu-toggle');
+    const menu = document.getElementById('mobile-menu');
+    btn?.addEventListener('click', () => {
+        const open = menu?.classList.toggle('hidden') === false;
+        btn.setAttribute('aria-expanded', String(open));
+    });
+</script>

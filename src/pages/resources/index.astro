@@ -1,58 +1,73 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import yearsData from '../../content/years.json';
+import yearsData from "../../content/years.json";
 
 // Sort the data by year (descending)
 const years = yearsData.sort((a, b) => parseInt(b.year) - parseInt(a.year));
-
-
 ---
 
-
 <Layout>
-    <section class="py-24 bg-gray-100">
-
+    <section class="py-16 sm:py-20 bg-gray-100 dark:bg-gray-900 transition-colors">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <h2 class="font-manrope text-3xl sm:text-4xl font-bold text-gray-900 dark:text-gray-100 text-center mb-10 sm:mb-14">
+                Resources from Past Workshops
+            </h2>
 
-            <h2 class="font-manrope text-4xl font-bold text-gray-900 text-center mb-16">Resources from Past Workshops</h2>
             {years.length === 0 ? (
-                    <p class="text-center text-gray-500">No resources available.</p>
+                    <p class="text-center text-gray-600 dark:text-gray-300">No resources available.</p>
             ) : (
-                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        {years.map(year => (
-
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+                        {years.map((year) => (
                                 <a
                                         href={`/resources/${year.year}`}
-                                        class="block p-4 bg-white border rounded-lg shadow-lg hover:shadow-xl transition flex flex-col justify-between"
+                                        class="group block rounded-xl border border-gray-200 dark:border-gray-800 bg-white/80 dark:bg-gray-800/70 backdrop-blur-sm shadow-sm hover:shadow-md transition-shadow focus:outline-none focus:ring-2 focus:ring-indigo-500"
                                         aria-label={`Resources from ${year.year}`}
                                 >
-                                    <div class="relative">
+                                    <!-- Media -->
+                                    <div class="relative overflow-hidden rounded-t-xl">
                                         {year.thumbnail && (
                                                 <img
                                                         src={year.thumbnail}
                                                         alt={year.title}
-                                                        class="w-full h-48 object-cover transition-transform group-hover:scale-105"
+                                                        class="w-full aspect-[16/9] object-cover transition-transform duration-200 group-hover:scale-[1.02]"
                                                         loading="lazy"
+                                                        decoding="async"
                                                 />
                                         )}
-                                        <span class="absolute top-2 left-2 bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-0.5 rounded-full dark:bg-indigo-900 dark:text-indigo-300 shadow">
-          {year.year}
-        </span>
+                                        <span
+                                                class="absolute top-2 left-2 rounded-full px-2.5 py-0.5 text-xs font-medium
+                         bg-indigo-100 text-indigo-800 shadow
+                         dark:bg-indigo-900/40 dark:text-indigo-200"
+                                        >
+                  {year.year}
+                </span>
                                     </div>
 
+                                    <!-- Body -->
+                                    <div class="p-5 sm:p-6">
+                                        <h3 class="text-xl sm:text-2xl font-semibold text-gray-900 dark:text-gray-100 mb-2">
+                                            {year.title}
+                                        </h3>
+                                        <p class="text-sm sm:text-base text-gray-600 dark:text-gray-300 line-clamp-3">
+                                            {year.description || "No description available."}
+                                        </p>
 
-                                    <div>
-                                        <h3 class="text-2xl font-semibold mb-2">{year.title}</h3>
-                                        <p class="text-gray-500 mb-4 line-clamp-3">{year.description || "No description available."}</p>
+                                        <div class="mt-4">
+                  <span
+                          class="inline-flex items-center gap-2 rounded-md bg-indigo-700 text-white
+                           hover:bg-indigo-600 active:bg-indigo-800
+                           px-4 py-2 text-sm font-medium shadow-sm transition-colors"
+                  >
+                    <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M3 7l9-4 9 4-9 4-9-4Z" />
+                      <path d="M3 17l9 4 9-4" />
+                      <path d="M3 12l9 4 9-4" />
+                    </svg>
+                    Resources from {year.year}
+                  </span>
+                                        </div>
                                     </div>
-                                    <button
-                                            class="rounded-md bg-indigo-800 py-2 px-4 mt-4 self-start border border-transparent text-center text-sm text-white transition-all shadow-md hover:shadow-lg focus:bg-slate-700 focus:shadow-none active:bg-slate-700 hover:bg-slate-700 active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
-                                            type="button"
-                                            aria-label={`View resources for the year ${year.year}`}
-                                    >
-                                        Resources from {year.year}
-                                    </button>
-
                                 </a>
                         ))}
                     </div>

@@ -1,14 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
-
-
-import { Schema } from 'astro-seo-schema';
-import Comments from '../../../components/Comments.astro';
-import { Disqus } from 'astro-disqus';
-import { marked } from 'marked';
 import Layout from "../../../layouts/Layout.astro";
-import SmartToc from "../../../components/SmartToc.astro";
-
+import { Schema } from 'astro-seo-schema';
+import { marked } from 'marked';
+import { slugifyTag } from "../../../utils/slugifyTag";
 
 export async function getStaticPaths() {
     const documents = await getCollection('documents');
@@ -18,10 +13,11 @@ export async function getStaticPaths() {
     }));
 }
 
+
 const { year, slug } = Astro.params;
 
 const document = (await getCollection('documents')).find(
-    doc => doc.data.slug === slug && String(doc.data.year) === String(year)
+    (doc) => doc.data.slug === slug && String(doc.data.year) === String(year)
 );
 
 if (!document) {
@@ -31,7 +27,6 @@ if (!document) {
 const { title, description, author, tags, primarysourceinfo } = document.data;
 const docFileName = document.id.split('/').pop().replace('.md', '.docx');
 
-// ✅ Get rendered MD *and* the extracted headings for ToC
 const { Content, headings } = await render(document);
 ---
 
@@ -49,127 +44,249 @@ const { Content, headings } = await render(document);
                     keywords: tags?.join(', '),
                 }}
         />
-
-        <!-- COinS -->
-        <span class="Z3988"
-              title={`ctx_ver=Z39.88-2004&
-        rft_val_fmt=info:ofi/fmt:kev:mtx:journal&
-        rft.genre=article&
-        rft.title=${encodeURIComponent(title)}&
-        rft.description=${encodeURIComponent(description || '')}&
-        rft.date=${encodeURIComponent(String(year) || '')}&
-        rft.aulast=${encodeURIComponent(author || '')}&
-        rft_id=${encodeURIComponent(`/resources/${year}/${slug}`)}&
-      `} />
     </Fragment>
 
-    <!-- Optional inline ToC (keeps the right-hand ToC too). Remove if you only want the sidebar. -->
-    <!--
-    <aside class="sticky top-24 max-h-[80vh] overflow-auto mb-8">
-      <TableOfContents />
-    </aside>
-    -->
-
-    <section class="py-24 ">
-        <div class="container lg:px-8 mx-auto px-4 max-w-prose leading-relaxed text-lg">
+    <section class="py-16 sm:py-20 bg-gray-50 dark:bg-gray-900 transition-colors">
+        <div class="mx-auto max-w-screen-2xl px-4 lg:px-10">
+            <!-- Breadcrumb + Actions row stays full-width -->
             <nav class="flex flex-wrap items-center justify-between text-sm mb-6" aria-label="Breadcrumb">
-                <div class="flex items-center gap-2 mb-2 sm:mb-0">
-                    <a href="/resources" class="text-indigo-600 hover:underline">Resources</a>
+                <div class="flex items-center gap-2 mb-2 sm:mb-0 text-gray-700 dark:text-gray-300">
+                    <a href="/resources" class="text-indigo-600 dark:text-indigo-400 hover:underline">Resources</a>
                     <span>/</span>
-                    <a href={`/resources/${year}`} class="text-indigo-600 hover:underline">{year}</a>
+                    <a href={`/resources/${year}`} class="text-indigo-600 dark:text-indigo-400 hover:underline">{year}</a>
                     <span>/</span>
-                    <span class="text-gray-500"></span>
+                    <span class="text-gray-500 dark:text-gray-400">{title}</span>
                 </div>
-                <div>
-                    <!-- Mobile TOC -->
-
-
-                </div>
-
-                <!-- Desktop TOC -->
-
 
                 <div class="flex sm:ml-auto">
-                    <a href={`/downloads/${year}/${docFileName}.pdf`} download
-                       class="outline outline-2 outline-offset-12  outline-indigo-700     rounded-md font-bold underline hover:bg-indigo-700 hover:text-white transition">
-                        <button>Download PDF</button>
+                    <a
+                            href={`/downloads/${year}/${docFileName}.pdf`}
+                            download
+                            class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-indigo-700 text-indigo-900 dark:text-indigo-100 hover:bg-indigo-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 8.25H7.5a2.25 2.25 0 0 0-2.25 2.25v9a2.25 2.25 0 0 0 2.25 2.25h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25H15M9 12l3 3m0 0 3-3m-3 3V2.25" />
+                        </svg>
+                        Download PDF
                     </a>
                 </div>
             </nav>
 
-            <h1 class="text-4xl font-bold mb-6 text-gray-900" set:html={marked.parseInline(title)} />
+            <!-- Desktop grid: readable content column + steady sidebar -->
+            <div class="grid gap-10 lg:gap-16 lg:grid-cols-[minmax(0,90ch)_minmax(300px,360px)] items-start">                <!-- Main content column -->
+                <div>
+                    <h1 class="text-[2rem] sm:text-4xl lg:text-[2.5rem] leading-tight font-bold text-gray-900 dark:text-gray-100 mb-4"
+                        set:html={marked.parseInline(title)} />
 
-            {author && (
-                    <p class="text-gray-500 mb-4"><span class="font-medium">Author:</span> {author}</p>
-            )}
-            {primarysourceinfo && (
-                    <p class="text-gray-500 mb-4"><span class="font-medium">Primary Source information:</span> {primarysourceinfo}</p>
-            )}
-            {description && (
-                    <p class="text-gray-500 mb-4"><span class="font-medium">Description:</span> {description}</p>
-            )}
+                    <!-- At-a-glance row -->
+                    <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between mb-6">
+                        <div class="flex flex-wrap items-center gap-3 text-sm">
+                            {author && (
+                                    <span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-200">
+                <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-70"><path fill="currentColor" d="M12 12a5 5 0 1 0-5-5a5 5 0 0 0 5 5m0 2c-4.33 0-8 2.24-8 5v1h16v-1c0-2.76-3.67-5-8-5"/></svg>
+                <span class="font-medium">Scholar:</span> {author}
+              </span>
+                            )}
 
-            {tags?.length > 0 && (
-                    <div class="mb-4">
-                        <h3 class="text-lg font-semibold">Tags:</h3>
-                        <div class="flex flex-wrap gap-2">
-                            {tags.map(tag => (
-                                    <span class="bg-indigo-100 text-indigo-800 text-sm px-3 py-1 rounded-full">{tag}</span>
-                            ))}
+                            <a href={`/resources/${year}`}
+                               class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
+                                <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-70"><path fill="currentColor" d="M17 3H7a2 2 0 0 0-2 2v14l7-3l7 3V5a2 2 0 0 0-2-2"/></svg>
+                                <span class="font-medium">Year:</span> {year}
+                            </a>
+
+                            {tags?.length > 0 && (
+                                    <div class="w-full sm:w-auto">
+                                        <div class="flex flex-wrap gap-2 mt-1">
+                                            {tags.map((tag) => {
+                                                const tagSlug = slugifyTag(tag);
+                                                return (
+                                                        <a href={`/tags/${tagSlug}`}
+                                                           class="inline-block bg-indigo-100 dark:bg-indigo-900/40 text-indigo-800 dark:text-indigo-200 text-xs sm:text-sm px-3 py-1 rounded-full hover:bg-indigo-200 dark:hover:bg-indigo-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
+                                                            {tag}
+                                                        </a>
+                                                );
+                                            })}
+                                        </div>
+                                    </div>
+                            )}
                         </div>
                     </div>
-            )}
-            {headings.length > 0 && (
-                    <div class="md:hidden sticky top-0 z-30 bg-white/90 backdrop-blur border-b border-gray-200 mb-6 px-4 py-3">
-                        <div class="relative inline-block">
-                            <button
-                                    type="button"
-                                    class="bg-white border border-gray-300 shadow-sm px-4 py-2 rounded-md text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring"
-                                    onclick="document.getElementById('tocDropdownMenu').classList.toggle('hidden')"
-                            >
-                                Table of Contents
-                            </button>
-                            <div
-                                    id="tocDropdownMenu"
-                                    class="absolute z-40 mt-2 w-72 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 hidden max-h-80 overflow-auto"
-                            >
-                                <ul class="py-1 text-sm text-gray-700">
+
+                    <!-- Desktop description callout -->
+                    {description && (
+                            <div class="hidden md:block mb-6 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 p-5 shadow-sm">
+                                <div class="flex items-start gap-3">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" class="text-indigo-600 dark:text-indigo-400 shrink-0">
+                                        <path fill="currentColor" d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9a10 10 0 1 0 10 10A10 10 0 0 0 12 2"/>
+                                    </svg>
+                                    <div class="text-gray-800 dark:text-gray-200 leading-relaxed" set:html={marked.parse(description)} />
+                                </div>
+                            </div>
+                    )}
+
+                    <!-- Mobile accordions -->
+                    {(description || primarysourceinfo) && (
+                            <div class="md:hidden mb-6 space-y-3">
+                                {description && (
+                                        <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
+                                            <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
+                                                <span class="text-base font-semibold">Description</span>
+                                                <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
+                                                    <path fill="currentColor" d="m7 10l5 5l5-5z"/>
+                                                </svg>
+                                            </summary>
+                                            <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(description)} />
+                                        </details>
+                                )}
+
+                                {primarysourceinfo && (
+                                        <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
+                                            <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
+                                                <span class="text-base font-semibold">Primary Source</span>
+                                                <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
+                                                    <path fill="currentColor" d="m7 10l5 5l5-5z"/>
+                                                </svg>
+                                            </summary>
+                                            <div class="px-4 pb-4 prose dark:prose-invert max-w-none" set:html={marked.parse(primarysourceinfo)} />
+                                        </details>
+                                )}
+                            </div>
+                    )}
+
+                    <!-- Sticky Mobile ToC -->
+                    {headings.length > 0 && (
+                            <div class="lg:hidden sticky top-0 z-[60] bg-white/90 dark:bg-gray-900/90 backdrop-blur border-b border-gray-200 dark:border-gray-800 mb-6 px-4 py-3">
+                                <div class="relative inline-block">
+                                    <button
+                                            type="button"
+                                            class="bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 shadow-sm px-4 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                                            onclick="document.getElementById('tocDropdownMenu')?.classList.toggle('hidden')"
+                                    >
+                                        Table of Contents
+                                    </button>
+                                    <div
+                                            id="tocDropdownMenu"
+                                            class="absolute z-[70] mt-2 w-72 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black/10 dark:ring-white/10 hidden max-h-80 overflow-auto"
+                                    >
+                                        <ul class="py-1 text-sm text-gray-700 dark:text-gray-200">
+                                            {headings.map((h) => (
+                                                    <li>
+                                                        <a href={`#${h.slug}`}
+                                                           class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700"
+                                                           onclick="document.getElementById('tocDropdownMenu')?.classList.add('hidden')">
+                                                            {h.text}
+                                                        </a>
+                                                    </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                    )}
+
+
+                    <!-- Drawer behavior -->
+                    <script is:inline>
+                        const dlg = document.getElementById('metaDrawer');
+                        if (dlg) {
+                            // Close when clicking the backdrop
+                            dlg.addEventListener('click', (e) => {
+                                const rect = dlg.querySelector('div')?.getBoundingClientRect();
+                                if (!rect) return;
+                                // click outside the sheet container
+                                const x = e.clientX, y = e.clientY;
+                                if (x < rect.left || x > rect.right || y < rect.top || y > rect.bottom) dlg.close();
+                            });
+                            // Close on ESC is native to <dialog>; ensure body scroll lock feels right
+                            dlg.addEventListener('close', () => document.documentElement.classList.remove('overflow-hidden'));
+                            dlg.addEventListener('close', () => dlg.returnValue = '');
+                            dlg.addEventListener('cancel', () => {});
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('show', () => {});
+                            // Lock body scroll while open
+                            dlg.addEventListener('close', () => document.body.classList.remove('overflow-hidden'));
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('cancel', () => {});
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('close', () => {});
+                            dlg.addEventListener('close', () => {});
+                        }
+                    </script>
+
+                    <style is:global>
+                        @keyframes slideUp {
+                            from { transform: translateY(16px); opacity: 0 }
+                            to   { transform: translateY(0);    opacity: 1 }
+                        }
+                    </style>
+
+                    <article class="prose dark:prose-invert max-w-none
+                prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
+                prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
+                prose-code:break-words
+                prose-table:block prose-table:w-full
+                prose-a:break-words">
+                        <Content />
+                    </article>
+                </div>
+
+                <!-- Right-hand ToC (desktop) -->
+                {headings.length > 0 && (
+                        <aside class="hidden lg:block sticky top-28 justify-self-end w-[320px]">
+                            <nav class="space-y-2 bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
+                                <h2 class="text-base font-semibold mb-2 text-gray-900 dark:text-gray-100">On this page</h2>
+                                <ul class="space-y-1">
                                     {headings.map((heading) => (
                                             <li>
-                                                <a
-                                                        href={`#${heading.slug}`}
-                                                        class="block px-4 py-2 hover:bg-gray-100"
-                                                        onclick="document.getElementById('tocDropdownMenu').classList.add('hidden')"
-                                                >
+                                                <a href={`#${heading.slug}`}
+                                                   class="hover:underline text-gray-800 dark:text-gray-200 hover:text-indigo-700 dark:hover:text-indigo-300">
                                                     {heading.text}
                                                 </a>
                                             </li>
                                     ))}
                                 </ul>
-                            </div>
-                        </div>
-                    </div>
-            )}
-            <article class="prose">
-                <Content />
-            </article>
-
+                            </nav>
+                        </aside>
+                )}
+            </div>
         </div>
-
-        <aside class="hidden xl:block fixed top-32 right-10 w-64 text-sm z-20">
-            <nav class="space-y-2 bg-white/80 backdrop-blur p-4 rounded shadow">
-                <h2 class="text-lg font-light mb-2">On this page</h2>
-                <ul class="space-y-1">
-                    {headings.map((heading) => (
-                            <li>
-                                <a href={`#${heading.slug}`} class="hover:underline text-gray-800">
-                                    {heading.text}
-                                </a>
-                            </li>
-                    ))}
-                </ul>
-            </nav>
-        </aside>
+        <button
+                id="back-to-top"
+                class="fixed bottom-5 right-5 z-[80] rounded-full p-3 shadow-lg
+         bg-indigo-600 text-white hover:bg-indigo-700 focus:outline-none
+         focus:ring-2 focus:ring-indigo-500 transition-opacity duration-300
+         opacity-0 pointer-events-none"
+                aria-label="Back to top"
+        >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 15l-6-6-6 6"/>
+            </svg>
+        </button>
     </section>
 
-</Layout>
+</Layout><script is:inline>
+    (() => {
+        const btn = document.getElementById('back-to-top');
+        if (!btn) return;
+
+        const showAt = 300; // px
+        const onScroll = () => {
+            if (window.scrollY > showAt) {
+                btn.classList.remove('opacity-0', 'pointer-events-none');
+                btn.classList.add('opacity-100');
+            } else {
+                btn.classList.add('opacity-0', 'pointer-events-none');
+                btn.classList.remove('opacity-100');
+            }
+        };
+
+        const toTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        window.addEventListener('scroll', onScroll, { passive: true });
+        btn.addEventListener('click', toTop);
+        // run once on load
+        onScroll();
+    })();
+</script>

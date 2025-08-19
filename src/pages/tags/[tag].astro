@@ -1,0 +1,85 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { marked } from 'marked';
+import { slugifyTag } from '../../utils/slugifyTag.ts';
+
+export async function getStaticPaths() {
+    const docs = await getCollection('documents');
+
+    // Build a unique set of {slug, label}
+    const pairs = new Map<string, string>(); // slug -> display label
+    for (const d of docs) {
+        for (const t of (d.data.tags ?? [])) {
+            const s = slugifyTag(t);
+            // first occurrence wins as the display label
+            if (!pairs.has(s)) pairs.set(s, t);
+        }
+    }
+
+    return [...pairs.entries()].map(([slug, label]) => ({
+        params: { tag: slug },
+        props: { label }, // optional: use as display name
+    }));
+}
+
+const { tag } = Astro.params;               // slug from URL
+const { label } = Astro.props as { label?: string };
+
+// Fetch all docs and filter by slugified tag
+const allDocs = await getCollection('documents');
+const docsForTag = allDocs.filter((d) =>
+    (d.data.tags ?? []).some((t) => slugifyTag(t) === tag)
+);
+
+// Choose a nice display label if provided; fallback to the slug
+const displayTag = label ?? tag;
+---
+
+<Layout>
+    <section class="py-16">
+        <div class="container mx-auto px-6 lg:px-8">
+            <nav class="text-sm mb-6" aria-label="Breadcrumb">
+                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a>
+                <span> / </span>
+                <a href="/tags" class="text-indigo-600 hover:underline">Tags</a>
+                <span> / </span>
+                <span class="text-gray-500">{displayTag}</span>
+            </nav>
+
+            <h1 class="text-3xl font-bold mb-8">
+                Tag: <span class="text-indigo-700">{displayTag}</span>
+            </h1>
+
+            {docsForTag.length > 0 ? (
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                        {docsForTag.map((doc) => (
+
+                                <a
+                                        href={`/resources/${doc.data.year}/${doc.data.slug}`}
+                                        class="group relative block p-5 pt-8 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md hover:border-indigo-500 transition"
+                                >
+                                    <!-- Year pill -->
+                                    <span
+                                            class="pointer-events-none absolute top-2 left-2 inline-flex items-center gap-1 rounded-full bg-indigo-100 px-2.5 py-0.5 text-xs font-medium text-indigo-800 shadow"
+                                    >
+    {doc.data.year}
+  </span>
+
+                                    <h2
+                                            class="text-xl font-semibold mb-2 text-gray-800 group-hover:text-indigo-600"
+                                            set:html={marked.parseInline(doc.data.title)}
+                                    />
+
+                                    <p class="text-gray-600 line-clamp-3">
+                                        {doc.data.description ?? "No description available."}
+                                    </p>
+                                </a>
+                        ))}
+                    </div>
+            ) : (
+                    <p class="text-gray-500">No documents found for this tag.</p>
+            )}
+        </div>
+    </section>
+</Layout>

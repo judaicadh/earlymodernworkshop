@@ -26,3 +26,54 @@ html {
     color: black !important;
 }
 
+.prose p, .prose li, .prose blockquote, .prose h1, .prose h2, .prose h3 {
+    direction: auto;
+}
+
+     /* Prevent accidental page-wide horizontal scroll */
+ html, body { overflow-x: clip; } /* use clip (not hidden) to keep momentum scroll smooth */
+
+/* Images / media should never exceed the container */
+img, video, svg, canvas, iframe, embed, object {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Tables: allow finger horizontal scroll instead of forcing page scroll */
+.prose table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-collapse: collapse;
+}
+
+/* Code blocks: wrap long lines on mobile */
+.prose pre {
+    white-space: pre-wrap;       /* wrap long lines */
+    word-break: break-word;
+}
+.prose code {
+    word-break: break-word;
+    overflow-wrap: anywhere;
+}
+
+/* Wrap ultra-long URLs / words */
+.prose, .prose * {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
+/* Iframes: make them responsive */
+.fluid-embed {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 */
+}
+.fluid-embed > iframe {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+}
+
+/* Utility: safe container padding on small screens */
+.container-safe { padding-left: 1rem; padding-right: 1rem; }
+@media (min-width: 640px) { .container-safe { padding-left: 1.5rem; padding-right: 1.5rem; } }

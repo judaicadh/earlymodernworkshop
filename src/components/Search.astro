@@ -1,12 +1,107 @@
 ---
 import Search from "astro-pagefind/components/Search";
 ---
-<div class="relative">
-    <Search
-            id="search"
-            className="pagefind-ui"
-            uiOptions={{
-                showImages: false,
-            }}
-    />
+<!-- Trigger (put this in the navbar’s right group, after About) -->
+<button id="open-search"
+        class="hidden md:inline-flex items-center gap-2 px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600
+         hover:bg-gray-50 dark:hover:bg-gray-800 text-sm text-gray-700 dark:text-gray-200">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+    </svg>
+    Search
+</button>
+
+<!-- Overlay -->
+<div id="searchOverlay"
+     class="fixed inset-0 z-[60] hidden"
+     role="dialog" aria-modal="true" aria-labelledby="search-title">
+    <!-- Backdrop -->
+    <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" data-backdrop></div>
+
+    <!-- Panel -->
+    <div id="searchPanel"
+         class="absolute left-1/2 -translate-x-1/2 top-[6vh] w-[min(92vw,900px)]
+              bg-white dark:bg-gray-900 rounded-xl shadow-2xl ring-1 ring-black/10
+              flex flex-col max-h-[88vh]" tabindex="-1">
+        <div class="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-700">
+            <h2 id="search-title" class="text-sm font-semibold text-gray-700 dark:text-gray-200">Search</h2>
+            <button id="close-search"
+                    class="inline-flex items-center px-2 py-1 text-sm rounded-md hover:bg-gray-100 dark:hover:bg-gray-800"
+                    aria-label="Close search (Esc)">
+                Esc
+            </button>
+        </div>
+
+        <div class="p-3 overflow-hidden">
+
+
+            <Search
+                    id="search"
+                    className="pagefind-ui w-full"
+                    uiOptions={{ showImages: false }}
+            />        </div>
+
+        <!-- Keep results scrollable inside panel -->
+        <style is:global>
+            .pagefind-ui__drawer { max-height: 60vh; overflow: auto; }
+        </style>
+    </div>
 </div>
+
+<script is:inline>
+    const overlay = document.getElementById('searchOverlay');
+    const panel   = document.getElementById('searchPanel');
+    const openBtn = document.getElementById('open-search');
+    const closeBtn= document.getElementById('close-search');
+    const backdrop= overlay?.querySelector('[data-backdrop]');
+
+    let lastFocus = null;
+
+    function focusInput() {
+        const input = overlay?.querySelector('.pagefind-ui__search-input, input[type="search"]');
+        if (input && typeof input.focus === 'function') input.focus();
+        else panel?.focus();
+    }
+
+    function open() {
+        if (!overlay) return;
+        lastFocus = document.activeElement;
+        overlay.classList.remove('hidden');
+        document.documentElement.classList.add('overflow-hidden'); // lock scroll
+        // Small timeout lets Pagefind mount its DOM
+        setTimeout(focusInput, 0);
+        trapOn();
+    }
+
+    function close() {
+        overlay?.classList.add('hidden');
+        document.documentElement.classList.remove('overflow-hidden');
+        trapOff();
+        if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+
+    // Simple focus trap
+    function trapOn() {
+        document.addEventListener('keydown', trapHandler);
+    }
+    function trapOff() {
+        document.removeEventListener('keydown', trapHandler);
+    }
+    function trapHandler(e) {
+        if (e.key === 'Escape') return close();
+        if (e.key !== 'Tab' || !overlay || overlay.classList.contains('hidden')) return;
+        const focusables = overlay.querySelectorAll(
+            'a[href], button, input, textarea, select, [tabindex]:not([tabindex="-1"])'
+        );
+        const list = Array.from(focusables).filter(el => !el.hasAttribute('disabled'));
+        if (!list.length) return;
+        const first = list[0], last = list[list.length - 1];
+        if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+
+    openBtn?.addEventListener('click', open);
+    closeBtn?.addEventListener('click', close);
+    backdrop?.addEventListener('click', close);
+    window.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+</script>
