@@ -1,5 +1,6 @@
 ---
-title: "Anti-Jewish Accusations in Poland: A Medieval or Early Modern Phenomenon?"
+title: "Anti-Jewish Accusations in Poland: A Medieval or Early Modern
+  Phenomenon? test"
 author: Magda Teter
 institution: Fordham University
 volume: 1
@@ -89,13 +90,13 @@ The chapter presented here lists cases of the accusations of desecration of the 
 
 The myth of host desecration by Jews came to Poland late. Although Żuchowski mentions cases in Poznań in 1399, and in Kazimierz, near Cracow, in 1407, there is no evidence of these cases outside of polemical anti-Jewish works. Before mid-16th century there are few, inconsistent, and vague stories about Poznań, and a more developed legend emerged only in the late 16th century, with two books published about it in 1583 and 1589. The timing is not accidental, Poznań at the time was a prominent Reformation center, and the Protestants challenged the Catholic doctrine of transubstantiation.
 
-The first documented case of the accusations of host desecration against Jews in Poland took place in Sochaczew in 1556, and was also popularized in printed polemical works against Jews. This case, too, is linked to the Reformation and Counter Reformation. The main instigator of the trial, Cardinal Luigi Lippomano, a papal nuncio at the time, was a strong opponent of the Reformation and a propagator of the Catholic dogmas. The Sochaczew case became a venue for a religious polemic between Protestants and Catholics in Poland. The spread of the medieval accusations against Jews of desecrating the host in Poland are closely to the two early modern developments: the Reformation and the invention of the printing press.  
+The first documented case of the accusations of host desecration against Jews in Poland took place in Sochaczew in 1556, and was also popularized in printed polemical works against Jews. This case, too, is linked to the Reformation and Counter Reformation. The main instigator of the trial, Cardinal Luigi Lippomano, a papal nuncio at the time, was a strong opponent of the Reformation and a propagator of the Catholic dogmas. The Sochaczew case became a venue for a religious polemic between Protestants and Catholics in Poland. The spread of the medieval accusations against Jews of desecrating the host in Poland are closely to the two early modern developments: the Reformation and the invention of the printing press.
 
 **Additional Readings**
 
 Guldon, Zenon, and Jacek Wijaczka. "The Accusation of Ritual Murder in Poland, 1500-1800." _Polin_ 10 (1997).
 
-\------. _Procesy o Mordy Rytualne w Polsce w XVI-XVIII Wieku_. Kielce: DCF, 1995.  
+\------. _Procesy o Mordy Rytualne w Polsce w XVI-XVIII Wieku_. Kielce: DCF, 1995.
 
 Hsia, R. Po-chia. _The Myth of Ritual Murder: Jews and Magic in Reformation Germany_. New
 
@@ -181,7 +182,6 @@ In the year 1580 in Oświęcim, two \[Christian\] perpetrators of a sacrilege 
 
 Also in Pilica a Catholic was burned and Jews were freed.\[25\]
 
-  
 \[47\] In the year 1580, a Jew, who had blasphemed against the most holy sacrament, was burnt.
 
 In the year 1598, in Pułtusk, a certain villain, Krzyczkowski, having stolen the Host, sold it to Jews of Płońsk for four złoty, when apprehended he confessed to all. Jews first denied \[everything\] under torture but later they confessed that they were blinded and not being able to see their way they could not run away. The pyx was found in dung and they Host were returned to church in a procession. Jews were burnt.
@@ -240,7 +240,6 @@ In the year 1698 Jews of Przytyka robbed a church in Wrzosie, but because puttin
 
 In 1700, Jews of Opatów bought silver stolen from a church in Szczeglice.
 
-  
 In 1702, Jews stole silver from a church in Frysztak, all worth twenty thousand. Lord Józef
 
 Rosłowski, the standard keeper of Parnów, \[41\] having spurned a bribe that had been offered to him, out of Christian piety ordered that five \[of those Jews\] be burned, and four received the sentence of Infamy. But only twenty nine _grzywien_ of silver were returned, from the rest they minted fake coins. They had also robbed seven other churches.
@@ -363,16 +362,12 @@ Roku 1369. W Bruxellach w Brabancyi, przez krew choynie płynącą, wydani Iud
 
 Roku 1414. W Kolnie Żyd przebrawszy się Kommunią przyiął y w kąt poszedszy, z ust brzydkich wyiął; widząc obroconą w osobie dziecięcia ieszcze płaczącego, uchodzić z Kościoła począł, ale mu Czart zastąpił, rzucił tedy w dołek na Cmentarzu dziecię płaczące na co z Kościoła gdy się ludzie zbiegli i Kapłani, Cud opowiedział y wiele Żydów przy sobie nawrócił.\[5\]
 
-  
 Roku 1466. W Hiszpanii, gdy nie mogli dostaney Hostyi, ani spalić ani zniszczyć, d Klasztoru Dominikańskiego w Segovium odnieśli, o co byli śmiercią skarani.\[6\]
 
-  
 Roku 1426. W Wiedniu niewiasta przedała S. Hostyą Żydom, za co Frederyk Cesarz kazał Żydów trzysta spalić, a Niewiastę kleszczami targać.
 
-  
 Roku 1433. W Dywionie takaz Hostya skłota od Żydów, y skrwawiona za Eugeniusza Czwartego Papieża approbacyą, złożona w Kaplicy.
 
-  
 Roku 1434. W Dekendorfie Thalmudystowie Hostyą S. Kłowszy, na kowadle kowalskim zbluźnierstwy tłukli, potym wpiec wrzucili. Za co także tych Diabłow ziemskich większą część blachami popalono y poćwiartowano.\[7\]
 
 Roku 1453. Na Śląsku bardzo wiele Żydów o uczynioną Hostyi S. Obelgę popalono. Roku 1492. W Czechach w miasteczku Sterberck, Eleazar, Żyd \[46\], za kupioną Hostyą y pokłotą oraz krwią płynącą, y zdrugiemi trzydziestą ogniem spalony.\[8\]
@@ -384,7 +379,6 @@ Roku 1514. W Hali, Żyd krzczony Kapłanem się \[nie będąc nim\] uczynił
 
 Roku 1592. W Pradze Żyd Lewek \[bestya okrutna\] ukradszy u Franciszkanów trzy Hostye S. oddał Żydom, ktorzy ie nozami koląc, bluźnili: Ieśliś iest BOG Chrześciański, ukaz moc swoie y ukazał bo piorum uderzywszy w dzień pogodny, w dom ten swietokradców spalił, trzec co uciekło, wziętych kleszczami targano, y na pale powbiiano.\[11\]
 
-  
 Roku 1619. Na Granicach Hiszpanyi. Żydówka przebrana y postrzeżona, że S. Hostyą z ust w chwustkę wzięła, w beczkę wsadzona, zaraz spalona została.\[12\]
 
 W Polszcze naszey iako wygnani z kraiow Cuszych Żydzi Ray znaleźli, tak też piekło się na wszystkie kryminały, osobliwie przeciwko Sakramentom SS y dzieciom niewinnym otworzyło.
@@ -421,7 +415,6 @@ Roku 1698. W Rawie złapano sześciu Żydów, o skradzenie \[51\] w żelazny
 
 1710 w Łęczny _Feria 5ta post Festa solennia Pascha_ dekretem ferowanym, tamże w mieście z roskazu I.M. P. Strażnika W.X. K. BOGA sprawiedliwości (nie Świętokradzcow) obrocone, Żydow Żydowek siedm spalono y Podgorskiego Dzwonnika, osiedmaśie wyanych Hostyi SS> y inne Kośilene rzeczy: gdzie Iudasz wyznał że iednę Hystyą \[sic\] wziąl z sobą do Gdańska, drugiena Czary obracali.
 
-  
 Roku 1712. Z Jędrzejowa Arendarz (ledwie tam przyięty przeciwko prawu) wygnany, o Hostyą kupioną także u świętokradzce Dzwonnika.
 
 A że niezostało iuż sposobów Żydom na kredyty, na Prowizye brać pieniędzy, a przecie lekko robiąc powinna się mieć dobrze; rzucili się do łupienie y kradzieży Kościołom, gdzie oraz y Nayświętszey Hostyi, lubo sami lubo od świętokradzcow przewodniow sowich dostaią, o co kiedy ktory Pleban czynić pocznie, to mu potrzeba y życie y gotowiznę łożyć, a ieszcze rzadko doydzie dla Protektorów sprawiedliwości. Niech żeby ieno żydom Przykazanie ukradziono z Bożnice, ieżeli by wszyscy na to się nisładali nieciekali, żeby się zemścić krzywdy. My Katolicy, czy nie wierzemy w Chrystusa, o ktorego wzgarde Aktorom czyniącym, przeszkadzamy, a ieszcze dla pieniędzy podobno żydowskich, ktorych BOGU duszą Przypłacić będzie trzeba. Niektore Świętokradztwa, wieku naszego wspomnnie, bo ich spisać wszystkich niepodobna.
