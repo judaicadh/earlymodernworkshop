@@ -1,6 +1,5 @@
 ---
-title: "Anti-Jewish Accusations in Poland: A Medieval or Early Modern
-  Phenomenon? test"
+title: "Anti-Jewish Accusations in Poland: A Medieval or Early Modern Phenomenon?"
 author: Magda Teter
 institution: Fordham University
 volume: 1
