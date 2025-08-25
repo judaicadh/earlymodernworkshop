@@ -168,8 +168,7 @@ const safeTags: string[] = tags ?? [];
                     )}
                     {Array.isArray(resource_link) && resource_link.length > 0 && (
                             <section id="primary-source" class="scroll-mt-24 my-6 space-y-3">
-                                <h2 class="text-base font-semibold text-gray-900 dark:text-gray-100">External Resources</h2>
-
+ 
                                 {resource_link.map((link, i) => {
                                     const isString = typeof link === 'string';
                                     const obj = (!isString ? (link as { url: string; label?: string }) : null);
