@@ -34,7 +34,8 @@ const documents = defineCollection({
             .optional(),
         language: z.array(z.string()).optional(),
         publication_location: z.array(z.string()).optional(),
-
+        original_language_body: z.string().optional(),
+        resource_link: z.array(z.string()).optional(),
         author: z.string().optional(),
         year: z.string(),
         slug: z.string(),

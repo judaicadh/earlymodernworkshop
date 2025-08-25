@@ -24,14 +24,31 @@ if (!document) {
     return Astro.redirect('/404');
 }
 
-const { title, description, author, tags, primarysourceinfo } = document.data;
-const docFileName = document.id.split('/').pop().replace('.md', '.docx');
-
+const {
+    title,
+    description,
+    author,
+    tags = [],
+    original_language_body,
+    language,
+    resource_link = []
+} = document.data;
+const docFileName = document.id.split('/').pop().replace('.md', '');
 const { Content, headings } = await render(document);
+const extraHeadings = [];
+if (description) extraHeadings.push({ slug: 'description', text: 'Description' });
+ if (original_language_body) extraHeadings.push({ slug: 'original-language-body', text: 'Original Language Body' });
+if (Array.isArray(resource_link) && resource_link.length > 0) {
+    extraHeadings.push({ slug: 'primary-source', text: 'Primary Source' });
+}
+const allHeadings = [...extraHeadings, ...headings];
+const safeTags: string[] = tags ?? [];
 ---
 
 <Layout>
-    <Fragment slot="head">
+    <Fragment slot="head" >
+        <title>{title} | Penn Judaica</title>
+        <meta name="description" content={description} />
         <Schema
                 item={{
                     '@context': 'https://schema.org',
@@ -94,10 +111,10 @@ const { Content, headings } = await render(document);
                                 <span class="font-medium">Year:</span> {year}
                             </a>
 
-                            {tags?.length > 0 && (
+                            {safeTags.length > 0 && (
                                     <div class="w-full sm:w-auto">
                                         <div class="flex flex-wrap gap-2 mt-1">
-                                            {tags.map((tag) => {
+                                            {safeTags.map((tag) => {
                                                 const tagSlug = slugifyTag(tag);
                                                 return (
                                                         <a href={`/tags/${tagSlug}`}
@@ -113,48 +130,134 @@ const { Content, headings } = await render(document);
                     </div>
 
                     <!-- Desktop description callout -->
-                    {description && (
-                            <div class="hidden md:block mb-6 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 p-5 shadow-sm">
-                                <div class="flex items-start gap-3">
-                                    <svg width="20" height="20" viewBox="0 0 24 24" class="text-indigo-600 dark:text-indigo-400 shrink-0">
-                                        <path fill="currentColor" d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9a10 10 0 1 0 10 10A10 10 0 0 0 12 2"/>
-                                    </svg>
-                                    <div class="text-gray-800 dark:text-gray-200 leading-relaxed" set:html={marked.parse(description)} />
-                                </div>
-                            </div>
-                    )}
+
 
                     <!-- Mobile accordions -->
-                    {(description || primarysourceinfo) && (
-                            <div class="md:hidden mb-6 space-y-3">
-                                {description && (
-                                        <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
-                                            <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
-                                                <span class="text-base font-semibold">Description</span>
-                                                <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
-                                                    <path fill="currentColor" d="m7 10l5 5l5-5z"/>
-                                                </svg>
-                                            </summary>
-                                            <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(description)} />
-                                        </details>
-                                )}
-
-                                {primarysourceinfo && (
-                                        <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
-                                            <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
-                                                <span class="text-base font-semibold">Primary Source</span>
-                                                <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
-                                                    <path fill="currentColor" d="m7 10l5 5l5-5z"/>
-                                                </svg>
-                                            </summary>
-                                            <div class="px-4 pb-4 prose dark:prose-invert max-w-none" set:html={marked.parse(primarysourceinfo)} />
-                                        </details>
-                                )}
-                            </div>
+                    {description && (
+                            <section id="description" class="scroll-mt-24 mb-6">
+                                <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
+                                    <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
+                                        <span class="text-base font-semibold">Description</span>
+                                        <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
+                                            <path fill="currentColor" d="m7 10l5 5l5-5z"/>
+                                        </svg>
+                                    </summary>
+                                    <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(description)} />
+                                </details>
+                            </section>
                     )}
 
+
+
+
+
+
+                    {original_language_body && (
+                            <div id="original-language-body" class="scroll-mt-24">
+
+                            <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
+                                <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
+                                    <span class="text-base font-semibold">Original Language Body</span>
+                                    <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
+                                        <path fill="currentColor" d="m7 10l5 5l5-5z"/>
+                                    </svg>
+                                </summary>
+                                <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(original_language_body)} />
+                            </details>
+                            </div>
+                    )}
+                    {Array.isArray(resource_link) && resource_link.length > 0 && (
+                            <section id="primary-source" class="scroll-mt-24 my-6 space-y-3">
+                                <h2 class="text-base font-semibold text-gray-900 dark:text-gray-100">External Resources</h2>
+
+                                {resource_link.map((link, i) => {
+                                    const isString = typeof link === 'string';
+                                    const obj = (!isString ? (link as { url: string; label?: string }) : null);
+                                    const rawUrl = isString ? (link as string) : obj!.url;
+
+                                    const isIframeHtml = isString && rawUrl.trim().startsWith('<iframe');
+
+                                    // Detect raw IIIF manifest
+      const looksLikeRawManifest =
+                                        typeof rawUrl === 'string' &&
+                                        ((/\.json($|\?)/.test(rawUrl)) || /iiif\/(presentation|manifest)/i.test(rawUrl)) &&
+                                        !rawUrl.includes('uv.html') && !rawUrl.includes('mirador') && !rawUrl.includes('manifest=');
+
+                                    // Wrap manifest in UV
+      const viewerUrl = looksLikeRawManifest
+                                        ? `https://uv-v4.netlify.app/uv.html#?manifest=${encodeURIComponent(rawUrl)}`
+                                        : rawUrl;
+
+                                    // Treat as IIIF
+      const isIIIF = typeof viewerUrl === 'string' &&
+                                        (viewerUrl.includes('manifest=') || viewerUrl.includes('uv.html') || viewerUrl.includes('mirador'));
+
+                                    // Encode ?manifest=
+      const encodedUrl = isIIIF
+                                        ? viewerUrl.replace(/manifest=([^&]*)/, (_m, v) => `manifest=${encodeURIComponent(v)}`)
+                                        : viewerUrl;
+
+                                    // Label
+      const siteBase = (Astro.site && new URL(Astro.site).origin) || 'https://example.com';
+                                    const computedLabel = (() => {
+                                        try {
+                                            const parsed = new URL(rawUrl, siteBase);
+                                            if (isIIIF) return 'Primary Resource';
+                                            return parsed.hostname || 'View Resource';
+                                        } catch {
+                                            return 'View Resource';
+                                        }
+                                    })();
+
+                                    const label = obj?.label ?? computedLabel;
+                                    const shouldOpen = isIframeHtml || isIIIF;
+
+                                    return (
+                                            <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm" open={shouldOpen}>
+                                                <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
+                                                    <span class="text-sm sm:text-base font-semibold">{label}</span>
+                                                    <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="m7 10l5 5l5-5z"/></svg>
+                                                </summary>
+
+                                                <div class="px-4 pb-4">
+                                                    {isIframeHtml ? (
+                                                            <div class="rounded overflow-hidden border border-gray-200 dark:border-gray-700" set:html={rawUrl} />
+                                                    ) : isIIIF ? (
+                                                        shouldOpen ? (
+                                                                <iframe src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] rounded border border-gray-200 dark:border-gray-700"></iframe>
+                                                        ) : (
+                                                                <iframe data-src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] rounded border border-gray-200 dark:border-gray-700"></iframe>
+                                                        )
+                                                    ) : (
+                                                            <a href={rawUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-4 py-2 mt-2 rounded-md border border-indigo-700 text-indigo-900 dark:text-indigo-100 hover:bg-indigo-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
+                                                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14 3h7v7m0 0L10 21l-7-7L21 10z"/></svg>
+                                                                {label}
+                                                            </a>
+                                                    )}
+                                                </div>
+                                            </details>
+                                    );
+                                })}
+                            </section>
+                    )}
+                    <script is:inline>
+                        const resRoot = document.getElementById('primary-source');
+                        if (resRoot) {
+                            resRoot.querySelectorAll('details').forEach((d) => {
+                                const load = () => {
+                                    const iframe = d.querySelector('iframe[data-src]:not([src])');
+                                    if (iframe) {
+                                        iframe.src = iframe.dataset.src;
+                                        requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+                                    }
+                                };
+                                if (d.open) load();
+                                d.addEventListener('toggle', () => { if (d.open) load(); });
+                            });
+                        }
+                    </script>
                     <!-- Sticky Mobile ToC -->
-                    {headings.length > 0 && (
+                    {allHeadings.length > 0 && (
                             <div class="lg:hidden sticky top-0 z-[60] bg-white/90 dark:bg-gray-900/90 backdrop-blur border-b border-gray-200 dark:border-gray-800 mb-6 px-4 py-3">
                                 <div class="relative inline-block">
                                     <button
@@ -168,50 +271,39 @@ const { Content, headings } = await render(document);
                                             id="tocDropdownMenu"
                                             class="absolute z-[70] mt-2 w-72 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black/10 dark:ring-white/10 hidden max-h-80 overflow-auto"
                                     >
-                                        <ul class="py-1 text-sm text-gray-700 dark:text-gray-200">
-                                            {headings.map((h) => (
-                                                    <li>
-                                                        <a href={`#${h.slug}`}
-                                                           class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700"
-                                                           onclick="document.getElementById('tocDropdownMenu')?.classList.add('hidden')">
-                                                            {h.text}
-                                                        </a>
-                                                    </li>
-                                            ))}
-                                        </ul>
+                                        <ul id="toc-mobile" class="py-1 text-sm text-gray-700 dark:text-gray-200"></ul>
                                     </div>
                                 </div>
                             </div>
                     )}
 
-
                     <!-- Drawer behavior -->
                     <script is:inline>
                         const dlg = document.getElementById('metaDrawer');
+
                         if (dlg) {
-                            // Close when clicking the backdrop
-                            dlg.addEventListener('click', (e) => {
-                                const rect = dlg.querySelector('div')?.getBoundingClientRect();
-                                if (!rect) return;
-                                // click outside the sheet container
-                                const x = e.clientX, y = e.clientY;
-                                if (x < rect.left || x > rect.right || y < rect.top || y > rect.bottom) dlg.close();
+                            dlg.addEventListener('close', () => {
+                                dlg.returnValue = ''; // optional, mostly used in form-mode dialogs
+                                document.body.classList.remove('overflow-hidden');
+                                document.documentElement.classList.remove('overflow-hidden');
                             });
-                            // Close on ESC is native to <dialog>; ensure body scroll lock feels right
-                            dlg.addEventListener('close', () => document.documentElement.classList.remove('overflow-hidden'));
-                            dlg.addEventListener('close', () => dlg.returnValue = '');
-                            dlg.addEventListener('cancel', () => {});
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('show', () => {});
-                            // Lock body scroll while open
-                            dlg.addEventListener('close', () => document.body.classList.remove('overflow-hidden'));
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('cancel', () => {});
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('close', () => {});
-                            dlg.addEventListener('close', () => {});
+
+                            dlg.addEventListener('cancel', (e) => {
+                                e.preventDefault(); // prevent ESC from closing it unless you want it
+                                dlg.close();
+                            });
+
+                            // Optional: lock scroll on open
+                            dlg.addEventListener('show', () => {
+                                document.body.classList.add('overflow-hidden');
+                                document.documentElement.classList.add('overflow-hidden');
+                            });
+
+                            // Or alternatively, if you open via JS
+                            dlg.addEventListener('open', () => {
+                                document.body.classList.add('overflow-hidden');
+                                document.documentElement.classList.add('overflow-hidden');
+                            });
                         }
                     </script>
 
@@ -221,6 +313,7 @@ const { Content, headings } = await render(document);
                             to   { transform: translateY(0);    opacity: 1 }
                         }
                     </style>
+                    <!-- Citation Export and Clipboard -->
 
                     <article class="prose dark:prose-invert max-w-none
                 prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
@@ -233,25 +326,20 @@ const { Content, headings } = await render(document);
                 </div>
 
                 <!-- Right-hand ToC (desktop) -->
-                {headings.length > 0 && (
+                {allHeadings.length > 0 && (
                         <aside class="hidden lg:block sticky top-28 justify-self-end w-[320px]">
                             <nav class="space-y-2 bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
                                 <h2 class="text-base font-semibold mb-2 text-gray-900 dark:text-gray-100">On this page</h2>
-                                <ul class="space-y-1">
-                                    {headings.map((heading) => (
-                                            <li>
-                                                <a href={`#${heading.slug}`}
-                                                   class="hover:underline text-gray-800 dark:text-gray-200 hover:text-indigo-700 dark:hover:text-indigo-300">
-                                                    {heading.text}
-                                                </a>
-                                            </li>
-                                    ))}
-                                </ul>
+                                <ul id="toc-desktop" class="space-y-1"></ul>
                             </nav>
                         </aside>
                 )}
+
             </div>
         </div>
+
+
+
         <button
                 id="back-to-top"
                 class="fixed bottom-5 right-5 z-[80] rounded-full p-3 shadow-lg
@@ -266,7 +354,26 @@ const { Content, headings } = await render(document);
         </button>
     </section>
 
-</Layout><script is:inline>
+</Layout>
+<script is:inline>
+    document.querySelectorAll('article h1, article h2, article h3').forEach((heading) => {
+        if (!heading.id) {
+            heading.id = heading.textContent
+                .toLowerCase()
+                .trim()
+                .replace(/[^a-z0-9\s-]/g, '')
+                .replace(/\s+/g, '-');
+        }
+
+        const anchor = document.createElement('a');
+        anchor.href = `#${heading.id}`;
+        anchor.className = 'text-indigo-500 hover:underline ml-2 opacity-0 group-hover:opacity-100';
+        anchor.textContent = '#';
+
+        heading.classList.add('group', 'scroll-mt-24');
+        heading.appendChild(anchor);
+    });
+
     (() => {
         const btn = document.getElementById('back-to-top');
         if (!btn) return;
@@ -286,7 +393,82 @@ const { Content, headings } = await render(document);
 
         window.addEventListener('scroll', onScroll, { passive: true });
         btn.addEventListener('click', toTop);
-        // run once on load
         onScroll();
     })();
+
+// Slugify helper
+const slugify = (s) =>
+(s || "")
+.toString()
+.normalize("NFKD")
+.replace(/[\u0300-\u036f]/g, "")
+.toLowerCase()
+.replace(/[^a-z0-9\s-]/g, "")
+.trim()
+.replace(/\s+/g, "-");
+
+// 1) Ensure article headings have stable IDs (captures raw HTML <h1> too)
+const headingNodes = document.querySelectorAll('article h1, article h2, article h3');
+headingNodes.forEach((h) => {
+    if (!h.id || !h.id.trim()) h.id = slugify(h.textContent);
+
+    // add tiny hash anchor
+    if (!h.querySelector('a[data-hash]')) {
+    const a = document.createElement('a');
+    a.href = `#${h.id}`;
+    a.dataset.hash = 'true';
+    a.className = 'text-indigo-500 hover:underline ml-2 opacity-0 group-hover:opacity-100';
+    a.textContent = '#';
+    h.classList.add('group', 'scroll-mt-24');
+    h.appendChild(a);
+    }
+    });
+
+// 2) Collect DOM headings (with their IDs and text)
+const domHeadings = Array.from(headingNodes).map((h) => ({
+    slug: h.id,
+    text: h.textContent.replace(/#+$/,'').trim(),
+    depth: Number(h.tagName.substring(1)) || 2,
+    }));
+
+// 3) Add your three “extra” sections (these exist in the body via ids)
+const extras = [];
+if (document.getElementById('description')) {
+    extras.push({ slug: 'description', text: 'Description', depth: 2 });
+    }
+if (document.getElementById('original-language-body')) {
+    extras.push({ slug: 'original-language-body', text: 'Original Language Body', depth: 2 });
+    }
+if (document.getElementById('primary-source')) {
+    extras.push({ slug: 'primary-source', text: 'Primary Source', depth: 2 });
+    }
+
+// 4) Merge and (optionally) de-duplicate by slug (keep first occurrence)
+const seen = new Set();
+const all = [...extras, ...domHeadings].filter(({ slug }) => {
+    if (seen.has(slug)) return false;
+    seen.add(slug);
+    return true;
+    });
+
+// 5) Render ToCs
+const renderList = (ul, items, variant) => {
+    if (!ul) return;
+    ul.innerHTML = "";
+    items.forEach(({ slug, text }) => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `#${slug}`;
+        a.textContent = text;
+        a.className =
+            variant === "mobile"
+                ? "block px-4 py-2 hover:underline"
+                : "hover:underline text-gray-800 dark:text-gray-200 hover:text-indigo-700 dark:hover:text-indigo-300";
+        li.appendChild(a);
+        ul.appendChild(li);
+        });
+    };
+
+renderList(document.getElementById("toc-mobile"), all, "mobile");
+renderList(document.getElementById("toc-desktop"), all, "desktop");
 </script>
