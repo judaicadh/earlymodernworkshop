@@ -11,6 +11,7 @@ bibliography:
     institution: "Breslau "
     year: "1900"
     pages: 288-317
+  - {}
 original_language_body: >-
   <h2 style="text-align: right"><strong>מנהג הנישואין</strong></h2>
 
@@ -332,6 +333,27 @@ original_language_body: >-
   style="text-align: right">למנחה אומרים צו"ץ.</p><p style="text-align:
   right">בשבת שאחרי הנשואין של בריילפט, קורין לחתן לשלישי, ועושין לו ב' מי שברך,
   כמנהג כל חתן בשענ"ק וויין ככל חתן, כדלעיל בסימן רל"ד.&nbsp;&nbsp;</p>
+
+
+  <p style="text-align: right">Selected Bibliography</p>
+
+
+  <p style="text-align: justify">Abraham Epstein, “Die Wormser Minhagbücher”,
+  <em>Gedenkbuch zur Erinnerung an David Kaufman</em>, Breslau 1900,
+  288-317</p><p style="text-align: justify">Steven Ozment, <em>When Fathers
+  Ruled. Family Life in Reformation Europe</em>, (Cambridge 1985).</p><p
+  style="text-align: justify">Lyndal Roper, “Going to Church and Street.
+  Weddings in Reformation Augsburg”, <em>Past and Present</em> 106, (1985),
+  62-101.</p><p style="text-align: justify">Eadem, <em>The Holy Household: Women
+  and Morals in Reformation Augsburg</em>. (Oxford, 1989).</p>
+
+
+  <p style="text-align: justify">שלמה איידלברג, "ר' יפתח יוסף יוזפא הלוי מנצפך
+  מוורמיישא. שמש, נאמן הקהל ורושם רשומות", PAAJR 51 (1984), 22-1.</p><p
+  style="text-align: justify">אברהם מאיר הברמן, "מנהגי הקהילה בוורמייזא מתוך ספר
+  המנהגים של ר' יוזפא שמש", סיני עט (תשל"ו), רמז-רסח.</p><p style="text-align:
+  justify">יצחק זימר, "מנהגי נישואין בוורמייזא. מתוך ספר המנהגים של ר' יוזפא
+  שמש", סיני פו, (תש"ם), יד-נד.</p>
 
 
   * * *
