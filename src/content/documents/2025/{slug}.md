@@ -16,8 +16,8 @@ original_language_body: >-
   <h2 style="text-align: center">Source 1 Original</h2>
 
 
-  _Shulḥan \`aruk_, Yoreh de\`ah 39.10–13, with Rabbi Moses Isserles’s Gloss to
-  section 13.
+  **_Shulḥan \`aruk_, Yoreh de\`ah 39.10–13, with Rabbi Moses Isserles’s Gloss
+  to section 13.**
 
 
   <p style="text-align: right"><strong>שולחן ערוך יורה דעה הלכות טריפות סימן לט
@@ -44,6 +44,28 @@ original_language_body: >-
   בהפסד מרובה. עוד נהגו בעירנו להטריף כל סרכות גדיים וטלאים ועגלים הרכים, ולא
   למעך בהם כלל, כי יש קבלה בזה להטריף כי הסרכא עדיין רכה ומתנתקת על ידי
   מיעוך.</p>
+
+
+  **Comment of Rabbi Shabbetay ben Me’ir Ha-Kohen to Isserles’s gloss on
+  _Shulḥan \`aruk_, Yoreh de\`ah 39.13 (note 33).**
+
+
+  <p style="text-align: right"><strong>ש"ך יורה דעה סימן לט ס"ק
+  לג</strong></p><p style="text-align: right">(לג) ויש מתירין כו'. וז"ל מהרש"ל
+  פא"ט סימן כ"ה והמנהג בכל אשכנז למעך הסרכות באצבעות אף שהרשב"א כתב שבזה לא
+  שמענו מחכמים בשום מקום וכל הנוהג כן כאילו מאכיל טריפות לישראל, כך הוא לפי דעתו
+  אבל לא שמעתי אינו ראיה ודברי מתירין אני אומר עליהם ברוך שבחר בהם ובדבריהם כי
+  מושג בשכל וחוש שכך היא כו' וכן מאחר שכתב הרא"ש שנוהגין בכל ארץ אשכנז דכל סירכא
+  שהיא ניתקת כשהטבח מכניס ידו בנחת לבדוק הריאה אמרי' דלאו סירכא היא אלא ריר
+  בעלמא שנתפשט מלחות הריאה וכשרה והסירכא אם ימעך אדם אותה כל היום בין אצבעותיו
+  היא מתחזקת עכ"ל אלמא שאם מנתק בכך שהיא כשרה אכן שמעתי שמקצת קהלות שאינם בני
+  תורה לוקחים סמרטוט עבה וממעכים בה בודאי אנשים כאלו מאכילים טריפות לישראל להדיא
+  וראוי להזהיר הטבחים שלא ימעכו כ"כ בחזקה אלא לגלגל בין האצבעות וקצת בדרך
+  )המיעוט( [המיעוך] עכ"ל מהרש"ל וכדברי הרא"ש כתב ג"כ רבינו ירוחם וז"ל וכמו כן
+  המתפרקים בהכנסת יד הטבח אינן סרכות אלא לחות הריאה וכן נהגו באשכנז וברוב
+  המקומות כו' ובודאי כן היא כי כל סרכא שניתקת כשמכניס הטבח ידו בנחת ריר הוא
+  ומלחות הריאה הוא וכשרה כי הסרכא אם יפרוק אותה כל היום באצבעותיו הרי היא יותר
+  הולכת ומתחזקת עכ"ל ועוד הביא בב"י פוסקים המקילים בזה ע"ש:</p>
 ---
 <h2 style="text-align: center">Source 1 Introduction</h2>
 
@@ -79,5 +101,4 @@ Some allow one to mash and dissolve adhesions, and they say that if one tries to
 
 **Comment of Rabbi Shabbetay ben Me’ir Ha-Kohen to Isserles’s gloss on _Shulḥan \`aruk_, Yoreh de\`ah 39.13 (note 33).**
 
-  
 And this is the language of Rabbi Solomon Luria (Maharshal) in tractate _Hullin_, chapter 3, section 25 \[of Luria’s _Yam shel Shelomoh_\]: “And the custom in all of Ashkenaz is to rub adhesions with one’s fingers, even though Rabbi Solomon ibn Aderet wrote that we have never heard about this from scholars anywhere, and anyone who does this, it is as if he has fed _tereyfot_ to Israel. So it is according to his opinion. However, not hearing is not proof! As for the words of those who allow this, I say regarding them, Blessed be He who chose them and their words! For it makes both rational and physiological sense that this is so! And since Rabbi Asher ben Yehi’el wrote that they are accustomed in all the land of Ashkenaz that all adhesions that detach when the butcher gently inserts his hand to examine the lungs, we say this is not an adhesion but rather a discharge that has spread due to fluid in the lungs, and it is kosher. And an adhesion will get harder if one rubs it between their fingers for a whole day. Until here are his \[Asher ben Yehi’el’s\] words. Therefore, if it detaches, it is proof that it is kosher. However, I have heard that in a few communities that are not meticulous in their observance (_beney Torah_), they take a thick, wet cloth and rub it \[i.e., the adhesion\]. People like these certainly feed Israel _tereyfot_. And it is appropriate to warn the examiners \[lit., “butchers”\] that they should not rub so hard but rather roll it between their fingers in a gentle way.” Until here is the language of Luria. And Rabbeynu Yeruham also wrote as Rabbi Asher did, and this is his language: “and similarly, those \[adhesions that\] dissolve when the butcher inserts his hand are not adhesions but rather fluids from the lung. And so they are accustomed to doing in Ashkenaz and most places, etc. And this is indeed so, for every adhesion which detaches when the butcher gently inserts his hand is a discharge of fluids in the lungs. It is kosher for an adhesion, if one tries to detach it with one's fingers for an entire day, will become harder and harder.” Until here are his \[Rabbeynu Yeruham’s words\]. And in \[Joseph Caro’s\] _Beyt Yosef,_ other lenient authorities are cited. See there.
