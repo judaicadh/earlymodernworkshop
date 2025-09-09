@@ -9,4 +9,8 @@ slug: wine-kabbalists-safed
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Cultures of Food
+language:
+  - Hebrew
+publication_location:
+  - Safed
 ---
