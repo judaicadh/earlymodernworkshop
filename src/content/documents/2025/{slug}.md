@@ -27,4 +27,18 @@ Edward Fram, _The Codification of Jewish Law on the Cusp of Modernity_. Cambridg
 
 Haym Soloveitchik, “Religious Law and Change: The Medieval Ashkenazic Example.” _AJS Review_ 12.2 (1987): 205–221. doi:10.1017/S0364009400002014 (An updated version of the article appears in H. Soloveitchik, _Collected Essays._ Vol. 1. Oxford: Littman, 2013, pp. 239–257. Also see there, “‘Religious Law and Change’ Revisited,” pp. 258–277.
 
-<p style="text-align: center">Source 1 Translation</p>
+<h2 style="text-align: center">Source 1 Translation</h2>
+
+**_Shulḥan \`aruk_, Yoreh de\`ah 39.10–13, with Rabbi Moses Isserles’s Gloss to section 13.**
+
+10\. Whenever the rabbis prohibited adhesions on the lungs, there is no difference whether the adhesion is the width of a hair or is as thick, solid, and wide as a thumb. And unlike those who mash it in their hands and are lenient if it dissolves. And anyone who does this is as if he feeds forbidden food (_tereyfot_) to other Jews.
+
+11\. Some have written that one may place one’s finger under the adhesion and raise it slightly. If it breaks off because of being raised, it must be an adhesion that is less than a day old, and the animal is kosher. And one should only be lenient in this way if the animal belongs to a Jew, and we do not rely on this allowance unless the examiner is trustworthy and is truly God fearing.  
+
+12\. It is good to give the animal water to drink close to the time of ritual slaughter.
+
+13\. There is an opinion that the examiner should put their hand into the animal quickly without any slack in the hand. If any adhesion breaks off when the examiner places his hand in the animal, he must extract the lungs and examine them. If it is (a prohibited) adhesion, he will find the head of it in the lung or the walls of the lung; if not, it is simply a discharge, and the animal is permitted. And one should only be lenient in this if the animal belongs to a Jew, and we do not rely on this allowance unless the examiner is trustworthy and is truly God fearing 
+
+**Isserles’s gloss to 39.13.**
+
+Some allow one to mash and dissolve adhesions, and they say that if one tries to dissolve an adhesion for an entire day, a real adhesion will not separate from the lung. Therefore, whenever an adhesion dissolves, we are lenient and say it was not an adhesion but only a discharge. And even though this is a great lenience, all the people of these regions are already accustomed to doing so, and one should not prevent them from doing so because they have whom to rely on. However, the examiner must be a God-fearing person who knows how to rub an adhesion carefully and not detach it through force. And there are places where they are not accustomed to handling and rubbing adhesions of the rose \[i.e., the intermediate lobe of the right lung\] if it has attached to other areas, and any area it may have spread to render it a _tereyfah_. And there are locales where they are lenient regarding this, too. And it seems to me \[i.e., Isserles\] that the first opinion is correct. One should not rub an adhesion in the rose or any irregular adhesions, since the Talmud mentions that irregular adhesions render an animal a _tereyfah_, and no one disagrees with this; therefore, one should not rely on the opinion of those who are lenient regarding handling and rubbing. However, the custom in our town \[i.e., Krakow\] is to handle and rub all adhesions. And there is no difference between adhesions. And it is appropriate to follow what I have written unless it is a case of significant loss. In addition, in our town, it is the custom to declare all adhesions in kids, lambs, and calves as rendering the animal a _tereyfah_, and not to rub them at all, for there is a tradition to prohibit them because the adhesion is still soft and breaks off with rubbing.
