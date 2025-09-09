@@ -43,7 +43,7 @@ original_language_body: >-
   ולמעך בכל הסרכות, ואין חילוק בין סרכא לסרכא; ונכון לחוש למה שכתבתי, אם לא
   בהפסד מרובה. עוד נהגו בעירנו להטריף כל סרכות גדיים וטלאים ועגלים הרכים, ולא
   למעך בהם כלל, כי יש קבלה בזה להטריף כי הסרכא עדיין רכה ומתנתקת על ידי
-  מיעוך.</p>
+  מיעוך.</p><h2 style="text-align: center">Source 2 Original</h2>
 
 
   **Comment of Rabbi Shabbetay ben Me’ir Ha-Kohen to Isserles’s gloss on
