@@ -36,7 +36,7 @@ description: >-
       
   *   Letter from Lazarus of Surbourg to the magistrates of Hagenau
 ---
-<h2 style="text-align: center">Source 1 Introduction</h2><p style="text-align: center"><strong>Introduction to the 1530 Decree banning Jewish commerce in Strassburg</strong></p><p style="text-align: center"><strong>MS. III/174/20/82</strong></p>
+<h2 style="text-align: center">Introduction</h2><p style="text-align: center"><strong>Introduction to the 1530 Decree banning Jewish commerce in Strassburg</strong></p><p style="text-align: center"><strong>MS. III/174/20/82</strong></p>
 
 From 1348/9-1477, the Jews of Alsace were expelled from the cities in which they had lived throughout the Middle Ages. While many opted to leave the Empire for centers in Eastern Europe and Italy, some Jews remained, moving to the towns and villages in the countryside. By the 1470's, the majority of Alsatian Jews lived in rural areas. Quotas often dictated residential policies in towns and villages, so it was not uncommon to find one or two Jewish families per village/town.
 
@@ -60,7 +60,7 @@ Hereupon, we order all of our dukes, counts, bailiffs and courts, that they earn
 
 Decreed Wednesday, 16 March 1530.
 
-<h2 style="text-align: center">Source 2 Introduction</h2><h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Letter from Josel of Rosheim to the magistrates of Strasbourg</strong></p><p style="text-align: center"><strong>MS. III/174/38/9</strong></p><p style="text-align: center"><strong>Josel of Rosheim, 1534</strong></p>
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Letter from Josel of Rosheim to the magistrates of Strasbourg</strong></p><p style="text-align: center"><strong>MS. III/174/38/9</strong></p><p style="text-align: center"><strong>Josel of Rosheim, 1534</strong></p>
 
 Noble, strong, honorable, respectable, cautious, wise and honored sirs, Your Honors: I bring here for myself and those related to me, subserviently, requesting: Until now, Your Honors, out of mercy to us poor Jews in all many worrisome \[instances\] and dangerous perils of war, protected us from \[troop\] movement, near to you here in the commendable city of Strasbourg, or \[during\] other violent things, \[we\] were not offended \[hurt?\] -- so we say at all times, and still today, Your Honors, high praise and thanks. Honorable Sirs, in the meantime, now and at the moment, there is a great damaging march, and a swift course in the German nation. Therefore, we, the poor, at all times, in all ways, us -- more than others -- must prepare and provide. So it is to Your Honors, our subservient request and application, that once again you will wish to stop us (which should be for God) from the perils, with leniency and honorable thought, and permit us to stay, with our wives and children, goods and possessions, all in the aforementioned commendable city of Strasbourg, until the point when the movements and war courses will stay in quiet and peace. It is not through our willfulness, or that in other ways \[we\] want to be injurious or powerful, \[but\] we want this so much in our poor abilities, all subserviently towards the commendable city Strasbourg and those who belong to it, subserviently earned and responsible,
 
@@ -68,7 +68,7 @@ Your Honors,
 Subserviently  
 Josel the Jew of Rosheim the leader of the Jewish community
 
-<h2 style="text-align: center">Source 3 Introduction</h2><h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center"><strong>Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</strong></p><p style="text-align: center"><strong>Draft of a commerce contract-MS. III/174/21</strong></p><p style="text-align: center"><strong>Josel of Rosheim, ca 1534</strong></p>
+<h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center"><strong>Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</strong></p><p style="text-align: center"><strong>Draft of a commerce contract-MS. III/174/21</strong></p><p style="text-align: center"><strong>Josel of Rosheim, ca 1534</strong></p>
 
 I, Josel the Jew of Rosheim and the Jewish community of the province of Hagenau in Lower Alsace profess together and as individuals, for ourselves, our heirs, and descendants, in the aforementioned Province and \[we\] declare in this letter:
 
@@ -102,7 +102,7 @@ Josel of Rosheim, Commander of the Jewish community .
 \[8\] Specifically, stolen goods were brought to Jews and used as pawns for a loan.  
 \[9\] Similar promises are recorded in III/174/21/ 98-101 and in Archives Départementales du Bas Rhin, C78.
 
-<h2 style="text-align: center">Source 4 Introduction</h2><h2 style="text-align: center">Source 4 Translation</h2><p style="text-align: center">Letter from Lazarus of Surbourg to the magistrates of Hagenau</p><p style="text-align: center">MS. GG 65</p><p style="text-align: center">Lazarus of Surbourg, 1575</p>
+<h2 style="text-align: center">Source 4 Translation</h2><p style="text-align: center">Letter from Lazarus of Surbourg to the magistrates of Hagenau</p><p style="text-align: center">MS. GG 65</p><p style="text-align: center">Lazarus of Surbourg, 1575</p>
 
 I, Lazarus the Jew, resident of Surbourg, and with me, the Jewish community of the province of Hagenau, of which I am the advocate, commander and _Parnass_, profess and make known with the present letter, for us, our heirs, our descendants, \[including\] that which we are now, or in the future, that which we and other Jews will want. After the honorable princes, the learned, honorable, respectable, careful and wise sirs, the mayor and council of the Holy Roman Imperial City Hagenau, our favorable and good sirs, we, the Jewish community living in the province of Hagenau (for which reasons, I, Lazarus as the _Parnass_ and salary holder, appeared and came before the honorable council, on the undersigned date.)
 
