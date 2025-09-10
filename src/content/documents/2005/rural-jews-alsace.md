@@ -153,4 +153,6 @@ Ich Lazarus Jud, wohnhaft zu Surbourg, und mit mir gemeine Judigkeit der Landvog
 
 Weil wir uns gemeiner Insigels nüt gebracuhen, haben wir surch ermelten unsern Parnos, mich Lazarus Jud, mit sonderm Fliess gebeten und erbeten den erbaren Simeon Bissingen Kesierlich Notarien procuratoren und Burgern zu Hagenau, das er für uns und undere Erben und Nachkommen sein eigenes Insiegel hinfür an diesen Brief hat thun henken, Und ich Lazarus Jud in namen mein selbs und gemeine Judigkeit mich hiefür unterschrieben, welcher ich bennanter Bissingen und sondern der Juden bitt willen (soch in allweg mir und meine Erben ohne Shaden) bekenne getan haben.
 
-Actum und besehen Montag den 7sten Septembris in Jahre 1575 _Underneath: Ich Eliezer b"r Yuda z"l_ in Hebrew letters **Archive:** Archives de Hagenau, MS. GG 65.
+Actum und besehen Montag den 7sten Septembris in Jahre 1575 _Underneath: Ich Eliezer b"r Yuda z"l_ in Hebrew letters
+
+**Archive:** Archives de Hagenau, MS. GG 65.
