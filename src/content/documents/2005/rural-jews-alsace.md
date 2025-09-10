@@ -68,7 +68,7 @@ Your Honors,
 Subserviently  
 Josel the Jew of Rosheim the leader of the Jewish community
 
-<h2 style="text-align: center">Source 3 Introduction</h2><h2 style="text-align: center">Source 3Translation</h2><p style="text-align: center">Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</p><p style="text-align: center">Draft of a commerce contract-MS. III/174/21</p><p style="text-align: center">Josel of Rosheim, ca 1534</p>
+<h2 style="text-align: center">Source 3 Introduction</h2><h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center"><strong>Letter from Josel of Rosheim to the magistrates of the city of Strasbourg</strong></p><p style="text-align: center"><strong>Draft of a commerce contract-MS. III/174/21</strong></p><p style="text-align: center"><strong>Josel of Rosheim, ca 1534</strong></p>
 
 I, Josel the Jew of Rosheim and the Jewish community of the province of Hagenau in Lower Alsace profess together and as individuals, for ourselves, our heirs, and descendants, in the aforementioned Province and \[we\] declare in this letter:
 
