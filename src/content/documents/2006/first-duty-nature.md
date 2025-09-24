@@ -9,6 +9,10 @@ slug: first-duty-nature
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Gender, Family, and Social Structures
+language:
+  - Italian
+publication_location:
+  - Trieste
 description: "The presentation discusses a letter from Relle \\[Rachele\\]
   Morschene (1770-1844) of Trieste to Chief Rabbi Raffael Natan Tedesco, written
   in the throes of her three-year long effort to extricate herself from her
