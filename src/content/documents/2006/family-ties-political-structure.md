@@ -138,7 +138,7 @@ original_language_body: >-
   **Archive:** Archivio di Stato Livorno Governatore ed Auditore 2602 c. 591.
   Copy with minor variations in Pinkas Pisa, c. 54v–55v.
 ---
-<h2 style="text-align: center">Introduction</h2><h2 style="text-align: center">Introduction to Communal Decision of June 8, 1606</h2>
+<h2 style="text-align: center">Introduction to Communal Decision of June 8, 1606</h2>
 
 **Notes:** In a petition to the Grand Duke from the end of June 1599, the Massari had already requested and received confirmation of their right to refuse entry into the community. One of the “problem groups” they mentioned were those who joined for tax benefits, engaged in commerce, and then left without bringing their families and settling permanently.
 
