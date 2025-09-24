@@ -99,7 +99,7 @@ original_language_body: >-
   Francesco Saverio Lovisoni, Atti processuali 1793 no. 38, fasc. Relle Luzzatto
   Morschene contro Lucio Luzzatto, ff. 91r-92r.
 ---
-<h2 style="text-align: center">Introduction to a Letter from Relle Luzzatto Morschene to Chief Rabbi Raffael Natan Tedesco of Trieste</h2>
+<h2 style="text-align: center">Introduction</h2><p style="text-align: center"><strong>Letter from Relle Luzzatto Morschene to Chief Rabbi Raffael Natan Tedesco of Trieste</strong></p>
 
 **Notes:** A letter from Relle Luzzatto Morschene to Chief Rabbi Raffael Natan Tedesco of Trieste, Jan. 24, 1794.
 
