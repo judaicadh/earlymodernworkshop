@@ -14,9 +14,12 @@ publication_location:
   - Pisa
 text_location:
   - Livorno
-description: In his presentation of two documents pertaining to Jews in Pisa and
-  Livorno, Bernard Cooperman discusses the link between family connections and
-  the construction of a new formal Jewish community and explores the connection
+resource_link:
+  - https://www.youtube.com/watch?v=YWUZZL3MMlU
+description: >-
+  In his presentation of two documents pertaining to Jews in Pisa and Livorno,
+  Bernard Cooperman discusses the link between family connections and the
+  construction of a new formal Jewish community and explores the connection
   between family and business networks. Cooperman argues here that new
   communities in early modern Italy were often structured as merchant companies,
   and it was a family that was a base of trade networks. Family also became a
@@ -26,4 +29,12 @@ description: In his presentation of two documents pertaining to Jews in Pisa and
   Jews, role of women in the community and in wealth distribution. A larger
   overarching argument is that it was in the early modern period that the Jewish
   community was able to create formal structures.
+
+
+  ### This presentation is for the following text(s):
+
+
+  *   Communal Decision of June 8, 1606 in Pisa
+      
+  *   Petition of Jewish Merchants of Pisa to Grand Duke of Tuscany, Cosimo II
 ---
