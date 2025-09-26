@@ -5,4 +5,10 @@ institution: University of Maryland - College Park; Brandeis University
 volume: 4
 year: "2007"
 slug: estates-jewish-merchant-rabbi
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Jewish Consumption and Material Culture in the Early Modern Period
+language:
+  - Italian
+  - Latin
 ---
