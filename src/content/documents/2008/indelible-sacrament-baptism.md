@@ -76,16 +76,13 @@ Most Serene Doge, the denunciation given to the office of the Inquisition of the
 
 These documents have been published in Kaufmann, “Die Vetreibung der Marranen aus Venedig im Jahre 1550,” _Jewish Quarterly Review_, o.s., 13 (1900 1901): 525-530, partial English translation in Chambers and Pullan, _Venice: A Documentary History_, pp. 345-346.
 
-A  
-Senate legislation of 8 July1550
+<p style="text-align: center">A<br>Senate legislation of 8 July1550</p>
 
 Although on November 13, 1497 this Christian council wisely legislated that the Marranos, faithless people without religion and so hostile to God, be banished from our state and all association and contact with our subjects was taken away from them under grave penalties as contained in that law which is now read, nevertheless, it seems that notwithstanding that legislation, the number of these Marranos has increased both in this city and in our towns and places, so that it is necessary for the honor of the Divine Majesty and also for the benefit of our affairs to renew so useful and holy a provision in order that this infectious kind of people be kept away from our state. Therefore, confirming completely the said law of 1497, which is to be observed and carried out, it is to be proclaimed publicly in this city and outside it in each of our towns and places on land and sea that these Marranos are to depart from our state within two months without any excuse, under pain of confiscation of all their property and serving two years at the oars in chains. They may not return here in any way at any time, subject to the same penalty. Any noble, citizen or citizen or subject of ours who after that time will be found to have had or to have any business, relations or intelligence with any of the above-mentioned Marranos will immediately incur the same penalty, which is immediately to be carried out irremissibly, without any pardon, remission or compensation. And the implementation of the present legislation is to be entrusted to the magistracy of our Censors (except however always for the authority and prerogative of our Avogadori di Comun), who under oath and subject to penalty of five hundred ducats each irremissibly \[...\] And the same benefit is to be given to those who denounce to the Rectors outside our city those Marranos who, after the two months have expired, dare secretly or openly to dwell in our state or those who have any contact with them. This law is to be promulgated on the steps of San Marco and Rialto and sent to each of our Rectors on land and at sea, and even included in their commission and it cannot be suspended, revoked or altered or in any way interpreted, except by a motion introduced in this Council by all the ministers of our College with all in attendance and passed by a five-sixth majority with at least one hundred and fifty in attendance.
 
 In favor 146 Against 25 Abstain 24
 
-B
-
-Senate legislation of 22 August 1550
+<p style="text-align: center">B</p><p style="text-align: center">Senate legislation of 22 August 1550</p>
 
 _Under Venetian parliamentary procedure, for a motion to pass, the number of positive votes had to exceed the combined total of the negative votes and abstentions, and similarly for it to be rejected, the total of negative votes had to exceed the combined total of of positive votes and abstentions. In other words, a clear majority of positive or negatives votes was required, and if none resulted on the first ballot, the motion was voted upon again. If after a few more ballots no majority resulted, then the motion was left pending. Also, it was possible for a second or third "countermotion" to be simultaneously introduced, and for either to pass, a clear majority of positive votes was needed; otherwise, additional rounds of balloting would take place. In the following case, on the first ballot, the main motion received 79 positive votes, 11 negative votes and 14 abstentions, while the second received 97 positive votes; thus neither obtained the majority needed. The second ballot was no more decisive, 81-xx- 17-99. Thereupon, only the second motion, which had received more positive votes, was introduced, and it passed easily, 132-27-19_.
 
@@ -121,6 +118,41 @@ Humilissimo et devotissimo servitor fra’ Paulo di Venetia.
 **Archive:** Archivio dello Stato di Venezia, Consultore in iure, filza 22, cc. 384r-v
 
 ## Source 2 Original Text
+
+<p style="text-align: center"><strong>Espulsione dei Marrani da Venezia</strong></p><p style="text-align: center"><strong>The Expulsion of the Marranos From Venice</strong></p><p style="text-align: center"><strong>July-August, 1550</strong></p>
+
+These documents have been published in Kaufmann, “Die Vetreibung der Marranen aus Venedig im Jahre 1550,” _Jewish Quarterly Review_, o.s., 13 (1900 1901): 525-530, partial English translation in Chambers and Pullan, _Venice: A Documentary Histor_y, pp. 345-346.
+
+<p style="text-align: center">MDL Die viii Julii</p>
+
+Accorchè fino del 1497 a xii di novembre fosse per questo consiglio Christiana, et saviamente deliberatto, che i Marani, gente infidele, senza religione, et tanto inimical al Signor Dio, fossero scacciati dal stato nostro, et levato loro del tutto il consortio et conversatione de Cittadini et sudditi nostri, sotto grave pene come nel parte di quell tempo hora letta si contiene. Non di meno pare, che non ostante tal deliberatione, sia cresciuto in modo si in questa città come nelle Terre et luoghi nostri, il numero de detti marani, che è neccesario per honore della divina Maestà et anco per beneficio delle cose nostre renovare così utile et santa provisione di maniera che questa contagiosa sorte di homini sia tenuta lontana del stato nostro, però  
+L’anderà parte, che confirmando in omnibus la parte predetta del 1497, la qual sia osservata et esseguita, si debba publice proclamar, così in questa città come fuori in ciascuna delle terre et luoghi nostri, terrestri et maritime, che essi marani debbano fra termine de mesi doi partire, senza escusatione alcuna, dal stato nostro, sotto pena di confiscatione de tutti i loro beni et di servire doi anni al remo in cadenna. Ne possino sotto la medesima pena ritornarvi quovismodo in alcun tempo. Quelli veramente dei nobili, cittadini o sudditi nostri, che passato detto tempo fossero ritrovati, che havesseo otenessero comertio, pratica o intelligentia alcuna con alcuno delli marani sopradetti incorrino immediate nella intessa pena, la quale contra gli inobedienti sia immediate essequita irremissibilmente, senza che li possa esser fatta gratia, don, remission o recompenso alcuna. Et la essecutione della presente parte, salvo però l’auttorità et libertà delli Avogadori nostro di Commune sia commessa all’officio di Censori nostri, i quali sotto debito di sagramento et in pena de ducati cinquecento per uno \[...\] siano tenuti farla osservare inviolabilmente \[...\] et il medesimo beneficio consequir debbano li denoncianti alli Rettori de fuori, quei marani, che spirato il termine delli doi mesi ardissereo occulta o palesimente habitare nelle Terre nostre overo coloro che havessero alcuna intelligentia con essi. Ne se possi questa parte, da essere publicata sopra le scale di San Marco et Rialto et mandata a ciascuno delli Rettori nostri, così da Terra come da Mar, et etiam posta nelle loro Commissioni, suspendere, revocare, o alterar seu quoismodo interpretar salvo che per parte posta in questo consiglio per tutti i ordini del collegio nostro redotti insiene al numero perfetto, et prese con li cinque sesti, da 150 in su.
+
+Da parte 146  
+De non 25 Lecta Collegio v Julii 1550 Non synceri 24
+
+<p style="text-align: center">B</p><p style="text-align: center">MDL Die xxii Augusti</p>
+
+Fu preso in questo Consiglio a viii del mese passato, che li Marani devesseno fra termine de mesi doi partire del stato nostro et non ci tornar più, sotto pena di confiscatione de tutti li loro beni, et di servire doi anni in galea, et che all’istessa pena fusseno sottoposti quei nobili, cittadini o sudditi nostri che passato detto tempo fussero trovati haver comertio, pratica o intelligentia con alcuno d’essi Marani. Per il che comparsi alla presentia nostra alcuni Cittadini et mercadanti de chercio de Rialto d’ogni natione, ne hanno esposto attrovarsi in molta confusione per causa della sopradetta parte, come dalla scrittura hora letta si ha inteso, non sapendo quali siano o non siano Marani, dubitando ancora che sotto questa parte siano compresi tutti li marani che con loro negotiassero, se bene fusseno habitanti in terre aliene, et che per questa causa li venghino levati infiniti garbugli. Et però ne hanno ricercato di opportune rimidio, onde acciò che si venga in cognitione per la verità di quanto è sopradetto et che si possi dar’essecutione alla sopradetta parte de viii lugliuo passato, si che detti mercadanti siano liberati dal suspetto nel quale si attrovano, sapendo come governarsi nel negotiare,
+
+L’anderà parte, che sia commesso alli censori nostri, che fra termine de mesi sei, il qual termine non si possi prorogare per modo alcuno, debbino operar, che per li Inquisitori ordinarii sopra le heresia con la presente prò, et assistentia de loro censori sia fatta diligente inquisitione de quelli che sono nominati Marani, et giudicati che sarano per tali, si debba far quella esecutione contra di loro che alla giustitia parerà, dichiarando che li contratti fatti fin’ hora per quelli, che sono nominati marani con li Cittadini et mercadanti nostri siano siano validi et fermi. Quanto veramente alli mercadanti et altri sudditi che negotiasseno con quelli che sono noinati Marani che non habitano in questa città o nelle Terre del Dominio nostro, non si potendo saper se sono giudicati o non giudicati marani, ne havendoso havuto in considerationi altri che li habitanti in questa città et Dominio nostro, sia preso che questi non s’intendano essere sottoposti alla sopradetta deliberatione, come e ben conveniente. Ma volendo far le facende de detti Marani overo de altri forestieri, siano obligati pagare tutti li dacii et gravesse come pagano forestieri et come pagariano questi tali se fosseno in questa Città, sotto le pene contenute nelle leggi nostre.
+
+De parte + 79 81  
+De non 11 L. C. die 18 agosoto 1550 Non synceri 14 17
+
+Per la scrittura di mercadanti di cerchio di Rialto hora letta, questo consiglio ha inteso quello che hanno esposto et quello che rechiedono. Et essendo conveniente liberare essi mercadanti dal sospetto nel quale dicono trovarsi, acciòche possano continuare liberamente nei traffichi loro.
+
+L’anderà parte, che per auttorità di questo Consiglio sia dichiarito che li predetti mercadanti, nobili, cittadini et sudditi nostri, per i contratti fatti fin’hora et che facessero nell’avenire con li marani che al presente si trovano in questa città come etiam altri habitanti fuori del Dominio nostro, non siano sottoposti a pena alcuna, ma possano negotiare, contrattar, et haver corrispondentia insieme, et mandarsi l’una parte all’altra le robbe et mercantie loro, libera et sicurmente, ne più ne meno come potevano fare avanti la sopradetta parte di viii del mese passato, non essendo stata intentione della detta parte di prohibire a nostri i traffichi con i marani che sono et serano in terre et Dominii alieni, ma solamente di prohibire ad essi marani il venir ad habitare et annidarsi in questa città et nel nostro Dominio, secondo le sante deliberationi d’i sapientissimi et religiosissimi progenitori nostri.
+
+De scontro 97 99
+
+<p style="text-align: center">Die xxix augusti</p>
+
+Posita fuit iterum suprascripta pars, per ultrascriptos dominos sapientes, sine alio scontro et fuerunt
+
+Da parte + 132 De non 27 non sinceri 19
+
+**Publisher:** Kaufmann, “Die Vetreibung der Marranen aus Venedig im Jahre 1550,” Jewish Quarterly Review, o.s., 13 (1900–1901): 525-530
 
 ## Source 3 Original Text
 
