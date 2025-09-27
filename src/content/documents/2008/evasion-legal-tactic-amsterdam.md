@@ -28,10 +28,84 @@ description: "ABSTRACT: Early modern rulers (or ruling bodies) who chose to
   a rather meager document which constituted the legal basis for Jewish
   settlement in that city for nearly two centuries. This presentation is for the
   following text(s): The Regulations for the Jews of Amsterdam (1616)"
-original_language_body: '<h2 style="text-align: center">Source 1 Original</h2><p
-  style="text-align: center"><strong>The Regulations for the Jews of Amsterdam
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>The Regulations for the Jews of Amsterdam
   (1616)</strong></p><p style="text-align: center"><strong>Amsterdam Regulations
-  Concerning the Jews (1616)</strong></p>'
+  Concerning the Jews (1616)</strong></p>
+
+
+  Op huyden is by mijne Heeren van den Gerechte die van de Joodsche Natie in
+  competenten getale voor hare E. ontboden en verschenen sijnde aengeseyt/ Alsoo
+  klaerlick word bevonden/ dat eenige onder haer luyden seer groote ende
+  ongebonde licentie gebruycken in ‘t frequenteren en converseren met de vrouwen
+  ende dochteren van dese Landen: daer uyt niet alleen groote ergernissen onder
+  de Gemeente van dese Stad ende al-omme worden gecauseert/ maer oock geschapen
+  sijn andere schadelicke effecten ende inconvenienten te sullen ontstaen; dat
+  men over sulx niet van meeninge is ‘t selve langer te gedoogen ende te
+  passeren/ maer de fauten ende delicten al reede gepleegt te doen straffen naer
+  behooren. Ende ten eynde haer voor het toekomende beter mogen wachten ende
+  onthouden van soodanige en andere excessen/ strijdende jegens de goede policie
+  van dese Stad ende constitutie van der selver Christelicke Gemeente/ dat
+  syluyden ten over-vloet worden gewaerschout niet te spreken ofte schrijven/
+  oock sorge te dragen/ dat niet gesproken often geschreven worde, ‘t welcke
+  eenigsints soude mogen strecken tot versmadenisse van onse Christelicke
+  Religie; niet te poogen eenig Christen persoon van onse Christelicke Religie
+  af te trecken ofte te besnijden; met geene Christenen vrouwen ofte dochteren
+  in ofte buyten houwelick eenige vleeschelicke gemeenschap te hebben/ niet
+  tegenstaende oock de selve van oneerlick leven mochten wesen. En haer voorts
+  so onder den anderen als tegens de goede Gemeente deser Stad te gedragen in
+  alle modestie ende volgens de Placcaten van den Lande en particuliere Keuren
+  van desen Gerechte; oock voornamentlicken volgens sekere Resolutie haerluyden
+  op den 2 May 1612, bekent gemaeckt; mitsgaders alle die van hare Natie van
+  alle ‘t selve advertentie ende waerschouwinge te laten doen; alsoo de meeninge
+  is van mijne Heeren van den Gerechte jegens de contra-venteurs ende violateurs
+  van de Christelicke Religie en goed Policie binnen dese Stad ernstelick te
+  doen procederen ende in conformité van de Civile ende Beschreven Rechten/
+  mitsgaders publijcke Ordonnantien en Keuren over de selve soodanig Rechte en
+  Justitie te administreren/ als naer exigentie van saken bevinden sullen te
+  behooren; sonder dat eenige excusen van ignorantie sullen worden geadmitteert.
+  Sal mede die van de Joodsche Natie voortaen in ‘t doen van den eed (welcken
+  haer of by Sententie gedefereert ende op-geleyd/ of ten versoecke van eenige
+  partijen van de selve sal worden gevordert) het na-volgende Formulier
+  voor-gedragen/ ende den eed daer op af-genomen worden.
+
+
+  Eed.
+
+
+  Gy sweert by den Almagtigen ende Levendige God/ die Hemel ende Aerde geschapen
+  heeft/ ende door Mosem sijne Wetten gegeven/ oprecht ende waerachtig te wesen
+  ‘t gene u alhier gevraegt ende voor-gehouden word; en so gy in ‘t geheel ofte
+  deel iets valschelicke ofte t’onrechte verklaert/ dat gy u alle tijdelicke
+  ende eeuwige vermaledijdingen/ plagen en straffen onderwerpt/ welcke den God
+  Israels over die van Sodoma ende Gomorra/ oock Corah/ Dathan ende Abiram heeft
+  gesonden/ ende allen den soodanigen gedreygt/ die sijnen name valschelick ende
+  lichtvaerdelick aen-roepen en gebruycken. Soo waerlick helpe ofte straffe u
+  den Almagtigen en Al-wetenden God, Schepper des Hemels ende der Aerden.
+
+
+  Vos jurais a Dios todo poderoso y vivo, quien criò el Cielo y la Terra, y
+  dío sus Leyes por Moysen, ser justo y verdadero lo que aqui se vos pregunta y
+  propone; y si en todo ò en parte declarais alguna cosa falsa ó injustamente,
+  que Vos os condenais y someteis a todas las maldiciones, plagas y
+  castigaciones temporales y eternas, que el Dios d’Israël ha embiado a los de
+  Sodoma y Gomorra, y assi mismo a Corah, Dathan y Abiram, y ha menaçado a
+  todos los que invocan y usurpan sy nombre falsa y temeramente. _Que assy
+  verdaderamente os ayude ò castigue Dios todo poderoso y todo sabidor, Criador
+  del Cielo y de la Tierra_.
+
+
+  Ende dit alles by provisie tot dat by Resolutie van de Ed. Hg. Mo: Heeren
+  Staten van Holland ende West-vriesland/ ofte by mijne Heeren van den Gerechte
+  hier op nader ende speciaelder ordre sal wesen geraemt. Gearresteert by alle
+  de Burgermeesteren/ demptis Witsen ende Benninck/ ende alle de Schepenen/ den
+  8. Novembris Anno 1616. ende dien-volgende die van de Joodsche Natie
+  aen-geseyd/ om haer naer deser te reguleren/ den 17. der voorsz. maend.
+
+
+  **From: Hermanus Noordkerk, _Handvesten ofte Privilegien ende Octroyen...der
+  Stad Amstelredam_ (Amsterdam 1748).**
 ---
 <h2 style="text-align: center">Introduction</h2>
 
