@@ -39,9 +39,7 @@ description: >-
   a house of prayer, for which festivities commenced on Sabath Nahamu. . Year
   5435 \[=1675\].
 ---
-<h2 style="text-align: center">Introduction</h2><p style="text-align: center"><strong>Praises Which Zealous [Men] Dedicated to the Wonderful Memory of Abraham Nunez Bernal An Introduction</strong></p>
-
-Limor Mintz-Manor, The Hebrew University of Jerusalem, Israel
+<h2 style="text-align: center">Introduction</h2><p style="text-align: center"><strong>Praises Which Zealous [Men] Dedicated to the Wonderful Memory of Abraham Nunez Bernal</strong></p><p style="text-align: center"><strong>An Introduction</strong></p>
 
 The book _Praises that zealous \[men\] dedicated for the pleasant memory of Abraham Nunez Bernal, who was burned alive sanctifying the Name of his Creator in Cordova on May 3rd, 5415_ that was published in Amsterdam in approximately 1655, includes many poems in Spanish written by elite members of the Sephardic community in the city. The book was dedicated to the memory of two _Conversos_, relatives of a community member in Amsterdam, that were sentenced by the Spanish Inquisition and burned at the stake in Cordoba.
 
