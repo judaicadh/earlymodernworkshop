@@ -118,4 +118,86 @@ Another Elijah, who in the flame
 
 triumphantly went up to the sky.
 
-<h2 style="text-align: center">Source 2 Translation</h2><h2 style="text-align: center">Source 1 Original Text</h2><h2 style="text-align: center">Source 2 Original Text</h2>
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Sermons Which were Delivered by the Talented Gentlemen of the Kahal Kadosh [=holy congregation] Talmud Torah, in this city of Amsterdam, in the happy opening, and public celebration of the building that was dedicated to God, as a house of prayer, for which festivities commenced on Sabath Nahamu. . Year 5435 [=1675].<br>Sermoes que pregaraõ os Doctos Ingenios do K.K. de Talmud Torah, desta Cidade de Amsterdam, No alegre Estreamento, &amp; Publica celebridade da Fabrica que se consagrou a Deos, para Caza de Oraçaõ, , cuja entrada se festejou em Sabath Nahamú Anno 5435<br>1675</strong></p>
+
+Prologue for the Reader  
+\[...\] \[p.iii\] The entire prayer was accompanied by hymns and the most famous songs, and for the imitation of the inauguration of the sacred Temple, which lasted eight days of festivities, always with the same solemnity, each day accompanied by a sermon given by the most talented scholars of the congregation, which are offered to you here. Friend Reader, here you will see the fruit of our distinguished Nation\[1\], you will see the noble our Haham\[2\] as Master, giving beginning to elegance so conceptual and \[you will see\] his worthy disciples praying with elegance of concept. I attest to you, kind reader, that it \[=this celebration\] seems more like the days of Passover \[celebrated\] with liberty in the Temple than celebrations of captivity in a Esnoga \[=synagogue\]\[3\]. I beg you not to thank this work \[=book\], which is not mine, but I only desired to inform you about this good, because I regard you highly. And because you see the image of the Esnoga\[4\] without understanding its architecture, I want in sum to give you pleasure, by explaining to you its models.
+
+To portray for you, discreet reader, all the details that magnificently constitute it, would be impertinent to the report. I \[can\] only assure you that it is the most illuminative of the city, spacious and bright inside, perfect and striking from the outside, surrounded by a beautiful patio with galleries surrounding it like a wall. In it, is the residence of the nobles of the Mahamad\[5\], six rooms for the school, two for the Hazanim \[=Cantors\] and one for the guardian, all in the front. Beside are corridors with columns for passage which include the Esnoga's length : 130 feet, width 100 feet, (and) its height from the ground till the vault \[= vaulted ceiling\] \[is\] 70 feet. It has three doors, and an admirable view from the the main entrance, due to the three vaults that form the whole building. And these \[vaults\] at the sides are supported by walls, and these in the middle \[are supported\] by four pillars of stone. Each one has a gallery for the women to sit, which is supported by six columns in each part.
+
+Five trusses of magnificent chandeliers hang, (with their golden drawing on the vault) and in abundance, that they reach the number of 800 candles. There is a Theba \[=platform\] made from very expensive Jacaranda\[6\] wood, with its \[cover\] copper needlework, adorned with \[p.iv\] metal. In front of \[the platform's\] corridor \[that leads to\] the corners with the pillars, is a curious chair of the Mister, our Haham \[made of\] the same wood. Opposite the admirable Hehal \[=Holy Ark\], completely made of wood of the most curious Jacaranda, (gifted by the very noble Mister Mosseh Curiel, with so much generosity, that he received everyone's applause, almost naming the work after him) so gorgeous, that it competes in artifice with the best of the entire building, completely covered with such curious decoration, that it properly looks like a Palace, and surrounded by admirable columns, decorated with unusual \[plantlike\] embossment, and the gallantness of its columns. Imitating the stone's tablet, there is a wooden \[plate of\] the ten commandments, so grand and costly, that it is illuminating the Gallery opposite it, which is surrounding it. \[...\] David de Castro Tartaz.
+
+**Endnotes**
+
+\[1\]A term used by the western Sephardic Jews to signify the Iberian Jews together with the _Conversos_.  
+\[2\]A member of the rabbinical court.  
+\[3\]This term used not only as a synagogue in general, but frequently refers to the new synagogue of the community.
+
+\[4\]Four pages of this book contain eight etchings of the synagogue.  
+\[5\]The term refers to the governing body of a community in the western Sephardic diaspora.  
+\[6\]Brazilian wood.
+
+<h2 style="text-align: center">Source 1 Original Text</h2><p style="text-align: center"><strong>Elogios Que zelozos dedicaron A La Felice memorià de Abraham Nunez Bernal, Que fue quemado vivo santificando el Nombre de su Criador en Cordova a 3 de Mayo 5415</strong></p><p style="text-align: center"><strong>Praises Which Zealous [Men] Dedicated to the Wonderful Memory of Abraham Nunez Bernal, Who was Burned Alive Sanctifying the Name of his Creator in Cordova on May 3rd 5415 [=1655]</strong></p><p style="text-align: center"><strong>1655 ?</strong></p>
+
+\[p.40\]  
+Del Señor  
+DANIEL DE RIBERA  
+\[...\]  
+\[p.41\] Diosse allí por offendida
+
+La tiranía frustrada  
+Viendo que del polvo y nada
+
+Saca Abraham immortal vida;
+
+Y entre la llama crecida  
+Tanto apuró su verdad.  
+Que ya sin difficultad  
+(como oro limpio en Crizol)
+
+De terreno passó a Sol,  
+De Sol, á Divinidad.
+
+Mas que Mucho si glorioso
+
+Entró al certamen valiente,  
+Y del sacrificio ardiente,  
+Salió Phenix prodigioso;  
+Tan ufano y tan zeloso  
+Deseó de se abrasar.  
+Que en el se sacrificar
+
+Entre el incendio y desvelos
+
+Dió que notar que admirar. \[...\]
+
+\[p.49\]  
+Del Señor  
+SEMUEL DE CRASTO
+
+Aquí vive un ser divino,
+
+El zelo y la fortaleza,
+
+La constancia, y la firmeza,  
+Del celeste premio digno ;  
+El que por justo camino,  
+Como el fenix se abraso,  
+De a donde resucitó,  
+Dexando en el mundo fama,  
+Otro Elias, que en la llama  
+Triumphando al cielo subió.  
+**Archive:** Bibliotheca Rosenthaliana, University of Amsterdam. exemplar RON A-5479 (Ros. 19 G 53)
+
+<h2 style="text-align: center">Source 2 Original Text</h2><p style="text-align: center"><strong>Sermoes que pregaraõ os Doctos Ingenios do K.K. de Talmud Torah, desta Cidade de Amsterdam, No alegre Estreamento, &amp; Publica celebridade da Fabrica que se consagrou a Deos, para Caza de Oraçaõ, , cuja entrada se festejou em Sabath Nahamú Anno 5435</strong></p><p style="text-align: center"><strong>Sermons Which were Delivered by the Talented Gentlemen of the Kahal Kadosh [=holy congregation] Talmud Torah, in this city of Amsterdam, in the happy opening, and public celebration of the building that was dedicated to God, as a house of prayer, for which festivities commenced on Sabath Nahamu. . Year 5435 [=1675].<br>1675</strong></p>
+
+\[...\] \[p.iii\] Toda a oraçaõ acõpanharaõ hymnos, & Cantos mais celebres, & por imitar o Estreamento do Sagrado Templo, se tomou 8 dias de festividade, sempre com a mesma solemnidade acompanhado cada dia de hum Sermaõ, dos Ingenios mais doctos de Cõgrega, q ́ saõ estes q ́aqui te offereço, amigo Lector ahy verás o fruto de nossa Illustre Naçaõ, verás o Senhor nosso Haham como Mestre, dar principio a elegancia taõ conceptuoza, & seus Dignis Discipulos Orando conceptuozamenten elegantes: Certificote Benevolo lector q ́mais parecoaõ estes dias Pascuas com liberdades de Templo, q ́Festas de catividade em húa Esnoga, pessote me agradeças naõ o trabalho, q ́naõ soy meu, senaõ o dezejo de te communicar este bem, & por que te concidero aynda algo escrupulozo, por que vés a pintura da Esnoga, sem entender sua architectura, quero em todo darte o gosto, explicandote seus modelos.
+
+Pintarte discreto Lector, todas as particularidades, que a constituem Magnifica, seria impertinente a Relaçaõ, só te asseguro he do mais luzido da cidade, espacioza, & clara por dentro, perfeyta & vistoza por fora, circundada de hum fermozo Pateo com suas Galerias o modo de hum Muro que a arodea. neste está o apozento dos Senhores do Mahamad, seis Cazas dos Medrassim, duas para os Hazanim, & húa para o guardeaõ, tudo na dianteyra; Nos lados, corredores có Colunas para passear; Comprende a Esnoga de longo, 130. pees; De largo, 100. pees; De Altura, do chaõ athe a Abobeda, 70. pees; Tem tres portas, & da principal faz admiravel prespectiva, por que se notaõ tres
+
+Abobedas, de que se forma todo o Edificio, as quaes, as dos lados se sestentaõ nas paredes, & a do meyo, em quarto Pilares de pedra; De cada lado tem húa Galeria para assento das mulheres, que sustentaõ seis Colunas de cada parte.
+
+Pendem cinco andamios de magnificos Lampadarios, (com seus dibuxos dourados na Abobeda,) & em taõ boa cantidade, que fazem o numero de 800. luzes. Tem á Thebá de Pao de Jacarandá muy costozo, com seus lavores de Cobre, adornos de \[p.iv\] arame, seu corredor, & nos cantos com Pilares, em cuya dianteyra \[esta\] pegado do mesmo Pao o curiozo assento do Senhor nosso Haham; Defronte está o admiral Hehal, todo de Pao do mais curiozo de Jacarandá, (o qual prezentou o muy Nobre Senhor Mosseh Curiel, com tanta liberalidade, que em aplauzo de todos, foca quazi a obra em seu nome) taõ Sumptuozo, que compite seu artificio, com o melhor de toda Fabrica, todo forrado de taõ curiozo adorno, que propiamente parece Palacio, & arodeado de admiraveis Colunas, arameta com o bizaro de hum quadro, & o galhardo de suas Colunas, donde imitando as taboas de pedra, estáõ húas de pao com os déz Mandamentos, taõ grave & custozo, que enleva a adiante húa Galeria, que toda o arrodea. \[....\] David de Castro Tartaz.
+
+**Publisher:** David de Castro Tartaz, Amsterdam, The Netherlands, 1675  
+**Archive:** Bibliotheca Rosenthaliana, Amsterdam. exemplar ROG A-757 (Ros. 20 F 15)
