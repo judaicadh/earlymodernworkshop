@@ -9,7 +9,8 @@ event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: "Law: Continuity and Change in the Early Modern Period"
 language:
-  - Dutch, Spanish
+  - Dutch
+  - Spanish
 publication_location:
   - Amsterdam
 description: "ABSTRACT: Early modern rulers (or ruling bodies) who chose to
