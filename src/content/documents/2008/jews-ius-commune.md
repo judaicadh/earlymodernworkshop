@@ -176,7 +176,7 @@ Jews are deemed totally to lack powers of jurisdiction; . . . how much the more,
 
 **Text of 1603,** #1761, 2:859, possano . . . haver ricorso da loro rabini a quali si da ogni autorità necessaria per decidere tra loro, si in questo \[banking matters\] come in ogni altre cause loro, conforme alle loro leggi.
 
-<h2 style="text-align: center">Source 1 Original text</h2><h2 style="text-align: center"><strong>Tractatus de iudaeis</strong></h2><h2 style="text-align: center"><strong>Tract on the Jews</strong></h2><p style="text-align: center"><strong>1713</strong></p>
+<h2 style="text-align: center">Source 1 Original Text</h2><h2 style="text-align: center"><strong>Tractatus de iudaeis</strong></h2><h2 style="text-align: center"><strong>Tract on the Jews</strong></h2><p style="text-align: center"><strong>1713</strong></p>
 
 **_Tractatus de Iudaeis,_ Giuseppe Sessa**
 
