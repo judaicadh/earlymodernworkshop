@@ -25,6 +25,111 @@ description: >-
 
   This presentation is for the following text(s): Inquisition file of Lope de
   Vera y Alarcón
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Expediente inquisitorial incoado contra don Lope de Vera y
+  Alarcón<br>Inquisition file of Lope de Vera y
+  Alarcón<br>1639-1644</strong></p>
+
+
+  **FROM AN INQUISITION SUMMARY OF THE TRIAL OF LOPE DE VERA**
+
+
+  \[Archivo Historico Nacional, Madrid, Legajo Inquisición 2135, no. 16, ff.
+  15r-26v. Spelling, capitalization, punctuation and conjunctions have been
+  modernized to a considerable degree, to facilitate reading. The complete set
+  of annual summaries of this trial (we possess only summaries of the trial, not
+  notarial transcripts) has been published without editorial alteration by
+  Kenneth Brown, _De la cárcel inquisitorial a la sinagoga de Amsterdam
+  (Edición y estudio del “Romance a Lope de Vera” de Antonio Enríquez
+  Gómez)_, Toledo, 2007; for this particular excerpt see that work, pp.
+  375-378.\]
+
+
+  Don Lope de Vera estudiante en Salamanca opositor que fue a la cáthedra de
+  hebreo de la universidad de aquella ciudad y natural de la villa de San
+  Clemente en La Mancha, de edad de 19 años, fue testificado por siete testigos
+  varones mayores, los dos de vista y los demas de oídas. El uno de los de
+  vista menor de edad, que el dicho Don Lope de Vera le había dicho que en
+  cinco años que había que estaba en Salamanca no había tenido rosario ni
+  cuentas con que rezar y que era judío. Y estando orilla del río Tormes sacó
+  un libro pequeño de la faltriquera, y decía era hebraico, y leía por él al
+  revés, diciendo que lo que leía era lengua de Dios y tambien decia que la
+  ley de los judíos era la mas amada de Dios y el pueblo hebreo, trayendo por
+  esto muchos argumentos, y que Dios no mandaba se adorasen las imágenes, ni
+  las cruces, que la venida de Nuestro Señor Jesuchristo era embuste, y
+  persuadía el testigo a creer que la mejor gente del mundo eran los judíos, y
+  ansi mismo decía, “A estos perros cristianos que me persiguen quien los
+  matará a todos con un alfanje,” y que “si Nuestro Señor Jesucristo fuera
+  Dios ¿ cómo había de venir a hacerse hombre y tierra?” y “¿qué señales
+  hizo en el cielo quando a él subío y resucitó?” y asimismo decía al
+  testigo que si supiera las oraciones de la Ley de Moisés luego se convirtiera
+  a su Ley, y que el mesías había de venir y volver por el estado
+  eclesiástico, y que los perros cristianos adoraban a un crucificado que
+  murió por ser embustero, y tambien decía el dicho Don Lope que si le
+  prendían matará a todos los que le fuesen a prender con un alfanje si le
+  tubiera, y que no se le diera un cuarto de morir que tenía gran pesadumbre
+  que toda su sangre no fuese de la ley judaica que era la más noble que tenía
+  el mundo.
+
+
+  El otro testigo de vista dice que estando el dicho Don Lope con otros
+  estudiantes en un corro dijo que nuestra Santa Fe Católica tenía muchas
+  cosas difíciles de creer y que hallaba conforme a razon natural había otras
+  religiones que tenían otros artículos menos difícultosos y al parecer más
+  llegados a razon, y tambien decía al testigo que hiciese cuenta que él
+  profesaba la ley de Mahoma o la de Moisés, que le dijese qué tenían esas
+  leyes que no fuesen y pareciesen muy conformes a razon natural, y
+  satisfaciendole el testigo no aprovechaba para que el dicho Don Lope se
+  aquietase.
+
+
+  Calificóse esta testificación por seis calificadores y en conformidad
+  dijeron que este reo era apóstata de Nuestra Santa Fe Católica judaizante
+  hereje. Votóse esta causa en discordia en 16 de mayo de 1639. Vuestra Alteza
+  mandó por su auto de 21 del dicho que este reo fuese preso en las cárceles
+  secretas con secuestro de bienes y le cogiesen los libros y papeles que
+  tuviese. Entró en las cárceles secretas en veinte y quatro de junio.
+  Diósele la primera audiencia en 30 de Junio de 1639 y en ella dijo que él y
+  sus padres y abuelos son cristianos viejos, y que es cristiano baptizado y
+  confirmado. Y en quanto al delicto confessó que por cierto desafio que tuvo
+  con un primo suyo y entender que por eso estaba excomulgado no oyó misa en
+  quatro meses en días de precepto, y que leyó en libros prohibidos como son
+  las _Anotaciones_ de Erasmo, y _La embajada de Raví David,_ y otros papeles
+  arábicos, y que en aquel tiempo ha dejado de confesar y de cumplir con el
+  precepto de la iglesia y que a algunas personas ha dicho que él era judío o
+  moro, y que se había de ir a renegar a Argel o Constantinopla, y asimismo
+  había comunicado con portugueses estudiantes sobre la lengua hebrea y les
+  decía que era la mejor del mundo, la más antigua, madre de todas, enseñada
+  por Dios a Adán antes que pecase, y que en ella había hablado Dios a los
+  patriarcas y profetas, y que él era judío y moro y que de muy buena gana se
+  iría a renegar de Nuestra Santa Fe a Argel, pero que lo decía sin intención
+  de renegar y que tenía gusto particular de tratar con judíos y moros, y que
+  de buena gana pasará y leyerá el Alcorán de Mahoma y si fuera a
+  Constantinopla le había de hacer el gran turco alfaquí de la mezquita mayor
+  por entender bien la lengua hebrea, y que facilmente se inclinaría a seguir
+  la ley de los judíos o secta de los moros, y que comunicando con un
+  estudiante portugués trataban de algunos artículos que tenía la iglesia
+  romana reprobando algunos de ellos, y en particular acerca de la trinidad, que
+  parecía imposible que Dios fuese trino y uno, y que hubiese encarnado, y que
+  estubiese en la hostia consagrada, y que no se debía adoración a las
+  imágenes por haber mandado Dios en la Ley de Moisén que no se hiciesen
+  imágenes, y que era malo haber religiones por ser contra el precepto y
+  bendición natural, y que los milagros de las imágenes y personas que los
+  hacían eran embustos, y asimismo trataron de matar una gallina al modo
+  judaico.
+
+
+  Y que tambien dijo a otra persona que no les faltaba razon a los judíos para
+  decir que nuestro Señor Jesucristo era embustero y que aguardaban al mesías,
+  y en un argumento defendió que no era venido, pero aunque lo defendía no lo
+  sentía ansí sino que tenía gusto de proponer semejantes argumentos y que
+  todo lo que había dicho, no fue con intención de creerlo ansí, y que tenía
+  un natural tan vario y frágil que habiendo sabido las lenguas hebrea y
+  arábica facilmente se inclinará a seguir la ley de los judíos o la secta de
+  los moros y se hallaba tan confuso con las varias lecturas que si se viera
+  entre moros no sabía si siguiera su ley y se apartará de la de cristo por el
+  de verse excomulgado.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
