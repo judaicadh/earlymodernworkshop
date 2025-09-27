@@ -373,7 +373,11 @@ in the year 1592, the fifth indiction, the twenty-third day of February
 \[35\]a measuring unit for liquids  
 \[36\]very long, from head to toe; first introduced in Liguria in the 13th century
 
-<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Notes: </strong>Italy p.1</p>
+<h2 style="text-align: center">Source 2 Translation</h2>
+
+<h2 style="text-align: center">Source 1 Original Text</h2>
+
+**Notes:** Italy p.1
 
 **Inventory of the belongings of Lazaro Nantua 1592**
 
@@ -611,7 +615,9 @@ quatrini de millani et altre minute monete -------------------------------------
 S. 8  
 bianchi ogiane de Monferrato ------------------ 1. 54.8 uno da quatro realli ------------------------------ 1. 2 -20
 
-volta la carta p. 10
+volta la carta
+
+p. 10
 
 **Item in una camera de dietro** quali non sono pegni primo uno forsero di noce con camise cinque da homo  
 Item camise quatro da done  
@@ -690,4 +696,4 @@ item una padella di castagne Item una pelle de cordoano
 Et de \[pied--\] per me Francesco Montessori fati in Gavi in palatio pretorio del loci Anno 1592 indictione quinta die vigessima tertia februarii  
 **Archive:** A. S. Genoa, Senato, Litterarum, n. 553
 
-<h2 style="text-align: center">Source 1 Original Text</h2><h2 style="text-align: center">Source 2 Original Text</h2>
+<h2 style="text-align: center">Source 2 Original Text</h2>
