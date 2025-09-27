@@ -130,6 +130,134 @@ original_language_body: >-
   los moros y se hallaba tan confuso con las varias lecturas que si se viera
   entre moros no sabía si siguiera su ley y se apartará de la de cristo por el
   de verse excomulgado.
+
+
+  Y en audiencia de quatro de julio dijo que habiendo comunicado con un
+  estudiante portugués que nombró un caso, y después en argumento un lugar de
+  la biblia que contenía el decir Dios el modo que el pueblo había de tener en
+  distinguir el verdadero profeta de el falso, y que si el profeta te dijere que
+  vivas en la Ley, éste es verdadero profeta, y si dijera que te apartes de la
+  Ley, no le creas, y que este reo dijo había visto aquel lugar y no le hallaba
+  salida ni entendimiento y que saliéndose otro dia a pasar volvió a replicar
+  que no hallaba razon porqué se hubiesen quitado las ceremonias de la Ley de
+  Moisén y juicios pues había dicho Cristo que no había venido a quitar la
+  dicha Ley sino a cumplirla, y que conoció de dicho estudiante que era judío
+  y que tenía intención de salir fuera de España a judaizar, y el dicho Don
+  Lope le dio a entender tenía la misma determinación de salir fuera de
+  España a judaizar, y trataran a qué parte sería mejor y acordaron que en
+  Madrid lo vería y le avisaría y en esta ocasión y otras trataron de algunos
+  ceremonias y artículos que tenía la iglesia romana reprobando algunos de
+  ellos en particular que parecía imposible que Dios fuese trino y uno, y que
+  hubiese encarnado y que estubiese en la hostia consagrada, y para apoyar lo
+  referido el dicho cómplice trajo un lugar de un salmo que dice _no lise
+  fijeri sicut equs et mulus in quibus no est Intelectu_, el qual declaró
+  diciendo que Dios decía que no habíamos de subjetar el entendimiento _sicut
+  equs et mulus,_ a las cosas que parecen imposibles al entendimiento y lo
+  trataran y comunicaron los dos, y que no tenía noticia si lo había propuesto
+  primero el dicho Don Lope o el cómplice, y tambien trataron que no se debía
+  adoración a las imágenes por haber mandado Dios que no se hicieron y que era
+  malo haber religiones &a trataron de los milagros y personas que los hacen que
+  eran embustes.
+
+
+  Y en audiencia de 4 del dicho mes por la tarde dice que yendose paseando con
+  el dicho cómplice le dijo si quería matasen una gallina al modo que la matan
+  los judíos y la comiesen y no lo hicieron por ser cosa peligrosa, y no comía
+  carne por no ir contra la Ley de Moisén y no ser muerta en la forma que por
+  ella se manda y no oía misa ni confesaba por cumplir con la Ley de Moisén y
+  que bajando este reo con el dicho cómplice a la puente de Salamanca un día
+  de sábado el dicho Don Lope dijo que los judíos no atravesaban los ríos en
+  días de sábado, y así ambos se volvieron atrás y no pasaron la puente por
+  no ir contra la Ley de Moisén, y lo dijo por haber leído el dicho Don Lope
+  en el _Licionario de David Rabid tahuien_ la palabra “sanbation,” y en el
+  _Itinerario de Raví David Sarraceabat_ que los judíos que habitaban a la
+  otra parte del río de Sanbation, deseando volver a esta otra parte, y
+  pudiendo pasar aquel río en sábado (porque en él milagrosamente iba quedo y
+  quieto y en los demás días rápido), por no ir contra la Ley de Moisén no
+  le pasaban.
+
+
+  Y que a un estudiante le propuso algunos argumentos tocantes a la fe que no
+  eran muy conformes a la ley de Nuestro Señor Jesucristo.
+
+
+  Y que a un médico portugués le dijo dicho Don Lope que para inteligencia de
+  la sagrada escriptura era necesario suponer varias cosas y después el tal
+  médico le dijo estaba con escrúpulo y dicho Don Lope le respondió que
+  varias naciones hacian varias suposiciones, por que los cristianos suponen que
+  la Ley Vieja de Moisén no era perpetua, sino figura de la Nueva, y que los
+  judíos entendían literalmente la escriptura y que su Ley había de ser
+  perpetua y que creían que cristo era embustero, y aguardaban al mesías, y
+  que no les faltaba razon a los judíos para decir los referido, y que si no lo
+  dijo tan claro lo dijo con palabras preñadas equivalentes.
+
+
+  Y en audiencia de 5 de julio del dicho año de 1639 dice que por el mes de
+  julio de 1638 siendo opositor a la cátedra de hebreo se puso a arguir con un
+  clérigo menor, si el mesías era venido y que Don Lope defendía que no
+  había venido fundándolo en un lugar de un profeta que refiere Pedro Galatino
+  que trae un argumento que hacen los rabinos, pero aun que lo defendía no lo
+  sentía así sino que tenía gusto de proponer semejantes argumentos
+  desatinamente.
+
+
+  Y en la 8 de julio dice que alabava algunos autores reprobados como a
+  Habrahán Abencera, a Juan Drusio hereje, y a Erasmo que le parecían doctos,
+  y leyó el libro de Raví David en lengua hebrea y que no puede negar la duda
+  y confusión en que se hallaba, y que tratando con el cómplice reprobando
+  algunos artículos de la iglesia romana y dudando como dos meses que Dios
+  fuese trino y uno y que hubiese encarnado ni estubiese en la hostia consagrada
+  y por entonces tuvo alguna confusión y vacilación cómo podía ser y deseaba
+  que Dios hiciese algun milagro para salir de ella y se iba al campo imaginando
+  en esto.
+
+
+  Y que dijo al cómplice afirmativamente que no se debía adoración a las
+  imagenes pero en lo interior aunque tenía duda no fue determinada, y era que
+  agora determinadamente cree que se les debe adoración.
+
+
+  Y en audiencia de 12 de julio añade que estaba en duda por espacio de un mes
+  que Dios hiciese milagros por las imagenes de los santos por haberlo leído en
+  Erasmo, que dice se fingen milagros para avivar la fe de los católicos, y que
+  al fin del mes salió de la duda y tuvo y creyó que Dios hace milagros por
+  las imágenes santas, y fue el fundamento a la vez leído en la sagrada
+  escriptura que Dios hizo milagros por la serpiente de bronce que fue figura de
+  nuestro Señor para sanar otras serpientes, y que no había puesto ninguna
+  ceremonia en execución, sino fue el no haver pasado la puente en sábado como
+  lo tiene dicho pero que no lo hizo por guarda de dicha ley sino por dar a
+  entender al cómplice que él aguardaba.
+
+
+  En 15 de julio se le dio la 2.a monición y en 18 del mismo la tercera, y en
+  29 reconoció los libros que se hallaron en su poder que fueron,
+
+
+  _hipachivi tini in arati eterodoxi_
+
+
+  y otro caldea traslatio Agai profeta que está en latín y caldeo y otro
+  Joanes Drusi opúscula  
+
+  otro escrito en griego  
+
+  otro _venundatur parisis apud_
+
+
+  otro manuscrito en hebreo que dijo era el _Itinerario de Raví David_
+
+
+  Egidio Gour \[?\]
+
+
+  y otros libros
+
+
+  Y reconoció ser suyos y los que tenía al tiempo de su prisión.
+
+
+  **Publisher:** Consejeria de Cultura de Castilla-La Mancha **Archive:** AHN
+  Inquisicion, Legajo 2135, Nos. 15-19
 ---
 <h2 style="text-align: center">Introduction</h2>
 
