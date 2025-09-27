@@ -492,15 +492,7 @@ Item uno paro de faldette de panno scarlato Item una camisetta de mocaioto bianc
 Item una veste de sara de setta ranetta  
 Item una veste de panno turchino unaltra de panno verde; una faldetta de giameloto gialdo di setta  
 una veste da dona de panno turchino  
-una veste de panno verde; una saia Bianca uno macame; due veste de mocaiato de color
-
-121
-
-EMW -Workshops
-
-EMW 2007
-
-morello  
+una veste de panno verde; una saia Bianca uno macame; due veste de mocaiato de color morello  
 Item una saia verde  
 Item una zamara de frisa turchina  
 **Item in detta camera li pegni infrascripti** con soi boletini sopra  
@@ -546,15 +538,7 @@ scosalle de tella grossa
 mantera rossa et unaltra de colore  
 tavagliola  
 calamano a modo di casseta d’uno panno et mezzo  
-forsero con dentra para sette de gioie senza cortelli, forite et guarne et peroni
-
-122
-
-EMW -Workshops
-
-EMW 2007
-
-et uno anello d’oro et piu un altro cordone con una fede d’argento et uno anello d’oro Et piu un altro chiavacoro d’argento  
+forsero con dentra para sette de gioie senza cortelli, forite et guarne et peroni et uno anello d’oro et piu un altro cordone con una fede d’argento et uno anello d’oro Et piu un altro chiavacoro d’argento  
 Item una borsa deraso verde con un ciavacoro d’argento col cento verde  
 Item un altra borsa rossa come sopra con uno paro de gioie e chia vacore d’argento col cento rosso senza perone con guerne
 
@@ -587,12 +571,6 @@ Item una corona d’argento con uno anello d’oro et una corona de corallo
 Item corone quatro d’argento con uno cordone da chiave et uno anello d’oro  
 Item una corona di corallo con segni d’oro  
 Item altre annelle d’oro, una corona d’argento uno chiavacore utsupra col cento verde Item una coronetta de corallo coli segni d’oro
-
-123
-
-EMW -Workshops
-
-EMW 2007
 
 Item un altra con segni argento Item tre altre corone di corallo
 
@@ -629,12 +607,6 @@ item una colaneta d’oro
 Item uno coppo con le infrascripte monete dentro et po moneta de Genoa ------------------------------- 1. 3 sol 4  
 parpagliole da vinti denari l’una de Millano ------------------------------------------ 1. 4 --- 10  
 quatrini de millani et altre minute monete ------------------------------------------- 1. 4 ---
-
-124
-
-EMW -Workshops
-
-EMW 2007
 
 S. 8  
 bianchi ogiane de Monferrato ------------------ 1. 54.8 uno da quatro realli ------------------------------ 1. 2 -20
