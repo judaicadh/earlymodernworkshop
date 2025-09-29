@@ -152,4 +152,28 @@ _24 I assume he means the Rashba, Rabbi Shlomo ben Aderet, a disciple of Nahmani
 _33 It should be 5440, the date given at the beginning of the treatise, which must be the correct one Aboab died in 5453. Perhaps the error crept in because the Gregorian date was 1680.  
 \-->
 
-<h2 style="text-align: center">Source 1 Original Text</h2>
+<h2 style="text-align: center">Source 1 Original Text</h2><p style="text-align: center"><strong>Exortaçaõ, Paraque os tementes do Senhor na observança dos preceitos de sua Sancta Ley, naõ cayaõ em peccado por falta da conviniente inteligencia.<br>( 5440)1679/80</strong></p><p style="text-align: center">שלום רב לאוהבי תורתיך ואין למו מכשול</p><p style="text-align: center">EXORTACAO,</p>
+
+_Paraque os tementes do Senhor  
+na observança dos preceitos de sua Sancta Ley,  
+naõ cayaõ em peccado por falta da conviniente inteligencia._
+
+Feito pello docto Senhor Haham Moreno A-Rab R. Yshac Aboab Ab-Bet-Din, & Ros-Yesibá do Kahal Kados de Talmud Torah.
+
+Estampado  
+Em Amsterdam. Em Caza de DAVID TARTAS ANNO 5440.
+
+Prologo a o Lector.  
+A os que lerem este Tratado advirto, & afirmo com verdade, que nem paxaõ nem nemh ̃ua outra cauza me moveu á tirallo á luz, nem menos escandalisar a ninguem, senaõ o zelo do Sagrado da Ley Sancta, & o affecto amoroso que devo em particular, & em geral á todo Sancto Kahal, possa ser naõ deym ouvidos a Aduladores, que com capa da Ley vendem á mesma Ley; y com sua doutrina tem abuzado a muytos, com que naõ fazem caso do que tanto deviaõ fazer, tomando exemplo das demais Congregas que temem de ouvir nomear o nome de Herem, & antes quizeraõ ser afrontados com o mayor, & mais ignominoso nomem, que chamarle enhermado, ou filho de hum enhermado de que o Señor nos livre de encorrer em semelhante pena: & .A. bendiga a seu povo com paz.
+
+H. Y. ABUAB.
+
+**\[3\]**
+
+שלום רב לאוהבי תורתיך ואין למו מכשול
+
+Exortaçaõ, paraque os tementes do Senhor na observança dos preceitos de sua Sancta Ley naõ cayaõ em peccado, por falta da conviniente inteligencia.
+
+Feito pello doctissimo Senhor Haham Moreno A-Rab R. Yshac Aboab, Ab-Bet-Din, & Ros-Yesibá do Kahal Kados de Talmud Torah.
+
+Sentença de nossos Sabios realmente racional סוף המעשה במחשבה תחילה_O fim de qualquer acçaõ primeiro precedeu no pensamento._ Assi deste papel o branco a que se derige, he o fim seu mesmo fim, & assi deve preceder no principio, qeu he, desenganar a os enganados, & desabuzar a os abuzados; que o Herem que o Sancto Kahal tomou sobre si em companhia dos quatro Hahamim, por todos firmado, naõ pode haver poder que o possa desfazer nem anullar, & todo o que o transgirir, nemhum remedio tem para deixar de ficar enhermado, eseito quando o Kahal pello menos com otro tanto nu- **\[4\]** mero dos que firmaraõ, o quizerem absolver, & na minha opiniaõ bem podem, mas naõ o devem fazer, a hua por ser contra a Uniaõ, conservaçaõ do Kahal, & alimento dos pobres, quanto pello exemplar que acho na Sagrada Escritura. Livraose fogindo de Binyamin, seis centos homems, por onde parece, qeu tudo o demais pereceu, quando na guerra causada por a Concobina do Levita, arependese Ysrael, & com lagrimas lamenta o haver extreminado de todo (segundo julgaraõ) hum tribu de Ysrael; como aquelles que bem entendiaõ o misterio de quanto montava o numero de doze, paraque a Divindade do Senhor jamais os desamparase: & dizem assi em Iuezes capit. 21. vers מה נעשה להם .7 .
