@@ -193,7 +193,33 @@ the Elders of the Ashkenazi Jewish nation in Hamburg
 4 Ansbach, since 1806 part of Bavaria, was at the time ruled by the Hohenzollerns of Prussia. This explains why the Prussian authorities intervened in Polish-Jewish affairs on Marcus Anspach's behalf.  
 5 This is an entirely separate but similar case that played out simultaneously among the Jews and Senate.
 
-<h2 style="text-align: center">Source 4 Translation</h2><h2 style="text-align: center">Source 1 Original Text</h2><p style="text-align: center"><strong>Supplication of Josel Josef Jonas of Hamburg</strong></p><p style="text-align: center"><strong>September 8, 1732</strong></p>
+<h2 style="text-align: center">Source 4 Translation</h2><p style="text-align: center"><strong>Letter of Josel Joseph Jonas to the Senate in Hamburg<br>Cl. VII lit Hf No. 5 Vol 1c 4</strong></p><p style="text-align: center"><strong>October 3, 1732</strong></p>
+
+\[27\]
+
+Magnificences Highly and Very Noble, Best, Highly Learned, Highly and Very Wise, Greatly Well-disposed, Highly Imperious Sirs!
+
+To the Honorable Magnificences, Highly Learned and Highly Imperious Sirs, I express my obedient and submissive thanks along with my wife, for the fact that by means of the enclosed decree (see attachment No. 1) you annulled the divorce which was forced on me and my wife by an "alien" rabbi and declared it null and void. Further, you decreed for the ban laid upon us to be lifted and enjoined upon the Elders that they must admit us to public worship and everything related to it. Now, I had this injunctively issued decree (under (?) the attachment No. 2) immediately sent to the Jewish Elders here in Hamburg in the hope that as subjects of this city's jurisdiction
+
+\[27a\]
+
+they would obey. But they have not made the slightest attempt to obey, for to my great dismay and disparagement, when on the third and fourth day after the decree was issued I entered the main synagogue, the entire assembled congregation stoop up with great stirring and muttering and set upon me, during which tumult I took blows in the soft part of my sides from the fists of unfamiliar Jews. I was also boxed on the ears and I had to flee because my life was in danger. As the Elders by failing to complying with the clearly expressed directives in the decree, and wickedly opposed our Lordship's punishment, they have also unmistakably brought it about that my co-religionists upon my arrival ran in full confusion and chaos out of the synagogue,
+
+\[29\]
+
+whereby I, in view of the gathered crowd (part Jews and part Christians) am greatly "prostituted" and totally lost my credit (?);1 so now the greatest destitution and my extreme poverty force me along with my wife, Honorable Magnificences Highly Noble and Well-Born Sirs, to humbly plead that in your great mercy you deign to uphold your authoritative order as embodied in the decree of the 22nd day of last month and once more to command the Elders that they must comply with the decree within 24 hours or else face the punitive consequences. Otherwise I, along with my wife, remain in all obedience, Honorable Magnificences, Highly Learned and Highly Imperious Sirs,
+
+your obedient servant
+
+Jessel Joseph Jonas
+
+Petition, 3 October, 1732
+
+**Endnotes**
+
+1 The idiom here is obscure, but the next sentence implies that the intended meaning is that he was publicly shamed, which had negative financial consequences.
+
+<h2 style="text-align: center">Source 1 Original Text</h2><p style="text-align: center"><strong>Supplication of Josel Josef Jonas of Hamburg</strong></p><p style="text-align: center"><strong>September 8, 1732</strong></p>
 
 \[Note: All bracketed numbers refer to the original archival pagination\]
 
@@ -311,4 +337,24 @@ Ew. Magnificences hoch und wohl herrlichkeiten
 tief gehorsahmste Diener  
 Der Alten der hiesigem hochteutschen Judischem Nation
 
-<h2 style="text-align: center">Source 4 Original Text</h2>
+<h2 style="text-align: center">Source 4 Original Text</h2><p style="text-align: center"><strong>Letter of Josel Joseph Jonas to the Senate in Hamburg</strong></p><p style="text-align: center"><strong>October 3, 1732</strong></p>
+
+\[27\]
+
+Magnifici hoch und wohledle, Beste, hochgelahrte, hoch und wohlweise, grosgeneigte, hochgebietende Herren!
+
+Ew. Magnific. Magnific. hochw. und hochgebeitende herr. erstatte ich nebst meiner Frauen unterthänigst gehorsahmen dank, daß dieslebe, durch beygehendes Decretum sub No. 1 die zwischen mir und meiner Frauen von einem frembden Rabbiner angemaßten Ehescheidung, als an sich nichtig und ungultig, zu cassiren, und zu annulliren etc. auch ferner, den dies fals bey uns angelegten Bann aufzuheben, und den Juden Ältesten zu injungiren, daß diese zu dem Gottesdienst und allem was dazu gehöret uns admittiren sollen, in hohen gnaden geruhre wollen. Nun habe ich zwar dieses wohlabgegebene Decretum, injungirter mussen, so fort \[**tehte\]** adj. sub No 2. denen hiesigen Juden Ältesten, in Hoffnung Supplicati, als dieser Stadt Jurisdiction unterworfenes
+
+\[27a\]
+
+Unterthanen, würden demselben schuldige Parition geleistet haben insieniren lassen, sie haben aber zur schuldigen Parition nicht die allergeringste Anstalt gemacht, weil mehr habe ich zu meiner großen Bestürtz und Beschimpfung erfahren müssen, daß wie ich mich den dritten und vierten Tag nach abgegebenen Decreto sub No. 1 in der gewöhnlichen Schule eingefunden, die alda versammlete Gemeine mit groster Bewegung und Gemurmel aufgestanden, und sich davon gemachet, bey welchem tummelt ich dann von einigen mir unbekandten Juden mit knäbel Fausten aufs empindlichste in die Seite gestossen, mir auch ins Ohr geraunet worden, ich sollte mich, weil alhier Lebensgefahr vorhanden, bey Zieten reitiriren. Wie nun Supplicati hochbesagtem Decrets, durch Unterlassung der in demselben gantz deutlich exprimirten Parition, und im wiedrigen Fall annectirten hoch=obrigkeitlichen Bestrafung, sich freventlich opponiret, auch der untrieglichen Vermuhtung nach veranlasset, daß meine Glaubens genossen, bey meiner Ankunft in voller Confusion und tumult aus der Schulen geloffen, wodurch ich
+
+\[29\]
+
+dann, in angesichte vieler versammleten Theils Christen Theils Juden nicht wenig prostituret und vollends nun allen Credit gebracht bin; so zwinget mich die höchste Noht und mein äuserstes Elend, ew. Magnific. Magnificc hocha. und hoch geb. Herr. nebst meiner Frauen, fusfällig anzuflehen, daß Sie in hohen Gnaden geruhen wollen, so wohl zu aufrechthaltung dero hochobrigkeitlichen Befehls, als auch zu hochnöhtiger Gelebung angebogenen Decreti de 22. mens. praet. denen Supplicatis nochmahl anzubefehlen, daß sie, diesem Decreto innerhalb 24. Stund. pariren, auch aller ferner Thätlichkeiten bey hoher Strafe sich enthalten sollen. Der ich überigens nebst meiner Frauen in aller Unterthänigkeit verharre ew. Magnific. Magnific. hoch=und wohl herr meiner hochgebietenden Herren
+
+unterthuaniger Knecht
+
+Jessel Joseph Jonas
+
+Supp. d. 3 Octobr. 1732
