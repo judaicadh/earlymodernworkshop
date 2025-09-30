@@ -241,4 +241,74 @@ Suppl. Hamburg d. 8 Sept 1732
 
 Auf verlesene Supplication und examina in Sachen Jessel Joseph Jonas und dessen Eheweibes, in puncto zwischen ihnen von einem frembden Rabbiner attendirten Ehescheidung und was derselben anhängig entgegen und wieder die hiesigen Juden Aeltesten decretiret E.E. Rath daß die so wohl gegen hiesige Stadt als allgemeinen Gesetze, freventl. von den frembden Rabbiner angemaßte Ehescheidung, als an sich nichtig und ungültig hiemit cassiret und annuliret, daß Eheband hergegen zwischen Supplicanten und sienen Eheweibe für beständig und gültig erklähret, ferner der desfalß alhier in einer Frembd. Jurisdiction bey ihnen Supplicanten als hiesigen Unterthanen und Einwohnern gantz unbefugter angelegten Bann hiemit aufgehoben und den Eltesten diese beyden Eheleute in ihren Schulen zu dem Gottes dienste und allen was dazu gehöret, bey ernstund unausbleiblicher Straffe zu admittiren auch der gleichen Anlegung des Bannes und andern solchen illegalen Unternehmungen in dieser Stadt künftig vorzu kommen, injungiret wiedrigenfalß die Bestrafung gegen sie ausdrückl. vorbehalten werde. Ubrigens wird die Sache wegen der den ältesten bey dieser Gelegenheit ausgezahlten 200 Rth zur weitern Untersuchung verwiesen, und sollen Supplicanten dieses Decretum denenseleben so fort insinniren laßen. Decretum Lunae d. 22 Sept 1732
 
-<h2 style="text-align: center">Source 3 Original Text</h2><h2 style="text-align: center">Source 4 Original Text</h2>
+<h2 style="text-align: center">Source 3 Original Text</h2><p style="text-align: center"><strong>Petition of the Jewish Elders of the Ashkenazi Synagogue in Hamburg</strong></p><p style="text-align: center"><strong>September 26, 1732</strong></p>
+
+\[19\]
+
+Magnifici hochedle, Beste, hochgelehrte hoch und Wohlweise hochgebietende und hochzuehrende Herren
+
+Wir haben uns erkühnet, und Ew. Magnificences hochund Wohlr. Herr. in einem diesen Morgen eingerichten demüthigen Memorial so wohl diejenige Unmöglichkeit, womit des uns anbefehlene verknupfet ist, unterthäniglichen vorzustellen, als auch in solcher rechtlichen Betrachtung die Aufhebung eines unsere gantze religion umkehrenden decreti zu bitten, ehe wir aber darauf noch eine gewürige Resolution hoffen mögen, ist die vorgestriges Tages wieder 21 Persohnen beschehene Execution diesen Morgen wieder eine gleiche Anzahl wieder holet werden. Nun wollen wir zwar nicht berühren, daß sothener Execution wieder 21 Leüte vollstrecket worden, da doch in Effecte nur 9 Ältesten seyn, des Decretum Amplissimi Senatus auch nur restrictive auf die Ältesten lautet, so viel müssen wir aber doch in Unterthänigkeit anzeigen, daß wir die Überschreitung des modi in exequando
+
+\[19a\]
+
+vermühtlich keinen andere Uhrsprung als den Hass des Jacob Isaacs und dessen unrichtige Angabe der zu exequiren Persohn hat, also auch zwar wir unter Ew. Magnificences hoch und Wohlw. herr. als unsere Obrigkeit Gewalt stehen, und alles was derselben gefält, über uns ergehen laßen müssen, jedoch aber wir, wenn gleiches unsere gesamte Güter gelten, oder wir des unsrige mit den Rücken ansehen sollten, es dennoch uns eben so unmöglich sey unsere Religion in einen Haupt Puncte zu verleugnen, und etwas dagegen zu handeln oder zu thun, als wenig es in unserm Vermögen stehet Berge zu versetzen. Wollen nun ew. Magnificences hoch und wohl. Herr. desjenige was die Rechte circa impossibilia statuiren, quod hiclicet eorum nulla sit obligatio, auch uns angedeihen lassen, so haben wir hierunter dero clemence und Hulde zu greifen, sind wir aber so unglücklich um ew. Magnif. hoch und Wohlw. Herr. von dieser moralischen Unmöglichkeit nicht überzeugen zu können, so giebet und unser Gewissen des Zeugniß, das wir unser sonst lieber Obrigkeit aus keiner andern Uhrsache ungehorsahm gewesen, als daß wir auch nach unser lehre Gott mehr gehorchen müsten. Es stehen also in Ew. Magni. hoch und wohlw. Herr. Händen beydes unser Verderb und Conservation wollen Sie das erstere wir mussen es gedultig leiden, wollen Sie aber des letzte so nehmen wir es als eine Gnade mit Dank an.
+
+\[20\]
+
+Gott aber lenke das Hertz unserer Obern, daß Sie unsere Unschuld erkennen, und ihren Zorn fahren lassen, dem wir unsere liebe Obrigkeit zu fernern gnädigen Beschirmung einzfehlen, und mit tiefster devotion alstets beharen
+
+ew. Magnificences Hoch und Wohlw. Herlichkeiten
+
+so unterthänige als treue Knechte  
+Als Eltesten der Judenschaft hochdeutscher Nation Suppl. Hamb. d. 26 Sept
+
+\[21\]
+
+Magnifici hochedle, Beste hochgelahrte hoch und Wohlweise Hochgebietende und hochzuehrende Herren
+
+ew. Magnificences hoch und wohlwe. Herr. haben nicht allein auf unser am nechst abgewichenen Mittwochen ohne eingereichtes demühtiges Supplicatum nicht die geringste rechtliche Reflection zu nehmen beliebet, besondern es ist auch am gestrigen Tage zu unser nicht geringen Bestürtze und Beschimpfung mit würklicher Pfandung gegen alle Ältesten als auch Beysitzer dahin verfahren werden, daß unter einen Zulauff von vielen hundert Menschen mittelst des Pfand-Wagens oder statt dessen mittelst einer Larren, und durch die dabey befindliche Zahlreiche Bedienten, die dem decreto einverliebte poen würcklich exequiret und abgeholet worden. So hart nun auch dieses Verfahren an und für sich selbsten ist, und so sehr wir auch der unter wenigstens per indirectum an unserer Ehre und dem Credit leiden
+
+\[21a\]
+
+so würden wir dennoch Ew. Magnif. hoch und Wohlw. herr. weltgepriesenen Equanimitet und preisbahre Rechtsliebe zu wahr treten, wenn wir die Verhengung einer so strengen Execution einer andern Uhrsache zu schrieben, als daß Ew. Magnif. hoch und Wohl weisen Herr. die von uns vorgeschützte Unmöglichkeit umb den an uns ergangenen Befehl eine sonst schuldige Parition zu leisten für affectiret und also für unbegründet ansehen.
+
+Nun ist es zwar an und für sich selbst eine schwere Sache umb in Sachen der Religion anbetreffend einen andern, der einer solchen Religion nicht zugethan ist eine Unmögligkeit klärlich vor Augen zu stellen, absonderlich wenn solche Sache und die damit verkunfte Unmöglichkeit einen Punct betrifft, wobey die Autoritet der Obrigkeit und die deroselben gebührende Superioritet mit interessiret zu seyn scheinet, gleich wie wir aber dieses voraussetzen, daß Religions und Glaubens Sachen den Weltlichen Gesetzen nicht unterwerffen seyn, und daß die Toleranz und Reception frembder Religions Verwandten allen Zwang in Glaubens Sachen von selbsten aufheben, also werden auch Ew. Magnificences hoch und Wohlw. herr aus nachfolgenden Gründen nach dero Weißen und gerechten Einsicht leicht von selbsten erkennen, daß so lange wir Juden seyn und bleiben, wir dem Bann womit Jacob Isaac von dem
+
+\[22\]
+
+Rabbiner in Altona beleget worden, so wenig aufheben als wenig, als lange dieser Bann dauret, mit demselbigen einigen Umgang haben können.
+
+Denn wir das letztere nemlich der verbotene Umgang mit einer in den Bann seynde Persohn am Haupt und Glaubens Articel unserer Religion ist, gefolg. derselbe so lange eine Religion geduldet wird, tanquam primum principium weder eines Beweises Betreff noch auch salva substantia religionis geändert werden kann eben so wenig als der Verboth von ersticken Sabbaths-Feyer, und so weiter, also ist auch in Ansehung des ersteren 1. notorium daß der Bann weder von den Ältesten dependire noch angeleget werde, sonder daß der Rabbiner solches ohne jemanden zu fragen wie er es nach unserer Lehre für recht findet verlänge, wie nun bey diese Umständen die Sache von selbsten spricht. 2. Auch die Aufhebung des Bannes von dem der ihn verhänget lediglich dependire oder aber derjenige, der sich dadurch geariret befinde, durch andere Rabbiner die Uhrsachen des bannes untersuchen lasten, und deren Erkäntniß gewärtigen müsse, also giebet auch. 3. Die Natur der Sachen zu erkennen, daß die Ältesten via facti und durch Zwang einen Rabbiner zu Aufhebung eines Bannes, weil sie keine Gewalt über ihn haben nicht obligiren können, sondern wenn
+
+\[22a\]
+
+ja etwas geschehen soll, es bittweise und durch Vorspruch, auch mittelst einem von dem der in Bann ist der Lehre gemäß Büsse geschehen müste. daß wir nun **ret**. des erstere und so viel an uns ist. 4. Es an gütlichen Verstellungen bey dem Rabbiner in Altona des Jacob Isaacs wegen nicht haben ermangeln lassen, daran diebet uns nicht allein unser Gewissen ein überflüssiges Zeugnis und Bezeugen wir bey dem lebendigen Gott Himmels und der Erden, daß wir des für Jacob Isaac gethan, was wir für einen leib. Bruder thun können, besondern es ist auch 5. Nicht die allergeringste Wahrscheinlichkeit verhanden daß wenn es in unserm Vermögen gewesen diesen Bann auf einige Arth und Weyse zu heben, daß sage ich wir so denn viellieber hätten ein übriges thun, als aus blossen Eigensinn oder Privat Effecten uns unserer sonst lieben Obrigkeit fruchtbahren Indignation, so strenger und schmäliger Execution, ja so gar der angedreheten Zuschliessung unserer Schulen der damit verknüpften Suspension des Exercitu unsers Gottesdienstes, ja wer weiß noch was für ferner suiten hätten exponiren sollen, und noch exponiren würden. Denn so viel kann 6. Eine hohe und Gerichtigkeit liebende Obrigkeit uns wohl zutrauen, daß ob es zwar in dero Mächten stehet, uns unsere Güter zu nehmen, und das fernere Exercitium unserer Religion zu versagen, ja gar aus der Stadt
+
+\[23\]
+
+hinaus zu treiben, wir dennoch das Gott verhüte, und wir von unserer lieben Obrigkeit nicht hoffen noch vermuhten können, lieber alles über uns ergehen lassen, und mit Gedult ertragen müssen als daß wir unsere Glauben verleugnen, und etwas thun sollten, was wieder die Lehre und den Glauben ist, denn wir festiglich glauben, von Gott empfangen zu haben, und so lange wir Juden bleiben unverbrüchlich und ohne Verlust unserer Seeligkeit nicht übertreten zu können, und obschon 7. es einer hohen Obrigkeit als etwas seltsahmes vorkommen möchte, daß ein Rabbiner und zumahl ein frembder in religions Sachen andere Juden, die unter einer Frembden jurisdiction wohnen, so zu sagen etwas befehlen können, so werden doch Ew. Magnific. hoch und Wohl. herr. leicht von selbsten erkennen, daß es weder in unsern Mächten noch auch also uns zu imputiren sey, daß wir einen Punct nicht ändern können, der in aller Welt wo Juden seyn, heilig und unverbrüchlich nicht allein gehalten wird, sondern \[rat.\] dessen wir auch wenn wir ihn nicht observiren wollten uns selbst und der gantzen Gemeine einen vielleicht gar nicht zu hebenden Bann exponiren wurden denn umb nur 8. Eines einigen Exempels zu gedencken, so ist bekand auch da es nöhtig wäre, mit denen in dieser Sache passirten weitläufigen Schrifften zu erweisen, daß ein Rabbiner in der Stadt Cracau in Pohlen einen reichen
+
+\[23a\] und vornehmen Juden Nahmens Marcus Anspach Hoff-Juden in Anspach deswegen, weil er eine nach unsern Gesetzten allzu nah verwandte Persohn geheyrathet, in denn Bann gethan habe, ob nun wohl die derzeit regierende Keyser. und des Königs in Preussen Majestät sich des gedachten Juden mächtigst angenommen desfals nicht allein an des Königes in Pohlen Majestet verschiedene nachdrücklich Schreiben ergehen lassen, besondern auch in eventum alle Juden aus dem Reiche zu vertreiben declarieret, so hat dennoch dadurch der Bann des Marcus Anspachs nicht gehoben werden können, sondern es ist derselbe einen Weg wie den andern darin geblieben. Haben nun Magnifici hochweise und gnädige Herren so viel Monarchen diesen punctum religionis nicht ändern können, noch den Rabbiner zwingen, wie mag den aus ohnmächtigen Ältesten angemuhtet werden etwas zu heben oder zu thun was wir nach unsere Religion und wo wir dieselbe nicht verläugnen, uns selbst dem Bann exponiren wollen, nicht unterlassen können. Zwar ist so viel 9. Wahr, daß wir dem Rabbiner in Altona ratione unser seine Station wenn die Contract Jahre aus seyn aufsagen könne, und dieses sind wir wenn es die Obrigkeit verlanget zu thun bereit, allein deises ist hiebey zu consideriren, daß wenn so denn der
+
+\[24\]
+
+Rabbiner aus Altona in frembde Lande sich begeben oder den Bann drücken lassen sollte, so denn die relaxation desselben umso schwerer wo nicht gar unmöglich würde und sollte solcher Zufall entstehen, so bezeugen wir für Gott und der hohen Obrigkeit, daß wir davon unschuldig seyn und keinen Theil nehmen.
+
+Ob obiges alles so deutlich und überzeugend sey als wir gerne wünschten, wissen wir zwar nicht, dieses aber ist Gott unser Zeuge, daß darunter weder Affecten noch andere Absichten, wir die Erdacht werden mögen verborgen seyn, sondern wir es eine wahre Unmöglichkeit ist, daß wir dem Bann heben, und mit einen der in Bann ist, gemeinschaft oder Umgang haben können, also können wir auch nicht glauben, daß eine so gerechte als gnädige Obrigkeit uns ad impossibilia obligiren oder um etwas straffen oder verdammen werde, was weder in unsern Mächten, noch mit unser religion compatibel ist.
+
+Was endlich zum beschuß des in Sachen Jessel Joseph Jonas am 22ten abgegebene und dem Mit=Ältesten Seligman Berend Salomon gestern insinuiret decretum under uns in selbigen anbefohlene Admission deselben zwar Schälen und so ferner betrifft, so hat nicht allein desselbe Ratione der Unmöglichkeit mit dem ersten Casu des Jacob Isaacs gleich Bewandniß**,** besonders es ist auch wohl zu bemerken, daß dieser Jessel Joseph Jonas aus freye
+
+\[24a\]
+
+Stücken sich dem arbitrio des frambden Rabbiners aus Jerusalem unterwerffen, und desfalls bey ihm nicht aber wie er wieder der Warheit vorgiebet bey uns 200 Rthr deponiret habe. Und da es also nicht unsere sondern des Jessel Hoseph Jonas eigen Schuld ist, daß er sich den arbitrio eines frembden Rabbiner unterworffen, so können wir ja keine Schuld um so weniger büßen, als nach nunmehr erfolgten Bann, weder wir noch eine Jude auf der gantzen Welt so lange er ein Jude bleibet, nach unserer religion und Glauben mit ihm Umgang haben kann.
+
+Wir ersuchen solchem nach Ew. Magnif. hoch und Wohlw. Herr. demühtig und gehorsahmst dasselbe wollen in betracht obiger Umstände die in beyden Sachen abgegebene decreta gnädig und hochgeneigt wiederum aufzuheben, und uns wieder die Unmöglichkeit, und unser Gewissen nicht zu beschweren geruhen.
+
+Wir geträten uns gnädiger und gerechter Erhörung und beharren übrigens mit aller nur ersem devotion **destets**
+
+Ew. Magnificences hoch und wohl herrlichkeiten
+
+tief gehorsahmste Diener  
+Der Alten der hiesigem hochteutschen Judischem Nation
+
+<h2 style="text-align: center">Source 4 Original Text</h2>
