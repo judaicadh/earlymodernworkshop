@@ -20,6 +20,213 @@ description: "In this presentation, Adam Teller discusses the change of status
   early modern period. He contrasts two legal documents: a privilege granted to
   Jews by King Kazimierz Jagiellończyk (1453) and a privilege granted to Jews in
   the town of Jampol by the town's owner."
+original_language_body: >-
+  <h2 style="text-align: center"><strong>Source 1 Original Text</strong></h2>
+
+
+  In Nomine Domini Amen. Ad perpetuam rei memoriam Nos Casimirus Dei gratia rex
+  Poloniae necnon terrarum Cracoviae, Sandomiriae, Siradiae, Lanciciae, ac
+  Cuiaviae, magnus dux Lithuaniae, Pomeraniae, Russiaeque dominus et haeres.
+  Significamus tenore presentium quibus expedit universis praesentibus et
+  futuris, harum notitiam habituris; quomodo coram Maiestate Nostra personaliter
+  constituti Judaei Nostri de terris maioris Poloniae videlicet, de Posnaniensi,
+  Calisiensi, Siradiensi, Lanciciensi, Brestensi, Vladislaviensi, palatinatibus
+  et districtibus ad ipsa spectantibus, sua ex possesione deduxerunt, quod iura
+  quae hactenus a celebris memoriae serenissimo principe domino Casimiro rege
+  Poloniae etc. Praedecessore Nostro mediata et quibus aliorum regum
+  praedecessorum Nostrorum et Nostris temporibus semper et usques in hactenus
+  usu fuerunt, tum quando civitas nostra Posnaniensis voragine ignis Nobis
+  praesentibus consumpta fuit, ipsis essent et per ignem in cinerem redacta,
+  petentes et humiliter Nobis supplicantes, quatens iuxta eorundem iurium copiam
+  quam coram Nobis exhibuerunt, eadem iura innovare, ratificare et confirmare,
+  dignaremur gratiose: quorum quidem iurium taliter acceptorum, tenor de verbo
+  ad verbum sequitur estque talis.  
+
+  ...
+
+
+  Sexto.Item nullus capitaneus aut palatinus debent aliquos proventus, alias
+  podatki et contributiones daniny apud Iudaeos, nisi quo eas ipsi Iudaei de sua
+  voluntate donaverint; et hoc ideo, quod Nos eos reservamus pro Nostro
+  thesauro.  
+
+  ...
+
+
+  Septimo. Item si aliquis Iudaeorum suis superioribus non esset oboediens,
+  extunc talis domino palatino luet poenam trium marcarum et superioribus suis
+  similiter poenam trium marcarum. ...
+
+
+  Et etiam statuimus quod quilibet Iudaeus bona haereditaria per introligationem
+  tenuerit, ad expeditionem non tenebitur equitare, nec aliquid pro expeditione
+  dare et hoc ideo, quod ipsi Iudaei Nostri sunt thesauri. ...
+
+
+  ...
+
+
+  Et Nos Casimirus Rex praefatus iuribus Judaeorum praescriptorum auditis et cum
+  certis regni Nostri consilariis cum debita maturitate revisis et examinatis et
+  ponderatis singulis articulis, clausulis et conditionibus in eis expressis
+  volentesques, ut ipsi Iudaei quos Nobis \[ ... \] felicis regiminis se
+  agnoscant, a Nobis esset {esse} consolatos pro iisdem Iudaeis et {in} terris
+  maioris Poloniae vel {videlicet} in Posnaniensi Calissiensi, Siradiensi,
+  Lanciciensi, Brestensi, Vladislaviensi, palatinatibus et districtibus
+  civitatibus et oppidis ad ipsa spectantibus et in eisdem habitantibus ac de
+  gentibus, nunc praesentibus et aliis undecunque in ipsas Maioris Poloniae
+  terras advenientibus, huiusmodi iura superius descripta in omnibus eorum
+  punctis conditionibus clausulis et artirulis {articulis} innovamus,
+  ratifocamus et confirmamus per praesentes, decernentes, robur habere perpetuae
+  firmitatis, harum quibus sigillum Nostrum praesentibus est appensum testimonio
+  literarum.
+
+
+  Actum Cracoviae feria secunda ante festum assumptionis gloriosissimae Virginis
+  Mariae proxima anno Domini millesimo quadringentesimo quinquagesimo tertio.
+
+
+  <h2 style="text-align: center"><strong>Source 2 Original Text</strong></h2>
+
+
+  Przywilej kahału i miasta Jampola
+
+
+  \*\*\[308\]\*\*Wszem wobec i każdemu z osobna, komu o tym teraźniejszego i
+  na potym będącego wieku ludziom wiedzieć będzie należało, oznaj-
+  mujemy.  
+
+  Iż pokładali i prezentowali przed nami kahał u mieszczanie miasta naszego
+  Jampola przywilej na pargaminie pisany od świętej pamięci jaśnie
+  oświeconego księcia imci Janusza Korybuta Wiśniowieckiego wojewody
+  krakowskiego, temuż kahałowi nadane, który za usilnym ich staranie\[m\]
+  pozwoliliśmy to wpisać sequitur de tenore tali.
+
+
+  Janusz Antoni Korybut Wiśniowiecki książę na Zbarażu i Wiśniowcu
+  Wiśniowiecki, wojewoda krakowski, krzemieniecki, osiecki etc. starosta.  
+
+  Oznajmuję tym listem przywilejem moim wszytkim wobec i każdemu z osobna, tak
+  i teraz, jako i na potym, komu będzie należało wiedzieć. Iż kiedy Pan Bóg
+  Wszechmogący, dawca uniwesalnych pociech ziemskich, ten który zasmuciwszy
+  trzydziestoletnią blisko przeszłą, uprzykrzoną wojną turecką i częstemi
+  tatarskiemi inkursjami, a teraz znowu tak szwedzkich, jako i moskiewskich
+  wojsk i innych przechodzących codzienną agrawacyją, które nieszczęśliwą
+  i nigdy
+
+
+  nieopłakaną kraju tego, wyzuwszy go z ozdób swoich, przyniósłszy stratę,
+  więc i Jampol miasto moje dziedziczne tej podległe nieszczęśliwości. Z
+  których ruin dźwigając prz\[y\] boskiej pomocy i do
+
+
+  **\[309\]** wigoru przyprowadzić usiłuję, tą przedsięwziął vel
+  maksymę,aby obywatelom miasta tego, chcąc jako tych, którzy się wrócili
+  do ojczyzn swoich, tak i innych zachęcić, prawom nadał dla zaszczytu
+  większej ich
+
+
+  wolności i przymnożenia fortun. Które wolności i prawo im odemnie nadane
+  przywilejem niniejszym moim, tak jako inne miasta moje wszystkie podobny
+  zaszczyt mają służyć im powinno.
+
+
+  A naprzód wolne kurzenie gorzałek i szynki w domach wszelkich i
+
+
+  przebitych ulicach, przecież ex quota należytą która taka na ten czas w
+  intercyzie będzie położona, od kurzenia gorzałek, sycenia miodów, warzenia
+  piwa, oddać powinni do arendy mojej, tak chrześcianie, jako i Żydzi. Do
+  prowadzenia handlów wszelkich wolmość im daję, tak
+
+
+  kupować, jako i przedawać towary quovis generale nazwane, a osobliwie sukna,
+  bławaty, materyje, płotna, jebwabie, szmuchlerstwa, safiany, boty, wszelkie
+  skóry wołowe, kozłowe, wyprawne i niewyprawne, przywoźne i
+  jampolskiejroboty, woski, łoje et ad genus, co jako w domach, tak w kramach
+  przedawać, kupczyć im wolno
+
+
+  będzie. Rzemieśnicy kożdy, jako płótnicy, krawcy, kuśnierze, piekarze,
+  rzeźnicy i inni, tak chrześcianie, jako i Żydzi, w tymże mieście osiadać
+  bezpiecznie i z drugiemi wolno handle prowadzić mogą.
+
+
+  Elekcyja burmistrzów takim sposobem odprawować się ma, to jest pan
+  podstarości jampolski obierać ma z ramienia zamkowego jednego,
+
+
+  kahał żydowski drugiego, a zaś mieszczanie dwóch obierać powinni.
+  Burmistrze zaś powinni przestrzagać tego, aby w mieście był wszelki
+  porządek, warta katolicka miejska przestrzagać ma, aby podczas procesyi w
+  Wielki Piątek i naBoże Ciało, Żydzi od ludzi swywolnych
+
+
+  nie byli prześladowani i szkody jakiej nie mieli.  
+
+  Pobudowanie szkoły z przyszkółkami wolne, na które drzewa w lasach moich
+  dziedzicznych i zastawnych, za dozwoleniem panów posesorów pozwalam.
+  Okopisko wolne i człowiek przy nim mieszkający wolny ma być od wszelkich
+  egzakcyi miejskich, także i zamkowych. Łaźnię ze
+
+
+  studnią pozwala się.  
+
+  do szarwarków niejskich zwyczajnych dni 12 co  
+
+  rok a domów wjeznych, z domów zaś zatylnych dni 6, jeżeli tego potrzeba
+  będzie, do grobli tylko miejskiej, a nie do żadnej innej roboty
+
+
+  pociągać powinien. W święta wielkich uroczys\[to\]ści, jako to w
+  Wielkanoc, Boże Wstąpienie, Zielone Świątki, Boże Ciało, Narodzenie
+
+
+  Pańskie, Poczęcie i Wniebowzięcie Najświętszej Panny, roboyt w winnicach
+  robię nie mają.  
+
+  Żyd, który by btł nieposłuszny kahałowi, takowego dają w moc kahałowi, aby
+  onego według prawa swego duchownego skarał. Żyd zaś
+
+
+  powinien być pozwany od chrześcianina do burmistrza kwartalnego
+  żydowskiego, a jeśliby z dekretu tego nie był kontent, apelacyja wolna mu do
+  zamku. A jeśliby się pokazało na Żyda, jest tedy powinien go z zamku do
+  kwartalnego pan podstarości odesłać, żeby go tam skazano. Krwawych,
+  mokrych, kościelnych rzecy, nie powinni Żydzi kupować
+
+
+  pod gardłem, innych zaś rzecy według praw koronnych wolny handel. Kłoda i
+  miara być ma sprawiedliwa, czego pan podstarości mapostrzegać.  
+
+  Arendarze, którzykolwiek znajdują się po majętnościach moich,
+  cyrkumferencyją Jampola i innych dobrach moich dziedzicznych i zastawach
+  będących, quovis titulo nazwanych, wszyscy należeć mają do kahułu
+  jampolskiego i do Skarbu Rzeczypospolitej według proporcyi pociągać powinni.
+  Ciż Żydzi prawem swym duchownym sądzić się mają a nie do zamku.
+
+
+  Którego to prawa każdy punkt z osobna chcąc nieć w egzekucyi i
+  utwierdzeniu dla tym większej wagi i pewności ręką moją własną
+
+
+  podpisuję i pieczęć moją przycisnąc rozkazałem.  
+
+  Dan w Lublinie, die 5 Iunii 1711 roku.  
+
+  Podpis taki: Janusz książę Wiśniowiecki wojewoda krakowski, krzemieniecki,
+  osiecki etc. starosta.
+
+
+  (Pieczęć wyciśniona).  
+
+  Który to przywilej de vero ad verbum przepisany podpisawszy, pieczęć moją
+  zawiesić rozkazałem.
+
+
+  <Michał Kazimierz Radziwiłł>  
+
+  Datum w Białej Krynicy, die 7 Martii, 1753 anno.
 ---
 ## **Source 1 Introduction**
 
@@ -106,78 +313,3 @@ Which privilege, copied word for word, having signed, I give order to suspend my
 \[Michał Kazimierz Radziwiłł\]
 
 Granted in Biała Krynica 7th March 1753
-
-## **Source 1 Original Text**
-
-In Nomine Domini Amen. Ad perpetuam rei memoriam Nos Casimirus Dei gratia rex Poloniae necnon terrarum Cracoviae, Sandomiriae, Siradiae, Lanciciae, ac Cuiaviae, magnus dux Lithuaniae, Pomeraniae, Russiaeque dominus et haeres. Significamus tenore presentium quibus expedit universis praesentibus et futuris, harum notitiam habituris; quomodo coram Maiestate Nostra personaliter constituti Judaei Nostri de terris maioris Poloniae videlicet, de Posnaniensi, Calisiensi, Siradiensi, Lanciciensi, Brestensi, Vladislaviensi, palatinatibus et districtibus ad ipsa spectantibus, sua ex possesione deduxerunt, quod iura quae hactenus a celebris memoriae serenissimo principe domino Casimiro rege Poloniae etc. Praedecessore Nostro mediata et quibus aliorum regum praedecessorum Nostrorum et Nostris temporibus semper et usques in hactenus usu fuerunt, tum quando civitas nostra Posnaniensis voragine ignis Nobis praesentibus consumpta fuit, ipsis essent et per ignem in cinerem redacta, petentes et humiliter Nobis supplicantes, quatens iuxta eorundem iurium copiam quam coram Nobis exhibuerunt, eadem iura innovare, ratificare et confirmare, dignaremur gratiose: quorum quidem iurium taliter acceptorum, tenor de verbo ad verbum sequitur estque talis.  
-...
-
-Sexto.Item nullus capitaneus aut palatinus debent aliquos proventus, alias podatki et contributiones daniny apud Iudaeos, nisi quo eas ipsi Iudaei de sua voluntate donaverint; et hoc ideo, quod Nos eos reservamus pro Nostro thesauro.  
-...
-
-Septimo. Item si aliquis Iudaeorum suis superioribus non esset oboediens, extunc talis domino palatino luet poenam trium marcarum et superioribus suis similiter poenam trium marcarum. ...
-
-Et etiam statuimus quod quilibet Iudaeus bona haereditaria per introligationem tenuerit, ad expeditionem non tenebitur equitare, nec aliquid pro expeditione dare et hoc ideo, quod ipsi Iudaei Nostri sunt thesauri. ...
-
-...
-
-Et Nos Casimirus Rex praefatus iuribus Judaeorum praescriptorum auditis et cum certis regni Nostri consilariis cum debita maturitate revisis et examinatis et ponderatis singulis articulis, clausulis et conditionibus in eis expressis volentesques, ut ipsi Iudaei quos Nobis \[ ... \] felicis regiminis se agnoscant, a Nobis esset {esse} consolatos pro iisdem Iudaeis et {in} terris maioris Poloniae vel {videlicet} in Posnaniensi Calissiensi, Siradiensi, Lanciciensi, Brestensi, Vladislaviensi, palatinatibus et districtibus civitatibus et oppidis ad ipsa spectantibus et in eisdem habitantibus ac de gentibus, nunc praesentibus et aliis undecunque in ipsas Maioris Poloniae terras advenientibus, huiusmodi iura superius descripta in omnibus eorum punctis conditionibus clausulis et artirulis {articulis} innovamus, ratifocamus et confirmamus per praesentes, decernentes, robur habere perpetuae firmitatis, harum quibus sigillum Nostrum praesentibus est appensum testimonio literarum.
-
-Actum Cracoviae feria secunda ante festum assumptionis gloriosissimae Virginis Mariae proxima anno Domini millesimo quadringentesimo quinquagesimo tertio.
-
-## **Source 2 Original Text**
-
-Przywilej kahału i miasta Jampola
-
-**\[308\]**Wszem wobec i każdemu z osobna, komu o tym teraźniejszego i na potym będącego wieku ludziom wiedzieć będzie należało, oznaj- mujemy.  
-Iż pokładali i prezentowali przed nami kahał u mieszczanie miasta naszego Jampola przywilej na pargaminie pisany od świętej pamięci jaśnie oświeconego księcia imci Janusza Korybuta Wiśniowieckiego wojewody krakowskiego, temuż kahałowi nadane, który za usilnym ich staranie\[m\] pozwoliliśmy to wpisać sequitur de tenore tali.
-
-Janusz Antoni Korybut Wiśniowiecki książę na Zbarażu i Wiśniowcu Wiśniowiecki, wojewoda krakowski, krzemieniecki, osiecki etc. starosta.  
-Oznajmuję tym listem przywilejem moim wszytkim wobec i każdemu z osobna, tak i teraz, jako i na potym, komu będzie należało wiedzieć. Iż kiedy Pan Bóg Wszechmogący, dawca uniwesalnych pociech ziemskich, ten który zasmuciwszy trzydziestoletnią blisko przeszłą, uprzykrzoną wojną turecką i częstemi tatarskiemi inkursjami, a teraz znowu tak szwedzkich, jako i moskiewskich wojsk i innych przechodzących codzienną agrawacyją, które nieszczęśliwą i nigdy
-
-nieopłakaną kraju tego, wyzuwszy go z ozdób swoich, przyniósłszy stratę, więc i Jampol miasto moje dziedziczne tej podległe nieszczęśliwości. Z których ruin dźwigając prz\[y\] boskiej pomocy i do
-
-**\[309\]** wigoru przyprowadzić usiłuję, tą przedsięwziął vel maksymę,aby obywatelom miasta tego, chcąc jako tych, którzy się wrócili do ojczyzn swoich, tak i innych zachęcić, prawom nadał dla zaszczytu większej ich
-
-wolności i przymnożenia fortun. Które wolności i prawo im odemnie nadane przywilejem niniejszym moim, tak jako inne miasta moje wszystkie podobny zaszczyt mają służyć im powinno.
-
-A naprzód wolne kurzenie gorzałek i szynki w domach wszelkich i
-
-przebitych ulicach, przecież ex quota należytą która taka na ten czas w intercyzie będzie położona, od kurzenia gorzałek, sycenia miodów, warzenia piwa, oddać powinni do arendy mojej, tak chrześcianie, jako i Żydzi. Do prowadzenia handlów wszelkich wolmość im daję, tak
-
-kupować, jako i przedawać towary quovis generale nazwane, a osobliwie sukna, bławaty, materyje, płotna, jebwabie, szmuchlerstwa, safiany, boty, wszelkie skóry wołowe, kozłowe, wyprawne i niewyprawne, przywoźne i jampolskiejroboty, woski, łoje et ad genus, co jako w domach, tak w kramach przedawać, kupczyć im wolno
-
-będzie. Rzemieśnicy kożdy, jako płótnicy, krawcy, kuśnierze, piekarze, rzeźnicy i inni, tak chrześcianie, jako i Żydzi, w tymże mieście osiadać bezpiecznie i z drugiemi wolno handle prowadzić mogą.
-
-Elekcyja burmistrzów takim sposobem odprawować się ma, to jest pan podstarości jampolski obierać ma z ramienia zamkowego jednego,
-
-kahał żydowski drugiego, a zaś mieszczanie dwóch obierać powinni. Burmistrze zaś powinni przestrzagać tego, aby w mieście był wszelki porządek, warta katolicka miejska przestrzagać ma, aby podczas procesyi w Wielki Piątek i naBoże Ciało, Żydzi od ludzi swywolnych
-
-nie byli prześladowani i szkody jakiej nie mieli.  
-Pobudowanie szkoły z przyszkółkami wolne, na które drzewa w lasach moich dziedzicznych i zastawnych, za dozwoleniem panów posesorów pozwalam. Okopisko wolne i człowiek przy nim mieszkający wolny ma być od wszelkich egzakcyi miejskich, także i zamkowych. Łaźnię ze
-
-studnią pozwala się.  
-do szarwarków niejskich zwyczajnych dni 12 co  
-rok a domów wjeznych, z domów zaś zatylnych dni 6, jeżeli tego potrzeba będzie, do grobli tylko miejskiej, a nie do żadnej innej roboty
-
-pociągać powinien. W święta wielkich uroczys\[to\]ści, jako to w Wielkanoc, Boże Wstąpienie, Zielone Świątki, Boże Ciało, Narodzenie
-
-Pańskie, Poczęcie i Wniebowzięcie Najświętszej Panny, roboyt w winnicach robię nie mają.  
-Żyd, który by btł nieposłuszny kahałowi, takowego dają w moc kahałowi, aby onego według prawa swego duchownego skarał. Żyd zaś
-
-powinien być pozwany od chrześcianina do burmistrza kwartalnego żydowskiego, a jeśliby z dekretu tego nie był kontent, apelacyja wolna mu do zamku. A jeśliby się pokazało na Żyda, jest tedy powinien go z zamku do kwartalnego pan podstarości odesłać, żeby go tam skazano. Krwawych, mokrych, kościelnych rzecy, nie powinni Żydzi kupować
-
-pod gardłem, innych zaś rzecy według praw koronnych wolny handel. Kłoda i miara być ma sprawiedliwa, czego pan podstarości mapostrzegać.  
-Arendarze, którzykolwiek znajdują się po majętnościach moich, cyrkumferencyją Jampola i innych dobrach moich dziedzicznych i zastawach będących, quovis titulo nazwanych, wszyscy należeć mają do kahułu jampolskiego i do Skarbu Rzeczypospolitej według proporcyi pociągać powinni. Ciż Żydzi prawem swym duchownym sądzić się mają a nie do zamku.
-
-Którego to prawa każdy punkt z osobna chcąc nieć w egzekucyi i utwierdzeniu dla tym większej wagi i pewności ręką moją własną
-
-podpisuję i pieczęć moją przycisnąc rozkazałem.  
-Dan w Lublinie, die 5 Iunii 1711 roku.  
-Podpis taki: Janusz książę Wiśniowiecki wojewoda krakowski, krzemieniecki, osiecki etc. starosta.
-
-(Pieczęć wyciśniona).  
-Który to przywilej de vero ad verbum przepisany podpisawszy, pieczęć moją zawiesić rozkazałem.
-
-<Michał Kazimierz Radziwiłł>  
-Datum w Białej Krynicy, die 7 Martii, 1753 anno.
