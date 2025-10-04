@@ -22,6 +22,1012 @@ description: Anti-Jewish accusations of host desecration and ritual murder, both
   accusations. The host desecration accusations gradually become church robbery
   cases, even if some theological rhetoric is retained, and the blood libels
   become cases of Jewish hostility and not of reenacting of the Crucifixion.
+original_language_body: >-
+  ## Source 1 Original Text
+
+
+  Akty izdavaemye vilenskoiu kommisieiu dla razbora
+
+
+  drevnikh aktov Akty o evreiakh
+
+
+  Roku tysiącznego siedmsetnego mca Junii dziewiętnastego dnia.
+
+
+  Przed nami sędziami głównemi na trybunał w w-m x-ie Lit-m z woiewodztw ziem
+  y powiatów na rok teraźnieyszy tysiączny syedmsetny obranemi, gdy z
+  porządku regestrowanego ku sądzeniu przypadła sprawa w Bogu wielebnego imć
+  xiędza Dawida Podebronowicza--plebana kościoła Komayskiego, z delacyey pana
+  Krzysztofa Łukaszewicza--zakrystyana tego kościoła Komayskiego z niewiernym
+  żydem Jakubem Salamonowiczem z miasta Pinczowa, samym pryncypałem. Nochimem z
+  Lublina, Izraelem z Przeworska, Johelem z Murawy z Nikliszporku, dla
+  złodzieystwa od miasta do miasta włóczącymi się świętokradzcami, Moszkiem
+  alias Moyżeszem przezywaiącym się Senatorem, wmiasteczku Wiżunach
+  mieszkaiącym, z temi łotrami przewodnią maiącym, także z poręcznikami
+  onego, Kasrelem Moyżeszowiczem, Jakubem Izakowiczem, Abramem Salomonowiczem,
+  y całym kahałem żydowskim Wiżuńskim y Kowarskim, starszemi tego \[245\]
+  kahału wszystkiemi, w Wilnie na ten czas zostaiącemi, w spolney radzie do
+  kradzieży będącemi, tudzież z imć panem Jane z Goryszewa Goryszewskim--
+  stolnikiem Brzeskim, podstarościm Wilkomierskim, dzierżawcą Wiżuńskim y
+  samą ieymć, za zakazem obżałowanum osobom podanym mieniąc o to: iż
+  przerzeczeni obżałowani żydzi, wiedząc dobrze o sczodrobliwym na kościół
+  Komayski y obraz cudowney Nayświętszey Panny przez pobożnych dobrodzieiów
+  w różnym splendorze, złocie, srebrze, perłach, kleynotach nadaniu, na które
+  obżałowani żydzi zawziowszy appetyta, po różnych miastach, snać y w
+  mieście i.k. mci Wilnie, immediate przed zaczęciem sądów głównych
+  trybunalnych złodzieystwem się bawiwszy, nie mało szkody ludziom poczyniwszy,
+  w roku teraźnieyszym tysiąc siedmsetnym ze dnia dwudziestego piątego na
+  dzień dwudziesty szósty msca Apryla, w nocy, wymyślnemi iakowemiś
+  złodzieyskiemi sposobami, przez mocne y warowne zamki do kościoła w Komaiach,
+  w powiecie Wilkomierskim będącego, y tam rozłupawszy siekierkami cymborium,
+  śmieli y ważyli się pomienieni żydzi niewierni, Jakub Salomonowicz, Nochim
+  z Lublina, Izrael z Przeorska, Johel z Morawy, sprośnemi łotrowskiemi rękoma
+  swemi sacra sacrorum tangere, puszkę cum venerabili ze czterdziestą
+  sześcią komunikantów wziąć y drugim do kahałów żydom na eluzyą
+  maiestata pańskiego oddać, czyli też gdzie zadzieli, przytym dwa kielichy
+  próżne wziąwszy, obraz nayświętszey Panny y ołtarz Jana świętego
+  odarszy, perłą pierścienie złote, srebra w tabliczkach y inne różne
+  splendory na tymże obrazie będące, także lamp dwie srebrnych w kościele
+  wiszących, sacrilega manu pozabierali, a niekontentuiąc się tym, ale
+  włomawszy się takowym że złodzieyskim sposobem do zakrystyey, monstrancyą
+  wielką srebrną y pieniędzy załuiącego imć xiędza plebana, co tam być
+  mogło, y innych niemało kościelnych rzeczy, podług osobliwego regestru, co
+  może żałuiący pamiętać, y wiedzieć, letko rachuiąc na złotych
+  dwanaście tysięcy wykradli, kościół y chwałę boską z ozdoby dla
+  zapamiętałey złości swey obnażyli, y te wszystkie srebro y splendor w
+  kościele Komayskim pokradziony, zniósszy do obżałowanego żyda Moszki, w
+  Wiżunach mieszkaiącego, iakowęś między sobą exdiwizią kradzieży y
+  pieniędzy za to y Moszki wiziętych, czynili, zatym gdy żałuiący imć
+  xiądz pleban Komayski, postrzegszy takowe bezbożne okradzienie kościoła
+  Komayskiego, dawszy o tym znać wielmożnemu imć panu staroście
+  Rumborskiemu, iako kolaforowi tego kościoła, a za dodaniem od imści ludzi po
+  różnych mieyscach opyt czynił, że kościół okradziony doniósł, ieśliby
+  się rzeczy kościelne gdzie pokazali, y iakowych złoczyńców przedaiących,
+  aby do żałuiącego dawali wiedzieć upraszał; po którym takowym opycie, w
+  kilka dni dla nieustaiącey o tym świętokradztwie quaerimoniey y queareli
+  imć xiędza plebana Komayskiego, za rządzeniem Naywyższego Pana, który
+  chwały swey świętey zawsze iest vindex y za okazaniem lica skradzionych wysz
+  wyrażonych rzeczy, szmatów, koron złocistych, srebrnych y lamp a za
+  poścignieniem y nagonieniem incarcerowanego, teraz obżałowanego żyda Jakuba
+  Salomonowicza, drugich żydów towarzystwa iego świętokradzców, żydowkami
+  dwóma pół mile od Kowerska w polu uchodzących, gdy niektórzy z ichmć
+  panów obywatelów, mianowicie imć pan Stanisław Gierdoyć y imć pan
+  Stanisław Moygis, w niebytności żałuiącego xiędza, uganiaiąc tych żydów
+  y żydówek, iako iawnych y przelicznych złodzieiów uchwytawszy, tylko
+  obżałowanego Jakuba Salomonowicza y Johyła z Murawy z dwoma żydówkami przez
+  Kowarsk prowadzili, tedy żydzi w Kowarsku mieszkaiące, całym kahałem swoim,
+  snać poczuwaiąc się do tego złodzieystwa, będąc uczestnikami et
+  complices, uczyniwszy tumult w roku tymże wysz pisanym msca Apryla
+  dwudziestego dziewiątego dnia tych złodzieiów żydów y żydówek, nic nie
+  respektuiąc na srogość prawa pospolitego, na \[246\] takowych swawolnych
+  ludzi opisanego, niesłusznie od prowadzących wysz mianowanych osob żyda z
+  Murawy y żydówki obiedwie odbili, odgromili, u siebie przechowywali y
+  przechowuią, których żydów imśc pan Giedroyć y imć pan Moygis in
+  instanti kahałowi Kowarskiemu przyparoczyli y aresztowali, mimo które
+  przypreczenie niewiedzieć gdzie tego żyda y żydówki podzieli, a Jakub
+  Salamonowicz zostawszy y sam ieden tyło osadzonym będąc, chcąc uść paen
+  srogich, za takowy kryminał przez siebie zasłużonych, porwawszt lichtarz
+  żelazny, samego siebie w gardło y w bok ranił y mało o śmierć przyprawił.
+  Zatym żałuiący imć xiądz pleban Komayski, wziowszy wiadomośc z relacyey
+  pryncypałow, osobliwie z obżałowanego Jakuba Salamonowicza, że nie mało
+  splendoru y srebra w kościele Komayskim pokradzionego u obżałowanego żyda
+  Moszka alias Moyżesza nazywaiącego Senatora, w mieście Wiżunach
+  mieszkaiącego, u kogo przerzeczeni żydzi przed okradzeniem kościoła y po
+  okradzeniu czas nie mały mieszkali, znayduie y iest u onego, iako prawo każe,
+  żałuiący imć xiądz pleban Komayski u obżałowanego imć pana
+  Goryszewskiego--podstarościego sądowego Wilkomirskiego, dzierżawcy na ten
+  czas Wiżuńskiego, uczynienia sprawiedliwości z tego żyda Moszka, lub też
+  z tym licem o wydanie onego, sam prze się y przez listoną instancyą, oraz
+  onterpozycyą imści pana Raieckiego-- starosty Rumborskiego, iako collatora
+  kościoła Komayskiego, upraszał, tedy obżałowany imć pan Goryszewski,
+  spólnie z ieymć panią małżonką swoią, iako będąc dissidentami in
+  religione, a zatym kościołowi Komayskiemu rzymskiemu nieprzyiaznemi, in
+  instanti obwinionego żyda żałuiącemu nie wydali, ale faworyzantami iawnemi
+  złóczyńców staiąc się, na parękę tym żydom obżałowanym Kasrelowi
+  Moyżeszowiczowi, Jakubowi Izakowiczowi y Abramowi Salamonowiczowi, w
+  Wiżunach mieszkaiącym, tego żyda Moszka, pryncypała spolnego y
+  świętokradce, naypierwszego uczestnika, iawnego łotra, spolnym łotrom ze
+  dworu na parękę wydawszy wy przyparęce onych przyiwoszy, za częstokrotną
+  przez żałuiącego imć xiądza plebana Komayskiego requizycią, nie tylko
+  sprawiedliwości z onego nie uczynił, ale czas od czasu zwlekaiąc, złoczyncom
+  folgował: dla tego ieszcze gdy żałuiący, chcąc tak strasznego kryminału w
+  sądzie głownym trybunalnym windykować, tego kryminalistę pod wartę
+  trybunalskę oddawszy, o stawienie żyda przyparęczonego u imći pana
+  Goryszowskiego przyiacielsko upomniał się, tedy obżałowany popełniaiąc pod
+  sądami głównemi trybunalnemi iawny zbytek y exces nie tylko stawić tego
+  żyda Moszka nie deklarował lecz srogą przegrożkę na zdrowie żałuiącego
+  imści xiędza plebana tu w mieście Wilnie w tymże wysz pisanym roku msca
+  Junii piątego dnia uczynił, o które to przez obżałowanego imci pana
+  Goryszewskiego w nieuczunieniu sprawiedliwości z obwinionych żydów, a przez
+  żyda Jakuba Salomonowicza wespół drugimi pryncypałami od niego powołanemi,
+  spólney rady y namowy z żydami kahału Wiżuńskiego y Kowarskiego, także z
+  żydem Moszką, alias Moyżeszem nazwanym Senatorem, o wykradzenie kościoła
+  Komayskiego o przechowanie żydów włóczęgów, złodzieiów, łotrów, onym
+  rady y pomocy dodawanie, chcąc prawem czyinć \[sic\], tak z obżałowanym
+  Jakubem Salomonowiczem, w więzieniu będącym, iako y ze wszystkiemi
+  obżałowanemi żydami do stawienia, ante omnia u sądu naszego głównego
+  trybunalnego w Wilnie odprawuiącego się przez imć pana Goryszewskiego żyda
+  Moszka, alias Moyżesza, nazwanego Senatora y paręczników iego żydów
+  Kasrela Moyżeszowicza, Jakuba Izakowicza y Abrama Salomonowicza, spólnych
+  łotrów, przyparęczonych y w przyparęce przyiętych a z kahałem Kowarskim y
+  szkołą onych o niesłuszne pomienionego żyda, złodzieia z Murawy, żydówek
+  dwoch odbicie, onym pofolgowanie y dostawienia także onych, iako szkole
+  Kowarskiey przyparęczonych, dobrze imści znaiomych \[247\] y gdzie teraz
+  się obracaią, poniewasz maiąc ich sobie przyparęczonych dobrowolnie
+  wypuścili wiadomych, a za nie stawieniem za tak iawną przez obżałowanych
+  żydów swawolą, także złodzieystwo, do wskazania paenas criminalissimas, do
+  powrócenia, abo nagrodzenia pokradzionych w kościele Komayskim złota, srebra
+  y innych rzeczy, splendoru kościelnego y szkód nakładów prawnych, które
+  żałuiący imć xiądz pleban spendował y spenduie teraz, zachowawszy sobie w
+  dalszym procederze prawnym wolne tey żałoby melioratią, lub też do
+  zniesienia inszey protestacyey et in toto do kogo z prawa ukazano będzie
+  salwum ius tym zakazem, na którym rzecz dostateczniey opisana, przed sąd
+  główny trybunalny zapozwał. Do którey sprawy po zażywanych do niewiernego
+  żyda Jakuba Salomonowicza z pod warty na każdym terminie personaliter
+  stanowionego, dylacyach y dobrodzieystwach prawnych, to iest na dniu
+  dwiewiątym miesiąca Juniii patronów y po przydaniu naszym onemu pana Jerzgo
+  Woytkiewicza y pana Jerzego Woronowicza, y pana Pawła Rewienskiego, na dniu
+  dwunastym po wzięciu na copią z zakazu, na dniu szesnastym na copie ze
+  wszystkich spraw w podaniu onych na dniu ninieyszym to iest dziewiętnastym
+  tegoż miesiąca Juny, anni praesentis, za przywołaniem przez ienerała stron
+  do prawa, przez aktorów pan Jan Suroż Frąckiewicz-- krayczy Wileński, y
+  pan Michał Bohdanowicz, a od niewiernego żyda Jakuba Salomonowicza pan Paweł
+  Reweński y pan Jerzy Woytkiewicz patronowie za mocami prawnemi sobie do tey
+  sprawy danemi y ustnie zleconemi przy bytności tak imć ziędza plebana,
+  tudzież zakrysyana kościoła Komayskiego, iako też y żyda Jakuba
+  Salamonowicza, z pod warty postawionego, oczewisto stawali y prawnie
+  rosprawowali się. Zatym strony powodowey patron pan Frąckiewicz podanych
+  obżałowanym niewiernym żydom Jakubowi Salamonowiczowi, tu pod wartą
+  będącemu, Moyżeszowi--Senatorowi, Kaszrelowi Moyżeszowiczowi, Jakubowi
+  Izakowiczowi y Abramowi Salamonowiczowi y całym kahałom żydowskim
+  Wiżuńskiemi y Kowarskiemi, za bramą Trocką tu w mieście i. Kr. Mci Wilnie
+  Nochimowi z Lublina, Izraelowi z Przeorska, Iohilowi z Murawy z Nikloszporku,
+  do brom na ulicach Subacz y Trockiey będących, poprzybiianych, a imć panu
+  Goryszewskiemu za bramą Trocką ku zborowi ewangelickiemu idącemu oczewisto
+  w ręce podanych piąciu stronic, przez ienerała Piotra Zynze zakazu,
+  zeznaniem onego oczewistym przed wielmożnym imć panem pisarzom ziemskim
+  Wilenskim y koła sądów naszych uczynionym słusznie y iawnie dowiodszy,
+  żałobę aktorów swoich iteruiąc wniosł: że obżałowani żydzi w roku
+  teraźnieyszym tysiąc siedmsetnym ze dnia dwudziestego piątego na dzień
+  dwudziesty szósty mca Apryla w nocy, przez zamki do kościoła Komayskiego
+  dobywszy się, cymborium siekierami rozłupawszy, puszkę ze czterdziestą
+  komunikantów wzięli y czy drugim kahałom y żydom na eluzyą maiestatu
+  pańskiego oddali, czyli też gdzie zadzieli, kielichów dwa prożnych
+  wzięli, obraz świętego Jana z ozdób, srebra, kleynotów odali, lamp dwie
+  srebrnych wiszących zabrali, do zakrystyey włomawszy się, monstrancyą
+  srebrną wielką y pienędze aktora pozabierali, szkody na dwanaście tysięcy
+  złotych uczynili, które srebro do żyda Wiżuńskiego nazywaiącego się
+  Moszka zanieśli y czy tym srebrem, czyli też pieniędzmi za srebro u Moszki
+  zanieśli y czy tym srebrem, czyli też pieniędzmi za srebro u Moszki
+  wziętemi podzielili się, a potym gdy iuż z Wiżun uchodzili za
+  poścignieniem y złapaniem pomienionego Jakuba Salomonowicza y Iochila z
+  Morawy, towarzysza iego, z żydówkami dwoma, którycg gdy imć pan Gieydroyć
+  y imć pan Moygis do Kowarska przyprowadzili w reoku tymże teraźnieyszym y
+  tegoż msca Apryla dnia dwudziestego dziewiątego, żydzi Kowarscy, uczyniwszy
+  tumult, żyda z Morawy y żydówek dwie odbili, za wzięciem iednak iuż
+  pewney wiadomości, że żyd Wiżuński nad prawo y wszelką \[248\]
+  słuszność srebro kościelne od tych złodzieiów nabywać, złodzieiów czas
+  nie mały przed tą kradzieżą y po kradzieży u siebie przechowywać ważył
+  się, aby onego do sequestru urzędowego y do imści pana Goryszewskiego, iako
+  podstarościego sądowego Wilkomirskiego, a dzierżawcy Wiżuńskiego, wzięto
+  lub też żałuiącym iako łotra, złodzieia wydano, abo też sprawiedliwość
+  uczyniono, imć pana Goryszewskiego od żałuiącego proszono; kahał tedy
+  Wiżuński imści pana postarościego zabiegszy, iawnego łotra na parenkę
+  wzioł, a imść pan Goryszewski y sama ieymć, bendąc dissidentes in
+  religione, łotra łotrom na parękę wydali, sprawiedliwości nie uczynili,
+  sądy czas, od czasu odkładali, a nad to popełniaiąc pod sądami naszemi
+  exces, przegrożki na zdrowie aktorów czynili, czgo processem od aktorów na
+  obżałowanych przed namisz sądem zaniesionym y per extractum w dacie roku
+  teraźnieyszego tysiąc siedemsetnego, msca Junii piątego dnia wyiętym,
+  tudzież relacią ieneralską y regestrem poczynionych szkod w grodzie
+  Wileńskim aktykowanych dowiodszy y że przy licu żyd Jakub Salamonowicz
+  wzięty iest, ktore przed nami sądem pokazywano, doniosszy tego żyda Jakuba
+  Salamonowicza, aby doskonalsza w tym mogła być wiadomość, na tortury
+  wskazania prosił, a pan Rewienski, żydowi Salomonowiczowi przydany patron,
+  odczwawszy się wniosł, że pryncypał onego nie wienien, nie podeyrzany,
+  nikomu z złodzieystwa niewywodził się y w tey sprawie strona powodowa żadnym
+  nie dowiodła dokumentem, aby on był co winien, lica przy nim nienaleziono, ale
+  tam z drugiemi żydami zszedł się y zaiedno szedł drogą, potym gdy ich
+  dogoniono, zaiedno do Kowarska przyprowadzono, tamci pouciekali, to snać byli
+  y winni. On zaś iako nic niewinien, to też nie uciekał, zaczym alleguiąc
+  prawa pospolite statutowe, artykuł sześćdziesiąt pierwszy z rozdziału
+  iedynastego, dla lepszego obiaśnienia tey sprawy na inquizycyą odesłania
+  żądał. Na takową pana Rewieńskiego kontrowersyą pan Bohdanowicz prawnie
+  replikuiąc doniósł, że niepowinna być wyprowadzona inquizycya, bo kożdemu
+  yle w powiecie Wilkomierskim iest rzecz wiadoma, że kościól Komayski żydzi
+  okradli, lice które u sądu naszego pokazywano przy tychże winowaycay, przy
+  których y ten żyd był, naleziono, zaczym podług pierwszey instancyeye żyda
+  pod wartą będącego na corporalną inquizycyą wskazania, a ieżeli tego
+  potrzeba, tedy y do przysięgi zakrystyanowi Komayskiemu na szkodach y
+  wszyskich punktów w żałobie inserowanych zabieraiąc, uznania oney a na
+  żydzie Salamonowiczu simul et paenas criminales decerni upraszał. E contra
+  pan Woytkiewicz od Jakuba Salamonowicza stawaiąc, a dowodząc tego, że
+  bliszszy by był do odwodu żyd Jakub Salamonowicz, iako niwczym niewinny,
+  niepodeyrzany, bez żadnego lica wzięty, ale żeby nieiwnność onego lepiey
+  y doskonaley obiaśnić się mogła, gdzie iego wzięto, aby ci ludzie, ieśli
+  ten żyd iest co winien, podług prawa przed ichmć panami inquisitorami
+  zeznali, do zwysz wyrażonego przez pana Rewienskiego allegowanego referuiąc
+  się prawa, tey sprawy inquisitią ad locum loci odesłania prosił y domawiał
+  się. W ktorey sprawie z oczewistey stron przy postanowionym z pod warty
+  żydzie Salamonowiczu kontrowesyi, my sąd przysięgi żadney, do którey się
+  od imć xiędza plebana Komayskiego stawaiąc panu Krzysztofowi
+  Łukaszewiczowi-- zakrystyanowi Komayskiemu zabierano, na tenczas nie
+  uznawaiąc, żyda Jakuba Salamonowicza, iako przy licu wziętego dla
+  dostateczney informacyey w tey sprawie na korporalną inquizycyą na tortury
+  wskazuiemy, które turtury dnia dwudziestego pierwszego praesentis nad tymże
+  żydem przez mistrza na mieyscu zwykłym odprawić się maią, a nia
+  dwudziestego trzxeciego tegoż msca Junii strony finalną w samey rzeczy
+  rosprawę przyiąć powinni będą. A po odprawioney nad przerzeczonym żydem
+  Jakubem Salamonowiczem corporalney inquisicyey, gdy ta sprawa na \[249\] dniu
+  dwudziestym szostym tegoż miesiąca Junij ku sądzeniu naszemu przypadła,
+  tedy za przywołaniem ieneralskim stron do prawa, od imści xiędza plebana
+  Komayskiego wysz wyrażony patron imć pan Frąckiewicz stawaiąc, tego żyda
+  Jakuba Salamonowicza z pod warty personaliter u sądu naszego postawienia
+  affektował, za postawieniem ktorego ab utriunque zwysz wyrażeni patronowie
+  stawali. Zatym pan Frąckiewicz patron actoreae partis przypadłego tey sprawie
+  terminu dekretem sądu naszego oczewistym na dniu dziewiętnastym tegoż
+  miesiąca Junii ferowanym słusznie, prawnie dowiodszy, inquisitią podług
+  pomienionego sądu naszego dekretu nas żydem Jakubem Salamonowiczem
+  czynioną, na piśmie z podpisem ręki ieneralskiey od daną czytał, która de
+  verbo ad verbum tak się w sobie Confessata żyda Jakuba Salamonowicza za
+  dekretem sądu głównego trybunalskiego, roku tysiąc siedmsetnego pierwszego
+  miesiąca Juny w Wilnie czyniona. Naprzód przed samą confessatą nieyznał
+  sie ten żyd Jakub Salamonowicz, aby miał z drugiemi żydami, to iest Jzraelem
+  z Przeorska, Nochimem z Lublina, Jehielem z Nikliszporku, być w Komaiach y
+  łupać kościół, tylko z boku słyszał, że ci pomienieni żydzi Jzrael,
+  Nochim y Jehiel, odprawiwszy szabas, z Wiżun szli do Komay y z tamtąd
+  powrociwszy ze srebrem nazad, przedali żydowi Moszkowi alias Moyżeszowi,
+  nazwiskiem Senatorowi, za dziewięćdziesiąt talarów bitych y te pieniądze
+  od niego odebrali, tylko złotych czterdzieście pięć zostało przy Moszku w
+  Wiżunach. Za pociągnieniem tedy pierwszym Jakub Salamonowicz zeznał, że
+  Meier żyd, arendarz Oniksztański, tych trzech żydów podmowił do tey
+  kradzieży kościoła Komayskiego, daley gdy się pytano przyznał się że y
+  sam ten to Jakub żyd był w tey kompaniey z niemi, kościół bez ognia w nocy
+  witrychiem otworzyli, on stał na straży u drzwi na cmentarzu, a tamci trzey
+  cymborium siekierami wyłupali, puszkę z nakrywką y z komunikantami
+  świętemi wzięli, w zakrystyey kielichów dwa y patyny dwie, monstrancyą
+  lampy dwie wzięli y całkiem te srebro w Wiżunach Żydowi Moszkowi Senatorowi
+  przedali, komunikanty święte z puszki, które mienił być iak piątaki,
+  tegoż Moszka z puszką oddali, który z puszki na sprośne ręce swe wysypał,
+  a potym, w papier wsypawszy, do skrzyni dał żonie swoiey schować y namuwili
+  się z sobą, że mieli w ogniu spalić. Za drugim razem, zeznał że resztę
+  srebra mnieyszego od Moszka żyda pozostałego przenieśli do żyda Meiera
+  Oniksztańskiego, krewnego Moszkowego, którzy, że nie wprzód u niego byli,
+  nieprzyioł y przy tamtych trzech żydach zostało srebra, co mieli wychodząc z
+  Wiżun, z którym to srebrem odbito w Kowarsku. Za trzecim razem wyznał ten
+  Jakub złodziey, że Ayzik, arendarz Woynoyski, syn Gierszona arendarza imści
+  pana Sokołowskiego--stolnika Inflanskiego, będąc na iarmarku w dzień
+  świętego Jerzego w Wiżunach, namówił z Moszkiem--Senatorem iego y tamtych
+  trzech, dawszy informacyą, aby szli do wykradzenia tego srebra, że mieli z
+  nim szielić ię, ale potym nic mu nie dali, przykazał tedy tym złodzieiom
+  Ayzik, aby niepowiadali żenie onego, ieśliby się pytała dokąd idziecie,
+  powiedzcie że do Rakiszek idziem; w teyże karczmie gdzie żona Ayzika pili
+  wodkę y piwo; a tak nieopowiadaiąc się poszli do Komay, tamże w polu
+  siedzieli czekaiąc wieczora. Jnney kradzieży, gdy się pytali nie przyznał
+  się. Piotr Adamowicz--ienerał J.k. mści, przy confessacie były, własną
+  ręką podpisałem. A po przeczytaniu tey inquisicyey, żałoby, relacyi, y
+  regiestru donosił, że co iest od imć xiędza plebana Komayskiego w
+  uroszczoney y zaniesioney żałobie wyrażono, to wszystko na widok się
+  pokazało z inquizycyey, że żydzi bez ognia w nocy kościół Komayski zamek
+  wytrychem otworzywszy wykradli cymborium siekierami rozłupali, puszkę z
+  nakrywką y komunikantami wzięli, kielichów dwa patyny dwie, monstrancyą,
+  lampy dwie \[250\] zabrali y te srebro do Moszka żyda Wiżuńskiego
+  zanieśli, który z niemi maiąc przewodnią y srebro kościelne prawem
+  pospolitym obwarowane nabywać, komunikanty ad sacrilegos manus wysypywać, y
+  one na eluzyą prawdziwey Chrześciańskiey wiary chować ważył się. Już
+  tedy evidentissime pokazało się, że ci żydzi, przyliczni świętokradce;
+  widzieli żydzi Kowarscy, kogo odbiiać, wiedział kahał Wiżuński, kogo na
+  parękę brać, a imść pan Goryszewski niechciał Moszka żyda, przewodce y
+  przylicznego złodzieia, wydać, ale drugim żydom na parękę dał,
+  sprawiedliwości czas od czasu zwłocząc uczynić niechciał, przyparęczenie
+  przyioł. Pokazało się też y to że y ten żyd Jakub Salamonowicz z niemi w
+  kompaniey był, uczestnikiem teyże kradzieży iest spolna ich wszystkich na
+  takowz zły y niesłychany uczynek była obrada; na dalszy tedy ieszcze dowod
+  panu Krzysztofowi Łukaszewiczowi--zakrystyanowi Komayskiemu, na tym: iako w
+  roku teraznieyszym tysiąc siedemsetnym ze dnia dwudziestego piątego na
+  dzień dwudziesty szósty miesiąca Kwietnia, w nocy, obwinieni żydzi, w
+  przyparęce u imści pana Goryszewskiego-- stolnika Brzeskiego y innych osób
+  będące, przez zamki do kościoła Komayskiego dobywszy się, cymborium
+  siekierami rozłupiwszy, puszkę z czterdziestą sześcią komunikantami, a
+  kielichow dwa próżnych wzięli y czyli do kahałow, czyli gdzie oddali, z
+  obrazów ozdoby odarszy, śrebro, keynoty, lamp dwie wiszących, z zakrystyey
+  monstrancyą wielką y pieniądze zabrali, szkody na dwanaście tysięcy
+  uczynili; za poścignieniem zaś złoczyńców y przyprowadzeniem do Kowarska,
+  żydzi Kowarscy dnia dwudziestego dziewiątego Apryla, uczyniwszy tumult,
+  żyda z Murawy y żydówki odbili; na tym: iako Moszko żyd Wiżunski srebro
+  kościelne do tych złodzieiow za talerow dziewiędziesiąt nabył, złoczyncow u
+  siebie przechowywał, ktorych potym kahał Wiżuński na parenkę wzioł, do
+  iuramentu zabieraiąc, do onego uznania, a po wykonanym iuramencie tak żyda
+  Jakuba Salamonowicza, personaliter u sądu naszego postawionego, iako też
+  Nochima, Jzraela y Jehila y Moszka przezywaiącego się Senatora, tudzież
+  żydów kahału Kowerskiego, że zniemiż znać przewodnią maiąc, Jichila
+  żyda y żydówki dwie odbili, tudzież żydów kahału Wiżuńskiego, że
+  Moszka żyda na paręke wzieli, onego niestawili na paeny criminalne żywo
+  ogniem spaleniem wskazania y tak na wykoanie przysięgi, iako też na
+  uczynienie nad Jakubem Salamonowiczem executiey terminu złożenia; a że się
+  też Nochim, Jzrael, Jehil, Moszko y paręcznicy onych Kaszrel Moyżeszowicz,
+  Jakub Jzakowicz, Abram Salamonowicz y cały kahał Wiżunski y Kowarski--starsi
+  tego kahału y imść pan Goryszewski y pani małżonka imści do prawa
+  nestawali, tedy na upad w rzeczy wzdania y żydów na infamią y na łapanie,
+  imści pana Goryszewskiego, y panią małżąnką z przyczyn w żałobie
+  wyrażonych na infamią tylko, przytym za szkody kościołowi Komayskiemu na
+  dwanaście tysięcy złotych poczynione, sowito dwudziestu czterech tysięcy,
+  osboliwie za szkody, nakłady prawne w tey sprawie errogowane, sześciuset
+  złotych polskich z kopami wpisnego y pamiętnego et cum lucris nam
+  przychodzącemi, na maiętnościach y dobrach obżałowanych, domach, kromach,
+  handlach, towarach, spawąch, arendach y na innych wszelkich maiętnościach
+  onych, leżacych, ruchomych, sumach pieniężnych, gdziekolwiek będących,
+  żałuiącemu imści xiędzu plebanowi Komayskiemu wskazania, y tak
+  pomienionych żydów na upad w rzeczy wzdanych, iako też imści pana
+  Goryszewskiego y panią małżąke imsci, według prawa coaequationis, ex nunc
+  za infamisow uzanania y dla publikowania tey infamiey ienerała sądowego
+  przydania publikować y proklamować nakazania, a iako za summę wysz
+  wyrażoną dla uczynienia na pomienionych obżałowanych osob dobrach, odprawy,
+  tak na poścignienie y złapanie pomienionych zwysz wyrażonych żydów, dla
+  \[251\] uczynienia nad onemi przez mistrza executiey do urzędów grodzkiego
+  lub ziemskiego Upitskich y innych wszelkich sądow tych woiewodztw y
+  powiatów, gdzie osoby y doba onych okażą się, z założeniem paen prawnych
+  y odesłania, a do Meiera żyda, arendarza Oniksztanskiego y do Ayzyka,
+  arendarza Woynowskiego, do czynienia prawem salwy zachowania u nas sądu
+  prosił y domawiał się. A od Jakuba Salamonowicza, patron onemu przydany pan
+  Rewienski odezwawszy się, replikował, że pryncypał onego, to iest Jakub
+  Salamonowicz nic niewiien, bo Jzrael, Nochim y Jehel tego Jakuba gwałtem z
+  sobą wzięli y tamci tak kościół łupali, iako też y splendor brali, a iego
+  na straży postawili, on iuż im poniewoli nie kompaniey dopomagać, ale
+  służyć musiał, iemu ani tego srebra, co pobrali, ani też pieniędzy, co za
+  srebro wzięli, nie dali, ale to wszystko przy tamtych y przy Moszku Senatorze
+  zostało, y on kiedy szedł do Kowarska na dobrowolney drodze, bez żadnego lica
+  wzięto, bliższefo tedy Jakuba Salamonowicza na tym: iako żydzi Nochim z
+  Lublina, Jzrael z Przeorska y Jehiel z Murawy, idąc do Komay, niewiedząc w
+  iako sposób, gwałtem niemal onego z sobą wzieli, aby stał na straży
+  przymusili; na tym: iako on do tego srebra nietykał się y tak samego srebra,
+  iako też pieniędzmi za one nie brał; na tym, iako żadnego lica przy nim
+  nienaleziono y niwczym w obżałowaniu imści xiędza plebana Komayskiego
+  winnym nie iest, do przysięgi uznania, a po przysiędze od żałoby przez
+  imści xiędza plebana Komayskiego do onego uroszczoney uwolnienia dopraszał
+  się. Replikuiąc na to pan Bohdanowicz, patron imsci xiędza plebana
+  Komayskiego doniosł: że Jakub Salamonowicz tym się nie może excusować, że
+  go gwałtem drudzy żydzi wzieli, bo do takich rzeczy nikt nie może
+  przymusić, a do tego pokazało się z inquizycyey za trzecim pociągnieniem
+  zeznaney, że go Ayzik arendarz Woynoyski, syn Gierszona arenarza imć pana
+  Sokołowskiego--stolnika Jnflanskiego, z Moszkiem Senatorem, na święty Jerzy,
+  na iarmarku, spolnie ich wszystkich czterech, dawszy im informatią do takiego
+  złego bezbożnego uczynku namówili, zaczy iuż wiedział, poco do Komay, a ile
+  do kościoła szedł y czego miał się spodziewać, iuż tedy to było dobrowolne
+  zezwolenie, do tego nikt niemogł przymuszać y innemi obszernie
+  wniesionemyprawnemi replokowawszy ratiami, za przysięgą zakrystyana tego,
+  żyda na garło żywo spaleniem y na inne srogie męki wskazuią, a drugich na
+  upad w rzeczy y na paeny kruminalne, a na dobrach wskazu podług pierwszego
+  strony swey domawiania decerni żądał. Na koniec pan Woytkiewicz, szeroce
+  odpowiadaiąc, że ten żyd na torturach z bolu wielkiego y sam niewiedział co
+  mowił, ale teraz tak zeznawa, iak w samey rzeczy było, zaczym przy wyszszym
+  stawaiąc domawianiu y na punktach zwysz wyrażonych, do przysięgi
+  zabieraiąc do oney uznania, a po przysiędze od żałoby uwolnienia, a do
+  drugich żydów zwysz specifikowanych imści xiędzy plebanowi Komayskiemu
+  salwy zachowania prosił y domawiał się. Atak my sąd w tey sprawie w Bogu
+  wielebnego imści xiędza Dawida Podebrynowicza--plebana kościoła
+  Komayskiego, z dylacyey Jana Krzysztofa Łukaszewicza-- zakrystyana tegoż
+  kościoła Komayskiego, z niewiernym żydem Jakubem Salamonowiczem, z miasta
+  Pinczowa, samym pryncypałem, Nochimem z Lublina, Izraelem z Przeworska,
+  Ichilem z Morawy z Nikliszporka, Moszkiem Moyżeszem, przyzywaiącym się
+  Senatorem, Kaszrelem Moyżeszowiczem, Jakubem Izakowiczem, Abramem
+  Salamonowiczem y całym kahałem żydowskim Wiżunskim y Kowarskim starszemi
+  tego kahału, także z imć panem Janem z Goryszewa Goryszewskim--stolnikiem
+  Brzeskim--podstarościm Wilkomierskim, dzierżawca Wiżuńskim y samą ieymć,
+  z oczewistey między imścią xiędzem plebanem Komayskim a żydem Jakubem
+  Salamonowiczem z pod warty do sądu postanowionym kontrowersyey, poniewasz tak
+  z produktu y \[252\] dowodów imści xiędza plebana Komayskiego, iako też z
+  odprawioney nad żydem Salamonowiczem corporalney inquizycyey iawnie y widomie
+  u sądu naszego pokazało, że ten żyd Jakub Salamonowicz do okradzenia
+  kościoła Komayskiego był uczestnikiem y sam do szkod świętokradztwa y
+  złodzieystwa z drugiemi żydami popełnionego znał się. Zaczym my sąd, do
+  prawa pospolitego y świętey sprawiedliwości przychiłaiąc się, a na dalszy
+  dowod zakrystyanowi Komayskiemu p. Krzysztofowi Łukaszewiczowi, samemu
+  iednemu, na tym iako sprawiedliwie w roku teraźnieyszym tysiąc siedmsytnym
+  ze dnia dwudziestego piątego na dzień dwudziesty szosty msca Kwietnia w noc
+  obwinieni żydzi w przyparęce u imści pana Goryszewskiego--stolnika
+  Brzeskiego y innych ichmć będące przez zamki do kościoła Komayskiego
+  dobywszy się, cymboryum siekierami rozłupawszy, puszkę ze czterdziestą
+  sześcią komunikantami, a kielichow próżnych dwa wiżeli y czyli do jahało
+  czyli też gdzie oddali, z obrazów ozdoby odarszy, srebro, kleynoty, lamp
+  dwie wiszących, w zakrystyey monstrancyą wielką y pieniądze zabrali,
+  szkody na złotych dwanaście tysięcy uczynili, za poścignieniem zaś
+  złoczyńcow y przyprowadzeniem do Kowarska, żydzi Kowarscy dnia dwudziestego
+  dziewiątego Apryla uczyniwszy tumult, żyda z Moawy y żydowki odbili; na
+  tym: iako Moszko żyd Wiżynski srebro kościelne od tych złodzieiow za
+  talerow dziewiędzesiąt nabył, złoczyńcow przechowywał, których potym kahał
+  na parękę wzioł, przysięgę uznawszy, termin na wykonanie oney dzień
+  dwudziesty osmy tego msca Junij przed sobą dądem sładamy, a po wykonanym
+  iuramencie my sąd pomienionego żyda Jakuba Salamonowicza, iako iawnego przy
+  licu wziętego złodzieia y świętokradce, na paeny kryminalne, to iest, na
+  spalenie żywego ogniem wskazawszy, aby executia nad nim że przez mistrza na
+  mieyscu zwykłym tegoż czasu skoro po przysiędze uczyniona była, nakazuiemy,
+  a drugich obwinionych wszystkich, iako prawu nieposłusznych, w roku zawitym na
+  upad w rzeczy wzdaiemy y według prawa, żałoby pozewney y domawiania się
+  strny powodowey patrona, za szkody kościołowi Komayskiemu na dwanaście
+  tysięcy złotych od żydów poczynione, sowito dwadzieścia cztery tysiące
+  złotych, na szkody nakłady prawne w tey sprawie spendowane, sześćset złotych
+  polskich, a z wpisnym y pamiętnym nam danym et cum lucris zapłacony,
+  wszyskiemgo summą dwadzieścia cztery tysiące sześćset y dziesięc złotych
+  polskich na pozwanych niewiernych żydach wszyskich y na maiętnościach y
+  dobrach onych, domach, kromach, handlach, spławach, arędach, y innych
+  wszelkich leżących ruchomych, summach pieniężnych gdziekolwiek będących,
+  a samych obżałowanych niewiernych żydów Nochima z Lublina, Izrael z
+  Przeorska, Ichila z Morawy z Nikliszporka, Moszka Alias Moyżesza
+  przyzywaiącego się Senatora, Kasrela Moyżeszowicza, Jakuba Izakowicza,
+  Abrahama Salmonowicza y cały kahał żydowski Wiżuński y Kowarski, starszych
+  tego kahału za takowe świętokradztwo na infamią na gardło żywych paleniem,
+  a że do prawa niestawaią, tedy na łapanie, tudzież imć pana Jana z
+  Goryszewa Goryszewskiego -stolnika Brzeskiego-- podstarościego
+  Wilkomirskiego, dzierżawce Wiżunskiego y panią małżąkę imci w spolney
+  radzie y namowie będących, za nieuczynienie w tak iawney y widomey sprawie
+  sprawiedliwości y niewydanie żyda Moszka świętokradce y przewodnią z
+  żydami złodzieiami maiącego, na infamią żałuiącemu imści xiędzu
+  Podobrynowiczowi plebanowy Komayskiemu, wskazuiemy onychże podług prawa
+  coaequationis ex nunc za infamisow uznawszy, dla publikowania y proclamowania
+  tey infamiey ienerała sądowego przydaiemy, publikować y proklamować
+  nakazuiemy; a iako za summe zwysz wyrażoną dla uczynienia na pomienionych
+  obżałowanych osob dobrach odprawy, tak na poścignienie y łapanie samych
+  obżałowanych \[253\] wszystkich zwysz wyrażonych żydów, dla uczynienia nad
+  onemi na garłach przez mistrza executiey do urzędów grodzkiego, albo
+  ziemskiego powiatu Upickiego i innych wszelkich sądowych tych woiewodztw y
+  powiatow, pod ktoremi dobra obżałowanych okażą się y osoby poścignine y
+  złapane być mogą, a którego sobie z ichmościów panów urzędników strona
+  do tey sprawy użyć zechce, założywszy na speciwnego temu dekretowi naszemu
+  paeny prawne odsyłamy. A do żydów Meiera, arędarza Onikszanskiego y Ayzika
+  Woyneyskiego, którycg z konfessaty żyd Jakub Salomonowicz powołal y do
+  drugich, do których prawo drogę pokaże, salve aktorowi temuż y na potym do
+  konwinkowania onych zachowuiemy. A gdy dzień dwudziesty ośmy tegoż
+  miesiąca Junii anni praesentis, tak dla wykonania przysięgi, iako też dla
+  publikowania proclamowania pomienioney infamiey przypadł tedy pan Krzysztof
+  Łukaszewicz, zakrystyan kościoła Komayskiego, przy postanowionym z podwarty u
+  sądu naszego żydzie Jakubie Salamonowiczu, z roty kancellaryey naszey
+  wyięty, a przez ienerała czytaney iramento sobie nakazany w te słowa wykonał:
+  Ja Krzysztof Łukaszewicz przysięgam panu iedynemu Bogu wszechmogącemu, w
+  Troycy swiętey iedynemu, na tym: iako sprawiedliwie w roku teraźneyszym
+  tysiąc siedmsetnym ze dnia dwudziestego piątego na dzień dwudziety szosty
+  miesiąca Kwietnia, w nocy, niewierni żydzi Jakub Salamonowicz z miasta
+  Pińczowa, Nachim z Lublina, Izrael z Przeworska, Ichel z Morawy z
+  Nikliszporka. Moszko alias Moyżesz, przezywaiący się Senator, w przyparęce
+  u imści pana Goryszewskiego--stolnika Brzeskiego y innych będące, w nocy
+  przez zamki do kościoła Komayskiegu dobywszy się cymborium siekierami
+  rozłupawszy, puszkę z czterdziestą sześcią komunikantami, a kielichow dwa
+  prożnych wzieli y czyli do kahałów czyli też gdzie oddali, z obrazow ozdoby
+  odarszy, srebro, kleynoty, lamp dwie wiszących, w zakrystyey monstrancyą
+  wielką y pieniądze zabrali, szkody na złotych dwanaście tysięcy uczynili,
+  za poścignieniem zaś złoczyńcow y przyprowadzeniem do Kowarska, żydzi
+  Kowarscy dnia dwudziestego dziewiątego Apryla, uczyniwszy tumult, żyda z
+  Murawy y żydówki odbili; na tym: iako Moszko żyd Wiżunkis srebro
+  kościelne od tych złódzieiów za talerów dziewiędziesiąt nabył,
+  złoczyńcow u siebie przechowywał, których po tym kahał Wiżunski na parękę
+  wzioł, naczym wszyskim iako sprawiedliwie przysięgam, tak mi panie Boże
+  dopomoż, a ieśli niesprawiedliwie, Boże mie ubij. A po wykonaniu przysięgi
+  Piotr Zynza ienerał sądów naszych pilnuiący, dość czyniąc prawu
+  pospolitemu y dekretowi naszemu, w izbie sądowey et in foro publico,
+  niewiernych żydów Nochima z Lublina, Izraela z Przeorska, Ichila z Morawy z
+  Nikliszporka, Moszka alias Moyżesza przezywaiącego się Senatora, Kasrela
+  Moyżeszowicza, Jakuba Izakowicza, Abrama Salamonowicza y cały kahał Wiżunski
+  y Kowarski, starszych tego kahału, za infamisow na garło y na łapanie
+  osądzonych, a imści pana Jana Goryszewskiego--stolnika
+  Brzeskiego--podstarościego Wilkomirskiego, dzierżawce Wiżunskiego y panią
+  małżonkę imści za infamissow publikował y proclamował y relacyą
+  publikacyey swey, a loco publicationis rediens, iducialiter zeznał. A zatym my
+  sąd dekret sądu naszego, na dniu dwudziestym szostym msca Junij
+  teraznieyszego roku ferowany, we wszystkich punktach y paragrafach
+  nienaruszenie przy mocy zachowuiemy y utwierdzamy y ony do executiey
+  porządkiem prawnym przywodzić pozwalamy. Która sprawa do xiąg głównych
+  trybunału wielkiego xięstwa Litewskiego iest zapisana.
+
+
+  **Publisher:** Akty izdavaemye vilenskoiu kommisieiu dla razbora drevnikh
+  aktov, vol. XXIX: EMW 2004
+
+
+  "Akty o evreiakh" (Vilna: Russkii Pochin’, 1902), 244-253, no. 153.
+
+
+  ## Source 2 Original Text
+
+
+  Process Kryminalny o niewinne dziecię Jana Krosnowskiego
+
+
+  O Świętokradzwach Nayświętszego Sakramentu
+
+
+  \[44\] Zabiwszy żywego, że w Niebie królującego Chrystusa, dostać nie
+  może złość niepoięta Żydowska, szuka niewinnego z Herodem okrutnym, w
+  osobach chleba utaionego, z tym większą łacnością, że im go sami
+  bezbożni wydaiąc Katolicy..
+
+
+  Roku 1213 W Francyi, Żyd u służebnice swoiey kupioną Hostyą (chcąc
+  zachować na skłócie) puszkę gdzie miał siedm pieniędzy srebrnych wrzucił,
+  które w Hostye widząc odniemione
+
+
+  nawrócony poszedł do Rzymu, y tam od Innocentego Papieża okrzczony
+  został.\[1\]  
+
+  Roku 1305. W Paryżu że Sakrementu S. Od Białygłowy kupionego, Żyd niemogł
+  na pateli spalić,
+
+
+  puginałem uderzył, z którego się krew rzuciła, y wydała, Żydzi skarani y
+  wyfnani a Kościół _Salvatoris Bullientis_, Cudu tego, po dziś dzień,
+  prawdę iawną pokazuie.\[2\]
+
+
+  Roku 1300. W Krakowie Kościół okradszy, Hostye SS pokłoli, podeptali, y po
+  drogach pozacierali dla zdeptania ich, od samychże Katolików wzięci, z
+  suspicyi z koła wplatani.
+
+
+  Roku 330 \[sic\]. W Gustrowie przy kłociu Hostyi, głos dziecięcia płaczącego
+  nawrócił Żydowkę, która świętokratdzcow potym znalaszy \[45\] Hostyą,
+  we szkle w chustę uwinioną, w bożnicy, y pokrwawioną wydała; spaleni
+  Żydzi z Niewiastą co Hostye przedała, a kaplica Hostyi Cudowney wystawiona.
+
+
+  W Megapolskim Xięstwie dwie Hostye ukłote od Żydów opisał wierszami
+  Bocerus.  
+
+  Roku 1338. W Niemczech w Mieście Pulka, krwią sklota płynęła Hostya o co z
+  rozkazania
+
+
+  Papieża Benedykta są od Rakuskiego Xiążecia pokarani.\[3\]
+
+
+  Roku 1369. W Bruxellach w Brabancyi, przez krew choynie płynącą, wydani
+  Iudaszowie, targani kleszczami.\[4\] Tegoż Roku w Lowanium, o tosz skazani na
+  stos, a Hostyę skrwawioną w kaplicy złożono.
+
+
+  Roku 1414. W Kolnie Żyd przebrawszy się Kommunią przyiął y w kąt
+  poszedszy, z ust brzydkich wyiął; widząc obroconą w osobie dziecięcia
+  ieszcze płaczącego, uchodzić z Kościoła począł, ale mu Czart zastąpił,
+  rzucił tedy w dołek na Cmentarzu dziecię płaczące na co z Kościoła gdy się
+  ludzie zbiegli i Kapłani, Cud opowiedział y wiele Żydów przy sobie
+  nawrócił.\[5\]
+
+
+  Roku 1466. W Hiszpanii, gdy nie mogli dostaney Hostyi, ani spalić ani
+  zniszczyć, d Klasztoru Dominikańskiego w Segovium odnieśli, o co byli
+  śmiercią skarani.\[6\]
+
+
+  Roku 1426. W Wiedniu niewiasta przedała S. Hostyą Żydom, za co Frederyk
+  Cesarz kazał Żydów trzysta spalić, a Niewiastę kleszczami targać.
+
+
+  Roku 1433. W Dywionie takaz Hostya skłota od Żydów, y skrwawiona za
+  Eugeniusza Czwartego Papieża approbacyą, złożona w Kaplicy.
+
+
+  Roku 1434. W Dekendorfie Thalmudystowie Hostyą S. Kłowszy, na kowadle
+  kowalskim zbluźnierstwy tłukli, potym wpiec wrzucili. Za co także tych
+  Diabłow ziemskich większą część blachami popalono y poćwiartowano.\[7\]
+
+
+  Roku 1453. Na Śląsku bardzo wiele Żydów o uczynioną Hostyi S. Obelgę
+  popalono. Roku 1492. W Czechach w miasteczku Sterberck, Eleazar, Żyd \[46\],
+  za kupioną Hostyą y pokłotą oraz krwią płynącą, y zdrugiemi trzydziestą
+  ogniem spalony.\[8\]
+
+
+  Roku 1510. W Szpandawie Salomon Zyd za sześć groszy, u łotra iakiego
+  kupiwszy Hostyą nożem kraiał, aż się na troie Hostyą rozpadła, dwie
+  części posłał sowim przyiaciołom, do Brandenburgu, sam iedne skłotą krwią
+  oblaną w placek zagniotszy w piec w rzucił, gdzie dzieciątko w wielkiej
+  światłości widział, y ten placek w Bużnicy zawiesił. W Brandenburgu że
+  krwi ze stołu z drugiey partykuły skłotey ciekącey zetrzeć niemogli,
+  odłupiwszy trzaskę y z częscią Hostyi do Hostenburgu na wesele z sobą
+  wzięli, ktorą Żyd Maier na misie Pani młodey oddał, mowiąc: masz się z
+  czego weselic, oto masz Chrześciańskiego BOGA, y tak znowu czterdziestu
+  prawie Żydów Hostyą kłoli, że krew obficie płynęła, za co Ioachim
+  Brandeburski Margrabia trzydziestu w Berlinie w piątek po S. Rożesłańcach
+  spalić kazał a Pawła Form, ktory im z puszką Hostye przedał, y w pasy darto,
+  Żydzie przyznali się y do dzieci siedmiu umęczonych, o czym niżey w roz.
+  XI.\[9\]  
+
+  Roku 1540. We Wrocławiu, iako także Hostyą ukłoli Zwierciadło Przykładow.
+
+
+  Roku 1514. W Hali, Żyd krzczony Kapłanem się \[nie będąc nim\] uczynił
+  dostawszy Hostyi dwie Żydom przedał a trzecią sam z niedowiarstwa tak tłukł
+  aż się krwią oblała.\[10\]
+
+
+  Roku 1592. W Pradze Żyd Lewek \[bestya okrutna\] ukradszy u Franciszkanów
+  trzy Hostye S. oddał Żydom, ktorzy ie nozami koląc, bluźnili: Ieśliś iest
+  BOG Chrześciański, ukaz moc swoie y ukazał bo piorum uderzywszy w dzień
+  pogodny, w dom ten swietokradców spalił, trzec co uciekło, wziętych
+  kleszczami targano, y na pale powbiiano.\[11\]
+
+
+  Roku 1619. Na Granicach Hiszpanyi. Żydówka przebrana y postrzeżona, że S.
+  Hostyą z ust w chwustkę wzięła, w beczkę wsadzona, zaraz spalona
+  została.\[12\]
+
+
+  W Polszcze naszey iako wygnani z kraiow Cuszych Żydzi Ray znaleźli, tak też
+  piekło się na wszystkie kryminały, osobliwie przeciwko Sakramentom SS y
+  dzieciom niewinnym otworzyło.
+
+
+  \[46\] Roku 1399. W Poznaniu, OO. Karmelitom Kościół Bożego Ciała Krol
+  Iagiello wystawił na tym mieyscu, gdzie trzy Hostye (od służebnicy
+  Diabelskiey ukradzione w Kościele OO. Dominikanów, przedane y w kamienicy
+  Swidnińskiey włochu kłote, krwią płynące Cudownie od żydowki ślepey
+  uzdrowioney ogłoszone) od żydów wyniesione, y w dołku zakopane, a potym
+  przyklękaniem bydła, po powietrzu lataiące obiawione, y na ręce pobożnego
+  Kapłana, Iana Ryczywoła spuszczone, Cudami do tą słuną, żydzi pobrani, y z
+  Niewiastą wolym ogniem pieczeni y od psow przykutych, do nich pozarci
+  zostali. Iako Xiążka o tym pod tytułem Depozyt Ciała &c 1663 wydana
+  świadczy.\[13\]  
+
+  Roku 1407. W Krakowie, woła na żydow Kościoł także Bożego Ciała na
+  Kazimierzu zbudowany, na tym mieyscu gdzie Hostya SS od żydów sklote w błoto
+  wrzucone, znalezione.\[14\] Przydaie Miechowita, że ich potym o dziecię
+  zabite z Krakowa za Kazmierza wypędzono.\[15\]
+
+
+  Roku 1508, dnia piątego Kwietnia, przekonany Rabin od X. Mikołaia Doktora
+  Dominikańskiego przez publiczny dowow w Kościele P. Maryi w Rynku o obelgę
+  S. Hostyi, i inne excesy, oddany Urzędowi, y spalony.\[16\]
+
+
+  Roku 1556. W Sochaczewie Dorota Laszecka Hostya, S. w Kościele Kozłowskim,
+  bez spowiedzi w Sobotę Wielką przyiąwszy żydom za trzy talery wydała, z
+  ktorey tkrwie szklenice nazbierali Żydzi spaleni y Białogłowa wyznaiąca na
+  siebie, że dziecka z żydem dostawszy, bez krztu go udusiła y na kierkucie
+  pogrzebła, z listu Aloizego Lipomana: Nuncyusza na ten czas w
+  Polszcze.\[17\]  
+
+  Roku 1562. W Skierbieszowie Dzwonnik Żydom S. Hostyą Krasnostawskim przedał,
+  którą w ognisku zakopali, gdzie się ogień palić nie chciał. Ale klecha
+  uszedł, a żydzi się upominki wykręcili.\[18\]
+
+
+  Roku 1580. W Osmiecimiu dwoch świętokradzcow spalono, o wydanie Żydom
+  ukradzionych Hostyi, Żydzi sami (sromota wieczna) za Iudaszowskim workiem od
+  śmierci wolni.\[19\] W Pilcy także się też stało, że Katolik spalony,
+  żydzi wolno puszczeni.\[20\] EMW 2004 \[48\] Roku 1580. Żyd bluznierca
+  Nayswiętszego SAKRAMENTU spalony.
+
+
+  Roku 1598. W Pułtusku okradszy Hostyą Łotr nie iaki Krzyczkowski, Żydom do
+  Płońska za cztery złote przedał poimany z suspicyi wyznał, Żydzi na mękach
+  parli się, ale potym wyznali, ża zaślepieni drogi przed sobą niewidząc,
+  uchodzić nie mogli, znaleziona puszka w gnoiu y z processyą do Kościoła
+  Hostye wziete Iudaszowie spaleni.\[21\]
+
+
+  Roku 1600. w Bochni mazur wydawszy S. Hostyą Zydom, boiaznią zdięty
+  sumnienia, ani spowiedzą uspokoiony sam przed Urzędem na siebie y komornika
+  swego wyznał. Źydzi Iakub Ickowic, Frącek Icko Wronka z poręki P. Mikołaia
+  Borzynowskiego uszli gdy przez dekret Krolewski stawic ich kazano. Protektor
+  że nagle \[na Seym pozwany\] umarł. Żydzi wszyscy wygnani Achaty Kmita w
+  processie drukowanym: ktory przydaie przyczyne handlu tego Iudaszowskiego ze
+  Roku 1698 \[sic\] Żona prawi Ickowa Wronina, raz prosię drugi raz dziwo, iak
+
+
+  Indyka szpetnego urodziła.\[22\] Druga także łatkę z żebami zaięczymi z
+  grzywą końską, z ogonem wężowym, urodziwszy, na iakąś przez Czary
+  Expiacyą Sakramentu S. dostać się ważyly, znaleziono także przed tym u
+  tego Frącka Krola Stefana suknie, w Niepołomicach mu pokradzione, przed
+  Dekretem _Expulsionis_ Latawiec za uderzeniem Piorunu, do Boznice im wleciał,
+  y potym tak im przeszkadzało, że Boznice zamknęli, ktorą w krotce za
+  Dekretem odebrano y ich wygnano.
+
+
+  Roku 1619. Żydzi z Kalisza kupili u Niewiasty z Sobotki Hostyą Swietą y nad
+  nią się pastwili, znależli wiele Fautorów, y Protektorów, dla ktorych
+  się sprawiedliwość choć o samego BOGA naszego krzywdę przewlokła.\[23\]
+
+
+  Roku 1669, _die ultima Iulii Lovicii_ na Konfessatach przed wysadzonemi
+  Xiążęcia na on czas I.M. Prażmowskiego Prymasa Kommisarzami nieiaki
+  Murzynkowic _profugustz_ pewnego Zakonu wyznał że będąc Presbiterem u Fary
+  u Maryi Magdaleny w Poznaniu wziął kilichy dwa y _cuppam a pixide_
+  wysypawszy, Hostye odkręcił \[49\], Żydom tamże przedał za co wsadzony, z
+  Karceres się wyłamawszy uszedł _in habitu lascali_ kowalstwo po wsiach
+  robiąc (iako Syn niegdy Kowalski) w Pakendzu Żone od Męża odomowiwszy
+  mieszkał z nią na wiarę z Corką iey także _incestum commisse_ pytany o
+  Świętokradztwa lubo co na torturach zeznał to rewokował że to z bolu
+  wielkiego uczynił iednak _pervasionibus ad salutem anima motus D.D.
+  Commissariorum Corde contrito effusisque lachrymis coram Imagine Crucifizi
+  sponte et claravoce recognovit_. W Chełcach służac za Kantora ukradłem
+  Kommunikant, y Łewkowi Żydowi przedałem w Kaliszu Anno 1669 za złotych
+  Osmidziesiąt albo Dziewięćdziesiąt _circiter ex Ciborio_ go wziąłem
+  klucze były w Kościele uczyniłem przed tym z Lewkiem kontrakt o kupno on mie
+  na to namawiął, w Kaliszu y odniosłem mu go do domu wziąl go w ręke Lewek
+  nożem pchnął pokazała się krew widziąłem sam oczyma memi raz tylko pchnął
+  był Syn iego przytym, y drudzy ktorych nie znam czterech albo pięc, było to
+  około Mięsopustu, szwargotali tam z sobą zaraz na coby tego potrzebowali nie
+  pytałem w Raysku też służąc za Bakałarza ukradłem Kommunikant przedałem go
+  Samuelowi Żydowi w Dobrey, wie o tym Żyd Marek z Kozminka Anno 1662. po EMW
+  2004
+
+
+  Wielkieynocy zaraz dali im za to złotych Sześcdziesiąt czyli Siedmdziesiąt
+  _circiter_ nie mogli pamiętać. Trzeci Kommunikant w Miłowicach ukradłem y
+  temusz Salomonowi w Dobrey z Zięciem iego Anno 1663, wie otym tenże Zięci
+  iego za złotych Sześdziesiąt potym Anno 1667. Tamże w Miłkowicach ukradłem
+  Kommunikant y temuż Salomonowi przedałem za złotych Sześcdziesiąt. Hostyą
+  przedałem w Warcie Żydom Moyżeszowi y Szklarzowi Iakubowi z ktoremem targ
+  uczynił drugich nieznam trzech ich było, zawsze mię o to prosili, mieli byli
+  dać im złotych Sześdziesiąt, ale niewiem co mi dali w worku, bom Ich
+  nieliczył, tom uczynił in Anno _Currenti_ wziąłem ią przed lutrznią w
+  Niedzielę Wielkonocną z grobu y nieodmieniałem nigdy \[50\] inszey Hostyi,
+  prostego też nieprzedałeł Kommunikanta, bo by go poznali y o co mię prosili,
+  abym prawdziwie Konsekrowane a nie proste im nosił, maią probę że kolą y
+  krew idzie z nich na co by tego potrzebowali y zażywali niepytałem się o to,
+  u Żydów w tey przedaży nie miałem żadnego dubium y że prawdziwe Ciało y
+  Krew Nayświętsza iest wierze, tylkom tom czynił z łakomstwa tę Hostyą
+  chowałem ad Festum Ascensionis Domini w Kościele Miłowskim _in tumba_ w
+  Ołtarzu podle Kazalnice y nazaiutrz _in crestina Festi Ascensionis_ na
+  Iarmarku w Warcie przedałem Żydom, y iuż to na gotowem zaniosł nikt
+  niewiedział o tey kradzieży, y Żona o tym niewiedziała, y Corka
+  niewiedziała, tylko była na Kwietną Niedzielą u mnie y zaraz w Poniedziałek
+  poszła przy sobie Nayświetszego SAKRAMENTU tylko raz byłem w Kaliszu ten
+  Kommunikant z ktorego to krew szła konsenkrował X. Swieykowski Pleban
+  Chełmski, te pieniące com za Kommunikanty brał, provictu et amictu obracałem,
+  y tych zbrodni nigdym się niespowiadał, często żeby mię niemieli za
+  Heretyka, y nigdziem _Hostiam non Consecratam in lacum consecratum supposui_
+  mogl bym był, alem tego nieuczynił. Oddany Urzędowi potym spalony a Żydzi
+  pouciekali powołani.
+
+
+  Około Roku 1670 we Mławie żyd Kurek kupił u Złodzieia S. Hostyą y z puszką,
+  ktorą gdy kłoli w nocy w piwnicy nożami krew się rzuciła, Hostyą nazaiutrz
+  na powietrzu widziaan była, y dzwony słyszane nad tym domem, w ktorym
+  naleziono Zlóczyńcow Synowie dwa tegu Kurka ochrzczeni, uczyli się w
+  Pułtusku in Anno 1704 w Seminarium mieszkali.
+
+
+  W Maminie za Księdza Biskupa Trzebickiego o Hostyę S. kupioną Arendarza
+  \[że tylko X Pleban wyrzekł, trzeba by cie spalić\] Pospolstwo dol
+  wykopawszy spaliło.
+
+
+  Roku 1696 w Sendomirzy Białagłowa w Wielki Czwartek S. Hostyą przyiętą w
+  chustę wyplutą iuż była do żydow zanioła ale postrzeżona na śmierc
+  tamże w Mieście dekretowana.
+
+
+  Roku 1698. W Rawie złapano sześciu Żydów, o skradzenie \[51\] w żelazny
+  tak sreber iako y Hostyi S. z Monstrancyą pod czas Okrawy Bożego Ciała, y
+  dwoch Slosarzow _Complices_, ktorych zaraz powieszano, Żydzi niewiem czy się
+  nie wykręcili.
+
+
+  1710 w Łęczny _Feria 5ta post Festa solennia Pascha_ dekretem ferowanym,
+  tamże w mieście z roskazu I.M. P. Strażnika W.X. K. BOGA sprawiedliwości
+  (nie Świętokradzcow) obrocone, Żydow Żydowek siedm spalono y Podgorskiego
+  Dzwonnika, osiedmaśie wyanych Hostyi SS> y inne Kośilene rzeczy: gdzie
+  Iudasz wyznał że iednę Hystyą \[sic\] wziąl z sobą do Gdańska, drugiena
+  Czary obracali.
+
+
+  Roku 1712. Z Jędrzejowa Arendarz (ledwie tam przyięty przeciwko prawu)
+  wygnany, o Hostyą kupioną także u świętokradzce Dzwonnika.
+
+
+  A że niezostało iuż sposobów Żydom na kredyty, na Prowizye brać
+  pieniędzy, a przecie lekko robiąc powinna się mieć dobrze; rzucili się do
+  łupienie y kradzieży Kościołom, gdzie oraz y Nayświętszey Hostyi, lubo
+  sami lubo od świętokradzcow przewodniow sowich dostaią, o co kiedy ktory
+  Pleban czynić pocznie, to mu potrzeba y życie y gotowiznę łożyć, a
+  ieszcze rzadko doydzie dla Protektorów sprawiedliwości. Niech żeby ieno
+  żydom Przykazanie ukradziono z Bożnice, ieżeli by wszyscy na to się
+  nisładali nieciekali, żeby się zemścić krzywdy. My Katolicy, czy nie
+  wierzemy w Chrystusa, o ktorego wzgarde Aktorom czyniącym, przeszkadzamy, a
+  ieszcze dla pieniędzy podobno żydowskich, ktorych BOGU duszą Przypłacić
+  będzie trzeba. Niektore Świętokradztwa, wieku naszego wspomnnie, bo ich
+  spisać wszystkich niepodobna.
+
+
+  Przed Rokiem 1648. w Krakowie u S. Anny kielich na Zamku Trzybularz u P. Maryi
+  Krzyż wielki srebrny, u S. Szczepana łańcuch złoty z Monstrancyi, u S.
+  Troyce Antependium, u Franciszkanów lichtarze, na piasku srebra z Obrazu
+  pokradzione u Żydow zostały, Katolicy pokarani, Żydzi się okupili.\[24\]
+
+
+  W Piotrkowie Żydow tracono, o takąż sreber Kościelnych kradzież \[52\]
+  stary żyd zapamiętał stracony. Młodemu Gołebica naramieniu padła na placu,
+  znakiem była iego powołania do Wiary, ktorą przyiąwszy ścięty, to z
+  relacyi OO. Piarum Scholarum.
+
+
+  W Kościele pod Krakowem puszkę z Hostyi Arendarz kupił, I.X. Opacki
+  Archidyakon Krakowski czynil o to, że żyd stracony y wszyscy z browarów z
+  tey parafii przez dekret Grodzki wyfnani Wodzisławscy zaś żydzi _complices_
+  daią dolampy tamże oliwę.
+
+
+  W Opatowcu, w Bałutowie, w Denkowie, w Opatowie: razem cztery Kościoły
+  okradli żydzie, ktorzy tu aż z Litwy byli na tę robotę przyszli.
+
+
+  Roku 1688. w Chełmie tracono także żydów y Katolika o skradzenie kilku
+  Kościołow gdzie że srebrem zabierali y SSm: na obelgę y czary sobie zwykłe.
+
+
+  W Siennie Żyda także stracono o srebro Kościelne y Relikwie Swięt:
+  Antoniego, ktorego gnatkami nazwał, pokazawszy gdzie ie był zakopał w gnoiu.
+
+
+  W Kozminku pod Kaliszem okradł Kościół, gdzie zabrali y srebra Kościelne y
+  Plebanowi na złotych sześć tysięcy y I. M. Panu Lętkowskiemu w
+  pieniądzach y w kleynotach na złotych Sześctysięcy tych stracono w
+  Piotrkowie.
+
+
+  Roku 1694. Kościól Farny w Bełzie Rusin z Waręza oklradszy, z puszką
+  osmnaście Hostyi przedał żydowi Sokalskiemu, Rusina spalono za żydami
+  instancyie wielkich Panow sprawiły, (a żal się Boże y od Biskupa pewnego
+  niegdy Inhibicya wydana), że Sędzia wziąwszy dwieście talerow bitych,
+  żydow przypuścił _ad evasionem_ przez dekret w Aktach Grody Bełskiego
+  zapisany.
+
+
+  Roku 1696. Kościół Świętego Ducha w Sendomierzu okradli także żydzi
+  process moy świadczy 1698 wydany.
+
+
+  Roku 1607. we Cmielowie z Ołtarza Swiętey Anny złotnik srebro pobrał, ktore
+  się żydom dostało. Złotnik tylko stracony.
+
+
+  \[53\] Roku 1697, na Wołyniu żydzi Cech mieli Złodzieyski, ktorzy około Łucka
+  Kościołow więcey niż dwadzieścia że sreber złupili, iako to w Targowicy u
+  Arendarza. W Łucku naostatku Cerkiew łupiących połapano a drudzy pouciekali,
+  Arendarz z Targowicy przyznaiąc Cuda od Krzyża u siebie zakopanego,
+  okrzczony ścięty, Rabina Syn że dwiema spalony. A toż Kontubernia takie
+  handlow żydowskich do ktorych w pisuią pewnie y tych co fla ich łakomstwa
+  kraść y Kościoły muszą.
+
+
+  Roku 1698 z Przytyka żydzi Kościół okradli we Wrzosie, ale że u nas
+  process z żydami trudny ktorzy zaraz pouciekali przepadło.
+
+
+  Roku 1700. W Szczeglicach pokradzione srebro Kościelne pokupili żydzi
+  Opatowscy.
+
+
+  Roku 1702. we Frysztaku Kościele żydzie na Dwadzieścia Tysięcy srebra
+  zabrali, I.M. P. Iozef Rołowski Chorązy Parnawski okupem sobie Offiarowanym z
+  pobożności Chrześcianskiey w zgardziwszy, piąciu spalić kazał, a na
+  czterech Infamią otrzymał, niewrociło się tylko dwadzieścia dziewięc
+  grzywien srebra bo z drugiego tynfy y szostaki fałszywe bili. Ciż siedm
+  inszych Kościołow okradli byli.
+
+
+  Roku 1703. W Głogowie y bliższych Kościołow kilka żydzi pokradli.
+
+
+  Roku 1711. Woyciech Floryk z drugiemi drabami okradli Kościól w Ulanowie że
+  srebra ktore przedali zydom iedne w Bilgoraiu, drugie Leybie Rzeżnikowi w
+  Goraycu, są Konfessaty iego w Mieście Oleszycach dnia 7 Augusta opisane.
+
+
+  Roku 1712 w Kozuchowku w ziemi Drobinkiey. Zydzi z Łosic puszkę z Hostyami u
+  złodzieia kupili ktory spalony żydzi na torturach się niechcieli przyznać,
+  choć srebro od nich licem wzięto.
+
+
+  \[54\] Roku 1712 z Opatowskiemi żydami iest dekret moy iako _commisarii
+  synodalis_ z I.M. Panem Kasztelanem Zawichoyskiem _statutionis_ Żydow ktorzy
+  srebra z Kościołow w Kiełczynie w Chobrzanach, Pskanowie, w Glinianach, y w
+  Sobotce osobliwie puszki pokradzione od drabow skupowali y iako naywiecey
+  kazali im przenosic o Hostye ich prosili, ferowany _in Vigilia Festi S.
+  Ioannis Baptistae_ w Opatowie.
+
+
+  Roku 1713. Iest sprawa w Grodzie Sanockim o pokradzenie Kościoła w Hoczewie,
+  z zydamie, ktorych wydała przekrzcionka zabieraiąca się na komprobacyą, a
+  żydzi na Ewazyi w lat dwadzieścia licami od nich odebrano, y 1710. w
+  Iarosławiu ich na Trybunale o to sądzono, albo iako ow Cygan ktory więcey
+  było potrzeba dać od dekretu _Evasionis_, niż się podkowa stała, podkowę
+  (przysiągszy że iey nieukradł) wrocił.
+
+
+  **Endnotes**
+
+
+  \[1\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+  \[Several copies preserved at the library of the Jagiellonian University in
+  Cracow\]; Also Jan Kwiatkiewicz _Roczne Dzieje kościelne od Roku Pań skiego
+  1118 aż do lat naszych_ (Kalisz: Typis Societatis Jesu, 1695, 21.
+
+
+  \[2\] Jan Kwiatkiewicz _Nowych dziejów kościelnych_ (Kalisz: SJ, 1706).
+  \[3\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+
+
+  \[4\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Szymon
+  Hubicki, _Żydowskie Okrucieństwa_ (Cracow: 1602), 3.
+
+
+  \[5\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et
+  Reverenidss. D.D. Caesarem Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno
+  Domini 1378 Usque as Annum Domini 1431_ (Cologne: 1622).
+
+
+  \[6\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et
+  Reverenidss. D.D. Caesarem Baronium. Tomus XVII Rerum in Orbe Christiano Ab
+  Anno Domini 1448 Usque as Annum Domini 1471_ (Cologne: 1624).
+
+
+  \[7\] Hubicki, Żydowskie okrucieństwa, 3. He also mentions Śleszkowski,
+  Sebastyan Śleszkowski, _Dostateczna Genealogia Żydowska._(Brunsberg:
+  Schonfels, 1622), Chapter 10.
+
+
+  \[8\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Also,
+  Hubicki, _Żydowskie okrucie ństwa_, 4.
+
+
+  \[9\] Cites Śleszkowski as a reference, but see also, Hubicki, _Żydowskie
+  okrucieństwa_, 3-4..  
+
+  \[10\] Żuchowski cites Przecław Mojecki, _Żydowskie okrucieństwa, mordy i
+  zabobony_ (Cracow: 1589), chapter 12. But see also, Hubicki, _Żydowskie
+  okrucieństwa_, 3v.
+
+
+  \[11\] Hubicki, _Żydowskie okrucieństwa_, 4.  
+
+  \[12\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
+
+
+  \[13\] He also cites, Śleszkowski, _Dostateczna genealogia żydowska_.
+
+
+  \[14\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et
+  Reverenidss. D.D. Caesarem. Baronium. Tomus XV Rerum in Orbe Christiano Ab
+  Anno Domini 1378 Usque as Annum Domini 1431_.
+
+
+  \[15\] Maciej Miechowita, _Chronica Polonorum_ (Cracow: Hieronim Vietor, 1519
+  \[1521\]).
+
+
+  \[16\] Cites Marcin Bielski, _Kronika Wssythyego Swyata Na Ssesc Wiekow a Na
+  Czwory Ksiegi Takiez Monarchie Rozdzielona_ (Cracow: Hironim Scharffenberg,
+  1554 \[1551\]). And Mojecki, _Żydowskie okrucieństwa_.
+
+
+  \[17\] Hubicki, _Żydowskie okrucieństwa_, 5r. Hubicki himself notes the
+  importance of print there “Pisał też w tey sprawie Anloysius Lipomanus
+  Nuncius Aposto, ktore listy w Rzymie potym wydrukowano.”  
+
+  \[18\] Hubicki, _Żydowskie okrucieństwa_, 5r-v.  
+
+  \[19\] Hubicki, _Żydowskie okrucieństwa_, 5v.  
+
+  \[20\] Almost identical wording as Hubicki, _Żydowskie okrucieństwa_, 5v.
+  \[21\] Hubicki, _Żydowskie okrucieństwa, 5v_.
+
+
+  \[22\] Cites Jan Achacy Kmita, _Process Sprawy Bochenskiej z Żydami o
+  Nayświętszey Eucharistiey Sakrament of Żydów u Świętokradców Kupiony y
+  Cudownie Okazany_ (n.p.: n.p., 1601 \[1602\]). See also, Hubicki, Żydowskie
+  okrucieństwa, 5v-6v. Hubicki also mentions Alfonso de Espina, _Fortalitium
+  Fidei_.
+
+
+  \[23\] Cites Śleszkowski.
+
+
+  \[24\] Cites Sebastian Miczynski, _Zwierciad ło Korony Polskiey: Urázy Cięż
+  kie y Utrapienia Wielkie, Które Ponosi Od Żydow Wyrazaiące Synom Koronnym
+  Ná Seym Walny w Roku Panskim 1618_ (Cracow: Máciej Jedrzeiowczyk, 1618).
+  Perhaps the year 1648 above is a mistake.
 ---
 ## Introduction to Source 1
 
@@ -318,181 +1324,3 @@ In 1713, in the court of Sanok, there is a case against Jews concerning church r
 
 \[42\]_Ewazya_, a court case is thrown out of court because the plaintiff's witnesses fail to appear in court.  
 \[43\] Evasionis.
-
-## Source 1 Original Text
-
-Akty izdavaemye vilenskoiu kommisieiu dla razbora
-
-drevnikh aktov Akty o evreiakh
-
-Roku tysiącznego siedmsetnego mca Junii dziewiętnastego dnia.
-
-Przed nami sędziami głównemi na trybunał w w-m x-ie Lit-m z woiewodztw ziem y powiatów na rok teraźnieyszy tysiączny syedmsetny obranemi, gdy z porządku regestrowanego ku sądzeniu przypadła sprawa w Bogu wielebnego imć xiędza Dawida Podebronowicza--plebana kościoła Komayskiego, z delacyey pana Krzysztofa Łukaszewicza--zakrystyana tego kościoła Komayskiego z niewiernym żydem Jakubem Salamonowiczem z miasta Pinczowa, samym pryncypałem. Nochimem z Lublina, Izraelem z Przeworska, Johelem z Murawy z Nikliszporku, dla złodzieystwa od miasta do miasta włóczącymi się świętokradzcami, Moszkiem alias Moyżeszem przezywaiącym się Senatorem, wmiasteczku Wiżunach mieszkaiącym, z temi łotrami przewodnią maiącym, także z poręcznikami onego, Kasrelem Moyżeszowiczem, Jakubem Izakowiczem, Abramem Salomonowiczem, y całym kahałem żydowskim Wiżuńskim y Kowarskim, starszemi tego \[245\] kahału wszystkiemi, w Wilnie na ten czas zostaiącemi, w spolney radzie do kradzieży będącemi, tudzież z imć panem Jane z Goryszewa Goryszewskim-- stolnikiem Brzeskim, podstarościm Wilkomierskim, dzierżawcą Wiżuńskim y samą ieymć, za zakazem obżałowanum osobom podanym mieniąc o to: iż przerzeczeni obżałowani żydzi, wiedząc dobrze o sczodrobliwym na kościół Komayski y obraz cudowney Nayświętszey Panny przez pobożnych dobrodzieiów w różnym splendorze, złocie, srebrze, perłach, kleynotach nadaniu, na które obżałowani żydzi zawziowszy appetyta, po różnych miastach, snać y w mieście i.k. mci Wilnie, immediate przed zaczęciem sądów głównych trybunalnych złodzieystwem się bawiwszy, nie mało szkody ludziom poczyniwszy, w roku teraźnieyszym tysiąc siedmsetnym ze dnia dwudziestego piątego na dzień dwudziesty szósty msca Apryla, w nocy, wymyślnemi iakowemiś złodzieyskiemi sposobami, przez mocne y warowne zamki do kościoła w Komaiach, w powiecie Wilkomierskim będącego, y tam rozłupawszy siekierkami cymborium, śmieli y ważyli się pomienieni żydzi niewierni, Jakub Salomonowicz, Nochim z Lublina, Izrael z Przeorska, Johel z Morawy, sprośnemi łotrowskiemi rękoma swemi sacra sacrorum tangere, puszkę cum venerabili ze czterdziestą sześcią komunikantów wziąć y drugim do kahałów żydom na eluzyą maiestata pańskiego oddać, czyli też gdzie zadzieli, przytym dwa kielichy próżne wziąwszy, obraz nayświętszey Panny y ołtarz Jana świętego odarszy, perłą pierścienie złote, srebra w tabliczkach y inne różne splendory na tymże obrazie będące, także lamp dwie srebrnych w kościele wiszących, sacrilega manu pozabierali, a niekontentuiąc się tym, ale włomawszy się takowym że złodzieyskim sposobem do zakrystyey, monstrancyą wielką srebrną y pieniędzy załuiącego imć xiędza plebana, co tam być mogło, y innych niemało kościelnych rzeczy, podług osobliwego regestru, co może żałuiący pamiętać, y wiedzieć, letko rachuiąc na złotych dwanaście tysięcy wykradli, kościół y chwałę boską z ozdoby dla zapamiętałey złości swey obnażyli, y te wszystkie srebro y splendor w kościele Komayskim pokradziony, zniósszy do obżałowanego żyda Moszki, w Wiżunach mieszkaiącego, iakowęś między sobą exdiwizią kradzieży y pieniędzy za to y Moszki wiziętych, czynili, zatym gdy żałuiący imć xiądz pleban Komayski, postrzegszy takowe bezbożne okradzienie kościoła Komayskiego, dawszy o tym znać wielmożnemu imć panu staroście Rumborskiemu, iako kolaforowi tego kościoła, a za dodaniem od imści ludzi po różnych mieyscach opyt czynił, że kościół okradziony doniósł, ieśliby się rzeczy kościelne gdzie pokazali, y iakowych złoczyńców przedaiących, aby do żałuiącego dawali wiedzieć upraszał; po którym takowym opycie, w kilka dni dla nieustaiącey o tym świętokradztwie quaerimoniey y queareli imć xiędza plebana Komayskiego, za rządzeniem Naywyższego Pana, który chwały swey świętey zawsze iest vindex y za okazaniem lica skradzionych wysz wyrażonych rzeczy, szmatów, koron złocistych, srebrnych y lamp a za poścignieniem y nagonieniem incarcerowanego, teraz obżałowanego żyda Jakuba Salomonowicza, drugich żydów towarzystwa iego świętokradzców, żydowkami dwóma pół mile od Kowerska w polu uchodzących, gdy niektórzy z ichmć panów obywatelów, mianowicie imć pan Stanisław Gierdoyć y imć pan Stanisław Moygis, w niebytności żałuiącego xiędza, uganiaiąc tych żydów y żydówek, iako iawnych y przelicznych złodzieiów uchwytawszy, tylko obżałowanego Jakuba Salomonowicza y Johyła z Murawy z dwoma żydówkami przez Kowarsk prowadzili, tedy żydzi w Kowarsku mieszkaiące, całym kahałem swoim, snać poczuwaiąc się do tego złodzieystwa, będąc uczestnikami et complices, uczyniwszy tumult w roku tymże wysz pisanym msca Apryla dwudziestego dziewiątego dnia tych złodzieiów żydów y żydówek, nic nie respektuiąc na srogość prawa pospolitego, na \[246\] takowych swawolnych ludzi opisanego, niesłusznie od prowadzących wysz mianowanych osob żyda z Murawy y żydówki obiedwie odbili, odgromili, u siebie przechowywali y przechowuią, których żydów imśc pan Giedroyć y imć pan Moygis in instanti kahałowi Kowarskiemu przyparoczyli y aresztowali, mimo które przypreczenie niewiedzieć gdzie tego żyda y żydówki podzieli, a Jakub Salamonowicz zostawszy y sam ieden tyło osadzonym będąc, chcąc uść paen srogich, za takowy kryminał przez siebie zasłużonych, porwawszt lichtarz żelazny, samego siebie w gardło y w bok ranił y mało o śmierć przyprawił. Zatym żałuiący imć xiądz pleban Komayski, wziowszy wiadomośc z relacyey pryncypałow, osobliwie z obżałowanego Jakuba Salamonowicza, że nie mało splendoru y srebra w kościele Komayskim pokradzionego u obżałowanego żyda Moszka alias Moyżesza nazywaiącego Senatora, w mieście Wiżunach mieszkaiącego, u kogo przerzeczeni żydzi przed okradzeniem kościoła y po okradzeniu czas nie mały mieszkali, znayduie y iest u onego, iako prawo każe, żałuiący imć xiądz pleban Komayski u obżałowanego imć pana Goryszewskiego--podstarościego sądowego Wilkomirskiego, dzierżawcy na ten czas Wiżuńskiego, uczynienia sprawiedliwości z tego żyda Moszka, lub też z tym licem o wydanie onego, sam prze się y przez listoną instancyą, oraz onterpozycyą imści pana Raieckiego-- starosty Rumborskiego, iako collatora kościoła Komayskiego, upraszał, tedy obżałowany imć pan Goryszewski, spólnie z ieymć panią małżonką swoią, iako będąc dissidentami in religione, a zatym kościołowi Komayskiemu rzymskiemu nieprzyiaznemi, in instanti obwinionego żyda żałuiącemu nie wydali, ale faworyzantami iawnemi złóczyńców staiąc się, na parękę tym żydom obżałowanym Kasrelowi Moyżeszowiczowi, Jakubowi Izakowiczowi y Abramowi Salamonowiczowi, w Wiżunach mieszkaiącym, tego żyda Moszka, pryncypała spolnego y świętokradce, naypierwszego uczestnika, iawnego łotra, spolnym łotrom ze dworu na parękę wydawszy wy przyparęce onych przyiwoszy, za częstokrotną przez żałuiącego imć xiądza plebana Komayskiego requizycią, nie tylko sprawiedliwości z onego nie uczynił, ale czas od czasu zwlekaiąc, złoczyncom folgował: dla tego ieszcze gdy żałuiący, chcąc tak strasznego kryminału w sądzie głownym trybunalnym windykować, tego kryminalistę pod wartę trybunalskę oddawszy, o stawienie żyda przyparęczonego u imći pana Goryszowskiego przyiacielsko upomniał się, tedy obżałowany popełniaiąc pod sądami głównemi trybunalnemi iawny zbytek y exces nie tylko stawić tego żyda Moszka nie deklarował lecz srogą przegrożkę na zdrowie żałuiącego imści xiędza plebana tu w mieście Wilnie w tymże wysz pisanym roku msca Junii piątego dnia uczynił, o które to przez obżałowanego imci pana Goryszewskiego w nieuczunieniu sprawiedliwości z obwinionych żydów, a przez żyda Jakuba Salomonowicza wespół drugimi pryncypałami od niego powołanemi, spólney rady y namowy z żydami kahału Wiżuńskiego y Kowarskiego, także z żydem Moszką, alias Moyżeszem nazwanym Senatorem, o wykradzenie kościoła Komayskiego o przechowanie żydów włóczęgów, złodzieiów, łotrów, onym rady y pomocy dodawanie, chcąc prawem czyinć \[sic\], tak z obżałowanym Jakubem Salomonowiczem, w więzieniu będącym, iako y ze wszystkiemi obżałowanemi żydami do stawienia, ante omnia u sądu naszego głównego trybunalnego w Wilnie odprawuiącego się przez imć pana Goryszewskiego żyda Moszka, alias Moyżesza, nazwanego Senatora y paręczników iego żydów Kasrela Moyżeszowicza, Jakuba Izakowicza y Abrama Salomonowicza, spólnych łotrów, przyparęczonych y w przyparęce przyiętych a z kahałem Kowarskim y szkołą onych o niesłuszne pomienionego żyda, złodzieia z Murawy, żydówek dwoch odbicie, onym pofolgowanie y dostawienia także onych, iako szkole Kowarskiey przyparęczonych, dobrze imści znaiomych \[247\] y gdzie teraz się obracaią, poniewasz maiąc ich sobie przyparęczonych dobrowolnie wypuścili wiadomych, a za nie stawieniem za tak iawną przez obżałowanych żydów swawolą, także złodzieystwo, do wskazania paenas criminalissimas, do powrócenia, abo nagrodzenia pokradzionych w kościele Komayskim złota, srebra y innych rzeczy, splendoru kościelnego y szkód nakładów prawnych, które żałuiący imć xiądz pleban spendował y spenduie teraz, zachowawszy sobie w dalszym procederze prawnym wolne tey żałoby melioratią, lub też do zniesienia inszey protestacyey et in toto do kogo z prawa ukazano będzie salwum ius tym zakazem, na którym rzecz dostateczniey opisana, przed sąd główny trybunalny zapozwał. Do którey sprawy po zażywanych do niewiernego żyda Jakuba Salomonowicza z pod warty na każdym terminie personaliter stanowionego, dylacyach y dobrodzieystwach prawnych, to iest na dniu dwiewiątym miesiąca Juniii patronów y po przydaniu naszym onemu pana Jerzgo Woytkiewicza y pana Jerzego Woronowicza, y pana Pawła Rewienskiego, na dniu dwunastym po wzięciu na copią z zakazu, na dniu szesnastym na copie ze wszystkich spraw w podaniu onych na dniu ninieyszym to iest dziewiętnastym tegoż miesiąca Juny, anni praesentis, za przywołaniem przez ienerała stron do prawa, przez aktorów pan Jan Suroż Frąckiewicz-- krayczy Wileński, y pan Michał Bohdanowicz, a od niewiernego żyda Jakuba Salomonowicza pan Paweł Reweński y pan Jerzy Woytkiewicz patronowie za mocami prawnemi sobie do tey sprawy danemi y ustnie zleconemi przy bytności tak imć ziędza plebana, tudzież zakrysyana kościoła Komayskiego, iako też y żyda Jakuba Salamonowicza, z pod warty postawionego, oczewisto stawali y prawnie rosprawowali się. Zatym strony powodowey patron pan Frąckiewicz podanych obżałowanym niewiernym żydom Jakubowi Salamonowiczowi, tu pod wartą będącemu, Moyżeszowi--Senatorowi, Kaszrelowi Moyżeszowiczowi, Jakubowi Izakowiczowi y Abramowi Salamonowiczowi y całym kahałom żydowskim Wiżuńskiemi y Kowarskiemi, za bramą Trocką tu w mieście i. Kr. Mci Wilnie Nochimowi z Lublina, Izraelowi z Przeorska, Iohilowi z Murawy z Nikloszporku, do brom na ulicach Subacz y Trockiey będących, poprzybiianych, a imć panu Goryszewskiemu za bramą Trocką ku zborowi ewangelickiemu idącemu oczewisto w ręce podanych piąciu stronic, przez ienerała Piotra Zynze zakazu, zeznaniem onego oczewistym przed wielmożnym imć panem pisarzom ziemskim Wilenskim y koła sądów naszych uczynionym słusznie y iawnie dowiodszy, żałobę aktorów swoich iteruiąc wniosł: że obżałowani żydzi w roku teraźnieyszym tysiąc siedmsetnym ze dnia dwudziestego piątego na dzień dwudziesty szósty mca Apryla w nocy, przez zamki do kościoła Komayskiego dobywszy się, cymborium siekierami rozłupawszy, puszkę ze czterdziestą komunikantów wzięli y czy drugim kahałom y żydom na eluzyą maiestatu pańskiego oddali, czyli też gdzie zadzieli, kielichów dwa prożnych wzięli, obraz świętego Jana z ozdób, srebra, kleynotów odali, lamp dwie srebrnych wiszących zabrali, do zakrystyey włomawszy się, monstrancyą srebrną wielką y pienędze aktora pozabierali, szkody na dwanaście tysięcy złotych uczynili, które srebro do żyda Wiżuńskiego nazywaiącego się Moszka zanieśli y czy tym srebrem, czyli też pieniędzmi za srebro u Moszki zanieśli y czy tym srebrem, czyli też pieniędzmi za srebro u Moszki wziętemi podzielili się, a potym gdy iuż z Wiżun uchodzili za poścignieniem y złapaniem pomienionego Jakuba Salomonowicza y Iochila z Morawy, towarzysza iego, z żydówkami dwoma, którycg gdy imć pan Gieydroyć y imć pan Moygis do Kowarska przyprowadzili w reoku tymże teraźnieyszym y tegoż msca Apryla dnia dwudziestego dziewiątego, żydzi Kowarscy, uczyniwszy tumult, żyda z Morawy y żydówek dwie odbili, za wzięciem iednak iuż pewney wiadomości, że żyd Wiżuński nad prawo y wszelką \[248\] słuszność srebro kościelne od tych złodzieiów nabywać, złodzieiów czas nie mały przed tą kradzieżą y po kradzieży u siebie przechowywać ważył się, aby onego do sequestru urzędowego y do imści pana Goryszewskiego, iako podstarościego sądowego Wilkomirskiego, a dzierżawcy Wiżuńskiego, wzięto lub też żałuiącym iako łotra, złodzieia wydano, abo też sprawiedliwość uczyniono, imć pana Goryszewskiego od żałuiącego proszono; kahał tedy Wiżuński imści pana postarościego zabiegszy, iawnego łotra na parenkę wzioł, a imść pan Goryszewski y sama ieymć, bendąc dissidentes in religione, łotra łotrom na parękę wydali, sprawiedliwości nie uczynili, sądy czas, od czasu odkładali, a nad to popełniaiąc pod sądami naszemi exces, przegrożki na zdrowie aktorów czynili, czgo processem od aktorów na obżałowanych przed namisz sądem zaniesionym y per extractum w dacie roku teraźnieyszego tysiąc siedemsetnego, msca Junii piątego dnia wyiętym, tudzież relacią ieneralską y regestrem poczynionych szkod w grodzie Wileńskim aktykowanych dowiodszy y że przy licu żyd Jakub Salamonowicz wzięty iest, ktore przed nami sądem pokazywano, doniosszy tego żyda Jakuba Salamonowicza, aby doskonalsza w tym mogła być wiadomość, na tortury wskazania prosił, a pan Rewienski, żydowi Salomonowiczowi przydany patron, odczwawszy się wniosł, że pryncypał onego nie wienien, nie podeyrzany, nikomu z złodzieystwa niewywodził się y w tey sprawie strona powodowa żadnym nie dowiodła dokumentem, aby on był co winien, lica przy nim nienaleziono, ale tam z drugiemi żydami zszedł się y zaiedno szedł drogą, potym gdy ich dogoniono, zaiedno do Kowarska przyprowadzono, tamci pouciekali, to snać byli y winni. On zaś iako nic niewinien, to też nie uciekał, zaczym alleguiąc prawa pospolite statutowe, artykuł sześćdziesiąt pierwszy z rozdziału iedynastego, dla lepszego obiaśnienia tey sprawy na inquizycyą odesłania żądał. Na takową pana Rewieńskiego kontrowersyą pan Bohdanowicz prawnie replikuiąc doniósł, że niepowinna być wyprowadzona inquizycya, bo kożdemu yle w powiecie Wilkomierskim iest rzecz wiadoma, że kościól Komayski żydzi okradli, lice które u sądu naszego pokazywano przy tychże winowaycay, przy których y ten żyd był, naleziono, zaczym podług pierwszey instancyeye żyda pod wartą będącego na corporalną inquizycyą wskazania, a ieżeli tego potrzeba, tedy y do przysięgi zakrystyanowi Komayskiemu na szkodach y wszyskich punktów w żałobie inserowanych zabieraiąc, uznania oney a na żydzie Salamonowiczu simul et paenas criminales decerni upraszał. E contra pan Woytkiewicz od Jakuba Salamonowicza stawaiąc, a dowodząc tego, że bliszszy by był do odwodu żyd Jakub Salamonowicz, iako niwczym niewinny, niepodeyrzany, bez żadnego lica wzięty, ale żeby nieiwnność onego lepiey y doskonaley obiaśnić się mogła, gdzie iego wzięto, aby ci ludzie, ieśli ten żyd iest co winien, podług prawa przed ichmć panami inquisitorami zeznali, do zwysz wyrażonego przez pana Rewienskiego allegowanego referuiąc się prawa, tey sprawy inquisitią ad locum loci odesłania prosił y domawiał się. W ktorey sprawie z oczewistey stron przy postanowionym z pod warty żydzie Salamonowiczu kontrowesyi, my sąd przysięgi żadney, do którey się od imć xiędza plebana Komayskiego stawaiąc panu Krzysztofowi Łukaszewiczowi-- zakrystyanowi Komayskiemu zabierano, na tenczas nie uznawaiąc, żyda Jakuba Salamonowicza, iako przy licu wziętego dla dostateczney informacyey w tey sprawie na korporalną inquizycyą na tortury wskazuiemy, które turtury dnia dwudziestego pierwszego praesentis nad tymże żydem przez mistrza na mieyscu zwykłym odprawić się maią, a nia dwudziestego trzxeciego tegoż msca Junii strony finalną w samey rzeczy rosprawę przyiąć powinni będą. A po odprawioney nad przerzeczonym żydem Jakubem Salamonowiczem corporalney inquisicyey, gdy ta sprawa na \[249\] dniu dwudziestym szostym tegoż miesiąca Junij ku sądzeniu naszemu przypadła, tedy za przywołaniem ieneralskim stron do prawa, od imści xiędza plebana Komayskiego wysz wyrażony patron imć pan Frąckiewicz stawaiąc, tego żyda Jakuba Salamonowicza z pod warty personaliter u sądu naszego postawienia affektował, za postawieniem ktorego ab utriunque zwysz wyrażeni patronowie stawali. Zatym pan Frąckiewicz patron actoreae partis przypadłego tey sprawie terminu dekretem sądu naszego oczewistym na dniu dziewiętnastym tegoż miesiąca Junii ferowanym słusznie, prawnie dowiodszy, inquisitią podług pomienionego sądu naszego dekretu nas żydem Jakubem Salamonowiczem czynioną, na piśmie z podpisem ręki ieneralskiey od daną czytał, która de verbo ad verbum tak się w sobie Confessata żyda Jakuba Salamonowicza za dekretem sądu głównego trybunalskiego, roku tysiąc siedmsetnego pierwszego miesiąca Juny w Wilnie czyniona. Naprzód przed samą confessatą nieyznał sie ten żyd Jakub Salamonowicz, aby miał z drugiemi żydami, to iest Jzraelem z Przeorska, Nochimem z Lublina, Jehielem z Nikliszporku, być w Komaiach y łupać kościół, tylko z boku słyszał, że ci pomienieni żydzi Jzrael, Nochim y Jehiel, odprawiwszy szabas, z Wiżun szli do Komay y z tamtąd powrociwszy ze srebrem nazad, przedali żydowi Moszkowi alias Moyżeszowi, nazwiskiem Senatorowi, za dziewięćdziesiąt talarów bitych y te pieniądze od niego odebrali, tylko złotych czterdzieście pięć zostało przy Moszku w Wiżunach. Za pociągnieniem tedy pierwszym Jakub Salamonowicz zeznał, że Meier żyd, arendarz Oniksztański, tych trzech żydów podmowił do tey kradzieży kościoła Komayskiego, daley gdy się pytano przyznał się że y sam ten to Jakub żyd był w tey kompaniey z niemi, kościół bez ognia w nocy witrychiem otworzyli, on stał na straży u drzwi na cmentarzu, a tamci trzey cymborium siekierami wyłupali, puszkę z nakrywką y z komunikantami świętemi wzięli, w zakrystyey kielichów dwa y patyny dwie, monstrancyą lampy dwie wzięli y całkiem te srebro w Wiżunach Żydowi Moszkowi Senatorowi przedali, komunikanty święte z puszki, które mienił być iak piątaki, tegoż Moszka z puszką oddali, który z puszki na sprośne ręce swe wysypał, a potym, w papier wsypawszy, do skrzyni dał żonie swoiey schować y namuwili się z sobą, że mieli w ogniu spalić. Za drugim razem, zeznał że resztę srebra mnieyszego od Moszka żyda pozostałego przenieśli do żyda Meiera Oniksztańskiego, krewnego Moszkowego, którzy, że nie wprzód u niego byli, nieprzyioł y przy tamtych trzech żydach zostało srebra, co mieli wychodząc z Wiżun, z którym to srebrem odbito w Kowarsku. Za trzecim razem wyznał ten Jakub złodziey, że Ayzik, arendarz Woynoyski, syn Gierszona arendarza imści pana Sokołowskiego--stolnika Inflanskiego, będąc na iarmarku w dzień świętego Jerzego w Wiżunach, namówił z Moszkiem--Senatorem iego y tamtych trzech, dawszy informacyą, aby szli do wykradzenia tego srebra, że mieli z nim szielić ię, ale potym nic mu nie dali, przykazał tedy tym złodzieiom Ayzik, aby niepowiadali żenie onego, ieśliby się pytała dokąd idziecie, powiedzcie że do Rakiszek idziem; w teyże karczmie gdzie żona Ayzika pili wodkę y piwo; a tak nieopowiadaiąc się poszli do Komay, tamże w polu siedzieli czekaiąc wieczora. Jnney kradzieży, gdy się pytali nie przyznał się. Piotr Adamowicz--ienerał J.k. mści, przy confessacie były, własną ręką podpisałem. A po przeczytaniu tey inquisicyey, żałoby, relacyi, y regiestru donosił, że co iest od imć xiędza plebana Komayskiego w uroszczoney y zaniesioney żałobie wyrażono, to wszystko na widok się pokazało z inquizycyey, że żydzi bez ognia w nocy kościół Komayski zamek wytrychem otworzywszy wykradli cymborium siekierami rozłupali, puszkę z nakrywką y komunikantami wzięli, kielichów dwa patyny dwie, monstrancyą, lampy dwie \[250\] zabrali y te srebro do Moszka żyda Wiżuńskiego zanieśli, który z niemi maiąc przewodnią y srebro kościelne prawem pospolitym obwarowane nabywać, komunikanty ad sacrilegos manus wysypywać, y one na eluzyą prawdziwey Chrześciańskiey wiary chować ważył się. Już tedy evidentissime pokazało się, że ci żydzi, przyliczni świętokradce; widzieli żydzi Kowarscy, kogo odbiiać, wiedział kahał Wiżuński, kogo na parękę brać, a imść pan Goryszewski niechciał Moszka żyda, przewodce y przylicznego złodzieia, wydać, ale drugim żydom na parękę dał, sprawiedliwości czas od czasu zwłocząc uczynić niechciał, przyparęczenie przyioł. Pokazało się też y to że y ten żyd Jakub Salamonowicz z niemi w kompaniey był, uczestnikiem teyże kradzieży iest spolna ich wszystkich na takowz zły y niesłychany uczynek była obrada; na dalszy tedy ieszcze dowod panu Krzysztofowi Łukaszewiczowi--zakrystyanowi Komayskiemu, na tym: iako w roku teraznieyszym tysiąc siedemsetnym ze dnia dwudziestego piątego na dzień dwudziesty szósty miesiąca Kwietnia, w nocy, obwinieni żydzi, w przyparęce u imści pana Goryszewskiego-- stolnika Brzeskiego y innych osób będące, przez zamki do kościoła Komayskiego dobywszy się, cymborium siekierami rozłupiwszy, puszkę z czterdziestą sześcią komunikantami, a kielichow dwa próżnych wzięli y czyli do kahałow, czyli gdzie oddali, z obrazów ozdoby odarszy, śrebro, keynoty, lamp dwie wiszących, z zakrystyey monstrancyą wielką y pieniądze zabrali, szkody na dwanaście tysięcy uczynili; za poścignieniem zaś złoczyńców y przyprowadzeniem do Kowarska, żydzi Kowarscy dnia dwudziestego dziewiątego Apryla, uczyniwszy tumult, żyda z Murawy y żydówki odbili; na tym: iako Moszko żyd Wiżunski srebro kościelne do tych złodzieiow za talerow dziewiędziesiąt nabył, złoczyncow u siebie przechowywał, ktorych potym kahał Wiżuński na parenkę wzioł, do iuramentu zabieraiąc, do onego uznania, a po wykonanym iuramencie tak żyda Jakuba Salamonowicza, personaliter u sądu naszego postawionego, iako też Nochima, Jzraela y Jehila y Moszka przezywaiącego się Senatora, tudzież żydów kahału Kowerskiego, że zniemiż znać przewodnią maiąc, Jichila żyda y żydówki dwie odbili, tudzież żydów kahału Wiżuńskiego, że Moszka żyda na paręke wzieli, onego niestawili na paeny criminalne żywo ogniem spaleniem wskazania y tak na wykoanie przysięgi, iako też na uczynienie nad Jakubem Salamonowiczem executiey terminu złożenia; a że się też Nochim, Jzrael, Jehil, Moszko y paręcznicy onych Kaszrel Moyżeszowicz, Jakub Jzakowicz, Abram Salamonowicz y cały kahał Wiżunski y Kowarski--starsi tego kahału y imść pan Goryszewski y pani małżonka imści do prawa nestawali, tedy na upad w rzeczy wzdania y żydów na infamią y na łapanie, imści pana Goryszewskiego, y panią małżąnką z przyczyn w żałobie wyrażonych na infamią tylko, przytym za szkody kościołowi Komayskiemu na dwanaście tysięcy złotych poczynione, sowito dwudziestu czterech tysięcy, osboliwie za szkody, nakłady prawne w tey sprawie errogowane, sześciuset złotych polskich z kopami wpisnego y pamiętnego et cum lucris nam przychodzącemi, na maiętnościach y dobrach obżałowanych, domach, kromach, handlach, towarach, spawąch, arendach y na innych wszelkich maiętnościach onych, leżacych, ruchomych, sumach pieniężnych, gdziekolwiek będących, żałuiącemu imści xiędzu plebanowi Komayskiemu wskazania, y tak pomienionych żydów na upad w rzeczy wzdanych, iako też imści pana Goryszewskiego y panią małżąke imsci, według prawa coaequationis, ex nunc za infamisow uzanania y dla publikowania tey infamiey ienerała sądowego przydania publikować y proklamować nakazania, a iako za summę wysz wyrażoną dla uczynienia na pomienionych obżałowanych osob dobrach, odprawy, tak na poścignienie y złapanie pomienionych zwysz wyrażonych żydów, dla \[251\] uczynienia nad onemi przez mistrza executiey do urzędów grodzkiego lub ziemskiego Upitskich y innych wszelkich sądow tych woiewodztw y powiatów, gdzie osoby y doba onych okażą się, z założeniem paen prawnych y odesłania, a do Meiera żyda, arendarza Oniksztanskiego y do Ayzyka, arendarza Woynowskiego, do czynienia prawem salwy zachowania u nas sądu prosił y domawiał się. A od Jakuba Salamonowicza, patron onemu przydany pan Rewienski odezwawszy się, replikował, że pryncypał onego, to iest Jakub Salamonowicz nic niewiien, bo Jzrael, Nochim y Jehel tego Jakuba gwałtem z sobą wzięli y tamci tak kościół łupali, iako też y splendor brali, a iego na straży postawili, on iuż im poniewoli nie kompaniey dopomagać, ale służyć musiał, iemu ani tego srebra, co pobrali, ani też pieniędzy, co za srebro wzięli, nie dali, ale to wszystko przy tamtych y przy Moszku Senatorze zostało, y on kiedy szedł do Kowarska na dobrowolney drodze, bez żadnego lica wzięto, bliższefo tedy Jakuba Salamonowicza na tym: iako żydzi Nochim z Lublina, Jzrael z Przeorska y Jehiel z Murawy, idąc do Komay, niewiedząc w iako sposób, gwałtem niemal onego z sobą wzieli, aby stał na straży przymusili; na tym: iako on do tego srebra nietykał się y tak samego srebra, iako też pieniędzmi za one nie brał; na tym, iako żadnego lica przy nim nienaleziono y niwczym w obżałowaniu imści xiędza plebana Komayskiego winnym nie iest, do przysięgi uznania, a po przysiędze od żałoby przez imści xiędza plebana Komayskiego do onego uroszczoney uwolnienia dopraszał się. Replikuiąc na to pan Bohdanowicz, patron imsci xiędza plebana Komayskiego doniosł: że Jakub Salamonowicz tym się nie może excusować, że go gwałtem drudzy żydzi wzieli, bo do takich rzeczy nikt nie może przymusić, a do tego pokazało się z inquizycyey za trzecim pociągnieniem zeznaney, że go Ayzik arendarz Woynoyski, syn Gierszona arenarza imć pana Sokołowskiego--stolnika Jnflanskiego, z Moszkiem Senatorem, na święty Jerzy, na iarmarku, spolnie ich wszystkich czterech, dawszy im informatią do takiego złego bezbożnego uczynku namówili, zaczy iuż wiedział, poco do Komay, a ile do kościoła szedł y czego miał się spodziewać, iuż tedy to było dobrowolne zezwolenie, do tego nikt niemogł przymuszać y innemi obszernie wniesionemyprawnemi replokowawszy ratiami, za przysięgą zakrystyana tego, żyda na garło żywo spaleniem y na inne srogie męki wskazuią, a drugich na upad w rzeczy y na paeny kruminalne, a na dobrach wskazu podług pierwszego strony swey domawiania decerni żądał. Na koniec pan Woytkiewicz, szeroce odpowiadaiąc, że ten żyd na torturach z bolu wielkiego y sam niewiedział co mowił, ale teraz tak zeznawa, iak w samey rzeczy było, zaczym przy wyszszym stawaiąc domawianiu y na punktach zwysz wyrażonych, do przysięgi zabieraiąc do oney uznania, a po przysiędze od żałoby uwolnienia, a do drugich żydów zwysz specifikowanych imści xiędzy plebanowi Komayskiemu salwy zachowania prosił y domawiał się. Atak my sąd w tey sprawie w Bogu wielebnego imści xiędza Dawida Podebrynowicza--plebana kościoła Komayskiego, z dylacyey Jana Krzysztofa Łukaszewicza-- zakrystyana tegoż kościoła Komayskiego, z niewiernym żydem Jakubem Salamonowiczem, z miasta Pinczowa, samym pryncypałem, Nochimem z Lublina, Izraelem z Przeworska, Ichilem z Morawy z Nikliszporka, Moszkiem Moyżeszem, przyzywaiącym się Senatorem, Kaszrelem Moyżeszowiczem, Jakubem Izakowiczem, Abramem Salamonowiczem y całym kahałem żydowskim Wiżunskim y Kowarskim starszemi tego kahału, także z imć panem Janem z Goryszewa Goryszewskim--stolnikiem Brzeskim--podstarościm Wilkomierskim, dzierżawca Wiżuńskim y samą ieymć, z oczewistey między imścią xiędzem plebanem Komayskim a żydem Jakubem Salamonowiczem z pod warty do sądu postanowionym kontrowersyey, poniewasz tak z produktu y \[252\] dowodów imści xiędza plebana Komayskiego, iako też z odprawioney nad żydem Salamonowiczem corporalney inquizycyey iawnie y widomie u sądu naszego pokazało, że ten żyd Jakub Salamonowicz do okradzenia kościoła Komayskiego był uczestnikiem y sam do szkod świętokradztwa y złodzieystwa z drugiemi żydami popełnionego znał się. Zaczym my sąd, do prawa pospolitego y świętey sprawiedliwości przychiłaiąc się, a na dalszy dowod zakrystyanowi Komayskiemu p. Krzysztofowi Łukaszewiczowi, samemu iednemu, na tym iako sprawiedliwie w roku teraźnieyszym tysiąc siedmsytnym ze dnia dwudziestego piątego na dzień dwudziesty szosty msca Kwietnia w noc obwinieni żydzi w przyparęce u imści pana Goryszewskiego--stolnika Brzeskiego y innych ichmć będące przez zamki do kościoła Komayskiego dobywszy się, cymboryum siekierami rozłupawszy, puszkę ze czterdziestą sześcią komunikantami, a kielichow próżnych dwa wiżeli y czyli do jahało czyli też gdzie oddali, z obrazów ozdoby odarszy, srebro, kleynoty, lamp dwie wiszących, w zakrystyey monstrancyą wielką y pieniądze zabrali, szkody na złotych dwanaście tysięcy uczynili, za poścignieniem zaś złoczyńcow y przyprowadzeniem do Kowarska, żydzi Kowarscy dnia dwudziestego dziewiątego Apryla uczyniwszy tumult, żyda z Moawy y żydowki odbili; na tym: iako Moszko żyd Wiżynski srebro kościelne od tych złodzieiow za talerow dziewiędzesiąt nabył, złoczyńcow przechowywał, których potym kahał na parękę wzioł, przysięgę uznawszy, termin na wykonanie oney dzień dwudziesty osmy tego msca Junij przed sobą dądem sładamy, a po wykonanym iuramencie my sąd pomienionego żyda Jakuba Salamonowicza, iako iawnego przy licu wziętego złodzieia y świętokradce, na paeny kryminalne, to iest, na spalenie żywego ogniem wskazawszy, aby executia nad nim że przez mistrza na mieyscu zwykłym tegoż czasu skoro po przysiędze uczyniona była, nakazuiemy, a drugich obwinionych wszystkich, iako prawu nieposłusznych, w roku zawitym na upad w rzeczy wzdaiemy y według prawa, żałoby pozewney y domawiania się strny powodowey patrona, za szkody kościołowi Komayskiemu na dwanaście tysięcy złotych od żydów poczynione, sowito dwadzieścia cztery tysiące złotych, na szkody nakłady prawne w tey sprawie spendowane, sześćset złotych polskich, a z wpisnym y pamiętnym nam danym et cum lucris zapłacony, wszyskiemgo summą dwadzieścia cztery tysiące sześćset y dziesięc złotych polskich na pozwanych niewiernych żydach wszyskich y na maiętnościach y dobrach onych, domach, kromach, handlach, spławach, arędach, y innych wszelkich leżących ruchomych, summach pieniężnych gdziekolwiek będących, a samych obżałowanych niewiernych żydów Nochima z Lublina, Izrael z Przeorska, Ichila z Morawy z Nikliszporka, Moszka Alias Moyżesza przyzywaiącego się Senatora, Kasrela Moyżeszowicza, Jakuba Izakowicza, Abrahama Salmonowicza y cały kahał żydowski Wiżuński y Kowarski, starszych tego kahału za takowe świętokradztwo na infamią na gardło żywych paleniem, a że do prawa niestawaią, tedy na łapanie, tudzież imć pana Jana z Goryszewa Goryszewskiego -stolnika Brzeskiego-- podstarościego Wilkomirskiego, dzierżawce Wiżunskiego y panią małżąkę imci w spolney radzie y namowie będących, za nieuczynienie w tak iawney y widomey sprawie sprawiedliwości y niewydanie żyda Moszka świętokradce y przewodnią z żydami złodzieiami maiącego, na infamią żałuiącemu imści xiędzu Podobrynowiczowi plebanowy Komayskiemu, wskazuiemy onychże podług prawa coaequationis ex nunc za infamisow uznawszy, dla publikowania y proclamowania tey infamiey ienerała sądowego przydaiemy, publikować y proklamować nakazuiemy; a iako za summe zwysz wyrażoną dla uczynienia na pomienionych obżałowanych osob dobrach odprawy, tak na poścignienie y łapanie samych obżałowanych \[253\] wszystkich zwysz wyrażonych żydów, dla uczynienia nad onemi na garłach przez mistrza executiey do urzędów grodzkiego, albo ziemskiego powiatu Upickiego i innych wszelkich sądowych tych woiewodztw y powiatow, pod ktoremi dobra obżałowanych okażą się y osoby poścignine y złapane być mogą, a którego sobie z ichmościów panów urzędników strona do tey sprawy użyć zechce, założywszy na speciwnego temu dekretowi naszemu paeny prawne odsyłamy. A do żydów Meiera, arędarza Onikszanskiego y Ayzika Woyneyskiego, którycg z konfessaty żyd Jakub Salomonowicz powołal y do drugich, do których prawo drogę pokaże, salve aktorowi temuż y na potym do konwinkowania onych zachowuiemy. A gdy dzień dwudziesty ośmy tegoż miesiąca Junii anni praesentis, tak dla wykonania przysięgi, iako też dla publikowania proclamowania pomienioney infamiey przypadł tedy pan Krzysztof Łukaszewicz, zakrystyan kościoła Komayskiego, przy postanowionym z podwarty u sądu naszego żydzie Jakubie Salamonowiczu, z roty kancellaryey naszey wyięty, a przez ienerała czytaney iramento sobie nakazany w te słowa wykonał: Ja Krzysztof Łukaszewicz przysięgam panu iedynemu Bogu wszechmogącemu, w Troycy swiętey iedynemu, na tym: iako sprawiedliwie w roku teraźneyszym tysiąc siedmsetnym ze dnia dwudziestego piątego na dzień dwudziety szosty miesiąca Kwietnia, w nocy, niewierni żydzi Jakub Salamonowicz z miasta Pińczowa, Nachim z Lublina, Izrael z Przeworska, Ichel z Morawy z Nikliszporka. Moszko alias Moyżesz, przezywaiący się Senator, w przyparęce u imści pana Goryszewskiego--stolnika Brzeskiego y innych będące, w nocy przez zamki do kościoła Komayskiegu dobywszy się cymborium siekierami rozłupawszy, puszkę z czterdziestą sześcią komunikantami, a kielichow dwa prożnych wzieli y czyli do kahałów czyli też gdzie oddali, z obrazow ozdoby odarszy, srebro, kleynoty, lamp dwie wiszących, w zakrystyey monstrancyą wielką y pieniądze zabrali, szkody na złotych dwanaście tysięcy uczynili, za poścignieniem zaś złoczyńcow y przyprowadzeniem do Kowarska, żydzi Kowarscy dnia dwudziestego dziewiątego Apryla, uczyniwszy tumult, żyda z Murawy y żydówki odbili; na tym: iako Moszko żyd Wiżunkis srebro kościelne od tych złódzieiów za talerów dziewiędziesiąt nabył, złoczyńcow u siebie przechowywał, których po tym kahał Wiżunski na parękę wzioł, naczym wszyskim iako sprawiedliwie przysięgam, tak mi panie Boże dopomoż, a ieśli niesprawiedliwie, Boże mie ubij. A po wykonaniu przysięgi Piotr Zynza ienerał sądów naszych pilnuiący, dość czyniąc prawu pospolitemu y dekretowi naszemu, w izbie sądowey et in foro publico, niewiernych żydów Nochima z Lublina, Izraela z Przeorska, Ichila z Morawy z Nikliszporka, Moszka alias Moyżesza przezywaiącego się Senatora, Kasrela Moyżeszowicza, Jakuba Izakowicza, Abrama Salamonowicza y cały kahał Wiżunski y Kowarski, starszych tego kahału, za infamisow na garło y na łapanie osądzonych, a imści pana Jana Goryszewskiego--stolnika Brzeskiego--podstarościego Wilkomirskiego, dzierżawce Wiżunskiego y panią małżonkę imści za infamissow publikował y proclamował y relacyą publikacyey swey, a loco publicationis rediens, iducialiter zeznał. A zatym my sąd dekret sądu naszego, na dniu dwudziestym szostym msca Junij teraznieyszego roku ferowany, we wszystkich punktach y paragrafach nienaruszenie przy mocy zachowuiemy y utwierdzamy y ony do executiey porządkiem prawnym przywodzić pozwalamy. Która sprawa do xiąg głównych trybunału wielkiego xięstwa Litewskiego iest zapisana.
-
-**Publisher:** Akty izdavaemye vilenskoiu kommisieiu dla razbora drevnikh aktov, vol. XXIX: EMW 2004
-
-"Akty o evreiakh" (Vilna: Russkii Pochin’, 1902), 244-253, no. 153.
-
-## Source 2 Original Text
-
-Process Kryminalny o niewinne dziecię Jana Krosnowskiego
-
-O Świętokradzwach Nayświętszego Sakramentu
-
-\[44\] Zabiwszy żywego, że w Niebie królującego Chrystusa, dostać nie może złość niepoięta Żydowska, szuka niewinnego z Herodem okrutnym, w osobach chleba utaionego, z tym większą łacnością, że im go sami bezbożni wydaiąc Katolicy..
-
-Roku 1213 W Francyi, Żyd u służebnice swoiey kupioną Hostyą (chcąc zachować na skłócie) puszkę gdzie miał siedm pieniędzy srebrnych wrzucił, które w Hostye widząc odniemione
-
-nawrócony poszedł do Rzymu, y tam od Innocentego Papieża okrzczony został.\[1\]  
-Roku 1305. W Paryżu że Sakrementu S. Od Białygłowy kupionego, Żyd niemogł na pateli spalić,
-
-puginałem uderzył, z którego się krew rzuciła, y wydała, Żydzi skarani y wyfnani a Kościół _Salvatoris Bullientis_, Cudu tego, po dziś dzień, prawdę iawną pokazuie.\[2\]
-
-Roku 1300. W Krakowie Kościół okradszy, Hostye SS pokłoli, podeptali, y po drogach pozacierali dla zdeptania ich, od samychże Katolików wzięci, z suspicyi z koła wplatani.
-
-Roku 330 \[sic\]. W Gustrowie przy kłociu Hostyi, głos dziecięcia płaczącego nawrócił Żydowkę, która świętokratdzcow potym znalaszy \[45\] Hostyą, we szkle w chustę uwinioną, w bożnicy, y pokrwawioną wydała; spaleni Żydzi z Niewiastą co Hostye przedała, a kaplica Hostyi Cudowney wystawiona.
-
-W Megapolskim Xięstwie dwie Hostye ukłote od Żydów opisał wierszami Bocerus.  
-Roku 1338. W Niemczech w Mieście Pulka, krwią sklota płynęła Hostya o co z rozkazania
-
-Papieża Benedykta są od Rakuskiego Xiążecia pokarani.\[3\]
-
-Roku 1369. W Bruxellach w Brabancyi, przez krew choynie płynącą, wydani Iudaszowie, targani kleszczami.\[4\] Tegoż Roku w Lowanium, o tosz skazani na stos, a Hostyę skrwawioną w kaplicy złożono.
-
-Roku 1414. W Kolnie Żyd przebrawszy się Kommunią przyiął y w kąt poszedszy, z ust brzydkich wyiął; widząc obroconą w osobie dziecięcia ieszcze płaczącego, uchodzić z Kościoła począł, ale mu Czart zastąpił, rzucił tedy w dołek na Cmentarzu dziecię płaczące na co z Kościoła gdy się ludzie zbiegli i Kapłani, Cud opowiedział y wiele Żydów przy sobie nawrócił.\[5\]
-
-Roku 1466. W Hiszpanii, gdy nie mogli dostaney Hostyi, ani spalić ani zniszczyć, d Klasztoru Dominikańskiego w Segovium odnieśli, o co byli śmiercią skarani.\[6\]
-
-Roku 1426. W Wiedniu niewiasta przedała S. Hostyą Żydom, za co Frederyk Cesarz kazał Żydów trzysta spalić, a Niewiastę kleszczami targać.
-
-Roku 1433. W Dywionie takaz Hostya skłota od Żydów, y skrwawiona za Eugeniusza Czwartego Papieża approbacyą, złożona w Kaplicy.
-
-Roku 1434. W Dekendorfie Thalmudystowie Hostyą S. Kłowszy, na kowadle kowalskim zbluźnierstwy tłukli, potym wpiec wrzucili. Za co także tych Diabłow ziemskich większą część blachami popalono y poćwiartowano.\[7\]
-
-Roku 1453. Na Śląsku bardzo wiele Żydów o uczynioną Hostyi S. Obelgę popalono. Roku 1492. W Czechach w miasteczku Sterberck, Eleazar, Żyd \[46\], za kupioną Hostyą y pokłotą oraz krwią płynącą, y zdrugiemi trzydziestą ogniem spalony.\[8\]
-
-Roku 1510. W Szpandawie Salomon Zyd za sześć groszy, u łotra iakiego kupiwszy Hostyą nożem kraiał, aż się na troie Hostyą rozpadła, dwie części posłał sowim przyiaciołom, do Brandenburgu, sam iedne skłotą krwią oblaną w placek zagniotszy w piec w rzucił, gdzie dzieciątko w wielkiej światłości widział, y ten placek w Bużnicy zawiesił. W Brandenburgu że krwi ze stołu z drugiey partykuły skłotey ciekącey zetrzeć niemogli, odłupiwszy trzaskę y z częscią Hostyi do Hostenburgu na wesele z sobą wzięli, ktorą Żyd Maier na misie Pani młodey oddał, mowiąc: masz się z czego weselic, oto masz Chrześciańskiego BOGA, y tak znowu czterdziestu prawie Żydów Hostyą kłoli, że krew obficie płynęła, za co Ioachim Brandeburski Margrabia trzydziestu w Berlinie w piątek po S. Rożesłańcach spalić kazał a Pawła Form, ktory im z puszką Hostye przedał, y w pasy darto, Żydzie przyznali się y do dzieci siedmiu umęczonych, o czym niżey w roz. XI.\[9\]  
-Roku 1540. We Wrocławiu, iako także Hostyą ukłoli Zwierciadło Przykładow.
-
-Roku 1514. W Hali, Żyd krzczony Kapłanem się \[nie będąc nim\] uczynił dostawszy Hostyi dwie Żydom przedał a trzecią sam z niedowiarstwa tak tłukł aż się krwią oblała.\[10\]
-
-Roku 1592. W Pradze Żyd Lewek \[bestya okrutna\] ukradszy u Franciszkanów trzy Hostye S. oddał Żydom, ktorzy ie nozami koląc, bluźnili: Ieśliś iest BOG Chrześciański, ukaz moc swoie y ukazał bo piorum uderzywszy w dzień pogodny, w dom ten swietokradców spalił, trzec co uciekło, wziętych kleszczami targano, y na pale powbiiano.\[11\]
-
-Roku 1619. Na Granicach Hiszpanyi. Żydówka przebrana y postrzeżona, że S. Hostyą z ust w chwustkę wzięła, w beczkę wsadzona, zaraz spalona została.\[12\]
-
-W Polszcze naszey iako wygnani z kraiow Cuszych Żydzi Ray znaleźli, tak też piekło się na wszystkie kryminały, osobliwie przeciwko Sakramentom SS y dzieciom niewinnym otworzyło.
-
-\[46\] Roku 1399. W Poznaniu, OO. Karmelitom Kościół Bożego Ciała Krol Iagiello wystawił na tym mieyscu, gdzie trzy Hostye (od służebnicy Diabelskiey ukradzione w Kościele OO. Dominikanów, przedane y w kamienicy Swidnińskiey włochu kłote, krwią płynące Cudownie od żydowki ślepey uzdrowioney ogłoszone) od żydów wyniesione, y w dołku zakopane, a potym przyklękaniem bydła, po powietrzu lataiące obiawione, y na ręce pobożnego Kapłana, Iana Ryczywoła spuszczone, Cudami do tą słuną, żydzi pobrani, y z Niewiastą wolym ogniem pieczeni y od psow przykutych, do nich pozarci zostali. Iako Xiążka o tym pod tytułem Depozyt Ciała &c 1663 wydana świadczy.\[13\]  
-Roku 1407. W Krakowie, woła na żydow Kościoł także Bożego Ciała na Kazimierzu zbudowany, na tym mieyscu gdzie Hostya SS od żydów sklote w błoto wrzucone, znalezione.\[14\] Przydaie Miechowita, że ich potym o dziecię zabite z Krakowa za Kazmierza wypędzono.\[15\]
-
-Roku 1508, dnia piątego Kwietnia, przekonany Rabin od X. Mikołaia Doktora Dominikańskiego przez publiczny dowow w Kościele P. Maryi w Rynku o obelgę S. Hostyi, i inne excesy, oddany Urzędowi, y spalony.\[16\]
-
-Roku 1556. W Sochaczewie Dorota Laszecka Hostya, S. w Kościele Kozłowskim, bez spowiedzi w Sobotę Wielką przyiąwszy żydom za trzy talery wydała, z ktorey tkrwie szklenice nazbierali Żydzi spaleni y Białogłowa wyznaiąca na siebie, że dziecka z żydem dostawszy, bez krztu go udusiła y na kierkucie pogrzebła, z listu Aloizego Lipomana: Nuncyusza na ten czas w Polszcze.\[17\]  
-Roku 1562. W Skierbieszowie Dzwonnik Żydom S. Hostyą Krasnostawskim przedał, którą w ognisku zakopali, gdzie się ogień palić nie chciał. Ale klecha uszedł, a żydzi się upominki wykręcili.\[18\]
-
-Roku 1580. W Osmiecimiu dwoch świętokradzcow spalono, o wydanie Żydom ukradzionych Hostyi, Żydzi sami (sromota wieczna) za Iudaszowskim workiem od śmierci wolni.\[19\] W Pilcy także się też stało, że Katolik spalony, żydzi wolno puszczeni.\[20\] EMW 2004 \[48\] Roku 1580. Żyd bluznierca Nayswiętszego SAKRAMENTU spalony.
-
-Roku 1598. W Pułtusku okradszy Hostyą Łotr nie iaki Krzyczkowski, Żydom do Płońska za cztery złote przedał poimany z suspicyi wyznał, Żydzi na mękach parli się, ale potym wyznali, ża zaślepieni drogi przed sobą niewidząc, uchodzić nie mogli, znaleziona puszka w gnoiu y z processyą do Kościoła Hostye wziete Iudaszowie spaleni.\[21\]
-
-Roku 1600. w Bochni mazur wydawszy S. Hostyą Zydom, boiaznią zdięty sumnienia, ani spowiedzą uspokoiony sam przed Urzędem na siebie y komornika swego wyznał. Źydzi Iakub Ickowic, Frącek Icko Wronka z poręki P. Mikołaia Borzynowskiego uszli gdy przez dekret Krolewski stawic ich kazano. Protektor że nagle \[na Seym pozwany\] umarł. Żydzi wszyscy wygnani Achaty Kmita w processie drukowanym: ktory przydaie przyczyne handlu tego Iudaszowskiego ze Roku 1698 \[sic\] Żona prawi Ickowa Wronina, raz prosię drugi raz dziwo, iak
-
-Indyka szpetnego urodziła.\[22\] Druga także łatkę z żebami zaięczymi z grzywą końską, z ogonem wężowym, urodziwszy, na iakąś przez Czary Expiacyą Sakramentu S. dostać się ważyly, znaleziono także przed tym u tego Frącka Krola Stefana suknie, w Niepołomicach mu pokradzione, przed Dekretem _Expulsionis_ Latawiec za uderzeniem Piorunu, do Boznice im wleciał, y potym tak im przeszkadzało, że Boznice zamknęli, ktorą w krotce za Dekretem odebrano y ich wygnano.
-
-Roku 1619. Żydzi z Kalisza kupili u Niewiasty z Sobotki Hostyą Swietą y nad nią się pastwili, znależli wiele Fautorów, y Protektorów, dla ktorych się sprawiedliwość choć o samego BOGA naszego krzywdę przewlokła.\[23\]
-
-Roku 1669, _die ultima Iulii Lovicii_ na Konfessatach przed wysadzonemi Xiążęcia na on czas I.M. Prażmowskiego Prymasa Kommisarzami nieiaki Murzynkowic _profugustz_ pewnego Zakonu wyznał że będąc Presbiterem u Fary u Maryi Magdaleny w Poznaniu wziął kilichy dwa y _cuppam a pixide_ wysypawszy, Hostye odkręcił \[49\], Żydom tamże przedał za co wsadzony, z Karceres się wyłamawszy uszedł _in habitu lascali_ kowalstwo po wsiach robiąc (iako Syn niegdy Kowalski) w Pakendzu Żone od Męża odomowiwszy mieszkał z nią na wiarę z Corką iey także _incestum commisse_ pytany o Świętokradztwa lubo co na torturach zeznał to rewokował że to z bolu wielkiego uczynił iednak _pervasionibus ad salutem anima motus D.D. Commissariorum Corde contrito effusisque lachrymis coram Imagine Crucifizi sponte et claravoce recognovit_. W Chełcach służac za Kantora ukradłem Kommunikant, y Łewkowi Żydowi przedałem w Kaliszu Anno 1669 za złotych Osmidziesiąt albo Dziewięćdziesiąt _circiter ex Ciborio_ go wziąłem klucze były w Kościele uczyniłem przed tym z Lewkiem kontrakt o kupno on mie na to namawiął, w Kaliszu y odniosłem mu go do domu wziąl go w ręke Lewek nożem pchnął pokazała się krew widziąłem sam oczyma memi raz tylko pchnął był Syn iego przytym, y drudzy ktorych nie znam czterech albo pięc, było to około Mięsopustu, szwargotali tam z sobą zaraz na coby tego potrzebowali nie pytałem w Raysku też służąc za Bakałarza ukradłem Kommunikant przedałem go Samuelowi Żydowi w Dobrey, wie o tym Żyd Marek z Kozminka Anno 1662. po EMW 2004
-
-Wielkieynocy zaraz dali im za to złotych Sześcdziesiąt czyli Siedmdziesiąt _circiter_ nie mogli pamiętać. Trzeci Kommunikant w Miłowicach ukradłem y temusz Salomonowi w Dobrey z Zięciem iego Anno 1663, wie otym tenże Zięci iego za złotych Sześdziesiąt potym Anno 1667. Tamże w Miłkowicach ukradłem Kommunikant y temuż Salomonowi przedałem za złotych Sześcdziesiąt. Hostyą przedałem w Warcie Żydom Moyżeszowi y Szklarzowi Iakubowi z ktoremem targ uczynił drugich nieznam trzech ich było, zawsze mię o to prosili, mieli byli dać im złotych Sześdziesiąt, ale niewiem co mi dali w worku, bom Ich nieliczył, tom uczynił in Anno _Currenti_ wziąłem ią przed lutrznią w Niedzielę Wielkonocną z grobu y nieodmieniałem nigdy \[50\] inszey Hostyi, prostego też nieprzedałeł Kommunikanta, bo by go poznali y o co mię prosili, abym prawdziwie Konsekrowane a nie proste im nosił, maią probę że kolą y krew idzie z nich na co by tego potrzebowali y zażywali niepytałem się o to, u Żydów w tey przedaży nie miałem żadnego dubium y że prawdziwe Ciało y Krew Nayświętsza iest wierze, tylkom tom czynił z łakomstwa tę Hostyą chowałem ad Festum Ascensionis Domini w Kościele Miłowskim _in tumba_ w Ołtarzu podle Kazalnice y nazaiutrz _in crestina Festi Ascensionis_ na Iarmarku w Warcie przedałem Żydom, y iuż to na gotowem zaniosł nikt niewiedział o tey kradzieży, y Żona o tym niewiedziała, y Corka niewiedziała, tylko była na Kwietną Niedzielą u mnie y zaraz w Poniedziałek poszła przy sobie Nayświetszego SAKRAMENTU tylko raz byłem w Kaliszu ten Kommunikant z ktorego to krew szła konsenkrował X. Swieykowski Pleban Chełmski, te pieniące com za Kommunikanty brał, provictu et amictu obracałem, y tych zbrodni nigdym się niespowiadał, często żeby mię niemieli za Heretyka, y nigdziem _Hostiam non Consecratam in lacum consecratum supposui_ mogl bym był, alem tego nieuczynił. Oddany Urzędowi potym spalony a Żydzi pouciekali powołani.
-
-Około Roku 1670 we Mławie żyd Kurek kupił u Złodzieia S. Hostyą y z puszką, ktorą gdy kłoli w nocy w piwnicy nożami krew się rzuciła, Hostyą nazaiutrz na powietrzu widziaan była, y dzwony słyszane nad tym domem, w ktorym naleziono Zlóczyńcow Synowie dwa tegu Kurka ochrzczeni, uczyli się w Pułtusku in Anno 1704 w Seminarium mieszkali.
-
-W Maminie za Księdza Biskupa Trzebickiego o Hostyę S. kupioną Arendarza \[że tylko X Pleban wyrzekł, trzeba by cie spalić\] Pospolstwo dol wykopawszy spaliło.
-
-Roku 1696 w Sendomirzy Białagłowa w Wielki Czwartek S. Hostyą przyiętą w chustę wyplutą iuż była do żydow zanioła ale postrzeżona na śmierc tamże w Mieście dekretowana.
-
-Roku 1698. W Rawie złapano sześciu Żydów, o skradzenie \[51\] w żelazny tak sreber iako y Hostyi S. z Monstrancyą pod czas Okrawy Bożego Ciała, y dwoch Slosarzow _Complices_, ktorych zaraz powieszano, Żydzi niewiem czy się nie wykręcili.
-
-1710 w Łęczny _Feria 5ta post Festa solennia Pascha_ dekretem ferowanym, tamże w mieście z roskazu I.M. P. Strażnika W.X. K. BOGA sprawiedliwości (nie Świętokradzcow) obrocone, Żydow Żydowek siedm spalono y Podgorskiego Dzwonnika, osiedmaśie wyanych Hostyi SS> y inne Kośilene rzeczy: gdzie Iudasz wyznał że iednę Hystyą \[sic\] wziąl z sobą do Gdańska, drugiena Czary obracali.
-
-Roku 1712. Z Jędrzejowa Arendarz (ledwie tam przyięty przeciwko prawu) wygnany, o Hostyą kupioną także u świętokradzce Dzwonnika.
-
-A że niezostało iuż sposobów Żydom na kredyty, na Prowizye brać pieniędzy, a przecie lekko robiąc powinna się mieć dobrze; rzucili się do łupienie y kradzieży Kościołom, gdzie oraz y Nayświętszey Hostyi, lubo sami lubo od świętokradzcow przewodniow sowich dostaią, o co kiedy ktory Pleban czynić pocznie, to mu potrzeba y życie y gotowiznę łożyć, a ieszcze rzadko doydzie dla Protektorów sprawiedliwości. Niech żeby ieno żydom Przykazanie ukradziono z Bożnice, ieżeli by wszyscy na to się nisładali nieciekali, żeby się zemścić krzywdy. My Katolicy, czy nie wierzemy w Chrystusa, o ktorego wzgarde Aktorom czyniącym, przeszkadzamy, a ieszcze dla pieniędzy podobno żydowskich, ktorych BOGU duszą Przypłacić będzie trzeba. Niektore Świętokradztwa, wieku naszego wspomnnie, bo ich spisać wszystkich niepodobna.
-
-Przed Rokiem 1648. w Krakowie u S. Anny kielich na Zamku Trzybularz u P. Maryi Krzyż wielki srebrny, u S. Szczepana łańcuch złoty z Monstrancyi, u S. Troyce Antependium, u Franciszkanów lichtarze, na piasku srebra z Obrazu pokradzione u Żydow zostały, Katolicy pokarani, Żydzi się okupili.\[24\]
-
-W Piotrkowie Żydow tracono, o takąż sreber Kościelnych kradzież \[52\] stary żyd zapamiętał stracony. Młodemu Gołebica naramieniu padła na placu, znakiem była iego powołania do Wiary, ktorą przyiąwszy ścięty, to z relacyi OO. Piarum Scholarum.
-
-W Kościele pod Krakowem puszkę z Hostyi Arendarz kupił, I.X. Opacki Archidyakon Krakowski czynil o to, że żyd stracony y wszyscy z browarów z tey parafii przez dekret Grodzki wyfnani Wodzisławscy zaś żydzi _complices_ daią dolampy tamże oliwę.
-
-W Opatowcu, w Bałutowie, w Denkowie, w Opatowie: razem cztery Kościoły okradli żydzie, ktorzy tu aż z Litwy byli na tę robotę przyszli.
-
-Roku 1688. w Chełmie tracono także żydów y Katolika o skradzenie kilku Kościołow gdzie że srebrem zabierali y SSm: na obelgę y czary sobie zwykłe.
-
-W Siennie Żyda także stracono o srebro Kościelne y Relikwie Swięt: Antoniego, ktorego gnatkami nazwał, pokazawszy gdzie ie był zakopał w gnoiu.
-
-W Kozminku pod Kaliszem okradł Kościół, gdzie zabrali y srebra Kościelne y Plebanowi na złotych sześć tysięcy y I. M. Panu Lętkowskiemu w pieniądzach y w kleynotach na złotych Sześctysięcy tych stracono w Piotrkowie.
-
-Roku 1694. Kościól Farny w Bełzie Rusin z Waręza oklradszy, z puszką osmnaście Hostyi przedał żydowi Sokalskiemu, Rusina spalono za żydami instancyie wielkich Panow sprawiły, (a żal się Boże y od Biskupa pewnego niegdy Inhibicya wydana), że Sędzia wziąwszy dwieście talerow bitych, żydow przypuścił _ad evasionem_ przez dekret w Aktach Grody Bełskiego zapisany.
-
-Roku 1696. Kościół Świętego Ducha w Sendomierzu okradli także żydzi process moy świadczy 1698 wydany.
-
-Roku 1607. we Cmielowie z Ołtarza Swiętey Anny złotnik srebro pobrał, ktore się żydom dostało. Złotnik tylko stracony.
-
-\[53\] Roku 1697, na Wołyniu żydzi Cech mieli Złodzieyski, ktorzy około Łucka Kościołow więcey niż dwadzieścia że sreber złupili, iako to w Targowicy u Arendarza. W Łucku naostatku Cerkiew łupiących połapano a drudzy pouciekali, Arendarz z Targowicy przyznaiąc Cuda od Krzyża u siebie zakopanego, okrzczony ścięty, Rabina Syn że dwiema spalony. A toż Kontubernia takie handlow żydowskich do ktorych w pisuią pewnie y tych co fla ich łakomstwa kraść y Kościoły muszą.
-
-Roku 1698 z Przytyka żydzi Kościół okradli we Wrzosie, ale że u nas process z żydami trudny ktorzy zaraz pouciekali przepadło.
-
-Roku 1700. W Szczeglicach pokradzione srebro Kościelne pokupili żydzi Opatowscy.
-
-Roku 1702. we Frysztaku Kościele żydzie na Dwadzieścia Tysięcy srebra zabrali, I.M. P. Iozef Rołowski Chorązy Parnawski okupem sobie Offiarowanym z pobożności Chrześcianskiey w zgardziwszy, piąciu spalić kazał, a na czterech Infamią otrzymał, niewrociło się tylko dwadzieścia dziewięc grzywien srebra bo z drugiego tynfy y szostaki fałszywe bili. Ciż siedm inszych Kościołow okradli byli.
-
-Roku 1703. W Głogowie y bliższych Kościołow kilka żydzi pokradli.
-
-Roku 1711. Woyciech Floryk z drugiemi drabami okradli Kościól w Ulanowie że srebra ktore przedali zydom iedne w Bilgoraiu, drugie Leybie Rzeżnikowi w Goraycu, są Konfessaty iego w Mieście Oleszycach dnia 7 Augusta opisane.
-
-Roku 1712 w Kozuchowku w ziemi Drobinkiey. Zydzi z Łosic puszkę z Hostyami u złodzieia kupili ktory spalony żydzi na torturach się niechcieli przyznać, choć srebro od nich licem wzięto.
-
-\[54\] Roku 1712 z Opatowskiemi żydami iest dekret moy iako _commisarii synodalis_ z I.M. Panem Kasztelanem Zawichoyskiem _statutionis_ Żydow ktorzy srebra z Kościołow w Kiełczynie w Chobrzanach, Pskanowie, w Glinianach, y w Sobotce osobliwie puszki pokradzione od drabow skupowali y iako naywiecey kazali im przenosic o Hostye ich prosili, ferowany _in Vigilia Festi S. Ioannis Baptistae_ w Opatowie.
-
-Roku 1713. Iest sprawa w Grodzie Sanockim o pokradzenie Kościoła w Hoczewie, z zydamie, ktorych wydała przekrzcionka zabieraiąca się na komprobacyą, a żydzi na Ewazyi w lat dwadzieścia licami od nich odebrano, y 1710. w Iarosławiu ich na Trybunale o to sądzono, albo iako ow Cygan ktory więcey było potrzeba dać od dekretu _Evasionis_, niż się podkowa stała, podkowę (przysiągszy że iey nieukradł) wrocił.
-
-**Endnotes**
-
-\[1\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. \[Several copies preserved at the library of the Jagiellonian University in Cracow\]; Also Jan Kwiatkiewicz _Roczne Dzieje kościelne od Roku Pań skiego 1118 aż do lat naszych_ (Kalisz: Typis Societatis Jesu, 1695, 21.
-
-\[2\] Jan Kwiatkiewicz _Nowych dziejów kościelnych_ (Kalisz: SJ, 1706). \[3\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
-
-\[4\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Szymon Hubicki, _Żydowskie Okrucieństwa_ (Cracow: 1602), 3.
-
-\[5\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_ (Cologne: 1622).
-
-\[6\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem Baronium. Tomus XVII Rerum in Orbe Christiano Ab Anno Domini 1448 Usque as Annum Domini 1471_ (Cologne: 1624).
-
-\[7\] Hubicki, Żydowskie okrucieństwa, 3. He also mentions Śleszkowski, Sebastyan Śleszkowski, _Dostateczna Genealogia Żydowska._(Brunsberg: Schonfels, 1622), Chapter 10.
-
-\[8\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_. Also, Hubicki, _Żydowskie okrucie ństwa_, 4.
-
-\[9\] Cites Śleszkowski as a reference, but see also, Hubicki, _Żydowskie okrucieństwa_, 3-4..  
-\[10\] Żuchowski cites Przecław Mojecki, _Żydowskie okrucieństwa, mordy i zabobony_ (Cracow: 1589), chapter 12. But see also, Hubicki, _Żydowskie okrucieństwa_, 3v.
-
-\[11\] Hubicki, _Żydowskie okrucieństwa_, 4.  
-\[12\] Henricus Spondamus \[Henry de Sponde\], _Annales ecclestiastici_.
-
-\[13\] He also cites, Śleszkowski, _Dostateczna genealogia żydowska_.
-
-\[14\] Abraham Bzowski, _Annalium Ecclesiasticorum Post Illutriss. Et Reverenidss. D.D. Caesarem. Baronium. Tomus XV Rerum in Orbe Christiano Ab Anno Domini 1378 Usque as Annum Domini 1431_.
-
-\[15\] Maciej Miechowita, _Chronica Polonorum_ (Cracow: Hieronim Vietor, 1519 \[1521\]).
-
-\[16\] Cites Marcin Bielski, _Kronika Wssythyego Swyata Na Ssesc Wiekow a Na Czwory Ksiegi Takiez Monarchie Rozdzielona_ (Cracow: Hironim Scharffenberg, 1554 \[1551\]). And Mojecki, _Żydowskie okrucieństwa_.
-
-\[17\] Hubicki, _Żydowskie okrucieństwa_, 5r. Hubicki himself notes the importance of print there “Pisał też w tey sprawie Anloysius Lipomanus Nuncius Aposto, ktore listy w Rzymie potym wydrukowano.”  
-\[18\] Hubicki, _Żydowskie okrucieństwa_, 5r-v.  
-\[19\] Hubicki, _Żydowskie okrucieństwa_, 5v.  
-\[20\] Almost identical wording as Hubicki, _Żydowskie okrucieństwa_, 5v. \[21\] Hubicki, _Żydowskie okrucieństwa, 5v_.
-
-\[22\] Cites Jan Achacy Kmita, _Process Sprawy Bochenskiej z Żydami o Nayświętszey Eucharistiey Sakrament of Żydów u Świętokradców Kupiony y Cudownie Okazany_ (n.p.: n.p., 1601 \[1602\]). See also, Hubicki, Żydowskie okrucieństwa, 5v-6v. Hubicki also mentions Alfonso de Espina, _Fortalitium Fidei_.
-
-\[23\] Cites Śleszkowski.
-
-\[24\] Cites Sebastian Miczynski, _Zwierciad ło Korony Polskiey: Urázy Cięż kie y Utrapienia Wielkie, Które Ponosi Od Żydow Wyrazaiące Synom Koronnym Ná Seym Walny w Roku Panskim 1618_ (Cracow: Máciej Jedrzeiowczyk, 1618). Perhaps the year 1648 above is a mistake.
