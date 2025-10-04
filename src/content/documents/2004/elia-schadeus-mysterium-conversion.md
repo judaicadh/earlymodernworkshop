@@ -39,6 +39,9 @@ footnotes:
     rich-text: Having brought her to the baptismal font, Schadeus feels responsible
       for Susanna's wellbeing.
 original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original Text</h2>
+
+
   Copia einer Supplication an einen Ehrsamen Rath der Statt Straßburg/ Anno 91.
   den 3. Januarii/ für eine getauffte Judin gestellt/ dadurch ihr beide das
   Burgrecht und Ehestewr erlanget/ dem Ehrsamen Rath zu Ehren/ und andern in
@@ -156,7 +159,7 @@ Schadeus, Elias. _Oratio de Linguae Sanctae Origine, Progresivi et Varia Fortuna
 
 **_Secondary Source_**
 
-Carlebach, Elisheva. “Between History and Myth: The Regenburg Expulsion in Josel of Rosheim's “Sefer ha Miknah.” J_ewish History and Jewish Memory_. ed. Carlebach, 1988, pp. 40-53.
+Carlebach, Elisheva. “Between History and Myth: The Regenburg Expulsion in Josel of Rosheim's “Sefer ha Miknah.” J\_ewish History and Jewish Memory\_. ed. Carlebach, 1988, pp. 40-53.
 
 \_\_\_\_\_\_\_. Divided Souls: Converts from Judaism in Early Modern German Lands, 1500- 1750. New Haven: Yale University Press, 2001.
 
@@ -194,7 +197,7 @@ Subservient Citizen and Preacher, M. Elias Schad
 
 In the name and on behalf of the contemporary person
 
-## Source 1 Original Text
+<h2 style="text-align: center">Source 1 Original Text</h2>
 
 Copia einer Supplication an einen Ehrsamen Rath der Statt Straßburg/ Anno 91. den 3. Januarii/ für eine getauffte Judin gestellt/ dadurch ihr beide das Burgrecht und Ehestewr erlanget/ dem Ehrsamen Rath zu Ehren/ und andern in gleichen fellen zum Exempel der nachfolgung hierhergesetzt.
 
