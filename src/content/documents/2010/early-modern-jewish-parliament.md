@@ -304,10 +304,7 @@ The instructions of the Jewish Congress were made in 1739, while His Honor Jan C
 14.  We know from experience that in certain circumstances the trustees stubbornly refuse to listen to one another and \[each one\] does just what he wants. This harms the Council and so in order to avoid this, we decree that in the more difficult matters which concern the Council, they must wisely and with foresight agree among themselves. Should three agree among themselves with good reason, two – and all the more so one - may not oppose four without sound basis, under \[threat\] of losing his post and repaying the Council \[all\] losses which his stubbornness has caused it.
     
 
-```
-1.  We decree that all dispositions made by the Council of Crown Jews, whether as part of the tax assessment and allocation or in the form of expenses at the Sejms or the Radom \[Treasury\] Commissions may not be made and accepted without the knowledge and signature of the Council Leader. Those \[dispositions\] about which the Council Leader and the leaders of the principal regions did not know we declare null and void.
-    
-```
+15\. We decree that all dispositions made by the Council of Crown Jews, whether as part of the tax assessment and allocation or in the form of expenses at the Sejms or the Radom \\\[Treasury\\\] Commissions may not be made and accepted without the knowledge and signature of the Council Leader. Those \\\[dispositions\\\] about which the Council Leader and the leaders of the principal regions did not know we declare null and void.
 
 Finally, we strongly recommend that the delegates to the present Congress in _Jarosław_ write down and inform everyone what they view and think would be good for the Council.
 
