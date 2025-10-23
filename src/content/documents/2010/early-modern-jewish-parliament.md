@@ -257,9 +257,9 @@ original_language_body: >-
 
   c. _U Halperina_: niczego  
 
-  d-d. _U Halperina tekst zniekształcony.  
+  d-d. \_U Halperina tekst zniekształcony.  
 
-  _1\. _Kopia dokumentu została sporządzona w latach 1750-1755, kiedy Jakub_
+  \_1. _Kopia dokumentu została sporządzona w latach 1750-1755, kiedy Jakub_
 
 
   _Działyński chorąży wschowski w 1739 r., piastował urząd podkomorzego
@@ -279,7 +279,6 @@ The instructions of the Jewish Congress were made in 1739, while His Honor Jan C
     
 2.  However, should it turn out that the Congress is being held in a region where the \[senior\] rabbi has jurisdiction only over the community – in one of the four principal towns, Kraków, Poznań, Lwow, and Lublin - and not over the region; or conversely, where he has jurisdiction over the region and not the community or town, then the rabbi of Kraków, who has jurisdiction over both the community and the region - and, if not of Kraków, then of \[another of\] the principal towns - will take the chair. The rabbi of the region where the Congress is being held will \[act as\] his deputy.
     
-
 3.  Great harm befalls the Council, because the less senior rabbis – the communal ones - interfere in economic matters, \[as well as in\] the deliberations and regulations of the Lands. Though they are chosen to be the watchmen of our religion and pay no taxes – quite the reverse, those who live beside the synagogue are paid a salary \[by our communities\] and live from that - yet they take what is not due to them and use various means to receive honors, such as the posts of delegate, assessor, trustee and scribe, which are due to us as the lay leadership who bear all the burdens. So, in order to prevent this competition and greed for those posts and honors, which is unbecoming for rabbis, we have decided and decreed that no rabbi now, or in the future, should dare to stand as delegate, assessor, or trustee, upon penalty of losing rabbinic office and being banned from the \[Council\] table. Should any region or community put such a one up for a post or elect him, then it will not only lose its representation among the Council leaders but will have to pay a fine of 500 red zloties, half to the Treasury and half to the Council. We exempt from this ruling and this penalty only those same \[rabbis\] who have accepted these honors for the present Congress before the ruling was made. In the future they will be forbidden to them. The same thing goes for the leadership of the regional councils, to which rabbis have had to be elected \[in the past\].
     
 4.  No little damage is done to the Council when two opposing functions, like trustee and Council leader, are held by one man – no-one can be both master and slave! We therefore lay down and make an irreversible ruling that from now on, no trustee, while still holding the post, shall take up the post of Council leader. The penalty \[for so doing is to be\] the loss of both posts and a fine of 200 red zloties.
@@ -288,7 +287,6 @@ The instructions of the Jewish Congress were made in 1739, while His Honor Jan C
     
 6.  Since the aforementioned regulations only record the salaries of these trustees, and say nothing about travel expenses, we have determined that for this our present Congress, the travel expenses for each trustee and for the Chief _Syndyk_ \[Shtadlan\] of the Crown Jews, covering both food and travel, when they travel to Warsaw, Grodno, or Radom for the division \[of the poll-tax burden\] is to be 50 zl. a week. From this food and travel is to be paid. An extra payment \[“kontentacja”\] for those at the divisions, the commissions, and the sejms is set at 200 zl. for each trustee and 100 zl. for the _syndyk_; this is in addition to their salary. He \[i.e. the _syndyk_\] will also receive 36 zl. a week for travel and food. They may not take any more than this on any pretext whatever. In addition, neither the trustees nor the _syndyk_ may make private journeys at the Council’s expense by pretending to serve Crown Jewry. They must draw up \[expense\] accounts each year and submit them to the Council Head and to the leaders of the four principal regions.
     
-
 7.  We resolve and strongly decree that that the trustees who meet each year on the division \[of the poll-tax burden between the communities\] will stay at the place \[where they make the\] division for only three, or at most four days. After this, the divisions must be sent to the regions and districts; the heads of the regional councils must have them sent and handed over to the treasury in accordance with the proclamation of His Honor the Chief Treasurer to the Crown issued on September 15th of last year, under threat of a fine and the rejection of later divisions, which the Treasury will decide upon \[alone\].
     
 8.  Since the trustees have been accustomed, to the detriment of the Council, to hand out compromises, reductions, and alternations \[in their tax assessments\] to Jews in different localities, we have therefore decided and decreed that the trustees, together or individually, are not in any way empowered to give \[such\] alternations or reductions to Jews anywhere and to add their signatures to them. These \[signed documents\] will be worthless; the amount of the reduction is to be restored with the signed agreement of the Council; and each \[of the trustees who granted the reduction\] is to be fined 100 red zloties for the Treasury and the Council of Crown Jews and removed from his post.
@@ -305,8 +303,11 @@ The instructions of the Jewish Congress were made in 1739, while His Honor Jan C
     
 14.  We know from experience that in certain circumstances the trustees stubbornly refuse to listen to one another and \[each one\] does just what he wants. This harms the Council and so in order to avoid this, we decree that in the more difficult matters which concern the Council, they must wisely and with foresight agree among themselves. Should three agree among themselves with good reason, two – and all the more so one - may not oppose four without sound basis, under \[threat\] of losing his post and repaying the Council \[all\] losses which his stubbornness has caused it.
     
-    1.  We decree that all dispositions made by the Council of Crown Jews, whether as part of the tax assessment and allocation or in the form of expenses at the Sejms or the Radom \[Treasury\] Commissions may not be made and accepted without the knowledge and signature of the Council Leader. Those \[dispositions\] about which the Council Leader and the leaders of the principal regions did not know we declare null and void.
-        
+
+```
+1.  We decree that all dispositions made by the Council of Crown Jews, whether as part of the tax assessment and allocation or in the form of expenses at the Sejms or the Radom \[Treasury\] Commissions may not be made and accepted without the knowledge and signature of the Council Leader. Those \[dispositions\] about which the Council Leader and the leaders of the principal regions did not know we declare null and void.
+    
+```
 
 Finally, we strongly recommend that the delegates to the present Congress in _Jarosław_ write down and inform everyone what they view and think would be good for the Council.
 
@@ -321,7 +322,11 @@ This translation has made been from the transcription of the Polish text which a
 Source:  
 Ms. Krasinski 5334
 
-Bibliography:  
+Bibliography:
+
+נ"מ גלבר, י' היילפרין, "ועד ארבע ארצות בשנים 1739 ו-1753", ציון ב' (1936/7), עמ' 184-153, 346-333.
+
+  
 Shmuel Ettinger, “The Council of the Four Lands”, in: A. Polonsky et al. (eds.), _The Jews in Old Poland, 1000-1795_, London and New York 1993\_.\_, pp. 93-109
 
 Jacob Goldberg, “The Jewish Sejm: Its Origins and Functions”, in: A. Polonsky et al. (eds.), _The Jews in Old Poland, 1000-1795_, London and New York 1993, pp. 147-165
@@ -330,7 +335,8 @@ Gershon Hundert, _Jews in Poland-Lithuania in the Eighteenth Century: A Genealog
 
 Judith Kalik, _Scepter of Judah: The Jewish Autonomy in Eighteenth-Century Crown Poland_, Leiden 2009
 
-Anatol Leszczynski, _Sejm Żydów Korony, 1623-1764_, Warszawa 1994  
+Anatol Leszczynski, _Sejm Żydów Korony, 1623-1764_, Warszawa 1994
+
 Moshe Rosman, “The Authority of the Council of Four Lands Outside Poland- Lithuania”, _Polin_ 22 (2010): 83-108
 
 Adam Teller, “Rabbis Without a Function? The Polish Rabbinate and the Council of Four Lands in the 16th-18th Centuries” in: J. Wertheimer (ed.), _Jewish Religious Leadership: Image and Reality_, Jewish Theological Seminary 2004, I, pp. 371-400
