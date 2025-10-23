@@ -326,7 +326,8 @@ Bibliography:
 
 נ"מ גלבר, י' היילפרין, "ועד ארבע ארצות בשנים 1739 ו-1753", ציון ב' (1936/7), עמ' 184-153, 346-333.
 
-  
+י' היילפרין, פנקס ועד ארבע הארצות, ירושלים 1945 , עמ' 328-324
+
 Shmuel Ettinger, “The Council of the Four Lands”, in: A. Polonsky et al. (eds.), _The Jews in Old Poland, 1000-1795_, London and New York 1993\_.\_, pp. 93-109
 
 Jacob Goldberg, “The Jewish Sejm: Its Origins and Functions”, in: A. Polonsky et al. (eds.), _The Jews in Old Poland, 1000-1795_, London and New York 1993, pp. 147-165
