@@ -89,3 +89,11 @@ And now we find that there are two divisions: a person destined for the life of 
 \[1\] Or, in a variant reading, “according to Halakhah.”
 
 <h2 style="text-align: center">Source 2 Translation</h2>
+
+Hayyim Vital, _Ta'amei ha-Mitzwot_ (Jerusalem, 1972). Par. _Lekh Lekhah_, p. 17
+
+<p style="text-align: justify">Know too that “circumcision” (MYLH = 85) is by gematriah ”mouth” (PH = 85), and with the inclusion it is by gematriah “Elohim” (’LHYM = 86). Therefore, we perform the metzitzah by mouth, that is to say, we draw by mouth the force (KḤ = 28 = 10 = 1) of the judging powers and the husks, which is also Eloqim (181 = 10 = 1). Then, we also draw by wine, since wine too is Power (GBWRH = 216) like the circumcision/word “wine” (YYN = 70) with the inclusion (YOD YOD NUN = 146): kind by kind, power by power, to let it out from his 248 limbs in a way that the one who sucks may intend that the blood is the attribute of Judgment and red wine, too, is the attribute of Judgment. A kind has found its kind, and it is awakened. Therefore, we throw wine into the mouth over circumcision to say that we want to sweeten the Judgment from the inside with the wine.</p><p style="text-align: justify">Hayyim Vital, <em>Sefer ha-Liqqutim</em> (Jerusalem, 1913). Par.<em> Lekh Lekhah</em>, ch. 13</p>
+
+  
+
+<p style="text-align: justify">Know too that the word “mouth” has the numerical value of Elohim with the inclusion. Therefore, we perform the metzizah by mouth with wine, which is Gevurah. And the one who sucks must intend that the blood is red in Din (64 = 10 = 1), and the wine is red too—a kind finds its kind. Therefore, we throw there wine into the mouth over circumcision, to draw the force of blood from within the force of the husk, with the wine; and it remains sweetened – the name Shadday with the yod and Adonai, which is in the secret of the circumcision when one blesses.</p>
