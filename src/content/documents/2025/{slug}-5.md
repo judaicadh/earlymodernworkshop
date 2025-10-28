@@ -13,6 +13,134 @@ language:
   - Hebrew
 publication_location:
   - Safed
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2>
+
+
+  Moses Cordovero, _Perush ha-Zohar: Sefer Or ha-Yaqar_ (Jerusalem, 1940)_._
+  Par. _Shemini_, p. 166
+
+
+  Zohar 3:40a-b
+
+
+  <p style="text-align: right">ועל דא ישראל קדישין בעי לנטרא</p><p
+  style="text-align: right">דא על כולא בגין דאתקשר באתר עלמא דאתי, ובגיני כך
+  ביין אתברך</p><p style="text-align: right">&nbsp;&nbsp;קב"ה יתיר מכולא בגין
+  דאיהו חדי לסטרא שמאלא ובגו הדווא דיליה</p><p style="text-align:
+  right">&nbsp;&nbsp;אתכלל בימינא, וכד אתעביד כולא ימינא כדין שמא קדישא בחידו
+  וברכאן</p><p style="text-align: right">&nbsp;&nbsp;משתכחי בכולהו עלמין,
+  ובעובדא דלתתא יתער עובדא לעילא, ועל דא</p><p style="text-align:
+  right">&nbsp;&nbsp;מזמני יין לקבלי יין ובגין דאיהו מנטרא לעילא בעי לנטרא ליה
+  לתתא</p><p style="text-align: right">&nbsp;&nbsp;וכל נטירו דיליה קדושה הוא
+  דישראל ומאן דפגים ליה לתתא בסטרא</p><p style="text-align: right">דמסאבותא
+  יסתאב הוא בהאי עלמא, לית ליה חולקא בעלמא דאתי אתר</p><p style="text-align:
+  right">&nbsp;&nbsp;&nbsp;&nbsp;דההוא יין דמנטרא שריא, הוא לא נטיר ליה לא אתנטר
+  הוא לעלמא דאתי</p><p style="text-align: right">&nbsp;(מ:)</p><p
+  style="text-align: right">&nbsp;&nbsp;&nbsp;הוא סאיב ליה יסאבון ליה בההוא עלמא
+  לא יהא ליה חולקא בההוא</p><p style="text-align: right">יין דעלמא דאתי, זכאין
+  אינון ישראל [בנדפס: דמקדשי נפשייהו בקדושה עילאה</p><p style="text-align:
+  right">&nbsp;&nbsp;דנטרין למאן דמנטרא, דמקדשי למלכא בנטירו עילאה, זכאין אינון
+  בעלמא</p><p style="text-align: right">&nbsp;&nbsp;דין ובעלמא דאתי.</p>
+
+
+  Cordovero’s commentary
+
+
+  <p style="text-align: right"><strong><u>בעי לנטרא דא על כולא
+  </u></strong>ענין</p><p style="text-align: right">&nbsp;&nbsp;אסור יין נסך
+  חמור מכל האסורים אוסר במגע וכחו וכיוצא ואסור</p><p style="text-align:
+  right">בהנאה ואיסורו בכל שהוא חמור מכל שאר האסורים, מפני היות</p><p
+  style="text-align: right">&nbsp;&nbsp;הכשר במקום גבוה לכך שמירתו חמורה, שכל
+  עוד שהוא מתעלה</p><p style="text-align: right">&nbsp;&nbsp;יש קפידה בעניינו
+  יותר שלא יפגם&nbsp;</p><p style="text-align: right">[...]</p><p
+  style="text-align: right">&nbsp;&nbsp;<strong><u>ביין אתכרך קב"ה
+  </u></strong>כגון קדוש וברכה וקדושין השבע ברכות ברית</p><p style="text-align:
+  right">&nbsp;&nbsp;מילה והבדלה הכל על היין, <strong><u>בגין דאיהו חדי
+  </u></strong>משפע הבינה <strong><u>לסטרא</u></strong></p><p style="text-align:
+  right">&nbsp;&nbsp;<strong><u>שמאלא</u></strong> דהיינו הגבורה וההוד והמלכות,
+  <strong><u>ובגו חדווא דיליה </u></strong>כיון שהדין</p><p style="text-align:
+  right">&nbsp;&nbsp;דין השמחה מעורר האהבה דהיינו בהיותו נכלל בימין שמאלו</p><p
+  style="text-align: right">&nbsp;&nbsp;תחת לראשי וכו' ואחר זה גובר הימין בהם עד
+  שכלם חסד, וזהו</p><p style="text-align: right">&nbsp;&nbsp;שאמר <strong><u>וכד
+  אתעביד כולא ימינא כדין שמא קדישא </u></strong>דהיינו קו האמצעי</p><p
+  style="text-align: right">&nbsp;&nbsp;<strong><u>בחדו</u></strong> מן השמאל
+  <strong><u>וכרכאן</u></strong> מן הימין <strong><u>משתכחי בכלהו עלמין
+  </u></strong>בסוד משך</p><p style="text-align: right">&nbsp;&nbsp;הברכה מן
+  האצילות אל הבריאה ומשם אל היצירה ומשם אל העשיה.</p><p style="text-align:
+  right">&nbsp;&nbsp;<strong><u>ובעובדא דלתתא </u></strong>ברכה ביין כלל הימין
+  והשמאל <strong><u>יתער עובדא לעילא</u></strong></p><p style="text-align:
+  right">ביין הבינה המשמח השמאל יעוררו הברכות מן הימין.</p><p style="text-align:
+  right"><strong><u>ובגין דאיהו&nbsp;</u></strong></p><p style="text-align:
+  right"><strong><u>מנטרא לעילא</u></strong> שאין החצונים שולטים בבינה
+  <strong><u>בעי לנטרא לתתא&nbsp;</u></strong></p><p style="text-align:
+  right">שמתוך מגע גוי פוגם מפני חשקו להדבק במקום גבוה. <strong><u>וכל
+  נטירו</u></strong></p><p style="text-align:
+  right"><strong><u>דיליה</u></strong> וכו' שאין הטעם שהיין העליון צריך שמירה
+  שהרי שמור הוא</p><p style="text-align: right">אלא שמירתו הוא תוספת קדושה למטה
+  בת"ת. <strong><u>ומאן דפגים ליה לתתא</u></strong></p><p style="text-align:
+  right">שלמעלה אין שולט בו פגם אלא שפוגם יין שתייתו לא בטעימה,</p><p
+  style="text-align: right">וגם היות שהטעימה פוגם לקדוש ולברכה עם כל זה אינו
+  פוגם</p><p style="text-align: right">שתייתו הגוף אלא פגם דקאמר היינו
+  <strong><u>בטטרא דמסאבותא </u></strong>ירצה במגע</p><p style="text-align:
+  right">גוי וכיוצא <strong><u>יסתאב הוא בהאי עלמא</u></strong> שפגם עצמו בשתיית
+  יין נסך, ולא</p><p style="text-align: right">שיפגום היין העליון שאין שולט בו
+  פגם אלא <strong><u>לית ליה חולקא בעלמא</u></strong></p><p style="text-align:
+  right"><strong><u>דאתי</u></strong> דהיינו שנדחה ממקום היין מדה כנגד מדה
+  <strong><u>הוא לא נטיר </u></strong>וכו',</p><p style="text-align:
+  right">הענין שיש שני עניינים ביין האחת היא שמירה השנית ממש</p><p
+  style="text-align: right">שנטמא בידים, והנה השומר היין ומחמיר בו מה טוב חלקו
+  שהוא</p><p style="text-align: right">שמור לעולם הבא דהיינו שלא יאונה לידו כל
+  און שלא יצטרך</p><p style="text-align: right">ליכנס בגהינם אלא מיד מזומן לעולם
+  הבא, וזהו שאמר <strong><u>הוא לא</u></strong></p><p style="text-align:
+  right"><strong><u>נטיר ליה</u></strong> כיון שלא עשה חסידות השמירה המעולה אלא
+  זלזל</p><p style="text-align: right">בשמירתו כן <strong><u>לא אתנטר הוא לעלמא
+  דאתי </u></strong>אלא מניחים אותו אל</p><p style="text-align: right">מקרי יצרו
+  הרע. והמטמא היין ממש ששותיהו בחברת הגוי או</p><p style="text-align:
+  right">שממש פגמו ושותהו וכל שכן אם שותה יין הגויים הנה זה מדה</p><p
+  style="text-align: right">כנגד מדה<strong><u> יכאבון ליה בההוא
+  עלמא</u></strong> ולא יכנס בעולם הבא ולא</p><p style="text-align: right">יהא
+  וכו' אמנם אם לא חטא בזו אף אם חטא בקודמת יכנס בגהינם</p><p style="text-align:
+  right">ויטהר מעונו ויכנס אחר כך לעולם הבא אלא שאינו מזומן לעולם</p><p
+  style="text-align: right">הבא. ונמצא עתה שיש ב' חלוקות פלוני מזומן לחיי העולם
+  הבא</p><p style="text-align: right">או פלוני יש לו חלק לעולם הבא, חלק לעולם
+  הבא אפשר שיכנס</p><p style="text-align: right">קודם בגיהנם ואחר כך יאכל חלקו
+  שבעולם הבא. מזומן לעולם</p><p style="text-align: right">הבא ירצה שמיד יכנס
+  לעולם הבא ולא יצטרך אל טהרת הגהינם</p><p style="text-align: right">והיינו
+  שהקב"ה שומרו מכל חטא. <strong><u>זכאין ישראל </u></strong>יותר משני
+  חלוקות</p><p style="text-align: right">הקודמין <strong><u>דנטרין למאן דמנטרא
+  </u></strong>שבבינה שמור הוא שאין נוגע בו</p><p style="text-align:
+  right">למעלה, <strong><u>דמקדשי מלכא </u></strong>תפארת <strong><u>בנטירו
+  עילאה </u></strong>יין המשומר והוא</p><p style="text-align: right">עילאה בחכמה
+  ששם מתעלת הבינה והיינו סוד הקידוש ביין השמור.</p><p style="text-align:
+  right"><strong><u>בעלמא דין </u></strong>שמקדשין עצמן מהקדש העליון.
+  <strong><u>בעלמא דאתי </u></strong>ששם הם</p><p style="text-align:
+  right">נהנים מהעדן העליון אשר על הבינה,</p><h2 style="text-align:
+  center">Source 2 Original</h2>
+
+
+  Hayyim Vital, _Ta'amei ha-Mitzwot_ (Jerusalem, 1972). Par. _Lekh Lekhah_, p.
+  17
+
+
+  <p style="text-align: right">גם דע כי מילה גי' פ"ה וע"ה גי' אלהים לכן מוצצים
+  בפ"ה כלו' אנו מושכים בפה כח הדינים והלקפיות הקשה שהוא אלקים לכן מוצצים ג"כ
+  ביין לפי שיין ג"כ גבורה כהמילה עם הכולל מין במינו גבורה בגבורה להוציאו מרמ"ח
+  איבריו בואפן כי המוצץ יכוין כי הדם הוא מדת הדין ויין אדום הוא ג"כ מדת הדין מצא
+  מין את מינו וניעור ולכן זורקין יין בפה על המילה לומר כי אנו רוצים מלתק הדין
+  מבפנים עם היין</p>
+
+
+  Hayyim Vital, _Sefer ha-Liqqutim_ (Jerusalem, 1913). Par. _Lekh Lekhah_, ch.
+  13
+
+
+  <p style="text-align: right">גם דע, כי מלת פ"ה עולה מנין אלה"ים ע"ה, ולכן
+  מוצצין בפה ביין, שהוא גבורה. וצריך</p><p style="text-align: right">המוצץ לכוין
+  כי הדם אדום בדין, והיין אדום ג"כ, מצא מין את מינו. ולכן זוקקין שם הפה</p><p
+  style="text-align: right">ביין על המילה, להמשיך כח הדם מבפנים כח הקליפה, עם
+  היין, וישאר ממותק שם</p><p style="text-align: right">שד"י עם היו"ד ואדנ"י
+  שבסוד המילה כשמברך</p>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
