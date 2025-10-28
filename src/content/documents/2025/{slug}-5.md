@@ -142,7 +142,7 @@ original_language_body: >-
   היין, וישאר ממותק שם</p><p style="text-align: right">שד"י עם היו"ד ואדנ"י
   שבסוד המילה כשמברך</p>
 ---
-## Introduction
+<h2 style="text-align: center">Introduction</h2>
 
 The documents presented here are three texts authored by prominent sixteenth-century kabbalists in the Galilean town of Safed, all dealing with wine. 
 
