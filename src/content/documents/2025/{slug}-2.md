@@ -206,6 +206,117 @@ original_language_body: >-
 
 
   <h2 style="text-align: center">Source 3 Original</h2>
+
+
+  **Testimonianze di Feliciana Diaz**
+
+
+  Archivio di Stato di Venezia, Inquisitori di Stato, Processi, Folder 92, cc.
+  16. \*  
+
+
+  **Testimonianza del 12 aprile 1635**
+
+
+  Et successive comparuit mulier ipsa quę dicitur extracta ex illa domo, quę est
+  iuvenis ętatis annorum circiter 22 ut ex aspectu et cetera, induta more
+  Florentino, facie alba et rubea rotunda, cum nigris capillis in capite,
+  stature mediocris, loquellę Florentinę ut ex auditu et cetera. Quę fuit illico
+  interrogata de nomine, cognomina, patria, parentibus, ętate et habitatione,
+  respondit: Mi chiamo Feliciana Diaz, nativa di Pisa, figliola del quondam
+  Odoardo Diaz, spagnolo, christiano et della quondam Clara Tessera, portughese,
+  hebrea coperta, giugali. Ho 24 anni di età, son vedova da un anno in qua, ho
+  avuto un marito solo che mi è vissuto doi soli \[anni\] et si chiamava
+  Francesco de Biguria, spagnolo, christiano negociante in Fiorenza \[…\]
+  Interrogata quanto tempo è che si titrova qui in Venezia, respondit: Hieri
+  sera fu un mese. Interrogata come sia comparsa qui in Venetia, respondit: Sono
+  venuta chiamata da un mio zio hebreo che sta in ghetto, chiamato Gioseffo
+  Signori, portoghese, sta nel Ghetto Novo, es posta la sua casa sopra un rio
+  dirimpetto ad una gentildonna christiana et detto Gioseffo è mio zio da parte
+  di madre. \[…\] 
+
+
+  Se si sia dichiarata in qualche maniera hebrea opure christiana, respondit:
+  Per hebrea in tutti i luoghi dove mi son trovata \[…\] Dal frequentar li
+  sacramenti in poi son vissuta da christiana perché dicevo le mie oration da
+  christiana et mangiavo ogni sorte di cibo eccetto che carne il venerdì et
+  sabbato. Interrogata se essa mangiava in compagnia de Hebrei o sola,
+  respondit: Havevo una camera da me sola in casa di Giacob Vicino in Ferrara et
+  ivi mangiavo sola sempre, che Dolce sua servente mi portava li cibi.
+  Interrogata che sorte di cibi li erano portati di venerdì, sabbati, vigilie et
+  in tempo di Quadragesima in Ferrara, respondit: Dal venerdì et sabbato in poi,
+  che io non ho mangiato carne, nel resto ho mangiato cibi d’ogni sorte et non
+  ho fatto Quadragesima perché con quelli Hebrei lì in Ferrara non mi era
+  dichiarata di esser christiana. 
+
+
+  \[…\] Interrogata come sua madre vivesse, havendo essa detto di sopra che era
+  hebrea coperta, cioè se viveva da hebrea oppure da christiana respondit:
+  “Dinanzi al popolo, cioè esteriormente, da christiana, per rispetto di suo
+  marito, mio padre, che era christiano”. Interrogata se nel tempo che lei si
+  trova qua in Venetia se sia essa dichiarata christiana overo hebrea coperta,
+  cioè se viveva da hebrea o christiana respondit: In ghetto sono passata per
+  hebrea. Interrogata se habbia detto di esser hebrea o chiristiana, respondit:
+  Io non ho detto di esser hebrea, ma vedendomi li Hebrei entrar in ghetto et
+  star di detto mio zio sono stata comunemente tenuta per hebrea. Interrogata se
+  in questo tempo che si trova qui in Venetia sia essa vissuta da hebrea o da
+  christiana, respondit: Sono vissuta come in Ferrara, cioè che dicevo le mie
+  orationi da christiano et dicevo l’offitio de’ morti et ho mangiato carne
+  eccettuati li venerdì et sabbati. Interrogata se habbia mangiato qui a Venetia
+  questa Quadragesima in compagnia de Hebrei, respondit: Ho mangiato in
+  compagnia della moglie di mio zio perché era amalato. Interrogata se il
+  sudetto suo zio o sua moglie sapevano che essa fosse christiana, respondit:
+  Sapevano che io ero christiana et lo sapevano perché era lui fratello di mia
+  madre et erano passate le lettere da Venetia a Pisa frequentemente et le
+  scriveva come a Christiani. \[…\] Essendo entrato in casa di mio zio un huomo
+  del quale non so nome nè cognome ma è vetriaro in Venetia, cioè concia
+  finestre di vetro et era venuto in quella casa per conciar la finestra et fu
+  avanti la settimana di Pasqua hebraica et fu avanti la domenica di Pascha de
+  Christiani. Interrrogata che ragionamenti sono passata tra essa et detto
+  fenestraro, respondit: La moglie di mio zio mi disse che stesse in quella
+  camera per guardia dell’argenteria che era aperta et mi dimandò il fenestraro
+  se ero maritata perché mi vidde con li capelli della testa non tagliati. Li
+  risposi che ero stata maritata in Fiorenza senza dirli altro et che io non ero
+  hebrea. 
+
+
+  **Testimonianza del 17 aprile 1635** 
+
+
+  Interrogata se quando ha magiato carne questa Quadragesima prossima passata in
+  Ferrara et anco in Venetia sia stata indisposta in modo che sia stata indotta
+  dal medico a mangiare, respondit: Ne ho mangiato per essere in queste parti
+  tra Hebrei per non disgustarli perché passavo per hebrea, ne ho mangiato se
+  ben ero sana. Interrogata se li Hebrei in casa de quali è stata l’habbino
+  esortata o sforzata a mangiar carne in quella Quadragesima, respondit: Signori
+  no. Et sibi dicto che non pare verisimile che li Hebrei non l’habbino sforzata
+  o esortata almeno a mangiar carne questa Quadragesima, havendo esso detto che
+  per non disgustarli ne abbia mangiato, respondit: Non m’hanno sforzata né
+  violentata a mangiar carne, pensando di darli disgusto nel farli far cibi a
+  posta per me. Interrogata se ha creduto che sia lecito con entrar in casa de
+  Hebrei, particolarmente nei ghetti et viver fra Hebrei, dichiararsi in qualche
+  maniera Hebrei, respondit: So che è stato male et son entrata perché allhora
+  non hebbi cervello, che se ne havesse havuto non sarei entrata, né haverei
+  fatto quel che ho fatto. Interrogata se ha creduto che sia lecito a mangiare
+  carne et altre cibi vietati a Christiani senza necessità di infirmità, ma solo
+  per non disgustare li Hebrei, respondit: Ho creduto che non sia ben fatto, ne
+  ho mangiato pensando di haver da viver et morir con mio zio. Et sibi dicto che
+  questa risposta non risponde a quell’altra di sopra dell’altro esame, nel
+  quale ha detto che essa sempre ha avuto pensiero et procurato per quello che
+  ha potuto di uscir fuora dalle mani de Hebrei per viver da christiana,
+  respondit: L’animo è sempre stato di uscire dalli Hebrei et vivere da
+  christiana, come ho detto nel primo esame, ma se non fosse riuscito come
+  pensavo, essendo anco stata liberata che io non vi pensavo, sarei stata in
+  casa di mio zio et per conseguenza vivere come li Hebrei. Interrogata che
+  pensier habbia di fare, respondit: Ritornare a casa mia. Interrogata se ha
+  robba qui in Venetia in mano de Hebrei, respondit: Il mio zio ha ogni cosa,
+  cioè in Venetia non ho cosa alcuna, ma in Fiorenza l’ho data di commissione di
+  mio zio a Emanuel Vagez che sta in Fiorenza.  
+
+
+  \* Pier Cesare Ioly Zorattini, ed., _Processi del S. Uffizio di Venezia contro
+  ebrei e giudaizzanti_, Vol. 10 (1633–1637). _Storia dell’Ebraismo in Italia.
+  Studi e Testi_, 14 (Florence: Olschki, 1992), 99-114.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
