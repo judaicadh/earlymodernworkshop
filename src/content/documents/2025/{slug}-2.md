@@ -123,6 +123,88 @@ original_language_body: >-
   <h2 style="text-align: center">Source 2 Original</h2>
 
 
+  **Leggi suntuarie (Venice 1607)**
+
+
+  Archivio di Stato di Venezia, Ufficiali al Cattaver, Folder 242, Libro Grande
+  dell’Università degli Ebrei, 52v-57v.\*
+
+
+  Che a parti di sposalizij o nozze non si possi invitare, nè chiamare, altre
+  persone solo che li Pesulim leedud (a transliteration of the Hebrew (פסולים
+  לעדות del novizzo o novizza et i loro padre et madre. Et in caso che non
+  fossero essi Pesulim al numero di 20 fra huomeni et donne, allhora potrà
+  chiamare altre persone fino al numero di 20, et non più tra huomeni et donne,
+  oltre il Cazan et Sciamas della scuola di quel Caal \[community\] ove si farà
+  quell’allegrezza, et il Sciammas delle Cheillod \[communities\]. Et alli
+  Beridod \[circumcision receptions\] non si potrà invitare, nè chiamare, più
+  del numero di 15 tra huomeni et donne, tanto che siano Pesulim come non
+  Pesulim, purché non passino il numero di 15. 
+
+
+  Nei quali pasti non possino esser poste più di quattro sorte de vivande, oltre
+  le carne seche, lengue et salciccioni, et altri saporiti, et insalate et
+  minestre, et cose fatte dell’interiora che si sogliono porre nei pasti. Et
+  ogni vivanda suddetta, s’intende una sorte di pollame, o carname, o pesce o
+  formaggio. In caso che fosse portato in tavola due sorte di polli o di carne,
+  allessa o arrosta, sarano contate per due vivande. Et il medesimo s’intenderà
+  nel pesce et nel formagio. Et sempre che sarà una sorte di carne, o pollami o
+  pesce fatti in più modi, s’intende essere ogn’una de essi una vivanda. 
+
+
+  Et li frutti possino essere della quantità e qualità che piacerà, da
+  confettione in fuori, che non potrà esser porto altro che mandole confetti, o
+  pignoli et coriandoli mescolati in un piatto solo, o in locho di essi,
+  marzapani, et oltre li detti un piatto di anici confetti. Che a Spinolz
+  \[shabbat or two before a wedding\], o vigilia \[evening before the
+  circumcision\], o visita di parto \[when a woman after childbirth visited the
+  synagogue and recited the blessings of deliverance\], o altri ricevimenti che
+  si sogliono fare alle Chevrod, siccome ancho in tempo di sposalitio, nozze, o
+  Beridod, o altra occasione simile, non si possi ricever solo che con storti
+  \[cialde ripiene di panna montata\], bozzolai \[biscotti zuccherati a forma di
+  anello o di S\], fargazzette \[focaccette\] et frutti ovvero confetti comuni
+  solo, ma non già di confettura di sorta alcuna, niuna eccettuata. 
+
+
+  Et così non si possi mandar presenti di confettura di sorte alcuna, in
+  occasione alcuna, che in caso di sposalitio si potrà mandar confetti alli
+  Pesulim che si possono invitare, del modo che si è chiarito di sopra. Et il
+  terzo giorno dopò il Beridod potrà mandar marzapani a quelli che saran stati
+  invitati al pasto, et non ad’altri. Et il Sabbatho che le donne di parto vanno
+  a scola \[synagogue\], si di maschio come di femina, non possi esser mandato
+  presente alcuno, salvo che alli Pesulim come di sopra. Dechiarando che li
+  forestieri che veniranno a Venezia per occasion di nozze, o Beridod o
+  allegrezze come di sopra, potran esser invitati, et non s’intenderano esser
+  inclusi nell’numeri suddetti. Et tre giorni avanti Purim, et li doi giorni di
+  Purim, et tre giorni dappoi, non si possa mandar presente ad’alcuna persona,
+  solo che a padre et madre, e figlioli et fratelli et sorelle, et a tre amici,
+  et non più. Et vino, o malvasia, o simili potranno mandarne come è quanto lor
+  parerà.
+
+
+  Et in occasione di morte, non possi donna alcuna di qualsivoglia grado o
+  qualità andar fuori alli Batè chaim \[cemeteries\], salvo però se fosse moglie
+  del morto, o madre, o sorella, o figlia, o nuora, et altre tre donne che
+  accompagnassero le suddette. Et in caso che fosse donna la morta, et non
+  havesse donne propinque al modo suddetto, allhora potranno andar tre donne di
+  che qualità voglia, tanto parenti come amici. 
+
+
+  Et tutti quelli che saranno chiamati, così alle allegrezze come alle gramezze,
+  devrano avvertire che siano osservati pontualmente questi suddetti ordini. Et
+  in particolare quelli che saranno invitati a detti pasti dovrano esser
+  vigilanti a farsi che siano osservati detti ordini in essa allegrezza, tanto
+  nel numero dell’invitati, come nelle vivande; che altrimenti sia obligato,
+  sotto pena di Cherem \[excommunication\] come di sopra, si debba partire, et
+  non mangiare in quel pasto o ricevimento che oltre il cherem suddetto sarà
+  tanto quanto mangiasse \[ritually unclean meat, נתילה וטריפה\].
+
+
+  \* David Joshua Malkiel, _A Separate Republic: The Mechanics and Dynamics of
+  Venetian Jewish Self-Government, 1607–1624_ (Jerusalem: The Magnes Press, The
+  Hebrew University, 1991), 336-344.
+
+
   <h2 style="text-align: center">Source 3 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
