@@ -130,3 +130,37 @@ All those invited—whether to joyful or mournful occasions—must ensure that t
 \* David Joshua Malkiel, _A Separate Republic: The Mechanics and Dynamics of Venetian Jewish Self-Government, 1607–1624_ (Jerusalem: The Magnes Press, The Hebrew University, 1991), 336-344.
 
 <h2 style="text-align: center">Source 3 Translation</h2>
+
+**Feliciana Diaz’s Testimonies**
+
+Archivio di Stato di Venezia, Inquisitori di Stato, Processi, Folder 92, cc. 16.\* The Latin sentences are in Italics.
+
+**Testimony from April 12, 1635**
+
+_And next appeared the woman who is said to have been taken from that house, who is a young woman of about 22 years of age, as could be seen, etc. Dressed in the Florentine style, with a fair and rosy round face, with black hair on her head, of medium height, and speaking Florentine, as could be heard, etc. She was immediately asked about her name, surname, birthplace, parents, age, and residence, and she replied_: “My name is Feliciana Diaz, born in Pisa, daughter of the late Odoardo Diaz, a Spanish Christian, and the late Clara Tessera, a Portuguese crypto-Jew, married couple. I am 24 years old. I have been a widow for about a year, and I only had one husband who lived with me for just two years, and his name was Francesco de Biguria, a Spanish Christian merchant in Florence.”
+
+Asked how long she had been in Venice, _she replied_: “Last night made one month.”
+
+Asked how she came to be in Venice, _she replied_: “I was summoned by an uncle of mine, a Jew who lives in the ghetto, named Gioseffo Signori, a Portuguese, who lives in the Ghetto Nuovo. His house is located above a canal across from a Christian noblewoman, and this Gioseffo is my maternal uncle.” \[…\]
+
+Asked whether she had presented herself in any way as a Jew or as a Christian, _she replied_: “As a Jewess, in all the places where I have been.” \[…\] “From the time I started taking the sacraments, I lived as a Christian because I said my Christian prayers and ate all kinds of food except for meat on Fridays and Saturdays.”
+
+Asked whether she ate in the company of Jews or alone, _she replied_: “I had a room to myself in the house of Giacob Vicino in Ferrara, and I always ate alone there. His servant, Dolce, brought me the food.” Asked what kinds of food were brought to her on Fridays, Saturdays, vigils, and during Lent in Ferrara, _she replied_: “From Friday and Saturday onwards, I did not eat meat. On other days, I ate all sorts of food and did not observe Lent because among those Jews in Ferrara I did not declare myself to be a Christian.”
+
+\[…\] Asked how her mother had lived, having earlier said she was a crypto-Jew, that is, whether she lived as a Jew or a Christian, _she replied_: “Publicly, that is outwardly, as a Christian, out of respect for her husband, my father, who was a Christian.” Asked whether during her time in Venice she had presented herself as a Christian or as a crypto-Jew, that is, whether she lived as a Jew or a Christian, _she replied_: “In the ghetto, I passed as a Jewess.” Asked whether she had ever said she was a Jew or a Christian, _she replied_: “I never said I was a Jewess, but since the Jews saw me entering the ghetto and staying with my uncle, they commonly considered me a Jewess.” Asked whether during her time in Venice she had lived as a Jew or a Christian, she replied: “I lived as I did in Ferrara—that is, I said Christian prayers and the prayers of the dead, and I ate meat except on Fridays and Saturdays.” Asked whether she ate during this Lent in Venice in the company of Jews, she replied: “I ate with my uncle’s wife because he was ill.” Asked whether her uncle or his wife knew that she was a Christian, she replied: “They knew I was a Christian, and they knew because he was my mother’s brother and letters frequently passed between Venice and Pisa. He wrote to me as a Christian.” \[…\] 
+
+A man whose name she did not know, a glazier in Venice (that is, a window-fixer), had come into my uncle’s house to fix a window, sometime before the Passover and before Christian Easter Sunday. Asked what conversation took place between her and the glazier, _she replied_: “My uncle’s wife told me to stay in that room to watch over the silverware, which was out in the open. The glazier asked me whether I was married, seeing that my hair was uncut. I told him I had been married in Florence without saying anything else and that I was not a Jewess.”
+
+**Testimony from April 17, 1635**
+
+When asked whether, during the past Lent (Quadragesima) in Ferrara and also in Venice, she had eaten meat because she was unwell and had been advised by a doctor to do so, _she replied_: “I ate it because I was among Jews in those places and did not want to offend them, as I was passing myself off as a Jewess. I ate it even though I was healthy.” 
+
+When asked whether the Jews in whose house she had stayed had encouraged or forced her to eat meat during that Lent, _she replied_: “No, gentlemen.” _And when told that it did not seem believable_ that the Jews had not at least encouraged or urged her to eat meat, given that she herself said she did it to avoid displeasing them, _she replied_: “They did not force or pressure me to eat meat. I did it because I thought it would displease them if they had to make special food just for me.”  
+  
+When asked whether she believed it was permissible to enter the homes of Jews, particularly in the ghettos, and to live among them, and to in any way declare oneself a Jew, _she replied_: “I know it was wrong, and I entered \[their homes\] because at that time I had no sense. If I had, I would not have entered, nor would I have done what I did.”  When asked whether she believed it was permissible to eat meat and other foods forbidden to Christians, without any medical necessity but only so as not to offend the Jews, she replied: “I believed it was not right to do so, but I ate it thinking that I would have to live and die with my uncle.”  
+
+_And when told_ that this answer contradicted a previous statement in another examination, where she said she had always wished and tried, as much as she could, to escape from the hands of the Jews to live as a Christian, _she replied_: “My intention was always to leave the Jews and live as a Christian, as I said in the first examination. But if it had not turned out as I hoped— and I was also freed without expecting it——I would have stayed in my uncle’s house and, as a result, lived like the Jews.” When asked what she now intended to do, _she replied_: “To return to my home.”  
+
+When asked whether she had any belongings in Venice in the hands of the Jews, _she replied_: “My uncle has everything. That is, I have nothing in Venice, but in Florence I entrusted everything, by order of my uncle, to Emanuel Vagez, who is in Florence.”
+
+\*Pier Cesare Ioly Zorattini, ed., _Processi del S. Uffizio di Venezia contro ebrei e giudaizzanti_, Vol. 10 (1633–1637). _Storia dell’Ebraismo in Italia. Studi e Testi_, 14 (Florence: Olschki, 1992), 99-114.
