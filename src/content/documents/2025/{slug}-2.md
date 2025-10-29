@@ -12,6 +12,118 @@ language:
   - Italian
 publication_location:
   - Casale Monferrato (Source 1), Venice (Source 2), Pisa and Venice (Source 3)
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2>
+
+
+  **Il _Sefer Mitzvot_ di Casale Monferrato (late 16th century)**
+
+
+  Biblioteca di Casale Monferrato, Manuscript L 17, 71r – 78v\*
+
+
+  Havisando le donne che non sonno obbligate a levar   חלהquando farano del pane
+  se non di queste cinque sorte de farina: tute le altre sorte de farina serija 
+  עווןa levare חלה né tan pocho fare ברכת המוציא לחם מין הארץ  e questi sonno le
+  cinque sorte de farina che si è obbligatto a levare חלה e non de altra sorte:
+  farina di formento e de orzo e de segale e spelta e vena ma quando in queste
+  cinque sorte li serà messedatto altri farini allora si è obligato a levar חלה
+  e non altramente e non se puol fare מצות de פסח se non de queste cinque sorte
+  tuti li altre farine non si è de oblige di dire ברכת המזון. 
+
+
+  Avisando ancora che non si piglia חלה come la pasta è pocha, non arivando il
+  שעור, perché seria עוון e non מצוה e serja ברכת לבטלה; perché serija molti
+  doni impasterano per far de brazoloni overo delle fugace e piglieranno di
+  quella poca pasta חלה pensando di fare מצוה e farano pechato e ברכת לבטלה: per
+  questo è scritto nela nostra  תורהquale se intendeשעור חלה . A questo modo si
+  fa: quelo saperà giustamente quanto sija il שעור חלה se piglia quarantatre ovi
+  e un quinto metendoli in un כלי e che sija pieno raso di aqua e un ovo alla
+  volta e si mete amente a pigliare tuta quela aqua che / si spendrà per sopra
+  quel כלי quando li serà dentra tutti quelli מ׳׳ג ovi e sempre che se torà
+  tanta farina con quela aqua che è avanzata da quelli מ׳׳ג בצים questo si
+  adimanda שעור חלה e non altramente, perchè la parola חלה somma quarantatre. 
+
+
+  Se una dona avesse una pasta o un levado che fosse ש׳׳ח e se avesse
+  dimenticata a tor חלה e poi fosse stata mesidata con altra pasta quale se
+  avesse pigliato חלה / non si potrà magniare de tuta quela prima né de la
+  seconda per essere mesidata per fine che ritorna a pigliarne una altra volta
+  חלה de tuta la pasta insieme. Ancora se una donna avesse piglià חלה da una
+  pasta che vi fosse שעור חלה e poi facesse un altro paston ancora pilieno e
+  torà חלה di questo altro che non serà שעור חלה e poi li miscerà insieme non se
+  ne poterà mangiare / niente perché tuti doi le volti sono stati ברכות לבטלה;
+  ma bisognava tornare a tor חלה sopra tutta la pasta insieme e non altramente. 
+
+
+  Ce si havesse domenticata di pigliare חלה in pasta è obligato da poi, quando
+  serà coto quel pane o brazolani o fugatie e destenderlo toto sopra una tavola
+  e coprirlo con una tovaglia e piglierà la חלה da un pane facendo ברכת להפריש
+  חלה come se fusse in / pasta. Se una persona pigliasi della pasta da un
+  parente overoיהודי שכן , non si piglia חלה da quela pasta senza sua licenza
+  ancora che ti sapesti certo che lor non avessero tolto חלה; perchè la
+  obligatione è sua e non tua e la tua ברכה serija לבטלה de modo che facesti
+  עוון e non מצוה. Una serva יהודית li sarà lecito a pigliare חלה quando lei
+  farà del pane senza / licenza deli sui גברים. Tutte le paste che ce compra da
+  li גויים per fare brazolani o fugati o pane o altri מאכלים non si è obligato a
+  pigliarne חלה. 
+
+
+  Quando una bona hebrea vol far pane in casa non bisogna pigliar pasta da גויים
+  né da יהודים fora di casa per chè di quela non si pol fare ברכה de חלה perchè
+  non è hobligata se non quando / lei properia piglia la farina e impasta e non
+  altramente. 
+
+
+  Ancora bisognia avertire come se impasta la farina per ingrassare בהמות ועופות
+  e de quella pasta ne mangierà le persone seijano hobbligatti a levare חלה e
+  non altramente. Tute le paste se farà taliatelli overo altre מאכלים cotti nel
+  aqua o vero friti nel oglio o nel שומן o butire / ho con la mele, ancora che
+  quella pasta fosse assi grande come שיעור חלה, non si è obligato a pigliar חלה
+  né a fare ברכה. Ancora cossì quando se farà macaroni e cassete o patè o
+  carisone o altri מאכלים quali si cosineranno nel forno overo padela con oglio
+  o שומן, tuti questi sij obligate a pigliare חלה e fare ברכה quando serà la
+  pasta שיעור חלה e cossi nel forno ma non cotti nel / aqua o altramente.
+
+
+  Quella farina che sea impastata con la mele o שומן o oglio, con specie o con
+  altri misturi quali serano coti nel forno e non friti padela bisogna pigliare
+  חלה se sarà stata pasta שעור חלה , facendo ברכה להפריש חלה. Ancora bisognia
+  advertire quando se farà dela pasta per fare מאכלים quale serano cote nel aqua
+  ho nel brodo senza dollio non serà / obligata a pigliare חלה, salvo se di
+  quela pasta si fosse tolta de fare una fugacetta cota sota la cenere o nel
+  forno: solamente per quela pocha fugaceta bisognia pigliare חלה e non
+  altramente.  
+
+
+  רבנו האי זצ׳׳ל comandeno che che tute le paste che si farà מאכלים coti per
+  minestre sempre ti dé pigliarne un pocheto per / fare la מצוה de la חלה pur
+  che sia tuta pasta altramente serija ברכה לבטלה e serija עוון e non מצוה. Il
+  יום טוב non si pol sedaçare la farina per fare מאכלים se non per mane di una
+  גוייה, ma bisognia voltare il sedatio per fare diferentia al מועד da ali altri
+  giorni e cossì non si deve mesurare la farina al יום טוב nè פסח per fare שעור
+  חלה, se non pigliarla cossì considerando che sija tanto come sija al שעור חלה;
+  e quando se mesurasse la farina / de חול המועד de פסח overo di ערב פסח per
+  fare שעור חלה bisognia parlare specificamente e dire: “Questa farina io la
+  piglio e la misuro per fare li מצות. La farina che se inpasta di יום טוב
+  bisogna pigliare la חלה e non brosarla per fine passato יום טוב, overo cocerla
+  subito in modo che non diventa חמץ e darla da mangiare a un נער כהן overo
+  נערה: ma altramente non si potrà brusarla per fine passato יום טוב. La חלה che
+  si piglia dela pasta de פסח / bisognia che subito si mette nelaqua fredda
+  overo cocerla subito in modo che non diventa חמץ facendo ברכה quando serà
+  cota, alincontrario delli altri חלות che se fa ברכה subito pigliandola in
+  pasta, altramente bisogna da mangiare a un נער o נערה כוהנים picolini o vero
+  meterla in aqua freda tenendola per fine / passato  מועדe poi brosarla. 
+
+
+  \* Maria Mayer Modena, “Il ‘Sefer miswòt’ della Biblioteca di Casale
+  Monferrato,” _Italia_ 4, no. 2 (1985), 91-97.
+
+
+  <h2 style="text-align: center">Source 2 Original</h2>
+
+
+  <h2 style="text-align: center">Source 3 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
