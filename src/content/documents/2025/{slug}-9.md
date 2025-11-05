@@ -172,7 +172,97 @@ original_language_body: >-
   <h2 style="text-align: center">Source 3 Original</h2>
 
 
+  **Grégoire, Henri Baptiste, _Motion en Faveur des Juifs_ (Paris, 1789)** 
+
+
+  Motion published by Grégoire, Curé d’Embermenil, Député de Nancy, intended for
+  the National Constituent Assembly, October 1789.
+
+
+  <p style="text-align: justify">In facsimile reprint, vol. 7 [<em>L’Assemblée
+  Nationale Constituante. Motions, Discours et Rapports. La Législation
+  nouvelle, 1789-1791</em>] of <em>La Révolution Française et l’Émancipation des
+  Juifs,</em> 8 vols., Paris EDHIS, Editions d’Histoire, 1968, and also online:
+  Source <a href="http://gallia.bnf.fr">gallia.bnf.fr</a> / Bibliothèque
+  nationale de France.&nbsp;</p><p style="text-align: justify"><strong>Passage
+  1. <em>Motion</em>, p. 1.&nbsp;</strong></p>
+
+
+  “Vous avez consacré les droits de l’homme & du citoyen, permettez qu’un Curé
+  Catholique éleve la voix en faveur de cinquante mille Juifs épars dans le
+  Royaume, qui, étant hommes, réclame les droits de citoyens.
+
+
+  Depuis quinze ans j’étudie les fastes & les usages de ce people singulier .”
+
+
+  **Passage 2. Motion, p. 19.** 
+
+
+  “Quant à leurs moeurs prétendues inaliables, parce qu’ils refusent de partager
+  la table des Chrétiens, rien de plus faux, & j’en appelle à l’expérience
+  journaliere.  Et qu’importe d’ailleurs à la tranquillité politique cette
+  différence diététique?  Quelques provinces de la Pologne & de la Russie
+  offrent un mélange bizarre: près d’un Protestant, qui mange son poulet le
+  vendredi, est un Catholique qui se borne aux oeufs; l’un & l’autre boivent du
+  vin & travaillent ce vendredi, à coté d’un Turc qui s’abstient du vin & chome
+  ce jour-là, & ces variétés n’alterent point l’harmonie civile.” 
+
+
   <h2 style="text-align: center">Source 4 Original</h2>
+
+
+  **_Pétition des Juifs Établis_** **_en France_ (Paris, 1790)** 
+
+
+  _Petition des Juifs Établis en France_ \[Paris, Alsace, Lorraine\]_, addressée
+  a l’Assemblée Nationale, Le 28 janvier 1790, Sur l’ajournement du 24 décembre
+  1789_. Signed Cerf-Berr, formerly General Syndic of the Jews and 6 deputies. 
+  In facsimile reprint, vol. 5 \[_Adresses, Mémoires et Pétitions des Juifs,
+  1789-1794_\] of _La Révolution Française et l’Émancipation des Juifs_, 8
+  vols., Paris EDHIS, Editions d’Histoire, 1968, and also online: Source
+  [gallia.bnf.fr](http://gallia.bnf.fr) / Bibliothèque nationale de France.
+
+
+  \[Excerpts from this document have been translated in Lynn Hunt, _The French
+  Revolution and Human Rights_, 2d ed., 2016, pp. 88-91, but not the particular
+  passages presented here.\]
+
+
+  **Passage 1.  Petition, p. 33.**
+
+
+   “… examinons les objections faites contre l’admission des Juifs à
+  l’état-civil.”
+
+
+  **Passage 2.  Petition, pp. 50-51.**
+
+
+  “On dit … Que la différence de leurs mets, en fait un Peuple à part, qui ne
+  peut avoir de communication intime, ni de rapports directs avec les autres
+  hommes.”
+
+
+  **Passage 3.  Petition, pp. 71-72.**
+
+
+  “Ils y sont impropres \[au service militaire\] par un autre motif,
+  ajoute-t-on; par leur manière de se nourrir, différente de celle des autres
+  hommes; & par l’embarras,  l’impossibilité même où l’on seroit de pourvoir à
+  cette nourriture.  Mais la plupart des mêts leur sont communs avec les
+  Catholiques; & quant à ceux qui leur font particuliers, il leur est possible,
+  ou de s’en abstenir pendant quelque tems, ou de les preparer eux-mêmes.
+
+
+  Ce n’est point cette difference entre leur manière de se nourrir & celle des
+  Catholiques, qui doit être un obstacle à leur admission aux droits de
+  Citoyens.  Il y a tant d’autres rapports intéressans par lesquels ces hommes
+  de religions diverses peuvent se rapprocher les uns des autres, que ceux-là
+  seuls doivent être considérés.  Et ces rapports, qui sont ceux de
+  bienfaisance, de charité, de patriotism, de talens, seront communs aux Juifs
+  comme aux Chrétiens, quand tous ensemble ne formeront qu’un people de frères &
+  de Citoyens.”
 ---
 <h2 style="text-align: center">Introduction</h2>
 
