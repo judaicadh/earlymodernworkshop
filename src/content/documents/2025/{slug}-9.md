@@ -116,6 +116,59 @@ original_language_body: >-
   <h2 style="text-align: center">Source 2 Original</h2>
 
 
+  **Mirabeau, Le Comte de, _Sur Moses Mendelssohn, sur la réforme politique des
+  Juifs_ (Paris, 1787)**
+
+
+  Facsimile reprint, vol. 1 of _La Révolution Française et l’Émancipation des
+  Juifs_, 8 vols., Paris: EDHIS, Editions d’Histoire Sociale, 1968, and also
+  online: Source [gallica.bnf.fr](http://gallica.bnf.fr) / Bibliothèque
+  nationale de France.
+
+
+  **Passage 1.  pp. 65-6**
+
+
+  “Toute société est composée de petites sociétés privées, qui, chacune, ont des
+  principes particuliers, inspirent à leurs membres des sentimens & des préjugés
+  à part, & tracent à leur activité un cercle déterminé.  Le monde subsiste
+  cependant; & les nations bien, c’est à dire librement gouvernées, prosperent. 
+  Le Gentilhomme & le bourgeois, l’artisan & le laboureur, le militaire & celui
+  qui ne l’est pas, le savant & le non-lettré posent des barrieres entre eux &
+  cependant habitant & servent le même pays.  Que le chrétien & le circoncis,
+  soit juif, soit Musulman, sectateur d’Ali ou d’Omar, du Pape ou de Luther, de
+  Socin ou de Calvin s’ecartent les uns des autres: le grand & noble emploi du
+  gouvernement consiste à faire ensorte que chacune de ces divisions tourne au
+  profit de la grande société du moins par un plus vif degré d’attachement pour
+  elle fondé sur une plus grande jouissance de la liberté.” 
+
+
+  **Passage 2. p. 70**
+
+
+  “Peuvent-ils \[the Jews\] s’accoutumer à regarder ceux d’une autre religion
+  comme des membres d’une même communauté civile?”
+
+
+  **Passage 3. p. 114**
+
+
+  “… pourquoi les \[the Jews\] proscrire? Parcequ’ils ont des rites
+  particuliers? Quelle religion n’en a pas?  Quelle secte ne pratique pas des
+  observances qui ne font qu’à  elles, & ne professe pas pour les autres
+  communions un mépris qui se manifeste avec plus ou moins de force selon que
+  les relations politiques des diverses sociétés religieuses déterminent leurs
+  rapports & que la culture de l’esprit, l’influence de l’instruction & des
+  lumières ont plus ou moins affoibli les impressions des opinions sacrées?…
+  \[ellipsis in the original\] il existe pour les juifs des mets impurs!…
+  \[ellipsis in the original\] Belle raison pour refuser à des hommes les droits
+  de l’humanité!  Quand le fait ne seroit pas exagéré, & il l’est jusqu’au
+  ridicule, l’opinion qu’un porc suffit pour souiller la maison d’un juif, est
+  une fable.  Les enfans de Moyse peuvent, sans blesser leur loi, élever,
+  entretenir, faire le commerce des porcs.  On en connoit mille exemples en
+  Prusse …” 
+
+
   <h2 style="text-align: center">Source 3 Original</h2>
 
 
