@@ -122,3 +122,23 @@ For 15 years I have been studying the history and customs of this singular peopl
 “As for their allegedly incompatible customs (_leurs moeurs prétendues inaliables_) because they refuse to share their table with Christians, nothing is more false, and I appeal to daily experience.  And besides, of what import for political tranquility is this dietary difference (_cette différence diététique_)? Some provinces in Poland and Russia offer a bizarre mixture: next to a Protestant who eats his chicken on Friday is a Catholic who limits himself to eggs; both drink wine and work on Fridays, next to a Turk who abstains from wine and doesn’t work on that day, and these variations do not affect civil harmony at all.”  
 
 <h2 style="text-align: center">Source 4 Translation</h2>
+
+**_Petition of the Jews established in France_ (Paris, 1790)** 
+
+_Petition of the Jews established in France_ \[Paris, Alsace, Lorraine\]_, addressed to the National Assembly, January 28, 1790, following the adjournment of December 24, 1789_.  Signed Cerf-Berr, formerly General Syndic of the Jews and 6 deputies.  In facsimile reprint, vol. 5 \[_Adresses, Mémoires et Pétitions des Juifs, 1789-1794_\] of _La Révolution Française et l’Émancipation des Juifs_, 8 vols., Paris EDHIS, Editions d’Histoire, 1968, and also online: Source [gallia.bnf.fr](http://gallia.bnf.fr) / Bibliothèque nationale de France.
+
+\[Excerpts from this document have been translated in Lynn Hunt, _The French Revolution and Human Rights_, 2d ed., 2016, pp. 88-91, but not the particular passages presented here.\]
+
+**Passage 1.  Petition, p. 33.**
+
+ “… let us examine the objections made against the admission of Jews to citizenship (_l’admission des Juifs à l’état-civil_).”
+
+**Passage 2.  Petition, pp. 50-51.**
+
+“One says … the difference in their foods makes them a separate People (_un Peuple à part_), who cannot have close exchanges or direct relations with other persons \[literally, men\] (_hommes_).”
+
+**Passage 3.  Petition, pp. 71-72.**
+
+“They are unsuitable \[for military service\] for another reason, as some say by their manner of eating, \[which is\] different from that of other people; and with the difficulty, even the very impossibility, that one could provide this food.  But most of their foods are common among Catholics; and as for those specific to them, it is possible for them to abstain from them during certain times, or to prepare them themselves.
+
+This difference between their manner of eating and that of Catholics should not be an obstacle to their admission to the rights of Citizens. There are so many other meaningful ways by which persons \[literally, men\] (_hommes_) of different religions can become closer to one another, and these alone should be considered. These relations, namely of charity, kindness, patriotism, abilities, will be common to both Jews and Christians, when all together form but one people of brothers and Citizens.”
