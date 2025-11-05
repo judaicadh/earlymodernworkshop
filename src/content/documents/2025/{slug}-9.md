@@ -12,6 +12,114 @@ language:
   - French
 publication_location:
   - Paris, Alsace-Lorraine
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2>
+
+
+  **Zalkind Hourwitz, _Apologie des Juifs_ (Paris, 1789)** 
+
+
+  I used _Apologie_ _des Juifs_. _En réponse à la Question: Est-il des moyens de
+  rendre les Juifs plus heureux & plus utiles en France?_ Paris, 1789, in the
+  facsimile reprint, vol. 4 of _La Révolution Française et l’Émancipation des
+  Juifs_, 8 vols., Paris: EDHIS, Editions d’Histoire Sociale, 1968, and also
+  online: Source [gallica.bnf.fr](http://gallica.bnf.fr) / Bibliothèque
+  nationale de France. 
+
+
+  \[A version with modernized spelling and introduction is also available:
+  Michael Löwy and Eleni Varikas, eds., _Apologie des Juifs_ (1789_): liberté,
+  égalité, pluralité: 1789_, Paris: Syllepse, 2002.\]
+
+
+  **Passage 1.  _Apologie des Juifs_, 1789, pp. 48-53**  
+
+
+  “ … \[les\] ennemis des Juifs …assurent, sur la foi de ces Ecrivains
+  \[Michaelis, Voltaire & Rousseau, mentioned just above\] que Moyse a rendu les
+  Juifs misanthropes, & qu’il leur a donné des moeurs inalliables avec celles
+  des autres nations. ….
+
+
+  … je commencerai par réfuter l’assertion de M. V. et de R. ce qui renversera
+  toutes les consequences qu’on en tire, & prouvera clairement que les Juifs
+  sont des hommes comme ceux des autres peuples, & qu’ils peuvent être heureux &
+  utiles comme eux ….
+
+
+  Ce n’est pas ici le lien d’examiner les titres de Moyse … mais il m’est
+  absolument impossible de le croire intolerant.
+
+
+  Voyons sur quoi est fondée cette accusation. 1.  Sur ce qu’il préfère son
+  people à tous les autres.  2. Sur ce qu’il défend de manger & de s’allier en
+  marriage avec les autres nations.…
+
+
+  Rien de plus injuste que le premier reproche.  Quelle est la nation ancienne
+  ou moderne qui ne s’attribue quelque supériorité religeuse ou politique sur
+  toutes les autres? …
+
+
+  Le second reproche n’est pas mieux fondé.  Moyse ne défend que certains
+  animaux, ainsi que le suif et le sang; mais il n’interdit point de manger avec
+  les étrangers les aliments non prohibés.  Aussi les Juifs font-ils
+  journellement usage des boissons (excepté le vin …), du pain, des legumes, du
+  laitage & des poissons des Chrétiens (Note 1), & ils les invitent aussi à
+  leurs tables.  Or l’abstinence de quelques alimens ne rend point les Juifs
+  plus insociables que les Bramines, que les Mahométans & que les Catholiques,
+  pendant le carême.  Il n’est pas vrai non plus que Moyse ait défendu le
+  marriage avec toutes les nations; il ne le défend qu’avec les Iduméens & les
+  Egyptiens, jusqu’à un certain dégré (Note 2).  Aussi David & plusieurs autres
+  Rois pieux ont-ils épousé des femmes étrangères.”
+
+
+  Note 1. 
+
+
+  “J’en atteste les Cabaretiers & les Limonadiers plus savans sur cet article
+  que Voltaire, qui, pour prouver que les Juifs ont pris leurs lois des
+  Eyptiens, assurent hardiment qu’ils s’abtiennent de tous les aliments des
+  étrangers, & qu’ils ne font pas même usage de leurs couteaux.  Tout ce qu’il y
+  a de vrai, c’est que les Rabbins modernes défendent de couper de la viande
+  chaude, ou salée avec le couteau d’un  étranger sans l’avoir passé par le feu,
+  ou trempé  dans l’eau bouillante, de crainte qu’il n’y reste attaché quelque
+  parcelle des alimens défendus qui pourroit se fondre dans la viande.”
+
+
+  Note 2.
+
+
+  “Cependant les Juifs modernes s’interdissent le marriage avec tous les
+  étrangers, crainte des inconvéniens qui résulteroient dans le ménage, par leur
+  abstinence de certains alimens, ainsi que de leurs femmes _menstruate_.” 
+
+
+  **Passage 2.  _Apologie des Juifs_, 1789, p. 56**
+
+
+  “Il résulte de tout cela que Moyse a rendu les Juifs _très-philantropes_, &
+  qu’il leur a donné des moeurs _très-alliables_ avec celles des autres nations,
+  & que Rousseau & Voltaire, que en assurent le contraire, se sont grossièrement
+  trompés, ou qu’ils ont cruellement calomniés une natione malheureuse …”
+
+
+  **Passage 3.  _Apologie des Juifs_, 1789, p. 67**
+
+
+  “Il est connu de tous les Médecins que la constitution physique des Juifs est
+  absolument la même que celle des autres nations qui habitant le même climat,
+  sans que la circoncision & l’abstinence de certains alimens l’affoiblissent en
+  rien.”
+
+
+  <h2 style="text-align: center">Source 2 Original</h2>
+
+
+  <h2 style="text-align: center">Source 3 Original</h2>
+
+
+  <h2 style="text-align: center">Source 4 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
