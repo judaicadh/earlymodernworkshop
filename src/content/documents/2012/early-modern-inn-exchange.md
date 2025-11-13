@@ -12,13 +12,14 @@ language:
   - Polish
   - Hebrew
 description: >-
-  1.  One set of texts is a selection of several seventeenth-century _takkanot_,
+  One set of texts is a selection of several seventeenth-century takkanot,
   rulings, by the Council of Four Lands, the supra-communal organization
   responsible primarily for collection of taxes levied by the Polish state but
   also engaging in administration of affairs within Jewish communities.
-      
-  2.  The second text comes from Polish court records and shows a criminal trial
-  of a Jewish tavern keeper, Szmul Dubiński, accused of blasphemy in Rzeszow in
+
+
+  The second text comes from Polish court records and shows a criminal trial of
+  a Jewish tavern keeper, Szmul Dubiński, accused of blasphemy in Rzeszow in
   1726.
 original_language_body: >-
   <h2 style="text-align: center">Source 1 Original Text</h2>
