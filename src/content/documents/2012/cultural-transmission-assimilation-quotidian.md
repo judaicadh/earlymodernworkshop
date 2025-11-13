@@ -70,7 +70,21 @@ Dossier 159, n. 11
 
 **\[Fol. 6r\]** Hearing on October 7, 1790
 
-No results issue from the registry of this Holy Office against the woman named Carlota, native of Hesse-Cassel in Germany, of medium height, round face, sort of swollen cheeks, black eyes, brown hair, eyebrows with little hair, Roman nose, 29 years of age more or less, who spontaneously appeared to disclose her Hebraism, requesting entry to the bosom of Our Holy Mother, \[the\] Church, by receiving the Holy Baptism, according to Your Lordship’s notice of September 23, to which we respond gladly, and will so execute it to whatever extent will please you.
+No results issue from the registry of this Holy Office against the woman
+
+named Carlota, native of Hesse-Cassel in Germany, of medium height,
+
+round face, sort of swollen cheeks, black eyes, brown hair, eyebrows with
+
+little hair, Roman nose, 29 years of age more or less, who spontaneously
+
+appeared to disclose her Hebraism, requesting entry to the bosom of Our
+
+Holy Mother, \[the\] Church, by receiving the Holy Baptism, according to
+
+Your Lordship’s notice of September 23, to which we respond gladly, and
+
+will so execute it to whatever extent will please you.
 
 \[Inquisition of Murcia, October 2,
 
@@ -114,6 +128,16 @@ but that she desires \[to receive\] the Holy Baptism, and convert
 
 to our Holy Catholic Faith, of which intention
 
-she has implored (tearfully and with repeated invocations of Mary Most Holy) said parish priest, who, in accord with this informant has offered her the customary sustenance and protection until Your Most Illustrious, informed by this missive, orders what he deems just and advisable.
+she has implored (tearfully and with repeated
+
+invocations of Mary Most Holy) said parish priest,
+
+who, in accord with this informant has
+
+offered her the customary sustenance and protection
+
+until Your Most Illustrious, informed by this missive, orders
+
+what he deems just and advisable.
 
 <h2 style="text-align: center">Source 2 Translation</h2>
