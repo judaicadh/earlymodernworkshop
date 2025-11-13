@@ -248,10 +248,6 @@ First _laboriosus_ Gregorius Jasiński, a miller from the village of Horzewice,
 
 Second _laboriosus_ Valentinus Moskal, a magistrate of the village of Pilchów, having first taken an oath, related, ‘’On the feast of the Most Holy Virgin, mid-evening after vespers, I came to Szmul Dubiński’s, and found there Kowalski, sitting alone. I did not hear any discussion about Lord God, or faith; it must have happened before I came, because I came when the organist brought fresh bread that Jews baked on the holiday, which led to a spat between Kowalski and Szmul that it was not appropriate to bake bread on a holy day, ‘Our holidays you break but you observe your own Sabbath.’
 
-72
-
-EMW -Workshops EMW 2012
-
 I don’t know anything else and I did not hear anything, I support it with my conscience,1 and so he testified.
 
 Third, _honestus_ Martinus Prędkiewicz, an organist of the church in Charzewice, having taken an oath, related: ‘’I don’t know anything, because I came late, I only heard from Lisowski, when I arrived at Szmul Dubiński’s after sunset, but when it was still light, on the feast of the Most Holy Virgin; he told me that Szmul said to Kowalski ‘You believe in this God that Skrzypek made of clay,’ and so he testified.
