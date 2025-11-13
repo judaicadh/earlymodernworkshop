@@ -232,13 +232,7 @@ But Lisowski, who was with me, wanted to punch him with his fist when he heard t
 
 And thus he testified having first taken an oath: I, Franciszek Kowalski, swear to Almighty Lord God, one in Holy Trinity, that what I testified and testify against the infidel Szmul Dubiński, resident \[_obywatel_\] of our town, is not out of envy or hate; nor have I been persuaded or bribed by anyone \[to do so\], but without adding or subtracting anything, I testified only the truth about how Szmul blasphemed against Lord God and divine honor, and I did not hide anything. So help me God and the innocent suffering of Lord Christ.
 
-The second witness, _honestus_ Jacob Lisowski, having taken an oath, related and concurred with the prior \[witness\] in everything except, ‘’I did not hear \[the discussion about\] which God is older, which took place in the mid-evening of the Assumption of the Most Holy Virgin, because during this debate I stepped outside twice’’; and he added, ‘’I wanted to hit him but
-
-71
-
-EMW -Workshops EMW 2012
-
-I was afraid that I would be condemned \[reprimanded?\] by the lord of the manor.’’
+The second witness, _honestus_ Jacob Lisowski, having taken an oath, related and concurred with the prior \[witness\] in everything except, ‘’I did not hear \[the discussion about\] which God is older, which took place in the mid-evening of the Assumption of the Most Holy Virgin, because during this debate I stepped outside twice’’; and he added, ‘’I wanted to hit him but I was afraid that I would be condemned \[reprimanded?\] by the lord of the manor.’’
 
 The third witness, _honestus_ Mathias Trafidło, a resident \[_incola_\] of Rozwadów, having first taken an oath, related, ‘’On a feast day, I don’t remember which one, perhaps on the feast of the Most Holy Virgin \[_Najświętszej Panny Jagodnej_\] mid-evening I came over to the window in the hall, and Kowalski called me and offered me a drink, so I joined them, but I was not present during their whole discussion, I only heard Szmul Dubiński, who was very drunk, say these words: ‘Why does your God fall over, if he is so powerful?’ But I don’t remember what Kowalski answered. And Szmul then said to Kowalski, ‘Which God do you believe in, this, made of clay, which Skrzypek put up?” And Kowalski said, ‘This, because it is the image of God.’ And Szmul beat his chest, but I don’t know if seriously or as a joke. They then started quarrelling about Gods, but I did not pay attention, and Szmul said, ‘Let’s agree that both Gods are good, this one is good and that one is good.’ After they offered me the drink, I left. I did not see if Moskal and the miller were there or not. And so he testified, and he confirmed his testimony with a personal oath.
 
