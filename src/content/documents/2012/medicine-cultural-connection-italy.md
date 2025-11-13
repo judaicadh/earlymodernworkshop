@@ -141,7 +141,7 @@ original_language_body: >-
 
   David de Pomis
 ---
-Introduction
+<h2 style="text-align: center">Introduction</h2>
 
 The two texts presented below contain evidence of Jewish-Christian interaction in sixteenth-century Italy. The first is a medical consultation written by the Catholic physician Girolamo Mercuriale to the Jewish physician Moses Alatino regarding a young woman suffering from an assortment of gynecological and urinary ailments. Mercuriale’s letter is a response to a query, unfortunately lost, from Alatino. Girolamo Mercuriale (1530-1606) was a distinguished doctor and prolific writer. His first _Book of Medical Responses and Consultations_, from which this text is taken, was published in Venice in 1587; one other volume followed in 1598, and two others in 1604. Mercuriale’s reputation rests not only on his medical monographs but also on his antiquarian works. Perhaps his best-known book is _De arte gymnastica libri sex_ \[Six Books on the Gymnastic Art\] (Venice 1579), an exploration of physical activity in the ancient world. Moses Alatino was Mercuriale’s exact contemporary: he died in 1605. In addition to practicing medicine, Alatino achieved renown as a translator of classical Greek scientific texts into Latin, often executed via Hebrew manuscripts from the Middle Ages. The second text presented here is an excerpt from a medical prescription that the Jewish physician David de’ Pomi wrote to Francesco Maria II, the Este Duke. It belongs to the _regimen vitae_ genre of medical advice literature, which originates in the Hippocratic Corpus. De’ Pomi’s work was one of several addressed to Francesco Maria, and was included with the others in a bound manuscript preserved in the Vatican Library. David de’ Pomi (1525-93) was born in Spoleto, educated at Perugia, and spent most of his professional life in Venice. None of his strictly medical writings has survived, but we do have several apologetic, historical, and exegetical works, some of which remain in manuscript. De’ Pomi is best known for his tri-lingual 1587 dictionary _Tsemah David_, which explains thousands of Hebrew and Aramaic terms in Hebrew, Latin and Italian. It elaborates upon several medieval lexicographical works, and features a variety of colorful essays on antiquarian and historical topics.
 
@@ -157,7 +157,7 @@ Primary Sources:
 
 _Ex.mi D. Abrahami Portaleonis Medici Mantuani Hebraei Responsorum et Consultationum Medicinalium Liber. Per me David eius filium collectae et conscriptae cum indice locupletissimo Anno MDCVII_. Paris, Bibliothèque nationale MS Latin 13004.
 
-Girolamo Mercuriale_, Responsorum, et consultationum medicinalium tomus primus._ (Venice, 1587).
+Girolamo Mercuriale\_, Responsorum, et consultationum medicinalium tomus primus.\_ (Venice, 1587).
 
 _Medicorum consilia in infirmitate francisci mariae II urbini ducis, an. 1592_. Vatican, cor. Urb. 1468, 119r-134r.
 
