@@ -10,6 +10,7 @@ event:
   theme: Cross-Cultural Connections in the Early Modern Jewish World
 language:
   - Polish
+  - Hebrew
 description: >-
   1.  One set of texts is a selection of several seventeenth-century _takkanot_,
   rulings, by the Council of Four Lands, the supra-communal organization
