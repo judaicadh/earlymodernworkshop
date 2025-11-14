@@ -574,8 +574,10 @@ original_language_body: >-
   <h2 style="text-align: center">Source 2 Original Text</h2><p
   style="text-align: center">Archivo Historico Nacional, Inquisición de Toledo,
   legajo 137, expediente 15 (1791-1792): Salomon Bergom (a.k.a. Carlos
-  Bergamo).</p><p style="text-align: center"><strong>[COVER, FRONT
-  MATTER]</strong></p>
+  Bergamo).</p>
+
+
+  **\[COVER, FRONT MATTER\]**
 
 
   Toledo (Inquisicion de) Judaizantes Bergom (Salomon)  
@@ -585,7 +587,10 @@ original_language_body: >-
   dente de Toledo
 
 
-  Delacion espontanea 1792-1793
+  Delacion espontanea
+
+
+  1792-1793
 
 
   Lego 137 n. 15
