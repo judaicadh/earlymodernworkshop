@@ -16,6 +16,1032 @@ description: The folios selected for this workshop comprise large excerpts of
   relatively brief and fragmentary. I offer them together in order to provide
   more analytical possibilities than each of the documents would offer by
   itself.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original Text</h2>
+
+
+  **\[Cover, front matter\]**
+
+
+  Toledo (Inquisición de)
+
+
+  Judaizantes
+
+
+  Liot (Carlota)  
+
+  de nacion hebrea, y residente en la villa de Consuegra Su delacion espontanea
+  y abjuracion
+
+
+  1790-1791
+
+
+  Leg.o 159 N. 11
+
+
+  **\[Fol. 6R\]**
+
+
+  Ada en 7 de Octre de 1790 Nada resulta en los Rexistros de este S. Oficio,
+  contra la mugger, llamada Carlota, natural de Hesse-Cassel en Alemania, de
+  mediana estatura, cara redonda, carrillos como hinchados, ojos pardos, niñas
+  negras, pelo castaño, Zejas con poco pelo, nariz Roma, de 29 as de edad poco
+  mas o menos, espontaneada en ese tribunal de Hebraismo, solicitando entrar en
+  el gremio de N.S. M. Yglesia, reciviendo el S. Baptismo; conforme al aviso de
+  V.S. de 23 de Sepbre, â que contestamos gustosos, y lo haremos igualmente â
+  quanto sea de su agrado.
+
+
+  N.S. gûe â U.S. & Ynqqn de Murcia 2 de octubre de 1790.
+
+
+  Ldo Pedro del Moral \[?\] D.r D.n Ramon de Albornos [S.to](http://S.to) oficio
+  de Ynqq.on de Toledo
+
+
+  **\[Fol. 16r\]**
+
+
+  Dn Ferndo Diaz de Linares y Toledo Itro familiar Apos.o mora titulo de esta
+  Villa, con la devida sumision a VYma hace presente que, en este dia y por Ldo
+  Frey Dn Silvestre Diaz Huerta del au\[illegible\] de Sn Ju. Cura Prior de Sta
+  Maria la Mar a dha Villa se ha presentado a el que espone una muger que dize
+  ser de nacion Judaica llamarse Carlota y ser hija de Leon, natural de escasel
+  Dominio de el Enperador; que salio de dha su Naturaleza de edad de treze as y
+  oy tiene la de veintinueve: declara voluntariamente (entre otras cosas) que en
+  la ciudad de Mala- ga ha residido seis as y que en dha cuidad conoze a muchos
+  de su nacion ocultos: pero que ella desea el Sto Baptismo, y convertirse a
+  nt~ra Santa Fe Catholica sobre cuia pretension ha importunado (con lagrimas y
+  repetidas in vocaciones de Maria Santisima) a dho Paro co; quien con acuerdo
+  de el qe espone la ha ofrecido el cotidiano sustento y proteczion asta qe
+  V.Yma informado pr esta ordene lo que estime justo y conveniente.
+
+
+  Consuegra oy Abril 24 de 1790  
+
+  \[Signature: Don Fernando Diaz de Linares y Toledo\]
+
+
+  **\[Fol. 18R\]**
+
+
+  En la villa de consuegra a diez y seis dias de el mes de Maio de este presente
+  anode mil setezientos y noventa, el Ldo frey Dn Sil- vestre Diaz Huerta Rojas
+  del au.zo de Sn Jua y cura Prior de la Parochia de Sta. Maria la maior de dha
+  villa me entrego el preze dente despacho....
+
+
+  En dho dia y alas diez de la mañana en virtud de el auto prezedente
+  comparezio \[?\] ante El dho Sor comizionado y de mi el notario la espresada
+  Carlota en forma de D~ro; que hizo Pr dios N.S. y una señal de cruz de no re
+  belar quanto ocuriere y dijere en la deposicion
+
+
+  **\[Fol 18v\]**
+
+
+  y todo \[sic\] la verdad bajo cual aviendose espli cado a quanto obliga su
+  cumplimiento, y obser vancia; y en la virtud se le hizo presente la
+  representacion que Yo el notario hize a el S. Tribunal con fecha veintiquatro
+  de Abril la que le lei de Vervo ad Verbun y entera da de toda ella dijo ser lo
+  mismo qe en el Zita do dia espreso a el Sor comizionado y ante mi el notario
+  la que ratificava en caso nezesa rio; y a la seguida se le hizo el
+  Ynterogatorio siguiente----
+
+
+  Preg.ta Como se llama, de donde es Natural que edad estado ofizio tiene quien
+  es, o fueron sus Padres y donde residen o murieron, y q relijion profesaron, a
+  que responde----- que se llama Carlota que es natural de Ese casel Ciudad del
+  Enperador de Alemania, de edad de Veintinueve años, poco mas o menos, que ha
+  sido comerzianta, y oi en el dia Pobre hostiatin \[?\], por averla robado, q.e
+  esta en la actualidad, como en estado de viuda, por ha versele muerto el
+  honbre que era de nazion judaica en la Ziudad de Malaga el que esta enterado
+  en el canpo [S.to](http://S.to) del hospital de el Rey de dha ciudad que sus
+  Padres se llam aron Leon y Zezilia, naturales y Vezinos de la espresada ciudad
+  de Esecasel que Ygno ra si viven, o han muerto; pero save y le con sta que
+  fueron de nazion Judaica; y responde Preguntada si es Christiana, Baptizda----
+  Responde que no--------------- Preguntada en que Relijion se crio y que
+
+
+  **\[Fol. 19r\]**
+
+
+  Es lo que ha creido y seguido desde que tubo uso de razon, y si la relijion en
+  que ha sido criada es la misma que seguian y profesava sus padres, y si en
+  aquel pais se enseña o sigue la misma o diferentes y quales; responde======
+
+
+  Que la Religion en que se crio es Judai ca, y que esperava el Mesias; y
+  adoravan una imagen dorada como de Bezero, guardan do el dia Sabado por de
+  fiesta, aiunando dho dia desde las diez de la noche de el viernes su vispera
+  asta puesta del sol y oservando \[?\] la solem nidad contanto rigor que ni
+  mobian un trasto \[?\]: en cuia relijion fue criada y la misma que seguian y
+  profesavan sus padres, la que esta  
+
+  va tolerada en aquel Pais, donde Ygualmen te ay Luteranos Calvinistas y
+  Christianos y todos tolerados, y con libre exercizio---  
+
+  Preg.da Si la guarda. se le preg.ta que es lo que a el presente tiene y cre, y
+  que relijion es la que quiere seguir y profesar en vida y muerte Responde: que
+  tiene y cre a el presente los articulos de nuestra Sta Fe Catholica, que le
+  fue ron hechos presentes pr el Sor Comisionado, y por ante mi el Notario a que
+  contesto; y que la relijion qe quiere seguir y profesar en vida y muerte es la
+  relijion catholica; y por lo mismo desea con vivos y eficazes deseos ser
+  bautizada====
+
+
+  Repreguntada: que como tiene notizia de  
+
+  los articulos de nuestra Sta Fe Catholica, y quien
+
+
+  **\[Fol. 19v\]**
+
+
+  Se la ha enseñado; dijo que con motivo de hallarse con tienda en la ciudad de
+  Malaga salia todas las semanas a vender a Velez Malaga  
+
+  y en sus Arabales vivia una Paisana suia Chris tiana llamada Cristina que
+  conozia a los refe ridos Padres de la deponente con cuio motivo en su lengua
+  Alemana le enseño la Doctrina Chris tiana y aunque dha Christina savia que
+  los padres de la deponente eran Judios tenia entendi do que esta era
+  Christiana; y con el motivo de su estada en España en Castellano ha apren
+  dido algunos misterios y oraciones como el credo sacramentos los cinco
+  mandamientos de nuestra Madre la Yglesia, el misterio de la Santisima
+  Trinidad, como es dios Remunedaror \[sic\] y los de- Mas en la lengua
+  nativa:-------------
+
+
+  5 Preg:ta A la quinta fue preguntada que causa, motivo o razon ha tenido y
+  tiene para apartarse de la secta Judaica, y querer seguir y Profesar La Santa
+  Fe Catolica de nuestra Madre La Yglesia Romana, responde= Que por tener por
+  Zierto, que si muere Judia Le condena, y si falleza Catolica espera salvarse y
+  irse a la gloria ==  
+
+  6 preg.ta A la sesta se remitio a la quarta: por lo que se con- prende, y a la
+  terzera==  
+
+  7preg.ta A la septima: fue preguntada si save ay al gunas Personas residentes
+  en España de su secta, ocultos, no siendo de aquellos reinos y na ziones a
+  quienes esta permitido p.or causa de
+
+
+  **\[Fol. 20r\]**
+
+
+  el comercio y con ciertas condiciones el residir en España; o si save que
+  algunos, o alguno de estos que estan permitidos en estos reynos, havia faltado
+  a los pactos y con- diciones con que se les permite su residen- zia y causado
+  con los dichos, o hecho algun escandalo a los fieles Chatolicos Roma nos,
+  Responde:==== Que conzio asta seis personas de la misma secta ocultos que le
+  enpleaban en el comercio de me- dias de seda, Panuelos, y otros jeneros que se
+  acon pañavan y vendian como en Cadis puerto de la Maria, y otros Pueblos;
+  pero que no tenian casa de residenzia en dha Ziudad en la que le ospe davan en
+  el meson mas cercano a la puerta de la mar, pero que no se acuerda de los
+  nonbres de ellos en comun ni en particular, y se solo que las señas del uno,
+  es como de dos Y.s y uno o dos dedos de altura, bastante grueso, con una
+  zicatriz en la cara como de cuchillada, que no tiene presente en qual de las
+  carillos es, y que ten dra, o representa como de treinta a treinta y cinco
+  años de edad, y que sin duda la causa de no acordarse e los nonbres, es por
+  que viaban \[?\] entre si poco de ellos, entendiendose con espresiones de
+  ermanos: que es quanto save, pues le debe declarar en esta que ha ejecutado
+  espontanea mente, y bajo de el juramento q.e lleva hecho-
+
+
+  **\[Fol. 20v\]**
+
+
+  Y todo la verdad en el que en caso necesario Se ratifica y afirma no firmo
+  esta su decla- Racion por decir no saver. Hizolo el señor comis Ionado a que
+  presente fui
+
+
+  \[Signatures: Silvestre Diaz Huerta y Rojas, Dn. Ferndo Diaz de Linares y
+  Toledo\]
+
+
+  **\[Fol. 24v\]**
+
+
+  En la Va de Consuegra diez dias de  
+
+  el mes de Junio de este presente año de mil setecientos y noventa, el S.or
+  Comisio nado [L.do](http://L.do) Frey D,on Silvestre Dias Huerta me entrego el
+  prezedente despacho q.e dijo acavava de Rezivir p.or el coreo or dinario y en
+  su corespondencia havien dole azeptado hizo ante mi el juramen to en forma la
+  de Pectore puesta la ma no sobre la cruz de su avito de non rebelando y a la
+  seguida mando con- parezer a Carlota.... Paso ante mi
+
+
+  \[signatures\]
+
+
+  En la dha Villa dia mes y año a virtud a el anterior proveido \[?\]
+  conparezio la espresada Carlota de quien dho señor Comisionado le rezevio
+  juramento de fidelidad en forma de dro. que hizo por Dios nuestro Señor y una
+  senal de cruz de dezir la verdad en lo que tiene preguntada como de no rebelar
+  quarto, ni parte de lo que el senor de el despacho dijo; que el que tubo p.or
+  marido era entendido en su pais con el
+
+
+  **\[Fol. 25r\]**
+
+
+  Nonbre de Leon y en España con el de Antonio= que no save el dia en que
+  murio, y fue enterado el referido Antonio por Motivo de ha ver salido de la
+  ziudad de Malaga donde por \[?\] que el dho a vender la declarante los generos
+  de su comerzio a las Ziudades de Sevilla Cordo- va, ezija y otros pueblos en
+  los que gasto \[?\] nue- ve meses, y a el regreso a la lita\_a de Malaga tubo
+  la notizia de que avia fallezido diziendola q.e avria como unos ocho meses q.e
+  murio, y segun la quenta, halla ocurio dho [fallecim.to](http://fallecim.to)
+  como unos veintiseis meses poco mas o menos= que no tenia casa segura pa su
+  domicili- lio en dha ziudad, pues avitavan en las calles donde zelebravan las
+  ferias que son frequentes en dha ziudad; de modo que quan do eran en la calle
+  de la Victoria se Recojian de noche en la casa q tenia por tienda una viuda
+  que se llamava Catalina, pero q.e la que no conserva mas señas que el tener
+  sus puestos y portal grandes y que por el menzio nado hospedaje pagavan cada
+  noche cin co rs yn y que quando la feria era en la– calle qe nonbran de los
+  mercaderes vizavan de noche junto a la puerta de la mar en una casa que era
+  taverna y se llamava Maria de estado viuda la que los hospedava Y a quien
+  agavan quatro R.s diarios, pero q.e Su casa la tenia en arendamiento la zitada
+
+
+  **\[Fol. 25v—Not foliated\]**
+
+
+  Maria ignorando la declarante de quien fuese su \[?\] propiedad= y que quando
+  salio a vender por el tienpo que deja declarado que el repetido Antonio quedo
+  con quebranta de salud en la espresada casa de la calle de la Victoria que no
+  tubo trato ni comu nicazion que no fuese transcurzo \[?\] en sus ven- tas, con
+  otras personas, que las dos zitadas— huespedas, Chatalina u Maria a \[?\]
+  causa de que pasados las ferias salian a vender por los pueblos de la comarca
+  sin tener domizilio fijo en alguno== y que a lazitada zuidad de Malaga solo
+  acudio pr. tres años en tiempo de ferias, pues aunque ha- ze dies y ocho
+  años , poco mas o menos, que salio de su Pais seis años ha estado en
+  Portugal, tres en Francia, y los demas en España que los tres gasto \[?\]
+  como deja declarado y en los seis restantes estubo en Zaragoza Panplona,
+  Valencia y otras ziudades como tanbien en Barcelona donde un estudian te pr el
+  precio de medio doblon de a ocho las hizo a la declarante y Zitado Antonio la
+  carta de casamiento==que quando conozio y trato en Veles Malaga a la paisana
+  la Christina era viuda de un invalido cuio nonbre Ygnora que vivia en casa de
+  arendamiento situada en los arabales y que no save el nonbre de la calle=que
+  dha Christina vivia de el travajo de sus manos hilando y haciendo votones=que
+  de
+
+
+  **\[Fol. 26r\]**
+
+
+  su casa no puede dar mas señas que el hallarse sola pero que ay otras muchas
+  casillas semejantes p.or lo solas = y en quanto a las señas Personales de
+  dhas Cristina solo puede de zir que era mujer mui anziana de mediana estatura
+  con todo el cavello blanco y que no tiene presentes otras mas señas== y
+  aviendola reconvenido sobre todos y cada uno de los par ticulares contenidos
+  en el despacho, para qe con la maior claridad, y espezificzion hazia su
+  deposizion, dijo y repitio que no podia espo- ner, ni esplicar mas que lo que
+  deja declarado vajo de el juramento, que deja hecho en que e ratifco y afirmo
+  no firmo p.r no saver, lo hizo el S.or Comisionado y Yo el notario que a todo
+  fui presente.
+
+
+  \[Signatures: [Liz.do](http://Liz.do) Dn Silvestre Diaz Huerta, etc.\]
+
+
+  **\[27r\]**
+
+
+  Present.da en Toledo
+
+
+  y Junio 25 de 1790
+
+
+  M.I.S.
+
+
+  El Inqor fiscal de este [S.to](http://S.to) Oficio en el expediente Que se ha
+  formado a instancia de la muger Nombrada Carlota que solicita abjurar los
+  Errores de la secta Judaica y ser admitida al gremio de nuestra Religion
+  Catholica Apos tolica Romana, dice: Ha visto la nueva declaracion que en diez
+  del corr.te ha echo dha espontanea, y confrontada con la an- terior q.e otorgo
+  en 16 de mayo halla algu- nas contradicciones y otras especies inve risimiles,
+  y con el fin de q.e le venga en co- nocimiento de lo q.e afirma esta muger, y
+  que no se incida en algun embuste que intente practicar es de parecerle le
+  reciba otra declaracion p.r ante el mismo comisionado y Notr.o de \[?\]
+  consuegra, in terrogandola en forma sobre las preguntas siguientes  
+
+  1a. Como dice es Nat.l de Hese Casel, Cuidad del [S.to](http://S.to) \[?\]
+  Emperador, quando es soberania particu lar de Alemania. Que exprese los
+  Pueblos que hay inmediatos al de su naturaleza.  
+
+  2.a Como dice que los padres se nombraban Leon y Cecilia y q.e ern Judios,
+  quando estos nombres son de la ley de gracia, y sus
+
+
+  **\[Fol. 27v\]**
+
+
+  padres tenian plena libertad civil y moral en su pais y podian usar de los
+  nombres propios de la ley de Moises.
+
+
+  3.a Como dice en su primera declaracion que residio en la ciudad de Malaga
+  seis años si desp.s dice que solos tres, y que tenia en dha ciudad tienda, y
+  desp.s dice que solo ven- dia en las ferias de dia, y de noche se recogia en
+  la calle de la Victoria, y en una ta- berna junto a la puerta del Mar en las
+  casas de Cathalina y Maria sin los apellidos, ni señas personales es estraño
+  no esprese ni se acuerde de las conexiones , o Parien tes que tengan p.a q.e
+  le venga en conociomto de la identidad o existencia.
+
+
+  4.a Que declare el tiempo annual en q.e ha visto celebrarse feria en al calle
+  de los mercaderes de aquella ciudad, o diga la C.e que entienda ser esta,
+  porq.e si entiende ser la C.e nueva que esta en frente de la Puerta del Mar,
+  en esta se tiene entendido q.e no hay feria en todo el año.
+
+
+  5.a Que exprese si en alguna ciudad o pueblo de España ha sido enpadronada en
+  alguna Iglesia Parroq.l, o alistada como Vecina p.r la Justicia, y donde sea,
+  y en qual año; o si ha ohido misa, y recibido los sacra- mentos de la
+  Penitencia y comunion cre- yendolos interiorm.te o no.
+
+
+  6.a. Expresara las mercancias en q.e tnia su tra- fico, y si las compraba, p.a
+  revenderlas, al
+
+
+  **\[Fol. 28r\]**
+
+
+  contraste \[?\], o al fiado especialm.te en los nueve meses que andubo p.or
+  varias partes sin su hombre, y diga los sugetos y sus domicilios con
+  [qn.es](http://qn.es) trato con este motivo, los que haya tratado y la
+  conozcan con el de andar a las varias ferias y poblacion- nes de Andalucia que
+  declara, que no es verisimil caminarse sola, y dejase de darse a conocer en
+  [q.to](http://q.to) a s Patria y aun su Reli gion con los varios viajantes o
+  andantes de su clase con q.nes es forsoso se haya jun tado en caminos, o en
+  posadas.
+
+
+  7.a y final. Que el dho comisionado le haga las demas preguntas oportunas para
+  que se venga en maior conocimiento de que en ver dad es Judia, y desea de
+  veras ser Catholica y q.e se le hallen personas de nuestra S.ta Religion q. la
+  hayan conocido, y puedan informar de la conducta, opinion, y Religion que haya
+  crehido esta Muger.
+
+
+  \[signature; Jun. 23, 1790\]
+
+
+  **\[Fol. 30v, starting in line 27\]**
+
+
+  \[Marginal note:\] Inspczion Y declarazion En la villa de Consuegra dicho dia
+  mes y año \[2nd of August 1790\] a consequenzia de el \[illegible\]
+
+
+  **\[Fol. 31r\]**
+
+
+  notificazion anteriores Conparecio en su merzed y de mi el notario la susadha
+  Carlota de quien recivio juramento de fidelidad pr dios N.S. y una Señal de
+  cruz de dezir la verdad en lo que supiere y fuere preguntada y siendolo p.r  
+
+  el despacho, comision a la primera pregunta Responde= que es Zierto que
+  Esecasel es Ziudad de un Duque pero q.e este esta sujeto a el enperador de Ale
+  mania, y que por esta razon dijo ser de el enperador dha Ziudad y que aun que
+  save y le consta ay muchos pueblos inmediatos no save el nonbre de alguno de
+  ellos
+
+
+  A la Segda. Preg.ta dijo que aunque tienen plena libertad para el uso de su
+  secta acostunbran a su \[undeciphered word\] tomar los non bres de la ley de
+  grazia eszeptuando los nonbres de Manuel, Maria y Juan y pr. lo dho a sus
+  padres los entendian conlos nonbres de Leon y
+  Cezilia----------------Preguntada por su Zenor \[sic.\] dize que la Residen-
+  zia de los seis años en la ziudad de Malaga que dijo en su primera
+  declaracion se entiende aver acudido seis años a las ferias de dha Ziudad y
+  los tres que dize en su segunda declaracion es y la entiende haver estado el
+  que llama su nonbre tres años enfermo en ella asta que murio sin
+
+
+  **\[Fol. 31v\]**
+
+
+  el Sagrado Bautismo; esto respondio= Leiosele su declaracion y dijo no tenia
+  que adicionar cosa alguna. Ratificose en ella, no la firmo por no saver, lo
+  hizo su merzed y Yo el notario
+
+
+  \[Signatures\]
+
+
+  **\[Fol. 35r\]**
+
+
+  Yllmo. Señor
+
+
+  Mui sor mi y de toda mi veneracion: con el maior cui- dado le he hecho
+  diligencia qe V.S.Y. se sirve encar garme pr. la comision antecedente y no he
+  podido dar con ninguna de las citas q.e en ella se expresan; en la calle de la
+  victoria no he hallado mas qe. una viuda llamada Cathalina, y esta asegura q.e
+  nunca recogio en tienpo de feria, ni fuera de el en su casa, o portal persona
+  alguna mas q.e una Garvansera conocida suia y vecina de esta Ciu.d en la Calle
+  de la Trinidad; creyendo quivocacion en la expresion de la feria en la cale de
+  mercaderes p.r decir, o dever decir en la calle del Carmen, he buscado en la
+  Puerta del mar la casa taberna, q.e la vivia una muger llamada Maria, viuda, y
+  aunq.e en aq.l sitio hai varias Tabernas y Bodegas ni en el dia, ni de algunos
+  años a esta parte me danrazon de la tal escanias. \[?\] En el Hospital R.l no
+  se puede saber [q.do](http://q.do) murio el Antonio p.rno descrive qual era su
+  apellido. Por lo q.e devuelvo la comision, [p.aq](http://p.aq).e si pudiese
+  ser venga con algunas circunstancias mas claras que puedan servir de govierno,
+  p.a averiguar lo q.e V.S.Y. desea saber, pues con unas noticias tan vagas
+
+
+  **\[Fol. 35v\]**
+
+
+  nada he podido adelantar.  
+
+  Nro. Grgue aV.S.Y.\[illegible\]Ma
+
+
+  Laga 30 de [oct.re](http://oct.re) de 1790.
+
+
+  Yllm.o S.or  
+
+  B. L. P. de V.S.Y. su mas
+
+
+  [Rend.do](http://Rend.do) Subdito y Capp.n
+
+
+  Joseph Fernandez
+
+
+  Maqueda
+
+
+  **\[Fol. 36r\]**
+
+
+  M.I.S.
+
+
+  El inq.or Fiscal de este Sto. Oficio en las dilig.s practicadas a instancia de
+  la Muger que se nombra Carlota, y q.e se hally en la villa de consuegra
+  solicitando se le admita al Gremio de N.S.M. la Ygl.a C.A. R. mediante el Sto
+  Bau- tismo, y prebia abjurcion de la secta Hebrea en que dice ha nacido la ha
+  profesado, dice: que la recorreccion de de registros echa en este y en los
+  demas tribunales del reyno no ha resultado cosa alguna contra esta pretencion;
+  y como por las diligencias que se han practicado en la ciudad de Malaga median
+  te el Sto Oficio de Granada tampoco haya resultado comprobada la existencia
+  que Dha espontanea declara haber echo en las ferias y casas de dha Ciudad,
+  quedan en la misma anterior obscuridad de sus declaraciones los conocimientos
+  que convendrian tenerse, a saber es que en realidad esta espon- tanea ha sido
+  y es Judia, y que sinceramente desea abjurar esta reproba secta y recibir el
+  [S.to](http://S.to) Bautismo. La calidad de ser esta Muger baga, y no citar
+  una sola Persona que conteste en su estado civil
+
+
+  **\[Fol. 36v\]**
+
+
+  o concepto moral y lo que es mas, ni aun en su existencia fisica despues de
+  tantos años que ha discurrido por tantos Pue- blos y Provincias del Reyno,
+  son circun stancias que la recomiendan mui poco  
+
+  p.a q.e sea crehida en sus declaraciones y en ciertos terminos parece al
+  fiscal por aho ra que se de comision al Cura Prior de dho Consuegra \[...\]
+  Silvestre Diaz Huerta por que ante el Familiar Alg. Maior Dn
+  [Fern.do](http://Fern.do) Diaz de Linares y asociado de quatro sa- cerdotes
+  seculares o Regulares los mas autho rizados y literatos de dha villa de
+  Consuegra examinen de nuevo a dha espontanea haciendole todas las preguntas
+  que les parezcan oportunas p.a apurar si en reali dan no ha recibido el Sto
+  Bautismo y ha sido de secta Hebrea y si su conversion es sincera, y se halla
+  instruida en nuestros stos. dogmas Catholicos, y les parece perseve- rara en
+  ntra S.ta Religion Catholica A [R.na](http://R.na) y que informen las resultas
+  con el dicta men de dhos Cura Prior y quatro sacerdotes, y venido q. sea se
+  pase al Fiscal p.a decir lo q. haya lugar. Secreto de Ynq.n de Toledo
+
+
+  Nov.e 13 de 1790
+
+
+  **\[Fol. 38v\]**
+
+
+  En la villa de Consuegra Veinitiocho dias de dho mes \[noviembre\] y año
+  \[1790\], a virtud de la prezedente diligencia comparecieron ante su merced y
+  de mi el notario, los presviteors y Carlota contenidos en ella; y aviendosele
+  por todos y cada uno hecho las preguntas y repreguntas que se tubieron por
+  convenientes, a la predha Carlota, conforme a lo m\[---\]cedo prezedido el
+  juramento de fidelidad que se \[--\]e tomo, hallaron todos y cada uno ver a
+  comun parezer zierto el deseo que tiene de rezivir el Santo Baptismo y no
+  haverle recivido asta de presente; pero que en quanto a la Ynstruczion de la
+  doctrina Christiana se halla mui tierna, por lo que si el tribunal estimase
+  por convenien te espedir su orden, a qualquiera de los Paro chos de la Villa
+  de Madredejos donde tiene su domizilio y en este acto preg.da ha ofrezido
+  permanecer en el para qe se le administre el [S.to](http://S.to) Sacramento de
+  el Baptismo, tienen por de ne zesidad q.e antes de administrarsele se le ecxa
+  mine bien en la Santa Doctrina; que es quanto de comun acuerdo pueden y deven
+  informar a el [S.to](http://S.to) tribunal y p.a que conste lo firmaron con su
+  merced dho señor Juez de que doy fe
+
+
+  \[Signatures:  
+
+  [Lic.do](http://Lic.do) D.n Sivestre Diaz Huerta y Roxas
+
+
+  Dn Antonio Jesus Diaz Gallego  
+
+  Dn Elias Gabriel Aguilar Albarez
+
+
+  [Fran.co](http://Fran.co) Garcia de Juan \[Ivan?\] Perez
+
+
+  Joachin de Cassas y Vida  
+
+  D.n [Fern.do](http://Fern.do) Diaz de Linares y Toledo
+
+
+  <h2 style="text-align: center">Source 2 Original Text</h2><p
+  style="text-align: center">Archivo Historico Nacional, Inquisición de Toledo,
+  legajo 137, expediente 15 (1791-1792): Salomon Bergom (a.k.a. Carlos
+  Bergamo).</p><p style="text-align: center"><strong>[COVER, FRONT
+  MATTER]</strong></p>
+
+
+  Toledo (Inquisicion de) Judaizantes Bergom (Salomon)  
+
+  luego Carlos Bergamo, natural de Mantua, carpintero, resi-  
+
+  dente de Toledo
+
+
+  Delacion espontanea 1792-1793
+
+
+  Lego 137 n. 15
+
+
+  **\[Fol 13r\]**
+
+
+  Pres.da en la Ynq.n de [Tol.do](http://Tol.do) 11 de [Dic.re](http://Dic.re)
+  del 1792
+
+
+  \-Grisa. (Solo)
+
+
+  Sino P.tes D [S.to](http://S.to) Tribunal  
+
+  De inquisicion Al S.on Ynq.or Fiscl
+
+
+  Salomon Bergom de mi primier Nombre e a ora me liamo  
+
+  Carlos Bergamo A p dus: espone che essendo de su nacimento
+
+
+  E creado in Lei del testamento Antigo e che cu algunos agnos che a tenido
+  veredero deseo de
+
+
+  134
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  **\[Fol. 15r\]**
+
+
+  Abbrazare la lei de Gesu cRisto Pero che mese traversava unas Dudias che me
+  impidiaa la esegue\[r\] E Aora che las tiene convencido Supp. Rendidamente.
+  US: che se Dine a dar—ordine conparente Perche mese Batica e
+  Ricicuri\[illegble\] Innel gremio della Santa Eglesia Gracia che spera di
+  Ricivir de la Pieta de US
+
+
+  Toledo 1792 a 9 .10—ebre ApD us
+
+
+  Salamon Bergom natural de mantuua in italia
+
+
+  Present.da en 19 de [dic.re](http://dic.re) de 1792 + Por presentda y pone Con
+  sus antectes al sr Fiscl
+
+
+  En el sto Oficio de la Ynqon de la Ciu.d de Toledo diez y ocho dias del mes de
+  Dici- Embre de mil setecientos noventa y dos, estando en su auda de la mañana
+
+
+  el S.or Ynquisiodor [Lic.do](http://Lic.do) D.n [Fran.co](http://Fran.co) Xa-
+  vier Ersua (q.e asiste solo) entro el porte- ro de camara y estraos \[?\] de
+  dho [S.to](http://S.to) Ofic.o e hizo presete q.e en la Porteria de tri-  
+
+  bun.l havia un hombre q.e pedia Au- diencia; y haviendo sido mandado en-  
+
+  trar dho. señor Ynq.or le recivio Jura-  
+
+  [m.to](http://m.to) en forma de decir berdad en todo lo que supiere y le fuere
+  preguntado, y  
+
+  con el se tratare
+
+
+  Preguntado como se llama, de donde es natural, que edad y oficio tiene,
+  quienes  
+
+  son sus padres o quienes fueron, y donde residen, o murieron, y que Religion
+  pro-
+
+
+  135
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  fesaron.  
+
+  Dixo: Que se llama Salomon Ber-
+
+
+  **\[Fol. 15v\]**
+
+
+  Bergom, nat.l de la ciud.d de Mantua en la Lombardia de Ytalia de quarenta y
+  cinco años de edad poco mas o menos, oficio car- pintero hacer bombas; que su
+  Padre se llamo Abraam Bergom; y su Madre Ni-
+
+
+  col ignora su apellido, q.e residieron en la dha ciu.d de Mantua, que el dho
+  su Padre  
+
+  ha oido decir ha muerto, su madre lo ig- nora: Y q.e le parece profesaron la
+  religion Mosayca, en laq.e le criaron hasta la ed.d  
+
+  de nueve años en la q.e se huyo de su casa  
+
+  en la compañia de un cavallero Ginebri-  
+
+  no llamado D.n Pedro ignora su Apellido, con q.n paso a Viena y otras partes
+  de este Ynperio, y estubo en su comp.a p.r espacio de cinco años desde donde
+  paso a Milan en donde estubo como tres o quatro años aprendiendo oficio, de
+  alli a Roma en
+
+
+  donde estubo tres años poco mas o menos, desde Roma paso a Florentin de
+  campaña, en cuya ciu.d estubo como unos dos añ s . desde Florentin bolbio a
+  Milan endonde estubo como año y medio, de Milan
+
+
+  paso a turin en donde permanecio como año y medio, de Turin bolbio a
+
+
+  **\[Fol. 16r\]**
+
+
+  Biena y estubo un año; desde Biena paso  
+
+  a Parma donde permanecio como año y medio; desde Parma bino a Marsella  
+
+  en Francia , y de Marsella paso a Lan-  
+
+  guedoc; el primero Ciu.d y segundo Puerto  
+
+  de Mar tanb.n en Francia en cuyos Pue-  
+
+  blos estubo como año y medio; que de Languedoc bino a la Corte de Madrid,  
+
+  en donde y sitios R.s de la Granja, y Es-
+
+
+  136
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  corial estuvo como quatro años ; que de dha corte y sitios, paso al
+  [R.no](http://R.no) de  
+
+  Galicia en donde estuvo como unos diez años en las ciudades de Santiago,
+  Coruña y Lugo; que despues paso al [R.no](http://R.no) de Portugal en donde
+  paso como un año en las ciudades de Oporto, y Lisboa, qe de aqui bolbio a
+  Madrid e donde estu- bo como quatro años, y bino a esta ciud.d de Toledo el
+  dia Santiago el Mayor
+
+
+  de este presente año.  
+
+  [Preg.do](http://Preg.do) si es christiano bautizado, q.n
+
+
+  Le bautizo, en qe. lugar, con q.e Materia, Y en q.e forma; si asistieron
+  Padrinos,  
+
+  Y q.nes fueron; y si la forma de q.e en su
+
+
+  **\[Fol. 16v\]**
+
+
+  bautismo usò el Ministro es la misma con q.e a costumbran Bautizar en aq.l
+  pais.
+
+
+  Dixo que no es Chrsitiano bauti-  
+
+  Zado porq.e sus padres le criaron como lleba dicho en la ley de Moyses en la
+  q.l se ha man tenido hasta de presente.
+
+
+  [Preg.do](http://Preg.do) que es loq.e ha creido en la Re- lig.n q.e ha
+  seguido; y si en aquel Pais enqe se crio se enseña o sigue la misma, o
+  diferen tes y quales.
+
+
+  Dixo: Que creyo los diez Mandam.tos como se enseña en la de Moyses q.e es la
+  q.e via seguido y tenido hasta de presente;  
+
+  Yq.e en aquel pais se sigue la Religion Chris- tiana excepto en el barrio de
+  Elpuet \[?\] en
+
+
+  la sobredha ciu.d de Mantua, qe. se sigue ladeMosesqe eslaqe ha  
+
+  seguido y tenido hasta de presente;  
+
+  y q.e en aquel Pais se sigue la Religion Chris- tiana, excepto en el Barrio de
+  Elpuet \[?\] en
+
+
+  la sobredha ciu.d de Mantua, qe se sigue la de Moyses, y se circuncidan segun
+  ella como lo esta tamb.n el declarante.
+
+
+  137
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  [Preg.do](http://Preg.do) (que supuesto lleba dho q.e ha sido Criado, y hasta
+  de presente ha seguido la ley De Moyses) exprese qual es la q.e quiere se-
+  Guir en lo subsesivo y en la q.e quiere vivir Y morir.
+
+
+  Dixo: Que quiere abrazar, seguir,  
+
+  Y morir en la Religion catholica, Apostolica Romana
+
+
+  [Preg.do](http://Preg.do) que causa o
+
+
+  **\[Fol. 17r\]**
+
+
+  motibo tiene y ha tenido p.a querer apartar-  
+
+  se de la Ley de Moyses y sus herrores q.e hasta aqui ha tenido y seguido, y
+  querer seguir  
+
+  y profesar la S.ta Fe catholica de Nra. S.ta Madre la Yglesia Romana.
+
+
+  Dixo: que el motibo q.e ha tenido es  
+
+  Porq.e haviendo oido en algunas conversaciones de hombres instruidos q.e
+  aunq.e Jusuchristo pudo con una sola gota de sangre redimir  
+
+  a todo el Mundo, quiso pr su ynfinita bondad padecer muchos travajos en su
+  vida, pa-  
+
+  sion y muerte p.a todo el genero humano  
+
+  pa el mayor exemplo y probecho de todo el,  
+
+  y porq ha considerado barias beces, q.e en Religion de Moyses esta aborrecida
+  en todas partes, Y q.e con estas razones ha creido lo  
+
+  q.e enseña la Religion Catholica q.e es q.e Dios se hizo hombre en las
+  purisimas entrañas  
+
+  de Maria Santissima, nacio y padecio  
+
+  muerte y Pasion pr redimir al genero hu  
+
+  mano; lo q.e pudo hacer e hizo p.r su omni- potencia; y q.e asi quiere
+  detestar y detes-  
+
+  ta el herror de los Judios, q.e niep\[illegible\]  
+
+  ven venido el verdadero Mesias. q.e  
+
+  es Jesuchristo; Dios y hombre verdadero.
+
+
+  **\[Fol. 17v\]**
+
+
+  Y q.e destesta qualquiera \[illegible\]os errores de dha Secta, como
+  consiguiente al de no creer  
+
+  los Judios q.e haya venido el Mesias
+
+
+  138
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  verdadero a redimir el genero huma
+
+
+  no.  
+
+  [Preg.do](http://Preg.do) si en algun tiempo y qual siguio,
+
+
+  y profeso Nra Sta Fe y Religion Catholi-  
+
+  ca Romana; y despues apostato de ella,  
+
+  que motibo tuvo pa apostatar; y qunto ti- empo tuvo los dhos herrores; y si en
+  algun tiempo ha sido instruido en nra S.ta fe Ca- tholica y Religion Romana pr
+  alguna persona, y quien fue el qe le explico y ense- ñò los Misterios, y
+  articus de nra S.ta
+
+
+  Fè.  
+
+  Dixo: Que en ningun tiempo ha seguido,
+
+
+  ni profesado nra S.ta Fe Catholic Roma- na; y q.e p.r tanto no ha apostatado
+  de ella, y toda su vida ha tenido y seguido la  
+
+  Ley de los Judios: Y q.e no ha sido instrui do p.r persona alguna
+  particularm.te en  
+
+  nra S.ta Fe y Religion Catholica , y qe solam.te alguns conversaciones
+  particu- lares, y sermones q.e ha oido le han dado alguna luz e instrucc.on
+  p.r conocer
+
+
+  **\[Fol. 18r\]**
+
+
+  la verdad de nra S.ta fe catholica Roma- a y la falsedad de la de los Judios;
+  y q.e p.ano ser conocido de qe profesaba la dha ley de los Judios, ha
+  procurado ocultar su profesion especialm.te en el tiempo del
+  [cumplim.to](http://cumplim.to) Pasqual, en el qe o com- praba la cedula de
+  haver cumplido ,
+
+
+  o se mudaba de Posada , y Parroq.a [Preg.do](http://Preg.do) si save q.
+  algunas Personas
+
+
+  residentes en España sepan, y profesen  
+
+  los dichos errores, u otros semejantes  
+
+  a ellos, y opuestos a nra. Fe Catholica,  
+
+  no siendo de aquellos Reynos, y Naciones, a quienes esta permitido p.r causa
+  del co- mercio, y con ciertas comiciones el
+
+
+  residir en España; o si save q.e algunos,
+
+
+  139
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  o algunos de estos q.e estan permitidos en estos Reynos haya faltado a los
+  pactos  
+
+  y condiciones conq.e se les permite su resi- dencia, y causado con sus dhos o
+  hechos algun escandalo a los fieles Catholi-
+
+
+  cos Romanos.  
+
+  Dixo: que no save q.e alguna
+
+
+  persona resid.te en estos Reynos de España siga, ni profese la ley de los
+  Judios y sus errores, ni otros semejantes a ellos y opues-
+
+
+  **\[Fol. 18v\]**
+
+
+  opuestos a nra S.ta Fe y q.e tampoco tiene noticia de q.e hayan reñido y dado
+  escanda lo los fieles catholicos Romanos con sus dichos y hechos.
+
+
+  [Preg.do](http://Preg.do) que motibo tiene p.a decir y ase- Verar q.e ha sido
+  circuncdado =, y no bauti- Zado.
+
+
+  Dixo: que como nacio de padres He- breos en cuya compañia vibio hasta la edad
+  de nuebe años, y estos no se bautizan ni bautizan a sus hijos asi puede ase-
+  gurar q.e no esta bautizado; y porq.e des- pues q.e salio de la potestad de
+  sus Padres tampoco se ha bautizado; y en confir- macion de lo referido dice
+  q.e oyo decir  
+
+  a sus padres varias veces q.e estaba cir- cuncidado solam.te Y haviendosele
+  leydo esta su declaracion q.e tiene hecha en pre- sencia del dho
+  [S.to](http://S.to) Ynquisidor.
+
+
+  Dixo: q.e estaba bien escrito segun  
+
+  El lo havia declarado ; y q.e solo tiene q. aña- Dir q.e desde q.e bino a
+  España y residio  
+
+  En la Corte de Madrid travaxo en ella  
+
+  con D.n Joseph Lopez evanista del Rey  
+
+  nro. Señor, q.e vibe en la calle del Horno  
+
+  de la Mata; y q.e en los diez años q.e
+
+
+  **\[Fol. 19r\]**
+
+
+  140
+
+
+  EMW -Workshops
+
+
+  EMW 2012
+
+
+  residio en Galicia como lleba dicho lo mas del tiempo travaxo p.a la cuenta, y
+  q.e no se acuerda de los sujetos p.a cuya cuenta travaxo algun poco de tiempo;
+  y q.e desde q.e vino a esta ciu.d ha trabajado en
+
+
+  las casas de [Bern.do](http://Bern.do) Albarez, q.e vibe  
+
+  a la Plazuela de la Roperia vieja; y en  
+
+  la de Yetro Cat de Nacion Frances, q.e  
+
+  vibe en la calle de la obra prima, y  
+
+  ambos evanistas y Carpinteros; y que  
+
+  asi es la verdad bajo [juram.to](http://juram.to) q.e tie-  
+
+  ne fho. En q.e se afirma y ratifica, y  
+
+  lo firmo de su puño de q.e yo el yn\[illegible\]i- to secretario certifico
+
+
+  \[Signatures: Salamon Bergom  
+
+  D.r D.n Mn.l de Quevedo (Guevara?) Bustamte\]
 ---
 <h2 style="text-align: center">Introduction</h2>
 
