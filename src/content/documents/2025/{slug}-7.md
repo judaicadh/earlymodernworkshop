@@ -98,6 +98,73 @@ original_language_body: >-
 
 
   <h2 style="text-align: center">Source 3 Original</h2>
+
+
+  **Pinkas Pisa —Volume 1. CAHJP, Film  HM 887, fol. 18v**
+
+
+  ב״ה
+
+
+  \[niduy sobre o queijo\]
+
+
+  en pisa a di 16 de Julio 5366
+
+
+  estando juntos os s\[enho\]res do maamad e aconpanhados e o s\[enh\]or hahaõ
+  semuel hajes conprimento a des ordenaraõ vendo o pecado taõ grande que ay no
+  comer do queijo naõ feito por maõ de judeu e poinas e leite \[?\] foraõ de
+  acordo e foy balotado e sahiraõ todas de sy que novam\[en\]te dexando a pena
+  que merese o que tal comer por pasar o mando dos nosos sabios de boa
+  memoria—mandaraõ ditos s\[enho\]res que se ponga pena de niduy con todas suas
+  forsas e se publique o primero dia de sefer tora para que dipois de poblicado
+  todo o que pasar pelo dito niduy avendo testigos supitam\[en\]te sera
+  poblicado por menude e se usara con ele con todas as ordeis que tem o menude.
+  E se o comer encubertam\[en\]te o niduy entre en sus guesos \[=huesos\] para
+  que seja movido y es movido y jaza em ele toda la maldisaõ la escrita en libro
+  dela ley la esta e ansy mandaraõ e ordenaraõ oje dito dia e mes e ano ariba
+  dito vesalom al apeturim y eu david abenine sofer ho escrevy por mandado dos
+  ditos senhores David Abenine, 
+
+
+  abrão Fraqo Velho, 
+
+
+  samuel boguati, 
+
+
+  david Mont\[esin\]os,
+
+
+  abram framco, 
+
+
+  mose sullama.
+
+
+  \[tirado ditto niduy do queijo\]
+
+
+  em 18 de tisri 5368
+
+
+  estando presentes os senhores do maamad e a maior parte deste caal cados e
+  entre eles o hahaõ semuel hajes foy balotado se a pena de niduy asima feita
+  sobre o quejo se se tiraria o naõ e foy balotada dita parte e sahiu 18 balotas
+  de si que se tirasse dito niduy e des que naõ se tirasse e por a qual resaõ
+  visto o caal se contentar e ser balotato se tira dito niduy e fica para se
+  oservar como de antes de por dita pena y eu david abenine sofer ho escrevy. -
+  david Abenine
+
+
+  Abram Montesinos, 
+
+
+  Abraham Munhaõ
+
+
+  Moseh Israel.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
