@@ -12,6 +12,47 @@ language:
   - Portuguese
 publication_location:
   - Pisa
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2>
+
+
+  **Pinkas Pisa —Volume 1. CAHJP, Film  HM 887, fol. 85v.**
+
+
+  En pisa adi 32 del Homer 5376 anos -
+
+
+  Sendo juntos los senores del maamad y juntamente o senor Hahan hazariah pigo y
+  acompanados a cumplimento de diez Hordenaron que ninhu judeo de qualquer
+  calidade y **condicion** que sea possa tomar para ssi nem para outrem nen
+  mandar tomar ninhu\[n\] modo de carne en ninhuã Carneseria nen outra alguã
+  parte fora da nosa carneçeria tanto que a conhesea por cazer como que a naõ
+  conheza nen en compania de pesoa que sagit nen en sua ausençia eceto cabeça
+  coretelas ou qualquer outro modo demeudo que no paga o quattrin da sedacah y
+  todo este meudo se entende de carne cazer soto pena de qualquer pesoa que
+  tomar dita carne fora da nosa carneceria como ariba por qualquer via jmaginada
+  que sea desde agora encorra en pena de Herem niduj e semata. Y na mezma pena
+  encorra quen vir que qualquer judeu que toma carne como arriba e naõ vier
+  manifestar dentro de dos dias pa\[r\]a o publicar por Hermado o qual sendo
+  noto aos s\[enho\]res do maamad sejan obligados a o publicar e nenhu\[n\]
+  judeu posa ter negoçio comerçio ni comunicaçan con ele o que tudo dito \[!\]
+  senores mandaron y hordenaron afin que nenhuã pessoa posa encorer en hiero de
+  comer carne trefe por cazer y outros enconvinientes que nisto poden aconteser
+  e tambem p\[ar\]a que a sedacah no perda cousa nenguã do quatrin da carne que
+  se cobrar por sua horden e por outros respeitos considerados por ditos señores
+  y ansi mas hordenaron soto la misma peña que ningu\[n\] bodeque ni otra
+  persona faça guardar ni guarde carne fora da carneçeria porque ninguno se posa
+  quexar e por evitar escandalos e pesadumbres que daqui poden resultar e
+  mandaron que se publique en la teva desta santa escola en dia de sepher
+  p\[ar\]a que venha a notiçia de todos juntamente se lea y publique con las
+  otras escamos ansi lo probieron e mandaron e o firmaron de seus nomes en pisa
+  et supla - Hahan Azariel \[!\] Picho - ishac coen, tobias do campo - Jacob
+  gabay, Abrahan de lucena, Rafael moreno, Rafael valensi, daniel ferro, daniel
+  salon, jacob machorro.
+
+
+  <h2 style="text-align: center">Source 2 Original</h2><h2 style="text-align:
+  center">Source 3 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -144,4 +185,4 @@ Moseh Israel 
 
 \[^4\] I.e., either the first Monday or Thursday following the decision.
 
-\[^5\] Equivalent to Oct. 9, 1607 in the Florentine and Roman calendars, and to  1609 in the Pisan.
+\[^5\] Equivalent to Oct. 9, 1607 in the Florentine and Roman calendars, and to 1609 in the Pisan.
