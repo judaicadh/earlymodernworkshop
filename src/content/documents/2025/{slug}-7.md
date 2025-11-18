@@ -97,3 +97,51 @@ Abram Salom Josef Crispin
 \[^4\] Hebrew: quorum. For ritual purposes, Jewish tradition required ten males.
 
 \[^5\] This is quite unusual language for the _pinkas_ and may relate back to the standard ending inserted to confirming the authenticity Hebrew legal documents: והכל שריר וקיים. As to the legal question of interpreting the intent of unclear community regulations, see for example Joseph Goldberg, _Tovei ha-Ir_ (Jerusalem: 1999/2000) or Israel Schepansky, _The Takkanot of Israel_ (Jerusalem: Mossad Harav Kook, 1993), IV: _Communal Ordinances,_ chapter 1.
+
+<h2 style="text-align: center">Source 3 Translation</h2>
+
+**Pinkas Pisa —Volume 1. CAHJP, Film HM 887, fol. 18v** 
+
+\[Cheese Not Prepared by Jews\]
+
+B”H\[^1\]
+
+In Pisa, \[Sunday,\] 16 July, 5366.\[^2\]
+
+The members of the _ma'amad_ \[council\] together with the accompanying members being gathered and Master Haham\[^3\] Semuel Chajes totaling ten, order:
+
+Seeing the so great sin which is incurred in eating cheese not made by the hand of a Jew as well as \[_poinas_ _e leito_\], they were in agreement and the vote was taken and it came out unanimously in favor. Then \[?\] they discussed the penalty that such eating deserved for contravening the words of our Sages of blessed memory. The said officials ordered that the punishment of excommunication \[_niduy_\] with all of its severity be imposed, and that this be publicized on the first day on which the Scroll of the Law \[is taken out to be read in the synagogue\] \[^4\] so that after the publication, anyone who transgresses that _niduy,_ there being witnesses, shall be immediately publicly declared as _menude._ All the measures applied to the _menude_ should be applied to him. And if he eats covertly the ban will enter his bones since he would be motivated and is motivated. All of the curses written in the book of the Law apply to him. Thus they order and rule today, the said day and month and year mentioned above, _ve-shalom al ha-peturim_ \[and peace be upon the innocent\]. And I, David Abenine, _sofer,_ have written by order of the said officials. David Abenine.
+
+Abrão Fraqo Velho
+
+Sanuel Boguati
+
+David Mont\[esin\]os
+
+Abram Framco
+
+Mose Sullama
+
+\[The said _niduy_ regarding cheese is withdrawn\]
+
+On 18 Tishre, 5368\[^5\]
+
+The members of the _ma’amad_ being present, as well as the greater part of this Holy Congregation, and among them the Haham Semuel Hajes, it was voted on whether the punishment of _niduy_ imposed above concerning cheese should, or should not, be lifted. The vote was taken. The results were 18 votes that it should be lifted and 10 that it not be lifted. For that reason, noting that the _kahal_ was content and voted, the said _niduy_ is removed_,_ and it remains to be observed as before the imposition of that punishment. 
+
+And I, David Abenine, _sofer,_ have written. David Abenine.
+
+Abram Montesinos
+
+Abraham Munhão
+
+Moseh Israel 
+
+\[^1\] Standard invocation in Hebrew characters variously read as _be-ezrat ha-shem_ (with the help of God) or _be-shem ha-shem_ (in the name of God).
+
+\[^2\] Equivalent to 1606 in the Florentine and Roman calendars, and to 1607 in the Pisan.
+
+\[^3\] Hebrew: scholar, a term used in Sephardic communities as an honorific and as a term for communal rabbi.
+
+\[^4\] I.e., either the first Monday or Thursday following the decision.
+
+\[^5\] Equivalent to Oct. 9, 1607 in the Florentine and Roman calendars, and to  1609 in the Pisan.
