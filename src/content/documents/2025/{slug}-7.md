@@ -65,3 +65,35 @@ They sign their names in Pisa.
 Haham Azariel \[!\] Picho. Ishac Coen. Tobias do Campo. Jacob Gabay. Abraham de Lucena. Rafael Moreno. Rafael Valensi. Daniel Ferro. Daniel Salon. Jacob Machorro.
 
 \[^1\] Hebrew: scholar, a term used in Sephardic communities as an honorific and as a term for communal rabbi.
+
+<h2 style="text-align: center">Source 2 Translation</h2>
+
+Pinkas Pisa, Volume 1. Ben-Zvi Institute, MS 4009, fol. 34v.\[^1\] 
+
+\[Patronizing Non-Jewish Taverns; Drinking Non-Jews’ Wine\]
+
+In the name of God, Pisa, 19 of the month of Shevat of the year 5373, February 10, 1612 according to the Florentine calendar.\[^2\]
+
+The members of the _ma'amad_ \[council\] together with the accompanying members together with the Haham \[^3\] Azaria Picho to the number of a _minyan,_\[^4\] all signed below.
+
+They have observed the waste and great scandals that occur and are created in many ways by Jews going to eat and drink in the taverns and houses of _goyim_ \[Hebrew: gentiles\]. They \[therefore\] order and command that from today forward, no Jew, whether adult or a minor, whether married or single, or a woman, whether a Jew with _goyim,_ or a Jew with another Jew,  or a Jew alone, under pain of _nidui, herem_ and _shmata_ \[categories of excommunication\], and a fine of ten ducats, half for the redemption of Jewish slaves \[or: captives\] of His Most Serene Highness \[the Grand Duke of Tuscany\] and the other half  to be applied to the _sedaca_ \[charity fund\] of this _escola_ \[community\] for each time they do the opposite. If there are two Jews together or more who do this and one should quickly accuse the other, the accuser is absolved. Any Jew who sees or has knowledge, and any Jew or Jewess who has gone to such places for these reasons \[_efeitos—_literally, effects\], is obligated within twenty-four hours to come \[_villo_\] to inform the members of the _maamad_ then in office, and those officials have the duty to act on it. It is declared that any Jew can freely try the said wine for the sole purpose of carrying it back to their house. And it is declared that any person who is or goes on the road may eat and drink in those non-local \[_de fora_\] hostelries, although they may not leave the city for that purpose to eat and drink in those hostelries, under the above-mentioned penalty. All of this is to be observed correctly and truthfully, without being able to sanction any of the above through any deception or trick. If any word should be missing or be extra \[_soubejar_\] in this _haskama_ \[ruling\] all shall be understood as strengthening and enlarging this _haskama_ \[^5\]. Thus did they approve and order and they signed their names. And I, David Abenine, _sofer_ \[scribe\], have written at the command of the said Officers on that day and year. 
+
+Azaria Picho \[Hebrew\] Selomo Zaquto 
+
+Mose Israel Mose Baru\[ch\]
+
+Rafael Coen Fero Jacob Gabay
+
+Semuel Valenci Mose Cavaleiro
+
+Abram Salom Josef Crispin
+
+\[^1\] The text, taken from a few pages of the first Pisan _Pinkas_ which were extracted from the original volume and preserved in the collection of Isaiah Sonne, were eventually preserved in the library of Ben-Zvi Institute in Jerusalem. The text of the original, provided here in Portuguese, is lightly emended from the transcription published by Renzo Toaff, _La Nazione ebrea a Livorno e a Pisa (1591–1700)_ (Firenze: Olschki, 1990), pp. 496–497 after consulting the original, Ben-Zvi Institute MS 4009, fol. 34v.
+
+\[^2\] Equivalent to 1613 in the Pisan and Roman calendars
+
+\[^3\] Hebrew: scholar, a term used in Sephardic communities as an honorific and as a term for communal rabbi.
+
+\[^4\] Hebrew: quorum. For ritual purposes, Jewish tradition required ten males.
+
+\[^5\]
