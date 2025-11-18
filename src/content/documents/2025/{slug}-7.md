@@ -96,4 +96,4 @@ Abram Salom Josef Crispin
 
 \[^4\] Hebrew: quorum. For ritual purposes, Jewish tradition required ten males.
 
-\[^5\]
+\[^5\] This is quite unusual language for the _pinkas_ and may relate back to the standard ending inserted to confirming the authenticity Hebrew legal documents: והכל שריר וקיים. As to the legal question of interpreting the intent of unclear community regulations, see for example Joseph Goldberg, _Tovei ha-Ir_ (Jerusalem: 1999/2000) or Israel Schepansky, _The Takkanot of Israel_ (Jerusalem: Mossad Harav Kook, 1993), IV: _Communal Ordinances,_ chapter 1.
