@@ -51,8 +51,53 @@ original_language_body: >-
   salon, jacob machorro.
 
 
-  <h2 style="text-align: center">Source 2 Original</h2><h2 style="text-align:
-  center">Source 3 Original</h2>
+  <h2 style="text-align: center">Source 2 Original</h2>
+
+
+  Pinkas Pisa, Volume 1. Ben-Zvi Institute, MS 4009, fol. 34v.
+
+
+  \[Patronizing Non-Jewish Taverns; Drinking Non-Jews’ Wine**\]**
+
+
+  En el nome del Dio en Pisa, dia 19 de o mês de Sebat do ano 5373, des de
+  febreiro 1612 al Fiorentino.  
+
+
+  Estando juntos os Senhores do maamad e con eles os Senhores acompanhados
+  juntamente o Senhor hah\[a\]m Azaria Picho a complimento do minhan, todos
+  abaixo asinados, visto por eles os desbarates e grandisimos escândolos que por
+  muitas vias procedem e nasem de yrem os Judeus a comer e bever as ostarias e
+  tavernas e casas de goim, foi por ele ordenado e mandado que de oje em diante
+  em ningun tenpo possa ningun Judeu grande ~e piqueno~, casado o solteiro ~ohu
+  mulher~ ir comer nem bever em ditas ostarias, tavernas e casas de goim, nem
+  Judeu com goim, nem Judeu com oitro Judeu nem Judeu sou, soto pena de niduy
+  herem e sematá e de des ducados, ametade aplicados para o resgate dos escravos
+  Judeus de S.A.S. e a outra ametade aplicados para a sedacá desta escola por
+  cada ves que o fizerem ao contrario, e se forem dois Judeus juntos o mais e o
+  fizerem, acusando logo un deles, ficará o acusador asolto, e soto a dita pena
+  de herem qualquer Judeu que vir ou souber e qualquer Judeu ~ou Judia~ aja jdo
+  a ditos lugares para ditos efeitos, seija oubrigado dentro de vinte e quatro
+  oras villo a manifestar a hos Senhores do maamad que então forem, os quais
+  Senhores terrão cargo de executar, e se declara que qualquer de dittos Judeus
+  podem livremente provar dito vinho para efeito de o traserem para sua caza
+  soumente, e não para outro efeito soto a dita pena, e se declara que qualquer
+  pesoa che for e vier por caminho posa comer e bever nas ostarias de fora com
+  tanto que não posano jr da sidade para este efeito de comer e bever nas ditas
+  ostarias soto a dita pena, e tudo esto se aja de observar con retetudine e
+  verdaderia sem poderem pasar cousa ninhuma do sobredito soto protesto de algum
+  emgano ou de astúcias, e se alguma palavra faltar ou soubejar nesta ascamá,
+  tudo sija em forteficasão y aumento de dita ascamá e assi o provérão e
+  mandárão e o firmárão de seus nomes y eu David Abenine sofer o escrevi por
+  mandado dos ditos Senhores dito dia e ano sudito.
+
+
+  Azaria Picho \[ebr.\], Mose Israel, Rafael Coen Fero, Semuel Valenci, Abram
+  Salom, Selomo Zaquto, Mose Baru\[ch\], Jacob Gabay, Mosse Cavaleiro, Josef
+  Crispin.
+
+
+  <h2 style="text-align: center">Source 3 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
