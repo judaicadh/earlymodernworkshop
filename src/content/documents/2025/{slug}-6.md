@@ -13,6 +13,154 @@ language:
   - Latin and Polish (first source), Latin (second source)
 publication_location:
   - Podzamcze (Lublin) (Source 1), Warsaw (Source 2)
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2>
+
+
+  Polish State Archive in Lublin (APL), Castrensia Lublinensia: relationes,
+  manifestationes et oblatae (CLRMO) 29, 632–633v.
+
+
+  Mandatu\[m\] iudeis a Cap\[i\]t\[ane\]o Lublinen\[si\] 
+
+
+  Comparens p\[ersona\]l\[ite\]r cor\[am\] off\[ici\]o et act\[is\]
+  praesen\[tibus\] Cap\[itanea\]libus in Castro Lublinen\[si\]
+  M\[iniste\]re\[a\]lis G\[e\]ne\[ra\]lis Regni providus Andreas Dąbrowa
+  off\[ici\]o praesen\[ti\] bene not\[us\] cum no\[bili\]bus Stani\[slaw\]o
+  Dobruchowsky et Stani\[slaw\]o Buynowski sibi propter in cuius et evidentius 
+  testem o\[m\]niu\[m\]  adiunct\[um?\] in vim suae verae ac fidellis
+  rell\[ati\]onis per eum ubivis locor\[um\] facien\[s?\] et recognosden\[s?\]
+  palam pub\[li\]ce manifesteque recognovit se l\[ite\]ras introcontent\[um?\]
+  in tribus locis sub castri Lublinen\[si\] publice se (?) et ad debit\[am?\]
+  noticiam  deduxisse easdemque l\[ite\]ras valuis portae civitat\[is\]
+  prox\[im\]ae castro pro se affixas esse Quarum l\[ite\]rarum copiam suae
+  exemplar ad acta praesen\[tia\] porrexit earum r\[ati\]o tenor est talis
+
+
+  Jan Firlei z Dąbrowicze podskarbÿ Coronni i Lubelskÿ Starosta wsem wobecz ÿ
+  każdemu zosobna komu tho wiedzic nalieży a mianowicie Zydom Lubelskiem
+  oznaÿmuię, isz za pilną prozbą a czestem nabieganiem mieszczan Podzameczkich
+  Lubelskich ktorzÿ uczeklÿ sie zlistem do krolie ie\[go\] mośczy skarzęcz się
+  na Zÿdÿ Lubelskie że oni przecziwko przÿwileiom i wolnoscziąm ich nad prawo
+  pospolite ÿ nadzwyczaÿe insich miast ważą sie chlieba piekacz gorzalki palacz
+  miody ÿ piwa w domach swich warzicz albo tesz the rzeczÿ skadinad kupiwsÿ oni
+  w domach swich ÿ na rinku przedawacz ÿ senkowacz ku wielkiemu ubliżeniu ÿ uÿmi
+  zewnosczy thich tho miescząn Podząmeczkich za którą ich skargą kroł Jego Mości
+  dasz raczil do mnie mandat swoÿ abÿm o nich w teÿ mierze bronil i ÿ Zidÿ od
+  tego chamował Będącz zasię z drugie ÿ strony od Zidow często prosonÿ abÿm
+  przywileie ich potwierdzil ÿ przy nich o ne zachował nie chczac zadneÿ stronie
+  praeiudicium jakie\[g\]o uczinicz chcialem pierweÿ przÿwileie obudwu stron
+  widziecz ÿ one uwazicz czo w sobie maią ÿ iako ktore sprawem pospolitem
+  zgadzaią się ÿ ieslÿ ktora strona tak przÿwileiom bÿla urzewaniu a tho dlia
+  teÿ przÿciwnÿ abÿm mogl lepiey wiedziecz iakobÿm sie wteÿ obronie
+  podząmeczkich miescząn ÿ exequutieÿ zachowacz miał do czego liudzÿ niektorich
+  bacznich Slacheczkiego stanie przÿzwalem a mianowiczie Ich mo\[s\]czy Pana
+  Stanislawa Melgiewskiego podsedka Lubelskiego Pana Piotra Strzebosza ÿ Pana
+  Marczina Sarneczkeigo Sendziego Zidowskiego przestrzegaiącz ÿ thego osobliwie
+  zwiemÿ abÿ zwierschnosczÿ iego mosczy Pana Woiewodÿ Lubelskiego nad Zidamÿ
+  steÿ miarÿ niezdalo sie praeiudicam iakie odem nie dziacz w tym Thedÿ
+  rozbieraniu ÿ uwazaniu przywileiow obudwu stron pierwszÿ wzgladnich na prawo
+  pospolite ktore iasnie tho w sobie ma isz Zidzÿ nie mogą wseliakÿmÿ towarÿ
+  kupczicz dlia odwizez Pewnosczÿ miesczanom ktore prawo constituczianÿ
+  poslednieÿ semÿ declarowane iest tak abÿ Zidzÿ mimo pakta ktore z miaski maią
+  kupiecztwa miesczanom nie odeÿmowaly anÿ sie im  bawilÿ a mianowicie karczem
+  zakazano ÿm brzÿmacz ÿ solą kupczic skad sie tho znaczÿ isz ieslÿ ktorego
+  kupiecztwa thedy ossobliwie sinkow ÿ gothowania dlia chrzesciąn tich rzeczÿ
+  ktore do iedzenia ÿ piczie i iakzą prawo iczu pospolite browÿ czo thesz ÿ
+  wewsitkich miesckich Coronÿ Polskieÿ zaskownie sie isz się Zÿdzÿ przedawaniem
+  takich rzeczÿ niebawią Potym przÿpatrzalem sie przÿwileiom ich, ktore
+  aczkolwiek obieszawanie ziwnosczÿ ÿ ukizanie ieÿ miedzy sobą im pozwalaią
+  wsali ze the\[g\]o nie maią wÿraznie abÿ moglÿ senkawÿ pospolitewÿ się bawicz
+  o chlebie iednak ÿ o gorzalcze nicz the przÿwileie mianowiczie w sobie nie
+  maią ÿ owsem ieden decreth komisarskÿ ktory miedzÿ niemÿ a miesczanÿ
+  Lubelskiemy in contuma\[cia\]m urosl na ktorÿm sie onÿ na barzieÿ sedzą
+  aczkolwiek iem dopuscza kupowania ÿ przedawania civien\[sibus\] liquorem wsali
+  ze thego doklada isz tho miedzy niemy samemy bidz ma ÿ zewnosczy nie ÿnsem
+  ludziom przedawacz iam  dopuście tilko Zidom ktorich przÿwileiów onÿ iednak
+  nie bÿli wazewaniu albowiem zaden Zid browaru w domu swÿm do tego czasu nie ma
+  gorzalkÿ zasz przepalanie do nich od kilku dopiero lath we sto bÿm sposobem
+  isz  Zidzi arendarzamÿ takich proventow od zamku biwaiącz onÿm tego nie
+  zabrąnialÿ chlieba tes iako ÿ onÿ samÿ wiznawaią  na przedawanie pospolite
+  niepiekają przywileje zasz miesczanie podzametczÿ takie ukazaly u ktorik
+  Je\[g\]o M\[o\]scz\[i\] krół prawo Maÿdeburskie onem  dawsÿ wseliakich
+  kupiecztw ÿ rzemiesz onÿm dopuscicz raczil ÿ we wsitkiem zdrugïemy miasti
+  koronnÿ Polskyei niektore onera ktore zamkowÿ naliezą na nie włoziwsÿ zrownał
+  czo thes y na miesczanach miasta Lubelskie\[g\]o gdÿ iem theÿ wolnosczÿ
+  uziwacz niedopuscili przesz dekreth ex controversia vigralÿ Thÿm thedÿ rzeczom
+  wsitkÿm przypatrziwsy sie ÿ uwarziwszÿ u siebie dobrze isz takie senkÿ ÿ prawu
+  pospolitemu ÿ przÿstoÿnosczÿ chrzesczianskieÿ przecziwnoscy ÿ wielką uÿmą ÿ
+  odieczie zewnosczÿ miesczanom podzameczkiem ucziniliby ktorzÿ thu tilko
+  warzewem piwa a paleniem gorzalkÿ zewnoscz swą nawieczey opatruczą przÿwodzacz
+  do exequuczieÿ prawo pospolite ÿ mandat krolia Je\[g\]o M\[o\]sczy oznaÿmnie
+  tho Zidem wsitkiem Lubelskiem ÿ napominąm themu ninieÿsym  pisaniem moiem abÿ
+  sie niewalslÿ  browarow smikniey  \[nie\] warzicz anÿ wsutakich trunków w
+  domach sub\[urbio Lublinensi\] senkowacz takzeby sie mowazily u domach swich
+  gorzalkÿ palcz zwycpalą (palcz) anÿ ieÿ kupowacz skad uradna sich  takze abÿ
+  sie nie machili  chlebów piekacz na przedawanie chrzesczianom gdis tho
+  piekarzom nalezÿ w by iednak zewnoscz ich samich nie zatrudniala sa thedÿ tego
+  się ich pozwale abÿ miod na swą potrzebę domową sobie sicziz ÿ warzicz mogli
+  gdis onÿ stronÿ warzenia miodu czerwonÿ swich przestrzegaią a w sakze go
+  nikomu insemu iedno swÿm Zidom przedawacz maią takzeÿ wino ktore samÿ Zidowie
+  sprawiaią miedzy sobą senkowacz mogą 
+
+
+  Czo sa bicze chleba piwa ÿ gorzalky thÿm sposobą iako ÿ w drogich glownich
+  miesckich potrzebÿ swe opetrowacz maią zebÿ tich rzeczy od chrzescziąn
+  dostawaly ÿ kupowaly mogą iednak miecz pewne ludzie miedzÿ sobą ktorzibÿ od
+  miesczan podzameczkich anis  od zadnich ludzy obczich piwo beczkanÿ gorzalkę
+  kwarthamy albo garczamÿ kupowaly a zas Zidom tilko a nie chrzesczianinom
+  miarami przedawaly w sakze tham nie karczma iaka anÿ dom senkowÿ bidz ma abi
+  tilko Zidowie piwo i gorzalkę maią sobie bracz do domow swich wczÿm wsitkiem
+  abÿ sie przerzedzeni Zidowie pilnie zachowaly na powinąm ÿ przestrzegam pod
+  ubeczeniem wysitkich tich rzeczy ktorich sie Zidowie nad tho zakazanie
+  przedawacz ÿ senkowacz wiczli 
+
+
+  Dat\[um\] na ząmku Lubelskiem Dnia XXIIII Miescącza maia Roku panskie\[g\]o
+  M.D.XCIIII
+
+
+  <h2 style="text-align: center">Source 2 Original</h2>
+
+
+  APL, Akta Miasta Lublina 178, 4.  
+
+  Appears in Jan Riabinin, _Materiały do historii miasta Lublina, 1317-1792_,
+  (1938), no. 369.
+
+
+  SIGISMUNDIS III Dei gratia etc. etc. Significamus praesentis literis Nostris
+  quorum interest Universis et Singulis. 
+
+
+  Citatos fuisse ad Nos Judiciumque Nostrum literis Citationis Nostrae Perfidos
+  et Infideles Seniores totamque Co\[mmun\]itatem Judaeorum Lublinen\[sium\] in
+  Suburbio Castrensi Lublinen\[si\] habitantes de bonis illorum omnibus Ad
+  Instantiam Famatorum Advocati Scabinorum, totiusque Communitatis in Subcastro
+  Lublinensi degentium propterea. Quia illi in Contrarium Decreti Nostri inter
+  easdem partes prolati omnes liquores tam mulsi quam Cerevisiae, vini adusti et
+  omnis generis liquores nedum coquere, Verum et hominibus Christianis ultra
+  praescriptum eiusdem Decreti Nostri propinare non desinunt, in gra\[ve
+  dam\]num et praeiudicium eorundem Actorum prout Citatio praefata tax\[at\]am
+  Decem Millium Marcarum in se continens latius de praemissis  testatur. In
+  Termine itaque hodierno ex eadem Citatione incidenti et hucusque continuatis
+  Partibus Actorea \[sic\] per Nobilem Nicolaum Wytkowski, Citata Vero  per
+  Honoratum Joannem Grad Plenipotentes suos coram Judicio Nostro comparentibus
+  eumque Terminum attentantibus. Et Actorea ex sua Citationes inciden\[tes\] ac
+  hucusque  continuate Citatione propinen\[tis\] Citata vero’ sibi forum in
+  Juditio Nostro competens non esse allega\[n\]ti. Nos  cum Consiliariis et
+  Juris partes Nostris eo attento, quod tota Communitas, contra Decretum
+  praefatum in conficiendis potabilibus peccare non potest siquidem hoc privati
+  facere solent. Ideo Causa huic forum competens, ad praesens coram Juditio
+  Nostro non esse adinvenimus, decernimusque eosdem Citatos, et quemlibet eorum
+  in foro competenti esse conveniendos praesentis Decreti Nostri vigore
+  mediante.
+
+
+  In cuius rei fidem sigillam Nostrum praesentibus est appressum Dati Varsaviae
+  Feria Sexta post Festum Sancti Joannis Baptistae proxima. Anno Domini
+  Millesimo Quingentissimo Nonagen\[s\]imo Sexto…
 ---
 <h2 style="text-align: center">Introduction</h2>
 
