@@ -6,6 +6,9 @@ institution: Goethe-Universität, Frankfurt
 volume: 10
 year: "2013"
 slug: eschatological-avengers-messianic-saviors
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Jews and Violence in the Early Modern Period
 language:
   - "German (Source 1) "
   - Yiddish (Source 2)
