@@ -638,10 +638,16 @@ skull and beard
 
 were cloven by swords.
 
-Ah, Venus, thou Empress,  
-I mean you, praiseworthy Dame of Love, stand by your servants  
-and free them of all care!  
-Her answer: “Friend Wolfram,  
+Ah, Venus, thou Empress,
+
+I mean you, praiseworthy Dame of Love,
+
+stand by your servants
+
+and free them of all care!
+
+Her answer: “Friend Wolfram,
+
 I do not abandon my servants.”
 
 Ajax the mighty prince,
