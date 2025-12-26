@@ -487,12 +487,11 @@ original_language_body: >-
   \[^3\] .דאז קליין יודליין צו דרימר צו הויאן :Printing Fürth 1694, fol. 5a
 
 
-  \[^4\] Print edition from Fürth 1694, fol. 5a: In order to pound the little
-  \[Red\] Jew to pieces.
+  \[^4\] אונ' ער קנעטיט דיא בּרעקליך גלייך אז ווען איינר איין :Printing Fürth
+  1694, fol. 5b
 
 
-  \[^5\] Print edition from Fürth 1694, fol. 5b: The \[Red Jew\] kneaded the
-  fragments as if they were dough.
+  .טייג קנעטין טוט
 ---
 <h2 style="text-align: center">Introduction</h2>
 
