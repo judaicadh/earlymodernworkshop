@@ -105,11 +105,18 @@ but He who had often saved him, provided estimable solace.
 
 It had to be and must come to pass: the noble knights, the best there were,
 
-armed themselves for battle;  
-but they certainly had never  
-before been in such distress.  
-Right up to their grim deaths  
-they were attacked  
-by many faithless men  
-who despised the lords,  
+armed themselves for battle;
+
+but they certainly had never
+
+before been in such distress.
+
+Right up to their grim deaths
+
+they were attacked
+
+by many faithless men
+
+who despised the lords,
+
 they themselves knew why.
