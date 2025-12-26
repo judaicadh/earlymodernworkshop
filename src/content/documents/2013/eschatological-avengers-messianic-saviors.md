@@ -30,6 +30,80 @@ description: The vernacular legend of the Red Jews allows us to explore the
   actions – runs deep in European and Jewish cultural history as a counter-image
   to the gentile ideal of muscular and forceful masculinity and takes on various
   shapes, with negative as well as positive connotations.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><em>Der Göttweiger Trojanerkrieg </em>(1270-1300)<br><em>Der
+  Göttweiger Trojanerkrieg</em>, ed. Alfred Koppitz (Berlin: Weidmannsche
+  Buchhandlung, 1926), 272-274.</p>
+
+
+  \[...\]
+
+
+  Die usser welten helden gütt Komend in ain ander land,
+
+
+  Die warend Plotzen genannt.
+
+
+  Daz waz dü rott Judischhaitt,
+
+
+  Von den man noch in landen saitt.
+
+
+  Die waren och vergifte vol.
+
+
+  Von gesten sy vil schwern zol
+
+
+  Nomen, als man von in saitt.
+
+
+  Daz land waz witt unde braitt
+
+
+  \--- _line missing_ \---.
+
+
+  Tugende und beschaidenhaitt
+
+
+  Waz in allen türre.
+
+
+  Gross und ungehürre
+
+
+  Warend sy all gemaine
+
+
+  Und och so gar unraine,
+
+
+  Wer ir ze rechtt nam war,
+
+
+  Des libe müst erschreken gar.
+
+
+  Man sach Ulixen den zagen
+
+
+  Aber sinen kummer clagen.
+
+
+  Im gab der aber senden trost
+
+
+  Der in dik hett erlost.
+
+
+  Es müste sin und solte wesen:
+
+
+  Die miltten ritter usserlessen
 ---
 <h2 style="text-align: center">Introduction</h2>
 
