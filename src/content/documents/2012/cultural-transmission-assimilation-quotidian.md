@@ -11,11 +11,28 @@ event:
   theme: Cross-Cultural Connections in the Early Modern Jewish World
 language:
   - Spanish
-description: The folios selected for this workshop comprise large excerpts of
-  two inquisitorial cases dating from the early 1790s. Both dossiers are
-  relatively brief and fragmentary. I offer them together in order to provide
-  more analytical possibilities than each of the documents would offer by
-  itself.
+description: The Early Modern Period, an era of “confessionalization,” provides
+  numerous examples of individuals of immediate, distant, feigned, or merely
+  imputed Jewish origin whose religious and social allegiances shifted
+  radically. The phenomenon of Iberian New Christians or conversos comes to
+  mind. Early modern Jews who became Christians but who, unlike conversos,
+  possessed no personal and familial background in Christianity constitute an
+  allied field of research (See examples in the Bibliography, below). Scholarly
+  assessments of the ways in which these Jewish non-conversos learned and
+  influenced their adopted Christian culture(s) often concentrate on
+  intellectual production. The focus is not surprising, as the converts under
+  discussion were usually educated individuals to whom Christian patrons often
+  assigned prominent roles as anti-Jewish polemicists and missionaries. By
+  contrast to the apologetic works and other religious writings of and about
+  such converts, the texts presented here offer glimpses of the experience of
+  uneducated, relatively inarticulate people of very modest material means who
+  found themselves at a crossroads between Jewish (or Jewish-identified) and
+  Hispano-Catholic identities, and whose formal cultural realignment caused no
+  historical ripple. The folios selected for this workshop comprise large
+  excerpts of two inquisitorial cases dating from the early 1790s. Both dossiers
+  are relatively brief and fragmentary. I offer them together in order to
+  provide more analytical possibilities than each of the documents would offer
+  by itself.
 original_language_body: >-
   <h2 style="text-align: center">Source 1 Original Text</h2>
 
