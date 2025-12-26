@@ -580,18 +580,32 @@ and lay hidden there
 
 until the twelfth morning.
 
-The worthy knights  
-had to defend themselves  
-immediately  
-against these hateful hell-hounds.  
-They \[i.e., the Red Jews\] all wore  
-terrible body armor made from horn  
-with whole steel rings underneath,  
-their helmets were very shiny;  
-well-fashioned and skillfully forged,  
-their shields remained unscarred except with great effort from a hand-held a sword.  
-The damned ones \[destined to die\] desired battle,  
-they wanted the gold of the Greeks  
+The worthy knights
+
+had to defend themselves
+
+immediately
+
+against these hateful hell-hounds.
+
+They \[i.e., the Red Jews\] all wore
+
+terrible body armor made from horn
+
+with whole steel rings underneath,
+
+their helmets were very shiny;
+
+well-fashioned and skillfully forged,
+
+their shields remained unscarred except with great effort
+
+from a hand-held a sword.
+
+The damned ones \[destined to die\] desired battle,
+
+they wanted the gold of the Greeks
+
 and the ship for booty.
 
 The princes had to fend off their threat.
@@ -675,6 +689,10 @@ defeated them and conquered that land.
 That king is known as Alexander.
 
 \[...\]
+
+<p style="text-align: center"><strong>Footnotes</strong></p>
+
+\[^1\]  Koppitz  reads  “Colchis,”  an  ancient  kingdom  in  today’s  western  Georgia.  This   conforms  to  the  well  established  association  of  the  land  of  the  Red  Jews  with  the   Caucasus  region.  Another  speculative  reading,  for  which  I  am  indebted  to  Regina   Toepfer,  could  be  “fat  and  strong  men”  or  “fatsos,”  cf.  Ernst  Christmann  and  Julius   Krämer,  Pfälzisches  Wörterbuch  (Wiesbaden:  Franz  Steiner  Verlag,  1965-­‐1998),  vol.   1:1028,  s.v.  Plotzer
 
 <h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><em>Ma'ase 'Akdamut </em>(c. 1580-1600)</p>
 
