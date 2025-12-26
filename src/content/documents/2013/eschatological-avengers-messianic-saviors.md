@@ -736,3 +736,5 @@ Thus, the Holy One, blessed be He, saved us. Seeing these miracles, all of Israe
 \[^3\] _Kefitzat ha-Derech_ is implied here, a magical practice of traveling long distances with miraculous speed by “contracting the path” via the use of divine names.
 
 \[^4\] Print edition from Fürth 1694, fol. 5a: In order to pound the little \[Red\] Jew to pieces.
+
+\[^5\] Print edition from Fürth 1694, fol. 5b: The \[Red Jew\] kneaded the fragments as if they were dough.
