@@ -294,15 +294,12 @@ original_language_body: >-
   tempo estar presente E servir o cargo \[p. 10\] de Procurador da cidade.”
 
 
-  <h2 style="text-align: center">Source 2 Original</h2>
-
-
-  Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter Standplaats
-  Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book 379
-
-
-  **Violence among Portuguese Jews in Amsterdam registered in notarial records:
-  The case of Montesinos against the Veigas brothers** \[fol. 381\]
+  <h2 style="text-align: center">Source 2 Original</h2><p style="text-align:
+  center">Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter
+  Standplaats Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book
+  379</p><p style="text-align: center"><strong>Violence among Portuguese Jews in
+  Amsterdam registered in notarial records: The case of Montesinos against the
+  Veigas brothers </strong>[fol. 381]</p>
 
 
   18 Julio
@@ -619,11 +616,7 @@ SWETSCHINSKI, Daniel Maurice. “The Portuguese Jewish Merchants of Seventeenth-
 
 \-  Regarding art. no. 27, he said that “\[p. 9\] he knows Antonio Pereira Cardoso or Antonio Cardoso Pereira, who is the impeached party, very well, and remembers that in the mentioned auction there were differences between the defendant and the other bidders, but he does not remember the impeached party, Antonio Cardoso Pereira, being present when such differences and the end of the auction took place. The royal judge did hit one of the bidders with a stick, but he does not remember who was this. He did not say further about the article, except that he knew that because he was present at the time, when he served the office of representative \[_procurador_\] of the city \[to the court\]”.
 
-<h2 style="text-align: center">Source 2 Translation</h2>
-
-Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter Standplaats Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book 379
-
-**Violence among Portuguese Jews in Amsterdam registered in notarial records: The case of Montesinos against the Veigas brothers**
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center">Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter Standplaats Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book 379</p><p style="text-align: center"><strong>Violence among Portuguese Jews in Amsterdam registered in notarial records: The case of Montesinos against the Veigas brothers</strong></p>
 
 **\[July 7, 1616\]\[fol. 415\] \[^1\]**
 
@@ -655,6 +648,4 @@ Mateus Rodrigues, about 60 years old, Fernão Alvares Mello, 36 years old, and 
 
 \[Signatures\].
 
-<h2 style="text-align: center">Source 3 Compilation</h2>
-
-**A few other cases of violence by or among Sephardic Jews registered in Amsterdam notarial records** (summaries were published in _Studia Rosenthaliana_) \[^1\]
+<h2 style="text-align: center">Source 3 Compilation</h2><p style="text-align: center"><strong>A few other cases of violence by or among Sephardic Jews registered in Amsterdam notarial records </strong>(summaries were published in <em>Studia Rosenthaliana</em>) [^1]</p>
