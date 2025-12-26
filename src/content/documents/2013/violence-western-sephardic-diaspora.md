@@ -5,6 +5,9 @@ institution: Universidade de São Paulo
 volume: 10
 year: "2013"
 slug: violence-western-sephardic-diaspora
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Jews and Violence in the Early Modern Period
 language:
   - Portuguese
 publication_location:
@@ -719,7 +722,7 @@ SR Nr. 2516, 20:1 (1986): 112
 
 Francisco Lopes, 49 years old and Miguel de Pas, 30 years old, Portuguese merchants in Amsterdam, make the following statement at the request of Fernão Gomes Mendes. Lopes declares that some time ago he heard at the exchange \[Bourse\] that Fernão Gomes Mendes and Francisco Mendes de Medeiros were having a quarrel and that Medeiros said to Mendes: “You consider my brother Christovão Mendes your enemy and I swear that I will be your enemy as well.” De Pas declares that Francisco Mendes de Medeiros and Christovão Mendes are not on speaking terms with Fernão Gomes Mendes and have been enemies for some time. Both declare that two or three months ago Fernão Gomes Trancoso left Amsterdam as a bankrupt.
 
-\[^1\] Refers to the numbers given by the editors of the series, the volume, number, year and pages of the journal: PIETERSE, W. C. & KOEN, E. M. (eds.). “Notarial Records \[Deeds\] in Amsterdam Relating to the Portuguese Jews in that Town up to 1639_._” _Studia Rosenthaliana_, Assen: Van Gorcum. Vv. 1–31, 1967 to 1997. Amsterdam: Amsterdam University Press, 32–35, 1998 to 2001.  
+\[^1\] Refers to the numbers given by the editors of the series, the volume, number, year and pages of the journal: PIETERSE, W. C. & KOEN, E. M. (eds.). “Notarial Records \[Deeds\] in Amsterdam Relating to the Portuguese Jews in that Town up to 1639\_.\_” _Studia Rosenthaliana_, Assen: Van Gorcum. Vv. 1–31, 1967 to 1997. Amsterdam: Amsterdam University Press, 32–35, 1998 to 2001.  
 \[^2\] \[n. 36\] On June 20 and August 8, 1614 Jeronimo Casco from Trujillo (Trosilge) in Estremadura, about 50 years old, wool dyer, declares before the court of the echevins, after torture had been applied, that Rodrigo Alvares bribed him to buy a stick and fight someone who had given Alvares a beating in public five or six months ago. As a reward he would be allowed to sail to the East Indies as sergeant on a ship. He declares that Alvares also lived in Leiden. (G.A.A., R.A. 290, confessieboeken, fol. 33, 54v.).  
 \[^3\] \[n. 5\] Copy of the instrument in Not. Arch. 351 B, fol. 278v., 279.  
 \[^4\] \[n. a\] The name Jacob Levi was crossed out.  
