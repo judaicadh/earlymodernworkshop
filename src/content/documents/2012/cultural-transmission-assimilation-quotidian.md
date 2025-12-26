@@ -135,6 +135,30 @@ As records of judicial interrogations the selected dossiers primarily reveal a c
 
 A final note on the selected sources: Though the dates of both texts may be late for an early modern workshop, a review of the documents makes it reasonably clear that no matter what sea-changes were occurring beyond Spain in the 1790s, the dossiers were products of the traditional religious outlook of a medieval institution—an institution still engaged in a broader competition for souls that the Catholic and Protestant churches had been waging since the sixteenth century.
 
+**Bibliography**
+
+Bodian, Miriam. _Dying in The Law of Moses: Crypto-Jewish Martyrdom in the Iberian World_. Bloomington: Indiana University Press, 2007.
+
+Carlbach, Elisheva. _Divided Souls: Converts from Judaism in Germany, 1570-1750._ New Haven: Yale University Press, 2001.
+
+Drummond Braga, Isabel. “Uma estranha Diáspora Rumo a Portugal: Judeus e Cristãos- Novos Reduzidos à Fé Católica no século XVI.” _Sefarad_ 62.2 (2002): 259-274.
+
+García-Arenal, Mercedes and Gerard Weigers. _A Man of Three Worlds: Samuel Pallache, a Moroccan Jew in Catholic and Protestant Europe._ Trans. Martin Beagles. Baltimore: The Johns Hopkins University Press, 2003.
+
+Graizbord, David. “Pauline Christianity and Jewish ‘Race’ in an Age of Confessionalization: The Case of João Baptista D’Este.” In María-Elena Martínez, Max Herring-Torres and David Nirenberg, eds. _Race and Blood: Dimensions of Racialization in Spain and Colonial Latin America_. Vol. 3 of _Jahrbuch für Rassismusanalyse: Analysis of Racism_. Berlin and London: LIT VERLAG, forthcoming.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_. “A Historical Contextualization of Sephardi Apostates and Self-Styled Missionaries of the Seventeenth Century.” _Jewish History_ 19 (2005): 287- 313.
+
+López Belinchón, Bernardo. “Aventureros, negociantes y maestros dogmatizadores: Judíos norteafricanos y judeoconversos ibéricos en la España del siglo XVII.” In Mercedes García-Arenal, ed., _Judíos en tierras de Islam, vol. 2: Entre el Islam y Occidente: Los judíos maghebíes en la edad moderna._ Madrid: Casa de Velázquez, 2003.
+
+Popkin, Richard H. and Gordon M. Weiner, eds. _Jewish Christians and Christian Jews: From the Renaissance to the Enlightenment_. Dordrecht: Kluwer Academic Publishers, 1994.
+
+Terpstra, Nicholas. “Imagined communities of the Reformation.” _Sixteenth Century Journal_ XL.1 (2009): 222-225.
+
+Wilke, Carsten Lorenz. “Conversion ou retour? La métamorphose du nouveu chrétien en juif portugais dans l’imaginaire sépharade du XVII siècle.” In Esther Benbassa, ed., _Memoires juives d’Espagne et du Portugal_. Paris: PUBLISUD, 1996.
+
+Zagorin, Perez. _Ways of Lying: Dissimulation, Persecution, and Conformity in Early Modern Europe_. Cambridge: Harvard University Press, 1990.
+
 Preg.ta Como se llama, de donde es Natural que edad estado ofizio tiene quien es, o fueron sus Padres y donde residen o murieron, y q relijion profesaron, a que responde----- que se llama Carlota que es natural de Ese casel Ciudad del Enperador de Alemania, de edad de Veintinueve años, poco mas o menos, que ha sido comerzianta, y oi en el dia Pobre hostiatin \[?\], por averla robado, q.e esta en la actualidad, como en estado de viuda, por ha versele muerto el honbre que era de nazion judaica en la Ziudad de Malaga el que esta enterado en el canpo [S.to](http://S.to) del hospital de el Rey de dha ciudad que sus Padres se llam aron Leon y Zezilia, naturales y Vezinos de la espresada ciudad de Esecasel que Ygno ra si viven, o han muerto; pero save y le con sta que fueron de nazion Judaica; y responde Preguntada si es Christiana, Baptizda---- Responde que no--------------- Preguntada en que Relijion se crio y que
 
 **\[Fol. 19r\]**
