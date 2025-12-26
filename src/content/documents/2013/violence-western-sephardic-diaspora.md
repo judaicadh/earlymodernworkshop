@@ -292,6 +292,167 @@ original_language_body: >-
 
 
   tempo estar presente E servir o cargo \[p. 10\] de Procurador da cidade.”
+
+
+  <h2 style="text-align: center">Source 2 Original</h2>
+
+
+  Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter Standplaats
+  Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book 379
+
+
+  **Violence among Portuguese Jews in Amsterdam registered in notarial records:
+  The case of Montesinos against the Veigas brothers** \[fol. 381\]
+
+
+  18 Julio
+
+
+  Paresere’ ettç.a Gaspar de burgos de ydade de 70 anos, fernao dalvarez mello
+  de 47 anos ~Antonio nunez torres~ matheo rodrigues de 60 anos E Juão goncales
+  de ydade de 27 anos\[,\] todos pouco mais ou menos\[,\] mercadores
+  portugueses, os quais de pedimento E requisisão de Symao E Juão da
+  veiga\[,\] presos na carsel \[sic.\] desta Cidade disseram E affirmarão ser
+  Verdade primeiramente ho ditto fernando alvarez mello que no dia que
+  prenderão os ditos producentes elle tes.a se achara presente, E que elle
+  test.a dixe a ez
+
+
+  Jacob montesinhos ho qua los mand fez prender, Porque fasia tal E porque fasia
+  prender dous home’s honrrados E que assi deshonrava a nação, E ho ditto
+  montesinhos lhe respondera que elle não prendera senão dous ladrões, E que
+  os avia de faser asoutar E bandir \[sic.\] fora da terra, E dispois avia de yr
+  a Emver \[Anveres\] a buscar certificação de quem suas yrmãs erão E outras
+  muytas pallabras ynjuriosas contra os presos E Contra as ditas suas yrmãs,
+  muy escandalosas E ruins E não dinas de Vir a este senado, E elle test.a ho
+  reprendeu E se apertou \[sic.\] delle, disendo quando fosse chamado para esta
+  Causa que diria a Verdade, ho ditto Gaspar de burgos disse, que antes de serem
+  preso \[sic.\] os dittos producentes\[,\] ho ditto montesinhos disse a elle
+  test.a que elle ordenaria Con que simão da veiga fisesse banco rotto E que av
+  E que ho ditto simão da veiga avia roubado a Juão goncales hua granda
+  \[sic.\] suma de dinheiro // E que por sua honra se Calava ho ditto Juão
+  goncalvez E ysto tocante a seu Credito, E no tocante as suas yrmãas declara
+  elle test.a que ho ditto Jacob Montesinos lhe disse que elle yria a ember a
+  traser certidão de que a as dittas suas yrmãas erão putas /: ho dito mateo
+  Rodrigues disse que oje neste dia elle test.a ouviou diser a ho ditto
+  montesinos que elle avia ditto a Ant.o nunes torres que fosse diser a Juão
+  goncales como Simão da veiga avia de faser banco Roto, e que tambe’ avia
+  ditto que em tudo ho que pudesse
+
+
+  \[fol. 381v.\]
+
+
+  lhe avia de faser mal, por lhe aver tirado hum moco \[moço\], ho ditto Juão
+  goncalo disse, que muytos dias antes que os dittos producentes forão presos
+  ho dit Antonio nunes torres lhe fora avisar de parte de Jacob Montesinos que
+  elle test.a se guardase de Simão da veiga Porque avia de faser banco roto, E
+  Pregundando emtão por e elle testem.a a ho ditto Montesinos porque lhe
+  disfamava assj ho ditto Simão da veiga lhe respondeu que lhe avia de faser
+  quanto mal pudesse porque lhe avia tirado um moço de Casa // E disse elle
+  test.a mais a sido seu Caixeiro E que muyto [din.ro](http://din.ro) seu
+  emtrara na mão, E que sempre lhe dera muy boa Conta, sem lhe faltar nuqa
+  \[sic.\] nada, e assi todas as test.a Conhecão \[sic.\] ho ditto simao da
+  veiga por home’ quieto e honrado/ ettça 18 de Julho 1616 \[Signatures\]
+
+
+  Francisco da Costa de [y.de](http://y.de) de 22 anos pouco mais ou menos,
+  Antonio nunes torres de 44 anos tambe’ pouco mais ou ms’ disserão a saber ho
+  ditto Ant.o nunez que algums dias antes da prisão dos dittos Veigas, Jacob
+  Montesinos lhe dissera que Simão da veiga vendia alguãs fasendas a menos
+  preço do que valia lhe Custavão, E que entendia delle não daria boa Comta
+  de si E que ho ditto montesinos não falava cõ Juão goncalves mas que era
+  seu amigo que avia entendido lhe devia [din.ro](http://din.ro) requerendo que
+  elle test.a lho fisesse a saber da sua parte, para se saber governor cõ elle,
+  E isto disse elle test.a a g.o a Juão goncalvez E não outra Cousa, que he o
+  proprio que Montesinos disse /: ho ditto Francisco da Costa disse que no t.po
+  que ho d.o
+
+
+  \[fol. 382\]
+
+
+  Montesinos se recolhera para Casa avendo Corrido cõ a espada atras de Juão
+  da veiga, elle test.a ouvira gritar muyto a mulher do ditto Montesinos disendo
+  E jurando muytos Juram.tos de que os dittos Veigas erão ru home’s ruims E que
+  as suas yrmãs erão putas pub.cas / E mais que a ditta mulher disse que faria
+  matar os dittos Veigas por hum yrmão sua seu que tinha / Sebastião nunes, de
+  ydade de 38 anos pouco mais ou meno \[sic.\] disse que oje ouvira diser a
+  Jacob Montesinos que em presensa de Juão goncalves e mateo rodrigues que avia
+  ditto a Antonio nunez torres que fosse avisar a Juão goncales que Entendia
+  que ho ditto symão das da veiga se avia de yr E que avia de levar alguã
+  Cousa do que por elle tenha Cobrado, E que não avia de dar boa Comta de sj, E
+  dantes alguãs Veses fallando nelle lhe fisesse ele test.a por cobra huã
+  divida que ho ditto da Veiga lhe deve por que entedia que se avia de yr,
+  ettça \[Signatures\]
+
+
+  Jorge vaz Pereira de ydade de 22 anos pouco mais ou menos, disse que mais de
+  dous meses antes que os dittos Veigas forão presos, yndo elle testem.a
+  perguntar em casa de Jacob montesinos por symão da veiga, dixera ho ditto
+  montesinos que era ausentado da terra, E estando fallando nisto cõ elle veio
+  la manuel rodrigues yrmão do ditto veiga E querendo subir arriba a Casa do
+  ditto seu yrmão lo ympidiu ho ditto montesinos, dizendo que todo ho seu
+  estava embargado por Justiça \[Signatures\]
+
+
+  \[fol. 403\]
+
+
+  Matheo Rodrigues de ydade de 60 anos\[,\] fernando Alvarez mello de 36 anos E
+  diogo gomes da Costa de 28 anos\[,\] todos pouco mais ou menos, dixerão por
+  requeremento de Juão da veiga preso, que sabem elles test.a muyto bem, que ho
+  ditto preso veio de emvez aqui a Ver sua yrmã, sabendo que estava Viva por
+  que avia myto t.po que a não Via por aver ydo a espanha, E assi E ho que
+  entende’ que se que ho se dis atraz delle de que Veo a espancar Jacob
+  Montesinos he falço, 25 de Julho de 1616 \[Signatures\].
+
+
+  \[fol. 415\]  
+
+  Luiz Vaz de ydade de 29 anos, felippe lopez de 27 anos\[,\] estienne
+  senton\[,\] francez 31 anos, disserão a saber luiz vaz que domingo passando
+  sendo na bree strate \[sic.\] viu’ huã Corrida de portugueses E chegando elle
+  test.a Viu que Jacob mansin montesinhos vinhão \[sic.\] cõ huã espada nua e
+  seu moco \[moço\] cõ pao Corria atras de nas mãos recolhido para sua Casa,
+  E que se ovio diser a gente que la estava que ho ditto montisinhos E seu moço
+  avião Corrido atras Juão daviega, E que toda a dita gentes \[sic.\] lhes
+  derão muyta Culpa, disendo que era muy mal feito de querer assj matar hu’
+  home’/ E ho ditto felipe lopes dis que tambe’ Viu recolher ho ditto Jacob
+  Montesinos co’ a espada nua na mao/ ho ditto felipe lopez dis que na segunda
+  feira passando ho ditto Juão da veiga pella porta do Jacob montesinhos E que
+  tivera pallabras cõ a mulher do ditto montesinos ovio elle testem.a que a
+  ditta mulher lhe chamou por muytas veses / hia que era yrmão de huãs putas,
+  que por taes avião hido de ambers p.a bruxelas esses nomes ouviu tambe’ por
+  veses da boca da d.a mulher ho d.o luiz vas ho qual cõ ho ditto estremme
+  sentão dixe que estiveram presentes a prisão do ditto Juão da veiga E seu
+  yrmão Symão da viega E que ouvirão que ho ditto Jacob montisinos dixo a os
+  drefleyers prenderme
+
+
+  \[fol. 415v.\]
+
+
+  esses que perros ladrõis que ho qual dixe muytas Veses chamando os ladrois E
+  querendo que por taes fossem presos / E Como ho ditto Luiz Vaz requereu aos
+  dittos difleyers em framengo que não levassem assj aqueles omes attatos
+  \[sic.\] E daquella manera E que os conhecia por home’s de bem de muyto tempo
+  respondera ho dito Jacob montesionhos não não levas os que não são senão
+  ladrõis / E Como hu’m dos difleyers tinha tomado hua dagua piquena que ho
+  ditto Juão da veiga trasia / Tomou ho d.o montesinhos a dita daga da mão do
+  difleyers correndo cõ furia para os presos driemdo, ha ladroeis que vos ej de
+  matar E os ouvera dado cõ a dita daga sendo elles ya presos E attados se elle
+  t test.a e outrem não ho ouverão empedido cõ lhe ter a mão E resistir por
+  muyta foria / ho ditto estiene sentão dixe que se achou em casa dos dittos
+  yrmaos onde avia estado cousa de meia hora antes que ho dito montesionos Vinha
+  la cõ os difleyers / E Vemdo que ho d elle montesinhos quis Vir pella escala
+  \[sic.\] arriva cõ muyta furia sem que elle test.a te emtão Viu os difleyers
+  acudiu’ elle test.a cõ a yrmãa dos dittos mancebos para lhe por ympedir lhe
+  que não fisesse alguã forca ho qual Visto pello ditto montesinhos deu a dita
+  mulher E a empurrou’ cõ a mão E a mal tratou’ E Como este test.a dixe a os
+  diefleyers que não prendesse’ os dittos yrmãos não Cessou ho ditto
+  montesinhos de gritar prendey os que são ladrois, ladois são, prendej os.
+  \[Signatures\]
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -493,3 +654,7 @@ Jorge Vaz Pereira, about 22 years old, said that more than two months prior to t
 Mateus Rodrigues, about 60 years old, Fernão Alvares Mello, 36 years old, and Diogo Gomes da Costa, 28 years old, all approximate ages, said at the request of João da Veiga, arrested party, that the witnesses know very well that the said prisoner came here \[Amsterdam\] from Antwerp in order to see his sister after learning that she was alive, because he had not seen her for a long time, since \[she?\] was in Spain, and they understand that the aforesaid about him, namely that he came in order to beat Jacob Montesinos is false, July 25, 1616
 
 \[Signatures\].
+
+<h2 style="text-align: center">Source 3 Compilation</h2>
+
+**A few other cases of violence by or among Sephardic Jews registered in Amsterdam notarial records** (summaries were published in _Studia Rosenthaliana_) \[^1\]
