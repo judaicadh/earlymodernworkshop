@@ -559,6 +559,8 @@ and so thoroughly foul
 
 that anyone who encountered them was frightened for his life.
 
+//
+
 Ulysses the faint-hearted was seen
 
 bewailing his misery,
@@ -601,6 +603,8 @@ and lay hidden there
 
 until the twelfth morning.
 
+//
+
 The worthy knights
 
 had to defend themselves
@@ -628,6 +632,8 @@ The damned ones \[destined to die\] desired battle,
 they wanted the gold of the Greeks
 
 and the ship for booty.
+
+//
 
 The princes had to fend off their threat.
 
@@ -659,6 +665,8 @@ skull and beard
 
 were cloven by swords.
 
+//
+
 Ah, Venus, thou Empress,
 
 I mean you, praiseworthy Dame of Love,
@@ -670,6 +678,8 @@ and free them of all care!
 Her answer: “Friend Wolfram,
 
 I do not abandon my servants.”
+
+//
 
 Ajax the mighty prince,
 
@@ -706,6 +716,8 @@ were killed on those days,
 and the remainder
 
 fled to the mountains.
+
+//
 
 They lived there many years
 
