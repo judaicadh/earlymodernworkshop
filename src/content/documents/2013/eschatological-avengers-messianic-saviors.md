@@ -138,3 +138,47 @@ he fled to the bilge of the ship,
 and lay hidden there
 
 until the twelfth morning.
+
+The worthy knights  
+had to defend themselves  
+immediately  
+against these hateful hell-hounds.  
+They \[i.e., the Red Jews\] all wore  
+terrible body armor made from horn  
+with whole steel rings underneath,  
+their helmets were very shiny;  
+well-fashioned and skillfully forged,  
+their shields remained unscarred except with great effort from a hand-held a sword.  
+The damned ones \[destined to die\] desired battle,  
+they wanted the gold of the Greeks  
+and the ship for booty.
+
+The princes had to fend off their threat.
+
+May God protect the heroes for us!
+
+The noise of men and striking swords
+
+was so extremely loud
+
+that no one
+
+can accurately describe the prowess
+
+of these creatures.
+
+Mighty and terrifying
+
+was the horror of battle.
+
+Grim death
+
+conquered many a man;
+
+but I don’t curse its cruelty.
+
+Many a helmet,
+
+skull and beard
+
+were cloven by swords.
