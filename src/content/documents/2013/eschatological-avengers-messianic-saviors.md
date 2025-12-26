@@ -128,6 +128,201 @@ original_language_body: >-
 
 
   Sy wüsten selber umb waz.
+
+
+  \[...\]
+
+
+  Der kïlle must aber ze lande.
+
+
+  Hercules \[i.e., Ulysses\] erkantte
+
+
+  Daz ain unzalliche diett
+
+
+  Gegen dem kïlle gerïtt.
+
+
+  Aber der forchtsame man
+
+
+  In den kïll ze grund endran,
+
+
+  Dar inne er lag verborgen
+
+
+  Untz uff den zwölften morgen.
+
+
+  Die werden ritter an der zitt
+
+
+  Müsten aber üben stritt
+
+
+  An den selben stunden
+
+
+  Mit laiden hel\[le\] hunden.
+
+
+  Sy trügend all gemaine an
+
+
+  Von hornne paldan \[i.e. plate?\] fraisan,
+
+
+  Dar under stachel ringe gantz,
+
+
+  Ir helm waren hartte glantz;
+
+
+  Gefügett und geschmitt vin,
+
+
+  Ir schiltt \[enliten\] on arge pin
+
+
+  Von kainer hande schwerte\[n\].
+
+
+  Strittens die faigen gertten,
+
+
+  Sy wolten do der Krïchen gold
+
+
+  Haben und och des kïlles sold.
+
+
+  Des müsten sich die fürsten wern.
+
+
+  Got müsse üns die helden ernern!
+
+
+  Der lütte und des schalles toss
+
+
+  Ward so unmässenklichen gros
+
+
+  Da von nach rechte nieman
+
+
+  Daz wunde\[r\] volle sage\[n\] kan
+
+
+  Von diere creature.
+
+
+  Stark und ungehurre
+
+
+  So waz \[diu\] kampfliche nott.
+
+
+  Der vil grimekliche tod
+
+
+  Twang all da vil manigen man,
+
+
+  Dem ich doch der fraisse nit verban.
+
+
+  Manig helm, schaittel unde bartt
+
+
+  Mitt swerten da gespalten ward.
+
+
+  Ach Vennus, du kayserinne,
+
+
+  Ich main dich, werde Mine,
+
+
+  Bis dinen diennern by
+
+
+  Und tü sy aller sorgen fry!
+
+
+  Sy sprach: “fründ Wolfran,
+
+
+  Der dienner mine ich nit enlan.”
+
+
+  Aiax der \[fürsteliche\] degen
+
+
+  Mit mannes mütt usser wegen
+
+
+  Valtt ir mangen in sin blütt
+
+
+  Sam tett der junge ritter gütt
+
+
+  Aminall, des waffen braitt
+
+
+  Manigen versertt und verschn\[a\]id.
+
+
+  Untz an des zwelften tages zitt
+
+
+  Wertte diere jomers stritt.
+
+
+  Manig starker Jude rott
+
+
+  Lag da jemerlichen tod.
+
+
+  Da ward an den stunden
+
+
+  Der balsame funden
+
+
+  Der noch ze manigen \[angsten\] tütt
+
+
+  Dem menschen dike hochen mütt.
+
+
+  Zweinzig tussend by den tagen
+
+
+  Ward der rotten diett erschlagen.
+
+
+  Och dü and\[er\] von dan
+
+
+  Hin an daz gebirge endran,
+
+
+  Die sitt her über mengiu jar
+
+
+  Ain vil richer künge claur
+
+
+  Schlüg und betwang daz land.
+
+
+  Alexander waz er genanntt.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
