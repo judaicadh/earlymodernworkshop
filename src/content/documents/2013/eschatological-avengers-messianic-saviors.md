@@ -49,12 +49,9 @@ Elisabeth Lienert, _Deutsche Antikenromane des Mittelalters_ (Berlin: Erich Schm
 
 On the Red Jews:
 
-Andrew C. Gow, _The Red Jews: Antisemitism in an Apocalyptic Age, 1200-_
+Andrew C. Gow, _The Red Jews: Antisemitism in an Apocalyptic Age, 1200-1600_ (Leiden, Brill, 1995).
 
-_1600_ (Leiden, Brill, 1995).  
-Rebekka Voß, “Entangled Stories: The Red Jews in Premodern Yiddish and
-
-German Apocalyptic Lore,” _AJS Review_ 36,1 (2012): 1-41.
+Rebekka Voß, “Entangled Stories: The Red Jews in Premodern Yiddish and German Apocalyptic Lore,” _AJS Review_ 36,1 (2012): 1-41.
 
 On Jewish masculinity:
 
@@ -62,6 +59,57 @@ Daniel Boyarin, _Unheroic Conduct: The Rise of Heterosexuality and the Invention
 
 Andreas Gotzmann, “Respectability Tested: Male Ideals, Sexuality, and Honor in Early Modern Ashkenazi Society,” in _Jewish Masculinities: German Jews, Gender, and History_, ed. Benjamin Maria Baader, Sharon Gillerman and Paul Lerner, 23-49 (Bloomington: Indiana University Press, 2012).
 
-Warren Rosenberg, _Legacy of Rage: Jewish Masculinity, Violence, and_
+Warren Rosenberg, _Legacy of Rage: Jewish Masculinity, Violence, and Culture_ (Amherst: University of Massachusetts Press, 2001).
 
-_Culture_ (Amherst: University of Massachusetts Press, 2001).
+<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center"><em>The Göttweig Trojan War </em>(1270-1300)</p><p style="text-align: center">Translated by R. Voß. I thank Regina Toepfer for her generous help with the Middle High German.</p>
+
+\[...\]
+
+These fine \[Greek\] warriors, the very best
+
+entered another land,
+
+\[whose inhabitants\] were called Plotzen.\[^1\]
+
+This was the land of Red Jewry,
+
+which is still spoken of in many lands today.
+
+They were a poisonous lot indeed.
+
+From travellers they demanded a very heavy toll,
+
+\[so\] it is said.
+
+Their country stretched far and wide
+
+\--- _line missing_ \---.
+
+Virtue and modesty
+
+they all lacked.
+
+As a rule they were
+
+huge and horrible,
+
+and so thoroughly foul
+
+that anyone who encountered them was frightened for his life.
+
+Ulysses the faint-hearted was seen
+
+bewailing his misery,
+
+but He who had often saved him, provided estimable solace.
+
+It had to be and must come to pass: the noble knights, the best there were,
+
+armed themselves for battle;  
+but they certainly had never  
+before been in such distress.  
+Right up to their grim deaths  
+they were attacked  
+by many faithless men  
+who despised the lords,  
+they themselves knew why.
