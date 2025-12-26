@@ -25,6 +25,273 @@ description: >-
   with hands, sticks and various other objects, including cold steel. The body
   of sources suggests that the Western Sephardic Diaspora involved a
   significantly fervid environment.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center">Arquivos Nacionais – Torre do Tombo (Lisbon), Santo Ofício:
+  Inquisição de Lisboa, processo 3418, of Manuel Rodrigues dos Santos.</p><p
+  style="text-align: center"><strong>Violence among New Christians in Porto
+  recounted in inquisitorial files: The file of Manuel Rodrigues dos
+  Santos</strong></p>
+
+
+  **1.as Contraditas**
+
+
+  "\[s/n\] \[p.1\]\[cabeçário\]
+
+
+  4 Prov. q ant.o da costa e sua molher Jzabel de brito e seu sogro
+  [fr.co](http://fr.co) de brito, e [fr.co](http://fr.co) de ribeiro e
+  sebastião ribeiro ambos thios e primos do sobredito e suas molheres e f.os
+  são inimigos capitais delle R. e a rezão de sua inimizade he, porq trazendo
+  elle R. huã demanda [m.to](http://m.to) importante na ditta cidade no iuizo
+  do c.or do civel cõ o sobredito [fr.co](http://fr.co) ribeiro sobre huã
+  carregasão de asuqueres q elle R. lhe tinha vendido, e estando o feito em
+  lugar de prova e tirandosse as [t.as](http://t.as) em caza de andre pinto
+  escrivão estando o dito ant.o da costa por testemunhar a porta do dito
+  escrivão elle R. lhe disse q attentasse como iurava e q não como seu sogro
+  [fr.co](http://fr.co) de brito q em tudo iurava em falso contra elle R. e
+  sobre isso tiverão mas palavras elle R. e o dito ant.o da costa e vierão as
+  panquadas e cutiladas a q acudio m.ta gente e dali por diante ficarão sempre
+  inimigos capitais dizendo mal hũ ao outro pella qual rezão todos os \[p. 3\]
+  sobreditos fiquão sendo inimigos capitais delle R. como em effeito o são e
+  lhe não podẽ preiudicar seus testemunhos
+
+
+  18 Provara q m.el de andrade m.or na cidade do porto he inimigo capital delle
+  R., e a rezão de sua inimizade he, q elle R. vendeo no anno de 615 duas
+  cargasõis q vinhão do Brazil q importavão duzemtos e oitenta mil r's, as
+  quoais vinhão nos navios em que vinhão por mestre frutuozo glz' de
+  Massarelos, e do outro [fr.co](http://fr.co) maio de Matozinhos, e se
+  consertou elle R. cõ o dito M.el de andrade q lhe daria as ditas cargaçõis
+  pello mesmo q custarão no Brasil e q o risquo corresse pello dito M.el de
+  andrade depois da qual venda e contrato socedo roubarẽ os turquos as ditas
+  duas naos e levarãoas a Argel e pedindo elle R. a paga das dittas
+  carregasões ao dito m.el de andrade lhas não queria pagar dizendo q lhe não
+  devia nada pois não resebera as ditas carregasõis, e q elle R. o enganara
+  porq sabia ao tempo da venda q as ditas naos erão roubadas sobre o q o dito
+  R. e o dito m.el de andrade tiverão m.tas brigas, e grandes odios e palavras
+  de parte a parte affrontozas de q o dito m.el de Andrade se deu e dava por
+  [m.to](http://m.to) affrontado, e dezia publicamente se avia de vingar delle
+  R. assi das palavras, e iniurias q lhe disserão, como do dr.o q elle R. lhe
+  levara pellas ditas carregasões allem do q.
+
+
+  19 Provara q estando elle R. nos cais da descarga das naos da dita cidade do
+  porto passeando cõ o escrivão da dita descarga [fr.co](http://fr.co) pais
+  chegou a elle o dito m.el de andrade cõ a espada apunhada \[p. 10\] cõ hũ
+  criado seu outrosi cõ espada lhe disse q pois lhe tinha ia pago o dr.o das
+  carregasões q lhe tinha mãdado q porq o andava espeitando quando hia nadar,
+  ou p.a onde hia, ou vinha, e outras palavras a q elle R. respondeo ao dito
+  m.el de Andrade cõ q ficou [m.to](http://m.to) affrontado e corrido e apunhou
+  da espada, e elle R. fes o mesmo e o dito [fr.co](http://fr.co) pais se meteo
+  no meio fiquando dahi per diamte [m.to](http://m.to) mais inimigos pello q seu
+  testemunho não pode periudicar a elle R.
+
+
+  27 Provara q pondosse as rendas das entradas do mar da dita Cidade do porto em
+  pregão o ano de 617 q elle R. trazia do anno dantes o dito ant.o Cardozo pr.a
+  acumulado cõ outros inimigos delle R forão fazer lanso na dita renda a
+  prassa publica aonde o C.or, juis de fora, v\[e\]readores da dita Cidade
+  estavão p.a arrematar a dita renda, e porq sobre as condisõis della o dito
+  ant.o cardozo pr.a e seus companheiros largarão alguãs palavras contra elle
+  R, e o dito C.or, iuis, e v\[e\]readores e escrivão da camara lhe derão cõ
+  as varas [m.as](http://m.as) panquadas e punhaladas e o mandarão prender de q
+  o sobredito ant.o cardozo pr.a fiquou [m.to](http://m.to) affrontado e
+  iniuriado dizendo publicamente se avia de vingar delle R. pella maneira q
+  pudesse das affrontas q o C.or, iuis \[p. 14\] e v\[e\]readores, escrivão da
+  camara lhe fizerão pois elle R. fora cauza dellas allem do q.
+
+
+  29 Provara q simão lopes pinheiro m.or na cidade do porto he inimigo capital
+  delle R. e a rezão de sua inimizade sera q estando o dito simão lopes
+  pinheiro em caza de miguel barboza cidadão e m.or na cidade do porto aonde
+  outrossi estava ant.o roiz' pai delle R. e vierão sobre certas duvidas q no
+  iogo tiverão a tomarsse hũ cõ o outro a chamarẽsse de nomes affrontozos e
+  iniuriozos e a tirar cõ as cartas e castissais do q o dito simão lopes
+  pinheiro ficou [m.to](http://m.to) affrontado e querendo dahi em diante grande
+  mal a elle R. e tendo lhe grande odio e ao dito seu pai.
+
+
+  31 Provara q encontrandosse o dito simão lopes pinheiro cõ o dito pai delle
+  R. depois das ditas brigas iunto do adro de S. d.os da dita cidade do porto
+  arranquarão das espadas e se acutilarão ate q acodio m.ta gente q os apartou
+  e procurandose matar hũ ao outro acutilandose e buscando tornarão a brigar,
+  E andar as cutiladas q forão onde quer q se encontravão pello grande odio q
+  se tinhão
+
+
+  32 Provara q sendo o d.or Luis p.ra C.or do crime da dita cidade do porto
+  sabendo das brigas e odios em q o dito simão lopes tinha com dito ant.o roiz
+  pai delle R. andavão por ser seu vizinho pos pena de dr.o e annos de Affrica
+  dos sobreditos q não brigassẽ mais nẽ entendessẽ hũ cõ o outro de se fes
+  termo pello escrivão do crime Serafim correa
+
+
+  36 Provara q João Roiz' Villareal e sua molher e f.a e luis ant.o seu cunhado
+  m.ores na cidade do porto são inimigos capitais delle R. porq. tendo Jeronimo
+  roiz' mestre sala brigas avera onze ou doze anos cõ o dito cõtraditado sobre
+  certas differensas q tiverão iunto ao adro de S. D.os da dita cidade do
+  porto, e vindosse a travar de palavras hũ cõ outro o dito Jeronimo roiz'
+  chamou o cornudo publicamente ao dito João roiz' de q ficou
+  [m.to](http://m.to) affrontado e porq ao dito estavão parentes algũs
+  parentes \[sic.\] e amigos do dito João roiz', acudirão todos em seu favor
+  p.a matar o dito Jeronimo roiz' o q vendo elle R. q tãobem estava prezente
+  cõ Sanctos \[p. 18\] de Souza, cidadão da dita cidade, acudirão em favor do
+  dito Jeronimo roiz', e o ampararão, e defenderão do dito João roiz' e seus
+  parentes e o trouxe elle R. p.a sua caza e o recolheo no seu escritoreo, do q
+  o sobredito João roiz' e o dito Luis antonio seu cunhado e todos seus
+  parentes ficarão inimigos publicos declarando delle R. e dizendo q avião de
+  vingar delle R. da affronta q o dito Jeronimo roiz' lhe fizera pois o amparava
+  e defendia e impedira tomarẽ logo vingansa do sobredito Jeronimo roiz' alem
+  do q.
+
+
+  49 Provara q o [L.do](http://L.do) thome vas, e seus f.os ant.o vas, diogo de
+  pina, andre nunes pina4, thomas nunes pina, e suas [f.as](http://f.as) cn.a de
+  pina, aldonça nunes, catarina de pina e paulo lopes da cunha marido da dita
+  cn.a de pina, e ant.o da fonseca pina e Jeronimo da fonseca pina sobrinhos do
+  dito thome vas e primos cõ irmãos dos sobreditos todos m.ores na cidade do
+  porto são inimigos capitais delle R., porq' trazendo o contraditato thome vas
+  demandas cõ o dito seu f.o andre nunes pina sobre alimentos q o dito seu f.o
+  lhe pedia avera doze ou treze annos lansandoo de caza sẽ lhe dar sustentasão
+  pella qual rezão o dito andre nunes passara m.tas necessidades e se metia por
+  caza dos vizinhos a pedir lhe o aiudasse a sustentar elle R. aconselhou ao
+  sobredito andre nunes q pois a sua irmã aldonsa nunes era a cauza do dito
+  thome vas seu pai o lansar de caza e lhe não dar alimentos a esperasse hũ
+  dia q fosse fora da caza e lhe puzesse e fizesse \[p. 23\] medos e amessas p.a
+  q mais o não odiasse cõ o dito seu pai.
+
+
+  50 Provara q indo o dito [L.do](http://L.do) thome vas pouquos dias depois do
+  conselho q elle R. deu ao dito andre nunes, folgar ao Rio cõ as ditas suas
+  filhas e recolhendosse de noute p.a caza cõ ellas, o dito andre nunes pello q
+  elle R. lhe tinha aconselhado foi esperar ao dito seu pai e irmãs e deu huã
+  cutilada na cabesa a huã dellas q he aldonsa nunes cõ a espada q pedio
+  emprestado a elle R. p.a esse effeito, de q a dita Aldonsa nunes esteve em
+  perigo de morte, e fiquou [m.to](http://m.to) iniuriada e affrontada e
+  infamada.
+
+
+  51 Provara q sabendo o dito [L.do](http://L.do) thome vaz seus f.os e
+  [f.as](http://f.as) e sobrinhos e parentes q elle R. aconselhara o dito andre
+  nunes desse na dita sua irmãa aldonsa nunes, e p.a isso lhe emprestara a
+  espada se queixarão publicamente dele R. e lhe fiquarão querendo grande mal
+  e declarandose por seus inimigos capitais e protestando de se vingarẽ delle R
+  daquella afronta pelo modo q pudessẽ
+
+
+  52 Provara q tendo \[estando\] elle R. a enxugar certas caixas de asuquar q
+  mandou lavar, os ditos ant.o vas, thome nunes, diogo de pina e andre nunes
+  irmãos f.os do dito thome vas lhe furtarão duas das ditas caixas, e
+  achandoas elle R. menos se queixou publicamente delles dizendo q erão hũs
+  ladrõis q lhe avião furtado as ditas duas caixas, o q ouvindo o dito diogo
+  de pina, e ant.o vas vierão ter satisfasão cõ elle R. dizendo \[p. 24\] q
+  os tidos seus irmãos thomas nunes e andre nunes forão so q furtarão as
+  ditas caixas a elle R., de q elle R. se agastou [m.to](http://m.to) e logo
+  espancou e esbofeteou publicamente os sobreditos diogo de pina e ant.o vas e
+  lhes chamou de ladrõis e outros nomes m.tos affrontosos de q assi elles como
+  todos os ditos seus parentes fiquarão [m.to](http://m.to) affrontados e
+  iniuriados querendo de novo [m.to](http://m.to) mal a elle R.,
+
+
+  53 Provara q estando elle R. peleiando cõ os ditos ant.o vas e diogo de pina
+  sobre o furto q lhe fizerão das ditas caixas veio por de tras huã negra
+  delle R. e deu cõ pao na cabessa ao dito ant.o vas de q ficou
+  [m.to](http://m.to) mais affrontado e os ditos seus parentes e viria depois
+  disto sempre [m.to](http://m.to) iniuriado e envergonhado e fiquarão sendo
+  dahi em diante assi elle como o dito seu pai e irmãos e irmãs e parentes em
+  maior odio a elle R. como era couza publica na dita cidade
+
+
+  58 Provara q hũ carniseiro deu hũ dia no asougue cõ huã posta de carne nos
+  fosinhos ao dito ant.o vas por lhe ser mal ensinado de q o dito ant.o vas lhe
+  andou huã iniuria e delle levou ao dito carniseiro quatro mil r's por iustisa
+  foi condemnado de q fes hũ vestido pella \[p. 26\] qual cauza e per outras
+  era tido na dita cidade do porto por pessoa infame e como tal lhe não davão
+  nẽ aos ditos seus irmãos nenhũ credito.
+
+
+  **2.as** **Contraditas:**
+
+
+  3 Provara q. ant.o da costa e o d.or nicolau lopes villa real m.ors na ciade
+  do porto contraditados nas contraditas delle R. aos artigos 4.o e 5.o,
+  cumsegg. são inimigos capitais do R. alem das mais rezõis allegadas nas
+  ditas contraditas porq estando ambos iuntos, o dito ant.o da costa, e nicolao
+  lopes no ano de 616, segundo sua lembrança, fora do postigo da fonte das
+  virtudes na dita cidade fazendo zombarias de hũ miguel dias thio delle R.
+  irmão de seu pai tonto e mentecapto a quem elle R. tinha em caza, e
+  sustentava \[p. 3\] e chegou elle R; e vendo q os sobreditos contraditados
+  estavão zombando do dito seu thio miguel dias e o tratavão mal peleiou cõ
+  elles, e lhe\[s\] disse palavras [m.to](http://m.to) affrontozas e os iniuriou
+  [m.to](http://m.to) e os sobreditos chamarão a elle R. bebado, infame,
+  cornudo, e lhe disserão outras iniurias pollas quais elle R. se arremessou a
+  elles e vierão as panquadas de q elle R. fiquou escalavrado, e
+  [m.to](http://m.to) maltratado
+
+
+  **Inquirição dos artigos das** [**1.as**](http://1.as) **contraditas no
+  Porto a 18.02.1625:**
+
+
+  \- Manuel Cordeiro, meio cristão novo, moedeiro, morador no Porto, de 65 anos
+  pouco mais ou menos:  
+
+  \- das pessoas citadas no artigo conhecia somente ao réu e a Antonio da
+  Costa, sua mulher Isabel de Brito e seu sogro Francisco de Brito. Disse que
+  teve notícia que o “\[f. 13 da inquirição\] Reo trouxera uma demanda com
+  Francisco Ribeiro desta cidade no iuizo do C.or do civel de q hera escrivão
+  Andre Pinto sobre huã carregação de assucares por acasião da qual demanda
+  teve noticia elle test.a que tivera o Reo differenças com o dito Antonio da
+  Costa, mas não sabe elle test.a se forão de palavras, se de cutilladas,
+  porquanto senão achou presente, nem ouvio, mas som.te o ouvio a alguãs
+  pessoas e perguntado se se lembrava da qualidade das differenças e dos nomes
+  das pessoas a quem ouvira contar, dise q se não lembrava mais q de o ouvir
+  contar em casa de João Cardoso já falecido home da nasção dos christãos
+  novos, q se dis ser morto em Castella para onde se foi no tempo da prizão,
+  havera cousa de seis anos, e disse mais elle test.a q o Reo com o dito
+  [An.to](http://An.to) da Costa não corrião, e al não disse deste
+  \[artigo\].”
+
+
+  **Inquirição dos artigos das** [**3.as**](http://3.as) **contraditas no
+  Porto a 10.12.1625:**
+
+
+  \- Afonso Cardoso, cidadão do Porto de 60 anos, pouco mais ou menos:  
+
+  \- conhece o réu desde menino e que era mercador e tratava e negociava  
+
+  \- sobre o art. 27: disse que “\[p. 8\] sendo elle t.a Veredor nesta cidade
+  naquelle ano Em q o Reo pretendeo a Renda das entradas correntes do mar E da
+  terra \[sic.\] a q.l Elle Reo trouxera o ano atraz querendo a tomar outra vez
+  lançara nella E vendo outras [p.as](http://p.as) q t@bem lançavão na dita
+  Renda o C.or q Ent@ Era querendo favoreser ao Reo dera cõ a vara a huã das
+  [p.as](http://p.as) q lançavão na Renda favorescento nisso ao Ro mas q elle
+  t.a n@ conhece ao contraditado p.lo nome ainda q Elle t.a ouvio dizer q Elles
+  todos @tre si tiverão diferenças E al não disse.”
+
+
+  8 - Antonio Pereira, cidadão do Porto, feitor da alfândega, de 42 anos,
+  pouco mais ou menos:  
+
+  \- conhece o réu há cerca de 15 anos e que era mercador e tratava e
+  negociava nesta cidade e na alfandega
+
+
+  \- sobre o art. 27: disse que “\[p. 9\] conhese [m.to](http://m.to) bem a
+  Ant.o pr.a cardoso ou Ant.o Cardoso pr.a contraditado E q se lembra q no
+  lançar E Rematar das Rendas de q o auto faz menção ouve diferenças Entre o
+  Reo E outras [p.as](http://p.as) q lançavão nellas mas q senão lembra q
+  Estivesse presente a tais diferenças E Rematação o Contraditado Ant.o
+  Cardoso pr.a E q o C.or desta cidade se levantou e deu cõ a vara Em hũ dos q
+  querião fazer lanço nas Rendas mas q elle t.a se não lembra de quẽ era o
+  Em quẽ o C.or deu Com a vara e al não disse nẽ sabe E o q declarou sabe
+  Elle t.a por ao tal
+
+
+  tempo estar presente E servir o cargo \[p. 10\] de Procurador da cidade.”
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -190,3 +457,39 @@ SWETSCHINSKI, Daniel Maurice. “The Portuguese Jewish Merchants of Seventeenth-
 \-  He knows the defendant for 15 years, since the latter was a merchant and attended the customs house.
 
 \-  Regarding art. no. 27, he said that “\[p. 9\] he knows Antonio Pereira Cardoso or Antonio Cardoso Pereira, who is the impeached party, very well, and remembers that in the mentioned auction there were differences between the defendant and the other bidders, but he does not remember the impeached party, Antonio Cardoso Pereira, being present when such differences and the end of the auction took place. The royal judge did hit one of the bidders with a stick, but he does not remember who was this. He did not say further about the article, except that he knew that because he was present at the time, when he served the office of representative \[_procurador_\] of the city \[to the court\]”.
+
+<h2 style="text-align: center">Source 2 Translation</h2>
+
+Stadsarchief Amsterdam (SAA), Archief van de Notarissen ter Standplaats Amsterdam (5075), notaries public Nicolaes and Jacob Jacobs, book 379
+
+**Violence among Portuguese Jews in Amsterdam registered in notarial records: The case of Montesinos against the Veigas brothers**
+
+**\[July 7, 1616\]\[fol. 415\] \[^1\]**
+
+Luis Vaz 29 years old, Felipe Lopes, 27 years, Estienne Senton, Frenchman, 31 years old, said the following: Luis Vaz said that on last Sunday when he has on Breestraat he saw a rush of Portuguese people. When he got closer, the witness saw Jacob Montesinos running back home with a bare sword in his hand followed by his retainer holding a stick. The people who were there told him that Montesinos and his retainer had run after João da Veiga, and that many people censured him, saying that it was wrong to want to kill a man in that way. Felipe Lopes said that he also saw Jacob Montesinos holding a bare sword in his hand while retiring home / Felipe Lopes said that on Monday, João da Veiga passed by the doorstep of Jacob Montesinos, and exchanged bad words with Montesinos’ wife. The witness heard her saying many times that he was the brother of some whores, because of which they \[the Veigas brothers\] moved from Antwerp to Brussels. Luis Vaz also heard the same names being called from her mouth. Luis Vaz and Estienne Senton were present at \[moment of\] the arrest of João da Veiga and his brother Simão da Veiga, when they heard Jacob Montesinos say to the wardens \[_dreflyers_\] \[fol. 415v.\] to arrest “these thiefly dogs,” calling them thieves many times and saying that he wanted them to be arrested as such \[“thiefly dogs”\]. Luis Vaz asked the wardens in Flemish \[i.e., Dutch\] not to take those men like that, tied up. He also said that he knew them for a long time, and they were good men. Jacob Montesinos replied: “you do not take anything else but thieves.” One of the wardens had seized from João da Veiga a small dagger, which Montesinos grabbed from the warden’s hand, and ran furiously towards the prisoners laughing: “Oh thieves, I will kill you!” And he would have stroke them with the dagger, in spite of them being already arrested and tied up if the witness and other people had not prevented it with their own hands, to which he resisted furiously. Estienne Senton said that he was at the home of the \[Veigas\] brothers for half an hour before Montesinos arrived with the wardens. Seeing that Montesinos wanted to walk up the staircase furiously, but not seeing the wardens yet, the witness came along to protect the sister of the young men against any aggression. After seeing that, Montesinos hit and pushed her with his hand and mistreated her. Because the witness told the wardens not to arrest the brothers, Montesinos did not stop to yell: “Arrest them, because they are thieves, thieves are they, arrest them.”
+
+\[Signatures\*\]
+
+\[fol. 381\] \[^2\]
+
+18 July
+
+Gaspar de Burgos, 70 years old, Fernão d’Alvarez Melo, 47 years old, Mateus Rodrigues, 60 years old, and João Gonçalves, 27 years old, all approximate ages and all Portuguese merchants, appeared before the notary at the request of Simão and João da Veiga, arrested in the prison of this city \[Amsterdam\]. First, the said Fernão d’Alvarez Mello stated that it was true that on the day that the producents \[those at whose request the affidavit was executed\] were arrested, he, the witness, was present, and he asked Jacob Montesinos, who had caused their arrest, why he did so, why he made two honored men be arrested, and that he dishonored the \[Portuguese Jewish\] nation so. Montesinos answered that he did not cause the arrest of anyone but of two thieves, who he will have lashed and banished. He was also willing to go to Antwerp to produce a certificate about their sisters’ identities, and many other affronting words against the arrested parties and their sisters, which were very bad and scandalous, and which are inappropriate to be brought before this Senate \[City Council or Court\]. The witness reprehended him, saying that if he were to be summoned with regard to this cause, he would testify the truth. The said Gaspar de Burgos said that before they were arrested, Montesinos had said to him that he would cause Simão da Veiga go bankrupt, and that Simão da Veiga had stolen a large sum of money from João Gonçalves, but the latter kept silent in order to protect his honor. That is what the witness said about the producents’ credit. With regard to their sisters, Montesinos said to the witness that he would go to Antwerp to bring a certificate that those sisters were whores \[_putas_\]. The said Mateus Rodrigues said that today, on this day, he heard Montesinos asking Antonio Nunes Torres to tell João Gonçalves that Simão da Veiga was about to go bankrupt, and that he also said that \[fol. 381v.\] he would bring all harm he could on them on the account of a boy \[retainer\] that he took away from him. The said João Gonçalves said that many days prior to the producents’ arrest, Antonio Nunes Torres came to warn him, on behalf of Jacob Montesinos, against Simão da Veiga, who was about to go bankrupt. When the witness asked Montesinos why he defamed Simão da Veiga, he answered that he would bring him all harm he could because he had taken away a retainer. // The witness further said that he had been his \[Simão da Veiga had been Gonçalves’\] cashier \[agent\] and that much money was entrusted to him, on which proceeds he always reported well without any default. And so all witnesses said that they knew the said Simão da Veiga and considered him a peaceful and honored man, etc. July 18, 1616
+
+\[Signatures\]
+
+Francisco da Costa, about 22 years old, and Antonio Nunes Torres, about 44, said the following: Antonio Nunes Torres said that a few days prior to the arrest of the said Veigas, Jacob Montesinos told him that Simão da Veiga had sold some merchandise below the price that they had cost, and that he understood that he will not report well about his dealings. Although Montesinos did not speak with João Gonçalves, he was his friend, and understood that Veiga owed money to Gonçalves, saying to the witness to let him \[Gonçalves\] know on his behalf \[Montesinos\] in order to consider how to proceed with him. The witness said so to the João Gonçalves but said nothing beyond what Montesinos himself had told to him.
+
+Francisco da Costa said that at the time \[fol. 382\] Montesinos retired home, after he had run with a sword after João da Veiga, the witness heard Montesinos’ wife screaming a lot, swearing many oaths and saying that the Veigas were bad men and that their sisters were public whores. Montesinos’ wife said further that she would have the Veigas killed through a brother of her. Sebastião Nunes, about 38 years old, said that today he heard Montesinos say, in the presence of João Gonçalves and Mateus Rodrigues, that he had asked Antonio Nunes Torres to warn João Gonçalves about Simão da Veiga, who Montesinos understood to be about to go \[abscond\] and take some of what he had retrieved \[on Gonçalves’ behalf\], and would not report properly the proceeds
+
+\[Signatures\]
+
+Jorge Vaz Pereira, about 22 years old, said that more than two months prior to the arrest of the Veigas, the witness went to the house of Jacob Montesinos to ask him about Simão da Veiga, and Montesinos told him that he \[Veiga\] had left the country. While they spoke about it, Manuel Rodrigues da Veiga, brother of the said \[Simão da\] Veiga, arrived there, and wanted to walk up to the home of his brother, but was obstructed by Montesinos, who said that all that belonged to him \[Veiga\] was judicially seized
+
+\[Signatures\]
+
+\[fol. 403\] \[^3\]
+
+Mateus Rodrigues, about 60 years old, Fernão Alvares Mello, 36 years old, and Diogo Gomes da Costa, 28 years old, all approximate ages, said at the request of João da Veiga, arrested party, that the witnesses know very well that the said prisoner came here \[Amsterdam\] from Antwerp in order to see his sister after learning that she was alive, because he had not seen her for a long time, since \[she?\] was in Spain, and they understand that the aforesaid about him, namely that he came in order to beat Jacob Montesinos is false, July 25, 1616
+
+\[Signatures\].
