@@ -182,3 +182,45 @@ Many a helmet,
 skull and beard
 
 were cloven by swords.
+
+Ah, Venus, thou Empress,  
+I mean you, praiseworthy Dame of Love, stand by your servants  
+and free them of all care!  
+Her answer: “Friend Wolfram,  
+I do not abandon my servants.”
+
+Ajax the mighty prince,
+
+with manly courage exalted above all others,
+
+felled many a one in his blood,
+
+just as the goodly young knight
+
+Aminall did, whose mighty sword
+
+injured and cut many.
+
+This horrifying battle
+
+lasted until the twelfth day.
+
+Many a strong Red Jew
+
+lay dead, wretched.
+
+At that time
+
+the balsam was found
+
+that, still today, in times of affliction
+
+raises men's spirits.
+
+Twenty thousand of the Red ones
+
+were killed on those days,
+
+and the remainder
+
+fled to the mountains.
