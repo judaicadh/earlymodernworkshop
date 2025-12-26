@@ -470,7 +470,29 @@ original_language_body: >-
   מיט מנוחה. אונ' מיט וריידן דז זי זיך ניט דורפטן פוירכטן ואר דעם מוינך. אונ'
   דער קויניג אונ' אלי ריכטר דעז קויניגש אונ' אלי ועלקר וורן דען יודן זער גוט
   גיווארדן דורך דיא וואונדר דז יודלן דיא עז גיטון הט</p><p style="text-align:
-  right">[...]</p>
+  right">[...]</p><p style="text-align: center"><strong>Footnotes:</strong></p>
+
+
+  \[^1\] .ווען ער אין נייארט אן רירן טוט וואו אן זיין שטירן : Printing Fürth
+  1694, fol. 2a
+
+
+  \[^2\] וויא איז דאש מיגליך דאז דער קליין ליים הינקידיג :Printing Fürth 1694,
+  fol. 4b 2
+
+
+  .מענדליין זאל קענן בּשטין פר דעם גרושן מינכן אונ' עז איז הינקט
+
+
+  \[^3\] .דאז קליין יודליין צו דרימר צו הויאן :Printing Fürth 1694, fol. 5a
+
+
+  \[^4\] Print edition from Fürth 1694, fol. 5a: In order to pound the little
+  \[Red\] Jew to pieces.
+
+
+  \[^5\] Print edition from Fürth 1694, fol. 5b: The \[Red Jew\] kneaded the
+  fragments as if they were dough.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
