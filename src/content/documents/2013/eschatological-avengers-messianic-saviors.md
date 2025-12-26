@@ -120,3 +120,21 @@ by many faithless men
 who despised the lords,
 
 they themselves knew why.
+
+\[...\]
+
+When the ship had to come ashore,
+
+Hercules \[i.e., Ulysses\] saw
+
+an innumerable horde
+
+riding toward the vessel.
+
+But, fearful man that he was,
+
+he fled to the bilge of the ship,
+
+and lay hidden there
+
+until the twelfth morning.
