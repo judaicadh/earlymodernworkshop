@@ -698,7 +698,7 @@ That king is known as Alexander.
 
 <p style="text-align: center"><strong>Footnotes</strong></p>
 
-\[^1\]  Koppitz  reads  “Colchis,”  an  ancient  kingdom  in  today’s  western  Georgia.  This   conforms  to  the  well  established  association  of  the  land  of  the  Red  Jews  with  the   Caucasus  region.  Another  speculative  reading,  for  which  I  am  indebted  to  Regina   Toepfer,  could  be  “fat  and  strong  men”  or  “fatsos,”  cf.  Ernst  Christmann  and  Julius   Krämer,  Pfälzisches  Wörterbuch  (Wiesbaden:  Franz  Steiner  Verlag,  1965-­‐1998),  vol.   1:1028,  s.v.  Plotzer
+\[^1\]  Koppitz  reads  “Colchis,”  an  ancient  kingdom  in  today’s  western  Georgia.  This   conforms  to  the  well  established  association  of  the  land  of  the  Red  Jews  with  the   Caucasus  region.  Another  speculative  reading,  for  which  I  am  indebted  to  Regina   Toepfer,  could  be  “fat  and  strong  men”  or  “fatsos,”  cf.  Ernst  Christmann  and  Julius   Krämer,  Pfälzisches  Wörterbuch  (Wiesbaden:  Franz  Steiner  Verlag,  1965-­‐1998),  vol.   1:1028,  s.v.  _Plotzer_
 
 <h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><em>Ma'ase 'Akdamut </em>(c. 1580-1600)</p>
 
@@ -726,3 +726,13 @@ When the monk scanned the sky above him without seeing any of his teachers \[i.e
 \[The little Red Jew\] said to the monk: “This tall, thick tree has been untouched since Noah built the ark. Since Noah felled the tree \[for his ark\], this tree has been growing in its spot. I will bend it downward and then you shall hold it to the ground to prevent it from snapping back. Or \[if you’d rather,\] you can bend it and I will hold it down.” Again, the monk considered performing another trick, \[32a\] by means of sorcery. But none of the demons were in sight, so he cried and whimpered: “Why did you abandon me, dear masters?” The little Red Jew mocked him: “What is this crying about? Did your father or your mother just die?” The monk, however, didn’t feel like laughing; he wished that he had died long ago because he had no idea how to bend this mighty tree. \[...\] The little \[Red\] Jew, however, bent the tree like a twig before everyone’s eyes. \[...\] Uneasy about his part, the monk was reluctant to step forward, and the little Red Jew shouted: “My highness the king and the entire court of lords, behold this man, \[32b\] what an unusual magician!” The monk was embarrassed because this was not what he had envisioned. \[...\] Although he could already foresee his death, the monk had to carry on. He approached the tree with great shame. \[...\] When the monk finally grabbed it tightly, the little \[Red\] Jew let go. Immediately, the tree snapped back and strongly lashed at the monk, knocking his head off. And everyone witnessed him being tossed into the air, where his body was caught on the pole, between the two millstones that were rotating \[33a\] on it, and sent him flying into the wasteland, as the little Red Jew had foretold.
 
 Thus, the Holy One, blessed be He, saved us. Seeing these miracles, all of Israel and all peoples, King Martin von Lanz and all the other kings returned home in peace and joy, for they would never have to fear that Black Monk ever again. The miracle performed by the little Red Jew won favor for the Jews among the king, his judges and all peoples.
+
+<p style="text-align: center"><strong>Footnotes:</strong></p>
+
+\[^1\] Print edition from Fürth 1694, fol. 2a: Even if he just touched against his forehead.
+
+\[^2\] Print edition from Fürth 1694, fol. 4b: How can that lame little man possibly stand up to the great monk? He is limping!
+
+\[^3\] _Kefitzat ha-Derech_ is implied here, a magical practice of traveling long distances with miraculous speed by “contracting the path” via the use of divine names.
+
+\[^4\] Print edition from Fürth 1694, fol. 5a: In order to pound the little \[Red\] Jew to pieces.
