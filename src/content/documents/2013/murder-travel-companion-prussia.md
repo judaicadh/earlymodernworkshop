@@ -34,10 +34,11 @@ original_language_body: >-
 
   \[297b\] Er hieße Samuel Saul und wiße nicht genau, ob er 22. oder 23. Jahr
   alt sey. Er sey ein Jude zu Birnbaum, von Jüdischen Eltern, die eigentlich in
-  Czircke in Pohlen, wohnten, gebohren. ---
+  Czircke in Pohlen, wohnten, gebohren.
 
 
-  \[298b\]  
+  \[298b\]
+
 
   Hier in Berlin sey er im Juden Lazareth, von seiner Krankheit, welche damals
   in Brustschmerzen und Blut Auswerfen bestanden, vom Doctor Herz curiret
@@ -65,7 +66,8 @@ original_language_body: >-
   gerissen, und gar sich das Leben nehmen wollen, so habe dieser abscheuliche
 
 
-  \[299\]  
+  \[299\]
+
 
   Auftritt ihn veranlaßt, heimlich von Quilitz sich zu entfernen, ob er sich
   gleich sonst mit seinem Brodherrn sehr gut gestanden. Er habe sich nach seiner
@@ -95,7 +97,8 @@ original_language_body: >-
   Weinen und Schreien solches betheuert und von ihm verlangt,
 
 
-  \[299b\]  
+  \[299b\]
+
 
   Daß er sich mit ihr in einer Stadt trauen lassen solle. Um nun kein Spectacle
   zu haben, wäre er mit ihr auf den Boden gegangen, und habe ihr daselbst, weil
@@ -103,7 +106,8 @@ original_language_body: >-
   vielmehr solche habe beschwören wollen, alles was er im Vermögen gehabt,
   sein Geld, seine Hemden und seine Uhr angebothen, aber vergeblich, indem sie
   vielmehr darauf bestanden, daß er noch am Montage mit ihr fortgehen solle, und
-  sich nur mit Mühe überreden laßen, die Nacht noch zu bleiben.  
+  sich nur mit Mühe überreden laßen, die Nacht noch zu bleiben.
+
 
   Er habe sich nun zwar davon Hoffnung gemacht, daß sie anderes Sinnes werden
   würde, allein sie habe ihn in der Nacht um 1 oder 2 Uhr geweckt, und
@@ -126,7 +130,8 @@ original_language_body: >-
   Stocke gedrohet, und sey seitwärts
 
 
-  \[300\]  
+  \[300\]
+
 
   aus dem Wege nach dem Ort zugegangen, den Inquirent wohl wiße und den Inquisit
   nachher so beschreibt, daß er 10 oder 5 Schritte vom Grenz Graben, auf der
@@ -153,7 +158,8 @@ original_language_body: >-
   Brennerey ankommen könne, geben laßen. Von da habe er sich
 
 
-  \[300b\]  
+  \[300b\]
+
 
   nach Landsberg begeben, sey jedoch noch an demselben Tage, nachdem er sich
   Kattun für den Schmey gekaufft, und von dem Secretaire des General v Normann,
