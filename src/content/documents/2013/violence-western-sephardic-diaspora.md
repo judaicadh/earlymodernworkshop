@@ -102,6 +102,18 @@ The instances in which aggression occurred suggest that it was a reaction to the
 
 \[^1\] His interrogation _in genere_ took place a long time after his first session.
 
+<p style="text-align: center"><strong>Denouncers and Impeachment Articles:</strong></p>
+
+Antônio da Costa (21.11.1621)  
+– the defendant claimed that the denouncer hated him
+
+Simão Fernandes de Tovar (26.11.1621)  
+– the defendant claimed that the denouncer hated him
+
+Catarina de Sena (27.04.1625)
+
+– the defendant claimed that the denouncer’s husband, uncle, brother, brother-in- law hated him. He also claimed that the accusation were false, because he was not in Porto but in Madrid at the time when he was supposed to have committed such “crimes.”
+
 <p style="text-align: center"><strong>BIBLIOGRAPHY</strong></p>
 
 FRANCO, José Eduardo and ASSUNÇÃO, Paulo de. _As metamorfoses de um polvo_: _religião e política nos regimentos da Inquisição portuguesa (séculos XVI– XIX)._ Contains the full text of records of the Portuguese Inquisition. Lisbon: Prefácio Editora, 2004.
@@ -122,17 +134,6 @@ SWETSCHINSKI, Daniel Maurice. “The Portuguese Jewish Merchants of Seventeenth-
 
 <h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center">Arquivos Nacionais – Torre do Tombo (Lisbon), Santo Ofício: Inquisição de Lisboa, processo 3418, of Manuel Rodrigues dos Santos.</p><p style="text-align: center"><strong>Violence among New Christians in Porto recounted in inquisitorial files: The file of Manuel Rodrigues dos Santos</strong></p>
 
-Denouncers and Impeachment Articles:  
-Antônio da Costa (21.11.1621)  
-– the defendant claimed that the denouncer hated him
-
-Simão Fernandes de Tovar (26.11.1621)  
-– the defendant claimed that the denouncer hated him
-
-Catarina de Sena (27.04.1625)
-
-– the defendant claimed that the denouncer’s husband, uncle, brother, brother-in- law hated him. He also claimed that the accusation were false, because he was not in Porto but in Madrid at the time when he was supposed to have committed such “crimes.”  
-  
 **1st List of Impeachment Articles (81 articles)**
 
 4 He \[the culprit\] will prove that Antonio da Costa and his wife, Isabel de Brito, and his father-in-law, Francisco de Brito, and Francisco Ribeiro and Sebastião Ribeiro, both uncle and cousin of the aforesaid \[Antonio da Costa\] and their wives and children are capital enemies of the defendant. The reason for the enmity arose when the defendant brought a consequential lawsuit at the royal civil court \[_juízo do corregedor do cívil_\] in that city \[Porto\] against the aforesaid Francisco Ribeiro over a shipment of sugar that the defendant had sold to him. During the judgment, when the witnesses were heard at the home of the clerk André Pinto, the said Antonio da Costa was about to bear witness, standing before the doorstep of the said clerk. Then, the defendant said to him to mind how he swore, saying that he should not swear as his father-in-law, Francisco de Brito, who always swore falsely against the defendant, do. Over this issue, they exchanged bad words, blows and knife strokes. Many people came between. From that time on, both became deadly enemies, saying bad things about each other. For this reason, all the aforesaid \[relatives of Antonio da Costa\] became deadly enemies of the defendant, and their testimonies may not bring harm to him.
