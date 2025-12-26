@@ -224,3 +224,13 @@ were killed on those days,
 and the remainder
 
 fled to the mountains.
+
+They lived there many years
+
+until a very powerful and good king
+
+defeated them and conquered that land.
+
+That king is known as Alexander.
+
+\[...\]!
