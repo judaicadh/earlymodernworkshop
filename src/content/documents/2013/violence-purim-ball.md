@@ -14,6 +14,99 @@ publication_location:
   - Livorno
 description: The texts presented here address an incident of violence at a Purim
   ball 1753, in Livorno.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Archivio di Stato di Livorno, serie Governatore e
+  Auditore</strong></p><p style="text-align: center"><strong>Filza 3104, 642r-v,
+  684r</strong></p>
+
+
+  Il 21 marzo 1753 Francesco Masi luogotenente del Bargello di Livorno querelò
+  Angelo Soria, David Montefiore, e Abram Soria, tutti di Nazione Ebrea, la sera
+  del 20 marzo trovandosi alla veglia di ballo che faceva in sua casa Elia
+  Ottolenghi di Nazione parimenti Ebreo, ed essendo ivi venuti a contesa di
+  parole e poi alle Mani con Abram Pardo da uno dei suddetti tre fosse dato di
+  mano in tal atto a uno stile di qualità proibita, benché non vi seguissero
+  offese colla medesima arme.
+
+
+  Per porre in chiaro quanto proponeva il querelante nella delazione, e uso
+  dell’arme proibita, fu proceduto all’esame non solo di quei testimoni che
+  nominati aveva il querelante istesso, ma degli altri ancora che nel corso del
+  processo erano stati creduti informati.
+
+
+  Il primo testimone, che è Jacob de Costa, ricercato della qualità dell’arme
+  così dice: Ivi “In quella barabasta \[?\] io osservai che Angiolo Soria aveva
+  impugnato in mano un coltello, di che qualità poi si fosse non so dirglielo.”
+  E più sotto ivi: “Certo che sarà stata un arme \[sic\] proibita perché se
+  non fosse stato capace d’offendere non l’averebbe portato, ma descriverlo per
+  l’appunto non so certamente farlo.” E più sotto ivi: “Ma non troverà alcuno
+  che gli dica come precisamente fosse detta arme, perché fu troppo grande la
+  confusione”.
+
+
+  Jacob Attias, secondo testimone così dice rispetto all’arme, ivi: “Io veddi
+  per aria lampeggiare e luccicare un ferro” e più sotto ivi: “Io come gli dico
+  in occasione che veddi il tumulto, e me n’andai ritirandomi in altra stanza,
+  osservai per aria luccicare come un arme, ma come fosse, o non fosse non lo
+  so.”
+
+
+  Abram Frias, terzo testimone così dice rispetto all’arme, ivi: “Io posso
+  dirgli che poco avanti che giungesse il soldato, avevo veduto quella maschera
+  che disse esser David Montefiore che messasi \[642v\] la mano in tasca tirò
+  fuori un arme, ma appena si poté vedere che arme si fosse, benché io vedessi
+  luccicare, né si poté vedere che arme fosse o non fosse quella che aveva
+  impugnato il medesimo” E più sotto ivi: “Potrebbe essere che fosse stato uno
+  stile perché quella sorte di gente non porta coltelli, ma torno a replicargli
+  che la qualità precisa di detta arme non glie la posso dire.” E più sotto
+  ivi: “L’arme fu messa fuori e se sapessi di che qualità fosse glie lo direi.”
+
+
+  Abram Pardo Roques, che è l’offeso e insultato per rapporto all’arme così
+  dice ivi: “Ed essendomi ancora provato ad ammenare al medesimo un pugno,
+  allora fù \[sic\] che veddi rilucere in mano del medesimo un arme.” E più
+  sotto: “Appena io veddi che messa fuori l’arme che subito la ripose, né si
+  poté veder cosa fosse, cioè che arme fosse e come fosse.”
+
+
+  Abram Zancò, quarto che era il Maestro di ballo, Pincas Erera quinto, Lazzero
+  Levi sesto, Alessandro Ottolenghi settimo testimoni \[sic\], sebben
+  strettamente ricercati sopra l’arme asseriscono di non averla veduta
+
+
+  Abram Rodrigues, ottavo testimone sul proposito dell’arme così dice ivi:
+  “Volendosi detto Pardo difendere, veddi che quella maschera che gli aveva
+  ammenato lo schiaffo tirò mano a un coltello col quale non poté operar cosa
+  alcuna.” E più sotto: “Era un coltello lustrante per quanto permettevano i
+  lumi che si vedesse, e era un coltello che aveva la lama lunga otto o dieci
+  dita, e secondo me pareva che fosse un coltello alla fiaminga, ma non ci fù
+  tempo di considerarlo bene perché venne subito il soldato, e cominciò a
+  dare.” E più sotto ivi: “Il Coltello non lo ho preso in mano, e secondo me
+  dico che fosse un coltello alla Fiaminga certo appuntato, e nuovo, perché era
+  lustrante e come dico non ci fù tempo d’osservarlo bene.”
+
+
+  Il 9°, 10° e 13° testimoni che si trovarono sul fatto, i primi due de’ quali
+  sono Cristiani, attestano di non aver veduta l’arme, tralasciandosi l’11° e
+  12° \[testimoni\] perche anno de\[684r\]posto d’altre circostanze niente
+  relative all’arme.  
+
+  Tanto fedelmente rilevasi dagli atti, sicché non parendomi che vi sieno prove
+  sufficienti per creder reo alcuno dei tre querelati della delazione dell’arme
+  proibita terrei rispetto a questo caso il processo aperto usq. ad nova, e
+  perché Abram Pardo insultato faceva istanza nel suo esame procedersi contro
+  Abram Soria per lo schiaffo che egli aveva ammenato, giacché il Padre del
+  medesimo ne ha fatto renunzia che è in processo non procederei più oltre.
+  Rimettendomi sempre alle più giuste determinazioni di V.M.C. alla quale
+  rassegnandomi con profondo rispetto m’inchino al bacio dell’imperial manto
+
+
+  Livorno, 25 aprile 1753; approvato il 5 maggio 1753
+
+
+  Carlo Ginori
 ---
 <h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center"><strong>Archivio di Stato di Livorno, serie Governatore e Auditore</strong></p><p style="text-align: center"><strong>Filza 3104, 642r-v, 684r</strong></p>
 
