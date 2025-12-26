@@ -450,68 +450,6 @@ original_language_body: >-
   diefleyers que não prendesse’ os dittos yrmãos não Cessou ho ditto
   montesinhos de gritar prendey os que são ladrois, ladois são, prendej os.
   \[Signatures\]
-
-
-  \[^1\] See a Dutch version of this affidavit, including the testimony of a
-  Dutchman, Gerrit Everts, in: SAA: 5075, notary public Nicolaes and Jacob
-  Jacobs., book 379, fols. 363-364 (1616-7-7), published in:
-
-
-  SR Nr. 964, 10:2 (1976): 216:  
-
-  Deed concerning a quarrel between Simão and João da Veiga and Jacob
-  Montesinos.
-
-
-  Gerrit Everts, about 70 years old, Luis Vas, 29 years old, Felipe Lopes, 27
-  years old and Estienen Senton, a Frenchman, 31 years old, make the following
-  affidavit concerning a quarrel between Simão and João da Veiga and Jacob
-  Montesinos. Montesinos, armed with an unsheathed rapier and assisted by a
-  servant armed with a broomstick, would have attacked João da Veiga, brother
-  of Manoel Rodrigues Veiga, on the street. The day after João had an
-  altercation with Montesinos and his wife. The latter two insinuated that Da
-  Veiga's sisters were prostitutes and that they had moved from Antwerp to
-  Brussels because of this. When Simão and João were apprehended Montesinos
-  tried to kill them
-
-
-  n. 37: See also deeds nrs 967 and 969. In an interrogation by the judicial
-  magistrates of Amsterdam on July 16, 1616 Simão da Veiga, cashier from
-  Lisbon, about 32 years old, declares that his quarrel with Montesinos started
-  because the latter insinuated that he was bankrupt and that his mother and
-  sister were prostitutes. It later came to a scuffle on the Blauwbrug where he
-  hit Vega with a stick but he did not draw his dagger. His brother got involved
-  only later. (See G.A.A., R.A., 291, fol. 32.)
-
-
-  n. f: Fol. 363-364: Dutch summary; fol. 415: signed statement in Dutch and
-  Portuguese.
-
-
-  \[^2\] Published in SR Nr. 967, 10:2 (1976): 216:
-
-
-  Affidavits of Gaspar Burgos, about 70 years old, Fernando d’Alvares Mello,
-  about 47 years old, Matheo Rodrigues, about 60 years old, Juan Goncales, about
-  27 years old, Francisco da Costa, about 22 years old, Antonio Nunes Torres,
-  about 44 years old, Sebastião Nunes, about 38 years old and Jorge Vas
-  Pereira, about 22 years old, made at the request of Simão and João da Veiga
-  concerning a quarrel between the latter two and Jacob Montesinos.
-
-
-  n. 40: See further deed nr. 964.
-
-
-  \[^3\] SR Nr. 969, 10: 2 (1976): 216:
-
-
-  Affidavit of Mathias Rodrigues, about 60 years old, Fernando Alvares de Mello,
-  about 47 years old, Diogo Gomes da Costa, about 28 years old and Jacob Dein
-  and his wife, made at the request of João da Veiga concerning a quarrel
-  between Simão and João da Veiga and Jacob Montesinos.
-
-
-  n. 41: See further deed nr. 964.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -709,6 +647,31 @@ Jorge Vaz Pereira, about 22 years old, said that more than two months prior to t
 Mateus Rodrigues, about 60 years old, Fernão Alvares Mello, 36 years old, and Diogo Gomes da Costa, 28 years old, all approximate ages, said at the request of João da Veiga, arrested party, that the witnesses know very well that the said prisoner came here \[Amsterdam\] from Antwerp in order to see his sister after learning that she was alive, because he had not seen her for a long time, since \[she?\] was in Spain, and they understand that the aforesaid about him, namely that he came in order to beat Jacob Montesinos is false, July 25, 1616
 
 \[Signatures\].
+
+<p style="text-align: center"><strong>Footnotes:</strong></p>
+
+\[^1\] See a Dutch version of this affidavit, including the testimony of a Dutchman, Gerrit Everts, in: SAA: 5075, notary public Nicolaes and Jacob Jacobs., book 379, fols. 363-364 (1616-7-7), published in:
+
+SR Nr. 964, 10:2 (1976): 216:  
+Deed concerning a quarrel between Simão and João da Veiga and Jacob Montesinos.
+
+Gerrit Everts, about 70 years old, Luis Vas, 29 years old, Felipe Lopes, 27 years old and Estienen Senton, a Frenchman, 31 years old, make the following affidavit concerning a quarrel between Simão and João da Veiga and Jacob Montesinos. Montesinos, armed with an unsheathed rapier and assisted by a servant armed with a broomstick, would have attacked João da Veiga, brother of Manoel Rodrigues Veiga, on the street. The day after João had an altercation with Montesinos and his wife. The latter two insinuated that Da Veiga's sisters were prostitutes and that they had moved from Antwerp to Brussels because of this. When Simão and João were apprehended Montesinos tried to kill them
+
+n. 37: See also deeds nrs 967 and 969. In an interrogation by the judicial magistrates of Amsterdam on July 16, 1616 Simão da Veiga, cashier from Lisbon, about 32 years old, declares that his quarrel with Montesinos started because the latter insinuated that he was bankrupt and that his mother and sister were prostitutes. It later came to a scuffle on the Blauwbrug where he hit Vega with a stick but he did not draw his dagger. His brother got involved only later. (See G.A.A., R.A., 291, fol. 32.)
+
+n. f: Fol. 363-364: Dutch summary; fol. 415: signed statement in Dutch and Portuguese.
+
+\[^2\] Published in SR Nr. 967, 10:2 (1976): 216:
+
+Affidavits of Gaspar Burgos, about 70 years old, Fernando d’Alvares Mello, about 47 years old, Matheo Rodrigues, about 60 years old, Juan Goncales, about 27 years old, Francisco da Costa, about 22 years old, Antonio Nunes Torres, about 44 years old, Sebastião Nunes, about 38 years old and Jorge Vas Pereira, about 22 years old, made at the request of Simão and João da Veiga concerning a quarrel between the latter two and Jacob Montesinos.
+
+n. 40: See further deed nr. 964.
+
+\[^3\] SR Nr. 969, 10: 2 (1976): 216:
+
+Affidavit of Mathias Rodrigues, about 60 years old, Fernando Alvares de Mello, about 47 years old, Diogo Gomes da Costa, about 28 years old and Jacob Dein and his wife, made at the request of João da Veiga concerning a quarrel between Simão and João da Veiga and Jacob Montesinos.
+
+n. 41: See further deed nr. 964.
 
 <h2 style="text-align: center">Source 3 Compilation</h2><p style="text-align: center"><strong>A few other cases of violence by or among Sephardic Jews registered in Amsterdam notarial records </strong>(summaries were published in <em>Studia Rosenthaliana</em>) [^1]</p>
 
