@@ -6,4 +6,11 @@ institution: Goethe-Universität, Frankfurt
 volume: 10
 year: "2013"
 slug: eschatological-avengers-messianic-saviors
+language:
+  - "German (Source 1) "
+  - Yiddish (Source 2)
+publication_location:
+  - Switzerland
+text_location:
+  - Sambatyon River (Source 2)
 ---
