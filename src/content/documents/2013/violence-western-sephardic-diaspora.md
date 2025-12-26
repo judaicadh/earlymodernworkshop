@@ -649,3 +649,23 @@ Mateus Rodrigues, about 60 years old, Fernão Alvares Mello, 36 years old, and 
 \[Signatures\].
 
 <h2 style="text-align: center">Source 3 Compilation</h2><p style="text-align: center"><strong>A few other cases of violence by or among Sephardic Jews registered in Amsterdam notarial records </strong>(summaries were published in <em>Studia Rosenthaliana</em>) [^1]</p>
+
+**Campos vs. Alvares:**
+
+Stadsarchief Amsterdam (SAA): Archief van de Notarissen ter Standplaats Amsterdam (5075), notary public Jacob and Nicolaes Jacobs, book 377A, fol. 240 (1614-6-26)  
+SR Nr. 739, 7:2 (1973): 267-268
+
+Sebastião Rodrigues Chaves, about 21 years old, and Vasco Gomes, about 20 years old, Portuguese merchant in Amsterdam, make the following statement at the request of Rodrigo Alvares: when Rodrigues Chaves went home from church a 9 to 10 months ago in the company of Alvares, they met Manoel de Campos. De Campos took off his hat and produced a stick from under his cloak and gave Alvares a beating with the words “thus the account will be settled.” When Alvares tried to take the stick away from him, De Campos drew his sword. They were then separated by by-standers \[^2\].
+
+**Jews vs. Dutch (?) shoemaker apprentice:**
+
+SAA: 5075, notary public Hendrick Bruyningh, book 747, fol. 1059 (1624-5-13) SR Nr. 3152, 29:1 (1995): 100
+
+Affidavits by Willem Jansz., baker, 40 years old, Gerrit Adriaensz. Meun 38 years old, Claes Reynierssen, cooper, 28 years old, Lubbert Fockes, cooper, 36 years old, Hermen Jansz., cloth maker, 34 years old and Hendrick Hermens, cooper, 22 years old, made at the request of the wife of captain Pieter Mieussen Vloo concerning a fight that took place in the evening of May 12 last in the Breestraat and Korte Houtstraat. In this fight some Portuguese were harassed and one elderly Portuguese was maltreated by a certain Jan, a shoemaker's apprentice. The shoemaker’s apprentice was stabbed.
+
+**Cardoso vs. Pina:**
+
+SAA: 5075, notary public Jacob and Nicolaes Jacobs., book 390, fol. 393 (1625-6- 24)  
+SR Nr. 3326, 30:2 (1996): 318
+
+Carolus de Becx, 25 years old and Isaac Brazilai, 29 years old, make the following statement at the request of Balthasar Cardoso. Becx declares that together with Cardoso he had entered Breestraat from outside Sint Anthonispoort. There they passed Abraham de Pina with his wife and sister. Cardoso did not speak to them nor did he insult them but it was De Pina who abused Cardoso, shouting that one of his friends should give him a sword so that he could kill that thief. Then De Pina took hold of a broomstick and rushed at Cardoso, who did all he could to ward off the blows. Brazilai declares that he and many other Portuguese witnessed this scene and that he took the stick away from De Pina. Both declare that they have clearly heard it said that the judicial authorities had forbidden Cardoso and De Pina to abuse one another in any way, either by words or by actions.
