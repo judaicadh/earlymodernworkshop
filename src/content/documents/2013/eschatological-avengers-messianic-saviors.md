@@ -104,6 +104,30 @@ original_language_body: >-
 
 
   Die miltten ritter usserlessen
+
+
+  Rustend aber ze stritte sich,
+
+
+  Won es in alle\[n\] sicherlich
+
+
+  Vor getett nie so not.
+
+
+  Uff den vil grimenklichen tod
+
+
+  Wurden sy gevochten an
+
+
+  Von mengem valschhaften man
+
+
+  Die den heren trügen hass,
+
+
+  Sy wüsten selber umb waz.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
