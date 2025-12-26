@@ -148,19 +148,20 @@ original_language_body: >-
 
 
   49 Provara q o [L.do](http://L.do) thome vas, e seus f.os ant.o vas, diogo de
-  pina, andre nunes pina4, thomas nunes pina, e suas [f.as](http://f.as) cn.a de
-  pina, aldonça nunes, catarina de pina e paulo lopes da cunha marido da dita
-  cn.a de pina, e ant.o da fonseca pina e Jeronimo da fonseca pina sobrinhos do
-  dito thome vas e primos cõ irmãos dos sobreditos todos m.ores na cidade do
-  porto são inimigos capitais delle R., porq' trazendo o contraditato thome vas
-  demandas cõ o dito seu f.o andre nunes pina sobre alimentos q o dito seu f.o
-  lhe pedia avera doze ou treze annos lansandoo de caza sẽ lhe dar sustentasão
-  pella qual rezão o dito andre nunes passara m.tas necessidades e se metia por
-  caza dos vizinhos a pedir lhe o aiudasse a sustentar elle R. aconselhou ao
-  sobredito andre nunes q pois a sua irmã aldonsa nunes era a cauza do dito
-  thome vas seu pai o lansar de caza e lhe não dar alimentos a esperasse hũ
-  dia q fosse fora da caza e lhe puzesse e fizesse \[p. 23\] medos e amessas p.a
-  q mais o não odiasse cõ o dito seu pai.
+  pina, andre nunes pina\[^4\], thomas nunes pina, e suas [f.as](http://f.as)
+  cn.a de pina, aldonça nunes, catarina de pina e paulo lopes da cunha marido
+  da dita cn.a de pina, e ant.o da fonseca pina e Jeronimo da fonseca pina
+  sobrinhos do dito thome vas e primos cõ irmãos dos sobreditos todos m.ores
+  na cidade do porto são inimigos capitais delle R., porq' trazendo o
+  contraditato thome vas demandas cõ o dito seu f.o andre nunes pina sobre
+  alimentos q o dito seu f.o lhe pedia avera doze ou treze annos lansandoo de
+  caza sẽ lhe dar sustentasão pella qual rezão o dito andre nunes passara
+  m.tas necessidades e se metia por caza dos vizinhos a pedir lhe o aiudasse a
+  sustentar elle R. aconselhou ao sobredito andre nunes q pois a sua irmã
+  aldonsa nunes era a cauza do dito thome vas seu pai o lansar de caza e lhe
+  não dar alimentos a esperasse hũ dia q fosse fora da caza e lhe puzesse e
+  fizesse \[p. 23\] medos e amessas p.a q mais o não odiasse cõ o dito seu
+  pai.
 
 
   50 Provara q indo o dito [L.do](http://L.do) thome vas pouquos dias depois do
@@ -292,6 +293,12 @@ original_language_body: >-
 
 
   tempo estar presente E servir o cargo \[p. 10\] de Procurador da cidade.”
+
+
+  <p style="text-align: center"><strong>Footnotes:</strong></p>
+
+
+  \[^4\] Interlined: “e dona anna \[mulher de Andre Nunes Pina\].”
 
 
   <h2 style="text-align: center">Source 2 Original</h2><p style="text-align:
