@@ -100,3 +100,17 @@ When I came here to the Holy Community of Ühlfeld I heard from members of the 
 22\. The members of the Holy Community of Ühlfeld, may God protect them, have built a splendid synagogue. Only few of them talk in the synagogue during the prayer and after it but great anger and dispute came between them concerning the matters of the synagogue, Torah reading and other issues. And there are those who do not listen to their leaders and therefore I spoke and decided with my authority that whoever perpetrates and causes quarrels in the synagogue and does not listen to the voice of the leader or of the _Gabbai Tzedaka_ \[will have to pay\] a fine of one _Reichstaler_, half for the ruler and half for the poor fund.  
 Concerning the Torah readings they may proceed as always was usual that there won’t be men who do not read from the Torah. That means that on the first Shabbat of a month two of those who had no turn in the last month will read and on a Shabbat after a holyday these who read on the holyday will not read again, but those who had no turn on the holyday before,  
 Menahem Mendel \[...\]
+
+**Endnotes**
+
+\[^1\] Deut. 12, 8.  
+\[^2\] According to Ez. 1, 63  
+\[^3\] A wedding celebrated by poor Jews.  
+\[^4\] Minimum of vine served at weddings, the term was used among Christians in Germany.  
+\[^5\] From here until the end of the paragraph in a different handwriting.  
+\[^6\] 15 July 1688.  
+\[^7\] 30 June 1683.  
+\[^8\] 5 July 1690.  
+\[^9\] Meaning ‚rabbi’.  
+\[^10\] 12 October 1698.  
+\[^11\] 28 June 1694.
