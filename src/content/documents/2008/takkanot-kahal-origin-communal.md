@@ -6,4 +6,7 @@ institution: Jewish National Library, Israel
 volume: 5
 year: "2008"
 slug: takkanot-kahal-origin-communal
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Law--Continuity and Change in the Early Modern Period
 ---
