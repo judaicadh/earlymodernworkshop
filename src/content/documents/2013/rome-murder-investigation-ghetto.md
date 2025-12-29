@@ -556,6 +556,8 @@ He answered:_ I know a Jewish woman called Marchisianella. She is an enemy of mi
 
 \[_In the next days, the court confronted Marchisianella and Sabato. Both confirmed their previous depositions. Sabato was put to torture but didn’t change his story. Meanwhile another major trial was begun against the Jews triggered by Friday night burglaries involving a large group of individuals. Sabato also gave testimony in this matter. Though we don’t have the final sentence, there is the brief note in Register 59 of the “Registrazioni d’atti”of this court dated October 30th, 1571: “Pro Sabato del Corsetto hebreo” (In favor of Sabato del Corsetto Jew). Thus on that day Sabato was freed.\]_
 
+\*Latin in the original appears here in italics; Italian is presented in Roman characters. I'd like to thank Bernard Cooperman for his careful revision of my English translations.
+
 <h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Roma, Archivio di Stato di Roma, <em>Tribunale Criminale del Governatore, Processi, registro 140, case 11, cc. 869r-956v</em></strong></p>
 
 _\[Trial for\] various thefts and other excesses occurring in Rome.  
