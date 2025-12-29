@@ -18,6 +18,205 @@ description: "The 1571 story of Sabato del Corsetto tells about violence in the
   violence among women; violence arisen both for economic and personal reasons
   and even attempt made by the Jewish community to manage violence and violent
   people."
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center">Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale Criminale del
+  Governatore, Processi, registro 140, case 8, cc. 422r/457r*</em></p>
+
+
+  _Reverendissimo Almae Urbis Gubernatore  
+
+  Romana Praesunti Homicidi  
+
+  Pro Fisco contra Sabatum Angeli del Corsetto Hebreum Domino Johannes Paulus
+  Majnus cancellarius et notarius_
+
+
+  _In Dei Nomine Amen  
+
+  Die 15 Mensis Octobris 1571_
+
+
+  _Constitutus personaliter Rome in carceribus cittadini Turris None coram V. S.
+  I. domino Bernardino Coto locumtenentem magistratoque et in presentia mei
+  assistente domino Vincentio Berti substituti.  
+
+  Sabatus filius Angeli de Piperno Hebreus cui delatum fuit iuramentum veritatem
+  dicentem et per eum iurato tacto calamo more Hebreorum fuit per me dictum._
+
+
+  _Interrogatus quomodo ipse Corsetto reperiatur huic in carceribus an fuit
+  captus vel sponte comparvit ut ex qua circa.  
+
+  _Respondit: Io mi ritrovo qui prigione che mi sono constituito da me et sono
+  comparso perché mi estato apposto che io havevo dato a Robino Roscetti da un
+  suo nipote che non mi ricorda il nome che io volevo comparire prima ma stavo
+  ammalato.
+
+
+  _Interrogatus an (scilicet) ad vult quomodo ipse Corsetto imputabitur per
+  processum dictum quondam Rubinum Rosettum.  
+
+  _R: Una sera che era così Iule 24 hora che possono essere fino à doi mesi
+  poco piu e poco meno mi fu detto da mia mogliera che mia sorella chiamata,
+  Chiara era stata scapigliata dalla sorella della moglie di Sciolomon che il
+  padre era ciciliano che mia sorella era andata nella corte a darne querela et
+  quando incorsi questo dissi “sia ammazzata mia sorella che doveva scapigliarsi
+  lei” et in questo venne a passarsi questo Sciolomon et disse “Avverti come
+  parli mia cognata non è donna da essere scapigliata” et io gli replicai
+  “manco mia sorella manco è donna da essere scapigliata” et lui mi disse
+  “parla troncato” et dagli con mia parola et una altra detto Sciolomon mi dette
+  un pugnio che mi colse nella spalla et si mise a fugire et io li corsi direto
+  et mia mogliera mi tenne et si diceva che io in quella sera haveva urtato
+  Rubbino Roscietto mentre che correva direto al detto Sciolomon che io non
+  potei giongere a mezza strada che io detti a mia moglie un pugnio che li feci
+  uscire un poco di sangue dalla bocca et li dissi che doveva tenere la parte et
+  non me et in questo modo si pustapione che io habbi dato a Rubin Roscietti.
+
+
+  _Interrogatus an ipse haberet aliquod gravis armorum et iuspium dum currisset
+  dietro dictum Salomen et quod.  
+
+  _R: Quando io correvo in quella sera dietro a Salamon io non haveva arme di
+  sorta nessuna ne sassi ne bastoni ne altro non mi occorreva portar armi che
+  lui e un frutto che mel haveva mangiato.
+
+
+  _Interrogatus an ipse Corsetto cogit dictum quondam Rubinum Rosettum et
+  quomodo.  
+
+  _R: Si che io cognoscevo questo Rubino Roscietto che era un vecchio di tempo
+  et andava insegnando li putti
+
+
+  _Interrogatus usque quo ipse Corsetto eo vesperi currisset dietro dictum
+  Solomonem et dicat si lici audivit in quo loco dictus quondam Rubinum
+  Rossettum fuerit vulnerutus.  
+
+  _R: In quella sera io corsi dietro detto Solomone fino innanzi a casa di Moise
+  di Pelegrino che li mi piglio mia moglie che io la butta in terra et li detti
+  che certe donne poi la colsero et io me ne retornai et intesi che a detto
+  Rubin Roscetto gli fu dato li accanto al porton di fiume.
+
+
+  _Interrogatus quo ipse Corsetto pro dit asserit vedirit causpiam postquam sit
+  fuit cenatus alicuius uxore.  
+
+  _R: In quella sera che fui tenuto da mia mogliera me tornai in casa mia a cena
+  et dormii in casa mia
+
+
+  _Interrogatus an solus vel associatus ea vesperi in cui domo convitus et cum
+  quo.  
+
+  _R: In quella sera cenai in compagnia di mio padri e mia madre mia sorella et
+  mia moglie.
+
+
+  _Interrogatus an eo vesperi intellexerit quod dictus quondam Rubinus Rosettus
+  fuerat (miservatus).  
+
+  _R: La matina io intesi che detto Rubin Roscetto era morto che io stavo li al
+  porton di Piazza Giudea perche io vo pigliando le bestie morte per Roma con
+  altri compagni et cosi aspettavo se mi veneva nessuno et cosi mi fu detto che
+  la corte era in casa mia et cosi mi fu detto che io scanzassi che me lo disse
+  anco mio padre et cosi fugitivo da otto dì et poi mi ammalai che mi venne la
+  febre et dipoi febre con dolori di denti et dipoi un zincone et in questo
+  tempo sono stato hora di qua et hora di la che ho fatto il meglio che ho
+  potuto ma non sono stato mai fora di Roma.  
+
+  _Interrogatus quam ipse Corsetto eo vesperi no fuerit insecutus dictum
+  Solomonem postquam dicta eius uxor pro ut asserit fuisset loco proiecta in
+  terra_
+
+
+  R: Detto Salomone mi era lontano quanto doi volte questa stantia (_designas
+  aulam visite carceratorum_) che lui correva come un caprio et per questo non
+  li andai piu dietro che me ne andai a casa.  
+
+  _Interrogatus unde ipse Corsetto eo vesperi se movisset ad insequenda dictum
+  Solomonem et que distantia esse possit a loco qui movit usque ad locum quo
+  proprio ut asserit fuit tenutus ab eius uxore._
+
+
+  R: io mi mossi a corre dietro in quella sera a Salomon da casa mia fino a casa
+  come ho detto di Moise di Pelegrino che è lontano da casa mia quanto due
+  volte questa stantia poco più o poco meno.  
+
+  _Interrogatus que distantia esse possit a dicto loco in quo pro ut asserit
+  fuit tenutus ab eius uxore usque ad locum in quo fuerit intellexerti fuit
+  morietis dictus quondam Rubinus Rosettus._
+
+
+  R: dal detto loco dove fui tenuto da mia mogliera in quella sera fino al loco
+  dove mi sepi che Rubin Roscietto casco ci po essere quanto doi volte questa
+  stantia .  
+
+  _Interrogatus an sciat vel audit quod super vere dicti quondam Rubini Rossetti
+  fuerint examinati aliqui testi et qui._
+
+
+  R: Io non so ne manco ho inteso dir che sopra la morte de Rubino Roscetto ci
+  fussino examinati alcuni testimoni.  
+
+  _Interrogatus an ipse Corsetto habeat aliquos malevolos et inimicos et quos._
+  R: Che io so ho non inimici ne malevoli io sono stato prigione una volta fui
+  addimandato se io ero stato a Fiorenza et pagai 4 scudi et una volta circa 15
+  di prima che morissi Rubin Roscetti fui pregione di mastro Valerio che mi
+  adimando per contro se io cognoscevo un giupponaro che io ne cognoscevo
+  nessuno et una altra volta vira otto o nove anni fa fui pregione di V. S.
+  insiemi con mio padre et mio cognato per certo grano che dicevano che havevamo
+  comprato.
+
+
+  _Interrogatus an cogit et cogitat quondam Pompeum Hebrum et quomodo._
+
+
+  R: si che io cognosco un Pompeo hebreo che tempo assai che lo cognosco perche
+  io cognosco tutti li hebrei  
+
+  _Interrogatus an sciat seu dici audit que aliqui Hebrei fuerint carcerati ob
+  mortem dicti quondam Rubini Rossetti et qui._
+
+
+  R: mio padre mi disse che per la morte di detto Rubin Roscetto furono prigioni
+  certi homini hebrei et certe donne ma non mi disse chi.
+
+
+  _Interrogatus an dictus Pompeus Hebreus sit eius amicus et benevolus et pro
+  qua persona habuerit et habeat.  
+
+  _R: Quando io fui pregione otto o nove anni fa di V. S. fece la examinatione
+  et ci fece mettere prigione che era parente di uno Angelo che era prigione per
+  conto del medesimo grano io non ho da far con lui non è pratica mia et io ho
+  detto Pompeo per quello che è lo fa lui.
+
+
+  _Interrogatus ut exprimat in qua opinione habuerit et habeat dictum Pompeum an
+  pro homine mali conditionis et fame vel bone.  
+
+  _R: Io ho tutti li giudei per tristi eccetto mio padre che non sta a me di
+  dirlo. _Interrogatus an ipse Corsetto fuerit et sit solitus deferre pilam
+  ferri vel plumbi sei marmorea._
+
+
+  R: Se mori con verta mi provocava che habbi portata piombarola di piombo o di
+  marmoro gastigatemi più di quello che io merito.  
+
+  _Interrogatus an intellexerit quod dictus quondam Rubinus Rossettus existerit
+  vulneratus quando decessit et in qua parte et a quo._
+
+
+  R: io non so ne manco ho inteso che detto Rubino Roscetto haveva ferita
+  nessuna quando morse.  
+
+  _Interrogatus an dici audit unde fuerit causata mors dicti quondam Rubinis
+  Rossettis._
+
+
+  R: Io non ho ne manco ho inteso donde si causassse la morte di Robin Roscetti
+  intesi che stette dui o tre hori a morire che fu trovato in terra la accanto
+  il portone del fiume.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -135,3 +334,15 @@ He answered:_ You’ll never find that I draw a gun against someone. _Questioned
 He answered:_ I did tell \[the truth\] and I maintain what I said for the next 100 years. The truth is that I did not run up to the place where he fell down and I did not otherwise see him on the ground.
 
 \[_The next days, the court questioned some other people, including the Jewish notary Pompeo Del Borgo_\]
+
+_October 22, 1571  
+Sabato son of Angelo del Corsetto Jew  
+Sabato was questioned if there were other people that could see his wife stopped him from running after Solomon.  
+He answered:_ That evening, as I ran after Solomon and my wife stopped me, there was Patello the Jew who also held me. He held me again when I stopped in front of the door of Moise son of Pellegrino but I’m sure that he won’t say about this because he is one of Solomon’s cousins and they are like two brothers and so I didn’t mention about his presence.  
+_Questioned if he had an arm raised as he ran after Solomon and if it was the right or the left.  
+He answered:_ That evening, as I ran after Solomon, I had neither right arm nor left one raised.
+
+_Questioned if he knows the Jew Marchisian aka Marchisianella had been quoted by Pompeo during his deposition.  
+He answered:_ I know a Jewish woman called Marchisianella. She is an enemy of mine because Dattilo, her brother, cut one arm of my cousin Ventura. I reported them and they were sent to galley.
+
+\[_In the next days, the court confronted Marchisianella and Sabato. Both confirmed their previous depositions. Sabato was put to torture but didn’t change his story. Meanwhile another major trial was begun against the Jews triggered by Friday night burglaries involving a large group of individuals. Sabato also gave testimony in this matter. Though we don’t have the final sentence, there is the brief note in Register 59 of the “Registrazioni d’atti”of this court dated October 30th, 1571: “Pro Sabato del Corsetto hebreo” (In favor of Sabato del Corsetto Jew). Thus on that day Sabato was freed.\]_
