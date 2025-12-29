@@ -49,3 +49,89 @@ The story of Sabato offers two clues to reflect on the Roman Jews resistance to 
 The memorandum of the discovery of money in Rubino’s home tells something more on this politic. It was written few days after the death, while Sabato was lost out of the ghetto and police was still investigating on the murder. The note doesn’t mention these topics. It concerns tension between the representatives of _Gemilut Hasadim_ and Rubino’s heirs, at the beginning on the possibility to find something in the home, than on the right division of the treasure. At least, it refers to the way to diffuse this tension, entrusting the management of the money to an important Jewish banker as Angelo di Capua and informing Christian authority about the fact only after its peaceful solution.
 
 Roman society was violent and Jews were as violent as Christians. Brawls blew up frequently and involved Jews both in contrast with other Jews and against Christians. We had many _Costituti_ on fights in Roman market places were some Jews played a role, but this isn’t our point. Violence inside the ghetto walls was more dangerous for the Jewish community that the other one, just under the eye of Christian Courts. Jewish society tried to govern itself despite its inner violence, using any tool to run the people of the ghetto, from internal agreement to the clever use of Christian juridical system. Sometimes it succeeded, sometimes it failed but it’s important to investigate the ways they used to manage themselves in the long ghetto era.
+
+<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center">Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale Criminale del Governatore, Processi, registro 140, case 8, cc. 422r/457r*</em></p>
+
+_In the Court of the Most Reverend Governor of Rome  
+Trial for alleged murder in Rome against the Jew Sabato son of Angelo del Corsetto. Master Johannes Paulus Majnus, chancellor and notary_
+
+_In God’s Name, Amen. October 15, 1571_
+
+_Interrogated in person in Rome in Tor di Nona \[the municipal\] prison, in the court of His Excellency Master Bernardino Coto lieutenant and magistrate, and in my presence mister Vincentio Berti substitute._
+
+_Sabato son of Angelo de Piperno Jew, to whom I administered the oath to tell the truth. He gave his oath before me “tacto calamo,” that is, in the Jewish manner._
+
+_Questioned about how he came to the prison, whether he was arrested or came of his own will.  
+He answered:_ I’m here in prison and I presented myself spontaneously because someone told me that one of the nephews (I don’t remember his name) of Rubino Roscietto accused me of his death; I wanted to come earlier but I was ill.
+
+_Questioned about the reason for which, according to him, he has been charged about the deceased Rubino Roscetto.  
+He answered:_ It was more or less two months ago that one evening – at nearly the 24th hour of the night – my wife told me that my sister Chiara had been dragged by her hair by the sister of the wife of Sciolomon, whose father was Sicilian. When I arrived, I knew that my sister went to the court to report this scuffle and when I entered, I said aloud: “May my sister be killed \[if she\] should not be dragged by her hair!” Just at that moment Sciolomon walked by and said “Be careful! My sister-in-law isn’t a woman to be taken by hair!” I replied: “Nor is my sister such a woman!” And so he said: “ Shut up!” One word led to another and Sciolomon hit me on my shoulder and escaped and so I ran after him, but my wife stopped me. It was said that I had bumped into Rubbino Roscetto as I ran after Sciolomon, but I could not reach him! In the middle of the street I punched my wife who was trying to stop me, and this made a little blood come out of her mouth, and then I told her to be quiet. I think that's why people think I hit Rubin Roscietti.
+
+_Questioned as to whether he carried any weapon as he ran after Sciolomon. He answered:_ That evening as I ran after Salomon I had no weapon of any sort; neither stones nor sticks. I did not think of carrying weapons and I had only a fruit that I was eating at the moment.
+
+_Questioned as to whether he knew the said Rubino Roscietto, and how.  
+He answered:_ Of course, I knew Rubino Roscietto who was old and went around teaching the little kids.  
+_Questioned about the place were he stopped running after Solomon and on whether he knew where Rubino Roscietto had been injured.  
+He answered:_ That evening I ran after Solomon until Moise Pellegrino’s home, where my wife grabbed me; I threw her on the ground, I hit her and some women picked her up. Then I went home. I understood that someone had bumped into Rubin Roscietto next to the river gates.  
+_Questioned about his dinner on that evening with his wife.  
+He answered:_ That evening – when my wife stopped me – I came back home for dinner and I slept there.  
+_Questioned as to whether he ate alone or with others that night, and with whom.  
+He answered:_ That evening I dined with my father, my sister and my wife. _Questioned whether he learned that night what happened to Rubino Rossetto.  
+He answered:_ The \[next\] morning after I heard that Rubino Roscetto was dead I was waiting at the gate to Piazza Giudea to go with some other fellows to collect dead animals around Rome; while I was waiting someone advised me to run away because the police were at my house. Even my father told me to go away for some days, so I did for the next eight days. Then I fell ill with a fever, toothache and _zincone._ During that period I was here and there and did the best I could, but I was never out of Rome.
+
+_Questioned why he did not Sciolomon again after he threw his wife to the ground.  
+He answered:_ Solomon was as far away as twice this room (_and he indicates the visiting room of the prison_); he ran as fast as a goat; so, I did not catch him again and I went to my home.
+
+_Questioned where he began to run after Solomon and how far this place was from the other where he claims his wife stopped him.  
+He answered:_ That evening I started to run from my home until, as I said, that of Moise son of Pellegrino. That is more or less twice \[the size\] of this room from my house.
+
+_Questioned about how far the place where he claims he was held by his wife to the spot where he understood the late Rubino Rosetto died)_.  
+_He answered:_ The distance between the place where my wife stopped me that night and the other where Rubino Rosetto felt down was nearly twice this room.
+
+_Questioned if he knew or heard that there was a murder investigation into Rubino Rossetto’s death.  
+He answered:_ I don’t know and I didn’t hear that witnesses have been interrogated on this death.
+
+_Questioned if he had any enemy and who they are.  
+He answered:_ As far as I know I have neither enemies nor ill-wishers. Once I was arrested, and the court interrogated me about whether I traveled to Florence and I paid 4 scudi; another time – maybe 15 days before Rubino Roscetto’s death – I was arrested again by magister Valerio, who asked me if I knew a tailor and I answered that I didn’t; eight or nine years ago, I was arrested by Your Lordship together with my father and my brother-in-law to be questioned about some wheat that somebody said we bought.  
+_Questioned if he knew Pompeo del Borgo and why.  
+He answered:_ Of course, I know Pompeo the Jew for a long time, because I know all the Jews.  
+_Questioned if he knows that some Jews were arrested for Rubino Rosetto’s death and who they are.  
+He answered:_ My father told me that some men and women were arrested for Rubin Roscetto’s death but he didn’t tell me who.  
+_Questioned if Pompeo the Jews was a friend of his and what opinion he held and holds of him.  
+He answered:_ When I was arrested eight or nine years ago by Your Lordship, he interrogated me and had me jailed because he is relative of a certain Angelo – who was incarcerated for the same wheat. I’ve nothing to do with him, and I reported about Pompeo the truth of what he did.
+
+_Asked to explain what opinion he held and holds of Pompeo, and whether he considers him a man of bad or good condition and reputation.  
+He answered:_ I think that all the Jews are sad people, with the exception of my father but it’s not for me to say this.
+
+_Questioned if he was used to carrying any kind of weapon (iron, lead or marble)  
+He answered:_ If you discover that I carry any cudgel (lead or marble), you must punish me more than I deserve.
+
+_Questioned if he knew that the deceased Rubino Roscietto was injured when he died and in which part of the body and by whom.  
+He answered_: I don’t know and I never knew that Rubin Roscietto had any injury when he died.
+
+_Questioned where Rubino Rossetto’s death was caused.  
+He answered:_ I don’t know and I never knew what caused his death; I heard that Robin Roscetti it was two or three hours till he died, that he was found on the ground next to the river gate.
+
+_c. 426 r.  
+October, 19th 1571_
+
+_Interrogated in person in Tor di Nona, Rome’s municipal prison, in the court of His Excellence Master Bernardino Coto lieutenant and magistrate and in my presence, Master Vincentio Berti substitute._
+
+_Sabato son of Angelo del Corsetto Jew, as above, to whom I administered the oath to tell the truth. He gave his oath before me “tacto calamo,” that is, in the Jewish manner._
+
+_Asked if he wanted to say something more on what he had said in his previous deposition.  
+He answered:_ No, I don’t need to say anything else because what I said in my previous deposition was totally correct.
+
+_Questioned if in the past he had a row with other Jews during which he could have injured someone or be injured by someone else.  
+He answered:_ it is possible that I had a quarrel with other Jews but now I do not remember, except maybe something happened when I was very young. _Questioned if he knew Angelo son of Giuseppe Funari and when and why they dealt together._
+
+_He answered:_ Of course, I know Angelo Funaro and I dealt with him. It was about four or five months ago and I was standing at the door to my house, maybe at one in the night, and he suddenly assaulted me with a pistol, he hit me, I didn’t escape but I tried to save myself and I was secretly hidden when he searched that room (_and he indicates the visiting room)_; than he was saved in the house of Zozo, another Jew, next to the gate.
+
+_Questioned why Angelo Funaro assaulted him with that gun.  
+He answered:_ He assaulted me because I began to engage in the same profession as he – that is with animal corpses. Until that time, he was the only one who did that; he wanted to buy the animals for nothing.  
+Once I undertook the same business he thought he wouldn’t be able to get the animals for that price as he wished. For this reason, he began to hunt me down and say that he wanted to kill me or beat me because he and his fellows were four people, all ready to chase me. So, I went by the Vicar to accuse them, they were questioned and shortly after he assaulted me. Prior to those events, I had never had anything to deal with him, except for this job and now I’m in their company for the next two years and we have to be in company.  
+_Questioned if he drew a gun against Angelo in order to beat him with that weapon.  
+He answered:_ You’ll never find that I draw a gun against someone. _Questioned if he said the truth concerning Rubino the Jew.  
+He answered:_ I did tell \[the truth\] and I maintain what I said for the next 100 years. The truth is that I did not run up to the place where he fell down and I did not otherwise see him on the ground.
+
+\[_The next days, the court questioned some other people, including the Jewish notary Pompeo Del Borgo_\]
