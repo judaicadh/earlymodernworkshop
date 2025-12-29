@@ -20,8 +20,9 @@ description: "The 1571 story of Sabato del Corsetto tells about violence in the
   people."
 original_language_body: >-
   <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
-  center">Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale Criminale del
-  Governatore, Processi, registro 140, case 8, cc. 422r/457r*</em></p>
+  center"><strong>Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale
+  Criminale del Governatore, Processi, registro 140, case 8, cc.
+  422r/457r*</em></strong></p>
 
 
   _Reverendissimo Almae Urbis Gubernatore  
@@ -328,7 +329,103 @@ original_language_body: >-
   Corsetto Jew). It means that Sabat was released on that day\]_
 
 
-  <h2 style="text-align: center">Source 2 Original</h2>
+  <h2 style="text-align: center">Source 2 Original</h2><p style="text-align:
+  center"><strong>Roma, Archivio di Stato di Roma, <em>Tribunale Criminale del
+  Governatore, Processi, registro 140, case 11, cc. 869r-956v</em></strong></p>
+
+
+  _Romana diversorum furtorum et ealiorum excessum.  
+
+  Pro Fisco contra Beniaminum Gulielmi Minutelli; Vituccio filium Hysachini;
+  Hysachum dello Strologo; Sabbatum alias Pattello; Angelo Gabrielis alis
+  Taliaricetto; Cesarem bicarium Luceni; Angelus Moysis de Anguilaria; Deodatum
+  Hysachis; Abraam Cioppagialla; Leonem Emanuelis Pazzetium; Jacobumalis
+  Consolomonis_
+
+
+  _Die 29 ultra Februarii 1572._
+
+
+  _Constitutus in Roma in Carceribus Curie Turris None coram Magistrum Iohannem
+  Maria Bugnolo locumtenentem assistentemque in presentia mei notarii._
+
+
+  _Sabbatus filius Angeli Corsetti hebreum cui delatum fuit de veritate dicente
+  et per eum iurato tacto calamo._
+
+
+  _Interrogatus an per paios dies antequem ipse Corsetto escat hic carceras fuit
+  in aliquo alio loco carceratus et qua dicta causa.  
+
+  _R. Credo che non fossero venti di avanti che io fosse messo prigioni qui, che
+  io fui messo pregione in corti Savella overo io stetti circa dieci giorni fra
+  la pubblica et la secrita, che mi esaminava magistro Valirio, et mi domandava
+  se io conoscevo certi che io non sapevo chi fossero, et credendo magistro
+  Valirio che questa era una bagatellla non fici rilassar con una poliza et non
+  pagai cosa alcuna, senza il magnar et la pregion; quando poi fui uscito di
+  prigione mio padre mi disse che haveva dato cinque ducati a Angelo di
+  Anguillare, et Angelo barbaguano, perchi essi dicivano che mi havevano
+  agiutato scappar di pregione. Angelo di Anguillara fu quello che mi feci la
+  spia, et mi feci andare pregionie; et si quelle che me ne cavi nel modo che
+  havevi previsto, anzi Angelo poco inanzi che io andasse pregioni mi haveva
+  detto che cirti suoi parinti che fanno li scortica cavalli li volivano dar
+  dieci scudi perche lui mi facessi andar pregione, et questo lo facevano perche
+  ancora io facevo il scortica cavalli et loro non havevano voluto che io lo
+  havesi fatto.
+
+
+  _Interrogatus an ipse Corsetto aliquid aliud sciat de dicto Angelum de
+  Anguillara  
+
+  _R. (sottolineato a latere): Se voi esaminate Iosefo Funaro et Angelo Funaro,
+  Zampanella et Moyse Ghian trovarete che questo Angelo ha fatto andar prigioni
+  altri, chi quattro volte, et poi lui medemo li ha fatti cavari per danari che
+  hanno dati a lui , che li ha cacciato dalle mani una gran quantità, et se dir
+  il vero diranno bello cose di questo Angelo.
+
+
+  <h2 style="text-align: center">Source 3 Original</h2><p style="text-align:
+  center"><strong>Rome, Archivio di Stato di Roma, <em>Tribunale Criminale del
+  Governatore, Investigazioni</em>, register 110</strong></p>
+
+
+  _Die 21 agosto 1571  
+
+  Jacobus di Massa hebreus tistis inductus pro parte heredum quondam Rubini
+  Rosetti, cui delatus fuit pro iuramentum de veritate dicendi quod presenti
+  tacto calamo  
+
+  _Credo che siano otto giorni in circa che essendo morto un certo Rubin
+  Rossetti hebreo, io come camerlengo della Comunità e della Compagnia della
+  Morte delli hebrei de Roma me trovai ad ogni cosa quando detto Rubin Rossetti
+  sotterrato et fatto l’inventario delli suoi beni, et perche noi camerlenghi
+  cioe Leone del Sestiero et me havemo trainteso che detto Rubin Rossetti haveva
+  fatto non so che testamento in scrittis de man sua a favore della Compagnia
+  della Morte andassero detto Jacob et me Camerlenghi et Leone del Sestier
+  similmente Camerlengo et vennero anco quattro de suoi parenti con il nostro
+  notaro hebreo in casa di detto Rubin Rossetti dove lui abitava prima che
+  moresse et arrivati li tutti assiemi detto Leone mio compagno se mise a
+  cercare li libri se trovasse qualche cosa a favore della Compagnia et io
+  cercavo assiemi ad uno degli suoi parenti che li per terra vicino al camino se
+  havesse possuto trovare cosa che scavai doi mattoni o tre di terra et poi
+  essendo stanco dissi a quello che haveva il lume che io ero stanco e che
+  cercava un poco lui, et cosi lui comencio a cercare et cercando se mese a
+  ridere et desse a Leone mio compagno “tra voi devono stare li denari” et poi
+  essendome io trovato da basso detto Leone disse “fatte in qua che ecco qui il
+  denaro murato” et cosi io me feci inanzi et dissi che lasciasse fare a me et
+  pigliai un paio de forbice et detti a quel denaro murato che subito se ruppi
+  et dissi a quel suo parente cioe de Rubino Rossetti che lasciasse fare a me et
+  tenesse il lume, et cosi fu fatto et io pigliai tutti li denari che erano
+  dentro et li misi sulla banca et li contammo da doi a tre volte et trovassemo
+  che tutti li denari che stavano in quello denaro erano novantasette scudi de
+  oro in oro circa tutti che come ho detto erano cosi, et di poi che li
+  havessemo conti tutti li parenti li volevano cusi pigliamo per partito che
+  fussero depositati in un banco come furono in mano de Angelo de Capua et delli
+  detti novantasette scudi ne dettemo doi scudi d’oro in oro per lanima sua alla
+  Compagnia della Morte, et quel denarolo stava murato in nel muro lontano dal
+  solaro circa mezza cima, poco piu et quel muro dove stava murato detto denaro
+  e muro novo che se vede benissimo et questo e quanto io so et ve posso dire
+  per la verità.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -361,7 +458,7 @@ The memorandum of the discovery of money in Rubino’s home tells something more
 
 Roman society was violent and Jews were as violent as Christians. Brawls blew up frequently and involved Jews both in contrast with other Jews and against Christians. We had many _Costituti_ on fights in Roman market places were some Jews played a role, but this isn’t our point. Violence inside the ghetto walls was more dangerous for the Jewish community that the other one, just under the eye of Christian Courts. Jewish society tried to govern itself despite its inner violence, using any tool to run the people of the ghetto, from internal agreement to the clever use of Christian juridical system. Sometimes it succeeded, sometimes it failed but it’s important to investigate the ways they used to manage themselves in the long ghetto era.
 
-<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center">Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale Criminale del Governatore, Processi, registro 140, case 8, cc. 422r/457r*</em></p>
+<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center"><strong>Rome, <u>Archivio di Stato di Roma,</u> <em>Tribunale Criminale del Governatore, Processi, registro 140, case 8, cc. 422r/457r*</em></strong></p>
 
 _In the Court of the Most Reverend Governor of Rome  
 Trial for alleged murder in Rome against the Jew Sabato son of Angelo del Corsetto. Master Johannes Paulus Majnus, chancellor and notary_
@@ -459,7 +556,7 @@ He answered:_ I know a Jewish woman called Marchisianella. She is an enemy of mi
 
 \[_In the next days, the court confronted Marchisianella and Sabato. Both confirmed their previous depositions. Sabato was put to torture but didn’t change his story. Meanwhile another major trial was begun against the Jews triggered by Friday night burglaries involving a large group of individuals. Sabato also gave testimony in this matter. Though we don’t have the final sentence, there is the brief note in Register 59 of the “Registrazioni d’atti”of this court dated October 30th, 1571: “Pro Sabato del Corsetto hebreo” (In favor of Sabato del Corsetto Jew). Thus on that day Sabato was freed.\]_
 
-<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center">Roma, Archivio di Stato di Roma, <em>Tribunale Criminale del Governatore, Processi, registro 140, case 11, cc. 869r-956v</em></p>
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><strong>Roma, Archivio di Stato di Roma, <em>Tribunale Criminale del Governatore, Processi, registro 140, case 11, cc. 869r-956v</em></strong></p>
 
 _\[Trial for\] various thefts and other excesses occurring in Rome.  
 The State v. Beniamino Gugliemo Minutelli; Vituccio son of Hysachini; Hysachum dello Strologo; Sabbatum alias Pattello; Angelo Gabrielis alis Taliaricetto; Cesarem bicarium Luceni; Angelus Moysis de Anguilaria; Deodatum son of Hysach; Abraam Cioppagialla; Leo son of Emanuel Pazzetium; Jacobumalis Consolomonis._
@@ -476,4 +573,8 @@ _Questioned if he knew anything else about Angelo of Anguillara. \[The answer is
 
 _He answered:_ If you’ll question Giuseppe Funaro and Angelo Funaro, Zampanella and Mouse Ghian, you’ll find that this Angelo sent a lot of people to jail, one even four times, and then he himself to get them free for a fee. He extracted a lot of money in this way, \[though\] to tell the truth they say good things about him.
 
-<h2 style="text-align: center">Source 3 Translation</h2>
+<h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center"><strong>Rome, Archivio di Stato di Roma, <em>Tribunale Criminale del Governatore, Investigazioni</em>, register 110</strong></p>
+
+_Witness Jacob di Massa, Jew, who was here in favour of the heirs of the deceased Rubino Rosetto. He gave his oath before me “tacto calamo”._
+
+It was nearly eight days after the death of Rubino Rossetti, the Jew that, as chamberlain of both the community and the Company of the Death \[_Gemilut Hasadim_\] of the Jews in Rome, I found all the goods of this Rubino buried in his home. We inventoried these goods. We the chamberlains (Leone del Sestiero and I) went to that home because we knew that Rubino wrote a will in his own hand in favor of the Company of the Death. We (Giacob and Leone del Sestier) went with four of his relatives to his home; even our Jewish notary came with us to the home where Rubino Rossetti lived before his death. We arrived all together and Leone, my colleague, began to look amid the books in order to find something on behalf of our Company. I did the same with one of the relatives on the ground \[floor\], next to the fireplace; I dug two or three bricks out of ground and later, as I became tired, I told the people who carried the light to take over for me. He began to dig and, while he was still looking for, he laughed and told my colleague Leone: “The money should stay among you.” Then I was on the ground floor and Leone said: “Work here! This is the money that was walled in.” I obeyed and I told him to let me do what was needed; I took a pair of tongs and attacked the walled up money and it suddenly broke open. I told the relatives to let me manage everything and to continue holding the light. So he did. I took all the money and put it on a table. It amounted to 97 golden scudi and all the relatives claimed for them. We decided to deposit the money in the bank of Angelo di Capua; we set apart two scudi for the Company of the Death. That money was walled in close to the attic and it was easy to find that wall because it was new. This is everything that I know and on which I can say the truth.
