@@ -217,6 +217,118 @@ original_language_body: >-
   R: Io non ho ne manco ho inteso donde si causassse la morte di Robin Roscetti
   intesi che stette dui o tre hori a morire che fu trovato in terra la accanto
   il portone del fiume.
+
+
+  c. 426r. 19 ottobre 1571
+
+
+  _Constitutus personaliter Rome in Carceribus Curie Turris Bernardino Coto
+  locumtenentem magistratoque et in presentia mei assistente domino Vincentio
+  Berti substituti.  
+
+  Sabatus filius Angeli del Corsetto Hebreus de quo super cui delatum fuit
+  iuramentum de veritate dicende et pro cum iurato tacto calamo more hebreorum
+  fuit per me dominum._
+
+
+  _Interrogatus an occurrat aliquod aliquid sibe dicere ultra ea que dixit in
+  alio suo exame.  
+
+  _R: No che a me non occorre di dir altro oltre quello che io ho detto nel
+  altra mia expositione che quello che ho detto nel altro mio expositione e
+  bendetto. _Interrogatus an alia ipse Corsetto devenerit ad rixam cum aliquo
+  hebreo in qua rixa ipse vulneraverit aliquem vel verumserit vulneratus._
+
+
+  R: Poteria essere che io fussi venuto a quistione con alcun giudio che io non
+  me ne aricordassi adesso excepto che se non fussi quando ero putto piccolo che
+  non fussi venuto a questione con qualchuno altro.
+
+
+  _Interrogatus an ipse Corsetto cognoscat Angelum filium Iosephi Funarii et an
+  eum ea cumquam aliquid de agere habureit et quod.  
+
+  _R: Angiolo di Ioseph Funaro si in che lo cognosco et quel che ho avuto a fare
+  con lui quisto che possono essere da quattro o cinque mesi che stando io sul
+  uscio di casa mia che poteva essere circa la una di note lui mi assalto con
+  una pistolessa et mi dette questa botta et non mi messi a fugire in ciò et
+  cercassi di salvarmi et in segreto quando lui volse questa stantia (_desingnas
+  stantiam visite_) et lui si salvò poi in casa di un altro ebreo acanto al
+  portone che si chiama Zozo.
+
+
+  _Interrogatus qua de eo dictus Angelum Funari regressus fuit ipsum Corsettum
+  cum dicto pistolerio.  
+
+  _R: Lui mi assaltò perche mi ero messo a far larte che faceva lui delle
+  bestie morte perche prima non ci era se non lui che la faceva et voleva
+  comprar le bestie per niente e perche io mi mesi a fare ancora detta arte che
+  si pensava di non poter haver le bestie per quel prezzo come voleva per questo
+  mi cominciò a bracciare con dire di volermi ammazzare o strapazzare che loro
+  erano quattro che mi potevano andare ben dui di loro provassiro perche quando
+  io landari a accusare al Vicario mi processarono di voler innanzi examinatione
+  et de pe io che hebbi accusato lui mi assalto. Per prima io non havevo havuto
+  a far cosa nessuna con lui se non per contro di questa arte come fu detto di
+  sopra et edesso me hanno messo a parte del guadagno ma non posso havere in qua
+  guadagno in cosa alcuna da loro et tra di noi ci e il contratto che per due
+  anni non potemo spartire detta compagnia. _Interrogatus non ne verum est que
+  ipsum Corsettum alias contra dictum Angelum proiecit quandam plumbarolam ad
+  effectum illum percuotendi cum ea._
+
+
+  R: Non si trovara ne mai che io habbi mai puntata piombarola contro nissuno.  
+
+  _Interrogatus an se diposuerit veritare dicere circa factum Rubini Hebrei.  
+
+  _R: Io l’ho detto et quel che ho detto mantengo di qua a cento anni et la
+  verita è che io non corsi fin la dove lui casco in terra ne manco lo viddi
+  altrimente in terra.
+
+
+  \[_Vengono interrogati altri testimoni, incluso il notaio Pompeo del Borgo_\]
+
+
+  _Die 22 Octobris 1571  
+
+  Sabatum Angeli del Corsetto hebreum  
+
+  Interrogatus quo fuerunt eo quando eo vesperi currebat resti dictum Solomonem
+  eum fuisset tenutus pro ut asserit ab eius uxore._
+
+
+  R: Quando io correvo dietro a Salomone in quela sera che io fui tenuto da mia
+  moglie ci era presente Patello hebreo che lui ancora mi tenne et anco mi tenne
+  quando io mi fermai innanti al uscio di Moise di Pellegrino ma detto Patello
+  non lo vorra dire perche è cugino intrinseco di detto Solomon che son come
+  fratelli et però non l’ho detto dal primo.
+
+
+  _Interrogatus an ipse Corsetto quando eo vesperi currebat retro dictum
+  Solomonem habuisset brachium elevatum et an dextrum vel sinistrum.  
+
+  _R: Quella sera mentre correvo dietro a detto Salomone non portavo ne il
+  braccio dextro ne il braccio sinistro alzato
+
+
+  _Interrogatus an cognoscat et cognoscati Marchiasiniam seu Marchiscianellam
+  Hebream quam nominaverit presens Pompeus in eius examinatione quo iurit vidi
+  dictam in presentia eius.  
+
+  _R: Io cognosco una donna che si chiama Marchisianella hebrea. Detta
+  Marchisianella mi è inimica perche Dattilo suo fratello carnale taglio un
+  braccio a mio fratello cugino chiamato Ventura che io procurai di farlo
+  pigliare con certi altri et fu mandato in galea.
+
+
+  \[_In the next days, the court put in comparison Marchisianella and Sabato.
+  Both confirmed their previous depositions; even if he was tortured, Sabato
+  repeated his story. We have not the sentence but just a little note in the
+  register 59 of the “Registrazioni d’atti”of this court, that simply says on
+  October 30th, 1571 «Pro Sabato del Corsetto hebreo» (In favor of Sabato del
+  Corsetto Jew). It means that Sabat was released on that day\]_
+
+
+  <h2 style="text-align: center">Source 2 Original</h2>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -346,3 +458,22 @@ _Questioned if he knows the Jew Marchisian aka Marchisianella had been quoted by
 He answered:_ I know a Jewish woman called Marchisianella. She is an enemy of mine because Dattilo, her brother, cut one arm of my cousin Ventura. I reported them and they were sent to galley.
 
 \[_In the next days, the court confronted Marchisianella and Sabato. Both confirmed their previous depositions. Sabato was put to torture but didn’t change his story. Meanwhile another major trial was begun against the Jews triggered by Friday night burglaries involving a large group of individuals. Sabato also gave testimony in this matter. Though we don’t have the final sentence, there is the brief note in Register 59 of the “Registrazioni d’atti”of this court dated October 30th, 1571: “Pro Sabato del Corsetto hebreo” (In favor of Sabato del Corsetto Jew). Thus on that day Sabato was freed.\]_
+
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center">Roma, Archivio di Stato di Roma, <em>Tribunale Criminale del Governatore, Processi, registro 140, case 11, cc. 869r-956v</em></p>
+
+_\[Trial for\] various thefts and other excesses occurring in Rome.  
+The State v. Beniamino Gugliemo Minutelli; Vituccio son of Hysachini; Hysachum dello Strologo; Sabbatum alias Pattello; Angelo Gabrielis alis Taliaricetto; Cesarem bicarium Luceni; Angelus Moysis de Anguilaria; Deodatum son of Hysach; Abraam Cioppagialla; Leo son of Emanuel Pazzetium; Jacobumalis Consolomonis._
+
+_February 29, 1572_
+
+_Interrogated in Rome in Tor di Nona \[the municipal\] prison, before \[the Magistrate\] Master Iohannis Maria Bugnolo lieutenant and assistant, and in my presence as notary._
+
+_Sabato son of Angelo del Corsetto Jew, to whom I administered the oath to tell the truth. He gave his oath before me “tacto calamo,” that is, in the Jewish manner._
+
+_Questioned if some days before his present incarceration he had been incarcerated anywhere else, and why.  
+He answered:_ I think about twenty days before I was imprisoned here I was in jail in Corte Savella for ten days, partly in the public prison and partly in the secret one. Magistrate Valerio questioned me and he asked if I knew certain people. I didn’t know who they were. Magister Valerio thought it was a trivial matter (_bagatelle_) and so I was neither punished to be released nor did I pay anything, except for food and the prison \[fee\]. When I finally was out of the prison, my father told me that he gave 5 ducats to Angelo di Anguillara and to Angelo Barbaguano, because they said they had helped me to escape from the jail. But it was Angelo di Anguillara who spied on me in order to send me to that prison! So I understood everything. Indeed, just before I was jailed, Angelo told me that some of his relatives – horse skinners by trade – promised him 10 scudi if he could send me to the prison; and they arranged this business because they didn’t want that I “skin the horses” as I did.  
+_Questioned if he knew anything else about Angelo of Anguillara. \[The answer is underlined.\]_
+
+_He answered:_ If you’ll question Giuseppe Funaro and Angelo Funaro, Zampanella and Mouse Ghian, you’ll find that this Angelo sent a lot of people to jail, one even four times, and then he himself to get them free for a fee. He extracted a lot of money in this way, \[though\] to tell the truth they say good things about him.
+
+<h2 style="text-align: center">Source 3 Translation</h2>
