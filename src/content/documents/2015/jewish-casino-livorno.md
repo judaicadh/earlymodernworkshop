@@ -9,4 +9,8 @@ event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Continuity and Change in the Jewish Communities of the Early Eighteenth
     Century
+language:
+  - Italian
+publication_location:
+  - Livorno
 ---
