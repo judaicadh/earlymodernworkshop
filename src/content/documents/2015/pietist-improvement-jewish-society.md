@@ -212,3 +212,13 @@ But when I read it and saw that Isaiah chap. 53 explains about the Messiah, very
 **Fol. 267:** (Gottschalck tells about Aaron Margalitha, who had been baptized 24 years before and had become a university professor. He uses the very same references “from the rabbis” for his dissertation and argumentation “that our letter and _Or Le-et Erev_ contain, too.”)
 
 \[...\]
+
+**Footnotes**
+
+\[^1\] Zechariah9:12
+
+\[^2\] \[Johann Müller\], _Mikhtav Ahavah ... an Ale Bene Goles Yisroel..._ (Frankfurt/Oder, 1703). Starting in 1732, it was reprinted many times by the Institutum Judaicum in Halle. In contrast to Müller’s so-called “Minor Epistle,” _Mikhtav Ahavah_ was dubbed the “Major Epistle” (Großes Sendschreiben). Cf. below fn 4.
+
+\[^3\] Yochanan Kimhi \[Johann Müller\], _Or le-Et Erev_..., 2nd ed. (Halle: Institutum Judaicum, 1731). _Or le-Et Erev_ was reprinted numerous times in Halle starting with its first edition in 1728.
+
+\[^4\] The reference is to the“Minor Epistle,”printed in 1729. While the Yiddish original is now lost, an English translation from 1735 is extant in the Archives of the Francke Foundation in Halle, AFSt/H K 52 (source 2).
