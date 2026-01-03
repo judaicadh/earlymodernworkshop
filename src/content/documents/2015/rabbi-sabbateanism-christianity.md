@@ -30,6 +30,329 @@ description: Moses Aaron of Krakow, a Sabbatean rabbi, who would later call
   prophecies of a certain Rabbi Zadok of Grodno, but it also seems that some of
   Kemper’s own remarks have escaped the censorship of his friend and mentor and
   thus allow a glimpse into Kemper’s own perception of his conversion.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Aaron, Moses (Johan Kemper). <em>Unterthäniger Bericht An
+  einen Hoch-Edlen und Hoch- Weisen Rath zu Schweinfurth Von der wunderlichen
+  Güte GOttes, welche Er, der Allerhöchste erwiesen mir armen Menschen, Mosi
+  Aaron, einem durch GOttes Gnad bekehrten Rabbi, auß Crackau gebürtig, Nechst
+  Angehengter demüthigen Bitt Ihm die heilige Tauff wiederfahren zu
+  lassen</em>. Schweinfurt: Johann Christoph Drechsler, 1696.</strong></p>
+
+
+  Meine Gebuhrts-Stadt solte das brühmte Crackau seyn /in welchem sich stets
+  über 2000. Juden / und unter denselben die vornehmste Rabbiner befinden / die
+  sich auch von dannen in gantz Teutschland pflegen außzutheilen. Doch ist
+  selbige Juden-Stadt von der Christen-Stadt so abgesondert / daß zwischen den
+  Juden / und zwischen den daseyenden Christen wenige Bekandtschafft ist.
+
+
+  Es machte mich aber Gott bald in dem andern Jahr meines Alters zu einem
+  Vater-losen Waisen / und wurde ich meiner armen Mutter / die allezeit
+  hertzlich vor mich sorgte / sauer genug zu erziehen. Ich hatte aber durch
+  GOttes Gnad / kaum das fünfte Jahr erreicht / da der grosse wunderbahre GOtt
+  zu mir sagte / wie zu dem Abraham / _gehe auß deinem Vaterlande_ / _auß deiner
+  Geburts-Stadt_ / _an einen andern Ort_ / _den ich dir zeigen wil_ / Gen. XII.
+  Vers. 1. Denn es suchte GOtt gedachtes Crackau heim mit einer hefftigen
+  Pestilentz / da dann der Talmud will / es soll ein jeder fliehen so bald / und
+  so weit er kan. Meine Mutter eilte dahero auch mit mir nach Auspitzen / da ich
+  denn unter den Christen-Kindern eine zeitlang wurde aufgezogen.
+
+
+  Ich mag aber wohl sagen / daß mir der barmhertzige Vater im Himmel allhier den
+  ersten Winck gegeben / zu meiner Bekehrung. Denn ich lernte hier erstmahls den
+  süssen Namen JESUS nennen / und ob ich wohl nicht verstunde / was derselbige
+  bedeutet / und daß derselbe sey / der von Jacob in diesen Worten יבא שילה ולו
+  Gen. XLIX. durch die erste Buchstaben angezeigte ישו / so fühlte ich doch
+  davon eine sonderbare Krafft in meinem Hertzen / so / daß ich diesen Namen
+  auch öffters in meinem Munde führte / worüber ich aber von meiner Mutter
+  mit harten Schlägen wurde angesehen.
+
+
+  Es erzeigte sich aber die Güte GOttes bald mit noch grössern Maß / bey mir /
+  damahls noch unmündigem Kind. Denn derselbigen hab ichs zuzuschreiben / daß
+  ein brühmter Rabbi, Abraham Bisch, von Nickelsberg bürtig / eine sonderliche
+  Liebe zu mir gewann / so / daß Er mich nicht nur zu sich in seine Schul nahm /
+  sondern auch offt zu mir sagte / dich will ich lehren / was unter uns wenig
+  können. Das war der Basuck, oder die heilige Bibel. Denn es sind viel
+  Rabbinen, welche die gantze Bibel samt den Propheten nie gar haben außgelesen.
+  Wenn die andern Schüler müssige Spiel-Stunden hatten / so nahm gedachter
+  Rabbi mit mir die Bibel vor / und war dieselbigen wohl meine rechte Chevziba,
+  mein Augen- ja Hertzens-Lust.
+
+
+  Ich erfreuete mich hier der deutlichen Weissagungen von dem Herrn Messia / die
+  ich aber damahls noch nicht recht verstehen kunte. Gleichwohl machte ich mir
+  darauß solche Gewissens-Scrupel / die mich nicht ruhen liessen / ich muste sie
+  zum Theil meiner Mutter offenbahren. Ich gedachte / die Christen haben doch
+  recht / der Messias muß nunmehro gekommen seyn / das Scepter von Juda ist
+  entwandt / und der Gesetz-Geber / das gantze Sanhedrin, hat längstens
+  aufgehört: Der andere Tempel / welchen die Zukunft und Gegenwart deßjenigen /
+  der da seyn solte aller Heyden Trost / solte grösser machen als der erste
+  Tempel Salomonis gewesen / mit welchem doch sonsten der andere gar nicht
+  zuvergleichen war / der ist / wie auch Bethlehem / die Gebuhrt-Stadt deß Herrn
+  Messiae längst zerstöhrt / die Geschlechter sind untereinander vermischt /
+  und was man uns beredt von den zehen Stämmen / die mit dem Fluß Sabbatjon
+  sind eingeschlossen / halt ich vor einen eitlen Traum. Wie kommts / daß wir
+  duch die Gojim, die doch am Sabbath / da gedachter Fluß still ist / reysen
+  dürffen / in so vielen Jahren davon keine Zeitung haben. Und wo ligt denn
+  solches Land / welches jetzund / da die gantze Welt ist von den Christen
+  durchzogen worden / von niemanden kan gefunden werden. Ich finde in der
+  Schrifft nichts / daß der Messias zu Rom unter den Aussätzigen sitzen / wohl
+  aber / daß Er vor uns leyden /sterben und auferstehen soll. Sonderlich
+  gefielen mir schon damahls wohl die Wort auß LXXII. Psalm v. 14. _Ihr Blut_ /
+  nemlich dergefallenen Sünder / _wird theuer geachtet werden vor Ihm_ / dem
+  Herrn Messia / und seinem Vater / Denn Er wird davor sein eigen theuer Blut
+  vergiessen / I. Pet.1. v. 19.
+
+
+  Ich zeigte dabey meiner Mutter / wie daß / vermög deß Talmuds / die Welt
+  stehen solte 6000. Jahr / 2000. Jahr solte sie seyn ohne Gesetz / 2000. Jahr
+  mit Gesetz / und 2000. Jahr solte die Tage Messiae seyn / wo bleibt denn
+  derselbige? sagt ich / nachdem die 4000. längst verflossen sind? Ich funde
+  auch den dreyeinigen GOtt in der Bibel so wohl / als in dem Talmud. Denn /
+  solte es umsonst seyn / daß die Seraphim nicht zwey / oder vier / oder fünff
+  / sondern dreymahl ruffen _heilig_ / _heilig_ / _heilig_ / Es. VI. Welches ein
+  alter Rab. Simeon selbsten also erklärt / wie ich nach der Zeit bey Galatino
+  gesehen / l. 2. C. 1. Heilig ist der Vater / heilig der der Sohn / heilig der
+  Geist. In diesem Drey-Einigen GOtt muste Aaron und seine Söhne die Kinder
+  Israel segnen und sagen: _Der HERR_ / das ist GOtt der Vater / _segne dich und
+  behüte dich_ / _der HERR_ / GOtt der Sohn / _lasse sein Angesicht leuchten
+  über dir und sey dir gnädig_ / _der HERR_ / GOtt der heilige Geist / _hebe
+  sein Angesicht über dich_ / _und gebe dir Friede_. Num VI. v. 23. Zu diesem
+  Drey-Einigen Gott kehrte sich Daniel in seinem Gebeht / da Er rieff zu dreyen
+  mahlen / _Ach HERR höre_ / _ach HERR sey gnädig_ / _Ach HERR mercke auf_.
+  Daniel. IX. vers. 19. Es ist freylich GOTT ein einiger GOTT / Deut. VI. vers.
+  4. Aber ich vergleiche Ihn einem Baum / wenn man anders in so hohen
+  Geheimnissen Gleichniss brauchen soll / mit dreyen Aesten. Denn also ist ein
+  göttlches Wesen in dreyen Personen. Und warum steht im Talmud, die Welt ist
+  an dreyen Enden zu / und die vierte Seite steht offen / Laatid lavo? Ins
+  künfftige spricht der Talmud, wenn GOtt die Welt richten wird / so wird er
+  sagen / ist noch ein GOtt neben mir / so mache er die vierte Seite zu. Warum
+  sag ich / hat GOtt drey Seiten zugemacht? Warum nicht zwey aufgelassen? ich
+  glaube daß auch hierinnen auf die drey Personen gesehen werden. Wil sich die
+  vierte anmelden / so mache sie die vierte Seite zu.
+
+
+  Es würde zu weitläufftig werden / wenn ich alles anführen wolte / was mir
+  schon damahls bedencklich war / davon ich auch / wie dedacht / meiner Mutter
+  eines und das andere offenherzig entdeckte. Allein / da war bey ihr nichts als
+  Jammer und Noth / sie weinte darüber bitterlich / und sagte: ich hab ein
+  einiges Kind / und soll an demselben Schand erleben! Sie hatte deßwegen manche
+  schlafflose Nacht / und setzte auch mich in nicht geringe Bekümmerniß. Es war
+  dieses die erste Hinderniß / die ich bey meiner Bekehrung fand.
+
+
+  Damit ich nun hierinnen so wohl als in dem Talmud gründlicher / ihrer Meinung
+  nach / mögte unterwiesen werden / so schickte sie mich zu ihrem Bruder / der
+  auch ein halb Jahr / grossen Fleiß an mir erwiesen. Ich zog so denn meinem
+  Studieren ferner nach / biß ich nach dreyen Jahren wieder zu meiner Mutter
+  kam. Und ob ich zwar meine vormahlige Gedancken / den Christlichen Glauben
+  anzunehmen / noch nicht hatte fahren lassen / sondern vielmehr der Sache
+  besser und besser nachgedacht / so fand ich doch bey meiner Zurückkunfft die
+  ander Hinderniß. Denn meine Mutter beredte mich ein Weib zu nehmen / wie denn
+  sonderlich die Gelehrten bey den Juden gar jung zu heyrathen pflegen / dieweil
+  der Talmud sagt: Wer vor dem 18. Jahr in den Ehe-Stand tritt / der scheust dem
+  Jezer hara, der bösen Lust / ein Aug auß. Ich versprach mich nicht allein /
+  sondern hielt auch Hochzeit mit Siphra, der Tochter eines Rabbi in Schlesien /
+  Namens Rabbi Barach, bey welcher ich auch etwas über das halbe Jahr
+  verblieben. Es pflegen aber die gelehrten / nach gehaltener Hochzeit / ihrem
+  Studiren wieder nachzuziehen / und ich begab mich also auch / mit gutem Willen
+  der Meinigen herauß nach Fulda / da ich mich denn drey Jahr aufhielt / und so
+  dann wieder zu meinem Weib kehrte / und mit derselben zeugte einen Sohn Aaron
+  / den Gott erleuchten und zu Christo / samt seiner Mutter / führen wolle!
+
+
+  Unterdessen war Anno 1695. bey den Juden ein Gerücht außgegangen / als ob
+  nunmehro der Messias kommen würde. Es wurde auch in gantz Polen / Schlesien /
+  Mähren und Böhmen ein grosser Fast-Tag außgeschrieben / und jedermann
+  ermahnt / sich zur Ankunft deß Messiae zu bereiten. Die Ursach hierzu hatte
+  gegeben ein Jud auß Littau / Namens Rabbi Zadok von welchem man Wunder vorgab
+  / was Er vor Zeichen und Wunder-Werck verrichte. Die Cabbalisten zogen unter
+  andern hieher die Wort Gen. II. vers. 21. ויסגור בשר תחתנה da sie denn durch
+  בשר verstanden die gute Post von Ankunfft des Messiae / das Wort תח תנה
+  theilten sie so / daß die zwey ersten Buchstaben sollten anzeigen / das 408te
+  Jahr / welches sie vor etlichen 30. Jahren zehlten / da auch dergleichen
+  Gerücht von dem Messia war / die übrigen Buchstaben in diesem Wort zeigten
+  an in der Zahl das damahliche Jahr deß Jüdischen Calenders. Dergleichen
+  Cabbalistische Meynungen / damit sie sich damahls trugen /wüste ich in
+  grosser Menge anzuführen. Die Rabbinen gaben vor / es würde zu solcher Zeit
+  an dem Himmel eine ungemeine Finsterniß geschehen / (ich meyne / es sey bey
+  ihnen Hertz / Sinn und Verstand verfinstert / daß sie die rechte Schechinna,
+  den Glantz der Herrlichkeit deß grossen GOttes / das grosse Licht / so in die
+  Welt kommen ist / jedermann zu erleuchten / den Herrn Messiam / nicht sehen /
+  erkennen / und in seinem Licht nicht wandeln wollen /) drey Tag nach solcher
+  Finsterniß solte denn der Messias kommen / und sich offenbahren. Ich plagte
+  selbsten unterdessen meinen Leib mit vielen Fasten / Beten und Tauchen /
+  gedachte auch offt bey mir selbst / es ist doch gut / daß du deiner Mutter
+  gefolgt hast / und zu denen Christen nicht bist übergetretten / denn sonst
+  würdest du nunmehro Holtz hacken / Wasser tragen / und dergleichen
+  Knecht-Arbeit verrichten müssen / wie es denn nach der Lehre der Rabbinen /
+  in den Tagen deß Messiae / auch so gar denen Fürsten / Grafen und Herrn der
+  Christen nicht besser ergehen wird.
+
+
+  Es kam endlich / nach langem Harren / der längst-gewünschte Tag / war der 5.
+  Tag Septembris, der sich denn im Anfang etwas dunckel erwies / daraus die
+  Rabbinen ihre Lampen mit grossen Freuden anbrennten / und vermeinten / jetzund
+  würde sich das grosse Zeichen am Himmel sehen lassen. Sie vermachten auch
+  alle Kluntzen / Spält und Löcher in ihren Häusern / dieweil sie beredt
+  waren / es werde zu gleicher Zeit ein gifftiger Nebel fallen / von welchem
+  alle / so etwas davon in sich ziehen würden / sterben müsten. Allein mitten
+  in dieser vergeblichen Hoffnung kommt an Statt deß gifftigen Nebels / die
+  liebliche Sonne unter den Wolcken hervor / die machte einen so lieblichen Tag
+  / daß sich dessen / (die Juden außgenommen/) alle Creaturen freuten. Und damit
+  lag der abermahlige Betrug an dem Tag / und man war nur darauf bedacht / wie
+  man solches beschönen wolte; Doch verschwiegen die Geistlichen der Christen
+  solches nicht / sondern predigten davon öffentlich. Bedachter Littauische Jud
+  wurde als einer / der mit dem Teufel einen Bund gemacht / in den Bann gethan.
+
+
+  Ich schüttete darauf nochmahl mein Hertz schrifftlich bey meiner Mutter auß /
+  und führte ihr zu Gemüth / wie so offt wir schon waren hintergangen worden /
+  da hingegen der name JESUS sich außgebreitet in alle Welt. Sie glaubte hierauf
+  gäntzlich / ich würde nunmehro abtretten vom Judenthum / und kam dahero in
+  aller Eyl aus Krackau zu mir in Schlesien / da sie mich denn wieder mit leicht
+  ermeßlichen Thränen bath / ihr und ihrem Geschlecht die Schmach nicht
+  anzuthun / und von dem Glauben abzufallen. Allein / GOtt sey Danck / der mich
+  Mosen / dahin gebracht hat / daß ich mit jenem grossen Mose _die Schmach
+  Christi vor grossern Reichthum halte_ / _denn die Schätze Egypti_ / ja aller
+  Welt / Ebr. II. vers. 26. Sie / meine Mutter / blieb unterdessen bey mir / biß
+  ich mich zum andern mahl herauß nacher Francken wendete / willens / nochmahls
+  nach Fulda mich zu erheben. Ich fand aber unterdessen gute Gelegenheit zu
+  Niederwähren / da ich mich auch ein Jahr über / ohne eitlen Ruhm zu melden /
+  so verhalten / daß man mir mit Warheit nichts übels nachsagen kan / und
+  erfreue ich mich dessen sehr / daß Herr Magister Heunisch ohne mein Wissen /
+  ehe er mich zu sich genommen / von meinem Thun und Lassen bey den Juden
+  fleissig Nachfrag gehalten / die aber allezeit / wie sie noch gestehen /
+  nichts als Liebs und Guts von mir geredt.
+
+
+  Da ich denn nun also bey ihm meine Wohnung genommen /  
+
+  und sahe / wie die Christen lebten / mit was vor Andacht sie ihr Gebet zu Gott
+  verrichteten / wie gewiß und freudig sie waren in ihrem Christenthum / wie
+  vergnügt / wenn sie sungen / und von Göttlichen Dingen redeten / etc. So
+  entbrannte mir mein Hertz / und giengen mir täglich mehr und mehr Augen auf.
+  Ich hatte dabey Tag und Nacht keine Ruh / und konte mich doch immer nicht
+  gäntzlich überwinden / hielte mich auch im Esen und Trincken unverruckt nach
+  der Weise der Jüden. Unterdessen redeten wir zum öfftern / zumahl deß Abends
+  in dem Garten / von Christlichen Glaubens-Fragen / und erinnere ich mich noch
+  wohl / wie die damahls so lustig blühende Tulipanen uns Gelegenheit gaben von
+  der Auferstehung der Todten / und den Verklährten Leibern der Außerwehlten zu
+  reden. Ich bemühete mich dabey so gut ich konte / zu behaupten die Lehren der
+  Rabbinen / und deß Talmuds / sagte auch zum öfftern / daß ohne dem Talmud
+  niemand die Bibel verstehen könne. Wir fielen hiebey auf eine andere
+  Streit-Frage / worauf man sich in solchen und dergleichen wichtigen
+  Glaubens-Fragen gründen müsse? Es wurde mir aber mit aller Bescheidenheit zu
+  Gemüth geführet / ich solte bedencken / wie daß das Judenthum so gar einen
+  sandigten Grund seiner Lehre habe. Sie halten die Schrifft vor dunckel und
+  unvollkommen / vor eine solche Schrift / die ohne dem Talmud niemand verstehen
+  kan. Allein / was ist der Talmud? ein grosses Buch / welches nicht in heiliger
+  Sprach / nicht von unfehlbahren Propheten auß unmittelbahren Göttlichen Trieb
+  / sondern von solchen Leuten ist geschrieben / oder doch auß ihren
+  hinterlassenen Zetteln zusammen getragen worden / welche dem Zorn und Rachgier
+  so ergeben waren / daß sie ihre Widerwärtigen auch mit den Augen tödteten /
+  wie Rabbi Jochanan dem Rabbi Kaina gethan / \[...\] Das soll auch gethan haben
+  der wegen deß Buchs Zoar und deß Talmuds berühmte Rabbi Simeon Ben Jochai,
+  \[...\] Ist denn meglich / daß der Geist Gottes bey solchen stoltzen und
+  Rach-gierigen Leuten wohnen soll?
+
+
+  Es ist der Talmud von solchen Leuten geschrieben / welche den Teufel nach
+  ihrem Gefallen bannen können / wie hiervon so wohl als andern entsetzlichen
+  Lastern der Rabbinen so den Talmud verfertigt / kan gelesen werden der
+  beständige Gerson, in der Jüden Talmud part. 2. Cap. 17. fol. 526. Wo lieset
+  man dergleichen von Mose dem Mann Gottes / und den andern Propheten? Rabbi
+  Mose Bar Nachmann soll dergleichen Kunst von einem alten Mann gelernet haben /
+  welchen aber Herr D. Müller hält in seinem Judenthum fol. 55. für den alten
+  Tausend-Künstler / die alte Schlange / welche mit unserer ersten Mutter nicht
+  nur von Göttlichen Dingen reden / sondern sie auch überreden konte. Die
+  böse Schlange / welche unsere erste Eltern zum Bösen reitzte / und also
+  schon selbsten bös war / zu der Zeit / da Gott ansahe alles was Er gemacht
+  hatte / in den Tagen der Erschaffung / und _sagte_ / _es ist alles sehr gut_ /
+  Gen. I.
+
+
+  \[...\]
+
+
+  Da ich bey ihnen / Hoch-gebietende Herren / bißhero meine Wohnung hatte /
+  führte man mir offt zu Gemüth / wie daß das Jüdenthum sey ein rechter
+  Trost-loser Hauff. In ihrem Glauben finden sie keinen Trost / auch nicht in
+  ihrem Gebet / denn sie verstehen von beyden nichts. Ich fragte in Beyseyn
+  Herrn M. Heunischen einen bekandten Juden / was er bete / wenn er die Hände
+  wasche? er war hurtig mit dem Gebet herauß / aber da ich ihn fragte / was denn
+  hies Netilat Jadaim, deßwegen er zu GOtt gebetet hatte / so wurde er darauf so
+  stumm / als ein Fisch. Sie finden keinen Trost in ihrem Gottesdienst / welchen
+  sie ohne Andacht / und so verrichten / daß man sich an ihnen ärgern muß. e.g.
+  Sie haben einen Buß- und Fast-Tag / welchen sie mit bußfertigem und
+  zerknirschten Herzen begehen solten / der genennt wird Tischa Baav. Dieser Tag
+  ist angesetzt von wegen der Zerstörung der Stadt Jerusalem / und hätten sie
+  wohl Ursach deßwegen zu trauern. Denn ich glaube gewiß / daß sie solche
+  Zerstöhrung an unserm HERRN Christo haben wohl verdient. Allein da solte man
+  nur seinen Greuel sehen / wie sie solchen Buß-Tag begehen. Sie solten den
+  gantzen Tag auf der Erden sitzen / keinen Schuh anziehen / fasten / beten /
+  und dem gerechten GOtt in seine zornige Ruthe fallen. Allein wer zu solcher
+  Zeit in ihre Schul kommen wird / der wird finden / daß der eine auf der Erden
+  ligt und schläfft / der andere singt ein Klag-Lied / der dritte sitzt und
+  lacht / die Jungen gehen hin und her / stechen die Schlafenden mit Nadeln /
+  treiben Possen / und verüben eine solche Schand / als ob sie nicht / wie sie
+  sich doch einbilden / in einem Gottes-Haus / sondern in einem üppichen und
+  solchem Haus wären / in welchem aller Muthwillen zugelassen. Ich hab sie
+  deßwegen offt gestrafft / und gesagt: Es sey solches wieder GOttes Wort / und
+  wieder den Talmud; Allein man könte mich damit auß / und ist es bey den
+  heutigen Juden dahin gekommen / daß wo sie wollen / so halten sie Gottes Wort
+  / und den Talmud, gefällts ihnen nicht / so weichen sie von beyden ab / wie
+  ich / ob GOtt wil / solches zur andern Zeit mit mehrern zeigen wil.
+
+
+  Doch hielt ich dabey noch immerzu Widerpart / so gut ich konte. Einstens laß
+  ich mit meiner Frau Haus-Wirthin / den andern Psalm / damit ich mich im Lesen
+  üben mögte. Da ich kam auf die Wort: _Du bist mein Sohn_ / _heute habe ich
+  dich gezeugt_ / etc. da wars nicht anders / als gieng mir ein Stich durchs
+  Hertz. Ich hielt auch still / und wurde darüber gefragt / ob ich nicht
+  fortkommen könte? Ich sagte ja / allein was ist das? Mir wurde zur Antwort:
+  das ist zu verstehen von unserm HErrn JEsu / der ist der eingebohrne Sohn
+  Gottes / welchen der Vater auf eine uns Menschen unbegreifliche Weise / nach
+  seiner Gottheit und Ewigkeit gezeugt / und ihm der Welt Ende zum Eigenthum
+  gegeben hat. Ich setzte mich darwieder aufs hefftigste / und ließ es endlich
+  darauf ankommen / was der Herr M. dazu sagen wärde / der auch / so bald er
+  von einem Krancken / den er besucht hatte / nacher Haus kam / mich zu sich
+  herief / und mir auß dem Targum und Abenesra selbsten zeigte den Betrug deß
+  Beer Mosche, und daß Jalad allerdings heisse Zeugen auß einem Wesen / und
+  nicht ädeln / etc. Nun wiedersetzte ich mich zwar auch diesmahl mit
+  äuserstem Vermögen / konte aber darauf die gantze Nacht nicht schlaffen /
+  und wurde ich also endlich / zweiffelsohn von dem heiligen Geist genöthiget /
+  dem Herrn M. mein Hertz zu entdecken / welches ich denn bey frühen Morgen
+  that durch einen Brief / dabey ich denn wohl verspührte / daß ihm solches
+  eine gantz unverhoffte Zeitung war. Er aber wünschte mir zu der Bekehrung mit
+  erfreutem Hertzen Glück / ermahnte mich zur Beständigkeit / und versicherte
+  dabey / es würde so wohl Ein Hoch-Edler Rath als auch ein Ehr-Würdiges
+  Ministerium vor meine zeitliche und ewige Wohlfahrt sorgen / wie ich denn
+  solches auch bißhero schon genugsam in der That erfahren hab / und werde ich
+  solches an jenem Tag vor dem Drey-Einigen Gott / den ich bekenne / mit
+  danckbahrem Hertzen rühmen / und allen meinen vornehmen Gutthätern ewige
+  Vergeltung außbitten.
+
+
+  \[...\]
+
+
+  Und nun öffnet mir GOtt die THür deß Paradieses / indem Er gleichsam mir
+  zurieff: _Adam_ / _wo bist du_? Hierauf wurden mir meine Augen eröffnet in
+  denen heiligen Büchern / daß ich gewahr wurde / ich sey nacket im Glauben /
+  weil ich mit dem rechten Ehren-Kleid / nemlich dem Blut Christi / noch nicht
+  bekleidet. Da hörte ich armer Mensch die Stimme GOttes im Paradies / und
+  sprach: Gehe hin und esse von dem Baum deß Verstands / das ist / sehe dich
+  besser um in der heiligen Bibel / in dem lautern Spiegel; das / das ist der
+  Baum des Lebens / wer davon isst / erbt die ewige Seligkeit. Der reichte Baum
+  deß Lebens / der darinn gezeigt wird / ist der Baum von dreyen Zweigen / der
+  einige GOTT in dreyen Persohnen; und das ist der warhafftige GOtt / \[...\].
+  Hierauf schliesse ich in getrösteter Zuversicht / Sie werden meine Sache je
+  eher je besser fördern / und mich nicht leer gehen lassen: Denn es steht auch
+  im Talmud: Wer eine Seele eines Israeliten erhält / der thut eben so viel /
+  als wenn er die gantze Welt hilfft erbauen.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
