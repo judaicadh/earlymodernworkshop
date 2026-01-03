@@ -41,7 +41,7 @@ description: >-
   with contemporaneous Christian Pietists over the preferable vision for
   eighteenth-century Central European Jewry.
 original_language_body: >-
-  <h2 style="text-align: center">Source 1 Translation</h2><p style="text-align:
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
   center"><strong><em>Tagebuch von Johann Andreas Manitius über seinen
   Aufenthalt in Danzig, seine Reise nach Königsberg und Pommern sowie nach
   Franken und Hessen (November 12, 1731)</em></strong></p><p style="text-align:
@@ -82,7 +82,7 @@ original_language_body: >-
 
   <p style="text-align: right">מכתב אהבה אל כל אסירי התקות(!) המיחלים[1^] : אן
   אלי בני גלות ישראל דיא אויף גאולה</p><p style="text-align: right">ווארטן, אין
-  הערצליכר ליבשאפט גישריבין לראש שנת תסג לפ"ק2</p><p style="text-align:
+  הערצליכר ליבשאפט גישריבין לראש שנת תסג לפ"ק [2^]</p><p style="text-align:
   right"><strong>Fol. 262</strong>: Anfänglich, da ich di Jahrzahl nicht ansah,
   vermeinte ich, es würde eine pur jüdische Schrift seyn, so wohl ad
   invitationem als auch ad refutationem unsers briefes in diesem neuen Jahr
@@ -203,11 +203,11 @@ Rebekka Voß, “Love Your Fellow As Yourself: Early Haskalah Reform as Pietist 
 
 \[...\] a Jewish Scriptum on a quarto sheet and reported that a Jew had sent it to him expressly. When his parents voluntarily gave him one or probably even two groschen, he left the house indignantly and grumbling, saying that if he were to sell everything like that, he would starve. He said he could not read it and I should have a look. The title was this:
 
-_Love Letter to all hoping prisoners of hope_1_: To all the exiled sons of Israel who wait for redemption, written in loving kindness for Rosh Hashana 1703_2
+_Love Letter to all hoping prisoners of hope_\[_^_1\]_: To all the exiled sons of Israel who wait for redemption, written in loving kindness for Rosh Hashana 1703_\[^2\]
 
 **Fol. 262**: In the beginning, as I hadn't looked at the date, I thought it was a purely Jewish book, made in this new year, both invoked by and refuting our letter (i.e. the Minor Epistle), because it was alarming to me that a Jew had brought it to the house and given it expressly to a scholar. \[...\]
 
-But when I read it and saw that Isaiah chap. 53 explains about the Messiah, very strongly emphasizing sacrifice and atonement, and when I found in the conclusion (of the book): ‘You beloved sons of Israel, I beg you, don‘t take my humble writing amiss; I wrote to you in cordial love and I don‘t wish to mislead you to do, God forbid, idol worship or become uncircumcised (Christians), but only you should do true penitence and receive forgiveness so salvation will come to Israel, speedily in our days, amen.‘ I did not know how to interpret it. But I later read it carefully in its entirety together with Mr. Widmann and we realized that almost the same arguments and style were found here as in _A Light in the Evening_3 and the letter4. Therefore and because we took into account the date 1703, we thought that it stemmed from the same Mr. Müller who had made the rest. As I had heard from Mr. Prove that the Rabbi who had previously been chased away from Berlin upon interpreting Isaiah 53 with reference to the Messiah had come here, we soon entertained the idea that it was him who had edited it, with a different date. In a word, we did not know how to handle it. On Tuesday, Mr. Widmann took it among the Jews. He met an old Jewish typesetter who claimed he knew the typeface and that it had been printed here, since he had seen them help (with it) (?). It surprises us that the book is (still) being sold today. Today (Wednesday) as I am drafting this, we meanwhile intend to inquire about it at the printing house. As I am finally sending this letter back, the beloved and valued brother told me about a new and good example of a baptized Jew (in) Doebiz, 9 miles from here on the road to Berlin, where also several Jews live.
+But when I read it and saw that Isaiah chap. 53 explains about the Messiah, very strongly emphasizing sacrifice and atonement, and when I found in the conclusion (of the book): ‘You beloved sons of Israel, I beg you, don‘t take my humble writing amiss; I wrote to you in cordial love and I don‘t wish to mislead you to do, God forbid, idol worship or become uncircumcised (Christians), but only you should do true penitence and receive forgiveness so salvation will come to Israel, speedily in our days, amen.‘ I did not know how to interpret it. But I later read it carefully in its entirety together with Mr. Widmann and we realized that almost the same arguments and style were found here as in _A Light in the Evening_\[^3\] and the letter\[^4\]. Therefore and because we took into account the date 1703, we thought that it stemmed from the same Mr. Müller who had made the rest. As I had heard from Mr. Prove that the Rabbi who had previously been chased away from Berlin upon interpreting Isaiah 53 with reference to the Messiah had come here, we soon entertained the idea that it was him who had edited it, with a different date. In a word, we did not know how to handle it. On Tuesday, Mr. Widmann took it among the Jews. He met an old Jewish typesetter who claimed he knew the typeface and that it had been printed here, since he had seen them help (with it) (?). It surprises us that the book is (still) being sold today. Today (Wednesday) as I am drafting this, we meanwhile intend to inquire about it at the printing house. As I am finally sending this letter back, the beloved and valued brother told me about a new and good example of a baptized Jew (in) Doebiz, 9 miles from here on the road to Berlin, where also several Jews live.
 
 **Fol. 267:** (Gottschalck tells about Aaron Margalitha, who had been baptized 24 years before and had become a university professor. He uses the very same references “from the rabbis” for his dissertation and argumentation “that our letter and _Or Le-et Erev_ contain, too.”)
 
