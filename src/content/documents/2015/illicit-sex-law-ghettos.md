@@ -14,7 +14,7 @@ language:
 publication_location:
   - Venice (Source 1)
   - Mantua (Source 2)
-  - Modena (Source 3)
+  - Modena (Sources 3 and 4)
 description: This presentation explores the changes of attitudes toward illicit
   sexual relations within the ghetto societies that occurred in Italy between
   the late seventeenth century and the middle of the eighteenth century, with a
@@ -310,6 +310,90 @@ original_language_body: >-
 
 
   Nacman De Angelis
+
+
+  <h2 style="text-align: center">Source 3 Original</h2><p style="text-align:
+  center"><strong>Archivio della Comunità ebraica di Modena, Busta 71 Stupri
+  provvidenze date in casi simili, fascicolo n. 2. “Accademia di Mantova che
+  dichiara indissolubile il stato matrimoniale contratto dal Dottore Moisè
+  Vaigler colla Rachelle Arezzi di Modena,” 14 dicembre 1751.</strong></p>
+
+
+  Nella causa vertente fra la Signora Rachel Arezzi di Modona da una parte e il
+  Signor Dottor Moise Vailer dall’altra, sentite le cose espostesi in Giudizio
+  contraditorio dalli rispettivi loro procuratori eccellenze S. R. Josef Galico
+  e S. R. Zara Jacob Sacerdoti, come anche viste, e ponderate con tutta
+  attenzione le carte presentate e considerato maturamente quanto occorreva,
+  Invocandosi, determiniamo e sentenziamo, che non possa il Vailer sciogliere
+  contro il volere della detta Rachel il matrimonio contratto seco lei quale
+  Dichiariamo di tutta validità, dovendo soccombere per l’avvenire al
+  mantenimento di detta moglie, e a tutt’altro, tanto quanto è obbligato ogni
+  marito verso la moglie, a norma dell’usitata chedubà, dichiarando in oltre,
+  che il maschio partorito da essa Rachel debba essere riconosciuto per Figlio
+  di esso Vailer, e tutto ciò, non ostante l’opposto dal Vailer medesimo, ed in
+  suo nome, come così.
+
+
+  Dalla Nostra Accademia li 14 dicembre 1751 in Mantova. Leon Mendola  
+
+  Leon Finzi  
+
+  Aron Cases
+
+
+  Adì 14 detto  
+
+  Io sottoscritto hò consegnato una similla in propria mane del detto
+  Eccellente Sig. R. Zara Sacerdote, In fede Codiel Oreficie Sagrestano.  
+
+  Modena li 19 dicembre 1751  
+
+  Faccio piena fede io sottoscritto di aver colazionato e copiato la di sopra
+  sentenza d’un Urigginale venuto da Mantova Verbo ad Verbo,  
+
+  Abram Vita Graziani nella santa comunità \[ebraico\] di Modena.
+
+
+  <h2 style="text-align: center">Source 4 Original</h2><p style="text-align:
+  center"><strong>Archivio della Comunità ebraica di Modena, Busta 71
+  <em>Stupri provvidenze date in casi simili, fascicolo n. 3 </em>Obbligazione
+  d’Abram Gallico di sposare l’Ester Donati Vedova Vigevani per aver avuto
+  commercio seco lei, 29 aprile 1750</strong></p>
+
+
+  Adì 29 Aprile 1750  
+
+  Essendo saputo trascorso di disonestà tra Abram Gallico di Carpi con l’Ester
+  Ventura del fù Leon Vigevani, in modo tale, che viensi la medesima suposta in
+  cinta dal predetto Abram il quale chiamatosi dalli Illustri rappresentanti del
+  _vaad_ per instando da lui se sia disposto di coprire o onestare questo suo
+  trascorso col matrimonio, ligitimando nello stesso tempo il parto che sarà ò
+  fosse per nascere. Rispose che trovandosi veramente la ditta Ester incinta e
+  volendo il giusto di sposarla, sarà sempre pronto, affermando di obbligo suo
+  come che li venghi somministrato la preclusa somma di dote, a tenore di suo
+  maritaggio col defunto primo letto, come così si obbliga Pellegrino Donati
+  qui presente fratello della antedetta Ester, in occasione del matrimonio la
+  somma pronunziata nell’Istromento primo dotalis, in oltre il suddetto Abram
+  Gallico promette, e s’obbliga quando anco non fosse incinta, e che delle leggi
+  non vi fosse l’obbligo, e contento di sposarla, sempre che dal _kahal kadosh_
+  li venga quì permesso il _issur_, e per la manutenzionedi quanto sta espresso
+  nel presente foglio toccante l’asserito il medesimo, s’obbliga il detto Abram
+  Gallico fratello dell’antedetto Abram con tutti li suoi Beni e per conditione
+  di tutto lì espresso col tocco del drappo secondo l’uso ebraico dinominato
+  _kizur kinian_ e toco della mano in luoco di giuramento grave legale d’ambi le
+  parte esso e da Pellegrino Donati per una, e l’antedetti fratelli per l’altra
+  parte per quello spetta à ciascheduna di essa rispetivamente ed alla presenza
+  di due testimonij.  
+
+  Io Abramino Padoa uno de Testimonij ut sopra.  
+
+  Io Paris Sanguinetti uno di Testimonij.  
+
+  Io Abram Gallico affermo quanto sopra.  
+
+  Io Aron Gallico affermo quanto sopra.  
+
+  Pellgrino Donati affermo.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -400,4 +484,28 @@ Leone Brilli, I confirm what is above.
 
 Nacman de Angelis
 
-<h2 style="text-align: center">Source 3 Translation</h2>
+<h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center"><strong>Archivio della Comunità ebraica di Modena, Busta 71 Stupri provvidenze date in casi simili, fascicolo n. 2. “Accademia di Mantova che dichiara indissolubile il stato matrimoniale contratto dal Dottore Moisè Vaigler colla Rachelle Arezzi di Modena,” 14 dicembre 1751.</strong></p>
+
+14 of December, 1751 – Accademia in Mantua that declared indissoluble the matrimonial status stipulated by Doctor Moisè Vaigler with Rachelle Arezzi from Modena.
+
+In the suit between Mrs. Rachel Arezzi from Modena on the one hand and Mr. Doctor Moisè Vailer \[sic\] on the other, once the positions were explained in the trial by the two respective attorneys, the Excellencies Mister Rabbi Josef Galico and Mister Rabbi Zara Jacob Sacerdoti, being also seen, and examined with much attention the documentation included and in deep consideration of what was necessary, invoking, we determine and rule that Vailer \[sic\] not be permitted to annul against aforementioned Rachel’s will the marriage stipulated with her. We declare this marriage absolutely valid, \[Vaigler\] being obliged to provide the support for the aforementioned wife and other obligations as such that are incumbent on every husband toward his wife, in agreement with the typical _ketubah_, declaring in addition that the son delivered by the very same Rachel be recognized as the son of the very same Vaigler, and this, in spite of the opposition advanced by the very same Vaigler, and in his name, is how it is.
+
+In our Accademia in Mantua, December 14, 1751. Leon Mendola  
+Leon Finzi  
+Aron Cases
+
+Today 14 the very same  
+I, the undersigned, delivered an identical document written _sua manu_ by the aforementioned excellent Mister Rabbi Zara, In fede Codiel Orefice _shammash_. Modena December 19, 1751  
+I, the undersigned, assure that I have collected and copied the above sentence from an original that arrived from Modena word for word.  
+Abram Vita Graziani in the Holy Community of Modena.
+
+<h2 style="text-align: center">Source 4 Translation</h2><p style="text-align: center"><strong>Archivio della Comunità ebraica di Modena, Busta 71 <em>Stupri provvidenze date in casi simili, fascicolo n. 3 </em>Obbligazione d’Abram Gallico di sposare l’Ester Donati Vedova Vigevani per aver avuto commercio seco lei, 29 aprile 1750</strong></p>
+
+Today 29 of April 1750  
+Having knowledge of a dishonest intercourse between Abram Gallico from Carpi and Ester Ventura of the deceased Leon Vigevani, in a way that the very same woman is supposed to be pregnant by the aforementioned Abram, who has been called by the illustrious representants of the _vaad_ and asked if he is willing to cover or make honest that relation of his by marrying, making legitimate at the same time the child that will be or would be born.  
+\[Gallico\] answered that, being the aforementioned Ester is truly pregnant and that marrying her is the right thing to do, declared his obligation as well as the receiving of the stipulated dowry, according to her wedding with her late first husband, and so being Pellegrino Donati here present, brother of the aforementioned Ester, he assumes this obligation on the occasion of the wedding for the sum declared in the first dowry contract. In addition, the aforementioned Abram Gallico promises and assures that even if she \[Ester\] were not pregnant and therefore he would not be obliged to marry her according to the law, he would be happy to marry her, as long as from the _Kahal Kadosh_ \[Jewish community\] the _issur_ \[permission\] will be given, and for the commitment to which is expressed here in this act Aron Gallico, brother of the aforementioned Abram with all his goods and for condition of everything there \[contained in the act\] expressed with the _tocco del drappo_, according to the Jewish custom _kizur kinian_ and _tocco della mano_ instead of a longer oath taken by both parts, Pellegrino Donati on one side and the aforementioned brothers \[Abram and Aron Gallico\] on the other for what concerns each part respectively and in the presence of two witnesses.  
+I, Abramino Padoa, one of the witnesses as above.  
+I, Paris Sanguinetti, one of the witnesses.  
+I, Abram Gallico, declare what is above.  
+I, Aron Gallico, declare what is above.  
+I, Pellegrino Donati, affirm.
