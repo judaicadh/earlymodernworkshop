@@ -9,6 +9,10 @@ event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Continuity and Change in the Jewish Communities of the Early Eighteenth
     Century
+language:
+  - German
+publication_location:
+  - Prague
 description: >-
   One intriguing register for considering continuities and changes in Jewish
   life in the early eighteenth century is the constitution of the autonomous
