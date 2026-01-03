@@ -166,9 +166,7 @@ Reading Isaak Wetzlar’s _Love Letter_ as a product of Jewish-Pietist interacti
 
 Christopher Clark, _The Politics of Conversion: Missionary Protestantism and the Jews inPrussia 1728–1941_ (Oxford: Clarendon Press, 1995).
 
-Aya Elyada, “Yiddish – Language of Conversion? Linguistic Adaptation and its Limits in
-
-Early Modern Judenmission,” _Leo Baeck Institute Yearbook_ 53 (2008): 1-29. Morris M. Faierstein, ed., _The Libes Briv of Isaac Wetzlar_ (Atlanta: Scholars Press,1996).
+Aya Elyada, “Yiddish – Language of Conversion? Linguistic Adaptation and its Limits in Early Modern Judenmission,” _Leo Baeck Institute Yearbook_ 53 (2008): 1-29. Morris M. Faierstein, ed., _The Libes Briv of Isaac Wetzlar_ (Atlanta: Scholars Press,1996).
 
 Morris M. Faierstein, “The Liebes Brief: A Critique of Jewish Society in Germany (1749),” _Leo Baeck Institute Yearbook_ 27 (1982): 219-241.
 
