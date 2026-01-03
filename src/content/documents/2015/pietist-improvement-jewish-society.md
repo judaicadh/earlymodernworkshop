@@ -164,20 +164,15 @@ Reading Isaak Wetzlar’s _Love Letter_ as a product of Jewish-Pietist interacti
 
 **Select Bibliography**
 
-Christopher Clark, _The Politics of Conversion: Missionary Protestantism and the Jews in_
+Christopher Clark, _The Politics of Conversion: Missionary Protestantism and the Jews inPrussia 1728–1941_ (Oxford: Clarendon Press, 1995).
 
-_Prussia 1728–1941_ (Oxford: Clarendon Press, 1995).  
 Aya Elyada, “Yiddish – Language of Conversion? Linguistic Adaptation and its Limits in
 
-Early Modern Judenmission,” _Leo Baeck Institute Yearbook_ 53 (2008): 1-29. Morris M. Faierstein, ed., _The Libes Briv of Isaac Wetzlar_ (Atlanta: Scholars Press,
+Early Modern Judenmission,” _Leo Baeck Institute Yearbook_ 53 (2008): 1-29. Morris M. Faierstein, ed., _The Libes Briv of Isaac Wetzlar_ (Atlanta: Scholars Press,1996).
 
-1996).  
-Morris M. Faierstein, “The Liebes Brief: A Critique of Jewish Society in Germany
+Morris M. Faierstein, “The Liebes Brief: A Critique of Jewish Society in Germany (1749),” _Leo Baeck Institute Yearbook_ 27 (1982): 219-241.
 
-(1749),” _Leo Baeck Institute Yearbook_ 27 (1982): 219-241.  
-Lutz Greisiger, “Recent Publications on the German Pietists' Mission to the Jews,”
-
-_European Journal of Jewish Studies_ 2 (2008): 135–164. _Jewish History Quarterly_ 4 (2006), Special Issue.
+Lutz Greisiger, “Recent Publications on the German Pietists' Mission to the Jews,” _European Journal of Jewish Studies_ 2 (2008): 135–164. _Jewish History Quarterly_ 4 (2006), Special Issue.
 
 Stefan Rohrbacher, “Isaak Wetzlar in Celle: Ein jüdischer Reformator vor der Aufklärung,“ in _Juden in Celle: Biographische Skizzen aus drei Jahrhunderten_ (Celle: Stadtarchiv, 1996), 33-66.
 
@@ -203,7 +198,7 @@ Rebekka Voß, “Love Your Fellow As Yourself: Early Haskalah Reform as Pietist 
 
 \[...\] a Jewish Scriptum on a quarto sheet and reported that a Jew had sent it to him expressly. When his parents voluntarily gave him one or probably even two groschen, he left the house indignantly and grumbling, saying that if he were to sell everything like that, he would starve. He said he could not read it and I should have a look. The title was this:
 
-_Love Letter to all hoping prisoners of hope_\[_^_1\]_: To all the exiled sons of Israel who wait for redemption, written in loving kindness for Rosh Hashana 1703_\[^2\]
+_Love Letter to all hoping prisoners of hope_\[_^1\]: To all the exiled sons of Israel who wait for redemption, written in loving kindness for Rosh Hashana 1703_\[^2\]
 
 **Fol. 262**: In the beginning, as I hadn't looked at the date, I thought it was a purely Jewish book, made in this new year, both invoked by and refuting our letter (i.e. the Minor Epistle), because it was alarming to me that a Jew had brought it to the house and given it expressly to a scholar. \[...\]
 
