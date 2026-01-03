@@ -443,7 +443,7 @@ Daniela Lombardi, _Matrimoni di antico regime_ (Bologna, 2001).
 
 Sara Maza, _Servants and Masters in Eighteenth Century France: The Uses of Loyalty_ (Princeton, 1983).
 
-<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center">Archivio di Stato di Venezia, Fondo Inquisitorato sopra l’Università degli Ebrei, busta n. 40, 5 luglio, 1691, Fogli 148-151.</p>
+<h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center"><strong>Archivio di Stato di Venezia, Fondo Inquisitorato sopra l’Università degli Ebrei, busta n. 40, 5 luglio, 1691, Fogli 148-151.</strong></p>
 
 \[f. 148 r.\] Most serene Republic, favored by the Divine Majesty for its eternal duration from its birth to this day with a true freedom that has never been interrupted and given by the Divine Majesty for its eternal duration thorough to the present; for which it \[the Venetian Republic\] has become famous and illustrious amid all the dominions of the universe and agreed to distribute with rational balance this precious gift to its vassals, because of which the famous city of Venice has become the only sanctuary temple of freedom for all humanity.
 
