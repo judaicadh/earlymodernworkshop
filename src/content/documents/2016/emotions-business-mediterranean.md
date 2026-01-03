@@ -27,6 +27,89 @@ description: These five excerpts come from two letter books that belonged to
   the Enriches and Franchetti Company, with its presence on three Mediterranean
   coasts, placed these entrepreneurs at the forefront of the _chechia_ trade in
   the last quarter of the eighteenth century.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Franchetti Family Archive, MS General 237, vols. 2:1 and 2:2,
+  Columbia University Library, New York, NY.</strong></p><p style="text-align:
+  center">Words abbreviated in the original letters have been unabbreviated in
+  the transcriptions below for convenience.</p>
+
+
+  **1) Livorno Signori Samuele e Moise Leon**
+
+
+  **Tunis a 28 gennaro 1779**
+
+
+  2:1, 190 left-190 right **\[excerpt\]**
+
+
+  \[...\] Non posso esprimervi l’agitazione che mi ha cagionato l’articolo della
+  vostra lettera riguardante mio figlio Isache di costì, che vi assicuro mi è
+  stato di bastante agitazione; io ho incaminato costantemente il Signor Coen de
+  Lara di non farli mai fare un passo solo senza condurselo al fianco, e che
+  eseguendo il progetto, che si è formato di qua ritornare avverta bene di non
+  lasciarlo costì, ma di ricondurmelo qui in sua compagnia, non volendo
+  asolutamente lasciarlo in sua libertà in paese così pericoloso; io ardisco
+  pregarvi affidato da quella bontà che mi dimostrate che volendolo voi
+  accogliere presso di voi Signori nel caso che il citato Sig.r Coen se ne
+  volesse qua ritornare mi fareste una finezza senza pari \[...\]; ma in
+  qualunque forma che sia per succedere vi prego per amor di Dio di non
+  abbandonare il detto mio figlio della vostra affettuosa vigilanza a suoi
+  andamenti, alfine di troncarle ogni strada di cattiva pratica, che in tal
+  guisa consolerete un padre afflitto che altri che in voi Padroni non riposa
+  per la sua quiete, ed allora maggiormente conoscerò la grande vostra
+  propensione a mio riguardo, a così dunque mi raccomando col più vivo del
+  cuore e soprattutto vi stia a cuore, se mi volete favorir da davero d’impedire
+  le pratiche sospette e di persone d’inferior condizione, che poi conducono al
+  precipizio. Io vi sono molto tenuto del gentil avviso di prevenzione me ne
+  date; ma mi avete ferito il cuore assegno di non io darmi pace se stimate
+  opportuno di mandare a chiamare il Sig.r Coen con lui tener proposito di
+  questo mio importante affare fate ciò, che stimerete esser necessario, mentre
+  in voi ripongo ogni mia fiducia per la buona educazione e salvezza del caro
+  mio figlio ne di più posso dirvi. \[...\]
+
+
+  **2) Livorno Carissimo et Amatissimo**
+
+
+  **Figlio Tunis a 26 Marzo 1779**
+
+
+  2:1, 193 right-194 left **\[excerpt\]**
+
+
+  \[...\] So molto bene che ogni Padre deve cercare l’interesse de suoi figli,
+  che per questa ragione che da 45 anni sino ora ò fatticato la mia vita
+  abbastantemente per farvi uomi e per poter campare secondo la vostra nascita,
+  ma caro mio parigino savio non è dovere che un giovine della vostra età
+  resti costì ad attendere a una casa di commercio in paese di libertà,
+  dispiccato della Barberia benché sò che avete grazia a Dio timore di Dio, e
+  che siete talmid di R. Selomò Elfesi \[sic\], e che siete capacissimo
+  d’accudire al nostro negozio quanto lo può eseguire un grande di età sicché
+  tocca a voi adeportarvi di religioso e farmene vedere le prove ed essere
+  ubbidiente a tutto il mondo, che io allora io saprò come fare per il mio caro
+  diletto Isache, che la vostra madre non fa altro che piangere per non vedervi
+  alla nostra tavola la sera di Pesah, che ve lo auguriamo felicissimo e tanto
+  la suddetta vostra che io, non vi raccomandiamo altro che le irat shamayim e
+  andare alla Santa Scola a chahrit minhà e arbit cotedianamente e ogni mattina
+  e sera alli vostri esibot meldare con li figli delli Signori Reccanati che
+  quello è il esenziale, e non andare continuamente alle comedie, che quello
+  perda la gioventù, questo mondo e l’altro, che tutti questi documenti li
+  riceverete dei vostri genitori, che vi stimono e vi amino come il nostro
+  proprio fecato; \[...\] e doppo Pesah si porterà costì Nunez o Isache di
+  Salamon o sia Raffael Enriches con le sue due mogli per restare costì con voi
+  che quando si portasse costì il suddetto Raffael con voi allora resterò
+  riposato a lasciarvi costì con tutto il maneggio in vostri mani;
+  assicurandovi che è un buon jodì e che vi terrebbe come suo proprio figlio
+  con tutta la sua innocenza veramente reale, ci rallegriamo nel udire che siete
+  di perfetta salute e che siete tornato grazia a Dio che prego l’Altissimo vi
+  conservi per lunga vita e buon jodì \[...\] purtroppo che non che non \[sic\]
+  mancò solo la nostra Esterina ma ancora il nostro piccolo Joseph del vajolo
+  pregando l’altissimo che quelli piccoli innocenti del Paradiso pregano Iddio
+  per noi, e che lunga vitta abb.o lasciato al nostro genitori e a tuti di
+  nostra famiglia, e che li conceda banim zecharim \[sic\] di lunga vita amen
+  \[...\]
 ---
 <h2 style="text-align: center">Introduction</h2>
 
