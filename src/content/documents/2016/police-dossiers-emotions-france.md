@@ -24,6 +24,140 @@ description: The following document is a police dossier drawn from the Y series
   the police were really pursuing him. The dangers he saw lurking all around him
   were figments of his imagination, or, as one witness eloquently described it,
   of his “wounded imagination” (_imagination blessée_).
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Archives Nationales (France), Y 10860</strong></p>
+
+
+  Du vingt-neuf mai mil sept cent cinquante, neuf heures du soir
+
+
+  En l’hôtel de nous Louis Pierre Regnard lieutenant ordinaire du roi
+  commissaire au Châtelet de Paris et ancien préposé pour la police au
+  quartier de la Place Maubert est comparu Marie Barbe Royer femme de François
+  Fromard compagnon carrier, demeurant rue Mouffetard paroisse Saint Hippolyte,
+  laquelle nous a dit que ce matin elle est sortie sur les six heures pour aller
+  à son ouvrage ainsi que ceux de ses enfants les plus grands, a laissé dans
+  la chambre son mari qui était couché en son lit, et le plus jeune de ses
+  fils, que revenant de son ouvrage entre sept et huit heures du matin voulant
+  entrer en sa chambre elle a trouvé la porte entrebâillée, que de la
+  première chambre où elle est entrée, elle a \[sic\] passé en la seconde,
+  n’y trouvant personne, elle a eu la curiosité d’aller regarder en son lit
+  s’il était encore couché, ne l’ayant point aperçu, elle est repassée en la
+  première à dessein d’appeler son fils qui était sur l’escalier et revenait
+  de dehors, qu’elle a été surprise de voir son mari derrière la porte aux
+  environs du gond d’en haut, accroché à une corde tenant à un clou \[qui\] a
+  été fiché dans la cloison de plâtre, effrayée de ce spectacle est sur le
+  champ sortie de sa chambre pour appeler du secours, que les sieurs Benard
+  maître épicier, Claude Dumas, et la femme \[ ?\] de Morel sont sur le champ
+  survenus à elle, et le croyant encore vivant l’ont au plus vite décroché de
+  l’endroit où il était attaché, qu’il n’a plutôt été détaché et la
+  corde dénouée qu’il n’a montré aucun signe de vie, que son petit garçon
+  étant entré en sa chambre, venant \[ ?\] de la ville d’acheter du sel, lui a
+  rapporté que son père l’avait chargé d’aller chercher du sel chez une
+  débitante près de Saint Médard, qu’il l’avait laissé seul dans sa chambre,
+  que la faiblesse de son esprit l’empêchait depuis quelque temps de travailler
+  à la carrière, qu’elle s’est aperçue qu’il avait l’esprit dérangé, se
+  mettait nombre de fois en tête qu’on avait envie de l’arrêter prisonnier, et
+  quelque fois s’écriait , voilà que l’on me vient arrêter, qu’elle
+  comparante faisait ce qu’elle pouvait pour lui remettre son esprit ou le
+  tranquilliser, que ses voisins et même le curé de la paroisse, connaissant
+  son état, contribuaient autant qu’il leur était possible à la
+  tranquilliser.
+
+
+  Et attendu le dit accident elle a cru qu’il était de son devoir de se retirer
+  par devant nous pour nous faire la présente déclaration et être par nous
+  sur icelle statué ce qu’il appartiendra ; pourquoi et à l’instant
+  sommes-nous avec elle transporté dans la rue Mouffetard, en étant entré en
+  une maison dont est propriétaire le Sieur Devarenne \[ ?\], et monté en une
+  chambre au deuxième étage ayant vu sur la rue, occupée par ledit François
+  Fromard, ladite femme Fromard nous ayant indiqué l’endroit où elle avait
+  trouvé son mari, l’avait remarqué être immédiatement aux environs des
+  gonds de la porte, et à la hauteur d’environ six pieds et demi, où s’est
+  trouvé trois clous dont deux à crochet et celui du milieu à tête, et nous
+  étant approché du cadavre gisant sur un lit, l’aurions trouvé, avec sa
+  culotte et ses bas, étant en chemise et coiffé d’un bonnet, que ladite
+  comparante nous a dit être l’habillement dans lequel elle l’a trouvé
+  accroché, et avons remarqué en outre, au dit cadavre, une contusion au col,
+  dont est de tout ce que de nous avons dressé le présent procès-verbal pour
+  servir et valoir ce que de raison et a signé ------- où sont rayés treize
+  mots nuls
+
+
+  \[Signed : Marie B. Royer ; Regnard\]
+
+
+  A l’instant avons procédé au sujet de ce que dessus, à l’information
+  d’office \[ ?\] à la requête de M. le procureur du roi, ainsi qu’il suit.
+
+
+  Jean-Baptiste Benard âgé de quarante-trois ans, maître épicier à Paris y
+  demeurant rue Mouffetard paroisse Saint Hippolyte, lequel après serment par
+  lui fait de dire vérité, a dit n’être parent allié serviteur ni domestique
+  des parties.  
+
+  Dépose lecture à lui faite de notre procès-verbal ci-dessus qu’il y a six
+  ans qu’il connaissait ledit Fromard, qu’il s’est aperçu depuis ce temps qu’il
+  n’avait pas l’esprit rassis et qu’il avait en lui quelque chose
+  d’extraordinaire, qu’il se croyait malade parce qu’il disait avoir avalé des
+  épingles, que ce dérangement d’esprit est toujours augmenté, et est cause
+  que depuis le mois de décembre dernier il ne travaillait presque plus à la
+  carrière, qu’il s’était mis enfin dans l’esprit que l’on voulait l’arrêter
+  prisonnier, et qu’aujourd’hui sur les clameurs de sa femme dans la rue au
+  sujet de l’accident arrivé à son mari lui déposant avec d’autres est monté
+  en la chambre dudit Fromard qu’il l’a trouvé derrière la porte à côté des
+  gonds, ayant une corde au col attaché à un clou à tête à environ six
+  pieds et demi de haut, qu’avec le secours \[ ?\] des autres l’ont décroché
+  croyant qu’il était encore en vie, a remarqué qu’il était en chemise, ayant
+  sa culotte et des bas aux jambes, coiffé d’un bonnet de laine, qu’alors il
+  était sept heures du matin qui est tout ce qu’il a dit savoir. Lecture à lui
+  faite de sa déposition, a dit icelle contenir vérité, y a persévéré, n’a
+  requis taxe et a signé.
+
+
+  \[Signed : Regnard, Benard\]
+
+
+  Claude Dumas, âgé de trente et un an, fruitier demeurant rue Mouffetard
+  paroisse Sainte Hippolyte, lequel après serment par lui fait de dire vérité
+  a dit n’être parent allié serviteur ni domestique des parties.  
+
+  Dépose lecture à lui faite de notre dit \[ ?\] procès-verbal qu’il connaît
+  le dit Fromard depuis dix ans, que depuis environ cinq à six ans il s’est
+  aperçu qu’il avait l’imagination blessée, se croyait avoir avalé des
+  épingles et qu’il les sentait qu’elles le piquaient dans le ventre, que ses
+  conversations n’avaient aucunes suites, et enfin s’est mis dans la tête qu’il
+  y avait toujours après lui des archers pour l’arrêter, qu’aujourd’hui sur
+  les sept heures du matin, aux exclamations éplorées de sa femme dans la rue
+  qui appelait du secours, il est monté en la chambre du dit Fromard avec un
+  des voisins, et y étant avec le dit Fromard \[ ?\] accroché avec une corde
+  au col à un clou derrière la porte de la première chambre, qu’il était
+  encore vêtu de sa chemise, de sa culotte, et de ses bas, et ses souliers sur
+  le carreau auprès de lui, qu’il le croyait encore en vie, pour pouvoir lui
+  procurer du secours en pareil cas conjointement avec d’autres l’ont ôté du
+  clou où il était attaché et porté sur son lit, et a remarqué qu’il était
+  mort, que c’est tout ce qu’il a dit savoir, lecture lui faite de sa
+  déposition a dit icelle contenir vérité, y a persévéré, n’a requis taxe
+  et a signé.
+
+
+  \[Signed : Regarnd, Dumas\]
+
+
+  Marie-Therèse Dordet âgé de de quarante-deux ans, femme de François Morel,
+  officier Invalides, demeurante rue Mouffetard paroisse Saint Martin, laquelle
+  après serment par elle fait de dire vérité, a dit n’être parente alliée
+  servante ni domestique des parties.  
+
+  Dépose lecture à elle faite de notre dit procès-verbal qu’il y a quinze ans
+  qu’elle connaît le dit Fromard, que depuis cinq à six ans elle lui a
+  remarqué avoir l’esprit faible, qu’il disait avoir avalé des épingles et
+  pour cette raison s’imaginait être malade, que l’aliénation de son esprit a
+  augmenté au point que les nuits il s’écartait et que l’on était obligé de
+  le chercher, même avait la faiblesse de s’imaginer que l’on le voulait mettre
+  en prison, et se mettait dans la tête que toutes les personnes qu’il voyait
+  passer étaient des archers pour le prendre, qu’aujourd’hui sur les sept
 ---
 <h2 style="text-align: center">Introduction</h2>
 
