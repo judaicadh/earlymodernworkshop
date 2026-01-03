@@ -40,6 +40,138 @@ description: >-
   awareness of factionalism and strife among Jews, and, subtly but importantly,
   efforts by the Habsburg monarchy to bring Jewish administration into line with
   other denizens of the realm.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center"><strong>Published by G. Wolf in <em>Allgemeine Zeitung des Judenthums
+  </em>27, 14 (21 April, 1863): pp. 255-257.</strong></p>
+
+
+  Leopold.  
+
+  Liebe Getreue,  
+
+  In waβ für langwiehrige Strittigkeiten, Zanck un unordnungen die Pragersche
+  Judenschafft hierüber von wegen ihrer Anlaag und Classification verfallen
+  seye und welcher gestalten selbte deβwegen von einem Jahre ins andere
+  verschiedene groβe Steuer- und Contributionsresten zu Unßern und des Publici
+  Verdrieβ erwachssen lassen, auch dann mehere vielfaltige Executiones zu ihren
+  selbsteigene Schaden über den Halβ gezogen, mithinn sich jemehr und mehr in
+  die Schulden und zwar fast ohne Hoffnung jemahlen herauβ eluctiren zu können
+  vertieffet habe, solches ist nun auch ohnehin schon zur genüge gehorsamst (?)
+  bekandt, gleich wie nun aber dieβen bey der Pragerischen Judenschafft
+  eingerissenen übell durch die zwischen unβerer k. Hofkammer dann denen
+  Pragerischen Juden Primas Samuel Isac Sachsel und Wolf Frankel, den 6. Apr.
+  des nächst abgerückten 1702t. Jahres auf 3 J\[ahr\] lang höchst
+  erspriβlichen geschlossenen perdons verpachtung dergestalten begegnet worden,
+  daβ die jüdische Steuer und andere Contribuenda publica nunmehro richtig und
+  zwar anticipando in Unβer K. Obersteuerambt abgeführet und die Umbstände und
+  dahero resultirte kostbahre executiones evitiret werden, folgsam auch die
+  Juden querelen, woraus wir sonst in viel weegen und fast continuirlich vor
+  angeregter Anlag und Classification halben behelligt worden, dermahlen zu
+  Unseren allergrosten Vergnügen gänzlichen cessiren thuen, alβo sind wir
+  bewogen worden, obgedachte jüdische Perdonsverpachtung und darüber
+  aufgerichtete Contract mit allem, wie hiermit beschieht, in allen darinne
+  enthaltenen Punkten und Clausulen sambt denen von Unβerer kays. Hofkammer auβ
+  ex post biβ den 20. Juni currentis anni hierinfalβ ergangenen Verordnungen v.
+  h. k. und k. gnaden zu confirmiren, sondern auch noch auf andere 3 Jahre id
+  est nach auβgang des ersten trienny alβ den 6. Apr. 1705 wieder anzufangen zu
+  bestätigen gestalten wir dann auch zu dem Ende durch unβere böhm.
+  Hoffkanzley das behörige an unβer k. Governo zu Prag haben ergehen lassen,
+  daβ vorberichte Pachter Samuel Isac Sachsel und Wolf Frankel mit ihren
+  Mit-Consorten darbey kräftigst geschützet und ihnen auf ihr beschehendes
+  Anmelden von denen Pragerischen Magistraten zu Einbringung des Perdons und
+  Verhütung derer Unterschleiffungen und Collusionen mit denen christl.
+  Kaufleuten alle verlangende Assistenz und schleunige Außhülfe contra
+  quoscunque unweigerlich geleistet werden solle; Und zumahlen wir auch unβ
+  annebst erinnern, daβ sie schädliche factiones, und reclami bey denen
+  hiebevor Singulis triennis wiederholten wahl Actibus unter der Pragerischen
+  Judenschaft sich erregt haben und alßo zwar, daβ wegen deren von einigen
+  Unruhigen Juden nicht so wohl ex motive denn gemeinschaftlichen Nutzen zu
+  befördern als vielmehr auβ feindhässigen Gemüth und hegender privat passion
+  fast bey allen vorgegangenen jüdischen Wahlen impugnirter qualitätentam
+  Eligentium quam Electorum nicht nur unβern Cameral, sondern auch jegliche
+  Stellen vielfaltig angegangen, dieβe jüdische Strittigkeiten auf lange Zeit
+  hinaus protractiret und inmittelst die Pragerische Judenschafft ob ambitiosam
+  Emulationem ihrer etlich weniger Membrorum in die gröβeste Confusiones
+  gestürzt worden und nun aber unβer kayl. Hofkammer bey denen mit unβer böhm.
+  Hoffkanzley v. 12 März umstehenden Jahres wegen verschiedener die Prager
+  Judenschafft concernirender passuum gepflogenen Concessio auf die gedanken
+  gerathen und nach reifferder Sachen Ueberlegung für gut befunden hat, daβ
+  gleich wie die ehemalige wegen der Anlaag und Classification derer Prager
+  Juden entstandene Zankereyen und häuffige Klagen durch daβ saluberrimum
+  medium der Perdonsverpachtung gänzlich kassiret worden, Alβo auch die ratione
+  der Prager Jüdischen wahl sich gemenlich erhebende Factiones Zwistigkeiten
+  und gravamina gedrücket und eine beharliche tranquilität sowohl zu ihrer der
+  Judenschafft selsteigenen alβ auch der gemein weesen Nutzen stabiliret mithin
+  um dessen Zweck zu erreichen die Jüdische wahl Aufgehebt und wie bey denen
+  Christen treulich ein beständig und perpetuirlicher Magistrat constituirt
+  werden könte und dieses zwar principaliter darumben, weilen mehr besagte Wahl
+  ohne dem schon durch die Perdonsverpachtung und derentwegen immermehr
+  cessirender Classification der Prager Juden, welche sonsten jedesmal als ein
+  necessarium Antecedens vor der Election tractiret und umgerichtet werden
+  missen, in praecipuis substantialibus eine groβe Veränderung bekommen und
+  dahero alβ eine Consequenz auch gar füglich zu kassiren stunde,
+  zugeschweigen, daβ auf solche weisse nicht allein die hierbei, und bey denen
+  durch etliche wochen lang gedauerte wahl actibus auf die geschwohren
+  Schreiber, Jüdische Ruffer, Soldaten und sonst aufgewendete groβe doch dabey
+  unnöthige sumptus ins künfftige zur Erspahrung kommen, sondern auch die
+  Juden, wann sie seheten, daβ sie singulis trienniis nicht zu deren Ambtern
+  duch die vormahls bey ihnen in zwung (?) gegangene factiones und feindliche
+  Collndirungen \[sic!\] gelangen konten; sondern entweder den Todesfall eines
+  auß den Jüdischen Eltesten und anderen Beamten oder aber die in andere weisse
+  sich ereignete Erledigung dieses oder jenes jüdischen officy erwarthen und
+  solches durch eigenes wolverhalten meritiren müsse von selbsten schon
+  acquiesciren unßere Cameral und Justizmittel vor dem vielfaltigen Anlauf der
+  Juden entübriget mithin bey der Pragerischen Judenschafft aller in behöriger
+  Ruhe und Tranquilität, als welche wir gnädigst intendiren, verbleiben werde.
+
+
+  Alβ verordnen setzen und wollen win vor allemal hiermit gnädigst, daβ
+  hinfüro die sonst gebräuchlich gewesen Prager Jüdischen Wahl nicht mehr
+  vorgenohmen, sondern ein beständig und perpetuirlicher jüdischer Magistrat
+  constituiret, folgsam zu diesem Ende die dermalen in deren Ambtern sitzende
+  und zugleich bey nächst voriger wahl rechtmässig und ordentlich elegirte
+  Elteste Beysitzern, und geringe Bediente, in soweith solche durchdie Perdons
+  verpachtung mit (?) restringiret worden sind, bey ihren officijs beharlich
+  gelassen, der Numerus des jüdischen Raths nit alterirt sondern nach derselben
+  hiebevorigen Sistemate inn 27 Personen als 5 Eltesten 5 Gemeindeeltesten und
+  17 Beisitzer beständig erhalten, da aber jemand aus gemeldeten Eltesten,
+  Beisitzeren oder andern jüdischen Bedienten mit Tods abgehen und dessen
+  Stellung quocunque alio modo vacant werden mochte alβdann von ihren Eltesten
+  drey Subjecta zu der erledigten Function uns. kön. böhm. Kammer ad
+  ratificandum eingereichet und auf einen derselben Competenten positive
+  eingeraten; In übrigen aber und damit sich der Jüdische Magistrat und
+  sonderlich die Beysitzer, alβ welche nur zur Beförderung der Justiz gewidmet
+  hegend (?) in denen schranken ihrer Pflicht und der Instruction gemäβ
+  verhalten, mithin sich keiner über selben so leichtlich zu beklagen ursach
+  haben möge, daβ alle 3 Jahre durch die ex gremio unserer k. böhm. Kammer
+  Deputirte Commissarios gleichsam eine visitation der Jüdischen Eltesten,
+  gemeinen Eltesten, Beisitzern und andere Bediente jedoch quam brevissime und
+  mit geringen Kosten, alβ es immer geschehen kann, vorgenommen und solche alda
+  entweder vermittelst uns. k. Hofkammer in ihre Ambter bestätigt und
+  confirmirt oder aber da sich befindete, daβ sich jemandt auβ ihnen seiner
+  Pflicht und Instruction gemäβ nit verhalten, sondern dawider excedirt hätte,
+  ein solcher als dann condigne abgestraffet oder nach befund der Sache plane ab
+  officio amovirt und ein ander an statt praemisso modo surrogirt und eingesetzt
+  werden kann.
+
+
+  Befehlen Euch dem nach hier mit gnädigst, daβ ihr so eins als andere gehörig
+  ad notam nehmet und diesen unsern so wohl wegen der Confirmation und
+  prolongirung der Perdons verpachtung alβ auch des Jüdischen Magistrat
+  perpetuität halber geschöpfften gnädigsten Willen und resolution debito
+  loco publiciren lassen, solcher in allem gehorsamst nachleben und die
+  Pragerische Judenschaft zu denen punctualien in allerunterthänigsten
+  observanz anhalten, die dawider strepitirende gänzliche ab und zur Ruhe zu
+  verweisen, mithin denen Juden wieder die unßer gnädigste Verordnung und
+  Intention ganz und gar keine Conventicula verstattet, sondern solche
+  allerdings und zwar sub peone pepetuae inhabilitatis ad officia verbethen und
+  darob festiglich und alles Ernst halten sollet. Daran x.
+
+
+  Wien, 10 Nov. 1703.  
+
+  An die königl. böhm. Kammer.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -65,18 +197,3 @@ You are thus graciously ordered duly as others to take note to record everything
 
 Vienna, 10 November 1703.  
 To the Royal Bohemian Chamber.
-
-<h2 style="text-align: center">Published by G. Wolf in <em>Allgemeine Zeitung des Judenthums </em>27, 14 (21 April, 1863): pp. 255-257.</h2>
-
-Leopold.  
-Liebe Getreue,  
-In waβ für langwiehrige Strittigkeiten, Zanck un unordnungen die Pragersche Judenschafft hierüber von wegen ihrer Anlaag und Classification verfallen seye und welcher gestalten selbte deβwegen von einem Jahre ins andere verschiedene groβe Steuer- und Contributionsresten zu Unßern und des Publici Verdrieβ erwachssen lassen, auch dann mehere vielfaltige Executiones zu ihren selbsteigene Schaden über den Halβ gezogen, mithinn sich jemehr und mehr in die Schulden und zwar fast ohne Hoffnung jemahlen herauβ eluctiren zu können vertieffet habe, solches ist nun auch ohnehin schon zur genüge gehorsamst (?) bekandt, gleich wie nun aber dieβen bey der Pragerischen Judenschafft eingerissenen übell durch die zwischen unβerer k. Hofkammer dann denen Pragerischen Juden Primas Samuel Isac Sachsel und Wolf Frankel, den 6. Apr. des nächst abgerückten 1702t. Jahres auf 3 J\[ahr\] lang höchst erspriβlichen geschlossenen perdons verpachtung dergestalten begegnet worden, daβ die jüdische Steuer und andere Contribuenda publica nunmehro richtig und zwar anticipando in Unβer K. Obersteuerambt abgeführet und die Umbstände und dahero resultirte kostbahre executiones evitiret werden, folgsam auch die Juden querelen, woraus wir sonst in viel weegen und fast continuirlich vor angeregter Anlag und Classification halben behelligt worden, dermahlen zu Unseren allergrosten Vergnügen gänzlichen cessiren thuen, alβo sind wir bewogen worden, obgedachte jüdische Perdonsverpachtung und darüber aufgerichtete Contract mit allem, wie hiermit beschieht, in allen darinne enthaltenen Punkten und Clausulen sambt denen von Unβerer kays. Hofkammer auβ ex post biβ den 20. Juni currentis anni hierinfalβ ergangenen Verordnungen v. h. k. und k. gnaden zu confirmiren, sondern auch noch auf andere 3 Jahre id est nach auβgang des ersten trienny alβ den 6. Apr. 1705 wieder anzufangen zu bestätigen gestalten wir dann auch zu dem Ende durch unβere böhm. Hoffkanzley das behörige an unβer k.
-
-Governo zu Prag haben ergehen lassen, daβ vorberichte Pachter Samuel Isac Sachsel und Wolf Frankel mit ihren Mit-Consorten darbey kräftigst geschützet und ihnen auf ihr beschehendes Anmelden von denen Pragerischen Magistraten zu Einbringung des Perdons und Verhütung derer Unterschleiffungen und Collusionen mit denen christl. Kaufleuten alle verlangende Assistenz und schleunige Außhülfe contra quoscunque unweigerlich geleistet werden solle; Und zumahlen wir auch unβ annebst erinnern, daβ sie schädliche factiones, und reclami bey denen hiebevor Singulis triennis wiederholten wahl Actibus unter der Pragerischen Judenschaft sich erregt haben und alßo zwar, daβ wegen deren von einigen Unruhigen Juden nicht so wohl ex motive denn gemeinschaftlichen Nutzen zu befördern als vielmehr auβ feindhässigen Gemüth und hegender privat passion fast bey allen vorgegangenen jüdischen Wahlen impugnirter qualitätentam Eligentium quam Electorum nicht nur unβern Cameral, sondern auch jegliche Stellen vielfaltig angegangen, dieβe jüdische Strittigkeiten auf lange Zeit hinaus protractiret und inmittelst die Pragerische Judenschafft ob ambitiosam Emulationem ihrer etlich weniger Membrorum in die gröβeste Confusiones gestürzt worden und nun aber unβer kayl. Hofkammer bey denen mit unβer böhm. Hoffkanzley v. 12 März umstehenden Jahres wegen verschiedener die Prager Judenschafft concernirender passuum gepflogenen Concessio auf die gedanken gerathen und nach reifferder Sachen Ueberlegung für gut befunden hat, daβ gleich wie die ehemalige wegen der Anlaag und Classification derer Prager Juden entstandene Zankereyen und häuffige Klagen durch daβ saluberrimum medium der Perdonsverpachtung gänzlich kassiret worden, Alβo auch die ratione der Prager Jüdischen wahl sich gemenlich erhebende Factiones Zwistigkeiten und gravamina gedrücket und eine beharliche tranquilität sowohl zu ihrer der Judenschafft selsteigenen alβ auch der gemein weesen Nutzen stabiliret mithin um dessen Zweck zu erreichen die Jüdische wahl Aufgehebt und wie bey denen Christen treulich ein beständig und perpetuirlicher Magistrat constituirt werden könte und dieses zwar principaliter darumben, weilen mehr besagte Wahl ohne dem schon durch die Perdonsverpachtung und derentwegen immermehr cessirender Classification der Prager Juden, welche sonsten jedesmal als ein necessarium Antecedens vor der Election tractiret und umgerichtet werden missen, in praecipuis substantialibus eine groβe Veränderung bekommen und dahero alβ eine Consequenz auch gar füglich zu kassiren stunde, zugeschweigen, daβ auf solche weisse nicht allein die hierbei, und bey denen durch etliche wochen lang gedauerte wahl actibus auf die geschwohren Schreiber, Jüdische Ruffer, Soldaten und sonst aufgewendete groβe doch dabey unnöthige sumptus ins künfftige zur Erspahrung kommen, sondern auch die Juden, wann sie seheten, daβ sie singulis trienniis nicht zu deren Ambtern duch die vormahls bey ihnen in zwung (?) gegangene factiones und feindliche Collndirungen \[sic!\] gelangen konten; sondern entweder den Todesfall eines auß den Jüdischen Eltesten und anderen Beamten oder aber die in andere weisse sich ereignete Erledigung dieses oder jenes jüdischen officy erwarthen und solches durch eigenes wolverhalten meritiren müsse von selbsten schon acquiesciren unßere Cameral und Justizmittel vor dem vielfaltigen Anlauf der Juden entübriget mithin bey der Pragerischen Judenschafft aller in behöriger Ruhe und Tranquilität, als welche wir gnädigst intendiren, verbleiben werde.
-
-Alβ verordnen setzen und wollen win vor allemal hiermit gnädigst, daβ hinfüro die sonst gebräuchlich gewesen Prager Jüdischen Wahl nicht mehr vorgenohmen, sondern ein beständig und perpetuirlicher jüdischer Magistrat constituiret, folgsam zu diesem Ende die dermalen in deren Ambtern sitzende und zugleich bey nächst voriger wahl rechtmässig und ordentlich elegirte Elteste Beysitzern, und geringe Bediente, in soweith solche durchdie Perdons verpachtung mit (?) restringiret worden sind, bey ihren officijs beharlich gelassen, der Numerus des jüdischen Raths nit alterirt sondern nach derselben hiebevorigen Sistemate inn 27 Personen als 5 Eltesten 5 Gemeindeeltesten und 17 Beisitzer beständig erhalten, da aber jemand aus gemeldeten Eltesten, Beisitzeren oder andern jüdischen Bedienten mit Tods abgehen und dessen Stellung quocunque alio modo vacant werden mochte alβdann von ihren Eltesten drey Subjecta zu der erledigten Function uns. kön. böhm. Kammer ad ratificandum eingereichet und auf einen derselben Competenten positive eingeraten; In übrigen aber und damit sich der Jüdische Magistrat und sonderlich die Beysitzer, alβ welche nur zur Beförderung der Justiz gewidmet hegend (?) in denen schranken ihrer Pflicht und der Instruction gemäβ verhalten, mithin sich keiner über selben so leichtlich zu beklagen ursach haben möge, daβ alle 3 Jahre durch die ex gremio unserer k. böhm. Kammer Deputirte Commissarios gleichsam eine visitation der Jüdischen Eltesten, gemeinen Eltesten, Beisitzern und andere Bediente jedoch quam brevissime und mit geringen Kosten, alβ es immer geschehen kann, vorgenommen und solche alda entweder vermittelst uns. k. Hofkammer in ihre Ambter bestätigt und confirmirt oder aber da sich befindete, daβ sich jemandt auβ ihnen seiner Pflicht und Instruction gemäβ nit verhalten, sondern dawider excedirt hätte, ein solcher als dann condigne abgestraffet oder nach befund der Sache plane ab officio amovirt und ein ander an statt praemisso modo surrogirt und eingesetzt werden kann.
-
-Befehlen Euch dem nach hier mit gnädigst, daβ ihr so eins als andere gehörig ad notam nehmet und diesen unsern so wohl wegen der Confirmation und prolongirung der Perdons verpachtung alβ auch des Jüdischen Magistrat perpetuität halber geschöpfften gnädigsten Willen und resolution debito loco publiciren lassen, solcher in allem gehorsamst nachleben und die Pragerische Judenschaft zu denen punctualien in allerunterthänigsten observanz anhalten, die dawider strepitirende gänzliche ab und zur Ruhe zu verweisen, mithin denen Juden wieder die unßer gnädigste Verordnung und Intention ganz und gar keine Conventicula verstattet, sondern solche allerdings und zwar sub peone pepetuae inhabilitatis ad officia verbethen und darob festiglich und alles Ernst halten sollet. Daran x.
-
-Wien, 10 Nov. 1703.  
-An die königl. böhm. Kammer.
