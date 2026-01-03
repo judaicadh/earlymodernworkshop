@@ -5,4 +5,7 @@ institution: Fordham University
 volume: 13
 year: "2016"
 slug: regret-repentance-law
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: History of Emotions/Emotions in History
 ---
