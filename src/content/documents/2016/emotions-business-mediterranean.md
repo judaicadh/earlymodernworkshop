@@ -56,7 +56,8 @@ Amedeo Spagnoletto, “Nuove fonti sulla famiglia Franchetti a Tunisi, Smirne e 
 
 Natalie Zemon Davis, “Religion and Capitalism Once Again? Jewish Merchant Culture in the Seventeenth Century,” _Representations_ 59 (1997), 56-84.
 
-Richard Grassby, _Kinship and Capitalism. Marriage, Family, and Business in the EnglishSpeaking World, 1580-1740_ (Cambridge and New York, 2001).  
+Richard Grassby, _Kinship and Capitalism. Marriage, Family, and Business in the EnglishSpeaking World, 1580-1740_ (Cambridge and New York, 2001).
+
 Margaret R. Hunt, _The Middling Sort. Commerce, Gender, and the Family in England, 1680-1780_, (Berkeley, Los Angeles, and London, 1996).
 
 Sarah M. S. Pearsall, _Atlantic Families. Lives and Letters in the Later Eighteenth Century_ (Oxford, 2008).
