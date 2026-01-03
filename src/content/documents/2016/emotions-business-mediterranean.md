@@ -110,6 +110,119 @@ original_language_body: >-
   per noi, e che lunga vitta abb.o lasciato al nostro genitori e a tuti di
   nostra famiglia, e che li conceda banim zecharim \[sic\] di lunga vita amen
   \[...\]
+
+
+  **3) Smirne Amatissimo Figlio Reuben**
+
+
+  **Tunis 22 Marzo 1782**
+
+
+  2:2, 43v-44v **\[excerpt\]**
+
+
+  Mia gioia preziosa, doppo d’avervi avvisato quello mi passa con questo cicor
+  che sono certo da voi riceverne la mia vendetta ora di nuovo mi venne una
+  piccozza così bene amolata di nuovo che mi spartì il capo in dua, e quasi
+  arrivatomi has veshalom nei cervelli miei, che sono fuori da me e non so più
+  quello mi faccio, mentre tutte le mie fatiche fatte e sudori di sangue, che
+  passo con questo cicor tutti li soffro per sostenere la mia famiglia, con
+  onore, che non fo poco \[...\]; e tutte quelle mie fatiche con l’assistenza
+  divina però con lasciarvi, con qualche capitale sufficiente a lunga vita,
+  ch’io abbia per potere essere mercanti, come grazie iddio siete, ma che li 2
+  vostri fratelli cioè Isache e Jeudà abbiano d’essere la rovina de 2 gioie
+  preziose come voi ed Abram il vostro fratello no per certo e se loro
+  seguiteranno has veshalom questa loro vita, v’assicuro e vi giuro, che farò
+  un testamento di lasciargli 100 pezze a ognuno e diseredarli da miei figli,
+  mentre penso per Isache che se seguita has veshalom questa vita in un Livorno
+  d’attendere a commedianti può perdere has veshalom anima, e corpo, che vi
+  lascio considerare che Pesah fo di un uomo, di età e fatica come me, che se
+  la vostra madre venisse a penetrare questo sono certo, che si intererebbano li
+  dua vivi; osserverete la copia di lettera che mi scrisse quel mio intrinseco
+  amico e buon jodì di Josef Coen Tanugi fratello di questo Caid Jeusuah, che
+  ieri quando questo suo fratello Caid Jeusuah me la consegnò piangeva come una
+  creatura, dicendomi che giammai pensava di udire questo dai suddetti vostri
+  fratelli, che li ama come suoi propri figli \[...\] vedete cosa ho fatto io
+  per scoprire il tutto \[...\] ho fatto che i miei fratelli di Mantova scrivono
+  ai loro corrispondenti di Livorno che procurono di scroprire li andameneti de
+  miei figli di Livorno, che un nostro cugino Ihiel Franchetti di Mantova è
+  corrispondente della nobile casa Franco di Livorno giurandovi in Iddio che il
+  meglio di loro li rispondono in questo paragrafo: “Mantova Sig.e Franchetti
+  ricevo la cara vostra, rispondendo col dirvi, che per quanto io abbia fatto
+  fare da miei ministri persone di buonissima religione onestà \[...\] ricerca
+  dei andamenti dei 2 giovini Franchetti residenti qui, ne ho fatto qualche
+  scoperta, e si trova, che veramente si lasciono in certa maniera condurre a
+  divertimenti poco laudabili si che potete assicurare al loro genitore di
+  Tunisi che tutto quello li fu scritto della loro sistema non è tutto vero,
+  qualche cosa almeno vi è di certo \[...\] mi si assicura, che il maggiore sia
+  alquanto generoso ne lo spendere, ma per farli poi le lodi, che meritono sono
+  tutte due attenti alle ore del negozio; se dunque facciate che il loro
+  genitore di Tunis li faccia il timore paterno per evitare ogni disordine, che
+  voi potete penetrare, e io non mancherò che li suddetti ministri l’abbino li
+  occhi addosso e salutandovi caramente ...” Terrete segreto questa confidenza
+  della degna casa Franco di Livorno \[...\] e spero in Iddio, che faranno le
+  loro teciubà \[sic\] in difetto di giuro di fare quello dettovi di sopra, con
+  tutto questo non mi pongono sottoterra \[...\]
+
+
+  **4) Smirne Carissimo Figlio Reuben**
+
+
+  **Tunis \[n.d.\]**
+
+
+  2:2, 79v-80r **\[excerpt\]**
+
+
+  \[...\] Cara mia gioia preziosa io di già vi scrissi \[...\] che giacché non
+  avete il genio di casarvi, con vostra cugina \[...\] tutto sagrifico
+  volentieri pure per non disgustarvi, in qualche minimo affare, e il consolo
+  che tengo in questo mondo è quando ricevo le vostre lettere, che caso di
+  costì per qui non vi fusse passaggi in brevi tempi, vi prego Lemahan Asciem
+  \[sic\] scriverne per la via di Livorno, e per tutte le vie possibili, in
+  tutti li passaggi, che passono a costì per Livorno, Marsiglia, Genova, ora
+  che entriamo nell’inverno dateci due righe \[...\] sicché giacché così il
+  vostro genio di non ammogliarvi con la suddetta vostra cugina io l’approvo
+  quanto voi, e di già vi dico che altro consolo \[non\] ho in questo mondo,
+  che quando vedo i vostri illustri caratteri, ma parlandovi da vero e amato
+  vostro padre, ora le vostre lettere ci pongono un ipicondria tanto a me e più
+  alla povera vostra madre incredibile mentre ci dite che non tormentiamo nel
+  dirvi di ammogliarvi, che per la vostra cugina di già vi abbiamo deliberato,
+  ma questo modo del vostro scrivere, che non volete ammogliarvi con niuno ci fa
+  entrare cento mille vani pensieri, che come vostri genitori non ci potiamo di
+  più spiegarci; se vi spiegherete meglio, e che ci direte che non avete il
+  genio di ammogliarvi qui, e che avreste il genio di ammogliarvi in Livorno, ho
+  in Olanda a vostro piacimento questo volentieri ve lo accordiamo, ma ogni
+  qualvolta ci confermerete il termine di non volervi has veshalom ammogliarvi
+  ci terrete sempre più malinconichi, che mai avete timore di tenere padre e
+  madre inquieti per eterno di sua vita, sicche tocca a voi a consolarci così
+  Iddio vi consolerà, a voi in tutto, e per tutto amen. \[...\]
+
+
+  **5) Smirne Carissimo Mio Figlio Reuben**
+
+
+  **Tunis a 15 Luglio 1783**
+
+
+  2:2, 120v-124v **\[excerpt\]**
+
+
+  \[...\] Il Signor Iacob \[Enriches\] doppo d’aversi fatto da pazzo e farsi il
+  siman pazzul \[sic\] avanti da mangiare doppo mangiare, ora divulga colla
+  nostra compagnia però, che voi siete tornato fermassan e lui con voi, e che
+  non sapete quello vuol dire Iodud nè che dite ne tefillà ne minhà ne arbit,
+  nè che vi lavate le mani avanti di mangiare nè che dite berahà, e solo che
+  tutto il giorno li harelim fermassoni vi salutano col segno dello selem has
+  ve-shalom e tutti li Enriches giurano che è più che verissimo, mentre loro
+  sono tutti pazzi e credono alle parole del pazzo Iacob; benché io sono della
+  vostra opinione che sia più maligno che pazzo e sta in liti criminali con i
+  suoi fratelli, cose incredibili \[...\] ma cara mia gioia audire queste cose
+  di bocca di un pazzo a un Padre di età come me, e a un fratello religioso
+  ammallato ci avete posto has ve-shalom nella fossa \[...\] Iacob Enriches
+  giura che Bondì e Mercado sono quelli che v’hanno ridotto has ve-shalom
+  fermasson, che il vostro fratello Abram giura che se has ve-shalom fusse
+  questo che giammai vi conoscerebbe più per fratello \[...\]
 ---
 <h2 style="text-align: center">Introduction</h2>
 
