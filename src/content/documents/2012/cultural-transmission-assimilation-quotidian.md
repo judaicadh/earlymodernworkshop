@@ -359,7 +359,7 @@ Asked what cause he has for saying and asserting that he has been circumcised an
 
 \[Signatures\]
 
-<h2 style="text-align: center">Source 1 Translation</h2>
+<h2 style="text-align: center">Source 1 Original Text</h2>
 
 **\[Cover, front matter\]**
 
