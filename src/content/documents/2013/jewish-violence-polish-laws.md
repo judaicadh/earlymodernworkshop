@@ -212,9 +212,7 @@ Iudei Thysch, Filiomon, Musza, Ysaczko recognoverunt , quia, prout habuerunt con
 
 Jews Thysch, Filiomon, Musza and Isaczko recognized, as they had agreed with nobleman Stanislaus attorney from Prussy, that they inflicted harm on him and other persons, and all these people were satisfied through the settlement, together with all injured persons from both sides, Christians and Jews in this way, that they will be silent about the wounds under the threat and security of 100 marks payable to the Lord Palatine, and that everyone laid aside seeking damages for wounds and that Jews have already paid for Matthew’s head. And now Jews are able to go freely, and it pleases those, who are freed from the sureties provided, who were involved in the murder.
 
-<h2 style="text-align: center">Source 7 Original Text</h2>
-
-Source: A.Linder, _Jews in the Legal Sources of the Early Middle Ages_ (Detroit, 1998), p. 208 (translation by A. Linder)
+<h2 style="text-align: center">Source 7 Original Text</h2><h2 style="text-align: center">Source: A.Linder, <em>Jews in the Legal Sources of the Early Middle Ages </em>(Detroit, 1998), p. 208 (translation by A. Linder)</h2>
 
 Law of Burgundians, De Iudaeis
 
