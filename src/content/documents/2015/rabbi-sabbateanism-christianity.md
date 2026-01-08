@@ -20,7 +20,16 @@ description: Moses Aaron of Krakow, a Sabbatean rabbi, who would later call
   mentee's wish before the council of the Free Imperial City of Schweinfurt,
   Kemper was asked to submit the reasons for his request together with a short
   autobiography in written form. The outcome was his _Humble Account_, which
-  appeared in print shorty after Kemper was baptized.
+  appeared in print shorty after Kemper was baptized. A close analysis of
+  Kemper's _Humble Account_ reveals a very subtle yet pronounced anti-Jewish
+  narrative which makes use of well-established early modern stereotypes of Jews
+  and Judaism on the one hand and standard theological arguments on the other
+  hand. The autobiography is nevertheless more than a mediocre anti-Jewish
+  polemical treatise, for it not only features one of the rare descriptions of
+  the lesser known Sabbatean messianic upheaval of 1695, which was caused by the
+  prophecies of a certain Rabbi Zadok of Grodno, but it also seems that some of
+  Kemper’s own remarks have escaped the censorship of his friend and mentor and
+  thus allow a glimpse into Kemper’s own perception of his conversion.
 original_language_body: >-
   <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
   center"><strong>Aaron, Moses (Johan Kemper). <em>Unterthäniger Bericht An
