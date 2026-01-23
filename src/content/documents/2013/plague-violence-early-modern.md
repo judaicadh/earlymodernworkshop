@@ -52,7 +52,34 @@ With news of the plague worsening by the day in Venice and because the Jews livi
 Commands all Jewish persons, no matter why they have been allowed to settle in this city or territory, or by whatever means they have come here, lawfully or not, secretly or openly, to evacuate entirely \[the city and territory of Bologna\] taking with them their belongings within the next twenty-four hours.  
 Under pain of execution.
 
-<h2 style="text-align: center">Source 4 Translation</h2><h2 style="text-align: center">Source 5 Translation</h2><h2 style="text-align: center">Source 6 Translation</h2><h2 style="text-align: center">Source 1 Original Text</h2>
+<h2 style="text-align: center">Source 4 Translation</h2><p style="text-align: center">Silvano Razzi, <em>Causes and Remedies for the Plague... </em>(Florence, Giunti, 1577), p. 52.</p>
+
+Special remedies to enable anyone to prevent the spread of Plague
+
+Any immoral book, ones of earthly love or other vanities, the magical arts, astrological judgement or any other sort of book that you might possess, which the Church has prohibited as being either heretical or useless for Christian living, will be immediately burnt or torn to pieces. The same goes for cards, dice, and other things unsuitable for the holy life of those wishing to be children of the Lord.
+
+The same is to be observed especially with burning the books of Rabbis and other Jews, since they contain blasphemies and falsehoods against the laws and truth of Our Lord, Christ.
+
+<h2 style="text-align: center">Source 5 Translation</h2><p style="text-align: center">Archivio di Stato di Mantova, Archvio Gonzaga, folder 1693, page 230: Letter sent by Silvio Calandra, Mantuan ambassador in Milan, to the Ducal Secretary Aurelio Libramonte.</p>
+
+27 August 1576  
+Several circumcised Spaniards have been arrested, who, it is said are converted Moslems and were sent by the Turks to spread the plague through Christendom and that others among are responsible for the suffering of the scourge throughout Christendom.
+
+Archivio di Stato di Mantova, Archivio Gonzaga, folder 2597, page 357. Letters sent by Paolo Emilio Bardellone, head of the _Health Board_, to the ducal secretary Aurelio Libramonte.
+
+3 September 1576
+
+Today, the father Inquisitor told me, that he had heard from the abbot of St Bartholomew, that one of his fellow friars and the prior of this said church, who having come from Piacenza, reported that two Spaniards have been arrested in Milan and have confessed to have been paid along with forty others by the Turks to go through all of Italy spreading the plague. In addition, they have named three other Spaniards, who have also been captured, and two of them were in Mantua. If this report is verified, it should change the minds of the Milanese rulers, who \[believe\] that the plague has been spread there by a Mantuan coach driver.
+
+<h2 style="text-align: center">Source 6 Translation</h2><p style="text-align: center">Alessandro Canobbio, <em>The Progress of the Plague that occurred in Padua in 1575, Written and Observed by Alessandro Canobbio </em>(Venice: appresso Paolo Megietti librario in Padova, 1577)</p>
+
+7v Every day \[the officials of the Health Board\] went around discovering the plague-stricken, most of whom were found in the streets of the Jews, where they were Many of them, who were subjected to live in tiny houses, breathing unhealthy air, which always was more or less pestilential, because of the stinch that usually exuded from the Jews.
+
+....
+
+12v In the neighbourhood of the Jews there was a tenement, where 14 families resided, all of whom died; not even the cats survived.
+
+<h2 style="text-align: center">Source 1 Original Text</h2>
 
 Damião de Gois, _Chronica do feliccissimo rey dom Emanuel da gloriosa memoria..._ (Lisbon: Por Antonio Aluarez, impressor, 1619), pp. 141-2.
 
@@ -87,4 +114,30 @@ Havendosi ogni giorno peggiori nove del progresso della Peste in Vinetia & prese
 Commanda che ogni persona Hebrea sia che esser si voglia che per qualunque causa fosse stata tollerata in questa Città o suo Territorio, o che per diritto, o per indiritto vi fosse venuta & vi stesse di secreto, o di palese, debba fra termine di xxiiij. hore esserne totalmente sgombrata con le persone & robbe loro.  
 Sotto pena della Forca.
 
-<h2 style="text-align: center">Source 4 Original Text</h2><h2 style="text-align: center">Source 5 Original Text</h2><h2 style="text-align: center">Source 6 Original Text</h2>
+<h2 style="text-align: center">Source 4 Original Text</h2><p style="text-align: center">Silvano Razzi, <em>Cause et rimedii della Peste... </em>(Florence, Giunti, 1577), p. 52.</p>
+
+Rimedii piu particolari a ciascuno per preservarsi dalla Peste,
+
+Bruscierà, o straccierà subito qualunque libro dishonesto, o d’amor mondano, o d’altre vanità, arte Magica, Astrologia giudiciaria & qualsi volgia altro che havrà, il quale la Chiesa habbia prohibito per essere o heretico, o inutile alla vita Christiana. Il simile s’intende di carte, dadi, & altre cose non convenienti alla professione santissima, che facciamo d’esser figliuoli di Dio.
+
+Veggasi anco per ogni modo di fare brusciare i libri de’Rabini & altri Hebrei, i quali contengono le bestemmie & falsità contra la legge & verità di Christo Signor nosto ....
+
+<h2 style="text-align: center">Source 5 Original Text</h2><p style="text-align: center">Archivio di Stato di Mantova, Archvio Gonzaga, busta 1693<br></p>
+
+Carta 230: Letter sent by Silvio Calandra, a citizen of Mantua and ambassador in Milan, to the Ducal Secretary Aurelio Libramonte.
+
+27 Agosto 1576  
+Sono stati presi alcuni spagnoli circoncisi i quali si dice che sono rinegati, et mandati dal Turco per attaccar la peste in Christianita et ch essi altri loro compagn sono cagione del flagello che si patisce per tutta la Christianita.
+
+Archivio di Stato di Mantova, Archivio Gonzaga, busta 2597.  
+carte 357. Letters sent by Paolo Emilio Bardellone, head of the _Conservatori della Sanità_, to the ducal secretary Aurelio Libramonte.
+
+3 settembre 1576
+
+Hoggi Il padre Inquisitore mi ha detto, che dall’Abbate di Santo Bartholomeo ha inteso, che un suo Frate Prior di detta Chiesa, che vien da Piasenza rifferisse, sicome in Milano sono stati detenuti due spagnoli c’hanno confessato esser pagati con altri 40 dal Turco perche vadino per tutta Italia attaccando la peste, et havendo nominato tre altri spagnoli sono stati presi parimente, et che due sono stati in Mantova, questo potrebbe essendo vero, far mutar opinione a quelle Signori di Milano, che gli sia stata attaccata dal Carrocciero Mantovano.
+
+<h2 style="text-align: center">Source 6 Original Text</h2><p style="text-align: center">Alessandro Canobbio, <em>Il successo della peste occorsa in Padoua l'anno MDLXXVI. Scritta, et veduta per Alessandro Canobbio </em>(Venice: appresso Paolo Megietti librario in Padova, 1577)</p>
+
+7v Ogni giorni s'andavano scuprendo amalati, massime nelle contrade degli Hebrei, che le genti quivi erano assai & ridotte in picciole case & in un'aria malinconica, & da ogni tempo quasi pestifera, si per lo fettore, che ordinariamente esce dalli Hebrei
+
+12v Nella contrada degli Hebrei in un Torazzo, che vi habitavano 14 famiglie, tutti morirono, si che ne anco i gatti si salvarono.
