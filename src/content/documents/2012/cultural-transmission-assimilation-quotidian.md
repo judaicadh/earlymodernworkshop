@@ -577,4 +577,4 @@ Dixo: q.e estaba bien escrito segun El lo havia declarado ; y q.e solo tiene q. 
 
 residio en Galicia como lleba dicho lo mas del tiempo travaxo p.a la cuenta, y q.e no se acuerda de los sujetos p.a cuya cuenta travaxo algun poco de tiempo; y q.e desde q.e vino a esta ciu.d ha trabajado en las casas de [Bern.do](http://Bern.do) Albarez, q.e vibe a la Plazuela de la Roperia vieja; y en la de Yetro Cat de Nacion Frances, q.e vibe en la calle de la obra prima, y ambos evanistas y Carpinteros; y que asi es la verdad bajo [juram.to](http://juram.to) q.e tiene fho. En q.e se afirma y ratifica, y lo firmo de su puño de q.e yo el yn\[illegible\]i- to secretario certifico
 
-\[Signatures: Salamon Bergom
+\[Signatures: Salamon Bergom D.r D.n Mn.l de Quevedo (Guevara?) Bustamte\]
