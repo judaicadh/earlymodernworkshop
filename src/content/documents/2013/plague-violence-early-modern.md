@@ -5,6 +5,12 @@ institution: University of Glasgow
 volume: 10
 year: "2013"
 slug: plague-violence-early-modern
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Jews and Violence in the Early Modern Period
+language:
+  - Portugese
+  - Italian
 description: Based on Italian chronicles and archival sources Samuel Cohn
   examined questions of violence against Jews during plague.
 ---
