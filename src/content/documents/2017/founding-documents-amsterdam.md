@@ -34,6 +34,533 @@ description: >-
   Holkema, 1968), 155-67; but never in its totality in translation. Wiznitzer
   (see below) published an English paraphrase. Texts 2 and 3 have not been
   published to my knowledge, aside from short excerpts.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam,
+  Gemeente Archief Amsterdam 334.19.1, ff. 77-88</p>
+
+
+  5398  
+
+  Em nome del dio bendito  
+
+  Os ssres deputados avendo visto a papel que osr Haham R. David Pardo lhes
+  perzentou firmado pela nacao aprovando a uniaõ della e das congregaconis, e
+  dandolhes auturidade pera q elles, com os ajuntos que lhes parceser, tratando
+  polo en efeito, pelos meos mais convenientes, afeitaõ o aprovaõ dita uniaõ,
+  com condicaõ que todo o que se tratar e rezolver Havera de ser por todos os
+  votos entre quem se tratar uniformes e de acordo que seraõ os seis deputados
+  que servivem e se quizerem eliger mais huã pesoa de cada cahal, h\[e?\]
+  poderaõ fazer pera que sejaõ seos votos uniformes como os demais,
+  eorezolvido sera por todos nove logo aprovaõ as condiconis segintes  
+
+  —primeiram’te acordaõ que a congregacaõ que aop\[r\]ezente he de bet Isarael
+  aya de servir pera congregacaõ geral e se lhe poraõ por nome tal mutura  
+
+  —segundo que pera se aver de alargar dita congregacaõ parciendo que sera
+  nesesario como ni casaõ ha algu’s ss’res do magistrado, elegem dos ss’res
+  abraham salom, david ozorio jesuah jeserum Roiz pera o tratarem com elles e
+  ditos ss’res seraõ chamados a menha 28 deste e oque com elles se rezoluer
+  senotara  
+
+  \[signed:\]
+
+
+  Selemo \[Assan?\] Josseph Cohen Aaron Coen Abraham Abuab Matatiah Aboab Josef
+  Abeniacar
+
+
+  Em 28 de elul sejuntaraõ os ss’res deputados com os ssres tres elejtos pera
+  tratar oconteudo asima e acordaraõ que segiraõ no modo que bem pares. e
+  \[oluos?\] y acordaraõ os ssres deputados se ordenaõ por que entendem que
+  asim convem; que os ss’res que ao perzente serve nomamad de nevesalom se
+  fiquem continuando em seus cargos e que naõ elejaõ novo mamad ate se fazer a
+  pesoas que tiver que advertir pera o bom governo da nacaõ najunta geral;
+  \[fasa\] a ponta in por escrito que sem serem firmados nem dizerem seus nomes
+  dejtaraõ em caixa que em cada hua das keilot k se pora pera ho efeito
+
+
+  \[signed:\]  
+
+  Selomo \[Assan?\]
+
+
+  Abraham Aboab
+
+
+  Josseph Coem
+
+
+  Matatiah Aboab
+
+
+  Aaron Coen
+
+
+  Josef Abeniacar
+
+
+  Em segimento de obra detanto meresimento esperando que sera agradavel del dio
+  bendito oque dela creseraõ outros frutos de seu serviso e aumento de sua
+  santa lej se juntaraõ os ss’res deputados diferentes vezes, e descurendo
+  nesta materia vendo agus a pontamentos que se lhe deraõ com animo e dezejo de
+  asertarem. em tudo, vieraõ de acordo. nas condisonis seg’tes
+
+
+  Cap 1  
+
+  Primejramente Uniformes e de acordo rezolvemos eordenamos qeu todos os bems
+  que ao perzente gozaõ eposuem as tres keilot K bet jacob, nevesalom; ebet
+  jsarael se faraõ comuns, ede tudo hua masa sem devizaõ, nem separacaõ
+  algua, oque pera todo com sentimento se fasa no livro aonde se lansarem estes
+  acordos da uniaõ ynventario dos bems de cada hua das congregaconis aparte p’a
+  prevenir que sefaisa a com que cada hua delas entrase cazo que el dio naõ
+  permita en algum tempo sejamos compelidos ajaizemos da terra
+
+
+  2  
+
+  que sofara hua congregacaõ somente nesta cidade de amstredama hacoal
+  serecolheraõ erezudiraõ todas as tres qeu aperzente ha, eque com todas as
+  pennas o Heremse qeu pareser segindo ho estilo de veneza se prodira que em
+  nenhum tempo posa aver nesta cidade nem em seu destrito nenhua congregacaõ
+  nem se poderaõ ajuntar doz pesoas que se apartem ou se queiraõ apartar da
+  congregacaõ pera rezar com ninhan efosse os que rozarem em caza dos nojvos,
+  ou avelim, ou os que por outros respeitos estando suyeitos econtinuando na
+  congregacaõ por hua ou mais vezes lhes for nesesario rezarem juntos,
+  \[eContra os separados da congregacaõ que se quizerem juntar com minhan efor
+  Contra este Cap e prosedara com todas as penas erigor que paresce desne logo
+  que ho ajaõ cometido couza a os porpostos em Kerem e apartados da nacaõ\]
+
+
+  3  
+
+  que esta congregacaõ se faz pera os yudeos da nacaõ portugeza e espanola que
+  ao perzente esta nesta cidade edenovo viere a ella eque as pesoas judaiqas que
+  aquy vierem de quoais quer outras naconis poderaõ ser admetidos arezaõ
+  paresendo bem ao mamad que servir
+
+
+  4  
+
+  Pera admenistracaõ egoverno do Kaal enacaõ os perzentes quinze dos tres
+  mamadod e leyeraõ mamad de sete pesoas benemeritas zelozas etemente del dio
+  das quoais seraõ seis parnasim e hu gabaj ao quoal sedara hu ajudante per que
+  notem as promesas e escrevaõ oque nesesario for acodindo dito gabaj atudo
+  oque toca a seu cargo; editos seis parnasim egabaj seasentaraõ embanqa que
+  pera iso se fara aonde todos estaraõ juntos
+
+
+  5  
+
+  dito mamad dara logo ordem pera que das escamot das 3 congregaconis eda
+  imposta se elejaõ os que pareser efaraõ huas reduzidas detodas acresentasaõ
+  as que mais entenderem comvem, pera que Hahal enacaõ aja de ser governado por
+  elllas
+
+
+  6  
+
+  depois de elejio pelos quinze oprimejro mamad osete delle plo modo que ao
+  diente se declara elejeraõ no ano vindouro novo mamad que aja de sucederlhe
+  easim suusivam’te yra elegendo ahu mamad aoutro, etodas as elejconis averaõ
+  de ser sempre depois de praticada rezolvidas efejtas por busolo ebalas com
+  sinco dos sete votos. etodos seraõ obrigados ha com sentirem efirmarem com os
+  mais oque pelas ditos sincto votos sair sem replica nem contradicaõ algua
+
+
+  7  
+
+  aprimjra elejcaõ que se aja de fazer em hora de mamad sera publicada em sabat
+  agadol sendo eleytoz como asima os seis parnasim sefaraõ seis bilhetes com
+  seus nomes que metidos todos em hu vazo seyraõ tirando delle, e notando no
+  livro das elejconis \[...\] como sairem pera que cada hu deditos parnasim asim
+  como for saindo aya de ter aperzidencia nos materias que se tartarem
+  eacompanhar osefre a teva os dous mezes que lhe tocarem pela sorte que asim
+  como lhe sair sera publicada da theva pera que cada coal saiba que lhe toca, e
+  deste modo gozaraõ todos a misva o sera fasil cada quer’m as que convenha
+
+
+  8  
+
+  epera que sempre aja no mamad pesoas de esperiencia e que posaõ emformar das
+  couzas pasadas como pera que tambem siga a memoria das elejconis qeu se
+  publicavaõ tanto em sabat agadol como em razasana, e avendo os tres primejros
+  parnassim servido os seus 6/m. com oresto do mamad seis companhejros, em
+  vespora de rozasana depois de resebido o pagamento dos 6/m. da impost aplo
+  modo asima dito elegeraõ p publicar da theva no dia derozasana outros tres
+  parnasim qeu enseu lugar com oresto seos companhejros hayaõ deservir efazer
+  ho numero de sete ate bespora de sabat agadol no quoal todo ho mamad depois de
+  reseber osegundo pagamento da imposta aver ...
+
+
+  9  
+
+  sentarseaõ os parnasim asim como sairem oprimeiro no primejro lugar amaõ
+  direjta e asim ira ̃ø segindo ficando ho ultimo junto ao gabaj, ...
+
+
+  10  
+
+  naõ poderaõ elegerse pera servir no mamad dasedaqua pesoa de quoalquer
+  calidade que seja que pelo menos naõ aya asestido em yudiesmo 3 anos
+  compridso nem podera tornarse a eleger nenhu que aja servido em dito mamad
+  senaõ depois de pasar tres anos da saida de sua serventia
+
+
+  11  
+
+  todos os cazos qeu se tratarem no mamad se avera de rezolver pelo qeu pareser
+  a os sinco votos, dos sete ese ouver cazo dino de volotarse em secreto o
+  faraõ seginda o mesmo estilo. em todos os mais que pareser efor pedido por
+  quoal quer dos do mamad eoqeu por sinco votos em cuberta ou descuberta \[x\]
+  se rezolvera sem contradicaõ algua e averaõ de firmar tudos.
+
+
+  12  
+
+  Omamad tera auturidade esupiridade sobre tudo enenhua pesoa nem pesoas
+  poderaõ yr contra as rezulucoens que dito mamad tomar, nem firmaraõ papel.
+  nem papeir pera encontralas eos que ofizerem emcoreraõ em pena de Kerem. por
+  que finalmente se ordena e entende que ho mamad adeser supremo no governo da
+  nacaõ do kaal esuas dependencias, esperando que os que governarem disporaõ
+  (?) sempre as couzas com grande consideraçaõ sem paixonis e com zelo etemor
+  del dio pera que amamad que for elejto na entrada de seu cargo diante do mamad
+  que sair tomara juram’to com as portas do ekal aberas prometendo de servirem
+  seus cargos com verdade ejustiça etem\[or del\] dio sem respeitaõ nem
+  despeitaõ em perjuiza ...\[becomes illegible, another 5 or 6 words at the
+  bottom outside corner of the page\]
+
+
+  13  
+
+  Em primeira instancia homamad avera de repartir os lugares aos omes com a
+  major igaldade que seja posivel e emtudo o tempo futuro omamad que servir dara
+  lugares aos que denovo vierem aonde ocomo lhes parecer, sem ter comprimento
+  com pesoa algua e podera mudar lugares da manejra que entender convem tirando
+  hus e pondo outros por quoanto se entende ebem naõ aja lugar oropeo a fim de
+  que naõ posa nimgem ... ...eas ss’reas molheres sena\[õ\] repartiraõ
+  lugares porque cada hua avera dese asentar no que achar devago quoando quue a
+  congregacaõ
+
+
+  14  
+
+  pera acudir as despezas do Kaal enacaõ sem respeitas e com temor del dio fara
+  oprimejro mamad finta geral por tempo de hu ano fintando aos yahidim cabeças
+  de cazas na forma que entenderem . eo qeu enter elles se rezolver eficar
+  averigoado. se dar execusaõ ynrevogavelm’te sobre que poderaõ proceder com
+  todas as penas e rigor que bem lhes pareser percoanto desde logo lhe da o Kaal
+  plena auturidade epoder sometendose aobedeselo, e dita finta se pagara em duas
+  pagas aprimejra...
+
+
+  15
+
+
+  tocante aymposta oseus pagamentos fiquaõ as couzas no mesmo estado qeu ate
+  agora e a escama com as mesma penas eforsas de que antes tinha pera se aver de
+  pagar com ate aquy coremdiento de dita avera de entrar na conta geral dasedaqa
+  donde tambem deve sair toda a despeza que se fizer
+
+
+  16  
+
+  em cazo qeu algum yakid sesaia da congregacaõ por respeitos particulares seos
+  como naõ seja por cazo que comfirme aley sedeva proseder contra elle, o per
+  debito que deva a se deja e mais cajxinhas, o mamad percurara reduzilo
+  acongrega por meos suaves ebrandos e naõ vindo niso se naõ porsedera com
+  rigor contra elle, mais que em fazerlhe pagar o que dever a finta daquele ano.
+  a jnda que se ahja saido no prencipio dele epera se embolsar procedara omamad
+  como lhe paraser ate fazerlhe dar, intejra satisfacaõ
+
+
+  17  
+
+  todos os ofessais qeu ao perzente ha o servem nas 3 congregaconis haõ de
+  ficar adm\[xx\] com os cargos esclarios ...
+
+
+  18  
+
+  farseha hu banco em que se asentaraõ os Hahamim salereados, no primejro lugar
+  o Haham Saul levy Mortera junto a elle oHaham David Pardo logo a haham
+  manassebemysarael epegado oHaham yzach aboab
+
+
+  19  
+
+  avera darasiot todos os sabatot eas festas que ao mamad bem pareser dos quoais
+  avera de fazer o Haham saul levy mortera 3 segidamente, eo haham manase bem
+  ysarael ocoarto easim ira continuando susesivamente eos que mais quizerem
+  darsar pediraõ Lisenca ao mamad que ocnsedendolha ojto dias antes ofaraõ
+  saber aoHaham a quem tocava darsar pera escuzarlhe hotrabalho, etambem omamad
+  mandara dizer odenim na theva a quem bem lhe pareser
+
+
+  20  
+
+  todos os denims qeu se ofereserem efor nesesario rezolver seraõ vistos
+  eaverigoados depois de mandar estudar sobre elles pelos Hahamim que ouver
+  salereados segindo ovoto dos mais e em cazo de aver votos ygoais ouvidos plo
+  mamad diante de quem se rezolveraõ dito mamad tomando informacaõ se lhe
+  pareser acostara (?) aparte que entender ecom ysto ficara detreminado. esendo
+  que algus dos aHahamim diga, sustente, ou escreva, algua couza em contrario do
+  resolvido. desne logo com duas testemunhas que o condene ha ao per excluido
+  doselario edoserviso da congriega enao sera admetido mais ao dito cargo.
+
+
+  21
+
+
+  elejera omamad seis parnasim pera averem deservir em talmutorah os quoais em
+  companhia de dito mamad haraõ escamot, por onde ajaõ degovernarese
+
+
+  22  
+
+  os cargos que os perzentes ofisiais averaõ de exercitar eservir seus cargas
+  saõ asaber  
+
+  \-mordecaj descrasto en sinara atodos os meninos alicaõ de alfabet eajuntar e
+  tera de selario florins sento esincoenta cada ano  
+
+  \-yoseph de faro em sinara ler por sima de principio de parasa e tera de
+  selario florins duzentos esincoenta cada ano  
+
+  \-yacob gomez emsinara aparasa em ebraiqo com tahamim e tera deselario
+  duzentos e sincoenta fl. em cada ano  
+
+  \-abraham baruch fara ofisio de Haam e ensinara parasah em ladino e tera
+  deselario florins terzentos esincoenta eflorins quarenta pera caza que saõ ao
+  todo cada ano florins terzentos enoventa  
+
+  \-salom ben yossef emsinara as liconis de porfetas eRessy com seus argumentos
+  etera de selario florins terzentos esincoenta eflorins quarenta pera acaza que
+  saõ ao todo terzentos enoventa florins  
+
+  \-o Haham Yzach aboab emsinara gramatica e aprimejra lisaõ de gimara \[xxx\]
+  os derasiot da esivah da nojte etera de selario florins quoatro sentos
+  esincoenta em cada ano  
+
+  \-o Haham manaseh bem Isarael com obrigacaõ de darsar emeada mez hu sabat
+  levara desclario florins sento esincoenta em cada ano  
+
+  \-o Haham Saul levy mortera em sinara alisaõ branse (?) degimara efara tres
+  darasiot em cada rescodes como atras fiqua desclarado, elevara desclario seis
+  sentos florins e sem sentos de \[xx\] em cada ano  
+
+  \-o Haham david pardo por procurador das misvot eajunto ao admenistrador
+  debetahaim como pelos servilos qeu ha feito a nacaõ que com ofavor del dio
+  continuara fazendo o que os ss’res do mamad lhe ordenarem tera de selarion
+  florins quinhentos esincoenta em cada ano esem sestos de turva (?)  
+
+  \-Imanuel abondana porservir de Hazan da gabara tera de selario em cada ano
+  florins sesenta  
+
+  \-ao semas Jacob Franco pera servir seu ofisio como o mamad lhe ordenar tera
+  de selario cada ano florins sento eojtenta  
+
+  \-ao semas daniel do vale pera servir seo oficio como omamad lhe ordenar tera
+  de selario em cada ano florims sento equorenta
+
+
+  23  
+
+  nas asurot que seofereserem tanto de nojvos como de nojvos da ley e de filho
+  nacido se tera aordem seginte ynrevogavel, asaber, que os donos das tais
+  asurot repartira as misvot da nojte e da menha porquem lhes pareser chamando
+  asefer, Cohen, elevy esetede israel, editos nojvos: oubalaberyt poderaõ
+  subindo a sefre prometer todo oque em vluntarem, comesmo os neove que subirem
+  asefre e...
+
+
+  24  
+
+  em dia de simHatorah esabat beresyt os nojvos da ley se asentaraõ em os
+  asentos que se uzaõ das bandas do ehal; ejunto a elles se asentaraõ somente
+  oparnas que autualmene servir junto ao hatan torah. ao parnas qeu ouver de
+  segir no ...
+
+
+  25  
+
+  Por evitar confuzaõ etrabalho ao parnaz e escandolo no Kaal pera cham\[x\]
+  asefre sera porsontes na manejra seginte, asaber,
+
+
+  26  
+
+  as pesoas qeu de novo vierem a terra eos qeu se serconsidarem: eos aquem naser
+  filhos seraõ chamados asefre sem sorte sendo os tais livres pera poderem
+  prometer oque quizerem eporquem quizerem
+
+
+  27  
+
+  os que da congregacaõ forem fora da terra e selhes naõ ouver tirado asua
+  sorte da caixa eos qeu convaleserem de emfirmidades. faraõ agomel quoando se
+  tire o sefre e aquelles aquem por fazerem larga auzencia (auzenera?) selhes
+  ouver tirado seo bilhete da caixa das sortes ficara a elejcaõ do parnas a
+  chamalo asofre etera cuidado demeter outro bilhete com oseu nome na dita caixa
+
+
+  28  
+
+  todos os que por sorte ou sem ella forem chamados asefre poderaõ prometer que
+  envoluntarem com que aprimejra promessa seja pera asedaqa
+
+
+  29  
+
+  nenhua pesoa naõ estando asefre podera de fora prometer por saude de outra
+  pesoa algua em nenhua ocaziaõ, eporsua tensaõ poderaõ todas prometer oque
+  quizerem epera quem em voluntarem. eas ditas promesas se faraõ em abrindo as
+  portas do eHal antes de tirar sefre ou depois de meldado e tirado da theva
+  pera sm se escuzar ao Kahal otra ...
+
+
+  30  
+
+  pera admenistracaõ da hebara de bikur holim elegera os do mamad seis parnasim
+  qeu ayaõ de acudir aoserviso dela, etodos juntos faraõ escamot com qeu aja
+  de administrases elegendo tambem onumero dos yrmaõs que benemeritos que terem
+  entrar com obrigacaõ que ayaõ de acudir atudo oque comforme a taboa que se
+  fazer lhe tocar eque oque sem justa cauza faltar, ou naõ mandar outro yrmaõ
+  em seu lugar avera de pagar de pena de hu florim sem remisaõ algua tendo
+  oparnas obrigacaõ de advertir ao gabaj do Kaal o note em sua conta note
+  ficandolhe primeiro
+
+
+  31  
+
+  vaos avelim que ouver se mandara a primejra comida como se uza com forme a
+  familia despendendo de florins quoatro ate sinco ou seis enaõ mais em nenhu
+  cazo so pena que oparnas que exeder opagaza (pagara?) de sua caza enaõ lhe
+  sera levado em conta, e pera ditos avelim naõ avera banqo pareseu lar e cada
+  hu se asentara em seu lugar
+
+
+  32  
+
+  os pobres que se ouvrem de admetir a \[xx\] da sedaqua seraõ pesoas de boa
+  vida ecustume, eseraõ admetiods por busolo ebalas com tanto que a nenhu acaza
+  se podera dar maior soma de dous ate seis florins cada rescodes
+
+
+  33  
+
+  quoalquer judeo que tenha pertenconis ou duvidas com seu companhejro sobre
+  materia de fazenda como naõ seja sobre letras de cambeo e arestos em que
+  adilacaõ le pode perjudicar sera obrigado mandar pelo semas Aitalo (?) pera
+  omamad diente de quem ambos averaõ de apar\[eser\] e dito mamad os persuadira
+  nomem (?) juizes louvados, diante de quem porponhaõ sua ca\[xx\] e den suas
+  rezonis pera que fasaõ tudo posivel por acordalos ecompolos em termo de
+  s\[xx\] dias enaõ consentindo as partes en qeu selhe dem louvados. ou naõ
+  podendo os louvados acordalos ficaraõ as partes livres pera porcurarem
+  edefenderem sua justica aonde quizerem, ebem lhes pareser, esusedendo que
+  algum sem proceder esta deligem\[ente\] chame a seo companhejro diante da
+  justica se procedera contra elle como pareca
+
+
+  34  
+
+  tartandose em mamad algum cazo de quoal quer calidad que seja em qeu seja
+  parte pa\[xx\] parenta de algum dos do mamad ate quoarto grao, tanto por
+  sanginidade que por afini\[xx\] o tal parente que estiver no mamad dandose por
+  sospeito se saira fazendodo saber \[xx\] mais pera que do mamad pasado
+  comforme despuzerem as escamos do Kaal tomem (?) \[xxx\] pesoa que com os mais
+  aja de avergouar ocazo e o mesmo segira tendo asua paixaõ pa\[xxx\]contra
+  alguas das partes ocazo que elle onaõ fara quoalquer dos do mamad que \[xx\]
+  souber ho dara por sospeito, e se chamara outro em seu lugar como asiam
+
+
+  35  
+
+  naõ se podera mandar dizer escava por nenhu defunto que naõ aja falesido
+  aquele \[xx\] e aos falesidos nelle sedejtara as abrindas portas naõ levantar
+  osepher da theva eos que forem chamados asepher estando a elle poderaõ
+  mandalas dizer por quem quizer e tambem em dia de kipur atarde sedejtaraõ
+  esHavot jeralmente a todos os pesoas quem forem pedidas
+
+
+  36  
+
+  amisvah e jrmandade do es haim ao perzente situada no Kaal K debet Jacob
+  ficara comtinuando assy edamanejra que oje sege sendo governada pelos parnasim
+  qeu forem de \[xx\] talmutora conforme as escamot que dita yrmandoade tem
+
+
+  37  
+
+  pera notarem ecobrarem oque se prometer a terra santa ecativos elegera
+  omamad...
+
+
+  38  
+
+  ho m amad naõ podera despender cada ano, mais que oremdim’to do haal ejmposta
+  e esta ordem se goardara ynviolavelm’te
+
+
+  39  
+
+  que o hazan naõ chamara asefre nem dejtara misebarah apesoa nenhua comtitulo
+  sem ordem domamad; efazendos pagara florins tres de pena por cada vez sem
+  rimisaõ algua
+
+
+  40  
+
+  que o sofar em dia de razasanh se tangera na musaph atornada della
+
+
+  41  
+
+  que todas as pessas, ou dinhejro qeu se ouverem oferesedo nas 3 keilot k com
+  obrigacaõs a veraõ de digir con \[xxx\] cargos que tiverem
+
+
+  42  
+
+  estes acordos averaõ de oservarse a sim eda manejra que nesta enos quorenta e
+  hu capitolo asima se contem, por quoanto de baixo delles, nos avemos e havemos
+  a nacaõ por onida (?), ese em algum tempo pareser etirar algo deles omamad ho
+  naõ podera fazer senaõ os seis qeu agora as fizemos uniformem’te, ou da
+  queles que no taõ tempo forem usuas chamando emprasa dos que faltarem outros
+  que os qeu acharem perzentes, nomearaõ das pesoas qeu ouverem sido da
+  congregacaõ ou congregacoins d\[os?\] que faltarem eos que os ditos seis
+  rezolverem de acordo segira que tudo seja pera gloria elouvor del dio bendito
+  que se sirva conservanrnos no augmento de sua santa ley a todo bem
+
+
+  \[6 signatures\]
+
+
+  43
+
+
+  en 29 de hesvam estando yuntos os ss’res deputados acordaraõ qeu os 42
+  capitulos dos acordos eUniaõ da nacaõ se publicase das thevas nas tres
+  congregaconis em virtude do que asim segio efizaõ publicadas em sabat 6 de
+  Kisleo; sendo aprovadas de tudo o povo advertindose somente que o capitulo 25
+  que trata sobre o chamar asefre devia em mendarse qeu foj admetido eaprovado
+  por ditos ss’res deputados qeu uniformes acordaraõ aja de segir na manejra
+  seginte asaber, qeu somente avera 3 gavetas, na primejra das quoais averaõ de
+  entrar todas as pesoas cazados, ou soltejros de idade de 20 anos asima pera
+  serem chamados em sabat, em p’ro 2’o 3’o 4’o lugar, e enrescodes esefre
+  segundo, comforme lhes sair pla sorte ~ nasegunda gaveta entraraer todas as
+  pesoas de 50 anos asima e juntam’te os Hahamim que ouver no kaal salereados
+
+
+  Pera serem chamados por maslim, em sabat pascoas, dias de sesum; asira
+  emandamento enaõ tersejra gaveta em traraõ todos os mansebos...
+  ...consinaraõ, ordenando se fi\[xx\] aquij ao pe\[x\] segidamente, toda
+  anacaõ cabesas de cazas, esejtando os acordos como nelles \[xxx\] 43 se
+  comtem em 28 de veadar 5399
+
+
+  \[3 pages of signatures\]
 ---
 <h2 style="text-align: center">Introduction</h2>
 
