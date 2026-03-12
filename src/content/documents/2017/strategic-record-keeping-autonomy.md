@@ -452,7 +452,7 @@ About all this \[wrote to you\], etc. Your Imperial Majesty
 
 Your most submissive loyal obedient appellant lawyer, authorized on records, von Gretzmüller.
 
-**Footnotes**
+<p style="text-align: center"><strong>Footnotes</strong></p>
 
 \[^1\] Orth, Johann Philipp: Nöthig und nützlich erachtete Anmerkungen über die sogenannte erneuerte Reformation der Stadt, 7 Bde., Frankfurt a. M. 1731-75.  
 \[^2\] Heineccius, Johann Gottlieb: Antiquitatum romanorum juris prudentiam illustrantium Syntagma secundum ordinem institutionum Justiniani digestum, in quo multa juris romani, Halle 1719.
