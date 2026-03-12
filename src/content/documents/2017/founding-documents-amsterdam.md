@@ -561,6 +561,351 @@ original_language_body: >-
 
 
   \[3 pages of signatures\]
+
+
+  <h2 style="text-align: center">Source 2 Original</h2><p style="text-align:
+  center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam,
+  Gemeente Archief Amsterdam 334.19.1, ff. 106-112</p>
+
+
+  Ashamot pelas quais sera governado  
+
+  O K.K. de Talmud Torah de Ansterdam, que el Dio agm’te recopiladas e
+  escolhidas de todas as q havia na nacaõ. Novam’te revistas, em algo
+  acrescentadas, e aprovadas pellos s’res do Mahamad q ste Ano foraõ ellejtos.
+  Na conformidade do que se ordena, no capit. 5. dos novos acordos da nacaõ. Os
+  quais ficaõ em seu int’ro vigor. E omesmo as Ashamot tocantes ao pagam’to da
+  imposta, oque tudo seja p’a servico, e louvor del dio Benditto. Amen.
+
+
+  Ia.  
+
+  Que o Mahamad tem Autoridade, e superioridade sobre tudo. Enenhua pessoa
+  podera hir contra as resoluçons que ditto Mahamad tomar e fizer publicar; nem
+  firmaraõ papeis p’a encontrallo; e os q o fizerem encorreraõ em pena de
+  Herem por q se ordena q o Mahamad q en cada Ano servir, ha de ser supremo no
+  governo do Kahal e da nacaõ, e suas dependiencias. E podera condenar aos
+  inobedientes nas penas que lhes parecer; Fazendolhes pedir perdaõ publico em
+  Tevah. Podera tambem O Mahamad, ou qualqer pessoa delle que na Esnoga se achar
+  parecendolhe neces’ro p’a atalhar q naõ haya differencia entre partes mandar
+  sahir fora da Esnoga, callir, ou acquietar, atte com Pena de Herem, qualqer
+  pessoa, ou pessoas deste Kahal. Ou qui naõ sahiyaõ fora de sua casa, te se
+  lhe ordenar. e em tudo isto, nem no mais que se pode offerecer acudira Paj por
+  filho. nem filho p Paj, nem parente por parente; Antes todos procuraraõ se
+  obedeca e Campra O Mandam’o do Mahamad por q assij convem p’a o bom governo,
+  paz, e quietaçaõ deste K.K. que El Dio Bendiga.  
+
+  2a.  
+
+  Que naõ seraõ elleitos em hum mahamad, pay com filho etc  
+
+  3 Que nenhum dos sette elleitos para servirem no Mahamad de cada Ano podera p
+  nenhum caso refugar o cargo...  
+
+  4 Que o Mahamad se ajuntara todos os Domingos, as horas que o Parnas q preside
+  mandar...  
+
+  5 Que tratandose algum caso em Mahamad em q algu dos 7 naõ q’a dar seu votto
+  descuberto, epedir se faca p Bussulo e ballas, se fara sem se por duvida
+
+
+  6 Que o Mahamad limittara horas, p’a se comissar a rezar, conforma os tpos do
+  Ano  
+
+  7 Que o Mahamad tomara juram’o em hua Biblia de guardar segredo inviolavel
+  sobre as elejcons e circunstancias que acerqa della...
+
+
+  8 Que o Sabat agadol atnes de se pulicar novo Mahamad, lera o gabaj da teva a
+  conta do rendim’ ...  
+
+  9 Que os senhores do Mahamad que acabarem de servir seu t’po, se tornaraõ a
+  Assentar em seus lugares que de antes tinhaõ
+
+
+  10 Que o Mahamad seja obrigado dar aos S’res Novam’te ellejtos, despois de
+  Pesah, conta com entrega de todos os effejtos...  
+
+  11 Qeu Para a pobranca da prim’ra metade da finta se pora hua taboa...  
+
+  12 Que o Sabat antes de cada hua das 3 pascoas...por os pobres...
+
+
+  13 Que se fara Nedavah p’a terra s’ta por sabat Nahamuh...  
+
+  14 Que dia de Purim, se tirara por toda a congregaçaõ, ...maot
+  purim...sedaca  
+
+  15 Que o Mahamad elegera bespora de rosa sanah Hattan Torah...  
+
+  16 que naõ havera festas nas Esnogas, nem Enigmas, p simhah Torah; nem em
+  outro tempo  
+
+  17 Que som’te o Mahamad faça apagar açera q ardeo em kipur ...  
+
+  18 Que quem quizer acender lampadas em kipur traga o Azejte a Esnoga e se
+  lansara em hua talha...  
+
+  19 Que nenhua pessoa levante boz na Esngoa p’a enjuriar seu companh’o nem nos
+  Midrassim escollas de T.T. nem da Porta da Esnoga p’a dentro; nem na distancia
+  da casa da esnoga... e aquelle que o fizer, naõ seja admittido à Esnoga sem
+  prim’ro pagar sincoenta florins p’a a sedaca. E assy mesmo, que nahua pessoa
+  levante maõ, p’a dar em seu companheyro na Esnoga, nem em dittos lugares, nem
+  venha a elles com espada, Adaga, pao, ou outra qualquer arma offensiva,
+  ...sedaca. E sendo caso que algu dos \[mossos?\]tenha pendenesa com goim ep’a
+  sua defença lhe seja neçess’ trazer algua arma, o comum cara com os s’res do
+  Mahamad, e parecendolhes a causa justa, lhe daraõ l’ca p q a traga, p’a sua
+  defenca. Tambem se declara... Herem...  
+
+  20 Que nenhua pessoa se levante na congregacaõ em publico com boz alla, a
+  aconselhar, aprovar, nem reprovar, o que se faz manda e ordena. Salvo se for
+  Pessoa do Mahamad em favor do qeu se manda. que os de mais naõ poderaõ hir
+  em publico, contra o q ditto Mahamad ordenar. Equem lhe parecer qui tem
+  necessidade de advirtir algua cousa, se chegara a parte em secreto, ao Parnas
+  q se\[xxx\], ou acsestioen (?) em seu lugar e dira aq\[xx\] pareceu \[xx\]
+  naõ causar duvidas, e levantam’tos fazendo o contrario  
+
+  21\. Que visto que por evittar inconvenientes se ha tomado assento que sejaõ
+  cham’dos a sepher os s’res Hahamim que haj na \[xx tr’a?\] sem titulos de
+  Hahaõ, Morenu, e Rab; se ordena que ajnda q em algun \[xx taõ?\], venhaõ a
+  tr’a Hahamjm de fora por mais fama ydade, e autoridade q tenhaõ; Naõ sejaõ
+  cham’dos a sepher co nenhu titulo nem pessoa outra algua de qualqer calidade
+  que seja. Porq em p’xx
+
+
+  assim p’a’ milhor observacaõ nossa por evittar todo modo de inconvenjences
+  que do contrario recrescem. Nem o Hazan lhes podera dar em misseberah de fora,
+  semelhantes titulos. Mas por defuntos em eskavot he permittido. como tambem se
+  em algua escrittara de cartas ou de livros se falar de d’tos s’res Hahamym, ou
+  em pratica q se tenha co elles, se lhes dara o titulo de Hahaõ como a deujda
+  cortezia e respejto
+
+
+  22 Que nenhum corretor dentro na congregaçaõ, antes nem despois da tephilah
+  possa falar nem tratar em cousas de neg’o com pena de tres florins  
+
+  23 Que havendo em hua sema Berit e nojvo; O que prim’ro tevo a misvah
+  escolhora de todas as misvot, hua e partiraõ as de mais egualm’te. E o mesmo
+  se entende havendo en hua sem’a dous Beritiot, e hum Nojvo ou mais comforme
+  acontecer sempre, o da prim’ra misvah tem hua de ventajem a sua Escholha, e as
+  demais partiraõ igualm’te E nos quem haõ de ser chamados a sepher se
+  igualaraõ entre sy...
+
+
+  24 Que naõ se consinta aos que meldaõ Ebraico, Levantarem a boz taõ alto,
+  que a boz do Hazan naõ se ouça claram’te em todo o kahal, p’a q os que
+  estaõ mais lonje delle sajbaõ aonde vaj a tefila  
+
+  25 Que ninguem pratique no tpo da Tephila; nem ao tpo de Meldar sepher nem se
+  sahjaõ em havendo levantado Lej; Porq a misvah naõ he so ver ley, mas impta
+  ouvilha meldar Alem de quem causaõ grande confuzaõ em naõ estarem na esnoga
+  qdo sacaõ seus escrittos das sortes p’a serem chamados a sepher. Pello q se
+  encomenda q haja...
+
+
+  26 Que ninguem possa estar levantado na Esnoga em seu lugar, salvo nos tpos em
+  q codo o \[xx\] esta alevantado, por naõ seer de Estorvo, e impedim’to aos
+  mais jehedim seus vez’os. E quevendo alguem p sua devoçaõ, estar em pee em
+  dia de Kipur ou em outro \[xx\] se pora em lugar separado, q o Mahamad lhe
+  dara
+
+
+  27 Que ninguem se penha a dizer tephilah, Minha nem Arbit, sem l’ca do
+  Mahamad, ou da pessoa q delles estiver na Esnoga. Ou em auz’ o Mahamad tomar
+  al’ca dos velhos q antaõ se acharem na esnoga. E quem entrar na Esnoga,
+  estandose diz’o A Hamida, esperara, atte se acabar  
+
+  28\. Que nenhua pessoa podera dar lugar na Esnoga nem assentar a par de sy, a
+  qualquer forasteiro ou novam’te vindo, mais de hum dia. Advirtindoo ao Mahamad
+  ou aso Parnas que presidir, p’a o acomodar. E O mahamad podera mudar na Esnoga
+  de hu lugar p’a outro a quem lhe parecer, p’a mais comodo, e boa ordem, sem
+  contradicsaõ algum.  
+
+  29\. Que por parte de nenhua Hebra, se naõ podera publicar, ordenar, nem
+  mandar cousa algua na Esnoga, sem expressa L’ca do Mahamad deste Kahal.  
+
+  30\. Que Haya em hum lugar separado, perto da porta, tres caxinhas, p’a
+  sedaca, erets ysrael, e cativos, com seus letrejros. com as quais tiraraõ os
+  gabajm destas misvot esmolla, aos dias de ...  
+
+  31\. Que nenhua pessoa podera pedir Esmolla p’a outrem aos jehedim do kahal,
+  na congregacaõ nem fora della. Nem os s’res do mahamad daraõ l’ca p’a se
+  tirar.
+
+
+  32\. Que nenhua pesso afalle em alugar, nem com effeito aluge casa de outro
+  judeu, sem l’ca do morador, nem uze de comlujos (?) mandandoa tomar por maõ
+  de framengo, para despois morar nella; e quem o contrario fizer, pagara vinte
+  libras \[xxx\] para a sedaca. Bem entendido que toda a pessoa q fizer
+  grangearja comm a casa donde se muda ou con outro qualquer que haja alugado,
+  perderà a auçaõ de ditta posse. ... Mas aqelle q sahir forçado por algua
+  justa causa (a qual provara diante dos s’res do Mahamad) tera hum ano de
+  respejto p’a naõ poder entrar outro portugez nella ...  
+
+  33 Que nenhua pessoa falle em allugar, nem co efejto alluge, moca de servico,
+  (ou Ama) de seu companhr’o sem expressa l’ca do Amo com quem estiver. so o
+  pena de sincoentas fl  
+
+  34 Que nenhum corretor jurado ou naõ jurado chame a casa da villa, a nenhum
+  de suas yrmaõs em razaõd e corretajens. senaõ diante dos s’res do mahamad.
+  Equem o contrario fizer pagara doze florins p’a a sedaca. e naõ sera
+  admjttido a esnoga em q as naõ pagar ...  
+
+  35 Que toda a carne que naõ for sehitada e badecada por os sodequos e Bodeqes
+  a p...  
+
+  36 Que nenhua pessoa possa vender carne caser de fumo. nem, quejos casserim  
+
+  ...  
+
+  37 Que nenhum judeu possa imprimir nesta cidade nem fora della livros ladinos,
+  nem ibraicos, sem expressa l’ca do Mahamad, para serem revistos e enmendados.
+  Eos que passarem esta ordem perderaõ todos os l’cas que lhe forem achados,
+  p’a A sedaca  
+
+  38 Que ninguem disputte, nem argum’te em mat’as de Religiaõ com goim p’a que
+  figaõ (sigaõ?) nossa s’ta Lej nem selhe digaõ palavras escandalosas, contra
+  sua proficaõ, por q o contrario he perturbar a liberdade que gozamos, e
+  fazernos mal quistos (?) por cousa q naõ he de lej, nem de nossa obrigacaõ.
+  Pello se encom’da com todo o encarecim’. \[something illegible added in a
+  lighter hand, ending with sobre visto\]  
+
+  39 Que naõ circumcidem nenhua pessoa que naõ seja de nossa nacaõ ebrea sem
+  l’ca do Mahamad, sob pena de Herem. E o Mahamd naõ podera dar l’ca p’a
+  circuncidar se nenhua pessoa; salvo portuges; ou Hespanhol. E os que souberem
+  o com trarjo seraõ obrigados a declarallo ao Mahamad, debaxo da mesma pena  
+
+  40 Que nenhua pessoa sobpena de Herem, falle por sy nem por outrem nestes
+  Estados a ninguem, em nome da nacaõ ou cousas gerais della, senaõ dittos
+  s’res do Mahamad ou quem elles ordenarem, p ser assim mais convenjente  
+
+  41 Que naõ tragaõ mocas goyot, carne do Assouge nem galinhas sehittadas,
+  salvo vindo algua pessoa judya a vista dellas. Por seer assim obrigacao, em
+  muy necessarjo a bom judezmo.  
+
+  42\. Que nenhua pessoa del casa de jogo aos dias de taanit de todo o Ano, por
+  seer grande pecado que se faz contra el dio, e contra sua lej jugar nos tais
+  dias. e quem o contrario fizer o haveraõ por apartado, e prosederaõ contra
+  elle rigurosam’e e tambem se prohibe jugar em 6a f’a a tarde  
+
+  43  
+
+  Que nenhua pessoa se atreva a fazer pasqins, nem papeis diffamatorios; E quim
+  semelhante desaforo fizer, ou mandar fazer por outrem; o haõ por posto em
+  Herem e apartado da naçaõ com todas as maldicons de nossa s’a Ley; quem lhe
+  caljaõ (?) por perturbador da naçaõ, pois comette crime semelhante contra a
+  lej santissima e contra seu proximo. E allem disso sera castigado rigurosam’te
+  ao Arbitrio dos senhores do Mahamad.
+
+
+  44 Que nenhua pessoa de qualquer callidade que seja va a vizitar em casa de
+  mulher parida senaõ despois de passarem quinze dias. salvo sendo mandade
+  chamar. E essas naõ levem cousas de chejro, por o dano que de alj pode
+  resultar. 45. Que sendo que os s’res da justiça prendaõ algum judeu por
+  cousas mal feitas, Roubos, em bustes, ou outras insolentias fejtas de pensado.
+  Ou cousas facinorosas, mal soantes e caidando os tais que a nacaõ lhes podera
+  acudir a seu livram’te se attrevem cometter semelhantes maldades. Estã tomada
+  firme resolucaõ, que co os tais naõ segastara tpo, nem dr’o da nacaõ. Nem
+  os s’res do Mahamd acudiraõ a seu livram’te. Mas consentiraõ que sejaõ
+  castigados pella justica conforme suas culpas p’a exemplo de outros. E com
+  isso setire o Estrompeco (?) de entre nos. E o Povo do s’re seja livre.
+
+
+  46\. Que se naõ dejtem Heremot, nem penas de Berahah, sobre differenças q
+  tenhaõ os nossos judeus, com goim. tanto p causa de fazenda, com de brigas ou
+  differenças  
+
+  \[47\] Que nenhua pessoa possa dar guet, nem escrevello, sem expressa l’ca e
+  ordem dos s’res do Mahamad. E isto se manda com pena de Herem. No qual
+  enocrrem tambem as test’ das \[xxx\] p’a esse effejto assistirem. a fim de
+  evittarem os m’os inconvenjentes q do contrario  
+
+  \[48\] Que ninguem \[xxx\] segir. Exceptuando os gettim q em Artigo de Morte
+  sedarem, os quais se fa estaa levanta \[xxx\] ionalm’te, que naõ morrendo,
+  ficaõ nullos ...  
+
+  49\. Que naõ possaõ comprar nesta t’a nem mandar vir de fora, moeda de
+  placas, duas placas, nem soloos que hajaõ sido bandidos, e prohybidos aquj
+  por os s’res. Nem poderaõ vender fazenda p receberem, em pagam’ o tal dr’o,
+  condicionalm’te. E jsto sobpena de Herem...  
+
+  50 Que naõ haja compradores de doutes, p’a fazerem grangearja em os tornarem
+  adar ao povo, sob pena de Berahah ...  
+
+  51 Que naõ haja acompanham’tos de noyvos nem de Avellim, por evittar ocazions
+  q em grandes acompanham’tos podem succceder, e sermos nottados dos Moradores
+  da t’a  
+
+  52 Que as pessas qeu se venderem empregaõ da misvah do Emprestimo se ente que
+  ficaõ arremattadas a quem as comprar, totalm’te sem replica algua
+
+
+  53\. Que os darasiot assinalados do Ano como saõ, Em sabat Agadol, sabat
+  sirah, em sebuot, sabat nahamah, sabat tessuvah, sbat de Hanuqah, e sabat
+  mikamohah, naõ os pedera ningem de fora pedir, nem ocupar. Mas darsaraõ
+  sempre nellos, os Hahamym agem togar (?) por sea gyro. E nenhum mancebo que
+  naõ chege a 25 Anos, podera darsar pella m’\[xx\], salvo se for acasado. E
+  aos menores desta idade selhos dara l’ca p’a darsarem a tarde todas as vezes
+  qeu a pedirem aos s’res do Mahamad. E os Darasiot dos tais foraõ revistos por
+  o Hahaõ seu mestre para ver se tem q emmendar
+
+
+  54 Que nas tephilot de Ros asanah e kippur, acompanharaõ ao Hazan, nos lados
+  da thevah dous dos s’res Hahamym Assalarjados, alternatim, quais os senhroes
+  do Mahamad, ordenarem.  
+
+  55 Qeu parecendo ao diante, acrescentar ou diminujra lgua cousa nestas
+  Ashamoth os s’res do maahamad, que antaõ servirem o poderaõ fazer. Bem
+  entendido q naõ seja em cousa que encontre aos novos acordos da nacaõ , Porq
+  esses ficaraõ sempre em seu vigor
+
+
+  56  
+
+  Que stas ashamot leva o gabay, todos os Anos em Boz alta da Tevah despois
+  despois de entrar a servir cada Mahamad, p’a que venhaõ a noticia dos qeu
+  novam’t forem vindos. E refresquem a memorja os que de antes moravaõ na tr’a;
+  Para cada qual saber a obrigaçaõ que tem de observar. e ninguem cometta
+  erros. nem cahja em penas por inadvertencia. Para que assim, nos conservemos
+  nilhor em paiz e concordia p’a servico do s’r, que permitta por seu Amor, e
+  seu temor em nossos coraçons para que milhor o sirvamos e louvemos
+
+
+  Copia da ashamah que hay tocante ao pagam’to da imposta  
+
+  Que toda pessoa traga o prim’ro pagam’do da imposta atte bespora de sabat
+  Agadol e osegundo atte Bespora de Rosa sanah. E quem o contrarjo fizer, nestes
+  t’pos limittados os haõ por excluydos da Esnoga. E cada Mahamad teraõ
+  obrigaçaõ de fazer executar este mandado. E em falta a pagaraõ de sua casa
+  nos mesmos t’pos limittados. Paraque se possa fazer a Elejcaõ do novos
+  ellejtos. E caso que haja pessoa, ou pessoas que sejaõ rebeldes, mandaõ que
+  com peña de Herem nunhuã pessoa se possa ajuntar com ello p’a fazer minhia
+  nem rezar em congregacaõ nem fora della. E naõ sera admittido a Esnoga,
+  ajnda que seya depois de haver pago, como conste que haja sa\[...\] por este
+  caso fora della.
+
+
+  Estas Ashamot sobred’tas firmaraõ os s’res do Mahamad uniformem’te em 28 de
+  Ab A’o 5399  
+
+  Joseph Boeno \[baias?\]  
+
+  Jeosuah Jesurrun (?)
+
+
+  Abraham Salom
+
+
+  Semuel Achia (?)
+
+
+  David Osorjo
+
+
+  David Herga
+
+
+  Abraham Pharar
 ---
 <h2 style="text-align: center">Introduction</h2>
 
