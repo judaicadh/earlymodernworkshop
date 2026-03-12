@@ -906,6 +906,11 @@ original_language_body: >-
 
 
   Abraham Pharar
+
+
+  <h2 style="text-align: center">Source 3 Original</h2><p style="text-align:
+  center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam,
+  Gemeente Archief Amsterdam 334.13</p>
 ---
 <h2 style="text-align: center">Introduction</h2>
 
@@ -1169,3 +1174,40 @@ That every person must pay the first imposta before the eve of Shabbat ha-Gadol 
 These abovementioned Ascamot were signed by the Senhores of the Mahamad unanimously on the 28th of Av, in the year 5399.
 
 <h2 style="text-align: center">Source 3 Translation</h2><p style="text-align: center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam, Gemeente Archief Amsterdam 334.13</p><p style="text-align: center">TEXT 3 is a 1622 document establishing an intercongregational <em>imposta </em>(tax) and empowering a board of lay leaders to administer it. It also grants that board other powers and describes the umbrella structure in such a way that I suggest it should be understood as establishing a confederation. In the interest of brevity I have translated only certain articles here, indicating the subjects of the ones I omitted.</p>
+
+In the name of the blessed God
+
+In Amsterdam the 24th of Shevat 5382 which is 4 February \[1622\]  
+The Senhores of the Mahamadot of the three _kehilot kedoshot_ of this city, having met together to discuss affairs that are common and necessary for the nation and its conservation, agreed that since the Lord did us the favor of uniting us with such a general peace, may his mercy augment it, for better holy service, an _imposta_ \[tax\] would be made in the form declared below (as is the custom in many places), because the income would go toward the common good and general benefit of the nation, and we can better conserve it, for the greater glory and praise of our lord. That is:
+
+1 That all the property that from today forward comes to this city, whether foreign or domestic, they will be pay one _douto_ per pound of goods...
+
+6 ...Those brokers, licensed or unlicensed, who make...per year will pay...because no one will be exempted from a thing that is so necessary and so facilitates the common good. It is ordered that no licensed broker, on his own or through others, will accuse those who are not... It will be prohibited to the whole nation...under penalty of _Berachah_, nor will he be admitted to the synagogues without first paying for the damage that he caused to the accused, plus 50 florins more to this _imposta_.
+
+9 \[Again the _berachah_ is invoked for nonpayment\]
+
+10 To administer the collection of this _imposta_ there will be 2 deputies from each _kahal_ to serve on a Mahamad, who seem sufficient for the position. That is, the past Mahamadot will elect in each _kahal_ two who from those who presently serve...and the current Mahamadot will name which two of the newly elected are to serve in this position at the time of their election; together with the election of the Mahamad they will be announced from the _teva_ and this is how it will go every year.
+
+11 There will be a chest with three different keys...
+
+12 There will be a book of rules and agreements that are made, in which this agreement will be written, and in addition to the accounts of the imposta, which will also be written in the hand of each deputy for two months in the manner of chest described above. ...
+
+18 In the matters that the six deputies need to decide, it will always be by at least 4 votes out of 6, including those from the 3 _kehilot_, and the two dissenters will be obligated to go along with what is agreed with those 4 votes; but if it is not done in accordance with said method, the three Mahamadot will meet and vote openly on the case, which will not be decided with less than 12 votes, without which nothing will be done.
+
+19 From the income of this imposta will be taken care of all of the common  
+matters of the nation for its good conservation, with the proviso that those private/individual cases that arise and harm the nation may also be held to be common...\[one of the deputies may intervene with the authorities (dealing not with money but with corporal punishment) but the individual will have to pay for it\]
+
+21 From said income of this imposta a contribution will be made to the almsmen of this city for their poor, 30 florins each month...in the name of the whole nation
+
+22 And since the principal intent and foundation of this imposta is for us to relieve ourselves of the excessive expense that we have with the poor of our Portuguese and Spanish nation, and we are in dire need of a remedy or earnings, it was decided to try to send them along to lands of Judaism where they can more easily live, in the following way...
+
+23-29 on _encaminhamento  
+_30 That no person from today forward under penalty of _Berachah_ may speak himself or through others in these states to anyone in the name of the nation, except said deputies or whoever they order to do so when it is more convenient to their authority.
+
+31 And no person who is excluded from any one of the synagogues will be admitted to another without entirely satisfying the penalty that he owes to the imposta in his _kahal_; or if he leaves of his own accord, without first paying everything he owes.
+
+32 That if it seems good, from this time forward, to add to or take away from the above, it is can be done with a meeting of the three entire Mahamadot that are serving at that time, where they will discuss the case and with a vote of at least 12 it will be resolved, publishing the new agreement to bring it to the attention of everyone, and if necessary a copy will be given to each person.
+
+And because they agreed to all of the above with common consent that it was useful and necessary for the common good, the three Mahamadot that presently serve are obligated to carry it out and have it carried out, each in his _kahal_, giving a printed copy to each of the _yahidim_ in his _kahal_ at present and to those who will come in the future, so that they will govern themselves in conformity with it...
+
+\[Signed by 5 leaders of each _kahal_\]
