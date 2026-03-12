@@ -40,6 +40,304 @@ description: >-
   outside of Frankfurt. This was the basis of an attempt by the municipal
   authorities to deny him continued residency rights, using rental issues at
   Arnstein’s Jewish lane house as an excuse.
+original_language_body: >-
+  <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
+  center">OeStA, HHStA, RHR, Decisa K 334, fasciculum 5, registriert in Wien 26.
+  März 1779, deductio gravaminum, sine folio, Hervorhebungen wie im
+  Original.</p>
+
+
+  Verfahren: Arnsteiner Wolf Isaac Schutz- und Handelsjud zu Franckfurth am Mayn
+  contra Schöffenrath daselbst, Laufzeit: 1778-1784
+
+
+  „Allerdurchlauchtigster Großmächtigster, und Unüberwindlichster Römischer
+  Kayser, auch in Germanien, und in Jerusalem König pp.  
+
+  Allergnädigster Kayser, König, und Herr Herr:
+
+
+  Unter gewöhnlichem Vorbehalt aller- und jeder – denen Appellanten verliehenen
+  Rechtswohlthaten, und Befugnüssen, leget treu gehorsamster Anwaldt den
+  Beschwerungs Libell in aussen bemerkter Sach allerunterthänigst
+  folgendermaßen vor:
+
+
+  §.1.  
+
+  Kurzer Geschichts-Verlauf
+
+
+  Appellantischer Wolf Isaac Arnsteiner, aus dieser Kayserlichen Residenz Wien
+  gebürtig, wurde zu Franckfurt am Mayn den 16.ten January 1764. nebst seinem
+  Weib in Schutz- und Stättigkeit aufgenommen, und machte sich dagegen zu
+  folgender jährlichen ständigen abgaben anheischig:
+
+
+  1.  Schatzung, und Herrenschilling 54. fl.
+      
+  2.  Grundzins wegen seines Haußes in der Judengasse zum weisen Ring genannt,
+  jährlich 11. Goldgulden, welche auf dem alten Fuß gerechnet jährlich
+  betragen 19.fl 15 kr.
+      
+  3.  Stättigkeitsgebühr 2.fl 58 kr.
+      
+
+  Zusammen im 22.fl Fuß zu entrichten 76.fl 13 kr.
+
+
+  §.2.  
+
+  Gewiße Handlungsgeschäfte riefen ihn vor einigen Jahren nach Frankreich und
+  da diese etwas weit ausgedehnt wurden, ließ er zu Erspahrung doppelter
+  Unterhaltungskosten, nachdeme seine Ehefrau verstorben, sein ohnerzogenes Kind
+  zu sich kommen, und befindet sich nebst demselben als Wittiber noch in
+  Französischen Landen, ohne jedoch irgendswo sich häußlich niedergelassen,
+  oder einer anderen Obrigkeit, als der Frankfurter, mit Eyd, und Pflichten sich
+  verbunden zu haben, sondern er entrichtet vielmehr durch seinen – zu Frankfurt
+  wohnenden Schwestersohn, Isaac Raphael Sinßheim sämtliche obige Abgaben /.§1/
+  wie solches die beglaubte Beylag unter Zahl I. \[Marg. Zahl I \] bewähret;
+  unterhält also seine Stättigkeit noch, wie vor zu untrüglichem Kennzeichen,
+  daß seinVorsatz, bald möglichst nach Frankfurt zurück zu kehren,
+  unabänderlich sey, wie dann erwehnter sein Schwestersohn dieses bey aller
+  Gelegenheit, gericht- und ausergerichtlich in seinem Namen erklärt hat.
+
+
+  §.3.  
+
+  Ob nun schon der Magistrat daselbst von ihm nicht mehr begehren könnte, wenn
+  er wirklich gegenwärtig wäre, und die stärkste Handlung triebe, ob auch
+  schon seiner rechtmäßigen Abwesenheit halber keine der stättigkeitmäßigem
+  500. Haußgesäßen daselbst mehr oder weniger wird; ob auch gleich, wenn
+  Arnsteiner Animum redeundi verlöhre, seiner Stättigkeit demnach
+  stillschweigend, oder ausdrücklich aufsagen, und den 10ten Pfenning hinter
+  sich lassen müßte; so würde dennoch sein Hauß, dem eignen Verlangen wohl
+  erwelten appellatischen Magistrats gemäß diesfalls schon allein
+  überflüssige Sicherheit verschaffen.
+
+
+  Deductio Gravaminum
+
+
+  §.4.
+
+
+  \[Marg. Gravamen 1.\] Gleichwohl scheints, als ob man ihn nebst seinem Kind
+  von dem wohlerworbenen- und/ bis dieser Stunde gesätzmäßig behaupteten
+  Stättigkeitsrecht per indirectum dadurch zu verdringen, und die – jeden
+  Unterthan in aller Welt, coeteris paribus zustehende natürliche Freyheit von
+  seinem Wohnplatz ab- und zu zureisen, ihn, als um einer daher leitenden Folge
+  willen, allen Frankfurter Schutzjuden, wo nicht völlig zu benehmen, doch in
+  enge Schranken zu setzen, gemeint sey, da der Magistrat auf Andringen dasigen
+  Schatzungsamts /:welches jedoch mit denen – in die Stättigkeit einschlagenden
+  Sachen gar nichts zu thun, viel weniger wegen nicht empfangener Gebühr sich
+  im allergeringsten zu beschweren hat// adjt. Zahl I./ indeme jene von dem
+  Recheneyamt daselbst abhangen, und von wannenhero über sein Ausseyn noch nie
+  die geringst Anregung geschehen.
+
+
+  \[Marg. Zahl II.\] ist :/ das unter Zahl II. ersichtliche Raths Conclusum am
+  2ten July vorigen Jahres ergehen lassen, und durch dasselbe appellantischen
+  Arnsteiner, „binnen Jahr und Tag nach Frankfurt zurück zu kehren, oder sein
+  Vermögen zu decimiren, inzwischen aber dafür sein mehrgedachtes- zur Caution
+  einzusetzen auferlegen wollen.“
+
+
+  §.5.  
+
+  \[Marg. Grav: 2dum\] Wenn der Ausdruck: inzwischen nicht praecise auf die-
+  binnen Jahr und Tag zu bewürkende Rückkehr, sondern auf eine unbestimmte
+  Zeit ginge; so wäre diese Caution vor keine Beschwerde zu achten, maßen
+  appellantischer Arnsteiner, wie das Conclusum /§.4.adj.II:/ selbst zu erkennen
+  giebt, bereits im Jahr 1775. solche freywillig anerbothen. So aber, da dadurch
+  eine Terminatoria, vel fatale quoddam erzwungen würden, und nach deren
+  Exspirirung appellantischer Arnsteiner, nebst seinem// Kind um Hauß, Hof,
+  Stättigkeit, kurz um alles, was ihm in Frankfurt lieb, ja unschätzbar, und
+  unersetzlich ist, gebracht seyn soll, als ist diese 2.te Beschwerde der ersten
+  gleich, ja gewissermassen noch größer.
+
+
+  §.6.  
+
+  \[Marg. Grav. 3tium.\] Man würde dem- in Sachen der Frankfurter Judenschaft
+  contra Magistratum bereits unterm 27ten Octobris 1735. ergangenen
+  höchstpreyßlichen Reichs-Hof-Raths Concluso, dessen Abschrift Beylage Zahl
+  III. \[Marg. Zahl III.\] liefert, Gewalt anthun, wenn man behaupten wollte,
+  daß die – nach solchem denen Juden gegen Caution, und Leistung ihrer
+  jährlichen Abgaben, mit Beybehaltung ihrer Stättigkeit eine Zeit lang
+  auserhalb zu wohnen ohnumschränkt gestattete Freyheit blos auf die darinnen
+  gemelte Judenkinder, keines Wegs aber auf Haußväter zu ziehen sey.//  
+
+  Ja, wenn auch eine noch unverzeihlichere Auslegung von dem Magistrat, daß
+  nämlich appellantischer Arnsteiner kein eingebohrenes Judenkind sey; sich
+  angemaßt werden könnte, so müßte derselbe ignoriren wollen, daß dessen Frau
+  und Kind eingebohrne, und also bey ihrem von Urgroßeltern her erlangten Recht
+  mit Mann, und Vater um so mehr zu schützen, und zu handhaben seyen, als wohl
+  ermelter Rath schon nach dem bekannten Commissions Abschied vom Jahr 1613.
+  §.8. sowohl eingebohrnen, als eingenommenen gleich- und einerley Rechte,
+  Freyheiten p. widerfahren zu lassen schuldig ja eydlich verbunden ist.
+
+
+  §.7.  
+
+  Appellantisch-Arnsteinerischer Anwaldt zu Frankfurt hat nicht ermangelt, durch
+  eine- auf mehr ersagtes Raths-//Conclusum eingereichte geziemende- und
+  nachdrückliche Vorstellung dieses alles bestens zu Gemüt, auch sowohl die /:
+  §O. adjt. Zahl III :/ angezogene Allerhöchste Kayserliche Resolution, nach
+  welcher einem zeitlich auswärts sich aufhaltenden Juden Terminus revertendi
+  illimitatus gegönnet, folglich dieser auch ohne Kayserlicher Authoritaet zu
+  nahe zu tretten, von wohlermeltem Rath nicht zu fixiren, oder einzuschränken
+  ist, als jene Beyspiele anzuführen, nach welchen die Frankfurter Schutzjuden
+  Herz Benedict Beyfuß, und Mayer Michael David, mit Beybehaltung ihrer
+  Stättigkeit, und Leistung ihrer Abgaben lange Jahre respective zu Hamburg,
+  und Hannover sich aufgehalten, ja gar ansäßig gemacht, mithin sowohl
+  daselbst, als zu Frankfurt Schutz genossen haben, wie dann letzterer bis dato
+  noch zu Frankfurt,// und Hannover in selbigem stehet; zugleich hat ersagter
+  Arnsteinerische Mandatarius seines Principalens Rückkehr binnen Jahr, und Tag
+  gar nicht geweigert, sondern nur auf den Fall, da solche nicht möglich seyn
+  würde, unter nochmaligem Cautions- und Lastbringens-Erbieten, ihm gleich
+  wohlthätiges Recht um somehr angedeyhen zu lassen gebetten, als er sich in
+  den Königlich Französischen Landen weder nieder gelassen, noch nieder zu
+  lassen Willens, vielmehr den einzigen Wunsch und Vorsatz habe, sobald seine
+  Geschäfte es zugeben würden, zu revertiren, und den Rest seiner Tage zu
+  Frankfurt zu beschliessen pp. wie alles dieses die Abschrift unter Zahl IV.
+  \[Marg. Zahl IV\], zu erkennen giebt. Als aber statt der so billig gehoften
+  Deference das Conclusum à quo erfolget, Arnsteiner, quod est gravamen quartum
+  \[Marg: Grav:4\] // nochmalen binnen Jahr, und Tag, und zwar à die
+  insinuationis Decreti de 2da July nuperi /: Zahl II :/ zu rechnen, mithin
+  ohngefähr in 9. Monat, und noch dazu ganz ohnfehlbar, zurück zu kehren
+  angewiesen seyn sollte, so blieb nunmehr dessen Mandatario kein ander Mittel,
+  als die allerunterthänigst feyerliche- und eine gegenwärtig rite
+  eingeführte Beruffung an dieses höchste Reichsgericht zu ergreifen übrig.
+
+
+  §.8.  
+
+  Daß Appellant mit seinem in Supplica pro processibus gestellten Bitten
+  allerhuldreichst werd erhöret werden, zweifelt treugehorsamster Anwaldt um so
+  weniger, als die von Appellatischen senat: gegen Arnsteiner gebrauchte
+  Verfahrungsart \[Marg: Grav. 5.\], weder mit den gemeinen Rechten, noch mit
+  den Reichs Constitutionem, noch mit der// Frankfurter Judenstättigkeit, noch
+  mit dasiger Reformation, und anderer Statutis, noch mit denen – in Sachen
+  Frankfurt contra Frankfurt in Specie die Judenschaft betreffend, ergangenen
+  Kayserlichen Allerhöchsten Resolutionibus, und Conclusis übereinstimmet.
+
+
+  §.9.  
+
+  Nicht mit den gemeinen Rechten dann, wie kann man dem Arnsteiner das – aus
+  denselben bekannte Jus postliminii abstricken.
+
+
+  §.10.  
+
+  Nicht mit den Reichs Constitutionen: denn diese begünstigen wie jene, die –
+  wegen der Handelschaft Reisenden allenthalben
+
+
+  §.11.  
+
+  Nicht mit der Frankfurter Judenstättigkeit: denn es bezeugt deren vidimirter
+  Extract unter Zahl V. \[Marg. Zahl V.\], daß a., die Juden, so daselbst die
+  Stättigkeit haben,// und solche behalten wollen, in keines anderen
+  Landesherrn Eyd, und Pflichten stehen, noch wider Willen, und Wissen des
+  Raths, sich in dergleichen begeben sollen; hieraus folgt nun per argumentum à
+  Sensu contrario, quod est fortissimum, daß, so lang sich ein Frankfurter
+  Judeneinwohner keiner andern, als der Stadt-Bothmäßigkeit unterwirft, er von
+  dem Magistrat seiner Stättigkeit auch nicht entsetzt werden dürfe. b.,
+  Stehet vermög derselben nicht in des Magistrats Macht, ein, oder andern
+  jüdischen Einwohner wider die – die dasige Judengemeinde schützende
+  Kayserliche Privilegia, nach Willkühr, zu vertreiben, noch ihm unverschuldet
+  den Schutz aufzusagen, sondern es muß vielmehr c., derjenige, so einmal die
+  Stättigkeit erlangt hat, und alle Jahr die Gebühr davon bezahlt, dabey
+  gelassen werden, und diese – von Einer Kayserlichen Ho//hen Commission dem
+  Magistrat vorgeschriebene – von Euer Kayserlichen Mayestät selbst
+  bestättigte allgemeine Regul, leidet gewißlich bey löblichen- und nötigen
+  Abwesenheitsfällen keine Ausnahme, vielweniger darf d., der Magistrat die
+  gemeine Judenschaft, folglich auf deren Individua, und einzelne Mitglieder
+  derselben /: ad litteram zu reden:/ „ohne Allerhöchst Kayserliche
+  Bewilligung, mit neuen Verordnungen, und andern ohnhergebrachten Oneribus zu
+  beschweren sich unterfangen.“
+
+
+  §.12.  
+
+  Eben sowenig können die Frankfurter Reformation, noch sonst ein Statutum des
+  Magistrats Verfahren gegen appellantischen Arnsteiner begünstigen; denn
+  erstere redet von den Judengerechtsamen gar kein Wort, und wenn sie davon
+  redete, könnte solche doch weiter nicht gelten, als insoweit sie durch die
+  verschiedene Jahr// hernach errichtete- von Kayser zu Kayser confirmirte
+  Judenstättigkeit nicht aufgehoben worden ist. Eben dieses muß von jenem alten
+  Statut vom Jahr 1451 gesagt werden, dessen Orth in seinen Anmerkungen dritter
+  Fortsetzung gedenket, und nach welchem ein Bürger, der seine Wohnung über
+  Jahr und Tag anderwärts errichtete, seines Bürgerrechts verlustig wenigstens
+  solches, wann er wiederkehrte, von neuem zu suchen gehalten war, zumahl, da
+  dieses alte Statut, wie Orth in angezogener Stelle darthut, auch sogleich
+  weiter unten vorkommen wird, längst aufgehoben, und dasjenige, was auf
+  gleiche Weis in einigen Handwersartikuln verordnet ist /: Orth eben daselbst
+  :/ auf die Juden nicht anwendbar seyn kann.
+
+
+  §.13.  
+
+  Hingegen spricht die- unterm 1ten Junius 1728. in Sachen Frankfurt contra
+  Frank//furt, in specie der Bürgerschaft Beschwerden gegen die Juden
+  betreffend, ergangene kayserliche Resolution vor letztere desto lauter, da
+  Inhalts derselben der Rath über die Stättigkeit fest zu halten sich
+  erkläret hat, welche Erklärung dann kayserliche Mayestät nicht allein
+  angenommen, sondern auch, wie die Worte lauten „Es bey dem wörtlichen Inhalt
+  aller, und jeder Artickuln angeregter Judenordnung unverändert gelassen, ja
+  sogar dem Rath alle Dispensation, und neue Ordnung als einen vermessenen
+  Eingriff in die Allerhöchst Kayserliche Obriste Bottmäßigkeit bey Straf
+  verbothen haben“, wie deren Extract unter Zahl VI. \[Marg. Zahl VI.\]
+  klärlich darthuet.
+
+
+  §.14.  
+
+  \[Marg. Grav: 6.\] Hirzu tritt noch die Analogie anderer kayserlicher Stadt
+  Frankfurtischer Grundgesätze v\[estra\] g\[enerositas\] a., des bekannten
+  Bür//gervertrags vom Jahr 1613. §.8., nach welchem ein Bürger anderwärts
+  hinzuziehen, und seine Güter, und Bürgerrecht, gegen Abrichtung der
+  gewöhnlichen Bürgerbeschwerden beyzubehalten befugt ist. b., Die kayserliche
+  Bestättigung gedachten §phi 8. in Resolutionibus caesareis de 22do Novembris
+  1725, 14ta Marty 1732, und 16ta Decembris 1737., denen ebenmäßiger Extract
+  unter Zahl VII. \[Marg. Zahl VII.\] anlieget, solches sowohl von
+  perpetuirlich, als blos temporellen Wegzug erkläret, und festsetzet.
+
+
+  §.15.  
+
+  Ob man nun schon den Juden zu Frankfurt, in ihrer Stättigkeit sich nicht
+  Bürger, sondern Rathsschutzangehörige zu neuem gebotten hat; so ist doch
+  dieses eine bloße Logomachie, die Juden genießen daselbst notorischermaßen,
+  alle die Rechte des Lebens, Handels, und Wandels, öffentlichen Abgaben pp.
+  Stadt-Dig//nitaeten ausgenommen, gleich die Bürger, und christliche
+  Beysassen. Thut man den Namen von der Sache, so muß man den bürger, den
+  Beysassen, den Juden in einerley moralischen Gesichtspunkt, nämlich als
+  Einwohner der Stadt Frankfurt erblicken. in solchem Verstand befahl ehedessen
+  Kayser Caracalla \[Marg. Heinecc: antiquit: Rom: P.1 p.m. 404.\], daß jeder,
+  der unter römischer Herrschaft lebe, als Bürger angesehen seyn solle. Das
+  Axioma: non quis, sed quid, muß demnach auch in Ansehung des Worts, Bürger,
+  in sensu communi, et latissimo, von denen Frankfurter Juden genommen, und
+  ihnen alle nicht besonders excipirte Rechte dasiger Einwohner angedeyhen,
+  folglich auch sie angezogener Kayserlicher Gesätze sich zu erfreuen haben.
+
+
+  §.16.  
+
+  Samtliche – den Arnsteiner personel betreffende Beschwerden sind übrigens
+  vor// nicht anders, als wahre Attentata, in der- vor Euer Kayserlichen
+  Mayestät Justiz- Thron geraume Jahre liegenden Appellation-Sach, Judenschaft
+  zu Frankfurt contra dem Magistrat daselbst, puncto der Abzugsgelder, zu
+  betrachten, und zu beurtheilen; denn nachdeme das bereits oben /: §.6.Zahl III
+  :/ angebrachte höchstpreyßl. Reichs-Hof-Raths Conclusum de 27. Octobris 1735.
+  durch das \[Marg. Zahl VIII.\], anderweite hier unter Zahl VIII. ersichtliche
+  de 4ti Augusti 1738. allergerechtest bestättiget, und dem Magistrat pendente
+  appellatione sich kein Attentatum zu Schulden kommen zu lassen ausdrücklich
+  befohlen worden; als hätte derselbe ob identitatem, et continentiam causarum,
+  den Arnsteiner wenigstens so lange verschonen sollen, bis die Hauptsache
+  puncto des Abzugs endlich erledigt gewesen seyn würde.
 ---
 <h2 style="text-align: center">Introduction</h2>
 
