@@ -711,3 +711,114 @@ On the 29th of Heshvan, meeting together, the Lords deputies agreed that the 42 
 \[All who consent\] should sign here on the following pages, heads of households of the whole nation, accepting the agreements as they appear in these 42 articles, on 28 Veadar, 5399
 
 \[3 pages of signatures\]
+
+<h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam, Gemeente Archief Amsterdam 334.19.1, 106-112</p><p style="text-align: center">TEXT 2 is the first set of regulations put in place by the new Mahamad, the result of culling and combining the communal regulations of the three former congregations.</p>
+
+Haskamot by which shall be governed  
+The K.K. of Talmud Torah of Amsterdam, may God protect it, copied and chosen from all of those that there were in the nation. Newly revised, with some additions, and approved by the Lords of the Mahamad that were elected this year. In conformity with what was ordered in Article 5 of the new Acordos of the nation. Which were made with great vigor \[?\]. And the same for the Haskamot regarding the payment of the imposta, may it all be in service to and praise of the blessed God. Amen.
+
+1 That the Mahamad has authority and superiority over everything. No person may go against the resolutions that said Mahamad takes and promulgates; nor sign papers to oppose it; and those who do will incur the punishment of the _Herem_ because it is ordered that the Mahamad that serves in each year must be supreme in the government of the Kahal and the nation, and its dependencies. And it can condemn those who disobey with penalties as they see fit, making them request public forgiveness on the _teva_. The Mahamad, or any member of it who is in the synagogue at the time, if he deems it necessary to make sure that there will be no differences between parties, may also order someone out of the synagogue, subdue, or quiet, even up to the penalty of the _herem_, any person or persons of this _kahal_. Or that he not go outside of his house until he is instructed. And in all this, a father may not take the part of a son, nor a son the part of a father, nor a relative the part of a relative. Above all they will try to obey and accept the order of the Mahamad because this is for the good government, peace, and quiet of this K.K. may God bless it.
+
+2 That in one Mahamad a father and son cannot both be elected...
+
+3 That none of the seven elected to serve on the Mahamad each year may for any reason refuse the position...
+
+4 That the Mahamad will meet every Sunday at a time mandated by the parnas currently presiding...
+
+5 That if the Mahamad is treating a case in which one of the 7 does not wish to cast his vote openly, he may request that voting be carried out by hidden ballot...
+
+6 That the Mahamad will set the hours at which to start praying, according to the times of the year
+
+7 That the Mahamad will take an oath on a Bible to keep inviolably secret the elections and all circumstances surrounding them
+
+8 That on Shabbat Hagadol before announcing the new Mahamad, the gabay will read from the _teva_ the total income...
+
+9 That the Senhores of the Mahamad who finish serving their time will return to sit in the seats they had previously held
+
+10 That the Mahamad will be obliged to give to the newly elected Senhores, after Passover, an accounting of all the effects...
+
+11 That because of the scarcity of the first levy of the _finta_...  
+12 That on the Sabbath preceding each of the three _pascoas_ \[shalosh
+
+regalim?\]...for the poor...  
+13 That fundraising for the holy land will be done on...  
+14 That on Purim...\[gifts for the poor\]  
+15 That on the eve of Rosh Hashanah the Mahamad will elect a Hatan Torah...
+
+16 That there will not be _festas_ or _enigmas_ \[plays\] in the synagogue on Simchat Torah, nor any other time  
+...
+
+19 \[No one may raise his voice against another in synagogue, or on the way to synagogue; no one may raise his hand against another in synagogue or on the way to synagogue; no one may bring a weapon to synagogue; if a young man has a disagreement with non-Jews and feels he needs to carry a weapon for his self- defense he should request permission from the Mahamad; otherwise the punishment is _herem_\]
+
+20 That no one may stand up in the congregation in public with a loud voice in order to advise, approve, or reprove what has been ordered and commanded. Except for a person of the Mahamad to support what has been commanded. That the rest may not publicly go against that which said Mahamad orders. And whoever deems it necessary to discuss something should come alone and in secret to the parnas that \[he chooses?\]...in order to avoid causing disputes and upset.
+
+21 As we know in order to avoid inconveniences it has been agreed that the Senhores Hakhamim will be called to the Torah without titles of Hakham, Morenu, or Rav. It is \[now\] ordered that if some Hakhamim come from abroad, no matter how well-known their status and authority are, they will be called to the Torah with no title, and the same for any other person of any quality. Because \[we deem it?\] the best practice for avoiding all kinds of inconveniences that otherwise arise. Nor will the Hazan give them such titles in the misheberach, but for the deceased in the _ashkavah_ it is permitted; and also if in some written letters or books said Senhores Hakhamim are discussed, or in experience that we have had with them \[?\], they will be given the title of Hakham with all due courtesy and respect.
+
+22 That no broker from our congregation may speak of or deal with business matters, neither before nor after prayer, with a penalty of 3 florins  
+...
+
+24 It is not permitted for those who pray in Hebrew to raise their voices so high that the voice of the Hazan cannot be heard clearly by the whole _kahal_, so that those who are farthest from him may know where they are in the prayer.
+
+25 That no one should talk \[?\] during the time of prayer, nor at the time of the praying \[reading? chanting?\] of the Torah, nor go out when the law has been raised \[i.e., when the Torah scroll is open?\]. Because the mitzvah is not only to see the law, but it is also important to hear it chanted. It also causes great confusion when someone is not in the synagogue when his name is pulled to be called to the Torah. So it is recommended that...
+
+26 That no one may remain standing in his place in synagogue except at those times when the whole \[_kahal_\] is standing, in order not to be an obstruction and impediment to the other _yehidim_, his neighbors. And if someone, out of devotion, wants to stand on the day of Kippur or another \[day\] he can move to a spot away from the others, that the Mahamad will assign
+
+27 That no one will be assigned to say the prayer of minchah or aravit without the permission of the Mahamad, or of the member of the Mahamad who is in the synagogue...
+
+28 That no one may give his seat in the synagogue to, nor sit with, any foreigner who is newly arrived, for more than one day. He should tell the Mahamad or the Parnas who presides, in order to accommodate him. And the Mahamad may move someone from one seat to another in the synagogue for better arrangement and good order, without any contradiction
+
+29 That no Hevrah may publish, order, or command anything in the synagogue without express permission of the Mahamad of this _kahal_.
+
+30.  30  \[3 boxes for tzedakah\]
+    
+31.  31  That no one may beg for alms...
+    
+
+...
+
+34 That no broker, licensed or unlicensed, should call any of his brothers to City Hall in connection with their corrections. Instead they should go before the Mahamad. And otherwise they will pay 12 florins to the charity fund, and they will not be admitted to the synagogue until they pay...
+
+35, 36 meat
+
+37 That no Jew may print, in this city or outside of it, books in Ladino or in Hebrew, without express permission from the Mahamad, in order that they may be reviewed and emended. Those who violate this order will lose all the permissions they had already received, for tzedakah.
+
+38 That no one may dispute or argue with non-Jews in matters of religion...because it may disturb the freedom that we enjoy, and make us unpopular for something that is not part of the law, nor our obligation. ...
+
+39 That they not circumcise any person who is not of our Hebrew nation without permission of the Mahamad, under penalty of _herem_. And the Mahamad cannot give permission to circumcise anyone except Portuguese and Spaniards. And those who \[hear of?\] violations are obligated to report them to the Mahamad, under the same penalty.
+
+40 That no one, under penalty of _herem_, speaks for himself or for others in these States to anyone, in the came of the nation or its common affairs, except said Senhores of the Mahamad or whomever they order to do so for convenience.
+
+41 That non-Jewish girls should not carry meat from the market, nor butchered chickens, unless a Jewish person comes along. This is an obligation and very necessary for good Judaism.
+
+42 gambling
+
+43 That no one may make pamphlets or defamatory papers. And if a foreigner does it, or if he has it done by others. He will be placed in _herem_ and separated from the nation with all the curses of our holy law. He will be called a disturber of the nation because he commits a crime against the most holy law and against his neighbor. And he will be rigorously punished by through the arbitrarion of the Senhores of the Mahamad.
+
+44 That no one of any quality may visit the house of a new mother until 15 days have passed, unless he is called. ...
+
+45 That if the senhores of justice capture a Jew for \[...bad stuff...\] the nation can \[not??\] aid in freeing someone who dares to do such things. A firm resolution has been taken that the time and money of the nation will not be wasted on them. Nor will the Senhores of the Mahamad aid in freeing him, but will agree that he be punished by the justice according to his crimes for the example of others. And this way the \[sin??\] will be removed from us, and the people of the Lord will be free.
+
+46 That neither _herems_ nor punishments of _berachah_ will be imposed over differences between us Jews and non-Jews. Both in matters of property and in fights and arguments.
+
+47 That no person may give a _get_, nor write one, without the express permission and order of the Senhores of the Mahamad. And this is commanded under penalty of _herem_. Those who witness one also incur the same punishment, for aiding in it, in order to avoid many inconveniences.  
+...
+
+49 That no one may buy in this land nor order from afar...coins that have been banned and prohibited by the Senhroes. Nor may anyone sell property to receive them, in payment of such money conditionally. \[?\] And this under penalty of _herem_.
+
+50 Nor may there be any buyers of ?, in order to ? to give them to the poor, under penalty of _berachah_
+
+51 That there may not be any accompaniment of newlyweds or mourners, to avoid oaccasions that can occur in large processions, where we are noted by the inhabitants of the land  
+...
+
+53 That the main sermons of the year \[will be preached only by our own Hakhamim, and not foreign ones\]. And no young man under 25 years old may preach unless he is married. Those younger than that may preach in afternoons with permission from the Mahamad, and their sermons will be reviewed by a Hakham, his teacher, to see if anything needs correction.
+
+54 That in the prayers on Rosh Hashanah and Yom Kippur, two of the salaried hakhamim will accompany the Hazan on the _teva_, alternating (?), as the Senhores of the Mahamad order.
+
+55 That if the need arises in the future to add to or subtract from these Ascamot, the Senhores of the Mahamad that are serving at the time may do so. Understanding, of course, that it may not go against the _Novos Acordos da Naçaõ_, because those will remain always in place.
+
+56 That the the gabay will read these Ascamot in a loud voice from the _teva_ at the beginning of the term of service of each new Mahamad, so that they come to the attention of those who are newly arrived. And to refresh the memories of those who already lived in the land. So that each one knows the obligations that he must observe, and not commit errors, nor incur penalties inadvertently. Because this way, we better conserve ourselves in peace and harmony in service to the lord, may he permit us, with love and fear of him in our hearts, to better serve him and praise him
+
+Copy of the existing Ascamah regarding the payment of the imposta  
+That every person must pay the first imposta before the eve of Shabbat ha-Gadol and the second before the eve of Rosh ha-Shanah. And if anyone does not do it within these limited times will be excluded from the synagogue. And each Mahamad will be obligated to have this order carried out. And ...the payment of its/his house in the same limited periods so that the election of the new officials can be done. And in case there is a person or persons who would rebel, it is ordered on pain of Herem that no person may join him for a minyan nor pray in a congregation outside of ours. And he will not be admitted to the synagogue, even after having paid, as it is is constituted that he will have been expelled from it for this case.
+
+These abovementioned Ascamot were signed by the Senhores of the Mahamad unanimously on the 28th of Av, in the year 5399.
