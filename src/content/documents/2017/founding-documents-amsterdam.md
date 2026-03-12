@@ -911,6 +911,339 @@ original_language_body: >-
   <h2 style="text-align: center">Source 3 Original</h2><p style="text-align:
   center">Archives of the Spanish and Portuguese Jewish Community of Amsterdam,
   Gemeente Archief Amsterdam 334.13</p>
+
+
+  Em nome del Dio Bendito
+
+
+  Em Amsterdam a vintequatro de Sebat de 5382 annos que saõ quatro de fevereyro
+  Avendo se juntado os senhores dos Mahamadot das tres keilot kedosot desta
+  cidade, para tratar em cousas gerais, e necessarias a naçaõ e conservaçaõ
+  dela. Acordaraõ que pois ho senhor nos fes merçe de nos unir com huã paz
+  taõ geral que ele por suas piadades augmente para mais seu santo serviço se
+  fizesse húa Ymposta na forma abaixo declarado (como em diversas partes se
+  costuma) paraque do Rendimento dela se acuda a obem commun e beneficio geral
+  da naçaõ e milhor nos possamos conservar qeu seja para mais gloria e louvor
+  de nosso Senhor. A saber.
+
+
+  CAP. 1.  
+
+  Que todas as fazendas que de oje por diante vierem aesta cidade, e forem della
+  asi propias como alheas paguem a hú douto por libra de grosos tanto das que
+  vierem taxandosse pouco mais ou menos porho preço que valerem a dinheiro de
+  contado ao tempo do resibo dellas aynda que se naõ vendaõ, como das que
+  forem por ho que ouverem custado de contado, para em todo aver ygualdade em
+  dita Ymposta.
+
+
+  2\. Reales, Barras de prata, Ouro, Diamantes, Perolas, Ambar, de qualquer
+  sorte de joyas, que venhaõ Paguaraõ tambem hum douto por Libra de grosos, do
+  valor ao tempo do recibo com declaraçaõ que os Reales, e ouro que vierem de
+  outro Reyno que naõ seeja de espanha Portugal e Galiza ou seus senhorios,
+  pagaraõ somente meo douto por Libra de grossos Mas vindo de ditas partes de
+  Espanha, por via de quaisquer outras pagara hum douto por Libra, e os Reales e
+  dinheiro que se comprarem na terra para mandar fora della saõ libres de esta
+  ymposta, o mesmo hos bisalhos ou joyas alheas que vierem para se encaminharem
+  fora da terra.
+
+
+  3\. Dinheiros de conta propia que se derem a deposito, ou a Cambio para qual
+  quer praça, ou contados consigo, compra de letras, e Rebates em sy a curtos
+  ou longos prazos, pagaraõ a duas placas por libras cento de grosos, de cada
+  ves qeu se derem, comprarem, ou Rebaterem exsetuando a Retornos de Francafort,
+  por quanto haõ ja pago da mesma partida
+
+
+  4\. Das policias de seguros que se fizerem por conta propia, ou alhea sobre
+  fazendas que forem de hua terra para outra fora destes estados pagaraõ duas
+  placas por libras de grossos e seraõ libres desta ymposta as que se fizerem
+  sobre fazendas que forem dellas terras ou vieren para elas por quato os mesmas
+  fazendas saõ de pagar a ymposta.
+
+
+  5\. \[A\]s fazendas qeu se comprarem na terra, e tornarem a vender nella se
+  aõ por libres desta imposta, o mesmo as fazendas que pagamó por entrada, e
+  se tornarem a carregar por conta dos mesmos donos. Bem entendido que os que
+  comprarem fazendas de se mesmo para mandar fora da terra, por sua conta ou
+  alhea pagaraõ a ymposta como se os comprassem de qualquer outra pesoa.
+
+
+  6\. \[?\] os corretores jurados, ou naõ jurados que ganharem de libras
+  quarenta de grossos aõ anno para sima paguaraõ huá placa por libra de
+  grosos, para que naõ aya ninguem exsetuado de cousa taõ necessario e
+  proveitossa para ho bem commun, Ordenandosse, que nenhú corretor jurado, por
+  sy nem por outrem acuse aos que onaõ saõ porque ho que niso for (foi)
+  culpado, sera prohibido atoda a naçaõ, para se naõ fazer com elle partida
+  alguá so pena de Beraha, nem sera admitido nas Esnogas sem primeiro pagar no
+  dano que ouver feito ao acusado, e cinquenta floris mais para esta imposta.
+
+
+  7\. As fazendas q vierem forem vendidas em qualquer parte destes estados, de
+  nossa ordem ou comprados e mandadas dali para outras pagaraõ amesma ymposta
+  como se aqui fosse feito
+
+
+  8\. Eas fazendas que forem trazidas aestes estados por as naaos \[naçaõs?\]
+  de guerra e se libertarem para seu donos pagaraõ amea placa por libra de
+  grosos do valor de contado, taxandoas aotempo do Recibo como as demais.
+
+
+  9\. E para que em tudo aja adevida ygualdade enaõ diferença nas contas qeu
+  de ojes em diante se mandarem atodas as partes asentaraõ con pena de Beraha
+  que cada qual ponha nellas esta imposta com titulo de consulado, e quem
+  discrepar diso ynda que com effeito opague de sua bolsa se ha por incorrido na
+  dita pena de Beraha e sabendosse procederaõ contra elle Rigurosamente.
+
+
+  10\. Para a Administraçaõ do Rendimento desta ymposta avera de cada kahal
+  dous diputados que servirem no mahamad, que pareserem mais suficientes para ho
+  cargo, asaber os mahamadot pasados elegeraõ cada hum em seu Kahal dos que
+  actualmente servem ditos dous diputados, e os mahamadot presentes no tempo de
+  suas eleicoins nomearaõ logo quais dous dos novos eleitos ajaõ de servir
+  este cargo, que juntamente com a eleiçaõ de Mahamad seraõ Publicados de
+  Theváh e assi yra seguindo sosecivamente todos hos anos.
+
+
+  11\. Avera hua caixa de tres chaves differentes em que se yra metendo o
+  Rendimento desta ymposta, a qual estara dous meses em poder de cada deputado
+  pasando de hum á outro do mesmo kahal, e para o começo se meteraõ os nomes
+  das tres keilot em hun vaso donde se tirara por sorte, primeiro, segundo,
+  terçeiro, e com a mesma hordem yra seguindo sempre em Toda sem aver mais
+  sortes e cada huá de ditas chaves estara em poder dos diputados de cada kahal
+  numerados 1.2.3. pelos quais numeros se ficara sabendo que sorte lhe sahiu
+
+
+  12\. Avera hum libro dos termos e asentos que se fizerem em que este acordo
+  sera escrito, e outro das contas desta ymposta, os quais estaraõ tambem dous
+  meses em maõ de cada deputado no modo da caixa asima dito. Bem entendido, qeu
+  entrara em poder dos do Kahal que for segundo por sorte, de maneira que nunca
+  estaraõ empoder dos deputados do kahal donde estuier a Caixa, e asi yra
+  seguindo em Roda subsesivamente.
+
+
+  13\. E sera cada hú obrigado ter contado que dever aesta ymposta, sobre ho
+  cargo de sua conciencia com todos as obrigacoins, juramentos, epenas de
+  berahot de nossa santa ley que toma desde logo sobre sy para ser apenado
+  nellas porqualquer cantidade por minima que seja que asabendas soneg\[ar\] ou
+  diso aplicar para qualquer outra obra pia porque tirandoó desta se tem como
+  dinheiro Roubado asantidade e oque cada hum achar que deve, trata cada tres
+  meses a caxa com hum vilhete asinado em que dira a contia para se Referir com
+  aberba que se fara no libro de cada partida os quais vilhetes andaraõ na
+  mesma caxa, enfiados os de cada kahal eano parte, para tambem por elles se
+  Referir a conta do libro.
+
+
+  14\. Os tres deputados que tiverem as chaves, seraõ obrigados ase juntar
+  passados os tres meses todos os domingos seguintes na casa aonde estiuer a
+  caxa por tempo de hum mes, no qual tempo cada hum sera obrigado a trazer ho
+  dinheiro que dever até aquele dia que ho trou xer em moeda corrente e naõ
+  acudindo, ditos deputados os daraõ por nota aõ mahamad do kahal donde for
+  Yahid, paraque naõ consintaõ entre nelle até com effeito pagar, e para que
+  sepossa saber os que naõ pagaõ sera cada hú obrigado trazer ho que dever,
+  ou vir declarar que naõ deve em dito tempo excepto os corretores que eses soo
+  no cabo do anno depois que souberem ó que aó ganhado viram pagar ó que
+  deverm de ymposta de suas correta jens, ou declarar que naõ devem, mas do qeu
+  eles negoçiarem, pagaraõ aymposta no mesmo tempo que os demais e paraque
+  nenhua pesoa falte do comprimento desta hordem avera nota de todos os Yahidim
+  de cada Kahal excepto os que forem pobres de sedaka onde se yra cotando os que
+  vierem fazer sua declaraçaõ, e nas Thevot se publicara em que paver esta
+  acaxa para ali viren fazer a pagá, ou declaraçaõ.
+
+
+  15\. Ditos seis diputados eraõ obrigados de se juntar pelo menos hua ves cada
+  quinzes dias ao domingo para traterm sobre cousas gerais da na ̃caõ e ver se
+  ha algua a que acudir, aqual junta sera na casa aonde estiver a caxa, e os
+  amas do Kahal de quem ativer sera obrigado a asistir com eles, e fazer o que
+  lhe mandarem.
+
+
+  16\. A despoza que se prizer (fazer?) por conta desta ymposta sera sempre por
+  asinaçaõ firmada por todos os diputados por os quais daraõ conta e por ho
+  libro da Receita em cujas verbas se declarara particularmente hó para qeu se
+  deu e qualquer asinaaõ qeu naõ seja firmada de todos senaõ levara en conta,
+  e esta daraõ aós novamente eleitos ao outro dia depois de acabado seu anno,
+  sem nenhú modo de duvida, nem Retençaõ, com pena de Beraha
+
+
+  17\. Faltando algús das seís, por ausencia ou caso com que naõ possaõ
+  asistir ho mahamad do kahal donde forem, elegera outros em sua praça do mesmo
+  Mahamad para em quanto durar seu ympedimento
+
+
+  18\. Nas couzas que os seis deputados ouverem de determinar sera sempre
+  aomenos por voto de quatro em que entraraõ os de todas as tres keilot e os
+  dous Restantes seraõ obrigados a assinar ho que se acordar com ditos quatro
+  votos, mas naõ estando conformes na forma dita se juntaraõ todos os tres
+  mahamadot e votaraõ sobre ocaso decubertamente que naõ se averiguara com
+  menos de doze votos sem os quais fiqara nullo.
+
+
+  19\. Do Rendimento desta ymposta se acudira atodos os casos gerais da naçaõ
+  para bem econservaçaõ sua, com declaraçaõ que hos casos particulares
+  subcedidos por defeitos da naçaõ se tem tambem por gerais para se acudir
+  aeles com tais e aconteçendo, algú particular subçeso os diputados seraõ
+  obrigados a acudir a elle pedindo se lho porem acusta da parte a quem tocar
+  tendo com que pagar, e ysto no que toca a dinheiro, que sendo penas corporais
+  se acudira sempre aellas como cousa geral, advertindo que os gastos dos que
+  tiverem posibilidade seraõ a sua custa
+
+
+  20\. Eas determinaçoins dos casos qeu se offerecerem se saõ jerais ou
+  particulares, faraõ os seis deputados com voto de quatro uniformes em que
+  entrem das tres keilot e em falta de naõ acordarem se juntaraõ hos tres
+  mahamadots e com doze votos ficara de acordo.
+
+
+  21\. De dito Rendimento se contribuira a os esmoleres de esta cidade para hos
+  pobres della con trinta florins cada mes que lenara ho diputado em cujo poder
+  estiver a caxa no saquinho que para iso daõ em nome de toda anaçaõ.
+
+
+  22\. Ecomo ho principal intento efundamento desta ymposta he para nos
+  aliviarmos do excesivo gasto que tomos con hos pobres de nossa naçaõ
+  portuguesa e epanhola, pois aqui totalmente carecen de Remedio, ou grangeria,
+  Acordaraõ se precure encaminhalos para terras de Judezmo aonde mais
+  commodamente possaõ pasar avida na forma seguinte
+
+
+  Que hos pobres que daqui em diante vierem, de Portugal, e Castela, somente por
+  mass em direitura seraõ gerais posto que vaõ a qualquer das ters kehilot,
+  Aos quais eos diputados proveraõ com alguá ajuda comforme aque aopresente
+  seda da sedaka a semelhantes familias procurando encaminhalos com abrevidade
+  posivel preferindoos a os ja estantes na terra, e sendo algum ynhabil ho yraõ
+  provendo desta bolsa para seu Remedio eos que ado ecerem seraõ curados por ho
+  medico da Hebra e oficiais della do kahal aonde continuarem e a desperza sera
+  por esta conta que se lhe pagara no fin da doença por Asinaçaõ dos
+  Parnassim da Hebra de seu kahal.
+
+
+  23\. Tambem avemos por gerais os pobres moradores aopresente nesta terra de
+  nossa naçaõ portuguessa e espanhola que naõ estaõ admitidos nos rois da
+  sedaka que cada kahal logo deu ynda que ao diante ho sejaõ em qualquer das
+  kehilot dos quais os diputados yraõ despacsando os que em suas conciencias
+  entenderem saõ necessitados, e convem primeiro encaminharse acordandosse niso
+  por votos como nos mais casos, ou tirandoos por sortes como melhor lhes
+  parecer.
+
+
+  24\. \[Q\] para encaminhamento dos pobres providos a o presente da sedaka que
+  ficaõ sendo particulares a cada kahal hos seus conforme aos Rois que deraõ
+  aplicaraõ os diputados a Cantidade de dinheiro que lhe parecer que sempre
+  sera pouco mais ou menos da que forem Resolvendo despendor com os Jerais dando
+  credito em libro de hum terço acada kahal ea encontro selhe yra dando debito
+  do que forem gastando com ho encaminhamento dos que seu mahamad nomear.
+
+
+  25\. Que para comodamente poderem fazer seu caminho se dara sem esepsaõ,
+  asaber, sendo hua soó pesoa setenta florins e sendo mais sesenta florins acad
+  hua como seja de treze annos para cima, e da hy para baixo atrinta florins, e
+  de mama a vinte florins dedarando que a nenhua casa por mais familia que tenha
+  se naõ podera dar pasante de quatrocentos florins, e deste dinheiro selhes
+  dara aqui ho menos que for posivel e oresto repartido pelos lugares por donde
+  ou verem de passar. Bem entendido que nenhua pesoa sera encaminhada para mais
+  proxima terra de Judezmo que Ytalia ou Polonia, e a os que naõ forem pelo
+  menos para ditas terras de Judezmo, se naõ dara ajuda alguá dando aos que
+  forem despachados as cartas de abonaçaõ e Recomendaçaõ que parescerem
+  necesarias aos seis diputados porquem seraõ asinadas.
+
+
+  26\. Q ve hos diputados daraõ nos despachos que fizerem de pobres gerais ho
+  tempo que lhes parescer para se aviarem como naõ passe asaber. de sabat
+  qadosh ate Rosasanah, ou de Rosasanah ate Sabat Gadol, e as pesoas despachadas
+  que por algú ynconveniente naõ fizerem seu caminho poderaõ pretender novo
+  despacho, por quanto hos que se naõ comprirem no tempo que se lhe sinalar na
+  forma dita ficaõ nullos.
+
+
+  27\. \[E\] Sendo por hos ditos diputados notificada qualquer pesoa para se
+  aver deyr lhe naõ admitiraõ disculpa algúa, e naõ querendo fazer seu
+  caminho sera excluyda da sedaka para nunca mais entra nella pois deixa de
+  seguir ho que lhe comvem para seu Remedio.
+
+
+  28\. Eavendo comodo de se yr encaminhando pobres, ou ocasiaõ de cousas
+  necesarias ao prol da naçaõ em quanto naõ ouver dinheiro bastante para yso
+  na caixa deszta ymposta, Poderaõ hos diputados tomar a cambio ho que lhes for
+  necessario por conta das tres keilot por yguais partes para se fazer ho
+  pagamente do primeiro Rendimento da ymposta e ficarem desobrigadas, e Para
+  segurança do diputados se naõ por obrigados cada kahal por huá terca parte,
+  e avendo com a ajuda del \[?\]io dinheiro sobrado nesta caxa como passe de
+  Libras cento de grosos aver na conta do libro por naõ ter gozado tanto, se
+  lhe pagara entaõ do contado para ficarem todas ynteiradas de suas sinaladas
+  somas, e antes disto naõ e ho mais dinheiro ses Repartira no fim do anno hum
+  terço a cada kahal para ajuda de seus gastos e jehirem aliviando.
+
+
+  29\. Que hos diputados escreveraõ loguo (logno?), a frança e as mais partes
+  que lhes bem parecer avizando como nenhu pobre que delos venha sera provido,
+  nem encaminhado por quanto ali esta mais parto do caminho direito de Ytalia e
+  Turquia Con declaraçaõ que nenhu pobre que venha das tais partes, ou de
+  outra qualquer de Judesmo seija quem quer que for podera ser provida, nem
+  encaminhado, naõ tam somente desta imposta, mas nem ayuda admitido a sedaka
+  de nemhua das kehilot para que assi escusem de se vir meter em terra tam cara
+  e yncomoda como esta o he para viverem ou fazer caminho Pois ysto sóo serve
+  para os qeu ja ca estaõ e vierem em direiura de espanha, perseguidos de
+  trabalhos abuscar a observançia da Ley del Dio.
+
+
+  30\. Que nenhua Pesoa de oje em diante so pena de Beraha, posa falar por sy,
+  enm por outrem nestes estados a ningem em nome da naçaõ senaõ ditos
+  diputados, ou quem eles ordenarem por ser assi mais conveniente á authoridade
+  dela.
+
+
+  31\. E que nenhua pesoa deitada de qualquer das esnogas sera admitida em outra
+  sem dar ynteira satisfaçaõ a pena que lhe foy ymposta no seu kahal, e
+  sahindosse por sua vontade sem primeiro pagar todo ho qeu la dever.
+
+
+  32\. Que Parecendo por ho tempo em diante acresentar, ou deminuir do acima,
+  contheudo seraõ para iso juntos os tres Mahamadots que entaõ servirem onde
+  se tratara meudamento a causa e con voto de doze uniformes enaõ menos se
+  Resolvera publicando ho novo acordo para vir a noticia de todos de que
+  parecendo necesario se dara a cada hú copia.
+
+
+  E porque todo ho acima contheudo a sentaraõ de comum consentimento, e acordo
+  por assi parecer util e necesario a o bem jeras, se obrigaraõ os tres
+  Mahamadots que aó presente servem a baixo asinados de ho comprir efazer
+  comprir cada hú em seu Kahal atodos os yahidim delle que ao presente ha e
+  aodiante vierem dando a cada qual copia ympresa para se governar conforme a
+  ella e no libro dos termos de cada kahal onde este acordo sera escrito fara ho
+  mahamad termo depois do da eleicaõ em que o novo mahamad se obrigue tambem
+  aosobre dito qeu seja para mais glori, e louvor del Dio Bendito, e augmento de
+  seu santo serviço, feito em Amsterdam ut supra
+
+
+  Jaacob Coem  
+
+  Abrahao Ysrael da Silva Eleazar
+
+
+  Jeshurum Ribr’
+
+
+  Joseph da Costa  
+
+  David Curiel
+
+
+  Josua Serafasil
+
+
+  Aabram dragnos?
+
+
+  O’do Tenoreo
+
+
+  David Israel Pinto \[illegible\]
+
+
+  Abraham Gabay Yshaque israel men... Joseph Nahemias Torres A’ David Areril?  
+
+  ?
 ---
 <h2 style="text-align: center">Introduction</h2>
 
