@@ -19,7 +19,10 @@ description: Talya Fishman discusses rabbinic views on the Jewishness of
 ---
 <div dir="rtl">
 
+
 שמעון בן צמח דורן
+
 </div>
+
 
 שמעון בן צמח דורן
