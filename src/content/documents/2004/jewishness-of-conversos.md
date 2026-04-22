@@ -17,3 +17,7 @@ text_location:
 description: Talya Fishman discusses rabbinic views on the Jewishness of
   conversos in the early modern period.
 ---
+<div dir="rtl">
+
+שמעון בן צמח דורן
+</div>
