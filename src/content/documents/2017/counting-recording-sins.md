@@ -232,7 +232,8 @@ zu thun pflegt/ sicherlich beraiten/
 umb solche mit frucht ver-  
 richten könne.
 
-## Zu ehren deß Allmächtigen  
+## Zu ehren deß Allmächtigen
+
 Gottes/ und zum hale der bußfertigen  
 Sünder gestellt und in  
 Truck geben.
@@ -406,8 +407,10 @@ ansehung der Personen.
 **______________________________________________________**
 Ob du zu aller zeit zum bösen ge-  
 naigt und berait gewesen.
-**_______________________________________________________**
-Ob du mit Geistlichen gesündigt. **______________________________________________________**
+**_______________________________________________________**  
+Ob du mit Geistlichen gesündigt.
+
+**______________________________________________________**
 Ob du stumme und Sodomiti-  
 sche Sünd begangen.
 **_____________________________________________________**  
@@ -482,10 +485,16 @@ Ob du sie mit gewalt auß ihres
 Vatters Hauß entführt.
 **_________________________________________________________**  
 Ob du in deinem Hauß ein Hur  
-oder Beyschläfferin aufhaltest. **_________________________________________________________**  
+oder Beyschläfferin aufhaltest.
+
+**_________________________________________________________**  
 Ob du ungebürliche sachen getriben  
-mit dir selbst /oder mit andern. **___________________________________________________________**
-Ob du andere etwas böses ge-lehrt. **____________________________________________________________**
+mit dir selbst /oder mit andern.
+
+**___________________________________________________________**  
+Ob du andere etwas böses ge-lehrt.
+
+**____________________________________________________________**
 
 [new page]  
 Ob du andere zu bösem ange-  
@@ -493,14 +502,18 @@ raizt und geholffen.
 **___________________________________________________________**
 Ob du mit schmeichlen/ Kupp-  
 len unnd andern mittlen an-  
-dern gelegenheit darzu gegeben. **___________________________________________________________**
+dern gelegenheit darzu gegeben.
+
+**___________________________________________________________**
 Ob du kleinen Kindern ärger-  
 nuß geben.
 **____________________________________________________________**
 Ob du im Ehestandt etwas un-  
 flätiges gehandelt/ tc.
+**___________________________________________________________**  
+Ob du die Geburt verhindert.
+
 **___________________________________________________________**
-Ob du die Geburt verhindert. **___________________________________________________________**
 Ob du Mißgeburten zuwegen  
 bracht.
 **___________________________________________________________**
@@ -530,8 +543,10 @@ bündtnuß geschehen.
 **____________________________________________________________**
 Ob sie irgend wegen verhinder-  
 nuß nicht gültig sey.
+**__________________________________________________________**  
+Ob du den Heurat widerruefen.
+
 **__________________________________________________________**
-Ob du den Heurat widerruefen. **__________________________________________________________**
 Ob du einer leichtglaubigen Per-  
 son die Ehe versprochen/ und  
 sie dadurch verführt.
@@ -546,5 +561,6 @@ fertig geweßt/ unbeständig / ey-
 tel/ umbschweiffig/ mutwillig/  
 liederlich/weibisch/ dich angestrichen/  
 und zuvil auff die zierd  
-und geschmuck deß Leibs gesehen. **____________________________________________________________**
+und geschmuck deß Leibs gesehen.
 
+**____________________________________________________________**
