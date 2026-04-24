@@ -232,11 +232,11 @@ zu thun pflegt/ sicherlich beraiten/
 umb solche mit frucht ver-  
 richten könne.
 
-Zu ehren deß Allmächtigen  
+## Zu ehren deß Allmächtigen  
 Gottes/ und zum hale der bußfertigen  
 Sünder gestellt und in  
 Truck geben.
----
+
 Getruckt zu München/ durch  
 Nicolaum Henricum.  
 M. DC. XXXV
