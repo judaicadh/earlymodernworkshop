@@ -232,12 +232,12 @@ zu thun pflegt/ sicherlich beraiten/
 umb solche mit frucht ver-  
 richten könne.
 
-Zu ehren deß Allmächtigen
-Gottes/ und zum hale der bußfertigen
+Zu ehren deß Allmächtigen  
+Gottes/ und zum hale der bußfertigen  
 Sünder gestellt und in  
-Truck geben.  
-***
-Getruckt zu München/ durch
+Truck geben.
+---
+Getruckt zu München/ durch  
 Nicolaum Henricum.  
 M. DC. XXXV
 
@@ -248,7 +248,8 @@ Newer Beichtform of 1635, printed in Munich—“Practica” section
 Diser Underrichtung.
 Es stehet dise gantze Practica
 Unserer underrichtung/ wie
-du dich beraiten sollest/ in Nachfolgenden stucken.**
+du dich beraiten sollest/ in
+Nachfolgenden stucken.**
 
 **Zum Ersten:**
 Soltu auff die Knye fallen/ und
@@ -324,7 +325,8 @@ bey handen haben wirst/ daß auff-
 geschittene Brieflein deroselben
 zedilen herauß ziehen oder auffheben/
 also daß dasselbige auff der an-
-geklebten weissen seyten außgezogen sey.  
+geklebten weissen seyten außgezogen 
+sey.  
 **Zum vierdten.**
 Alßdann gehe mit desem Täflein
 hin zum Priester/ und heb an von  
@@ -351,7 +353,6 @@ und schiebe ein jegkliches Brieflein
 wider an sein Ort. Sihe/ da hastu
 die Practicam. Was ist leichters?
 Was ist hurtigers?
-
 
 Newer Beichtform 1635 table of sins 6th commandment
 
@@ -394,116 +395,153 @@ nicht vonnöten daß du etwas auffschreibt.
 
 [new page]
 
-EMW 2017 77
-
 Gedancken und Begirden.
-Belustigung in unrainen Gedancken ́
-
-**_____________________________________________________** Ob man solche gesucht und dar-  
-nach getrachtet. **______________________________________________________**
-
+Belustigung in unrainen Gedancken
+**_____________________________________________________**
+Ob man solche gesucht und dar-  
+nach getrachtet. 
+**______________________________________________________**
 Ob man solche angenommen ohn  
-ansehung der Personen. **______________________________________________________** Ob du zu aller zeit zum bösen ge-  
-naigt und berait gewesen. **_______________________________________________________** Ob du mit Geistlichen gesündigt. **______________________________________________________** Ob du stumme und Sodomiti-  
-sche Sünd begangen. **_____________________________________________________**  
+ansehung der Personen.
+**______________________________________________________**
+Ob du zu aller zeit zum bösen ge-  
+naigt und berait gewesen.
+**_______________________________________________________**
+Ob du mit Geistlichen gesündigt. **______________________________________________________**
+Ob du stumme und Sodomiti-  
+sche Sünd begangen.
+**_____________________________________________________**  
 Ob su in den Nächtlichen be-  
-trug verwilligt. **_____________________________________________________**  
+trug verwilligt.
+**_____________________________________________________**  
 Ob du ursach darzu geben/  
-oder befördert habest. **_____________________________________________________**  
+oder befördert habest.
+**_____________________________________________________**  
 Ob du böse  
 Lieb gehabt / und wie  
-lang. **________________________________________________________** Ob du Kunst und Getränck ge-  
-braucht / die Lieb zu bekommen. **________________________________________________________**
+lang.
+**________________________________________________________**
+Ob du Kunst und Getränck ge-  
+braucht / die Lieb zu bekommen.
+**________________________________________________________**
 
 [new page]  
 Ob du geschenck verehrt zu ei-  
-nem bösen endt. **__________________________________________________________**
-
-Ob du unzüchtige Lieder gesungen.
-
+nem bösen endt.
 **__________________________________________________________**
-
-Ob du gaile Wort / leichtfertig Gespräch oder Historyen
-
-EMW 2017 78
-
+Ob du unzüchtige Lieder gesungen.
+**__________________________________________________________**
+Ob du gaile Wort / leichtfertig
+Gespräch oder Historyen
 bey andern gehabt oder gelesen.
-
 **___________________________________________________________**
-
 Ob du ungebürliche Bulenbrief  
-geschriben oder gehabt. **__________________________________________________________** Ob du unzüchtige Bilder gehabt. **___________________________________________________________** Ob du dergleichen Bücher gele-  
-sen/gehabt/ oder andern zu lesen geben. **___________________________________________________________** Ob du dich ungebürlich entblößt. **____________________________________________________________** Ob du andere unzüchtige ange-  
-sehen. **____________________________________________________________** Ob du andere ungebürlich ange-  
-griffen. **____________________________________________________________** Ob du andere gekußt/mit ihnen  
+geschriben oder gehabt.
+**__________________________________________________________**
+Ob du unzüchtige Bilder gehabt.
+**___________________________________________________________**
+Ob du dergleichen Bücher gele-  
+sen/gehabt/ oder andern zu lesen geben.
+**___________________________________________________________**
+Ob du dich ungebürlich entblößt.
+**____________________________________________________________**
+Ob du andere unzüchtige ange-  
+sehen.
+**____________________________________________________________**
+Ob du andere ungebürlich ange-  
+griffen.
+**____________________________________________________________**
+Ob du andere gekußt/mit ihnen  
 gerungen/ unnd dergleichen  
-Mutwillen getriben. **____________________________________________________________**
+Mutwillen getriben.
+**____________________________________________________________**
 
 [new page]
 
 Ob du unzüchtigen Danzen bey-  
-gewohnt. **________________________________________________________** Ob du dich freywillig verunrai-  
-nigt oder befleckt. **________________________________________________________** So du mit einer Person gesün-  
+gewohnt.
+**________________________________________________________**
+Ob du dich freywillig verunrai-  
+nigt oder befleckt.
+**________________________________________________________**
+So du mit einer Person gesün-  
 diget/ da mustu sagen alle ge-  
 legenheit: Als/Ob sie sey frey/v  
 erbunden/ verehelicht/ ob sie  
 dir mit Freundtschafft ver-  
 wandt/oder ob sie GOtt ver-  
-lobt/ und dergleichen/ tc. **_________________________________________________________** Ob du die Ehe gebrochen. **_________________________________________________________** Ob du an verdächtigen Ort gangen.
-
-EMW 2017 79
-
+lobt/ und dergleichen/ tc.
 **_________________________________________________________**
-
+Ob du die Ehe gebrochen.
+**_________________________________________________________**
+Ob du an verdächtigen Ort gangen.
+**_________________________________________________________**
 Ob du sie darzu genöttiget.
-
 **_________________________________________________________**
-
 Ob du sie mit gewalt auß ihres  
-Vatters Hauß entführt. **_________________________________________________________**  
+Vatters Hauß entführt.
+**_________________________________________________________**  
 Ob du in deinem Hauß ein Hur  
 oder Beyschläfferin aufhaltest. **_________________________________________________________**  
 Ob du ungebürliche sachen getriben  
-mit dir selbst /oder mit andern. **___________________________________________________________** Ob du andere etwas böses ge-lehrt. **____________________________________________________________**
+mit dir selbst /oder mit andern. **___________________________________________________________**
+Ob du andere etwas böses ge-lehrt. **____________________________________________________________**
 
 [new page]  
 Ob du andere zu bösem ange-  
-raizt und geholffen. **___________________________________________________________** Ob du mit schmeichlen/ Kupp-  
+raizt und geholffen.
+**___________________________________________________________**
+Ob du mit schmeichlen/ Kupp-  
 len unnd andern mittlen an-  
-dern gelegenheit darzu gegeben. **___________________________________________________________** Ob du kleinen Kindern ärger-  
-nuß geben. **____________________________________________________________** Ob du im Ehestandt etwas un-  
-flätiges gehandelt/ tc. **___________________________________________________________** Ob du die Geburt verhindert. **___________________________________________________________** Ob du Mißgeburten zuwegen  
-bracht. **___________________________________________________________** Ob du sonst etwas unflätiges  
-begangen. **____________________________________________________________**
-
-Ob du dein höchstes Gut auff  
-Unzucht gesezt. **____________________________________________________________** Ob du ganz und gar der Un-
-
-EMW 2017 80
-
-zucht ergeben.
-
+dern gelegenheit darzu gegeben. **___________________________________________________________**
+Ob du kleinen Kindern ärger-  
+nuß geben.
 **____________________________________________________________**
-
+Ob du im Ehestandt etwas un-  
+flätiges gehandelt/ tc.
+**___________________________________________________________**
+Ob du die Geburt verhindert. **___________________________________________________________**
+Ob du Mißgeburten zuwegen  
+bracht.
+**___________________________________________________________**
+Ob du sonst etwas unflätiges  
+begangen.
+**____________________________________________________________**
+Ob du dein höchstes Gut auff  
+Unzucht gesezt.
+**____________________________________________________________**
+Ob du ganz und gar der Un-
+zucht ergeben.
+**____________________________________________________________**
 Ob dich rew / daß du nicht mehr  
-böses gestifftet. **__________________________________________________________**
+böses gestifftet.
+**__________________________________________________________**
 
 [new page]  
-Ob du noch etwas habest das dich in deinem gewissen truckt.
+Ob du noch etwas habest das
+dich in deinem gewissen truckt.
 
 Ob du bißhero etwas gehabt/  
 welches du auß forcht nicht  
-hast dörffen beichten. **___________________________________________________________** Welcher gestalt die Eheliche ver-
-
+hast dörffen beichten.
+**___________________________________________________________**
+Welcher gestalt die Eheliche ver-
 bündtnuß geschehen.
-
 **____________________________________________________________**
-
 Ob sie irgend wegen verhinder-  
-nuß nicht gültig sey. **__________________________________________________________** Ob du den Heurat widerruefen. **__________________________________________________________** Ob du einer leichtglaubigen Per-  
+nuß nicht gültig sey.
+**__________________________________________________________**
+Ob du den Heurat widerruefen. **__________________________________________________________**
+Ob du einer leichtglaubigen Per-  
 son die Ehe versprochen/ und  
-sie dadurch verführt. **__________________________________________________________** Ob du deine Sinn nit im Zaum  
-gehalten. **__________________________________________________________**. Ob du fürwitzig gewesen. **___________________________________________________________** Ob du mit geberden bist leich-  
+sie dadurch verführt.
+**__________________________________________________________**
+Ob du deine Sinn nit im Zaum  
+gehalten.
+**__________________________________________________________**.
+Ob du fürwitzig gewesen.
+**___________________________________________________________**
+Ob du mit geberden bist leich-  
 fertig geweßt/ unbeständig / ey-  
 tel/ umbschweiffig/ mutwillig/  
 liederlich/weibisch/ dich angestrichen/  
