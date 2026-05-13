@@ -28,6 +28,9 @@ content:
       - name: author
         label: Author
         type: string
+      - name: presenter
+        label: Presenter
+        type: string
       - name: institution
         label: Institution
         type: string
