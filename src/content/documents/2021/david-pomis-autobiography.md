@@ -10,14 +10,13 @@ event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Health and Wellbeing in the Jewish Experience
 language:
-  - "Hebrew "
+  - "Hebrew"
 publication_location:
   - Venice
 text_location:
   - Pisa
-description: >-
-  \_Zemah David, Dittionario novo Hebraico…Dechiarato in Tre Lingu\_e (Venice:
-  1587)
+description:
+	- *Zemah David, Dittionario novo Hebraico…Dechiarato in Tre Lingue* (Venice: 1587)
 
 
   David de’ Pomis (152?–15??) has long been known to Jewish historians for his
