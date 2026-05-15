@@ -163,7 +163,7 @@ Footnotes:
 
 [^4]: It cannot be clarified completely whether Widmann meant the so called big or small missive. The small (and missing) missive [starts with: אם על כל בני ישראל] was published already in 1729. The big missive [usually referred to as מכתב אהבה] was published on the 14th of January 1732. Both works were written by Johann Müller or are attributed to him.
 
-[^5]: ³ It was another missionary tract: Joannis Anastasii Freylinghausenii ‎‫לב לב בנים על אבותם [...]‬ ‫דאש הערץ פון דען‬ [...] ‫קינדרן צו אירן עלטרן וויידר גקרט‬ [...] Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731. 246
+[^5]: ‫לב לב בנים על אבותם [...] דאש הערץ פון דען [...] ‎It was another missionary tract: Joannis Anastasii Freylinghausenii‎ קינדרן צו אירן עלטרן וויידר גקרט. [...] ‎Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731.‬ 24
 
 [^6]:
 
