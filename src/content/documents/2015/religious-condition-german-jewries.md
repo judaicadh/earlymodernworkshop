@@ -60,32 +60,21 @@ negative view on some of his contemporary coreligionists, a view which he enunci
 
 On the Pietists’ mission to the Jews and the travel journals of the missionaries:
 
-- -  BELTZ, WALTER: The Importance of Diaries in Methodological Discussions regarding Religious Studies (Germ.), in: Jewish History Quarterly (2006), No. 4, 496-503.
-- -  BOCHINGER, CHRISTOPH: Dialogues Between Travelling Studiosi and Jews from Religious-Studies Perspective (Germ.), in: JHQ (2006), No. 4, 509-520.
-- -  CLARK, CHRISTOPHER: The Politics of Conversion. Missionary Protestantism and the Jews in Prussia 1728–1941, Oxford 1995.
-- -  ELYADA, AYA: A Goy Who Speaks Yiddish. Christians and the Jewish Language in Early Modern Germany, Stanford 2012.
-- -  RYMATZKI, CHRISTOPH: Hallischer Pietismus und Judenmission. Johann Heinrich Callenbergs Institutum Judaicum und dessen Freundeskreis (1728-1736), Tübingen 2004.
-- -  RYMATZKI, CHRISTOPH: The Theological Argumentation of the Institute's Writings for the Mission to the Jews and the Jewish Reactions to this (Germ.), in: JHQ (2006), No. 4, 615-626.
-- -  VELTRI, GIUSEPPE: Callenberg Institute’s Diaries: Source Material for Studies of Jewish Culture of 1st Half of 18th Century? (Germ.), in: JHQ (2006), No. 4, 652-661.
+- BELTZ, WALTER: The Importance of Diaries in Methodological Discussions regarding Religious Studies (Germ.), in: Jewish History Quarterly (2006), No. 4, 496-503.
+- BOCHINGER, CHRISTOPH: Dialogues Between Travelling Studiosi and Jews from Religious-Studies Perspective (Germ.), in: JHQ (2006), No. 4, 509-520.
+- CLARK, CHRISTOPHER: The Politics of Conversion. Missionary Protestantism and the Jews in Prussia 1728–1941, Oxford 1995.
+- ELYADA, AYA: A Goy Who Speaks Yiddish. Christians and the Jewish Language in Early Modern Germany, Stanford 2012.
+- RYMATZKI, CHRISTOPH: Hallischer Pietismus und Judenmission. Johann Heinrich Callenbergs Institutum Judaicum und dessen Freundeskreis (1728-1736), Tübingen 2004.
+- RYMATZKI, CHRISTOPH: The Theological Argumentation of the Institute's Writings for the Mission to the Jews and the Jewish Reactions to this (Germ.), in: JHQ (2006), No. 4, 615-626.
+- VELTRI, GIUSEPPE: Callenberg Institute’s Diaries: Source Material for Studies of Jewish Culture of 1st Half of 18th Century? (Germ.), in: JHQ (2006), No. 4, 652-661.
 
-  On the ‘Libes briv,’ Isaac Wetzlar and the Jewish community of Celle:
-  - -  FAIERSTEIN, MORRIS: The Libes Briv of Isaac Wetzlar, Atlanta 1996.
-  - -  LINDEMANN, SILKE: Jüdisches Leben in Celle. Vom ausgehenden 17. Jahrhundert bis
-  
-    zur Emanzipationsgesetzgebung 1848, Bielefeld 2004.
-  - -  ROHRBACHER, STEFAN: Isaak Wetzlar in Celle. Ein jüdischer Reformer vor der Zeit
-  
-    der Aufklärung, in: Juden in Celle. Biographische Skizzen aus drei Jahrhunderten, (hg.
-  
-    v. der Stadt Celle), Celle 1996, 33-66.
-  - -  SILUK, AVRAHAM: Isaac Wetzlar's Pietist Surroundings. Some Reflections on Jewish–
-  
-    Christian Interaction and Exchange in 18th Century Germany, in: Transversal: Journal
-  
-    for Jewish Studies 13/1 (2015), 12-19.
-  - -  VOSS, REBEKKA: Love Your Fellow As Yourself: Early Haskalah Reform as Pietist
+On the ‘Libes briv,’ Isaac Wetzlar and the Jewish community of Celle:
 
-Renewal, in: Transversal: Journal for Jewish Studies 13/1 (2015), 4–11.
+- FAIERSTEIN, MORRIS: The Libes Briv of Isaac Wetzlar, Atlanta 1996.
+- LINDEMANN, SILKE: Jüdisches Leben in Celle. Vom ausgehenden 17. Jahrhundert bis zur Emanzipationsgesetzgebung 1848, Bielefeld 2004.
+- ROHRBACHER, STEFAN: Isaak Wetzlar in Celle. Ein jüdischer Reformer vor der Zeit der Aufklärung, in: Juden in Celle. Biographische Skizzen aus drei Jahrhunderten, (hg. v. der Stadt Celle), Celle 1996, 33-66.
+- SILUK, AVRAHAM: Isaac Wetzlar's Pietist Surroundings. Some Reflections on Jewish– Christian Interaction and Exchange in 18th Century Germany, in: Transversal: Journal for Jewish Studies 13/1 (2015), 12-19.
+- VOSS, REBEKKA: Love Your Fellow As Yourself: Early Haskalah Reform as Pietist Renewal, in: Transversal: Journal for Jewish Studies 13/1 (2015), 4–11.
 
 ## Source 1 Translation
 
