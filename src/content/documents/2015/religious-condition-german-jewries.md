@@ -27,7 +27,7 @@ description: This presentation focuses on Jewish attitudes towards non-Jews in
   of all social strata, genders, ages and educational backgrounds. Such
   interactions yielded many different forms of individual and communal Jewish
   reactions. Examining cases of missionary encounters with the large urban Jewry
-  of Frankfurt (Main) and the smaller, rural _kehilah_ of Celle (in the
+  of Frankfurt (Main) and the smaller, rural *kehilah* of Celle (in the
   Principality of Hanover), I will discuss the different levels of openness Jews
   displayed in their interaction with the missionaries and their connection to
   the respective communal structure and living conditions of each settlement. In
@@ -37,5 +37,31 @@ description: This presentation focuses on Jewish attitudes towards non-Jews in
   structures. Finally, I will contrast the findings on the religious condition
   of the Jewry of Celle with the critique on the matter made by Isaak Wetzlar,
   the author of the ‘Libes briv’ (see the presentation by Rebekka Voß) and a
-  member of the Celle _kehilah_.
+  member of the Celle *kehilah*.
 ---
+## Introduction
+
+## Source 1 Translation
+
+1. An extract from the travelling journal of JOHANN GEORG WIDMANN on his journey to Northern Germany, 01.07.1732, Archives of the Francke Foundation in Halle (Saale), Main Archive (AFSt/H), K 55
+
+## Source 2 Translation
+
+2. An extract from the travelling journal of JOHANN ANDREAS MANITIUS on his journey to the Harz Mountain Region, Franconia, Hesse and Northern Germany, 01.01.1733, AFSt/H, K 57
+
+## Source 3 Translation
+
+3. The Diary of JOHANN ANDREAS MANITIUS about his journey to the Harz district, Franconia, Hesse and Northern Germany starting 1/1/1773, AFSt/H, K 57
+
+## Source 1 Original Text
+
+1. Auszug aus: Tagebuch von JOHANN GEORG WIDMANN über seine Reise nach Norddeutschland, 01.07.1732, Archiv der Francksche Stiftung/Hauptarchiv (AFSt/H), K 55
+
+## Source 2 Original Text
+
+2. Ein Auszug aus dem Reisetagebuch von JOHANN ANDREAS MANITIUS auf seiner Reise in den Harz, nach Franken, Hessen u. Norddeutschland, 01.01.1733, AFSt/H, K 57
+
+## Source 3 Original Text
+
+3. Tagebuch von JOHANN ANDREAS MANITIUS über seine Reise in den Harz, nach Franken, Hessen und Norddeutschland vom 1.1.1733, AFSt/H, K 57
+
