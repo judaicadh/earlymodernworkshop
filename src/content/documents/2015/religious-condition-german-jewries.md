@@ -286,7 +286,7 @@ Footnotes:
 
 [^32]: Ein weiterer Missionstraktat. Joannis Anastasii Freylinghausenii ‫דאש הערץ פון דען קינדרן צו‬‎ [...] ‫לב לב בנים על אבותם‬‎ [...] ‫אירן עלטרן וויידר גקרט‬‎.[...] Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731.
 
-[^33]: 
+[^33]: ‫דאש בוך פון דען גשיקטן דער שלוחים‬‎ [...] ‫ספר מעשי השלוחים‬‎. [...] [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
 
 [^34]: 
 
