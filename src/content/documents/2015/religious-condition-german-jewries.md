@@ -131,7 +131,7 @@ After he heard all of that, he kept the Letter and the YOREH DEAH, and one could
 
 Since we didn’t see anyone else, we went back to the house, where we have been the day before, but the Jew was not home. We took our leave from the woman and because the weather was good, took off at noon and left Celle behind.
 
-++*The other missionary added his own impression from this (his second) visit to Celle*[^19]++
+<u>*The other missionary added his own impression from this (his second) visit to Celle*[^19]</u>
 
 The Jew Wetzlar had come home the night before. I went to the door of his study with my companion, but he was just getting his beard shaved. He apologized because he had to work all day. He hoped we would not think ill of him for that. I noticed from all these things that this Jew who had taken a book in his home, together with others has already reported everything [to him = Wetzlar]. Wezlar [in the previous encounter with Widmann (A.S.)] has reached the point, where we talked about Christ’s godliness, and I was prepared to give him numerous proofs on that. But since “YOREH DEAH“ also talks about that, he will be able to reflect on this question using it. One needs to eliminate and to tear down many Jewish strongholds, until one can start laying the ground [for conversion (A.S.)] and bring the Jews onto the right path. The ones in Celle are easier to talk to than others. This comes as a result from their belief, that they can win the arguments with gentility and flattery. But one should try harder with Wezlar, because his folks still prove themselves affectionate and friendly.
 
