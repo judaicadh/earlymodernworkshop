@@ -251,7 +251,7 @@ Footnotes:
 
 *Jew: The GOMMORA [= section of the Talmud] doesn't say that he will be a King. I: A King is a MASCHIACH. Jew: I don't mean a king like all other kings of the world. I: You can see it in this chapter; divine things will be spoken of him. The heathen would ask him like a nation asks their God Es. ch. 8. He rules and judges according to his heart, not according to what he sees or hears. [...] Jew: **To believe all of this is not reasonable at all!** I: it seemed as if it would be against all reason, when Abraham needed to kill his son, from which a great people should be born. Jew: God tested him. I: Abraham didn't know that, and Isaac also believed it, and followed God's commanded to take wood to death and he let himself be bound, because God's word is to be believed, also over reason*. AFSt/H K 56, fol. 217v-r (emphases A.S.).
 
-[^19]:
+[^19]: AFSt/H K 56, fol. 219v.
 
 [^20]:
 
