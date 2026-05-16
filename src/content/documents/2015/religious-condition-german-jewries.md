@@ -132,11 +132,11 @@ Footnotes:
 
 [^5]: It was another missionary tract: Joannis Anastasii Freylinghausenii ‫דאש הערץ פון דען‬‎ [...] ‫לב לב בנים על אבותם‬‎ [...] ‫קינדרן צו אירן עלטרן וויידר גקרט‬‎ [...] Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731.
 
-[^6]: [...] ‫ספר מעשי השלוחים‬‎. [...] ‫דאש בוך פון דען גשיקטן דער שלוחים‬‎ [Acta Apostolorum in Germanicum Judaeorum
+[^6]: [...] ‫ספר מעשי השלוחים‬‎. [...] ‫דאש בוך פון דען גשיקטן דער שלוחים‬‎ [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
 
 [^7]: ‫אור לעת ערב‬‎ was one of the most successful missionary tracts of the Pietists of Halle. ‫יוחנן קימחי‬‎ (actually Johannes Müller): ‫להאיר עיני ישראל ויראו בנחמות ציון בשוב ה' ציון :אור לעת ערב.‬‎ Halle (Saale) 1728. In this case, it was probably the addition from 1732.
 
-[^8]:
+[^8]: 
 
 [^9]:
 
