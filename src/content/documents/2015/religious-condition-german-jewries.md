@@ -292,11 +292,11 @@ Footnotes:
 
 [^35]: Es handelt sich entweder um ‫ספר עקרים ה"ה עקרי האמונה והתורה של עדת המשיחיים. דאס איזט טייטש דיא גרינדי פון דעם‬‎ ‫גלויבן און פון דער ערנונג פון דער גמיינדי דער משיחיים‬‎.[...] [Augustana confessio in germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg [...], Halle 1732, oder um die vermisste Schrift Caspar Calvörs: Judenkatechismus, das ist, kurtzer weg des lebens zu dem Meßia und heylande der welt, gezeiget dem hause Israel; den unbekehrten zur erleuchtung, den bekehrten zur stärckung: aufs neue mit einer vorrede herausgegeben von Johann Heinrich Callenberg, Halle 1732.
 
-[^36]: 
+[^36]: Eigtl. ‫ספר חובות הלבבות‬‎ = „Pflichten des Herzens" von Bahya ibn Paquda, (ca. 1050-1120, Saragossa).
 
-[^37]: 
+[^37]: Eigtl. die Fähigkeit zum Bösen. So übersetzten die Pietisten von Halle diesen Begriff ins Deutsch.
 
-[^38]: 
+[^38]: = Ein Jude aus Fürth, mit dem der Missionar Widmann lange Gespräche zu Beginn des Jahres 1732 führte und eine freundschaftliche Beziehung entwickelte.
 
 [^39]: 
 
