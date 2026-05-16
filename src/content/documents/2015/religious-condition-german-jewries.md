@@ -284,7 +284,7 @@ Footnotes:
 
 [^31]: Es kann nicht endgültig und zweifelsfrei geklärt werden, ob es um das große oder das kleine Sendeschreiben handelt. Das kleine, vermisste Sendeschreiben [beginnt mit den Worten: ‫אם על כל בני ישראל‬‎] erschien bereits 1729. Der große Sendeschreiben [meistens bekannt als ‫מכתב אהבה‬‎] ist vor dem 14. Januar 1732 erschienen. Beide Werke wurden von Johann Müller verfasst, bzw. werden ihm zugeschrieben.
 
-[^32]: 
+[^32]: Ein weiterer Missionstraktat. Joannis Anastasii Freylinghausenii ‫דאש הערץ פון דען קינדרן צו‬‎ [...] ‫לב לב בנים על אבותם‬‎ [...] ‫אירן עלטרן וויידר גקרט‬‎.[...] Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731.
 
 [^33]: 
 
