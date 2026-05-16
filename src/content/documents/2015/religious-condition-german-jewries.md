@@ -105,6 +105,55 @@ In that manner, I explained what Christians believe. Wezler asked about my name 
 
 2. An extract from the travelling journal of JOHANN ANDREAS MANITIUS on his journey to the Harz Mountain Region, Franconia, Hesse and Northern Germany, 01.01.1733, AFSt/H, K 57
 
+**Second Visit of the Pietist Missionaries to the Town of Celle, September 1733**
+
+**[144r]** Dec. 2nd: ... We arrived at Celle ... The Jews of this town lives in the outskirts. There are approx. 10 to 12 families, some are rich especially Wetzlar, which is also said to be the most educated.
+
+Dec. 3rd: we went together to his [Wetzlar’s] house, because my companion decided to talk to him this time, especially after the honorable Mrs. Münchhausen recommended him to us [...].[^12]Unfortunately, he was away, but his son stood at the door and was friendly towards us. He said, that he [Wetzlar] would return home tomorrow. He still has the three books my companion had given him. They were locked in a cabinet, in order to be kept in good shape. My companion showed him YOREH DEAH[^13] and the Jewish-Letter[^14], and asked him to deliver them to his father. Wetzlar’s son apologized, and said he didn’t know if he was allowed to accept them. My companion then handed them to another Jew who arrived at the scene. **[144v]** The CHASSAN also came along, and wanted to know, what kind of books we were carrying. He looked at them and was surprised to see, that Yoreh Deah was translated into German. They believed it was a part out of their Talmud. My companion had removed the introduction
+
+1 The episode with Mrs. Münchhausen, which took place in Hanover a short time before, could be found in the same diary AFSt/H K 57, folio 126 r(ecto).  
+2 = A missionary tract, which was written by the Halle missionaries. The name *Yoreh Deah* [Teacher of Knowledge] is a reference to a medieval work by the Jewish scholar Jaacov ben Asher, and is (more importantly) .)שולחן ערוך(** being recognized as part of Joseph Karo’s *Shulchan Aruch*
+
+3 Most probably, it was *Mikhtav Ahava* (מכתב אהבה), which is believed to have been written by Johannes Müller, the author of *Or Le’et Erev* (אור לעת ערב). See also Document 1, footnote No. 5.
+
+from one of the copies, as he [later] explained to me.[^15] In the meantime, other Jews gathered around us, and we distributed several books amongst them. One of the inhabitants in Wetzlar’s home received the Epist. to the Romans[^16] and another letter. Two others got each a YOREH DEAH and a Jewish Letter. Besides that I gave a woman a Letter. God, let it become a blessing amongst them!
+
+The Jews here were more affable than in Hanover. They let you talk to them and took the books for an examination and kept them. We were not able to engage in a lengthy conversation because they all had work to do, so we started heading out. On our way to the inn, where we wanted to have our breakfast, we’ve noticed a man and a woman observing us from a window across the street. This motivated us to go over there after we finished our breakfast. The man wanted to speak to us at the door, but the woman asked us if we would like to come in for a while. Soon enough, my companion handed over the Letter. The man looked at it and said: I can see now, your whole matter is to proof, that MESCHIACH already arrived and you would then explain that the 53rd Chapter of Isaiah speaks of him. Using chapter 52, my companion showed him, that it must have referred to the messiah. But the Jew could hardly wait [for the entire explanation (A.S.)], and he said he wanted to ask him something. He had asked this question many pastors, but no one could explain it to him in a way he could understand and accept. HINNE ANI SCHOLEICH LOCHEM ES ELIHU HANOBI LIPHNE 60 JOM ADANNOI [=AD HAJOM(?)] HAGADUL VEHANAUROH[^17] [=]. My companion responded out of Ies. (?) 11, where the horrible day to come down upon Jerusalem is also mentioned. He combined the two verses, and reached the following conclusion: because the JOM HAGADUL VEHANAUROH had already been bestowed upon Jerusalem and destroyed it, and, in addition, the land was hit by a CHEREM, now must follow **[145r]** also the other part of the prophecy. The Jew was not convinced yet, but he also didn’t have any time left, so we’ve agreed to return at 5pm.
+
+My companion gave him the YOREH DEAH and he kept it together with the Letter. The woman told us, that she has already heard of my companion a year ago. The Jew Meyer and his wife had been living at the inn ‘Zum Weißen Roß’ when he stayed there, and they told her that they had great HANOAH [=delight], and pleasure listening to him, because he speaks such good Hebrew. This was probably the main reason for these people to want to talk to us.
+
+4 The Preface was an address to the Christian reader in Latin and would have immediately revealed the true character of the book.  
+5 In a Yiddish translation.  
+6 Malachi 3:23.
+
+...
+
+**[145v]** ... we went to the Jew in the town’s outskirts. The Jew had left the house, so we sat down with the wife and their little children. After she received us in a friendly manner, the woman took the opportunity to speak. She repeated what she heard about my companion at the inn ‘Zum Weißen Roß’ the previous year. The Jew Meyer, his wife and other Jews all testified that they had a great HANAE [=delight] from his speech. She recounted also that the rabbi in Hanover fasted each and every day of the year, and that he never eats before the evening and even then he only eats a herring. My companion replied that this cannot be called fasting. There are many amongst us, who also eat only once every 24 hours. Fasting is only [good] if it is being utilized, so that one could fast in his soul, or to direct his heart to God and the godly matters. **[146r]** She asked us, if we were not married and then congratulated us for being blissful, because we had more time to [invest] in God’s word, and not to [waste] it with raising children. She was also told, what the main purpose of our journey was, because she wanted to know, why we didn’t become preachers? It was something that many Jews throughout the land asked us.
+
+Finally, my companion showed her clearly, why the Jews’ prayers must be unpleasant and dissatisfying to God, which is also the reason why their prayers are not being answered. This affected her, and a blessed scruple awoke in her.
+
+Finally, the man arrived, but stayed hidden on the side in order to avoid the discussion. But, since he noticed, that we weren’t going to leave, he came inside, took the Letter and the YOREH DEAH and said, he had read it, and recognized, that it was written against them. My companion ---- ----, if he wanted to say, it was a lie. Jew: No, he didn’t mean to say it so uncouthly. He is just saying that it is written against the Jews. We would explain that chapter 53 talks of the MESCHIACH, he knew that already, but you cannot do that. My companion translated to him Zach[arias] 111, Dan[iel] 9 and the previous chapter, No. 52, in order to show him that it necessarily meant the messiah. I found it very appeasing, that this Jew expressed his doubts or points of disagreement so courteous, using always the phrase: he cannot grasp, and then, for example: that we are redeemed through the blood of the MESCHIACH, or that he is supposed to be the king of the world, because he was not published in front of the whole world.[^18] After that had been explained, [he still argued] that there are still so
+
+7 The account of the second missionary was recorded in the form of a conversation: *Jew: I cannot believe that one can die before the others, it is also not written about your MASCHIACH as you said it. **It is against all reason!** These were the word the Jew said with great affectation. I: Look at the one who has our SCHALOM [= peace], he was not a RASCHA [= bad person] because he used no deceive, and this very SCHELOMENU [= our*
+
+many nations who haven’t recognized him. After answering all his questions, my companion reached the subject of Elia from the morning, and elucidated the matter to him, using mainly the comparison between the state of Elia and that of the mystery.
+
+After he heard all of that, he kept the Letter and the YOREH DEAH, and one could sense that he had the desire to keep searching for the truth. I wish him divine blessing for that. Otherwise, [I can recount that (A.S.)] he is the Jew responsible for the distribution of the alms (a GABBE). I never learned his name. He wore black clothes and seemed poor. The next time we’ll travel through this region, he will be our first visit.
+
+...
+
+**[146v]** Dec. 4th. This morning we went together and looked for other opportunities to conduct conversations with some Jews, but we couldn’t find anyone. We went to see Wetzlar, who had returned home, but he was getting a shave when we got to him. He sent his wife to apologize on his behalf, for he didn’t have any time available. He had just come back, and when his beard is shaven, he would have to leave immediately. We therefor went on, and were content with ourselves for the time being, because we used this good occasion to hand him some new books.
+
+Since we didn’t see anyone else, we went back to the house, where we have been the day before, but the Jew was not home. We took our leave from the woman and because the weather was good, took off at noon and left Celle behind.
+
+*peace] is a cleansing for our sins. Jew: Indeed, **but that does not mean that he died for our sins**. I: At v. 9 it says clearly CI NIOSAR MEEREZ CHAJIM = He was extirpated from the land of the living. That is a real death. And at v. 6 we read that he had been carrying all our sins and God (?) on him. MEDICCA MIPAESCHAENU [= healing from our sins] are big sins... Jew: If Jesus were the Messiah and the King, the entire world would have had to know that. You say, he was King, but others don’t; **who knows for sure how it actually was**. I: It was published in Es. C ii as God promised, he is pictured as a NES [= wonder] and the OMOS [= nations] understand that. He who is accepted by the OMOS is a declared Messiah, but he is granted no honour by the RESCHAIN [= the evil ones] and such are killed because they argue against Christianity. [...] Jew: The GOMMORA [= section of the Talmud] doesn't say that he will be a King. I: A King is a MASCHIACH. Jew: I don't mean a king like all other kings of the world. I: You can see it in this chapter; divine things will be spoken of him. The heathen would ask him like a nation asks their God Es. ch. 8. He rules and judges according to his heart, not according to what he sees or hears. [...] Jew: **To believe all of this is not reasonable at all!** I: it seemed as if it would be against all reason, when Abraham needed to kill his son, from which a great people should be born. Jew: God tested him. I: Abraham didn't know that, and Isaac also believed it, and followed God's commanded to take wood to death and he let himself be bound, because*
+
+*God's word is to be believed, also over reason*. AFSt/H K 56, fol. 217v-r (emphases A.S.).
+
+*The other missionary added his own impression from this (his second) visit to Celle*[^19]
+
+The Jew Wetzlar had come home the night before. I went to the door of his study with my companion, but he was just getting his beard shaved. He apologized because he had to work all day. He hoped we would not think ill of him for that. I noticed from all these things that this Jew who had taken a book in his home, together with others has already reported everything [to him = Wetzlar]. Wezlar [in the previous encounter with Widmann (A.S.)] has reached the point, where we talked about Christ’s godliness, and I was prepared to give him numerous proofs on that. But since “YOREH DEAH“ also talks about that, he will be able to reflect on this question using it. One needs to eliminate and to tear down many Jewish strongholds, until one can start laying the ground [for conversion (A.S.)] and bring the Jews onto the right path. The ones in Celle are easier to talk to than others. This comes as a result from their belief, that they can win the arguments with gentility and flattery. But one should try harder with Wezlar, because his folks still prove themselves affectionate and friendly.
+
 ## Source 3 Translation
 
 3. The Diary of JOHANN ANDREAS MANITIUS about his journey to the Harz district, Franconia, Hesse and Northern Germany starting 1/1/1773, AFSt/H, K 57
@@ -184,19 +233,19 @@ Footnotes:
 
 [^11]: = A Jew from Fürth, with whom the missionary Widmann held long conversations at the beginning of that year (1732) and to whom he developed a friendly relationship.
 
-[^12]:
+[^12]: The episode with Mrs. Münchhausen, which took place in Hanover a short time before, could be found in the same diary AFSt/H K 57, folio 126 r(ecto).
 
-[^13]:
+[^13]: = A missionary tract, which was written by the Halle missionaries. The name *Yoreh Deah* [Teacher of Knowledge] is a reference to a medieval work by the Jewish scholar Jaacov ben Asher, and is (more importantly) being recognized as part of Joseph Karo's *Shulchan Aruch* (‫שולחן ערוך‬‎).
 
-[^14]:
+[^14]: Most probably, it was *Mikhtav Ahava* (**מכתב אהבה**), which is believed to have been written by Johannes Müller, the author of *Or Le'et Erev* (**אור לעת ערב**). See also Document 1, footnote No. 5.
 
-[^15]:
+[^15]: The Preface was an address to the Christian reader in Latin and would have immediately revealed the true character of the book.
 
-[^16]:
+[^16]: In a Yiddish translation.
 
-[^17]:
+[^17]: Malachi 3:23.
 
-[^18]:
+[^18]: The account of the second missionary was recorded in the form of a conversation: *Jew: I cannot believe that one can die before the others, it is also not written about your MASCHIACH as you said it. **It is against all reason!** These were the word the Jew said with great affectation. I: Look at the one who has our SCHALOM [= peace], he was not a RASCHA [= bad person] because he used no deceive, and this very SCHELOMENU [= our peace] is a cleansing for our sins. Jew: Indeed, **but that does not mean that he died for our sins**. I: At v. 9 it says clearly CI NIOSAR MEEREZ CHAJIM = He was extirpated from the land of the living. That is a real death. And at v. 6 we read that he had been carrying all our sins and God (?) on him. MEDICCA MIPAESCHAENU [= healing from our sins] are big sins... Jew: If Jesus were the Messiah and the King, the entire world would have had to know that. You say, he was King, but others don’t; **who knows for sure how it actually was**. I: It was published in Es. C ii as God promised, he is pictured as a NES [= wonder] and the OMOS [= nations] understand that. He who is accepted by the OMOS is a declared Messiah, but he is granted no honour by the RESCHAIN [= the evil ones] and such are killed because they argue against Christianity. [...] Jew: The GOMMORA [= section of the Talmud] doesn't say that he will be a King. I: A King is a MASCHIACH. Jew: I don't mean a king like all other kings of the world. I: You can see it in this chapter; divine things will be spoken of him. The heathen would ask him like a nation asks their God Es. ch. 8. He rules and judges according to his heart, not according to what he sees or hears. [...] Jew: **To believe all of this is not reasonable at all!** I: it seemed as if it would be against all reason, when Abraham needed to kill his son, from which a great people should be born. Jew: God tested him. I: Abraham didn't know that, and Isaac also believed it, and followed God's commanded to take wood to death and he let himself be bound, because God's word is to be believed, also over reason*. AFSt/H K 56, fol. 217v-r (emphases A.S.).
 
 [^19]:
 
