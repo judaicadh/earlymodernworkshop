@@ -138,9 +138,9 @@ Footnotes:
 
 [^8]: ‫ספר עקרים ה"ה עקרי האמונה והתורה של עדת המשיחיים. דאס איזט טייטש דיא גרינדי פון דעם‬‎ Wetzlar probably refers to: ‫גלויבן און פון דער ערנונג פון דער גמיינדי דער משיחיים‬‎[...]. [Augustana confessio in germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg [...], Halle 1732. It could also be that he was referring to the missing work of Caspar Calvörs: Judenkatechismus, das ist, kurtzer weg des lebens zu dem Meßia und heylande der welt, gezeiget dem hause Israel; den unbekehrten zur erleuchtung, den bekehrten zur stärckung: aufs neue mit einer vorrede herausgegeben von Johann Heinrich Callenberg, Halle 1732.
 
-[^9]:
+[^9]: Actually ‫ספר חובות הלבבות‬‎ = „Duties of the Heart", from Bahya ibn Pakuda (approx. 1050-1120, Zaragoza).
 
-[^10]:
+[^10]: The Pietists understood this concept as the ‘original sin’.
 
 [^11]:
 
