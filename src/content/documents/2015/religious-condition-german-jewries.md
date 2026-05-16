@@ -288,9 +288,9 @@ Footnotes:
 
 [^33]: ‫דאש בוך פון דען גשיקטן דער שלוחים‬‎ [...] ‫ספר מעשי השלוחים‬‎. [...] [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
 
-[^34]: 
+[^34]: ‫אור לעת ערב‬‎ was war die bekannteste Missionsschrift der Pietisten aus Halle. ‫יוחנן קימחי‬‎(eigtl. Johann Müller): ‫להאיר עיני ישראל ויראו בנחמות ציון בשוב ה' ציון :אור לעת ערב.‬‎ Halle (Saale) 1728. In this case, it was probably the addition from 1732.
 
-[^35]: 
+[^35]: Es handelt sich entweder um ‫ספר עקרים ה"ה עקרי האמונה והתורה של עדת המשיחיים. דאס איזט טייטש דיא גרינדי פון דעם‬‎ ‫גלויבן און פון דער ערנונג פון דער גמיינדי דער משיחיים‬‎.[...] [Augustana confessio in germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg [...], Halle 1732, oder um die vermisste Schrift Caspar Calvörs: Judenkatechismus, das ist, kurtzer weg des lebens zu dem Meßia und heylande der welt, gezeiget dem hause Israel; den unbekehrten zur erleuchtung, den bekehrten zur stärckung: aufs neue mit einer vorrede herausgegeben von Johann Heinrich Callenberg, Halle 1732.
 
 [^36]: 
 
