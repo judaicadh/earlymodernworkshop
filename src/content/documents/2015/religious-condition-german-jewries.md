@@ -142,7 +142,7 @@ Footnotes:
 
 [^10]: The Pietists understood this concept as the ‘original sin’.
 
-[^11]:
+[^11]: = A Jew from Fürth, with whom the missionary Widmann held long conversations at the beginning of that year (1732) and to whom he developed a friendly relationship.
 
 [^12]:
 
