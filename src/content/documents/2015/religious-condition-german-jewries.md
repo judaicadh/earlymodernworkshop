@@ -134,7 +134,7 @@ Footnotes:
 
 [^6]: [...] ‫ספר מעשי השלוחים‬‎. [...] ‫דאש בוך פון דען גשיקטן דער שלוחים‬‎ [...] [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
 
-[^7]:
+[^7]: ‫אור לעת ערב‬‎ was one of the most successful missionary tracts of the Pietists of Halle. ‫יוחנן קימחי‬‎ (actually Johannes Müller): ‫להאיר עיני ישראל ויראו בנחמות ציון בשוב ה' ציון :אור לעת ערב.‬‎ Halle (Saale) 1728. In this case, it was probably the addition from 1732.
 
 [^8]:
 
