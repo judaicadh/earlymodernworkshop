@@ -107,9 +107,9 @@ In that manner, I explained what Christians believe. Wezler asked about my name 
 
 **Second Visit of the Pietist Missionaries to the Town of Celle, September 1733**
 
-**[144r]** Dec. 2nd: ... We arrived at Celle ... The Jews of this town lives in the outskirts. There are approx. 10 to 12 families, some are rich especially Wetzlar, which is also said to be the most educated.
+**[144r]** Dec. 2<sup>nd</sup>: ... We arrived at Celle ... The Jews of this town lives in the outskirts. There are approx. 10 to 12 families, some are rich especially Wetzlar, which is also said to be the most educated.
 
-Dec. 3rd: we went together to his [Wetzlar’s] house, because my companion decided to talk to him this time, especially after the honorable Mrs. Münchhausen recommended him to us [...].[^12]Unfortunately, he was away, but his son stood at the door and was friendly towards us. He said, that he [Wetzlar] would return home tomorrow. He still has the three books my companion had given him. They were locked in a cabinet, in order to be kept in good shape. My companion showed him YOREH DEAH[^13] and the Jewish-Letter[^14], and asked him to deliver them to his father. Wetzlar’s son apologized, and said he didn’t know if he was allowed to accept them. My companion then handed them to another Jew who arrived at the scene. **[144v]** The CHASSAN also came along, and wanted to know, what kind of books we were carrying. He looked at them and was surprised to see, that Yoreh Deah was translated into German. They believed it was a part out of their Talmud. My companion had removed the introduction from one of the copies, as he [later] explained to me.[^15] In the meantime, other Jews gathered around us, and we distributed several books amongst them. One of the inhabitants in Wetzlar’s home received the Epist. to the Romans[^16] and another letter. Two others got each a YOREH DEAH and a Jewish Letter. Besides that I gave a woman a Letter. God, let it become a blessing amongst them!
+Dec. 3<sup>rd</sup>: we went together to his [Wetzlar’s] house, because my companion decided to talk to him this time, especially after the honorable Mrs. Münchhausen recommended him to us [...].[^12]Unfortunately, he was away, but his son stood at the door and was friendly towards us. He said, that he [Wetzlar] would return home tomorrow. He still has the three books my companion had given him. They were locked in a cabinet, in order to be kept in good shape. My companion showed him YOREH DEAH[^13] and the Jewish-Letter[^14], and asked him to deliver them to his father. Wetzlar’s son apologized, and said he didn’t know if he was allowed to accept them. My companion then handed them to another Jew who arrived at the scene. **[144v]** The CHASSAN also came along, and wanted to know, what kind of books we were carrying. He looked at them and was surprised to see, that Yoreh Deah was translated into German. They believed it was a part out of their Talmud. My companion had removed the introduction from one of the copies, as he [later] explained to me.[^15] In the meantime, other Jews gathered around us, and we distributed several books amongst them. One of the inhabitants in Wetzlar’s home received the Epist. to the Romans[^16] and another letter. Two others got each a YOREH DEAH and a Jewish Letter. Besides that I gave a woman a Letter. God, let it become a blessing amongst them!
 
 The Jews here were more affable than in Hanover. They let you talk to them and took the books for an examination and kept them. We were not able to engage in a lengthy conversation because they all had work to do, so we started heading out. On our way to the inn, where we wanted to have our breakfast, we’ve noticed a man and a woman observing us from a window across the street. This motivated us to go over there after we finished our breakfast. The man wanted to speak to us at the door, but the woman asked us if we would like to come in for a while. Soon enough, my companion handed over the Letter. The man looked at it and said: I can see now, your whole matter is to proof, that MESCHIACH already arrived and you would then explain that the 53rd Chapter of Isaiah speaks of him. Using chapter 52, my companion showed him, that it must have referred to the messiah. But the Jew could hardly wait [for the entire explanation (A.S.)], and he said he wanted to ask him something. He had asked this question many pastors, but no one could explain it to him in a way he could understand and accept. HINNE ANI SCHOLEICH LOCHEM ES ELIHU HANOBI LIPHNE 60 JOM ADANNOI [=AD HAJOM(?)] HAGADUL VEHANAUROH[^17] [=]. My companion responded out of Ies. (?) 11, where the horrible day to come down upon Jerusalem is also mentioned. He combined the two verses, and reached the following conclusion: because the JOM HAGADUL VEHANAUROH had already been bestowed upon Jerusalem and destroyed it, and, in addition, the land was hit by a CHEREM, now must follow **[145r]** also the other part of the prophecy. The Jew was not convinced yet, but he also didn’t have any time left, so we’ve agreed to return at 5pm.
 
@@ -127,7 +127,7 @@ After he heard all of that, he kept the Letter and the YOREH DEAH, and one could
 
 ...
 
-**[146v]** Dec. 4th. This morning we went together and looked for other opportunities to conduct conversations with some Jews, but we couldn’t find anyone. We went to see Wetzlar, who had returned home, but he was getting a shave when we got to him. He sent his wife to apologize on his behalf, for he didn’t have any time available. He had just come back, and when his beard is shaven, he would have to leave immediately. We therefor went on, and were content with ourselves for the time being, because we used this good occasion to hand him some new books.
+**[146v]** Dec. 4<sup>th</sup>. This morning we went together and looked for other opportunities to conduct conversations with some Jews, but we couldn’t find anyone. We went to see Wetzlar, who had returned home, but he was getting a shave when we got to him. He sent his wife to apologize on his behalf, for he didn’t have any time available. He had just come back, and when his beard is shaven, he would have to leave immediately. We therefor went on, and were content with ourselves for the time being, because we used this good occasion to hand him some new books.
 
 Since we didn’t see anyone else, we went back to the house, where we have been the day before, but the Jew was not home. We took our leave from the woman and because the weather was good, took off at noon and left Celle behind.
 
@@ -138,6 +138,93 @@ The Jew Wetzlar had come home the night before. I went to the door of his study 
 ## Source 3 Translation
 
 3. The Diary of JOHANN ANDREAS MANITIUS about his journey to the Harz district, Franconia, Hesse and Northern Germany starting 1/1/1773, AFSt/H, K 57
+
+**The Missionaries' impressions on their second visit to Frankfurt am Main:**
+
+***[62v]** In a conversation with a Mr. Gentzel in Frankfurt am Main:*
+
+We ... learned ... partly about the situation with the local Jewry; He was able to provide some strange and remarkable information, on the one hand about his own occasional conversations with some who were happy to listen to him, on the other hand about the conversations of others, particularly Hochmann von Hochenau[^20], who has publicly preached to them in their school here. Also, he mentioned a book in his possession, an octavo printed in German and Hebrew by one BOOCK in Leipzig in 1720, wherein the Christian teachings from Jewish Books were rendered to them in their own words; he recounted that when he gave this book to the Jew, the latter kissed it and eagerly took it with him to read it, yet returned after a while and eventually said in distress that he had been subjected to HEREM because of the book. The same harsh procedure is apparently still being applied nowadays. ...
+
+**63v** [...] *The Frankfurt Jews' show lack of interest in the studiosi:*
+
+On October 3<sup>rd</sup>, we both went out, and since it was Shabbat, we walked straight through the Jews' Lane. At their school, we saw a familiar Jew who had previously been present during my companion's conversation with Anschel Worms and who affably greeted us in the forecourt of the school. My companion said we had returned to see how they would celebrate their SCHABBAS BERESCHIS (the time they start reading the first Book of Moses at their school again) and asked whether they had attained a GOULLE [=redemption] in the meantime. Yet his only reply to this was that Anschel Worms was at home at the moment and that we would find him there if we wished to speak to him. This, however, was not our intention; for the time being, we were planning to make a general assessment of their outer state, as well as show ourselves in public, so that anyone with a secret desire to speak to us could be on the lookout for us, knowing we had returned. We then left and walked all the way down the lane until we passed the general Jews' kitchen and then out on the narrow lane. **[64r]** Afterwards, we went and stood on the great bridge over the Main, where I had spoken to several folks the year before, but it was only a yet unwed Jew and his fellow who came to us. We were just reading BERESCHIS [=Genesis] 5/5 and my companion repeated our discourse about the ‫כתנות עור‬‎ cosnaus aur, a term hereafter used for priestly garments; he was showing how God had taught the ADAM priestly garments and the way to reconcile with God. He thereupon gave him the Gospel according to Luke, asking him to return it, as he would find him here on the bridge from time to time. He [the Jew] listened to the exposition without objection, eagerly took the book and perused it on the bridge. We have not gotten it back to this day, the 7th of the month, as I am writing this. [...]
+
+*An attempt to purposely bypass people of learning and to reach ‘sympathetic’ or ‘inclined’ souls:*
+
+**64v** As we were heading into Frankfurt, my companion said that this time he had no great desire to dispute with the men of learning. He instead wished to have good occasion to become acquainted with the hidden souls whom God had already secretly selected and prepared, as it were, since he was hoping to achieve more with them than with the former, who kept him from performing the actual Blessed Work with all their talk. ...
+
+*Conversation with the merchant's widow* Alleinsinn*, who was supposed to help the studiosi in their quest for the 'hidden souls':*
+
+... after my companion had indicated the final objective2 of our visit, she spoke of a Jewess named Simla, who had a strong desire for Christ, yet had difficulty believing in the principle of the Holy Trinity. However, she led a proper life and performed many deeds of love... **(65r)** ... she said that the Jewess Simla (a widow who did not live on the Jews' Lane, but amongst the Christians, yet had wicked offspring who would immediately denounce her if one were to go to her
+
+2 = The general conversion (of the hearts) of the Jews to Christ and Christianity.
+
+2
+
+and address matters of faith) [had] fallen into poverty. Her friend had heard of this and had brought her things to help her out of her hardship. [...] She further recounted that the Jewess had often visited Mr. D. Dusedang in Offenbach, who knew her and several other devout Jews. She was also familiar with the Jew Gerson, who did not reveal any inclination towards the Christian religion, yet was a judicious Jew who was happy to discuss matters of faith with Christians. He had been put under pressure several times, which made him tame, she said. [...]
+
+*Conversation with the separatist3 D. Dusedang in Offenbach*
+
+**(65v)** [...] C.d. October 5th. We went to Offenbach [...] in order to further ascertain the presence of hidden good souls amongst the Jews in this place which is only one hour away from Frankfurt. Upon our arrival at his house, after a cordial reception, we disclosed this our wish to him, and he spoke of a Jewess with an inclination towards Christianity, saying she often came to visit him and had even joined him at the (separatists') gathering several times. He did not mention her name, but it was probably Simla. He did not wish to acquaint us with any of the local Jews, but said there were righteous souls amongst them as well. He spoke of one man, now deceased, who would spend no more than three kreutzers a day along with his wife and had done his utmost to steadfastly abide by God's law as best he could. He had done many good deeds amongst the needy Jews as well as the Christians, and whenever he saw a poor man, he would call for him and lend him money. When the man wanted to return it, he would say: Keep it, you might need it more than I do. He eventually acknowledged on his deathbed that God was a very holy God indeed, and His law was of such perfection that it was impossible for any mortal to abide by it.4 [...]
+
+**(67r)** *October 7th was a rainy day, and the studiosi could not leave their lodgings until the afternoon; they split up, one of them went on the bridge and the other one into town. Manitius, who went to the bridge, found* no opportunity for me this time. I went down to the water, where several Jews were getting on the ship, but I was unable to achieve anything there. I eventually went into town and there I saw my companion standing in the middle of the street and talking to 6 to 8 Jews. I went past, thinking God would provide me with an opportunity as well, and indeed there was a Jew who was just heading off because he lived in a village an hour away from here. I asked him whether he had earned much that
+
+3 Also known as Radical Pietists, because they avoided the general church service and instead held private (edifying) congregations.  
+4 This was an argument frequently used by the Pietists. According to them, only the Messiah could redeem mankind from their sins.
+
+3
+
+day and whether he still had desire to trade. He inquired whether I had anything to offer, and I said yes, if it suited him. When I showed him the booklet, he said, oh, that is one of the new books! and walked away. I continued on and encountered a familiar rabbi from Friedberg whom I had previously conversed with here on the bridge as well as in Darmstadt. We instantly recognized each other and greeted each other cordially, and I asked: How have you been? **[67v]**
+
+Jew: All is well, thank God. I praise God above all, whatever my state, as we owe praises to our Lord for the bad as well as the good. He then told me that he was planning to marry off his daughter and that his lottery was about to be drawn. I eventually asked him whether he had read one of the booklets I had brought to Friedberg, and he said: Oh yes, but! He said nothing more, and I said I had a new book now which I would recommend him to peruse carefully. Yet his manner suggested such indifference that I said nothing further than: I am well aware that some are so full of desire for DIBRE AULOM HASSEH [=things of this world] that they are unable to think of OLAM HABBO [=afterlife]. This is how I took my leave, yet he noticed that I had reprimanded him thus and said: No, OLAM HABBO has to be considered above everything else. So pious and holy were the words this wayward, stubborn Jew could utter, and yet he maintained his proud convictions! [...]
+
+October 8th: **[68r]** [...] In the afternoon, I went out on the bridge to speak to Jews. After I had waited for quite a while, a wild young fellow approached me, wishing to do some trading. I told him that I had something to offer, but that I already knew in advance it would not suit him. When I showed him a booklet, he leapt some 8 paces away from me, as though I had wanted to do him harm. Standing thus far away from me, he said I was a MESCHUMED [=convert]. An older Jew, a musician living in Offenbach, joined us and said, no, he does not look like a MESCHUMED to me. I said: Look how the poor man **[68v]** flees the good booklet; this is how one reacts when tries to talk to him of DIBRE AULOM HABBO. No, said the other one, the musician, that is the fear talking, since we are in GOLUS [=exile/diaspora] and the man knows we have to be wary. I thereupon testified that he should not think I would go about it like Eisenmenger5, I was trying to change everything for the better and it was out of love for the JEHUDIM that I spoke to them. Since he then boasted about being well-traveled, having
+
+5 The Author of the famous anti-Jewish polemical work „Judaism Unmasked“: JOHANN ANDREAS EISENMENGER: Entdecktes Judentum oder Gründlicher und wahrhaffter Bericht, welchergestalt die verstockten Juden die hochheilige Drey-Einigkeit, Gott Vater, Sohn und Heil. Geist erschrecklicher Weise lästern und verunehren, die Heil. Mutter Christi verschmähen, das Neue Testament, die Evangelisten und Aposteln, die Christliche Religion spöttisch durchziehen, und die gantze Christenheit auff das äusserste verachten und verfluchen [...] Frankfurt/Main 1700.
+
+4
+
+read the Bible and knowing the difference between all the religions, I asked him to tell me about CHADDESCH EMUNAH [=religious renewal]6, as I wanted to ascertain whether he really had knowledge of it. He was reluctant to speak, but I eventually prompted him to say: You believe that your Messiah was the real Messiah and that he will return magnificent and glorious. Now, if he does return and manifest as what you say he is, we will also believe it. You believe him to have been a great NOBI [=prophet], yet how come he is ELOHAI TOPHLE EMUNEH [=God of the (nonbelievers?)] but makes himself PSILIM [=false gods]? I said: It is true that you can soon overcome TOPHLE EMUNEH and throw them out with God's Word, but I am keen to see how you can overcome CHADDESCH EMUNEH; that should prove a little more difficult, since they stand too firmly in God's Word. He said we should not be speaking there and suggested I should go to Amsterdam, where I would be informed presently. I testified that one could speak to me in confidence and I would make sure no harm would come of it to the Jews, yet he excused himself, saying this was not appropriate in the street (we had almost walked all the way through Sachsenhausen and the vineyards). He told me he would prefer if I came to talk to him in Offenbach and mentioned his name was Joseph Geiger. He praised many things about D. Dusedang, of whom I have already mentioned something above, as much as is necessary. [...]
+
+**[69r]** On October 9th I went out before noon, looking for opportunities to speak to Jews, and encountered one from Pergel, which is situated close to this place. When I showed him the Jewish-German Letter, he wanted to buy it off me for 1 kreutzer, but I sold him the JOREH DEAH7 for it and gave him the Letter as a gift. He quickly hurried away, but I managed to tell him that he would be able to extract a lot of CHOCHMA [=wisdom] from the booklet if he would LEINEN [=learn] it with KWONE [=intention]. He asked whether I was a book peddler.
+
+I: No, I carry these books with me as a traveling student, and wherever I find a good man, I present one to him, the way I did with many copies in Hesse. He asked whether I had been there in the lane. (Meaning the Jews' Lane, which is simply called "the Lane" [in Greek (A.S.)]). I: Yes, I have been there, but I do not trade in books. He: But it does not say where it has been printed. I: It is a quick read if you apply yourself to it, and the booklet particularly shows how the MASCHICHIIM [=Christians]8, who think so highly of the MESCHIACH,
+
+6 It is not clear, what the missionary referred to here. It could be that he was talking about the followers of Shabbetai Zvi.  
+7 See document 2, footnote No. 2.  
+8 The Pietists referred to themselves as messianic, in order to emphasize the fact that they have already accepted the (true) Messiah.
+
+5
+
+can provide clear proof from THAURE NEBIIM and KSUBIM. Thereupon we parted. [...]
+
+October 10th ... **[73r] [**...] my companion went to the Jews' Lane and I went home, because he preferred to go on his own. I, however, did not have the heart to go this time, may God forgive me if I have thus sinned against Him. My heart was fully shuttered, as I had noticed **[73v]** that the folk here have grown very unyielding. Yesterday, on AREF [=evening] SCHABBAS, I approached an old man, but we got no further in the conversation than discuss that some Jews thought more highly of the ESREVARBE [=24 (books of the Old Testament] and others of the GOMOREHE [=gemara] and TALMUD, and he confessed that he abode by the ESREVARBE. He quickly took leave from me because he noticed I wanted to speak of good things to him, which caused me pain. May God have mercy on this poor folk and open up their hardened hearts, so that the healing waters of the sweet Gospel can flow into them. [...]
+
+**[74r]**: October 11th [...] We arrived in Offenbach at midday, and upon entering the town encountered an old Jew on the street who informed us that up to 80 families lived there and that the RAAF [=rabbi] of this KEHÜLLE [=community] was in Friedberg, but there was a learned BIMKUM [=substitute] or VICE-RAAF in town. When two Baumeister9, or Jewish judges, walked past, he informed us that they were settling litigations that day, since they had nothing else to do, and that the BIMKUM ought to be present there at 1 o'clock as well. [...]
+
+Hardly had we gotten up and started walking down the street, when a Baumeister followed us rather stormily. My companion approached him, and he obliged, since he had wanted to speak to us anyway. **[76r]** He immediately asked whether we were selling books. We said, not today, for it is SCHABBAS.
+
+Jew: Could it be that we had distributed some? My companion: We only give a book away when we come across a judicious, devout man who can use it properly and read it. No books have been distributed to the common folk. As he wished to look at one, my companion showed him the JOREH DEAH, but he returned it straight away and uttered the following bold words: Were it not Sunday, I would take you to the magistrate, and again he said he would take us to the magistrate if we remained there until the evening. My companion said we had no reason to fear that and might as well be the first ones, since we knew very well what we were doing. He added that since we always bore God and the authorities in mind on our travels, we would be able to answer for everything. As Jewish men, women and children gathered around us during the conversation
+
+9 This was how the Jewish leaders in Frankfurt am Main were called.
+
+6
+
+with this man and wanted to jeer us, my companion made it even clearer that we had no reason to fear the authorities, saying: If you wish to continue this way, we shall go to the magistrate and have you arrested. Be warned and make sure you treat traveling students (he expected us to be treated like baptized Jews) properly, so you do not get into trouble. We do not wish to get you into trouble, but you must give travelers the politeness and respect that they give to you, and have we not treated you in a friendly way? You are aware that we went to see the rabbi. We have not caused harm to anyone here, and you have no reason to fear that we will afflict any damage to you, the way it happened 25 years ago, when your school was closed down until you paid a hefty fine. Upon hearing these words, the Baumeister became fearful, entreating us to pay no mind to the ignorant women **[76v]** and to take no offense at what he had said. He apologized that they had be cautious, because they have been warned once before not to get into trouble again. This satisfied both us and him, so we wished each other SCHALOM and parted. I found my companion's threat to have the Jews arrested somewhat harsh, since I believe that a Christian should rather suffer, as long as the reason is his intention to warn the Jew and keep him from getting himself into trouble, as well as the intention to avoid complicated circumstances. Nevertheless, I approve of it and find it is a sensible way to proceed.
+
+We therefore would have had nothing to fear and would have been able to visit Mr. D. Dusedang, but my companion considered it best to spare him this time, so that he should not have anything to answer for on our account, seeing as the authorities did not particularly favor him ... We thus went straight out of town and left this poor Jewry to the merciful love of God. Oh, how wretched and woebegone are people who, prompted by the evil foe, become so hardened and unyielding and wrongfully reject the precious truth. The rabbi had declared, among other things, that he who had a book would be called out in school in the evening and would have to turn it in. When my companion encountered him on the bridge in town the day after, he therefore asked him whether the book had been called out. Yet he refused to admit to anything and said that nothing could be called out since nothing had been handed out. [...]
+
+**(77v)** ... *(during a conversation with a local Christian scholar, the latter explains why he thinks their message fails to reach the Jews)*
+
+He claimed the great obstacle on the Jews' side was that they had completely and utterly forbidden anyone amongst them to show any inclination towards Christians and their books. This is what kept most of them from really reflecting on the truth...
+
+7
+
+**78v:** When the blessed Spener10 was banned by the local magistrate from delivering his teachings on the Jews' Lane, I was told this could not have happened EX THEOLOGICIS RATIONIBUS, but EX POLITICIS, which he quoted in one of his Theologische Bedenken. [...]
+
+**[79r]** October 13th [1733] ... *[Conclusions on the Frankfurt Jews]*
+
+We thus left Frankfurt am Main after approaching as many hidden good souls as we could and having the necessary books **secretly** delivered to them. We also publ[icaly] encountered them, I outside the Lane and my companion also on the Lane. We also had occasion to spread a small number of books amongst them and have some conversations, but lastly the Frankfurt Jews have proven to be steadfast and zealous in their superstition and have probably put a strict ban on our books. Since they are so devoted to trade here and fear the rabbis' ban more than God, we have little access, but we hope that God will therefore grant us even better access in other places.
 
 ## Source 1 Original Text
 
@@ -188,15 +275,11 @@ Footnotes:
 
 [^17]: Malachi 3:23.
 
-[^18]: The account of the second missionary was recorded in the form of a conversation: *Jew: I cannot believe that one can die before the others, it is also not written about your MASCHIACH as you said it. **It is against all reason!** These were the word the Jew said with great affectation. I: Look at the one who has our SCHALOM [= peace], he was not a RASCHA [= bad person] because he used no deceive, and this very SCHELOMENU [= our peace] is a cleansing for our sins. Jew: Indeed, **but that does not mean that he died for our sins**.* 
-
-*I: At v. 9 it says clearly CI NIOSAR MEEREZ CHAJIM = He was extirpated from the land of the living. That is a real death. And at v. 6 we read that he had been carrying all our sins and God (?) on him. MEDICCA MIPAESCHAENU [= healing from our sins] are big sins... Jew: If Jesus were the Messiah and the King, the entire world would have had to know that. You say, he was King, but others don’t; **who knows for sure how it actually was**. I: It was published in Es. C ii as God promised, he is pictured as a NES [= wonder] and the OMOS [= nations] understand that. He who is accepted by the OMOS is a declared Messiah, but he is granted no honour by the RESCHAIN [= the evil ones] and such are killed because they argue against Christianity. [...]* 
-
-*Jew: The GOMMORA [= section of the Talmud] doesn't say that he will be a King. I: A King is a MASCHIACH. Jew: I don't mean a king like all other kings of the world. I: You can see it in this chapter; divine things will be spoken of him. The heathen would ask him like a nation asks their God Es. ch. 8. He rules and judges according to his heart, not according to what he sees or hears. [...] Jew: **To believe all of this is not reasonable at all!** I: it seemed as if it would be against all reason, when Abraham needed to kill his son, from which a great people should be born. Jew: God tested him. I: Abraham didn't know that, and Isaac also believed it, and followed God's commanded to take wood to death and he let himself be bound, because God's word is to be believed, also over reason*. AFSt/H K 56, fol. 217v-r (emphases A.S.).
+[^18]: The account of the second missionary was recorded in the form of a conversation: *Jew: I cannot believe that one can die before the others, it is also not written about your MASCHIACH as you said it. **It is against all reason!** These were the word the Jew said with great affectation. I: Look at the one who has our SCHALOM [= peace], he was not a RASCHA [= bad person] because he used no deceive, and this very SCHELOMENU [= our peace] is a cleansing for our sins. Jew: Indeed, **but that does not mean that he died for our sins**.  I: At v. 9 it says clearly CI NIOSAR MEEREZ CHAJIM = He was extirpated from the land of the living. That is a real death. And at v. 6 we read that he had been carrying all our sins and God (?) on him. MEDICCA MIPAESCHAENU [= healing from our sins] are big sins... Jew: If Jesus were the Messiah and the King, the entire world would have had to know that. You say, he was King, but others don’t; **who knows for sure how it actually was**. I: It was published in Es. C ii as God promised, he is pictured as a NES [= wonder] and the OMOS [= nations] understand that. He who is accepted by the OMOS is a declared Messiah, but he is granted no honour by the RESCHAIN [= the evil ones] and such are killed because they argue against Christianity. [...]  Jew: The GOMMORA [= section of the Talmud] doesn't say that he will be a King. I: A King is a MASCHIACH. Jew: I don't mean a king like all other kings of the world. I: You can see it in this chapter; divine things will be spoken of him. The heathen would ask him like a nation asks their God Es. ch. 8. He rules and judges according to his heart, not according to what he sees or hears. [...] Jew: **To believe all of this is not reasonable at all!** I: it seemed as if it would be against all reason, when Abraham needed to kill his son, from which a great people should be born. Jew: God tested him. I: Abraham didn't know that, and Isaac also believed it, and followed God's commanded to take wood to death and he let himself be bound, because God's word is to be believed, also over reason*. AFSt/H K 56, fol. 217<sup>v-r</sup> (emphases A.S.).
 
 [^19]: AFSt/H K 56, fol. 219<sup>v</sup>.
 
-[^20]:
+[^20]: Ernst Christoph Hochmann von Hochenau (1670-1721) was considered a radical Pietist and cofounder of the separate community in Berleburg (Hesse).
 
 [^21]:
 
@@ -204,8 +287,97 @@ Footnotes:
 
 [^23]:
 
-[^24]:
+[^24]: 
 
+[^25]: 
 
+[^26]: 
 
-&nbsp;
+[^27]: 
+
+[^28]: 
+
+[^29]: 
+
+[^30]: 
+
+[^31]: 
+
+[^32]: 
+
+[^33]: 
+
+[^34]: 
+
+[^35]: 
+
+[^36]: 
+
+[^37]: 
+
+[^38]: 
+
+[^39]: 
+
+[^40]: 
+
+[^41]: 
+
+[^42]: 
+
+[^43]: 
+
+[^44]: 
+
+[^45]: 
+
+[^46]: 
+
+[^47]: 
+
+[^48]: 
+
+[^49]: 
+
+[^50]: 
+
+[^51]: 
+
+[^52]: 
+
+[^53]: 
+
+[^54]: 
+
+[^55]: 
+
+[^56]: 
+
+[^57]: 
+
+[^58]: 
+
+[^59]: 
+
+[^60]: 
+
+[^61]: 
+
+[^62]: 
+
+[^63]: 
+
+[^64]:
+
+[^65]:
+
+[^66]:
+
+[^67]:
+
+[^68]:
+
+[^69]:
+
+[^70]:
+
