@@ -187,7 +187,7 @@ He claimed the great obstacle on the Jews' side was that they had completely and
 
 **78v:** When the blessed Spener[^29] was banned by the local magistrate from delivering his teachings on the Jews' Lane, I was told this could not have happened EX THEOLOGICIS RATIONIBUS, but EX POLITICIS, which he quoted in one of his Theologische Bedenken. [...]
 
-**[79r] <u>**October 13<sup>th</sup> [1733]</u> ... *[Conclusions on the Frankfurt Jews]*
+**[79r]** <u>October 13<sup>th</sup> [1733]</u> ... *[Conclusions on the Frankfurt Jews]*
 
 We thus left Frankfurt am Main after approaching as many hidden good souls as we could and having the necessary books **secretly** delivered to them. We also publ[icaly] encountered them, I outside the Lane and my companion also on the Lane. We also had occasion to spread a small number of books amongst them and have some conversations, but lastly the Frankfurt Jews have proven to be steadfast and zealous in their superstition and have probably put a strict ban on our books. Since they are so devoted to trade here and fear the rabbis' ban more than God, we have little access, but we hope that God will therefore grant us even better access in other places.
 
