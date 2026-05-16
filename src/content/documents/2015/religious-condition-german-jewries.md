@@ -141,7 +141,7 @@ The Jew Wetzlar had come home the night before. I went to the door of his study 
 
 **The Missionaries' impressions on their second visit to Frankfurt am Main:**
 
-***[62v]** In a conversation with a Mr. Gentzel in Frankfurt am Main:*
+**[62v]** *In a conversation with a Mr. Gentzel in Frankfurt am Main:*
 
 We ... learned ... partly about the situation with the local Jewry; He was able to provide some strange and remarkable information, on the one hand about his own occasional conversations with some who were happy to listen to him, on the other hand about the conversations of others, particularly Hochmann von Hochenau[^20], who has publicly preached to them in their school here. Also, he mentioned a book in his possession, an octavo printed in German and Hebrew by one BOOCK in Leipzig in 1720, wherein the Christian teachings from Jewish Books were rendered to them in their own words; he recounted that when he gave this book to the Jew, the latter kissed it and eagerly took it with him to read it, yet returned after a while and eventually said in distress that he had been subjected to HEREM because of the book. The same harsh procedure is apparently still being applied nowadays. ...
 
