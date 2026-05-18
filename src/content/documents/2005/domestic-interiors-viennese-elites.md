@@ -1,32 +1,23 @@
 ---
 title: Domestic Interiors of Two Viennese Jewish Elites Probate Court in Vienna, 1730s
-author: David Horowitz
-institution: Columbia University
+description: |-
+  The probate inventories of mid-eighteenth-century Viennese Court Jews provide a rare opportunity to reflect upon the role of material consumption in the processes of acculturation and class formation among Central European Jewish elites during the decades preceding the Haskalah (Jewish Enlightenment). Probate inventories are lists of assets and possessions drawn up by government officials in the process of settling the estate of the deceased. These inventories require cautious interpretation by the historian, but potentially yield precious rewards since they afford a glimpse into the individual’s complex material world.
+
+  This presentation is for the following text(s): Domestic Interiors of Two Viennese Jewish Elites
 volume: 2
-year: "2005"
+institution: Columbia University
+language:
+- German
+publication_location:
+- Vienna
+author: David Horowitz
+year: '2005'
 slug: domestic-interiors-viennese-elites
 event:
-  name: "Early Modern Workshop: Jewish History Resources"
+  name: 'Early Modern Workshop: Jewish History Resources'
   theme: Jews and Urbans Spaces
-language:
-  - German
-publication_location:
-  - Vienna
-description: >-
-  The probate inventories of mid-eighteenth-century Viennese Court Jews provide
-  a rare opportunity to reflect upon the role of material consumption in the
-  processes of acculturation and class formation among Central European Jewish
-  elites during the decades preceding the Haskalah (Jewish Enlightenment).
-  Probate inventories are lists of assets and possessions drawn up by government
-  officials in the process of settling the estate of the deceased. These
-  inventories require cautious interpretation by the historian, but potentially
-  yield precious rewards since they afford a glimpse into the individual’s
-  complex material world.
-
-
-  This presentation is for the following text(s): Domestic Interiors of Two
-  Viennese Jewish Elites
 ---
+
 ## Source 1 Introduction
 
 Introduction to select probate inventories from Nachlässe der Wiener Juden im 17. und 18 Jahrhundert edited by J. Taglicht, Vienna, 1917.

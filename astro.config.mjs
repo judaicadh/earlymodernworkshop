@@ -2,11 +2,8 @@
 import { defineConfig } from 'astro/config';
 
 import react from '@astrojs/react';
-import tailwind from '@astrojs/tailwind';
-import pagefind from 'astro-pagefind'; // pick ONE Pagefind integration
-// import itsmatteomanfpagefind from '@itsmatteomanf/astro-pagefind'; // ← remove or comment out
 
-import markdoc from '@astrojs/markdoc';
+import pagefind from 'astro-pagefind';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { rehypeHeadingIds } from '@astrojs/markdown-remark';
@@ -21,6 +18,7 @@ import remarkLint from 'remark-lint';
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
 
+import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
@@ -35,7 +33,6 @@ export default defineConfig({
     rehypePlugins: [
       rehypeMeta,
       rehypeHeadingIds,
-
     ],
   },
 
@@ -43,24 +40,17 @@ export default defineConfig({
 
   integrations: [
     react(),
-    tailwind(),
-
-    // Content / docs integrations
-    markdoc(),
     mdx(),
-
-    // Choose ONE Pagefind integration (using core here)
     pagefind(),
-    // itsmatteomanfpagefind(),
-
     sitemap(),
     partytown(),
     collectionSearch(),
     readingTime(),
-
-    // Starlight can live after mdx(); if Starlight complains, move it before mdx()
-
   ],
 
   adapter: netlify(),
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
