@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/markdoc": "^1.0.5",
     "@astrojs/markdown-remark": "^7.1.2",
     "@astrojs/mdx": "^5.0.5",
     "@astrojs/netlify": "^7.0.9",
@@ -53,6 +54,7 @@
     "rehype-toc": "^3.0.2",
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.1",
+    "remark-ins": "^1.2.4",
     "remark-lint": "^10.0.0",
     "remark-toc": "^9.0.0",
     "starlight-scroll-to-top": "^0.3.1",

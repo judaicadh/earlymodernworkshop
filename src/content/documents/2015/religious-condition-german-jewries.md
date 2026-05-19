@@ -45,8 +45,8 @@ footnotes:
       presentation by Rebekka Voß: Striking a Pietist Chord: Isaac Wetzlar’s
       Proposal for the Improvement of Jewish Society.  "
 ---
+
 # Introduction
-<h1>Introduction</h1>
 
 The following extracts are taken from the travel diaries of two Pietist missionaries of the *Institutum Judaicum et Muhammedicum* in the Prussian city of Halle (Saale) who journeyed throughout the Holy Roman Empire as well as to several other Europeans countries such as Poland, the Netherlands, Denmark and England in the 1730s. They visited numerous Jewish communities in big cities like Hamburg, London or Amsterdam, as well as in small towns and in even smaller villages. In their journals, the ‘studiosi’ recount their encounters with Jews and their conversations with them. In order to achieve their goal of convincing the Jews to accept the Christian truth, they used the German-Jewish vernacular in their conversations, avoided polemic attacks and argued primarily with the Old Testament and rabbinical sources. Although the testimonies of the missionaries represent outside reflections on Jewish life and are not free from biased judgments, they did not seek to demonize the Jews. In fact, the reports can be considered authentic rather than products of fiction, since in most cases there are two different accounts, written separately by each of the missionaries, which corroborate the respective report, and there is also enough historical evidence to confirm large portions of the accounts independently. Most of all, they are extremely detailed, recording not only ‘successes’ in proselytizing Jews (which were fairly seldom), but also Jewish criticism and even hostility towards Christianity. A closer look at the reports therefore reveals the manifold forms of Jewish reactions to and interactions with the traveling ‘studiosi’.
 
@@ -58,7 +58,7 @@ Concentrating on the Jews of Celle as a representative case of Jewish attitudes 
 
 Finally, these findings need to be placed in relation with the grievances uttered in Isaak Wetzlar’s social criticism about the poor religious state of his “dear brothers and sisters in this [long enduring] exile”[^2]. Wetzlar, who was a prominent member of the Celle community and was familiar with the situation in many other Jewries due to his frequent business travels, expressed a very negative view on some of his contemporary coreligionists, a view which he enunciated in his ‘Libes briv’ as well as in his interaction with the missionary Widmann (document No. 1). To what degree was his critique also directed at the Jews from his hometown? I will argue that the behavior and the religious knowledge displayed by his fellow Jews could be perceived to some degree as a confirmation, but mostly as a contradiction of Wetzlar’s commentaries.
 
-**Suggested reading:**
+# Suggested reading:
 
 On the Pietists’ mission to the Jews and the travel journals of the missionaries:
 

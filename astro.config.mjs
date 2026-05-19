@@ -11,6 +11,7 @@ import partytown from '@astrojs/partytown';
 import collectionSearch from 'astro-collection-search';
 import citePlugin from '@benrbray/remark-cite';
 import readingTime from 'astro-reading-time';
+import remarkIns from 'remark-ins';
 import remarkToc from 'remark-toc';
 import remarkGfm from 'remark-gfm';
 import rehypeMeta from 'rehype-meta';
@@ -19,6 +20,8 @@ import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
 
 import tailwindcss from '@tailwindcss/vite';
+
+import markdoc from '@astrojs/markdoc';
 
 export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
@@ -29,6 +32,7 @@ export default defineConfig({
       remarkGfm,
       citePlugin,
       remarkLint,
+      remarkIns,
     ],
     rehypePlugins: [
       rehypeMeta,
@@ -46,6 +50,7 @@ export default defineConfig({
     partytown(),
     collectionSearch(),
     readingTime(),
+    markdoc(),
   ],
 
   adapter: netlify(),
