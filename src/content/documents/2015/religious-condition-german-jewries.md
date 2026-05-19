@@ -38,6 +38,12 @@ description: This presentation focuses on Jewish attitudes towards non-Jews in
   of the Jewry of Celle with the critique on the matter made by Isaak Wetzlar,
   the author of the ‘Libes briv’ (see the presentation by Rebekka Voß) and a
   member of the Celle *kehilah*.
+footnotes:
+  - ref: "[^1]"
+    rich-text: "TEST The book is also known as ספר עמודי עולם. See MORRIS
+      FAIERSTEIN: The Libes Briv of Isaac Wetzlar, Atlanta 1996. See also the
+      presentation by Rebekka Voß: Striking a Pietist Chord: Isaac Wetzlar’s
+      Proposal for the Improvement of Jewish Society.  "
 ---
 # Introduction
 <h1>Introduction</h1>
