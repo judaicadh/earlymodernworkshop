@@ -164,6 +164,8 @@ On October 3rd, we both went out, and since it was Shabbat, we walked straight t
 
 
 
+&nbsp;
+
 **(67r)** *October 7th was a rainy day, and the studiosi could not leave their lodgings until the afternoon; they split up, one of them went on the bridge and the other one into town. Manitius, who went to the bridge, found* no opportunity for me this time. I went down to the water, where several Jews were getting on the ship, but I was unable to achieve anything there. I eventually went into town and there I saw my companion standing in the middle of the street and talking to 6 to 8 Jews. I went past, thinking God would provide me with an opportunity as well, and indeed there was a Jew who was just heading off because he lived in a village an hour away from here. I asked him whether he had earned much that day and whether he still had desire to trade. He inquired whether I had anything to offer, and I said yes, if it suited him. When I showed him the booklet, he said, oh, that is one of the new books! and walked away. I continued on and encountered a familiar rabbi from ++Friedberg++ whom I had previously conversed with here on the bridge as well as in Darmstadt. We instantly recognized each other and greeted each other cordially, and I asked: How have you been? **[67v]**
 
 
