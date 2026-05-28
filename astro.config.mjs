@@ -1,6 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-
+import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 
 import pagefind from 'astro-pagefind';
@@ -9,6 +9,7 @@ import sitemap from '@astrojs/sitemap';
 import { rehypeHeadingIds } from '@astrojs/markdown-remark';
 import partytown from '@astrojs/partytown';
 import collectionSearch from 'astro-collection-search';
+
 import citePlugin from '@benrbray/remark-cite';
 import readingTime from 'astro-reading-time';
 import remarkIns from 'remark-ins';
@@ -19,7 +20,7 @@ import remarkLint from 'remark-lint';
 import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
 
-import tailwindcss from '@tailwindcss/vite';
+
 
 import markdoc from '@astrojs/markdoc';
 

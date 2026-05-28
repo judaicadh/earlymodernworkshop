@@ -1,19 +1,11 @@
-@import "flowbite";
+
 @import "tailwindcss";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.rtl {
-    direction: rtl;
-    text-align: right;
+.prose p, .prose li, .prose blockquote, .prose h1, .prose h2, .prose h3, .prose td, .prose th {
+    unicode-bidi: plaintext;
 }
 
-.ltr {
-    direction: ltr;
-    text-align: left;
-}
+
 em, i {
     font-style: italic !important;
 }
@@ -26,10 +18,6 @@ html {
 #scroll-to-top-button {
     background-color: white !important;
     color: black !important;
-}
-
-.prose p, .prose li, .prose blockquote, .prose h1, .prose h2, .prose h3 {
-    direction: auto;
 }
 
      /* Prevent accidental page-wide horizontal scroll */
@@ -79,3 +67,42 @@ img, video, svg, canvas, iframe, embed, object {
 /* Utility: safe container padding on small screens */
 .container-safe { padding-left: 1rem; padding-right: 1rem; }
 @media (min-width: 640px) { .container-safe { padding-left: 1.5rem; padding-right: 1.5rem; } }
+.prose h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.prose h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+}
+
+.prose h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+/* ── Section spacing ── */
+.prose p {
+    margin-bottom: 1.25em;
+}
+
+.prose h1 + p,
+.prose h2 + p,
+.prose h3 + p {
+    margin-top: 0;
+}
+
+/* First heading shouldn't have top margin */
+.prose > :first-child {
+    margin-top: 0;
+}

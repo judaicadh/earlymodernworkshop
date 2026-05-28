@@ -1,8 +1,6 @@
 // src/content/config.ts
 import { defineCollection, z } from 'astro:content';
 import { glob, file } from 'astro/loaders';
-// If you really use Starlight pages, keep the next line; otherwise remove both docs import & collection.
-import { docsSchema } from '@astrojs/starlight/schema';
 
 // Years (JSON)
 const years = defineCollection({
@@ -35,7 +33,12 @@ const documents = defineCollection({
         language: z.array(z.string()).optional(),
         publication_location: z.array(z.string()).optional(),
         original_language_body: z.string().optional(),
-        resource_link: z.array(z.string()).optional(),
+        resource_link: z.array(
+            z.union([
+                z.string(),
+                z.object({ url: z.string(), label: z.string().optional() }),
+            ])
+        ).optional(),
         author: z.string().optional(),
         year: z.string(),
         slug: z.string(),
@@ -76,13 +79,4 @@ const documents = defineCollection({
 export const collections = {
     years,
     documents,
-
-    // Keep this only if you’re actually rendering Starlight docs pages from the same folder.
-    docs: defineCollection({
-        loader: glob({
-            base: 'src/content/documents',
-            pattern: '**/*.{md,mdx,markdoc}',
-        }),
-        schema: docsSchema(),
-    }),
 };

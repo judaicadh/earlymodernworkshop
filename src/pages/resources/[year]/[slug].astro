@@ -45,9 +45,14 @@ const safeTags: string[] = tags ?? [];
 ---
 
 <Layout>
-    <Fragment slot="head" >
-        <title>{title} | Penn Judaica</title>
+    <Fragment slot="head">
+        <title>{title} | Early Modern Workshop</title>
         <meta name="description" content={description} />
+        <!-- Highwire Press tags — read by Zotero browser extension -->
+        <meta name="citation_title" content={title} />
+        {author && <meta name="citation_author" content={author} />}
+        <meta name="citation_publication_date" content={year} />
+        <meta name="citation_journal_title" content="Early Modern Workshop: Resources in Jewish History" />
         <Schema
                 item={{
                     '@context': 'https://schema.org',
@@ -310,12 +315,12 @@ const safeTags: string[] = tags ?? [];
                     </article>
                     <hr class="my-2 border-gray-300 dark:border-gray-600">
                     {original_language_body && (
-                            <section id="original-language-body" class="prose dark:prose-invert max-w-none mt-10
+                            <section id="original-language-body" dir="auto" class="prose dark:prose-invert max-w-none mt-10
                                      prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
                                      prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
                                      prose-code:break-words
                                      prose-table:block prose-table:w-full
-                                     prose-a:break-words" mt-10">
+                                     prose-a:break-words">
 
 
 
@@ -355,24 +360,6 @@ const safeTags: string[] = tags ?? [];
 
 </Layout>
 <script is:inline>
-    document.querySelectorAll('article h1, article h2, article h3').forEach((heading) => {
-        if (!heading.id) {
-            heading.id = heading.textContent
-                .toLowerCase()
-                .trim()
-                .replace(/[^a-z0-9\s-]/g, '')
-                .replace(/\s+/g, '-');
-        }
-
-        const anchor = document.createElement('a');
-        anchor.href = `#${heading.id}`;
-        anchor.className = 'text-indigo-500 hover:underline ml-2 opacity-0 group-hover:opacity-100';
-        anchor.textContent = '#';
-
-        heading.classList.add('group', 'scroll-mt-24');
-        heading.appendChild(anchor);
-    });
-
     (() => {
         const btn = document.getElementById('back-to-top');
         if (!btn) return;

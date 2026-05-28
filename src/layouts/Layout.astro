@@ -9,11 +9,9 @@ import "../styles/global.css";
 
 <!doctype html>
 <html lang="en">
-<Head/>
-<script is:inline type="application/json" id="toc-extras">
-	{JSON.stringify(extraHeadings)}
-</script>
-<body class="font-serif">
+<Head><slot name="head" /></Head>
+<body class="font-serif min-h-screen flex flex-col">
+
 <!-- Navigation Bar -->
 <Nav />
 
@@ -23,9 +21,9 @@ import "../styles/global.css";
 </div>
 
 <!-- Main Content -->
-<main>
+<div class="flex-1">
 	<slot />
-</main>
+</div>
 
 <!-- Footer Section -->
 <Footer />
