@@ -97,7 +97,9 @@ It continues with a general description of the dire situation in Jerusalem, and 
 
 Only then the fate of the poor bearer of the letter is described. It is about a man named David, who lost all his possessions on the way and after arriving in Jerusalem.
 
-<p dir="auto">
+
+
+&nbsp;
 
 **מליצה =המלצה לאיש עני**
 
@@ -106,8 +108,12 @@ Only then the fate of the poor bearer of the letter is described. It is about a 
 מאחר עלות כל תפלה כל תחנה לפני שוכן מעונה בעד שלותכם וטובתכם אותותינו אלה בלכתם ילכו הלוך ובכה על כל התלאה אשר מצא ורבצה בעיר האלד'ים מחמת מלך ושרים זרים אוכלים אותנו בכל פה, אין רגע בלי נגע ותקצר נפשו בעמל ישראל, בני מלכים הבאים מקצוי ארץ באוַת נפשם לשכון כבוד בארצנו, היא היתה אם כל חי, לשמור את דרך עץ החיים. ויהי הם מריקים שקיהם עד הגיעם למחוז חפצם והנה תנור עשן ולפיד אש בוער בקרבם על כי יצאו נקיים מנכסיהם ואין לאל ידם להביא טרף לביתם והמה בוכים ותוהים על אשר כבר עשוהו, כאשר קרה לעני הלזה, כואב ורזה, כה"ר דוד וכ', מוביל כתבא דנא. שליו היה בביתו ורענן בהיכלו ונפשו אִותה לחזות בנעם ה' ולבקר בהיכלו, ובתוך ימים מועטים נשאר קרח מכל אשר לו, כי רחיים על צוארו, ונוסף יגון על יגונותיו צרת הבנות בנותיו, תחת של̈ש רגזה ~~הארץ~~ מחוק בקו במקור נפשו, כי בגרו הגיעו לפרקן וביתו ריקן אין לחם ואין שמלה ובקול יללה בוכה למספחותיו כי רבות אנחותיו. אשר ע"כ על כן עגמה נפשנו לאביון כי כפי הנשמע היה מן הנותנים ולא מן המקבלים, ועתה התהפך עליו בלהות הזמן בלתי נאמן והוכרח לצאת ממחיצתו לדפוק על דלתי שערי בריחי ברוכי ה' יטילו מלאם לכיסו לחבוש נגעי מכותיו ואת בקיעי בית דוד כי רבו.
 
 לכן אתאנו לחלות פני מעכ"ת מעלת כבוד תורתכם חזקו ידים רפות וברכים כושלות אמצו כי עת לעשות לה' ... כ"ש כל שכן לאיש עני כזה אשר מסוה הבושה מרחפת על פניו ואין מלה בלשונו לשאול ולדרוש כי לא נסה באלה. ע"כ אמרנו פתח פיך לאִלם ובאנו בשתי שורות אלו להליץ עליו לפני מעכ"ת ככל צדקותיכם ... ומעתה אליכם הכהנים המצוה הזאת לסמכו ולשמחו שבע שמחות בכסף מלא ... למען ישוב בהר ה' יראה להשגיח על בני ביתו כי כלם עיניהם תלויות אחר השגחתו ית' יתברך ובשכר הנה אלדינו זה עומד אחר כתלנו משגיח להניח ברכה באסמיכם, ישלח עזרכם מקדש ומציון יסעד אתכם, ועיניכם תראינה ירושלם נוה שאנן וארמון על משפטו כנפשכם, וכ'.
-</p>
-**A Reference for a Poor Man**
+
+
+
+&nbsp;
+
+ **A Reference for a Poor Man**
 
 To the cherished group of nobles, heroes of old, men of renown who clothe themselves with righteousness, whose name is great, who seamlessly combine giving large amounts of charity with providing strength, a fortress of salvation. You pursue righteousness, supporting every good cause – people of God, prophets who rejoice at doing what the Creator desires, emptying out your sacks daily, neither tiring nor becoming weary. One act of giving follows another towards the survivors about whom the Lord calls, instructing you to be charitable, to satisfy the longing soul. It is not too difficult for you, and it is not beyond your reach - merciful people from a long line of merciful people, kind people from a long line of kind people. Behold, you are of the groups praising God in every city and country, in the places where the edicts of the king – the King of the world – and his laws reach. On your heads is a crown of glory, for those whom God has carried since birth. Behold, you are the perfect sages, the distinguished rabbis – the very best at lighting the lamp of mitzva and Torah – followed by all the upright in heart, the generous ones of the people, the nation of the God of Abraham, their leaders, elders, and guides, and all those who work together peacefully for the public good. May God grant you long lives forever, and may you enjoy an abundance of peace. Amen, eternally, selah, forever.
 
