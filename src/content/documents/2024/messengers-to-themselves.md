@@ -167,7 +167,7 @@ To you, the holy community, may God watch over you, shalom. We have seen the pov
 
 3 [^3]: Rozen, The Jewish Community, pp. 3-20. On Ibn Farokh period and its consequences see pp. 36-50; *The Ruins of Jerusalem* (first published in 1631), edited and annotated by M. Rozen, Tel Aviv 1981 (Hebrew). Ottoman pole 1625/6 - 200 households. 
 
-4 [^4]. Emissaries came up with innovative arguments about why the poor Jews in Palestine were, in fact, *more* worthy of charity than the “poor of your city”—whom Maimonides designated as taking “‘precedence over the poor of another city’” (Matthias B. Lehmann, *Emissaries from the Holy Land: The Sephardic Diaspora and the Practice of Pan-Judaism in the Eighteenth Century*, Stanford University Press, Stanford 2014, p. 160). See Maimonides, *Mishneh Torah*, *Hilkhot Matnot ‘Aniyim*, 3. 
+4. [^4] Emissaries came up with innovative arguments about why the poor Jews in Palestine were, in fact, *more* worthy of charity than the “poor of your city”—whom Maimonides designated as taking “‘precedence over the poor of another city’” (Matthias B. Lehmann, *Emissaries from the Holy Land: The Sephardic Diaspora and the Practice of Pan-Judaism in the Eighteenth Century*, Stanford University Press, Stanford 2014, p. 160). See Maimonides, *Mishneh Torah*, *Hilkhot Matnot ‘Aniyim*, 3. 
 
 5[^5]. A. Yaari, *Emissaries from the Land of Israel*, Jerusalem 1977 (Hebrew). Yaari estimated that the *shadars* trips usually last three to four years and that ten percent of them died during their mission. 
 
