@@ -183,24 +183,36 @@ Stadt Archiv Braunschweig C V #108 Catherine Mundt interrogation translation f 5
 
 Fol. 53r:
 
-1.   Ob das von ihr gebohren Kind sich nicht in der gebürt gereget?
-2.   Ob es sich nicht nach der gebürt gereget?
-3.   Wie und auff was art und Weg es sich gereget?
-4.   Ob es keinen Gebürt von sich gegeben?
-5.   Ob es nicht lebendig zur welt gekommen?
-6.   Ob es nicht nach der gebürt gelebt?
-7.   Woran inquisitin gemercket daß es nach die Gebürt gelebet?
-8.   Ob sie nicht den Willen und Vorsatz gehabt, dem Kind das leben zu nehmen?
-9.  Ob sie nicht mit Willen und Vorsatz das kind, nach dem sie es zur Welt gebracht, von sich gestoßen?
+1  Ob das von ihr gebohren Kind sich nicht in der gebürt gereget?
+
+2  Ob es sich nicht nach der gebürt gereget?
+
+3  Wie und auff was art und Weg es sich gereget?
+
+4  Ob es keinen Gebürt von sich gegeben?
+
+5  Ob es nicht lebendig zur welt gekommen?
+
+6  Ob es nicht nach der gebürt gelebt?
+
+7  Woran inquisitin gemercket daß es nach die Gebürt gelebet?
+
+8  Ob sie nicht den Willen und Vorsatz gehabt, dem Kind das leben zu nehmen?  
+9 Ob sie nicht mit Willen und Vorsatz das kind, nach dem sie es zur Welt gebracht, von sich gestoßen?
 
 Fol. 53v
 
-10.   Warumb sie es von sich gestoßen?
-11.   Ob inquisitin nicht den Willen und Vorsatz gehabt, daß das Kind durch diese abstoßung solte auff das gesicht zu liegen kommen?
-12.   Ob es nicht durch diese Wegstoßung auff das gesicht zu liegen gekommen?
-13.   Ob inquisitin Will und Meynung nicht gewesen daß das Kindt diese legung auffs gesicht dämpften sollen?
-14.   Ob es nicht dadurch gedämpfft wurden?
-15.   Ob inquisitin nicht mit Wißen und Willen die Nabelschnür, oder Strang, des Kindes abgestoßen?
+10  Warumb sie es von sich gestoßen?
+
+11  Ob inquisitin nicht den Willen und Vorsatz gehabt, daß das Kind durch diese abstoßung solte auff das gesicht zu liegen kommen?
+
+12  Ob es nicht durch diese Wegstoßung auff das gesicht zu liegen gekommen?
+
+13  Ob inquisitin Will und Meynung nicht gewesen daß das Kindt diese legung auffs gesicht dämpften sollen?
+
+14  Ob es nicht dadurch gedämpfft wurden?
+
+15  Ob inquisitin nicht mit Wißen und Willen die Nabelschnür, oder Strang, des Kindes abgestoßen?
 
 ## Source 2 Original Text
 
