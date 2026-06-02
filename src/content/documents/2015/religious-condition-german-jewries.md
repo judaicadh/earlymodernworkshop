@@ -315,7 +315,7 @@ Footnotes:
 
 [^32]: Ein weiterer Missionstraktat. Joannis Anastasii Freylinghausenii ‫דאש הערץ פון דען קינדרן צו‬‎ [...] ‫לב לב בנים על אבותם‬‎ [...] ‫אירן עלטרן וויידר גקרט‬‎.[...] Oratio de genuinis filiis Abrahami habita cum judaeus christianis sacris Initiaretur in vulgare Judaeorum idioma transferri curavit Jo. Henr. Callenberg, Halle 1731.
 
-[^33]: ‎‫ספר מעשי השלוחים‬‎ [...] ‫דאש בוך פון דען גשיכטן דער שלוחים‬‎ [...]. [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
+[^33]: ‎[...] ‫ספר מעשי השלוחים‬‎. [...] ‫דאש בוך פון דען גשיכטן דער שלוחים‬‎ [Acta Apostolorum in Germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg, Halle 1731.
 
 [^34]: ‎‫אור לעת ערב‬‎ was war die bekannteste Missionsschrift der Pietisten aus Halle. ‫יוחנן קימחי‬‎(eigtl. Johann Müller): ‫להאיר עיני ישראל ויראו בנחמות ציון בשוב ה' ציון :אור לעת ערב.‬‎ Halle (Saale) 1728. In this case, it was probably the addition from 1732.
 
