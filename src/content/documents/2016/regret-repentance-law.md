@@ -63,11 +63,15 @@ Fol. 58r
 
 The suspect is once again required, with suitable diligence, not to continue holding back the truth, but to confess the same, freely, in the presence of God, her conscience, and the government’s appointed personnel, and was in good faith warned to tell it. She then gave to the previously administered Interrogatoria the following answers in official testimony.
 
-1.   She says no that she did not do that
-2.   She did not do that.
-3.   Cessat
-4.   She says no she did not hear it.
-5.   She did not see that, for she pushed it away with her feet.
+1  She says no that she did not do that
+
+2  She did not do that.
+
+3  Cessat
+
+4  She says no she did not hear it.
+
+5  She did not see that, for she pushed it away with her feet.
 
 NOS: Whether it was then already dead, when it came out of her? She does not know that, for she was lying in a faint.
 
@@ -75,29 +79,23 @@ Fol. 58v
 
 6 She does not know that, for as she grabbed it, there was no more life in the child.
 
-7.   Cessat
-8.   She says no, that she did not have, for she laid no hand on the child, from that may God have protected her.
+7  Cessat
 
-NOS Because she was pregnant and a woman one half hour before  
-the birth asked her what kind of state she was in, why did she not say what kind of state she was in, if she did not have the will and intention, to kill
+8  She says no, that she did not have, for she laid no hand on the child, from that may God have protected her.
 
-EMW 2016 84
+NOS Because she was pregnant and a woman one half hour before the birth asked her what kind of state she was in, why did she not say what kind of state she was in, if she did not have the will and intention, to kill the child? 
 
-!
-
-!
-
-the child? Fol. 59r
+Fol. 59r
 
 That she did not know, that she was about to have a child, for the earlier child [NB: she had a child some 5 years before, now living with her parents near Wolfsburg] had moved in her, but this one did not.
 
-9. 9  She says not with intent, for she was lying in great Angst
-10. 10  As she knows no other way, than with the feet, she could not otherwise
+9  She says not with intent, for she was lying in great Angst
 
-conclude, because she saw the child lying at her feet.  
+10  As she knows no other way, than with the feet, she could not otherwise conclude, because she saw the child lying at her feet.  
 11 She says no, that she does no know what she did, for what she did she did during her great swoon.
 
-12 It was lying on its face in the water, how it came to lie there, she does not know  
+12 It was lying on its face in the water, how it came to lie there, she does not know
+
 NOS How did it end up in the water?
 
 Fol. 59v
@@ -117,12 +115,6 @@ NOS How does she know that it happened with her feet?
 
 She conjectured that it happened, as she pushed the child away from her with her feet
 
-EMW 2016 85
-
-!
-
-!
-
 17 She knows no such thing, other than in her great swoon she pushed it away, on that score she could say nothing else, other than the umbilical cord, in her pushing away the child, must have ripped away.  
 18 That she could not say, for she does not know, what she did out of such great anguish.
 
@@ -133,22 +125,23 @@ Fol. 60v
 and she, regardless of all sincere admonishments, nevertheless kept the truth behind her, she was led to the torture rack, stripped, the leg-screws applied, finally also several times after being bound the hands were hoisted. And though she was with the most diligent and highest earnestness admonished not to allow her body to be given over to complete ruin and to be made a cripple, she stubbornly remained longer than a good hour in her denial, and instead the words to be heard from her mouth, that she indeed laid the child in the water, she did not know that it was alive, which words and speech she continually repeated and stood steadfastly by her evil denial. Then she finally, after agitated coaxing [to tell the truth], asked to be let loose, and made the fast promise that she wanted to tell the pure truth and to confess. Upon this she was released from torture and to the again administered interrogatoria she confessed her legal Bekanntnis.  
 She says upon remission of torture:
 
-1. 1  Not during the birth, but as it came from her, it had moved.
-2. 2  Affirmat; it had done that
+1  Not during the birth, but as it came from her, it had moved.
+
+2  Affirmat; it had done that
 
 Fol. 61r
 
 3 It had moved its hands and also touched itself with them. Pro ut errant inquisitae verba.
 
-4. 4  Says no.
-5. 5  Says yes, that it indeed moved.
-6. 6  Says yes it had lived.
-7. 7  For this reason, that it moved its hands.
+4  Says no.
 
+5  Says yes, that it indeed moved.
 
+6  Says yes it had lived.
 
-8 Says before the child came to the world, she did not have the will and premeditation. Afterwards however she laid it in the water, so that it  
-would die; at which point she [was led to?] speak, and with these words  
+7  For this reason, that it moved its hands.
+
+8 Says before the child came to the world, she did not have the will and premeditation. Afterwards however she laid it in the water, so that it would die; at which point she [was led to?] speak, and with these words  
 she lamented in the highest way her sorrow: “Oh I poor child, had I only spoken the truth earlier.”
 
 9 She had indeed laid the child in the water.  
@@ -161,13 +154,13 @@ she then took her child by the arms and laid it in the water on its face to the 
 NOS Why and to what end, she laid her child in the water? She says to that, so that it would drown.  
 Interroga 10,11,12,13, & 14 Cessat
 
-15. 15  She says yes, yes, yes, she had done that.
-16. 16  She says with the right hand as she grabbed it with the same, the umbilical
+15  She says yes, yes, yes, she had done that.
 
-cord was torn away.
+16  She says with the right hand as she grabbed it with the same, the umbilical cord was torn away.
 
-17. 17  That she did not know, that it would die
-18. 18  She says as in the previous.
+17  That she did not know, that it would die
+
+18  She says as in the previous.
 
 Fol. 62r
 
