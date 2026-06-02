@@ -49,9 +49,7 @@ Fol. 53v:
 
 14  Whether it was not thereby drowned?
 
-15  Whether the defendant did not with knowledge and intention push away the
-
-umbilical cord or rope?
+15  Whether the defendant did not with knowledge and intention push away the umbilical cord or rope?
 
 ## Source 2 Translation
 
