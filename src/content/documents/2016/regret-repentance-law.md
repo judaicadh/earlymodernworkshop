@@ -209,3 +209,128 @@ Fol. 53v
 
 ## Source 2 Original Text
 
+Stadt Archiv Braunschweig C. V# 108 Catherine Mundt 58r-63r
+
+Fol. 58r
+
+**Actum den 4t. Tags.. Septembri**
+
+**By the personnel assigned to the Inquisition**
+
+Inquisita ist anderweit eingefodert, mit gehörigen Fleiß, die Warheit nicht lenger zuhinterhalten, sondern die Selbe wie Sie es gegen Gott ihr gewissen und der Obrigkeit Verantwortten Knechte endlich frey willig zubekkenen und in der gute von sich zu sagen vermahnet worden; Da sie dann auff vorgehaltenen Interrogatoria folgende Andtwordt bey gütlichen Verhör und abgestattet.
+
+1  Saget nein das habe es nicht gethan.
+
+2  Das haben sie nicht gethan
+
+3  Cessat
+
+4  Saget nein: Sie habe es nicht gehört
+
+5  Das habe sie nicht gesehen , dann sie es ia mit den fueßen von sich gestossen.
+
+NOS:  
+Ob es dann schon todt gewesen, wie es von ihr gekommen? Das wiße sie nicht, dann Sie ia in der Ohnmacht gelegen.
+
+Fol. 58v
+
+6 Das wiße sie nicht, dann wie sie es angegriffen, wehre kein Leben mehr in dem Kinde gewesen.
+
+7  Cessat
+
+8  Saget nein das habe sie nicht gehabt, dann sie ia keine Handt an das Kind gelegt, dafür solte sie Gott behüten
+
+NOS Weil sie schwanger gewesen und eine Frau eine halbe stunde vor der geburdt sie gefragt waß es vor eine Beschaffenheit mit ihr hette, warumb sie es dann nicht von sich gesaget waß es vor eine Beschaffenheit mit ihr gegabt, wann sie nich den Willen und Vorsatz gehabt, das kind umbzubringen.
+
+Fol. 59r
+
+Das habe sie nicht gewust, daß sie ein kindt haben wollen, dann das voriges Kindt sich bey ihr geweget dieses aber nicht.
+
+9  Saget mit Willen nicht, dann sie ia in der großen Angst gelegen.
+
+10  Wie sie es nicht anders wiße , alß mit den fueßen, den sie nicht anders schließen künnte, weil sie das Kindt, vor ihrer? Fueßen liegen sehen.
+
+11 Saget nein, dann sie wiße nicht das sie es gethan, dann waß sie gethan habe sie in ihrer großen Ohnmacht gethan.  
+12 Es habe in Waßer auff den Gesichte gelegen, wie es darauff zu liegen komme, wiße sie nicht.
+
+NOS: Wie es dann in das Waßer gekommen?  
+Fol. 59v  
+Wie sie nicht anders wiße daß sie es mit dem fueßen hineingestoßen.
+
+NOS: Woher sie dann wiße, daß es auff dem Gesichte in Waser gelegen Sie habe es so gefunden daß es in Waßer auff seinem gesichte gelgege.  
+NOS: Warum sie es dann nicht in Waßer liegen laßen, weil sie es in Waser gefunden, und dennoch einmahl an einen andern Ordt in das
+
+Waßer von getragen?  
+Saget das wiße sie nicht alß daß es ihr in schlaff also vorkommen daß  
+sie es ins Waßer legen solte.  
+13 Saget nein das wehre ihre Meinung nicht gewesen, dann sie wegen die großen Ohnmacht nicht wiße wie ihr geschehen sey.  
+14 Cessat
+
+Fol. 60r
+
+15 Mit Willen habe sie es nicht gehan. Es müßte die Selbe abgerißen sei wie inquisita es mit den Fueßen fortgestoßen.  
+16 Es wehre mit dem fues geschehen.  
+NOS: Woher sie dann wiße daß e smit dem fues geschehen? Sie muhtmaßete daß es geschehen, wie sie das Kindt mit dem fues von sich gestoßen.
+
+17 Sie wiße solches nicht dann Sie es in ihre großen ohnmacht von sich gestoßen, dahero Sie nicht anders sagen künte, alß daß die Nabelschnur, in dem hinwegstoßen des Kindes, muste abgerißen sey.  
+18 Das koenne sie nicht sagen, denn sie nicht wiße, waß sie vor grosser angst gethan.
+
+Nachdem nun die güte bey der Inquisita gantz geschloß abgegangen, und sie bey vörigen Verneinen und schon abgestatteter Andtwort lediglich geblieben: Hatte man darauff die Selbe zu dem Peynigungs Keller führen lassen allda durch den Scharfrighter von Fallersleben der Lehnerdt Kammenberg die zur peynigung gehörige instrumenta ihr vorgelegen worden; Weil aber auch solches nicht bey ihr effectuiren mögen
+
+Fol. 60v
+
+und sie dennoch die Warheit allen treuhertzigen Vermahnen ohngeachtet hinterhalten. Ist sie zur Peynignungs-leiter gefuhret daselbst entbloßet, die Beynschraube ihr angelegt endtlich auch zu unterschiedenen mahlen nach Beschehener Schnurung der Hände auffgezogenen; Und ob man Sie aufs allerfleißigsten und mit höchste Ernst Vermahnet ihrem Leib nicht zum gäntzlichen Verderber hinzugeben und sich zum kruepel machen zulaßen; Ist sie lenger dann einer guten Stunde bey Ihre ableugnen inständigst geblieben, und stätts die Wordt auß ihrem Munde hören laßen, daß Sie das Kindt ins Waßer gelegt , Sie wiße aber nicht daß es gelebet welche Worte und reden sie verständig wiederhohlet und bey ihrem boßhafftenVerneinen bestendig ist geblieben, da Sie dann letzlich auff beweglichliches Zureden [die Warheit zusagen], umb Loßlaßung gebeten , und das feste Verspreschen Gethan daß Sie die reine Warheit sagen und bekennen wolte; Worauff sie der Marter erlaßen, und auff die ihr nochmals vorgehaltene ***interrogatoria*** nach gesetzes Bekantnüß gestehen; Saget remissa tortura
+
+1 In der Gebührt nicht, sondern wie es von ihr gekommen, hatte es sich geweget.
+
+2 Affirmat; das hette es gethan
+
+Fol. 61r  
+3 Es hette sich mit den Händen geweget und mit dem selben gefinger Pro ut errant inquisitae verba
+
+4  Saget nein
+
+5  Saget ia; dann es sich ia gereget
+
+6  Saget ia es hette gelebet
+
+7  Daran, weil es die hände gereget
+
+8  Saget vorher ehe das kindt zur Weldt gekommen, habe sie dann Vorsatz und Willen nicht gehabt: Nachdem aber habe sie es ins Waßer geleget, daß es sterben solte; Wobey sie die Reden fuhrete und mit diesen Worten ihren Jammer hochst betaurete: O ich armes Kindt, hette ich doch ehe die Warheit gesaget.  
+9 Sie hette das kindt ia ins Waßer gelegt  
+NOS Wie se es dann gemacht, daß sie es ins Waßer geleget? Wie ihr Kindt zur Weldt gekommen, wehre ihr eine Ohnmacht übergegangen, wen die vorbey gewesen und sie sich wieder vermütert
+
+Fol. 61v  
+hette sie ihr kind bey den Armen genommen, und in das Waßer hineingelegt
+
+zu dem Ende auff das Gesichte gelegt daß es vertrincken sollen, und mügte das Kindt woll einen halbe vierthel stunde darauff gelegen haben: Der liebe Gott müssen ia nicht bey ihr gewesen seyn, wie  
+Sie es ins Waßer gelegt  
+NOS Warumb und zu was Ende Sie den Ihr Kind, in das Waßer geleget hette? Saget darumb daß es vertrincken sollen. Interroga 10, 11, 12, 12 & 14 cessat
+
+15  Saget ia, ia, ia, das hette Sie gethan;
+
+16  Saget mit der Rechten Handt dann wie Sie mit der Selben daran gefaßet, wehre die Nabelschnurr stracks abgerißen.
+
+17  Das wiße sie nicht, daß es davon sterben können.
+
+18  Saget wie in Vorigen.
+
+Fol. 62r
+
+**Actum den 7. Tag 7bris 1693**  
+**Von denen zur Inquisition Verordteten**
+
+Inquisitio ist nochmahlen über die, nach erlaßener Marter, ihr vorgehaltene interrogatoria Vernommen, da Sie dann die Selbe in allen mit voriger ihriger Außage bestendigst confirmiret undt in allen gleich sachen  
+ratificiert undt da von nichts ab oder hinzu gethan.
+
+Worauff sie dann von einen befraget, warumb sie dann ihr Kindt in das Waßer geleget, daß es ersauffen sollen?
+
+Saget weil es ihr in Schlaff so vorkommen, hette sie den Willen gefaßet, das des Kindt in das Waßer geleget.
+
+NOS: Warumb sie dann ihr Kindt nicht an dem Ordt liegen laßen, der selbe sie es zu erst hingeleget, und hernachmals nach einen andern Ordt getragen?
+
+Saget dings darumb weil des Schefmeisters, von St. Leonhardt sein Hundt zugegen gewesen und sie befurchtet und besorge, weil das Waßer an dem ersten Ordt flot
+
+Fol. 63r
+
+gewesen, der Hundt das Kindt aufffreßen mügte, deshalber Sie das kindt an einen ander ordt in das Waßer hingetragen.
