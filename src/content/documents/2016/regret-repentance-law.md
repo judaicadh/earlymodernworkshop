@@ -22,24 +22,36 @@ Stadt Archiv Braunschweig C V #108 Catherine Mundt interrogation translation f 5
 
 Fol. 53r:
 
-1.   Whether the child born from her did not move during the birth?
-2.   Whether it did not move after the birth?
-3.   How and in what way did it move?
-4.   Whether there was no birth from her?
-5.   Whether it did not come into the world living?
-6.   Whether it did not live after the birth?
-7.   How did the defendant note that it lived after the birth?
-8.   Whether she did not have the intention and forethought to take the child’s life?
-9.  Whether she did not with intention and forethought push the child away from her after she brought it into the world?
+1  Whether the child born from her did not move during the birth?
+
+2  Whether it did not move after the birth?
+
+3  How and in what way did it move?
+
+4  Whether there was no birth from her?
+
+5  Whether it did not come into the world living?
+
+6  Whether it did not live after the birth?
+
+7  How did the defendant note that it lived after the birth?
+
+8  Whether she did not have the intention and forethought to take the child’s life?  
+9 Whether she did not with intention and forethought push the child away from her after she brought it into the world?
 
 Fol. 53v:
 
-10.   Why she pushed it away from her?
-11.   Whether the defendant did not have the intention and forethought, that the child through this pushing should come to lie on its face?
-12.  Whether it was not through this pushing away that [the child] came to lie on its face?
-13.  Whether the defendant was not of the intention and idea that the child through this lying on its face should drown?
-14.   Whether it was not thereby drowned?
-15.   Whether the defendant did not with knowledge and intention push away the umbilical cord or rope?
+10  Why she pushed it away from her?
+
+11  Whether the defendant did not have the intention and forethought, that the child through this pushing should come to lie on its face?  
+12 Whether it was not through this pushing away that [the child] came to lie on its face?  
+13 Whether the defendant was not of the intention and idea that the child through this lying on its face should drown?
+
+14  Whether it was not thereby drowned?
+
+15  Whether the defendant did not with knowledge and intention push away the
+
+umbilical cord or rope?
 
 ## Source 2 Translation
 
