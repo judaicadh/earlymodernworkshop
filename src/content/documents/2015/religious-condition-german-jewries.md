@@ -309,6 +309,8 @@ Auf Seiten der Juden sey dieses eine große Hinderniß, daß sie alles aufs scha
 
 Solchergestalt verließen wir nun Franckfurth am Mayn nach dem wir die verborgene gute Gemüther so viel wir diesesmahl gekönt, aufgesucht, und durch andere ihnen die nöthige Bücher heimlich zuzustellen besorgt haben, öffen[tlich] sind wir auch wohl, ich außer der Gaße, mein Gef. auch in der Gaße ihnen nachgegangen, haben auch einige wenige Bücher mit guter Gelegenheit unter sie gebracht, auch einige Gespräche gehalten, aber das Zeugniß behalten die Franckf. Juden, daß sie hart und eifrig sind in ihren Aberglauben, haben auch vermuthlich ein scharffes Verbot wieder unsere Bücher ausgehen laßen, und weil sie hier dem Handel so sehr ergeben, und sich für den Bann der Rabbinen mehr als für Gott fürchten, so haben wir wenig Eingang, wir hoffen aber Gott werde uns an anderen Orten wieder desto beßern Eingang schenken.
 
+**Footnotes**
+
 [^1]: The book is also known as ספר עמודי עולם. See MORRIS FAIERSTEIN: The Libes Briv of Isaac Wetzlar, Atlanta 1996. See also the presentation by Rebekka Voß: Striking a Pietist Chord: Isaac Wetzlar’s Proposal for the Improvement of Jewish Society.  
 [^2]: This quote is taken from the opening sentences of the ‘Libes briv’. See FAIERSTEIN: Libes Briv, p. 43.
 
