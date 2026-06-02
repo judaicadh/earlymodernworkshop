@@ -265,7 +265,7 @@ Footnotes:
 
 [^7]: ‎‫אור לעת ערב‬‎ was one of the most successful missionary tracts of the Pietists of Halle. ‫יוחנן קימחי‬‎ (actually Johannes Müller): ‫להאיר עיני ישראל ויראו בנחמות ציון בשוב ה' ציון :אור לעת ערב.‬‎ Halle (Saale) 1728. In this case, it was probably the addition from 1732.
 
-[^8]: ‫ספר עקרים ה"ה עקרי האמונה והתורה של עדת המשיחיים. דאס איזט טייטש דיא גרינדי פון דעם‬‎ Wetzlar probably refers to: ‫גלויבן און פון דער ערנונג פון דער גמיינדי דער משיחיים‬‎[...]. [Augustana confessio in germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg [...], Halle 1732. It could also be that he was referring to the missing work of Caspar Calvörs: Judenkatechismus, das ist, kurtzer weg des lebens zu dem Meßia und heylande der welt, gezeiget dem hause Israel; den unbekehrten zur erleuchtung, den bekehrten zur stärckung: aufs neue mit einer vorrede herausgegeben von Johann Heinrich Callenberg, Halle 1732.
+[^8]: ‎‫ספר עקרים ה"ה עקרי האמונה והתורה של עדת המשיחיים. דאס איזט טייטש דיא גרינדי פון דעם‬‎ Wetzlar probably refers to: ‫גלויבן און פון דער ערנונג פון דער גמיינדי דער משיחיים‬‎[...]. [Augustana confessio in germanicum Judaeorum idioma transferri curauit ediditque Io. Henr. Callenberg [...], Halle 1732. It could also be that he was referring to the missing work of Caspar Calvörs: Judenkatechismus, das ist, kurtzer weg des lebens zu dem Meßia und heylande der welt, gezeiget dem hause Israel; den unbekehrten zur erleuchtung, den bekehrten zur stärckung: aufs neue mit einer vorrede herausgegeben von Johann Heinrich Callenberg, Halle 1732.
 
 [^9]: Actually ‫ספר חובות הלבבות‬‎ = „Duties of the Heart", from Bahya ibn Pakuda (approx. 1050-1120, Zaragoza).
 
