@@ -386,21 +386,25 @@ Solchergestalt verließen wir nun Franckfurth am Mayn nach dem wir die verborgen
 
 [^38]: = Ein Jude aus Fürth, mit dem der Missionar Widmann lange Gespräche zu Beginn des Jahres 1732 führte und eine freundschaftliche Beziehung entwickelte.
 
-[^39]: 
+[^39]: Die Episode mit der Frau Münchhausen fand kurze Zeit davor in Hannover statt. Siehe darüber im gleichen Tagebuch, Bl. 126<sup>r</sup>.
 
-[^40]: 
+[^40]: ‎= Eine Missionsschrift, welche die Missionare selbst verfasst haben. Der Name *Joreh Deah* [=Lehrer der Weisheit] ist eine Anspielung an einem Werk des mittelalterlichen jüdischen Gelehrten Jaacov ben Ascher und wird oft mit einem Teil des Werks von Josef Karo *Schulchan Aruch* (‫שולחן ערוך‬‎).
 
-[^41]: 
+[^41]: ‎Wahrscheinlich handelt es sich um *Mikhtav Ahava* (‫מכתב אהבה‬‎), der vermutlich von Johann Müller, der Autor des *Or Le'et Erev* (‫אור לעת ערב‬‎), verfasst wurde. Siehe auch Dokument 1, Fußnote Nr. 5.
 
-[^42]: 
+[^42]: Die Vorrede war eine Adressierung an den christlichen Leser auf Latein und hätte vermutlich den wahren Charakter des Buchs sofort verraten.
 
-[^43]: 
+[^43]: In einer Jiddischen Übersetzung.
 
-[^44]: 
+[^44]: Maleachi 3:23.
 
-[^45]: 
+[^45]: Der Bericht des zweiten Missionars wurde in Form eines Dialogs wiedergegeben: *Jud: ich kan nicht glauben, daß einer vor den andern kan sterben, es ist auch nicht geschrieben wie ihr sagt, von eurem MASCHIACH. **ES ist wider alle Vernunfft**! Solches redte der Jud mit starcken affect. Ich: da sehet ja von einem, der unsern SCHALOM [=Frieden] auf sich habe, er ist kein RASCHA [=Böser] gewesen, weil er keine betrug in seinem Mund gehabt, und eben dieser, SCHELOMENU [=unser Frieden] ist medicca, um unserer Sunden wilen. Jud. Ja, **das heißt noch nicht, daß er um unserer Sunden willen gestorben seye**. Ich. P.9 stehet es klar CI NIOSAR MEEREZ CHAJIM = Er ist außerottet aus dem land der Lebendigen. Das ist ein wahrer todt. Und p. 6 lesen wir, daß er unsere aller Sünde getragen, und Gott auf ihn solche anlaußen(?) lassen. MEDICCA MIPAESCHAENU [=Heilung von unseren Sünden] sind große Sünden... Jud. Wann Jesus der Mesias und König wäre, so müßte er vor der gantzen welt publiciret worden seyn. Ewer sagt, Er seye König, der ander nein, **wer weiß da, was gewesen.** Ich. Er ist ja publicirt Es cii. So, wie es Gott verheißen, dann er stehet als ein NES [Wunder], und die OMOS [Nationen] verstehen es. Welchen die OMOS annehmen, der ist ein erklärter Meßias, aber es sind RESCHAIM [Bösen], die geben ihm die Ehre nicht, und solche werden getödtet, die streiten wider Christum. ...*
 
-[^46]: 
+*Jud. die GOMORRA [Teil des Talmuds] sagt nicht, daß er werde ein König seyn. Ich: Ein König ist MASCHIACH. Jud. Ich meine kein König, wie die Könige der Welt. Ich. Das könnet ihr auß diesem Capitel sehen, göttliche dinge werden von ihm ausgesprochen, die heyden sollen ihn fragen, wie ein Volck seinen Gott Es.c.8. Er richtet nach dem Herzen, nicht nach der Zeugen, hören oder sehen... und daß er publicirt seyn muß, könnet ihr darauß lernen, das land wird seyn voll erkäntnus des Herrn, die Rebellen sind wie Löwen, --- sie nehmen ihn eben nicht alle an, aber gleichwohl mußen sie ruhig sizen und können seine berg nicht verstohren...*
+
+*Jud. **das alles so zu glauben ist gar nicht vernünfftig!** Ich. Das scheint ja wider die vernunfft zu seyn wann Abraham seinen Sohn todten soll, in dem ein groß Volck sole gebohren werden. Jud. Gott hat ihn geprüfft. Ich. Das wußte Abraham nicht, Isaac glaubte, da ihm Gott befahl Holz zum todt zu tragen und ließe sich binden, da nun Gottes Wort da ist, muß man glauben über Vernunfft.* AFSt/H K 56, Bll. 217v-218r (Herv. A.S.).
+
+[^46]: AFSt/H K 56, fol. 219 v.
 
 [^47]: Ernst Christoph Hochmann von Hochenau (1670-1721), ein ‚Radikalpietist‘ und Mitbegründer der Separatisten-Gemeinde in Berleburg (Hessen).
 
