@@ -31,8 +31,14 @@ const {
     tags = [],
     original_language_body,
     language,
-    resource_link = []
+    resource_link = [],
+    bepress_id,
 } = document.data;
+
+const fordhamBase = `https://research.library.fordham.edu/emw/emw${year}/emw${year}`;
+const plumxUrl = bepress_id
+    ? `https://plu.mx/plum/a/?bepress_url_id=${encodeURIComponent(`${fordhamBase}/${bepress_id}`)}`
+    : null;
 const docFileName = document.id.split('/').pop().replace('.md', '');
 const { Content, headings } = await render(document);
 const extraHeadings = [];
@@ -65,6 +71,7 @@ const safeTags: string[] = tags ?? [];
                     keywords: tags?.join(', '),
                 }}
         />
+        {plumxUrl && <script async src="//cdn.plu.mx/widget-popup.js"></script>}
     </Fragment>
 
     <section class="py-16 sm:py-20 bg-gray-50 dark:bg-gray-900 transition-colors">
@@ -133,8 +140,17 @@ const safeTags: string[] = tags ?? [];
                         </div>
                     </div>
 
-                    <!-- Desktop description callout -->
-
+                    <!-- PlumX metrics (mobile) -->
+                    {plumxUrl && (
+                        <div class="lg:hidden mb-5">
+                            <a href={plumxUrl}
+                               data-popup="right"
+                               data-badge="true"
+                               class="plumx-plum-print-popup plum-bigben-theme"
+                               data-site="plum"
+                               data-hide-when-empty="true">{title}</a>
+                        </div>
+                    )}
 
                     <!-- Mobile accordions -->
                     {description && (
@@ -329,13 +345,26 @@ const safeTags: string[] = tags ?? [];
                     )}
                 </div>
 
-                <!-- Right-hand ToC (desktop) -->
-                {allHeadings.length > 0 && (
-                        <aside class="hidden lg:block sticky top-28 justify-self-end w-[320px]">
-                            <nav class="space-y-2 bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
-                                <h2 class="text-base font-semibold mb-2 text-gray-900 dark:text-gray-100">On this page</h2>
-                                <ul id="toc-desktop" class="space-y-1"></ul>
-                            </nav>
+                <!-- Right-hand sidebar (desktop): ToC + PlumX -->
+                {(allHeadings.length > 0 || plumxUrl) && (
+                        <aside class="hidden lg:block sticky top-28 justify-self-end w-[320px] space-y-4">
+                            {allHeadings.length > 0 && (
+                                <nav class="space-y-2 bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
+                                    <h2 class="text-base font-semibold mb-2 text-gray-900 dark:text-gray-100">On this page</h2>
+                                    <ul id="toc-desktop" class="space-y-1"></ul>
+                                </nav>
+                            )}
+                            {plumxUrl && (
+                                <div class="bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
+                                    <h2 class="text-base font-semibold mb-3 text-gray-900 dark:text-gray-100">Article Metrics</h2>
+                                    <a href={plumxUrl}
+                                       data-popup="right"
+                                       data-badge="true"
+                                       class="plumx-plum-print-popup plum-bigben-theme"
+                                       data-site="plum"
+                                       data-hide-when-empty="true">{title}</a>
+                                </div>
+                            )}
                         </aside>
                 )}
 

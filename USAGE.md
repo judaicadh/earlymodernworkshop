@@ -97,6 +97,12 @@ Raw `<iframe>` HTML strings are also accepted and rendered directly.
 </div>
 ```
 
+**`bepress_id`** is the numeric ID of the document in Fordham's Digital Commons repository (`research.library.fordham.edu/emw/emw{year}/emw{year}/{id}`). When present, a PlumX metrics widget appears in the sidebar (desktop) and below the title metadata (mobile), showing citation, usage, capture, and social activity counts. If omitted, no widget is shown. Example:
+
+```yaml
+bepress_id: 15
+```
+
 **`tags`** drive the `/tags/` index. Use existing tags where possible to avoid near-duplicates. Tags are slugified for URLs (spaces → hyphens, special characters stripped) but display with their original capitalization.
 
 **`description`** supports full Markdown, including bold, italics, links, and footnotes.

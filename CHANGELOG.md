@@ -18,6 +18,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Stray `</div>` in `[year]/index.astro` produced invalid HTML
 
 ### Added
+- PlumX metrics widget on document pages — add `bepress_id: <number>` to a document's frontmatter to display citation, usage, capture, and social counts sourced from Fordham's Digital Commons. Widget appears in the desktop sidebar and inline on mobile; script only loads on pages that have an ID
 - Highwire Press citation meta tags (`citation_title`, `citation_author`, `citation_publication_date`, `citation_journal_title`) on every document page — enables one-click save from the Zotero browser extension
 
 ### Changed

@@ -48,6 +48,7 @@ const documents = defineCollection({
         thumbnail: z.string().optional(),
         file: z.string().optional(),
         text_location: z.array(z.string()).optional(),
+        bepress_id: z.number().optional(),
 
         sections: z
             .array(
