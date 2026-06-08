@@ -9,4 +9,6 @@ slug: muzzles-senses-soul-salvation
 event:
   name: "Early Modern Workshop: Jewish History Resources"
   theme: Senses and Perceptions
+language:
+  - German
 ---
