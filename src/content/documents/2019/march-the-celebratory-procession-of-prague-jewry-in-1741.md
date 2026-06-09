@@ -115,21 +115,17 @@ XXI. came the so-called lace, cording and button-makers guild. These preceded th
 
 XXII. were followed by the shoemaker guild. In the front went the Starschen or guild elders in black German clothes, hats and coats, with an immensely large pewter guild tankard cast in the form of a boot on whose cover there was a shoemaker’s workshop with working journeymen; after these, the journeymen displayed themselves in various beautiful clothes. Furthermore,
 
-XXIII. preceded by a groom on horseback, two trumpeters, and two couriers, rode marching a handsome hussar company of married Jews—among whom were Abraham Zebrak and Michel Jurist—on riding school horses, all with Hungarian furs decorated with gold, silver and gilded smartly decorated fabrics, also hats adorned with egret plumes and ribbons, spruced beards14, and lances in hand, dressed in costly Hungarian fashion. These were followed by
+XXIII. preceded by a groom on horseback, two trumpeters, and two couriers, rode marching a handsome hussar company of married Jews—among whom were Abraham Zebrak and Michel Jurist—on riding school horses, all with Hungarian furs decorated with gold, silver and gilded smartly decorated fabrics, also hats adorned with egret plumes and ribbons, spruced beards[^29], and lances in hand, dressed in costly Hungarian fashion. These were followed by
 
 XXIV. two well-formed youths on horseback, one of whom masqueraded as a Jewish bride preciously attired with a gold-trimmed ruffles, with a garland and band of precious pearls on his head; the other, a bridegroom, also expensively costumed, caressing his bride most affectionately. In addition,
 
-XXV. a hussar company of bachelor Jews marched, led by two trumpeters; their smart Hungarian clothing consisted of velvet, damask, precious gold-trimmed furs, silver and gold brocade, *draps d'or*, all kinds of embroidered shirts, also hats decorated with gold, with egret plumes, ribbons; have also mustachios,15 lances in hands, riding on exceptionally beautiful horses with expensive saddlecloths decked out with braided ribbons. Hereafter
+XXV. a hussar company of bachelor Jews marched, led by two trumpeters; their smart Hungarian clothing consisted of velvet, damask, precious gold-trimmed furs, silver and gold brocade, *draps d'or*, all kinds of embroidered shirts, also hats decorated with gold, with egret plumes, ribbons; have also mustachios,[^30] lances in hands, riding on exceptionally beautiful horses with expensive saddlecloths decked out with braided ribbons. Hereafter
 
 XXVI. rides a wedding jester, with all sorts of wooden cooking dishes, spoons and plates hanging on him, and wearing a wooden pot instead of a hat. Next to him
 
 XXVII. a prankster dressed as a green harlequin on horseback could be seen.
 
-XXVIII. Other fools follow: one dressed in women's clothes pulled with reins a 40- year-old man pretending to be a child in a baby walker; this boy had a beer pacifier, and when he cried, the woman smeared his mouth with porridge; another was disguised as a woman carrying a man in a basket, making polite postures; another rode on a wooden horse, followed by one with a deer-head and on it
-
-7
-
-antlers, all of which amused the audience providing much entertainment. In addition,
+XXVIII. Other fools follow: one dressed in women's clothes pulled with reins a 40- year-old man pretending to be a child in a baby walker; this boy had a beer pacifier, and when he cried, the woman smeared his mouth with porridge; another was disguised as a woman carrying a man in a basket, making polite postures; another rode on a wooden horse, followed by one with a deer-head and on it antlers, all of which amused the audience providing much entertainment. In addition,
 
 XXIX. a pair of wild men, almost naked and seemingly covered with hair, held large wooden clubs, and brawled with each other, until one of them slammed the club to the ground, splitting it asunder. Behind these
 
@@ -139,7 +135,7 @@ XXXI. is a carriage dragged by six persons in harness dressed in green, where Ba
 
 XXXII. is a merry farmer's wedding, in which the guests dressed in peasant costumes made merry, dancing and jumping to all manner of peasant music played on fiddle, lyre, and bagpipe.
 
-This procession lasted until the evening. Then, soon after, the illumination began. As soon as the first houses were lit from the bottom rooms to the very top, partly by wind-lamps and partly by well-shaded lamps, sporting various symbols, the entire Jewish City came to resemble a flame. The Jewish Town Hall appeared elegantly where by the tower a life size grenadier guard moved in unison repeatedly presenting arms. The top of the tower was adorned with many illuminated spheres and underneath in a gallery hung three beautifully lit panels that proclaimed a plea to Our Most Gracious Queen and Prince written in Hebrew, Latin and German. Illuminated were the Alt-Neu Synagogue from top to bottom, as also were the inscriptions in the windows of the Klaus-Synagogue and some spheres at the top.16 Likewise, the ten windows of the dwelling of the *parnas17* of the month, Wolf Lichtenstadt were illuminated by graceful paintings, and its noteworthy Latin and German verses made an attractive appearance.
+This procession lasted until the evening. Then, soon after, the illumination began. As soon as the first houses were lit from the bottom rooms to the very top, partly by wind-lamps and partly by well-shaded lamps, sporting various symbols, the entire Jewish City came to resemble a flame. The Jewish Town Hall appeared elegantly where by the tower a life size grenadier guard moved in unison repeatedly presenting arms. The top of the tower was adorned with many illuminated spheres and underneath in a gallery hung three beautifully lit panels that proclaimed a plea to Our Most Gracious Queen and Prince written in Hebrew, Latin and German. Illuminated were the Alt-Neu Synagogue from top to bottom, as also were the inscriptions in the windows of the Klaus-Synagogue and some spheres at the top.[^31] Likewise, the ten windows of the dwelling of the *parnas[^32]* of the month, Wolf Lichtenstadt were illuminated by graceful paintings, and its noteworthy Latin and German verses made an attractive appearance.
 
 Thus
 
@@ -148,8 +144,6 @@ N.I. Peperit filium, vocavit eum Joseph, & dixit: Dominus mihi adhuc filium supe
 And gave birth to a son, called him Joseph, saying, "GOD will give me another son."
 
 N. II. Deus erat cum Joseph, & ille regnabat. Gene. 42 v.6
-
-8
 
 GOD was with Joseph and he was regent in the country.
 
@@ -161,7 +155,7 @@ N. IV. Exultavit cor meum in Domino, & apertum est os meum super inimicos meos. 
 
 My heart is joyous in the Lord, and my mouth has opened over my enemies. N.V. Josephus filius accescens. Gene. 49. v. 22.  
 Joseph a new-grown son,  
-In high scepter together with the crown.18
+In high scepter together with the crown.[^33]
 
 N. VI. In te domine speravi, non confundar. Psalm. 30 [sic! 71]. v. 1. In thee, O Lord, do I put my trust:  
 Let me never be put to confusion.  
@@ -175,8 +169,6 @@ N. IX. Laetabor & psallam nomini tuo.
 In you O Lord I want to rejoice,  
 Frolicking, sing psalms, shouting to you.
 
-9
-
 N. X. Erátque Dominus cum eo, & portabat omnibus magnum gaudium The Lord, was always with Joseph,  
 And brought great joy to all.
 
@@ -184,19 +176,21 @@ Furthermore, some illuminated pyramids appeared on the Jewish town gates with th
 
 On the first gate.  
 VIVat  
-Queen Maria, may She live a long life, may She be amused Also our newborn Prince Joseph next to Her.
+Queen Maria, may She live a long life, may She be amused
+
+Also our newborn Prince Joseph next to Her.
 
 On the second gate.  
-Apprehendit ambas portae fores cum postibus suis & sera. Jud. Cap. 16. v. 5th He took both gates,  
+Apprehendit ambas portae fores cum postibus suis & sera. Jud. Cap. 16. v. 5th
+
+He took both gates,  
 Lock and bolt;  
 Enter the guest in here,  
-No gate must be closed today.19
+No gate must be closed today.[^34]
 
 On the third gate.  
 Veniam ad te tempore isto, & habebit filium Sara uxor tua.  
 I want to come to you again, so Sara your wife should have a son.
-
-10
 
 Thus, in order to affirm our most humble devotion to our Most Gracious Monarch, no effort was spared in this procession and illumination to implement everything imaginable for the joyous celebration of this festival. In order to prevent disarray, the Primator Frankel (who was most zealous that these solemn events be recorded and ready within seven days) made tickets available for high and low spectators, providing them with the best possible places from which to observe. Moreover, to accommodate persons of high estate as much as possible, he, along with the assistance of the aforementioned commissioners, made all the requisite arrangements: in his apartment, two specially decorated clean rooms, in one an exquisite banquet prepared smartly by Christian cooks, in the other, an admirable confection representing an arch of honor within which Her Majesty the Queen held the newborn Most Illustrious Prince in her arm. There was then no shortage of different varieties of the most refined foreign wines, served most generously. Thus, there was no lack of the most humble zeal, testifying to the veneration of the Highest Superior.
 
@@ -244,7 +238,7 @@ Footnotes
 
 [^6]: An English translation appears with a reproduction of the engraving in Alfred Rubens, *A History of Jewish Costume* (London, 1973), p. 134. The engraving also served as an inner “wrapper”of the book.
 
-[^7]: It is accessible online: [https://commons.wikimedia.org/wiki/File:Stamps_of_Israel_-_Souvenir_Sheet_-_Taviv.jpg](https://commons.wikimedia.org/wiki/File:Stamps_of_Israel_-_Souvenir_Sheet_-_Taviv.jpg)
+[^7]: It is accessible online: [https://commons.wikimedia.org/wiki/File:Stamps_of_Israel_-*Souvenir_Sheet*-_Taviv.jpg](https://commons.wikimedia.org/wiki/File:Stamps_of_Israel_-_Souvenir_Sheet_-_Taviv.jpg)
 
 [^8]: "Ein Curiosum aus dem Jahre 1741," *Deborah* II (Prague, 1866), 54-55, 66-67. I referred to it previously in “Once Were Warriors: Visual Representation of Jews and the Military in the Early Modern Period” (in Hebrew), *Picturing the Past: Essays in Honor of Richard I. Cohen*, edited by Ezra Mendelsohn, co-edited by Eli Lederhendler (Jerusalem, 2017), pp. 121-140 and “The Making of Habsburg Jewry in the Long Eighteenth Century,” *Cambridge History of Judaism: vol. VII The Early Modern World, 1500-1815*, edited by Jonathan Karp and Adam Sutcliffe (Cambridge, 2017), ch. 29, pp. 763-797.
 
