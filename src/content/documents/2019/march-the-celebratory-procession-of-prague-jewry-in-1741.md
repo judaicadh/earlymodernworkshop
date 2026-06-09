@@ -200,6 +200,168 @@ I am indebted to Dr. Louise Hecht and Dr. Cornelia Aust for their helpful sugges
 
 ## Source 1 Original Text
 
+*Beschreibung Einer allerunterthänigsten Freudens-Bezeugung, Welche wegen Hoher Geburt Des Durchleuchtigsten Erz-Herzogen und Prinzen von Oesterreich* JOSEPHI, BENEDICTI, JOANNIS, AUGUSTI, ANTONI, MICHAELIS, ADAMI*, Die Prager Judenschaft den 24. April des 1741. Jahrs In kostbar- zierlichstem Aufzug und Zweymaliger* ILLUMINATION *gehalten.*
+
+Demnach Die Allerdurchleuchtigst- und Großmächtigste zu Hungarn und Böheim Königin, Erz-Herzogin zu Oesterreich, und Groß-Herzogin zu Toscana, mit einem lang erwünschten Prinzen entbunden worden, als hat wegen solcher Hohen Geburt, so bald nur diese höchsterfreuliche Zeitung in Prag erschollen, und kundbar worden, der Simon Wolf Frankel, vormals gewesener Vice- nunmehro aber allergnädigst würklich ernannter und bereits den 21. Marti von besagtem Primator Frankel, dann denen Aeltist- und Gemein-Aeltisten, wie auch anderen Vorsteheren der Jüdischen Gemeinde, zu Ehren Allerhöchst-gedachten Ihro Majestät der Königin, und neugebornen Prinzens veranstalten Illumination, bei welche die Juden-Aeltiste die Handlung diesem Tag in Tandl-Markt und ihre Laaden zu öffnen verboten, Nachmittag aber gegen drey Uhr ihre zwey Panier oder Fahnen mit allerhand Music durch die Juden-Stadt mit Lustbarkeit tragen lassen, der Primator Frankel denen Armen aber ein nahmhaftes Geld ausgeworfen, und zugleich in aller Arresten, so wohl Rath-Haus, Schachtley und Jüdischem Katzl- Arrest denen Arrestanten Geld, Brod, Fisch, Fleisch und andere Essen-Speis zutragen lassen, um fünf Uhr hernach fast alle Juden in ihre Synagogen sich verfügen müssen, allda ihre Gebeth-Psalm wegen glücklicher Niederkunft Allerhöchst gedachter Königin MARIEA THERESIAE und Gebornen Prinzens und Erz-Herzogs JOSEPHI &c. bey angezündeten vielen Lichtern Eben mit Music die Andacht celebriret, darauf gegen halber sieben Uhr in der ganzen Juden-Stadt, so wohl Reich- als Arme ihre Behausung von inn- und auswendigen Fenstern, wie auch Thurn auf dem Jüdischen-Rath-Haus illuminiret, nicht minder allda ein Ehren-Gerüste aufgestellet worden, worauf Waldhornisten mit Freuden-Schall nebst Aeltist-Gemein-Aeltisten und Beysitzere ein Zusammenkunft auf besagtem Rath-Haus mit grosser Illuminirung und Lustbarkeit bis nach Mitternacht gehalten und zugebracht haben, ferners besagter Primator Simon Frankel zu allerunterthänigster Beehrung Allerhöchst-besagter Geburt auch eine Invention,
+
+mit Zuziehung nachgesetzter Commissarien, benanntl. Davids Löbel Khue Prager Juden-Aeltisten Beysitzers, dann beeden geschwornen Aeltisten Deutschschreibern, Samuels David Koreff, Jacobs Kallmuß Procuratoris, ex parte deren Contribuenten Isaacs Baruch Austerlitz, in einem kurzen Termin ausgesonnen und bewürket, gleich wie alles ferners hin in mehrerm gründlich zu vernehmen seyn wird.
+
+Erstlich hat besagter Juden-Primator veranstaltet, die in der Judenstadt auf denen Kram-Stellen befindliche Tächer denen Zuschauern, damit sie besser sehen können, einige Ellen-weit von denen Häusern ablegen und Schranken machen zu lassen.
+
+II. So wohl den in Prag subsistirenden Hohen Adel, Geist- und Weltlichen, als auch hohe- und Niedere Instantien, dann Dames auf den am 24. April gehaltenen Solennitäts Aufzug (welchem verschiedene Hohe Ministri, Praelaten, auch Fürstliche Personen, Dames, Löbliche Magistraten der Königl. Prager Städten, nebst mehreren anderen Zuschaueren beygewohnet, und jeder nach Standes- Gebühr vermög ausgegebenen Quartier-Zetteln in denen ausgemessenen Häusern einquartieret worden) eingeladen.
+
+III. Seynd bey nachgesetzten drey Gassen-Thören, als nemlichen Alt- und Pinkes-Schul- dann Juden-Platz-Thor, Gallerien mit behangenen Teppichten, worauf Trompeter die Ankommende zu bewillkommen gestanden, gemacht worden.
+
+IV. Ist von Ihro Excellenz Herrn General- und Commendanten (Tit.) auf vorläufig-geziemendes Ansuchen zur Sicherheit wider alle besorgende Unordnung eine Soldatesca gestellet worden; So ist auch
+
+V. Am besagten Aufzugs-Tag wiederum denen Juden, gleich wie oben gemeldet, kein Handel im Tandel-Markt zu führen und zu treiben mit gegeben; Nicht minder
+
+VI. Veranstaltet worden, in allen Synagogen durch den ganzen Tag zu bethen die Psalm Davids gegen ausgetheilten Allmosen, wie auch zu fasten, und Abends mit Erleuchtung vieler Lichter die Schul-Ornaten anhängen zu lassen.
+
+VII. Haben obbenannte Deputirte Commissarien alle aufziehende zu Fuß, und zu Pferd in dem so genannten Jüdischen Baad oder Gemein-Hof und den ehemaligen Goltzischen Hof der Ordnung nach exerciret, wo so dann um 4. Uhr Nachmittags der Aufzug seinen Anfang genommen. Und zwar
+
+I. Ist der Jüdische Post-Brief-Trager in einem rothen Kleid, umgehängter Schnur und Post-Horn, um das Zeichen zum Aumarsch (sic) zu geben, blasend voraus geritten, welcher Marsch aus dem Jüdischen Gemein- dann sogenannten Goltzischen Hof den Tummel-Platz vorbey, zum Pinkes-Schul-Thor hinein, in die Gassen herunter, durch die Gold-Gassen, über den Platz bey drey Brunnen, folgsam gegen den Jüdischen Rath-Haus, und anderen Orten geführet und geschlossen worden.
+
+II. Seynd zwey Trompeter in Galla-Liberey den Marsch blasend geritten; Denen
+
+III. Sechs gleichförmig gekleidete Laufer mit Maschen, Bänder-Buschen, wie auch roth- mit Gold wohl verbramten Schürzeln gefolget,
+
+IV. Ist der Simon Wolf Frankel Prager Jüdischer Primator in einem schwarz- sammeten Schul-Rock, einer reichen Veste, und einem schwarz-sammet-mit Gold gestückten Paradell auf dem Haupt, auf einem propren Reitschuligen Capital-Roß, nebst darauf befindlicher reichen Equipage, und darneben zur Bedienung gegangenen zwey in gar schöner Liberey angekleideten Heiducken, geritten, Hinter seiner
+
+V. Ritte als Major der David Löbl Khue Aeltister-Beysitzer in einem schwarz- damastenen Schul-Rock, reicher Veste, über den Leib hangender goldenen Schärpe, verbramten Schul-Hut, nebst Bedeckung von sechs auf das schönste und kostbarest-Hungarisch gekleideten Husarn, dann des gedachten Primator sechs Reit-Knechten mitpropren Reit-Hand-Pferden, reicher Equipage, worunter eine von kostbar-*bonceau*-farben Sammet mit Silber gestückte Hand-Decke oder *Waltrappen*, welche der Primator *ex proprio* so propre hat machen lassen, sich befunden.
+
+VI. Gienge der Abraham Bunzl Aeltister-Beysitzer und die Gemein- geschworne-Schreiber- und Schul-Klöpfer in schwarzen Feyertags-Camelharenen Kleidern, mit hinter den Ohren stecken gehabten Schreib-Federn.
+
+VII. Folgeten zwey andere Schul-Klöpfer, welche zum Frühe-Gebet um vier Uhr ermahnen, deren eine acht- und achtzig Jahr alt, in seiner Hand einen feinen von Zinn, der andere aber einen von Holz vergoldten Schul-Hammer getragen; Hinter ihnen ist
+
+VIII. Eine grosse Anzahl von denen alten Jüdischen Gelehrten, und anderen Contribuenten in damastenen Schul-Röcken, und von Rauchwerk angehabten Schauben oder Schul-Mänteln und verbramten Schul-Hüten zu Fuß gegangen; Wie dann auch
+
+IX. Die Jüdische studirende Jugend nach vorher gegangener Music und Waldhornisten in zwey Colonnen mit vor sich hergehenden Laufer folgete; bey der ersten der Wolf Moyses Frankel, und der Simon Abraham Prespurg des Gemein- Aeltisten Sohn voraus mit Partisanen; die übrigen in schönen schwarz-sammeten, damastenen Jüdischen Röcken und reichen Vesten, mit Gold reich verbramten Cappin, herum von Maadern und Zobeln Rauchwerk benäheten Bramen, in Händen gehabten Büchern mit silbernen Beschlag; zum Schluß aber der Isaac David Frankel, und Samuel Austerlitz Sachsel, eingangs gedachten Commissarii Isaacs Austerlitz Sohn; bey der anderten hingegen voraus der Israel Koppl Frankel, nebst dem Simon David Khue mit einer goldene Schärpe, eben wie obige mit in Händen gehabten Partisanen, und mit der nachgefolgten hiesigen studirenden Jugend, in solche propren schwarz-sammeten und damastenen Röcken, reichen Vesten, mit Gold verbramt- und mit dergleichen Maadern und Zobeln umgenäheten Cappin, dann in Händen gehabten Büchern marschierten; Denen folgete ferners
+
+X. Eine Anzahl fremder Jüdischen Praeceptoren mit einem auf ihren Paradellen mit goldenen Tressen gehabten Schild Davids, und genäheten Buchstaben P. zur Unterscheidung der hiesigen von denen fremden, mit vorher gegangener Music.
+
+XI. Der Simon Aaron Neustadl in einem schwarz-sammeten Kleid, verbramten Paretl, und reicher Veste; nach seiner der Mändl Samuel Wedeles, in einem sammeten Schul-Rock und Schul-Mantel oder Schaub, und darauf befindlichen Maadernen Rauchwerk; nach diesen beyden eine Person in schwarz-sammeten Nobl-Kleid, dann einige Jüdische zu Pferd reitende Contribuenten in sammet- damast-gestückter Kleidung, reichen Vesten, und reich verbramten Paradellen, dann reicher Equipage nachfolgeten.
+
+XII. Der Moyses Salomon Gumperz Medicinae Doctor und Jüdischer Phisicus, mit vorher gehenden Laufer und zweyen in Türkischem Habit angekleideten Männern mit langen grauen Bärten, dann des besagten Gumperz neun-Jähriger Knab, wohl und hibsch gekleidter, Namens Joseph Löw, welcher des Vaters von Einer Löb. Medicinischen Facultät erworbenes Testimonium an einem hohen Stabel getragen, in einem schwarz-sammeten deutschen Doctor-Kleid, damastenen Mantel, Krage und Perruque, nebenher aber es Jüdischen Apoteckers Löbel Mischl Jaiteles Gemein-Aeltisten Sohn, Löbel Jaiteles, in einem roth-verschamerirten Scharlachenen Rock, reicher Veste, um dem Leib schreg angehangener goldenen Gürtl, mit einer in Händen gehabten Apotecker Büchse, folgsam alle Jüdische Barbierere mit in Händen getragenen Barbier-Zeug und Instrumenten, in schwarzer Kleidung, die Verheurathe in Mänteln, die Gesellen aber in allerhand propren Kleidern und eingeflochtenen seidenen Bändern, so wohl auf denen Hüten, als Armen, mit in Händen getragenen Barbier-Schießeln giengen; zum Schluß
+
+hinwieder ein Doctor Meschulem Bondi oder Eger genannt, im schwarz-sammeten Rock und damastenen Mantel, dann Perruque gekleidet.
+
+XIII. Der Sina Klaber Gemein Schul-Cantor mit neben hergetragenem Positiv oder Orgel-Fliegel, welcher auf zweyen Plätzen, nemlichen bey des Primators Haus, so genannten drey Bruunen, als auch bey dem Jüdischen Rath-Haus in höchster Stimme eine Wunsch wegen der allergnädigsten Königin und gebornen Prinzens in Hebräischer Sprach abgelesen, und bestehet solcher auf deutsch- transferirter in folgenden:
+
+GOTT
+
+Der Allmächtige, der Himmel und Erden, auch alle Creaturen erschaffen, und die Vor-Eltern, Abraham, Isaac, Jacob, Moyses, Aaron, König David, dessen Sohn Salomon, auch alle Könige Israels gebenedeiiet hat, der soll auch benedeien unsere Allergnädigst Königin MARIAM THERESIAM, Dero Herrallerliebsten Gemahls Königliche Hoheit, und den glücklich neugebornen Königl. Prinzen, und Erz- Herzogen JOSEPHUM, BENEDICTUM, JOANNEN, AUGUSTUM, ANTONIUM, MICHAELEM, ADAMUM, auch das ganze Durchleuchtigste Erz- Haus Oesterreich. GOTT soll erhöhen, mehren, und größern den Stuhl Ihrer Königreiche und Landen. Er soll Sie beschützen und beschirmen vor allem Unheil und Verfolgung. Der Allmächtige soll Ihre Feinde in Ihre Underthänigkeit bringen. Sie sollen vor Ihre Füße fallen, auch in allen Orten und streit beschützen. GOTT soll Ihr mit Ihren Erben und Erbs-Erben alle selbst verlangende Wohlfahrt am Leib und Seel zu ewigen Zeiten verleihen, wie auch Dero liebe getreue Räthe, Kriegs- Helden stärken zu Wasser und zu Land, durch welche dieses Königreich erhoben und vergrößert werde, Amen.
+
+Und dann
+
+XIV. Gienge ein Theil von der grossen Anzahl verschiedener armen Kinder und Waisen aus dem armen-Waisen- und Jüdischen-Studir-Haus in ihren ordinarie- Röckeln, blau- und weiß-melirten und mit rothen Bändern eingebundenen Häubeln, Gebeth-Bücher und beschriebene Tafeln in Händen tragende, beyneben giengen ihre in Feyertags-Kleidern angekleidete Schulmeistere, welche in höchster Stimm den in des König Davids Psalm am 72. Cap. enthaltenen Wunsch der Allerdurchleuchtigsten Königin und dem Prinzen singeten. Diese Waisen werden lediglich von der Allmosen und ohne Fundation erhalten, worüber der Primator Frankel bereits gegen dreyßig Jahre die Inspection hat. Nach denen kamen
+
+XV. die Jüdische Spiel-Leute, so nach vorgerittenem Trompeter, vorgetragener grossen Zinnenen Zunfts-Kanne, und vorgegangenen Zunfts-Vorsteheren, in neuer Kleidung mit Flügeln von blau- und rother Farbe, auch dergleichen Hüteln, auf
+
+welchen das Vivat gestückt ware, lustig musicirten; wobey auch ein Spiel-Mann gegen 80. Jahr seines Alters, in Weibs-Kleidern angekleidet mit einem auf dem Haubt gehabten und mit Perlen behäften Braut-Cranz und Bund, gleichwie die Jüdischen Bräute zu gehen pflegen, den Fagot bliese.
+
+XVI. So dann folgete die Juden-Metzker-Zunft, welcher vorgienge ein Meister mit einem drittehalb Ehlen hohen Zinnenen Schlüßel, und nach ihm die Aeltisten Meister deutsch gekleidet in braunen tüchenen Röcken, schwarzen Kamisölern, und Mänteln; So dann giengen die Gesellen, welche der Königin Wappen-Farben gleichgefärbte Kleider anhatten, als tüchene rohe Kamisöler mit tüchenen blumenanfarben Aufschlägen und Krageln, dann weiß-ausgeschlagenen Camelhaarenen Knopflöchern, dieselben zierten auch umgehängte silberne Gürteln, ausgenähte Schürzln, und grüne Häubeln mit Maschen und Reigern, in Händen aber trugen sie Fleisch-Beilen, worauf der Böhmische Löw signirt ware. Die übrigen Meister alsdann trugen in weißen Sterb-Kütteln, weißen Häubeln und Kragen ihren schönen roth-damastenen, mit übergoldten Inschriften, und mit des König Davids Schild gezierten, 15. Ehlen hohen, und von ehemaligen Kayser und König CARL dem IV. privilegirten Panier oder Fahn, Nach denen
+
+XVII. Ließen sich zwey Jüdische curiöse Luft-Springer mit ihren lustigen Künsten sehen, wovon einer die Spitzen zwey bloser Schwerter, eine an das Aug und die andere an das Herz setzend, unterschiedliche curiöse Posituren machte, welche als Laufer mit Maschen und Riegern gekleidet waren. Nachmals
+
+XVIII. Kame eine merkliche Anzahl der Kürschner, denen vorgiengen zwey Jüdische Trompeter in Sonntags-Kleidern, so dann zwey Laufer, derselben Führer der Antschl Simon Löbl Wiener in einem schwarz-sammeten Hungarischen Pelz und sammetener Zobel-Mützen, reich-draps d'orner Veste, auch einer umhangenden goldenen Ketten, und Schörpe auf einem schulrittigen Pferd ritte, und nebst demselben der Nahum Trebitsch; diesen folgten zwey in Futter-Kleidern angekleidete Mohren; als dann kamen die übrigen Kürschner in drey Abtheilungen: die in der erstern hatten die Kleidung mit kostbarem Rauch-Werk benähet; in der anderten wurde getragen eine vom verschiedenen Futter-Werk so künstlich zusammen gestückte Fahne, daß sie Ihro Majestät der Königin Namen MARIA THERESIA, und den Prinzen in der Wiegen ganz deutlich vorstellete; die dieser Fahne in grosser Anzahl nachgiengen, hatten auf Stängeln verschiedentliche ausgestopfte Thiere, auch alle in kostbarem Rauch-Werk und anderen dergleichen Futtern auf Persianische Art gekleidet waren; hinter denen mit seiner Pfeifen- Music ein ganz natürlich vorgestellter junger Beer geführet, und von 6. Männern eine Biene getragen wurde, auf welcher das angemachte Sträußerig und Bäumer einem Gestrüppe und kleinem Wald gleicheten, worinnen alle erdenkliche und wie natürlich ausgestopfte Thiere sich zeigeten, nach denen einer gehend verschiedene Schuß thate, zuweilen auch ein Löw mit seiner brillenden Stimme sich hören
+
+liesse. Endlichen, kame die dritten Abtheilung, in welcher getragen wurde die anderte vom verschiedenen Futter-Werk zusammen gestückte Fahne, auf welcher des König Davids Schild kunstreich vorgestellet zu sehen ware, wo mehrmal folgete eine merkliche Anzahl, so gleichförmig denen förderen mit kostbarem Rauch-Werk auf Persianische Art bekleidet, auf Stangln verschiedene ausgestopfte Thiere hatten. Ferners
+
+XIX. Trageten abermal die Fleisch-Hacker-Meister in weißen Sterb-Kütteln ihren anderten fünfzehn Ehlen hohen, und privilegirten Panier oder Fahn, auf dessen Gipfl ein Jüdischer 12. Jähriger Knab mit Namen Juda Jescaye Iserles in geschickt- und zierlichen Tanz-Kleidern sitzend, alle in denen Fenstern anwesende Geist- und Weltliche, hohe Ministers und Dames künstlich complementirte. Mehres
+
+XX: Gienge eine zahlreiche Schneider-Zunft mit vorgetretener annehmlicher Music, die Starschen, oder Zunft-Aeltisten auf deutsch, in schwarzen Kleidung und Mänteln hatten auf ihren Armen angehäftet einige seidene Resteln, nach ihnen wurde getragen ein von dergleichen Resteln zierlich zusammen genähetes Fähnlein, und das Schneider-Schild, welchen nachkamen propre gekleidte Gesellen mit auf den Hüten gehabten Maschen und Bändern. Als dann
+
+XXI. Kame die so genannte Schnür- *Posementir*- und Knöpf-Macher-Zunft, dieser giengen vor die Starschen oder Zunft-Aeltisten in schwarz-deutschen Kleidern und Mänteln, denen nachgetragen wurde ein vergoldter kleiner Hand- Werks-Stuhl, und künstlich verfertigtes Posementir-Schild; nach diesem kamen eben schwarz gekleidte Gesellen mit Posementir-goldenen Schörpen, Achsel- Bänder und Maschen auf den Armen und Hüten, auch schönen Puschen. Ihnen
+
+XXII. Folgete die Schuster-Zunft, da giengen vor die Starschen oder Zunft- Aeltisten in deutschen schwarzen Kleidern, Hüten und Mänteln, denen nachgetragen wurde eine ungemeiner Größe vom Zinn in Form eines Stiefls gegossene Zunfts-Kanne, auf dessen Deckel eine Schuster-Werkstatt samt arbeitenden Gesellen formiret ware; nach diesen zeigten sich die Gesellen in verschiedener schöner Kleidung. Weiters
+
+XXIII. Marschirte mit vorgerittenem Reit-Knecht, zweyen Trompetern, und vorgegangenen zweyen Laufern eine ansehnliche Husaren-Compagnie Verheurater Juden, worunter auch der Abraham Zebrak, und Michel Jurist waren; welche alle in Hungarischen mit Gold verbramten Pelzen, silber- und goldenen Leib-Stücken, propre verbramten, auch mit Maschen und Reigern gezierten Hüten, gemachten Spreiz-Bärte, und in Händen gehabten Lanzen, kostbar Hungarisch gekleidet, auf Schulrittigen Pferden ritten. Diesen folgten zu Pferd
+
+XXIV. Zwey wohlgestalte Jünglinge, wovon der eine vorstellte eine auf jüdisch pretiös gekleidte Braut mit gehabtem vom Gold gewürkten Kragl, und auf dem Haupt kostbar mit Perlen behäften Cranz und Bund; der andere aber einen Bräutigam, so auch kostbar gekleidet ware, und seine Braut auf das beste liebkosete. Mehr marschirte
+
+XXV. Eine Husaren-Compagnie unverheurater Juden, welcher vorritten zwey Trompeter; ihre propre Hungarische Kleidung bestunde in Sammet, Damast, kostbaren mit Gold gebramten Pelzen, in silber- und gold-reichen Procat, Draps d'or, allerhand gestückten leib-Stücken, auch in mit Gold portirten Hüten, darauf gehabten Reiger-Puschen und Maschen; hatten auch grosse Spreiz-Bärte, Lanzen in Händen, und extra schönen Pferde mit kostbaren Schabracken, auch eingeflochtenen Bändern gezieret. Hiernach
+
+XXVI. Ritte ein Hochzeits-Narr, welcher mit allerhand hölzernem Kuchel- Geschirr, als Löfeln und Tellern umgehenget ware, und anstatt des Hutes einen hölzenen Dopf aufhatte. Neben ihm aber
+
+XXVII. Ein reitender grün-harlequinisch angekleidter Schalks-Narr zu sahen ware. Welchen
+
+XXVIII. Nachkamen noch andere Narren, wovon der eine in Weibs-Kleidern verkleidet einen für ein Knäblein verstellten 40. Jährigen Mann im Lauf-Wägel, und bey Fuhr-Bändln führte; dieser Knab hatte ein Bier-Zeizl, und wann er geschrien, schmierte ihm das Weib einen Gasche in den Mund; ein anderer war als ein den Mann im Korb tragendes Weib verstellet, so artige Posituren machte; noch ein anderer ritte auf einem hölzernen Pferd, deme einer mit aufgehabtem Hirsch- Kopf samt Gewey folgte, welche ins gesamt mit viel- und mancherley Kurzweiligkeiten die Zuschauer erlustigten. Mehres ware
+
+XXIX. Zu sehen ein Paar wilder gleich als natürlich mit Haaren bewachsener Männer, welche grosse Holz-Knitteln, worauf Bäumeln waren, in Händen hatten, und mit einander rauften, bis der eine mit starkem Zuschlagen an der Erden den Knittel entzweyte. Hinter denen
+
+XXX. Giengen 2. Paar ungemein dick mit Woll ausgestopfte Viel-Fraß, welche zum lustigen Anschauen ihre Personen wohl agirten. Nicht minder ware
+
+XXXI. Zu belachen ein von 6. vorgespannt- und grün bekleideten Personen geführter Wagen, wo auf einem Faß der Bachus sitzend aus der in Händen gehabten Kanne der Sauf-Art nach den Drunk gar oft wiederholte. Den Schluß machte so dann
+
+XXXII. Eine lustige Bauern-Hochzeit, in welcher die in Bauer-Kleidern angelegte Gäste bey allerley Bauern-Music, als Geigen, Leyer, und Dudlsack mit Danzen und Springen sich erlustigten.
+
+Dieser Aufzug dauerte bis gegen den Abend. Als dann bald darauf die Illumination anfieng, und gleich der erstern die Häuser, theils mit wachsenen Wind-Lichtern, theils mit wohl rangirten Lampen von den untern Zimmern, bis auf den Gipfl beleuchtet, und verschiedenen Symbola zu lesen waren, so, daß die ganze Juden-Stadt einer Flamme gleichete, fürneml. aber ware nebst nachfolgenden das Jüdische Rath-Haus anzusehen, dann bey dem Thurn ein in Lebens Größe formirter Grenadier Schild-Wacht stunde, der bewegte sich völlig also, daß er oft wiederholt das Gewehr *praesentirte*: Die Thurn Spitz aber ware mit vielen beleuchtenen Kugeln gezieret, und underhalb auf einer Gallerie hangen drey schön illuminirte Taffeln, auf welchen der obgemeld unser Allergnädigsten Königin und Prinzen gethane Anwunsch in Hebraisch-Lateinisch- und Deutscher Sprache geschrieben stunde. Die angelegene Alt-Neu- von unten bis auf dem Gipfl, zugleich die Inscriptionen in der Claus-Schul-Fenstern, und auf dem Gipfl einige Kugeln beleuchtet waren; Ingleichen machte die in des Monat-Halters Wolf Lichtenstadt Behausung in 10. Fenstern illuminirte zierliche Mahlerey, und dessen bedeutende lateinisch- und deutsche Verse eine ansehnlich Vorstellung;
+
+Als
+
+N. I. Peperit filium, vocavit eum Joseph, & dixit: Dominus mihi adhuc filium superaddat. Gen. 3. cap. V. 24.
+
+Und gebar einen Sohn, hieß ihn Joseph, und sprach: GOTT wolle mir noch einen Sohn geben.
+
+N. II. Deus erat cum Joseph, & ille regnabat. Gen. 42 v. 6.
+
+GOTT war mit Joseph, und er war Regent im Land.
+
+N. III. Pro puero iste orabam, nune autem Dominus dedit petitionen meam. Sam. 1. cap. 1. v. 27.
+
+Um diesen Knaben bathe ich, nun hat mir der Herr meine Bitt gegeben.
+
+N. IV. Exultavit cor meum in Domino, & apertum est os meum super inimicos meos. Sam. 2. cap. 1.
+
+Mein Herz ist frölich in dem Herrn, und mein Mund hat sich aufgethan über meine Feinde.
+
+N. V. Josephus filius accescens. Gen. 49. v. 22.  
+Joseph ein neu-erwachsner Sohn,  
+In hohem Scepter samt der Cron.  
+N. VI. In te Domine speravi, non confundar. Psalm. 30. v. 1. In dich O Herr hoffe ich auf Erden,
+
+Wird' ewig nicht zu Schanden werden.  
+N. VII. Et Joseph erat Princeps in terra. Gen. Cap. 42. v. 6.  
+Joseph war Regent im Land,  
+Setzet all's in guten Stand.  
+N. VIII. Benedixit Dominus propter Joseph. Gen. C. 39. v. 5.  
+Das Haus war voller Seegen,  
+Um frommen Josephs wegen.  
+N. IX. Laetabor & psallam nomini tuo.  
+In dich O Herr will mich erfreuen,  
+Frolockend, psalmend zu dir schreien.  
+N. X. Erátque Dominus cum eo, & portabat omnibus magnum gaudium Der Herr, mit Joseph war allzeit,  
+Und brachte allen grosse Freud.
+
+Ferner zeigten sich auf denen Jüdischen Stadt-Thören einige illuminirte Pyramiden mit folgenden Inschriften.
+
+Auf dem Ersten Thor. VIVat
+
+VergnVget soL Maria Königin Leben, aVCh Vnser NeVgeborner PrInz Ioseph Darneben.
+
+Auf dem Anderten Thor*.*  
+Apprehendit ambas portae fores cum postibus suis & sera. Jud. Cap. 16. v. 5.
+
+Er nahm die beyde Thor,  
+Wo Schloß und Rigl vor;  
+Herein liebwerthe Gäst herein,  
+Heut muß kein Thor beschlossen seyn.
+
+Auf dem Dritten Thor.  
+Veniam ad te tempore isto, & habebit filium Sara uxor tua.  
+Ich will wieder zu dir kommen, so soll Sara dein Weib einen Sohn haben.
+
+Es ware also, um gegen der Allergnädigsten Monarchin die allerunderthänigst Devotion zu bezeugen, bey diesem Aufzug und Illumination kein Fleiß gesparet, alles zur vergnügten Celebrirung dieses Festins erdenkliches zu vollziehen; und weilen der Primator Frankel (dessen gefließener Mühe diese binnen sieben Tägen bereite Solennitäts-Anstalten alle zu zuschreiben seynd) auch das Vermeiden der vorfälligen Unordnung sich angelegen seyn ließe; dahero mit ausgegebenen Billets alle Hohe und niedere Zuschauer versehen wurden, welche denenselben die gelegeneste Oerter zum Zuschauen verschafften. Nicht minder die Hohen Stands Personen möglichst zu bedienen machte derselbe mit Zuziehung deren Anfangs bemeldten Commissarien alle erforderliche Anstaltn; wessentwillen in seiner Wohnung in zweyen besonders aufgebutzten sauberen Zimmern, als in einem ein von Christen-Köchen propre zubereites Super; in dem andern aber ein vortrefflicher Confituren-Aufsatz, welcher eine Ehren-Pforte, und in derselben Ihro Majestät die Königin, den Neugebornen Durchleuchtigsten Prinzen auf dero
+
+Armen haltend, praesentirte, angerichet waren; wie dann auch kein Mangel an verschiedenen Sorten delicatester ausländischen Weine diese bereitwilligste Bedienung mindern därfte; daß also an der underthänigsten Gefließenheit nichts mangelte, die gegen das Allerhöchste Haupt hegende Veneration zubezeugen.
+
+Vorstehender prächtiger Aufzug ist vom Anfangs gemeldten Aeltisten Deutsch- Schreiber der Prager Judenschaft zusammen getragen und zum ewigen Andenken beschrieben worden.
+
+
+
+&nbsp;
+
 Footnotes
 
 [^1]: Rachel Greenblatt, “On Jewish Prague in the Age of Schudt’s Frankfurt: Two Jewish Towns in Celebration on the Birth of an Heir to the Habsburg Throne (1716),” *Frankfurter Judaistische Beiträge* (Frankfurt, 2015), pp. 239-257; idem, “Jewish Festive Processions in Central Europe and their Depiction in Print (1716 und 1741)” (in Hebrew), *Picturing the Past: Essays in Honor of Richard I. Cohen*, edited by Ezra Mendelsohn, co-edited by Eli Lederhendler (Jerusalem, 2017), pp. 247-271; idem, “A Jewish Easter Lamb: Cultural Connections and its Limits in a 1716 Prague Procession,” *Connecting Histories: Jews and Their Others in Early Modern Europe*, edited by Francesca Bregoli and David B. Ruderman (Philadelphia, 2019), pp. 154-171, 275-279.
