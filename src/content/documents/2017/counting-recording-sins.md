@@ -396,36 +396,36 @@ nicht vonnöten daß du etwas auffschreibt.
 
 [new page]
 
-Gedancken und Begirden.
-Belustigung in unrainen Gedancken
-**_____________________________________________________**
+Gedancken und Begirden.  
+Belustigung in unrainen Gedancken  
+**_____________________________________________________**  
 Ob man solche gesucht und dar-  
-nach getrachtet. 
-**______________________________________________________**
+nach getrachtet.   
+**______________________________________________________**  
 Ob man solche angenommen ohn  
-ansehung der Personen.
-**______________________________________________________**
+ansehung der Personen.  
+**______________________________________________________**  
 Ob du zu aller zeit zum bösen ge-  
-naigt und berait gewesen.
+naigt und berait gewesen.  
 **_______________________________________________________**  
 Ob du mit Geistlichen gesündigt.
 
-**______________________________________________________**
+**______________________________________________________**  
 Ob du stumme und Sodomiti-  
-sche Sünd begangen.
+sche Sünd begangen.  
 **_____________________________________________________**  
 Ob su in den Nächtlichen be-  
-trug verwilligt.
+trug verwilligt.  
 **_____________________________________________________**  
 Ob du ursach darzu geben/  
-oder befördert habest.
+oder befördert habest.  
 **_____________________________________________________**  
 Ob du böse  
 Lieb gehabt / und wie  
-lang.
-**________________________________________________________**
+lang.  
+**________________________________________________________**  
 Ob du Kunst und Getränck ge-  
-braucht / die Lieb zu bekommen.
+braucht / die Lieb zu bekommen.  
 **________________________________________________________**
 
 [new page]  
