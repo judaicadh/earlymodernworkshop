@@ -254,29 +254,29 @@ Footnotes
 
 [^15]: “Ein Anti-Luxusgesetz der Prager Judengemeinde," in *Das Abendland. Central-Organ für alle zeitgemässen Interessen des Judenthums* IV (1867), 137-139. English translation from Iggers, *Jews of Bohemia and Moravia*, p. 48.
 
-[^16]:
+[^16]: Richter, p. 159 provides the route of the march only toward the end of his description: “Der Zug gieng aus dem Jüdischen Gemein-Hause den Tummel-Platz vorbey zum Pinckel Schul-Thor hinein, die daran stossende Gasse herunter, durch die goldene Gasse über den Platz bey drey Brunnen, des Primators Hauß vorbey, auf das Jüdische Rath-Hauß zu.”
 
-[^17]:
+[^17]: Following both Richter and the *Vossische Zeitung,* I prefer to translate “Paradell” with the bit more familiar *Grandezza. Mania di grandezza* is a 1971 French film featuring Louis De Funes and Yves Montand wearing throughout the large brimmed “grandee” headgear.
 
-[^18]:
+[^18]: There was a riding school nearby the Juden Stadt that seems to have provided horses for the mounted participants.
 
-[^19]:
+[^19]: “Schabrack” (Chabraque) or “Waltrappen”.
 
-[^20]:
+[^20]: A grandson of the Primator according to Richter.
 
-[^21]:
+[^21]: He had also taken part in the 1716 procession along with his father.
 
-[^22]:
+[^22]: Father of Dr. Jonah Jeitteles, the patriarch of the leading maskilic family in Prague.
 
-[^23]:
+[^23]: He, too, had also taken part in the 1716 procession.
 
-[^24]:
+[^24]: That is how I translate “Juden-Metzger” in *Beschreibung*, following “Juden-Schlächter” in the *Vossische Zeitung*.
 
-[^25]:
+[^25]: *Sterb-Küttel*
 
-[^26]:
+[^26]: *Draps d’or*
 
-[^27]:
+[^27]: His father, the son of the “Jewish dancing master Isterle,” had performed in similar fashion in 1716.
 
 [^28]:
 
