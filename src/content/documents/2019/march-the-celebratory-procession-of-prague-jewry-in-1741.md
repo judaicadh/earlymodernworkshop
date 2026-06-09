@@ -278,14 +278,15 @@ Footnotes
 
 [^27]: His father, the son of the “Jewish dancing master Isterle,” had performed in similar fashion in 1716.
 
-[^28]:
+[^28]: From the Czech “starší”, elder.
 
-[^29]:
+[^29]: “Gemachten Spreiz-Bärte” could be either spruced up mustaches or split beards.
 
-[^30]:
+[^30]: In the 1716 procession, the bachelors sported mustaches, which Schudt explained are what Jews refer to as “Grenen”: “sie haben dann gemachte grosse Stutz- und Schnautz-Bärthe/ wie Türcken und Hussaren/ gehabt.” And indeed the 1741 engraving depicts the bachelors with the long mustaches sported by contemporary hussars. See David Hollins, *Hungarian Hussar 1756- 1815* (Oxford, 2003), p. 20.
 
-[^31]:
+[^31]: Richter, p. 159 notes here the outstanding contribution of one who does not figure in the *Beschreibung*: “Besonders suchte sich der dasige Lieferant, Jud Herzel Pieseß zu distinguiren. Dieser hatte währenden Aufzugs das sämtliche Ober-Kriegs-Commissariat-Amt, samt der Kriegs-Canzley Herren Officianten, und ein Menge andere hohe Cavaliers und Dames, in seiner Wohmung eingeladen, welche er auf das properste bedienete.” Hertzki Piseck (1672-1762) was one of the aldermen at the time. See Gerson Wolf, “Vertreibung aus Böhmen im Jahre 1744,” *Jahrbuch für die Geschichte der Juden und des Judenthums* 3 (1869), 205.
 
-[^32]:
+[^32]: *Monat-Halter*.  
+[^33]: Verses V through X are rhymed in their German translations.
 
-[^34]:
+[^34]: Likewise rhymed in the German translation.
