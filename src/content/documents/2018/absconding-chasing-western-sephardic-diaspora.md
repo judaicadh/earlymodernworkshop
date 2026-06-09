@@ -50,7 +50,7 @@ Portugal National Archives (Torre do Tombo), Holy Office (STO), Inquisition of C
 
 W. C. Pieterse and E. M. Koen (eds.), “Notarial records [deeds] in Amsterdam relating to the Portuguese Jews in that town up to 1639.” In: *Studia Rosenthaliana*, from 1967 onward. The number given by the editors to each deed follows the abbreviation SR Nr.
 
-## Source 1 Translation
+## Translation
 
 Oporto and Lisbon, Portugal, and Amsterdam, the Netherlands
 
@@ -448,7 +448,7 @@ town of Aveiro. He granted a power of attorney to Domingos Gomes, resident in
 Aveiro, to claim all his rights in and out of court, in Oporto, Aveiro and elsewhere,  
 and to charge and collect everything that the said debtor owes him.
 
-## Source 1 Original Text
+## Original Text
 
 Oporto and Lisbon, Portugal, and Amsterdam, the Netherlands
 
