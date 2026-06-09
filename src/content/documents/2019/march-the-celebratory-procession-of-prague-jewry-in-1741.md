@@ -196,33 +196,7 @@ Thus, in order to affirm our most humble devotion to our Most Gracious Monarch, 
 
 The details of the splendid procession were collected by the aforementioned German scribe of Prague Jewry and recorded for eternal memory.
 
-I am indebted to Dr. Louise Hecht and Dr. Cornelia Aust for their helpful suggestions and 1 Richter, p. 159 provides the route of the march only toward the end of his description: “Der Zug gieng aus dem Jüdischen Gemein-Hause den Tummel-Platz vorbey zum Pinckel Schul-Thor hinein, die daran stossende Gasse herunter, durch die goldene Gasse über den Platz bey drey Brunnen, des Primators Hauß vorbey, auf das Jüdische Rath-Hauß zu.”
-
-2 Following both Richter and the *Vossische Zeitung,* I prefer to translate “Paradell” with the bit more familiar *Grandezza. Mania di grandezza* is a 1971 French film featuring Louis De Funes and Yves Montand wearing throughout the large brimmed “grandee” headgear.  
-3 There was a riding school nearby the Juden Stadt that seems to have provided horses for the mounted participants.
-
-4 “Schabrack” (Chabraque) or “Waltrappen”.  
-5 A grandson of the Primator according to Richter.  
-6 He had also taken part in the 1716 procession along with his father.  
-7 Father of Dr. Jonah Jeitteles, the patriarch of the leading maskilic family in Prague.  
-8 He, too, had also taken part in the 1716 procession.  
-9 That is how I translate “Juden-Metzger” in *Beschreibung*, following “Juden-Schlächter” in the *Vossische Zeitung*.  
-10 *Sterb-Küttel*  
-11 *Draps d’or*  
-12 His father, the son of the “Jewish dancing master Isterle,” had performed in similar fashion in 1716.  
-13 From the Czech “starší”, elder.  
-14 “Gemachten Spreiz-Bärte” could be either spruced up mustaches or split beards.
-
-11
-
-12
-
-15 In the 1716 procession, the bachelors sported mustaches, which Schudt explained are what Jews refer to as “Grenen”: “sie haben dann gemachte grosse Stutz- und Schnautz-Bärthe/ wie Türcken und Hussaren/ gehabt.” And indeed the 1741 engraving depicts the bachelors with the long mustaches sported by contemporary hussars. See David Hollins, *Hungarian Hussar 1756- 1815* (Oxford, 2003), p. 20.
-
-16 Richter, p. 159 notes here the outstanding contribution of one who does not figure in the *Beschreibung*: “Besonders suchte sich der dasige Lieferant, Jud Herzel Pieseß zu distinguiren. Dieser hatte währenden Aufzugs das sämtliche Ober-Kriegs-Commissariat-Amt, samt der Kriegs-Canzley Herren Officianten, und ein Menge andere hohe Cavaliers und Dames, in seiner Wohmung eingeladen, welche er auf das properste bedienete.” Hertzki Piseck (1672-1762) was one of the aldermen at the time. See Gerson Wolf, “Vertreibung aus Böhmen im Jahre 1744,” *Jahrbuch für die Geschichte der Juden und des Judenthums* 3 (1869), 205.
-
-17 *Monat-Halter*.  
-18 Verses V through X are rhymed in their German translations. 19 Likewise rhymed in the German translation.
+I am indebted to Dr. Louise Hecht and Dr. Cornelia Aust for their helpful suggestions and 
 
 ## Source 1 Original Text
 
