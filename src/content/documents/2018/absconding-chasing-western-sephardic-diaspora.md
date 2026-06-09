@@ -36,6 +36,20 @@ bibliography:
 ---
 ## Introduction
 
+Merchants of the Western Sephardic diaspora engaged in travels. Traveling, however, often raised question among their creditors whether the purpose of a travel was really for legitimate business interests or an attempt to abscond with their funds. By examining cases of creditors chasing absconding debtors and the surveillance of debtors in arrears who might be about to flee, my presentation discusses the concepts of residence and absence from one’s place of residence within a diaspora characterized by widespread mobility and secret identities and property. The Western Sephardic diaspora interwove extensive trading networks and early modern commercial techniques required traders to have resident agents overseas or agents to travel abroad. Merchants often travelled themselves for business, but usually to closer marketplaces. During their career, merchants occasionally relocated to different marketplaces for business or training purposes.
+
+Differently from these legitimate business travels mentioned above, merchants who went bankrupt often left home to avoid being imprisoned. While absconding, they bought time and renegotiated terms with creditors in a better position. Meanwhile, creditors endeavor to imprison runaway debtors in arrear and sequester their goods across long-distances and borders. For that purpose, creditors resorted to local and foreign courts and to a wide-ranging information system. Enforcement required locating temporary addresses, containers, warehouses, ship holds, and disclosing business aliases and clandestine trademarks. Diaspora members also moved away for religious, cultural and social reasons. They left the Iberian World for places where Judaism could be openly practiced or at least tolerated and vice-versa.
+
+Hence, a debtor in distress raised suspicion of being about to abscond; and those who could not be located became suspects of not only leaving for “Lands of Judaism” or for “Lands of Idolatry,” but also of commercial dishonest behavior. Both heretical and unethical absences were not clearly evident; and indebted merchants trying to recover assets from third-parties away from home were occasionally imprisoned for attempt to abscond. By analyzing sources from Portuguese Inquisition files, and notarial records from both Amsterdam and Oporto, this presentation examines the tension between legitimate and illegitimate mobility within the diaspora, and widespread surveillance of debtors across long distances.
+
+**Sources abbreviations:**
+
+Arquivo Distrital do Porto (Oporto District Archives, ADP), Fundos Notariais (Notarial Fonds, NOT), Primeiro Cartório (First Office, PO1), Segundo Cartório (Second Office, PO2). Offices’ abbreviation are followed by the book number.
+
+Portugal National Archives (Torre do Tombo), Holy Office (STO), Inquisition of Coimbra (IC) and Inquisition of Lisbon (IL). Files’ numbers follow the abbreviations IC or IL.
+
+W. C. Pieterse and E. M. Koen (eds.), “Notarial records [deeds] in Amsterdam relating to the Portuguese Jews in that town up to 1639.” In: *Studia Rosenthaliana*, from 1967 onward. The number given by the editors to each deed follows the abbreviation SR Nr.
+
 ## Source 1 Translation
 
 Oporto and Lisbon, Portugal, and Amsterdam, the Netherlands
