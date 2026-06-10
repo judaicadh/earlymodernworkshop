@@ -57,6 +57,23 @@ But this is only true for someone who was forcibly converted [*anus*] and was un
 
 ## Source 2 Translation
 
+**Introduction to Respuesta A Un Cavallero Frances**
+
+**Notes:** Cited in Yosef Kaplan "Qelitatam shel gerim ba-kehilah ha-portugalit bi-Amsterdam ba-Meah ha-17: Parshat Lorenzo Escuerdo" in Proceedings of the Seventh World Jewish Congress (Jerusalem, 1981), vol. 4: 100
+
+Orobio de Castro (himself a former *converso*) was heavily involved in the project of encouraging conversos to return to their ancestral faith in seventeeth century Amsterdam. The distinction made in this passage between "the seed of Abraham and Children of Israel" on the one hand, and Gentiles who recognize the God of Truth, on the other, illuminates two broad historical developments:
+
+1. It reflects the emergence of a biological (dare I say, "racial?") definition of Jewishness among conversos and former conversos, a legacy of Iberian rhetoric about *"limpieza de sangre."*
+2. It may be seen as evincing Jewish anxieties about accepting Old Christians as converts to
+
+  Judaism at a time when religious identities were particularly labile. [See Introduction to *Kol Sakhal*.]
+
+**Respuesta A Un Cavallero Frances Orobio de Castro, 17th century**
+
+**Notes:** Cited in Yosef Kaplan "Qelitatam shel gerim ba-kehilah ha-portugalit bi-Amsterdam ba-Meah ha-17: Parshat Lorenzo Escuerdo" in Proceedings of the Seventh World Jewish Congress (Jerusalem, 1981), vol. 4: 100
+
+So too, the covenant between God and the seed of Abraham and the Children of Israel will last forever. And the gentiles who recognized the God of Truth and worshiped Him will be gerim in Israel, and beloved of God. But they will never become Israel, or the seed of Abraham. For Israel is not a spiritual entity, but rather, a nation -- for better or worse....
+
 ## Source 3 Translation
 
 ## Source 4 Translation
@@ -72,6 +89,12 @@ But this is only true for someone who was forcibly converted [*anus*] and was un
 Additions in bracket based on the critical edition of *Keshet u-magen* by Murciano Prosper (Ph.D. dissertation, NYU, 1975).
 
 ## Source 2 Original Text
+
+**Notes:** Cited in Yosef Kaplan "Qelitatam shel gerim ba-kehilah ha-portugalit bi-Amsterdam ba-Meah ha-17: Parshat Lorenzo Escuerdo" in Proceedings of the Seventh World Jewish Congress (Jerusalem, 1981), vol. 4: 100
+
+וכך תעמוד לנצח הברית בין ה' לזרע אברהם ובני ישראל, והגויים שהכירו את אלוהי האמת ועבדוהו יהיו גרים בישראל, ויהיו אהובים לאלוהים אך לעולם לא יהיו לישראל ולא לזרע אברהם, כי ישראל אינו יש רוחני אלא אומה, אם רעה ואם טובה---
+
+**Archive:** Ets Hayim Library Amsterdam, MS. 48D6, folio 307r.
 
 ## Source 3 Original Text
 
