@@ -34,7 +34,15 @@ This extraordinary passage should be considered within the following historical 
 
 ## Source 2 Translation
 
+## Source 3 Translation
+
+## Source 4 Translation
+
 ## Source 1 Original Text
 
 ## Source 2 Original Text
+
+## Source 3 Original Text
+
+## Source 4 Original Text
 
