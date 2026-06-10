@@ -76,6 +76,36 @@ So too, the covenant between God and the seed of Abraham and the Children of Isr
 
 ## Source 3 Translation
 
+**Introduction to She'elot u-Teshuvot Yakhin u-Vo'az**
+
+Between 1391-1492, large numbers of Spanish Jews underwent baptism, some under threat of violence, and some of their own volition. As Jewish husbands and wives, parents and children, found themselves intimately-related to kinfolk who professed Chrtistianity, a range of rabbinic legal problems arose pertaining to marriage, divorce, inheritance and other matters of personal status. Rabbi Zemah b. Shlomo Duran of 15th century Algiers was from a family of rabbis who addressed many of these legal queries.
+
+In the excerpted passage of the Responsum, R. Zemah reprimands the interlocutor for the term he had used in referring to former *conversos*. This population, he emphasizes, are of Jewish *stock*, and thus must not be perceived as converts to Judaism.
+
+As in the excerpted passage from Orobio de Castro (of seventeenth century Amsterdam), R. Zemah's remarks point to the emergence of a "biological" definition of Jewishness (among Iberian Jews and *conversos*) and stresses the need to distinguish, theologically, between New Christians who revert to their ancestral faith and Old Christians who convert to Judaism.
+
+**She'elot u-Teshuvot Yakhin u-Vo'az**
+
+Fez, to the learned Rabbi Nathan Busti and his colleagues, may the Rock preserve and keep them:
+
+You asked, my brothers, regarding one who came and claimed that he was a kohen-- whether or not one can believe him, for calling him first to read from the Torah.
+
+Answer: ...
+
+And even though there are a small number of them who mix with the idolators and take their daughters as wives, they are only the tiny minority-- [Jer. 3:14] one from a town and two from a family. And one of them who does this is alienated from the rest and despised, and they subsequently refrain from mixing with his offspring/seed. For they consider this seed as idolatrous, as is the law, since his mother is an idolator...
+
+I will now return and respond to your words, in which you wrote ruling invalidation of the priesthood for those of the *anusim* who come and claim that they are held to be *kohanim*. First you wrote, using these words:  
+Regarding the matter of these gerim who come from the Kingdom[s] of Catalan and Castile and Portugal to convert [*lehitgayyer*] and to enter under the wings of the Divine Presence. And each one of them says (that) "I am a *kohen*", etc.  
+And this is the gist of your language.
+
+One who examines your words will find in them a great error. For God forbid that Jews in all their places of residence would be stupid [enough] to call up first to the Torah, for the *kohen's* portion, one who was an idolator and converted. For this is not done in Israel. And an idolator who converts can never claim and say that he is a *kohen*. For where would this priesthood of his come from? And how can you pose this question?
+
+You must catch that these [conversos] are not called by the term *gerim* [i.e., "converts"] for they are [Isaiah 41:14 ] *the worm of Jacob*; they are considered [*ibid] maggots of Israel*, and are not called "gerim" for this purpose, but rather, penitents...
+
+And we have learned that they [i.e., the talmudic sages] only use the term "*ger*" for one who was an idolator and entered under the wings of the Divine Presence, and took upon himself the entire Torah. And someone who accepted the seven Noahide commandments, and agreed not to practice idolatry, is called a "resident alien." And he is called this because we are permitted to allow him to live among us, as it says in tractate *Avodah Zarah* [64b] in chapter *ha-Sokher*. This being the case, you were mistaken in referring to the penitents of the *anusim* as "*gerim*"...
+
+I also see these words of yours as incorrect, and there is nothing in these claims that would invalidate the offspring from the status of priesthood. For we have not found that one who is born of uncircumcision is unfit to be a *kohen*. This is (also) because Israelites, though uncircumcised, are called "circumcised". And even though the uncircumcised one violates the law regarding one who does not circumcise himself, still, his offspring is [ritually] valid [for marriage to a Jew and for priesthood]. And he is regarded as one who is circumcised, as they say in Chapter *HaNoder* in tractate *Nedarim* [31b; in *Mishna Nedarim* 3:11]: One who vows [not to benefit] from the uncircumcised is forbidden [to benefit] from the circumcised of the nations of the world, and is permitted [to benefit] from the uncircumcised of Israel. For an idolator, even if circumcised, is called "uncircumcised", and an Israelite, even if uncircumcised, is called "circumcised", as it is said, [Jer. 9:25], "*For all the gentiles are uncircumcised, and. the Jews are uncircumcised of heart*".
+
 ## Source 4 Translation
 
 ## Source 1 Original Text
