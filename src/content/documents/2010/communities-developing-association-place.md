@@ -11,7 +11,7 @@ event:
   theme: Jewish Community and Identity in the Early Modern Period
 language:
   - Latin
-description: >-
+description: >+
   **ABSTRACT:** Recent attention to Jewish demography and to the spatial
   characteristics of Jewish residential patterns has demonstrated that in more
   than one region, Early Modern Jews were associated with each other more
@@ -30,11 +30,16 @@ description: >-
   **This presentation is for the following text(s):**
 
 
-  *   Testament 128
+  - Testament 128
+
 original_language_body: >-
-  <h2 style="text-align: center">Source 1 Original Text</h2><p
-  style="text-align: center"><strong>Testamentum 128</strong></p><p
-  style="text-align: center"><strong>7 August 1574</strong></p>
+  ## Source 1 Original Text
+
+
+  **Testamentum 128**
+
+
+  **7 August 1574**
 
 
   Source: Archivio di Stato di Firenze (ASF), Notarile Moderno Testamenti 767,
@@ -53,8 +58,8 @@ original_language_body: >-
   incarnatione millesimo quingentesimo septuagesimo quarto indictione secondae
   Gregorio 13 summo Pontifice et serenissimo Francisco medices etrurie magnie
   duce secondo Dominante die vero septima mesis augusti dicti anni Actum in
-  populo Santi Iuliani sibi extra menia1 civitatis Florentie et in appotecha
-  Cosmi Sandri Batiste fabbris ferrarii loco ut dicitur _alle fonti_ ibidem
+  populo Santi Iuliani sibi extra menia[^1] civitatis Florentie et in appotecha
+  Cosmi Sandri Batiste fabbris ferrarii loco ut dicitur *alle fonti* ibidem
   presentibus Cosmo Sandri Batiste fabbro ferrario Agniolo Mattei fabbro
   ferrario Luigio Alexandri fabro ferrario Filippo Melchionis pullaiolo Johannes
   Luce Benis Andrea Francisci Cionis de populo Santi Iuliani predicti et Matteo
@@ -67,7 +72,7 @@ original_language_body: >-
   Moisis hebrei de Perugia habitatis in civitate Florentie sana dei gratia
   corpore mente sensu et intelectu volens dum ratio mentem gerit de suis bonis
   temporalibus disponere omni meliori modo via iure et forma quibus magis et
-  melius potuit et potest suum ultimum nucupaticum2 testamentum quod sine
+  melius potuit et potest suum ultimum nucupaticum[^2] testamentum quod sine
   scriptis dicitur suam ultimam voluntatem facere procuravit fecit condidit et
   ordinavit in haec modum et formam
 
@@ -77,7 +82,7 @@ original_language_body: >-
   illos cerimoniis pro ut infrascriptis suis heredibus placuerit et videbitur
 
 
-  Item iure legati reliquit et legavit opere Sante Marie Floris3 civitatis
+  Item iure legati reliquit et legavit opere Sante Marie Floris[^3] civitatis
   florentiae seconda ordinamenta libbre tres piccioli
 
 
@@ -99,7 +104,7 @@ original_language_body: >-
   heredes solvere infra duos annos ab die mortis testatricis
 
 
-  \[folio 167v\]
+  folio 167v
 
 
   Item iure legati reliquit quod infrascripti eius heredes teneantur et
@@ -113,7 +118,7 @@ original_language_body: >-
 
   Item iure legati reliquit et legavit quod infrascripti eius heredes teneantur
   post annos sex ab die mortis ipsius expendere scutos viginti in una lampada
-  argentea et uno paramento quod hebrei pro\[ut?\] asseruit vocant meis.
+  argentea et uno paramento quod hebrei prout? asseruit vocant meis.
 
 
   In omnibus autem aliis suis bonis mobillibus et immobillibus et seu manentibus
@@ -125,7 +130,7 @@ original_language_body: >-
 
   ralibus tunc et eo casu quod decederet sine filiis legitimis et naturalibus
   tunc et eo casu substituit et esse voluit Angelum Laudadei hebrei nepotis
-  decte testatricis et hanc dicxit4 et asservit esse et esse delle suum
+  decte testatricis et hanc dicxit[^4] et asservit esse et esse delle suum
   testamentum et suam ultimam voluntatem quam et quod per valere voluit dicta
   testatrix...
 
@@ -142,17 +147,17 @@ original_language_body: >-
   **Endnotes**
 
 
-  1 moenia  
+  [^1]: moenia  
 
-  2 nuncupativum  
+  [^2]: nuncupativum  
 
-  3 The Florentine Silk Guild in which Ginevra was matriculated had an
+  [^3]: The Florentine Silk Guild in which Ginevra was matriculated had an
   association with the Cathedral works, the Opera Del Duomo that required its
   members to make this contribution.  
 
-  4 Notary seems to have shifted mid-word from “dicit” to “dixit”.
+  [^4]: Notary seems to have shifted mid-word from “dicit” to “dixit”.
 ---
-<h2 style="text-align: center"><strong>Introduction</strong></h2>
+## **Introduction**
 
 **Introduction to “Building Community on the Local Level: Testament of Ginebra Blanis, 1574”**
 
@@ -164,7 +169,7 @@ The wills of early modern people are of enormous interest to historians. They ha
 
 As individuals declared their gifts and charitable donations, they also demonstrated the range of their social or intellectual commitments and emotional connectedness. In other words, in their wills we may look for signs of the communities with which they identified. For example, one will might teach that a Jew of Portuguese origin feels connected to both returned Jews and New Christians of Portuguese origin. Another will might reveal that a Jew’s family bonds are strong enough to connect him (beyond the requirements of the law) to an adult child who has already converted to Christianity, while yet another might suggest that the testator’s real community is the realm of halakhic law and values and its inhabitants past, present and future.
 
-The Jews who lived in Florence in 1574, the year that Blanis wrote her will, were not a “community” of long-standing. Most of them (more than two-thirds, perhaps three quarters) had moved to Florence in 1570 and 1571, in response to the expulsion of the Jews from the rest of the Florentine _contada_ and the establishment of a ghetto in Florence. Of particular note in the will are Ginevra’s pious donations. Her legacy to the Misericordia of the Jews of Florence is the first known reference to this Hevra, the earliest known record book of which has its first entry in 1610, as the Compagnia della Gemilut Hasadim.4 The other pious donations are to be distributed by her heirs directly, educating young boys, supporting the poor, and providing dowries to unwed girls.
+The Jews who lived in Florence in 1574, the year that Blanis wrote her will, were not a “community” of long-standing. Most of them (more than two-thirds, perhaps three quarters) had moved to Florence in 1570 and 1571, in response to the expulsion of the Jews from the rest of the Florentine *contada* and the establishment of a ghetto in Florence. Of particular note in the will are Ginevra’s pious donations. Her legacy to the Misericordia of the Jews of Florence is the first known reference to this Hevra, the earliest known record book of which has its first entry in 1610, as the Compagnia della Gemilut Hasadim.4 The other pious donations are to be distributed by her heirs directly, educating young boys, supporting the poor, and providing dowries to unwed girls.
 
 Though the will does not say it explicitly, the context of Ginevra’s biography and the language of the will lead me to believe that Ginevra intended her funds to be used to help local Jewish youth and paupers, in Florence. Perhaps even more civic minded because she has no children of her own, she is committed to making a mark on a place, and leaving her mark there (in the ornaments for the synagogue). In the expression of her will, she imagines a future, not only for her soul, but of a community in that synagogal setting, a community lit up by a silver lamp she donated, and referring to the Ark curtain as “hers”, the one Donna Ginevra left us, a specific community in fixed and known place. The boys will be educated, the poor fed, the girls given dowries, her body will be buried in the right place.5 This will suggests a woman whose commitments were to the people of her immediate and local community, more than to her own immediate and extended family, and this contrasts strongly with wills that focus on the detailed distribution of funds and objects to specified family members. But instead of assuming the static or eternally preexistent communal life of the Jews of Florence, I call attention to the part of Ginevra Blanis in producing or building that community in the very dictation of the last will and testament.
 
@@ -175,43 +180,47 @@ The above-cited article of David Malkiel includes very comprehensive footnotes w
 
 3 On the practice of “repudiation” of wills, as a not uncommon legal strategy and response to being designated as an heir, see Thomas Kuehn, Heirs, Kin, and Creditors in Renaissance Florence (Cambridge University Press, 2008).  
 4 See The Medici State and the Ghetto of Florence, chapter ten, especially, and notes there.  
-5 During the next half century, the Jews of Florence establish _kupot_ for many general and specifically Jewish purposes, a _mikveh_ will be built, cemetery grounds purchased. See previous note.
+5 During the next half century, the Jews of Florence establish *kupot* for many general and specifically Jewish purposes, a *mikveh* will be built, cemetery grounds purchased. See previous note.
 
-<h2 style="text-align: center">Source 1</h2><p style="text-align: center"><strong>Testament 128</strong></p><p style="text-align: center"><strong>7 August 1574</strong></p>
+## Source 1
+
+**Testament 128**
+
+**7 August 1574**
 
 Note: Some modern punctuation has been added to assist the reader; proper nouns have been capitalized and the first names of persons have been returned to their nominative Latin form or Italian form, depending on context. The translation is from the Latin except where the text, italicized, appears as Italian in the original.
 
 7 August 1574
 
-In the name of God Amen. Year of our Lord Jesus Christ, 1574 \[years\] from His Health- Bestowing Incarnation, in the second Indiction1 of Gregory XIII, Highest Pontif, and Most Serene Francisco Medici Second Grand Duke Sovereign of Etruria, on the seventh day of the month of August of the said year \[this act was notarized\] in Populo Santi Iuliani which is outside the walls of the city of Florence2 and in the shop of Cosmo Sandri Batiste the ironsmith at that place that is called _at the springs_; in that same place present Cosmo Sandri Batiste the ironsmith, Agniolo Mattei ironsmith, Luigi Alexandri ironsmith, Filippo Melchionis poulterer, Iohannes Luce Benis, Andrea Francesci Cionis in the Populo of the above-mentioned Santi Iuliani and Matteo Luce Francisci weaver of linen cloth, summoned and recorded as witnesses to the proper condition and hour of the testatrix:
+In the name of God Amen. Year of our Lord Jesus Christ, 1574 years from His Health- Bestowing Incarnation, in the second Indiction[^1] of Gregory XIII, Highest Pontif, and Most Serene Francisco Medici Second Grand Duke Sovereign of Etruria, on the seventh day of the month of August of the said year this act was notarized in Populo Santi Iuliani which is outside the walls of the city of Florence[^2] and in the shop of Cosmo Sandri Batiste the ironsmith at that place that is called *at the springs*; in that same place present Cosmo Sandri Batiste the ironsmith, Agniolo Mattei ironsmith, Luigi Alexandri ironsmith, Filippo Melchionis poulterer, Iohannes Luce Benis, Andrea Francesci Cionis in the Populo of the above-mentioned Santi Iuliani and Matteo Luce Francisci weaver of linen cloth, summoned and recorded as witnesses to the proper condition and hour of the testatrix:
 
-Wishing, while she yet bears a rational mind, that she shall be able to dispose of her temporal goods, according to the best mode, by way by law and form, in the greatest and best way possible, she was able to render her last oral testament, which was dictated without writing, to make render her last will: she was \[her own\] procurator, she enacted it, she undertook, and she set it in order in this mode and form:
+Wishing, while she yet bears a rational mind, that she shall be able to dispose of her temporal goods, according to the best mode, by way by law and form, in the greatest and best way possible, she was able to render her last oral testament, which was dictated without writing, to make render her last will: she was her own procurator, she enacted it, she undertook, and she set it in order in this mode and form:
 
-First, that she recommends her soul to God Most High, and wishes her body to be buried in the usual place where all the Jews are accustomed to be buried, with those ceremonies as shall be seen as fit and pleasing to her stated3 heirs.4
+First, that she recommends her soul to God Most High, and wishes her body to be buried in the usual place where all the Jews are accustomed to be buried, with those ceremonies as shall be seen as fit and pleasing to her stated[^3] heirs.[^4]
 
-Item, \[in conformity with\] the law of legacy5, she leaves and bequeaths to the Opera of Santa Maria del Fiore of the city of Florence three small lire, in accordance with the ordinance.
+Item, in conformity with the law of legacy[^5], she leaves and bequeaths to the Opera of Santa Maria del Fiore of the city of Florence three small lire, in accordance with the ordinance.
 
-Item, by the law of legacy, she bequeaths that her stated heirs shall be held to expend for the mediation of the soul of the testatrix, within ten days from the day of the death of the testatatrix, ten scudi \[of 7 lire per scudo\] in oil, or candles, or torches.
+Item, by the law of legacy, she bequeaths that her stated heirs shall be held to expend for the mediation of the soul of the testatrix, within ten days from the day of the death of the testatatrix, ten scudi of 7 lire per scudo in oil, or candles, or torches.
 
-Item, by the law of legacy, she leaves and bequeaths to the Society of the Misericordia of the Jews of the City of Florence 10 scudi \[of 7 lire per scudo\].6
+Item, by the law of legacy, she leaves and bequeaths to the Society of the Misericordia of the Jews of the City of Florence 10 scudi of 7 lire per scudo.[^6]
 
-Item, she leaves and bequeaths that her stated heirs shall be held to disburse ten scudi \[of 7 lire per scudo\] for the instruction of Jewish boys.
+Item, she leaves and bequeaths that her stated heirs shall be held to disburse ten scudi of 7 lire per scudo for the instruction of Jewish boys.
 
-Item she leaves and bequeaths, for the love of God and the remedy of her soul, ten scudi to Jewish paupers, which thirty scudi of these three bequests \[i.e. this one and the two just listed above\] her heirs must expend within two years from the day of the death of the testatrix.//
+Item she leaves and bequeaths, for the love of God and the remedy of her soul, ten scudi to Jewish paupers, which thirty scudi of these three bequests i.e. this one and the two just listed above her heirs must expend within two years from the day of the death of the testatrix.//
 
-\[folio 167v\]
+folio 167v
 
 Item, by the law of legacy she bequeaths that her stated heirs shall be held and obliged to disburse for the marriage of 8 Jewish girls, 80 scudi of 7 lire per scudo; that is, one-fourth of the 80 scudi each year -- 20 scudi for the dowries of the two above-said girls. But they shall not be required to initiate the disbursal of the said dowries until two years have elapsed from the day of the death of the said testatrix, so long as in the end the result is that there shall be scudi for each of the said girls and that each year two will be married.
 
 Item, by the law of legacy, she leaves and bequeaths that her stated heirs should be held, after six years from the very same day of her death, to expend 20 scudi on a silver lamp and a parament that, as she asserts, however, the Jews shall call“mine”.
 
-In all else, both her goods moveable and immoveable, her named legal holdings and those actionable present and future, she establishes and wishes Angelus di Moises hebreo of Perugia, her husband, and her legitimate and natural children to be her universal heir; and in the case that she should die without legitimate and natural children, then in such case she substitutes and wishes Angelus Laudadei hebreo, nephew of the said testatrix \[to be her universal heir\], and this she states and she asserts that this is her testament and her last will, in its details in accordance with the will of the said testatrix.
+In all else, both her goods moveable and immoveable, her named legal holdings and those actionable present and future, she establishes and wishes Angelus di Moises hebreo of Perugia, her husband, and her legitimate and natural children to be her universal heir; and in the case that she should die without legitimate and natural children, then in such case she substitutes and wishes Angelus Laudadei hebreo, nephew of the said testatrix to be her universal heir, and this she states and she asserts that this is her testament and her last will, in its details in accordance with the will of the said testatrix.
 
 **Endnotes**
 
-1 Before the Christian Era was adopted in the dating of documents, various other systems were employed by Christians in different political and scribal traditions. One of these was the counting by "indictions", a cycle of fifteen years, the first of which started at a point three years before the beginning of the present Christian Era.  
-2 Ginebra (called Ginevra in Italian documents) had previously lived or owned property in the area called Monteoliveto (or Monte Uliveto) not far outside the city walls along the via Pisana. After the ghettoization (1570-71), she still had business there, and a relationship with local residents, including a notary. There is still today a ninth century church there called SS. Juliano e Settimo.  
-3 I translate “infrascriptis suis heredibus”, “infrascripti sui heredes” (and other declensions) as “her stated heirs” throughout. These heirs are named in the last section of this translation.  
-4 Here and in a few places in this translation where no loss of meaning is risked, very awkward Latin legal formulas have been rendered into plainer English. The student interested in the notarial usage should consult the Latin transcription.  
-5 The reference to “law of legacy” here shows that Blanis, like testators whose wills Malkiel considered (see notes to the introduction), makes use of the laws of gift-giving to side-step potential conflicts with testamentary law (Jewish or local). It would be hard to argue, however, that Ginebra Blanis’ will is designed to conform to halakhic requirements.  
-6 This is the first known documented reference in Latin, Italian, or Hebrew to any organized Florentine Jewish confraternal or charitable society in the sixteenth century. The _Misericordia_ is the common name for the Christian charitable and burial society in Florence at this time.
+[^1]: Before the Christian Era was adopted in the dating of documents, various other systems were employed by Christians in different political and scribal traditions. One of these was the counting by "indictions", a cycle of fifteen years, the first of which started at a point three years before the beginning of the present Christian Era.  
+[^2]: Ginebra (called Ginevra in Italian documents) had previously lived or owned property in the area called Monteoliveto (or Monte Uliveto) not far outside the city walls along the via Pisana. After the ghettoization (1570-71), she still had business there, and a relationship with local residents, including a notary. There is still today a ninth century church there called SS. Juliano e Settimo.  
+[^3]: I translate “infrascriptis suis heredibus”, “infrascripti sui heredes” (and other declensions) as “her stated heirs” throughout. These heirs are named in the last section of this translation.  
+[^4]: Here and in a few places in this translation where no loss of meaning is risked, very awkward Latin legal formulas have been rendered into plainer English. The student interested in the notarial usage should consult the Latin transcription.  
+[^5]: The reference to “law of legacy” here shows that Blanis, like testators whose wills Malkiel considered (see notes to the introduction), makes use of the laws of gift-giving to side-step potential conflicts with testamentary law (Jewish or local). It would be hard to argue, however, that Ginebra Blanis’ will is designed to conform to halakhic requirements.  
+[^6]: This is the first known documented reference in Latin, Italian, or Hebrew to any organized Florentine Jewish confraternal or charitable society in the sixteenth century. The *Misericordia* is the common name for the Christian charitable and burial society in Florence at this time.
