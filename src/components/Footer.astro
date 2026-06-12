@@ -1,24 +1,96 @@
 ---
-import JudaicaDHLogo from '../assets/Judaica Digital Humanities Logo 2020_RGB.png'
+import JudaicaDHLogo from '../assets/Judaica Digital Humanities Logo 2020_White_RGB.png'
+
+const links = [
+    { href: "/", label: "Home" },
+    { href: "/about", label: "About" },
+    { href: "/resources", label: "Resources" },
+    { href: "/contact", label: "Contact" },
+];
+
+// Mailchimp embedded-form settings (Audience → Signup forms → Embedded forms)
+const MAILCHIMP_ACTION = "https://REPLACE_ME.us1.list-manage.com/subscribe/post?u=USER_ID&id=LIST_ID";
+const MAILCHIMP_HONEYPOT = "b_USER_ID_LIST_ID";
 ---
 
-<footer class="w-full bg-white border-t border-slate-200">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 flex flex-wrap items-center justify-between gap-4">
-        <a href="https://judaicadhpenn.org/"
-           class="flex items-center"
-           aria-label="Judaica Digital Humanities at Penn">
-            <img
-                    src={JudaicaDHLogo.src}
-                    class="h-8 w-auto"
-                    alt="Judaica Digital Humanities Logo"
-                    loading="lazy"
-                    decoding="async">
-        </a>
-        <ul class="flex items-center gap-6">
-            <li><a href="/" class="text-slate-600 hover:text-slate-900 text-sm">Home</a></li>
-            <li><a href="/about" class="text-slate-600 hover:text-slate-900 text-sm">About</a></li>
-            <li><a href="/resources" class="text-slate-600 hover:text-slate-900 text-sm">Resources</a></li>
-            <li><a href="/contact" class="text-slate-600 hover:text-slate-900 text-sm">Contact</a></li>
-        </ul>
+<footer class="w-full bg-ink text-paper border-t border-gilt/40 dark:bg-[#120c08] dark:border-paper/10">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8">
+
+        <!-- Row 1: brand + signup -->
+        <div class="flex flex-col items-center gap-6 lg:flex-row lg:items-end lg:justify-between">
+            <div class="text-center lg:text-left">
+                <p class="font-display text-lg font-semibold text-paper leading-tight">
+                    Early Modern Workshop
+                </p>
+                <p class="text-[0.6rem] uppercase tracking-[0.28em] text-gilt mt-0.5">
+                    Resources in Jewish History
+                </p>
+            </div>
+
+            <div class="w-full max-w-sm">
+                <p class="text-[0.6rem] uppercase tracking-[0.28em] text-gilt mb-2 text-center lg:text-left">
+                    News from the Workshop
+                </p>
+                <form
+                        action={MAILCHIMP_ACTION}
+                        method="post"
+                        target="_blank"
+                        class="flex flex-col gap-2 sm:flex-row"
+                >
+                    <label class="sr-only" for="footer-email">Email address</label>
+                    <input
+                            id="footer-email"
+                            type="email"
+                            name="EMAIL"
+                            required
+                            autocomplete="email"
+                            placeholder="you@example.edu"
+                            class="w-full flex-1 bg-paper/10 border border-paper/30 rounded-sm px-3 py-2 text-sm text-paper placeholder:text-paper/40 focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt focus-visible:border-gilt"
+                    />
+                    <div aria-hidden="true" style="position:absolute; left:-5000px;">
+                        <input type="text" name={MAILCHIMP_HONEYPOT} tabindex="-1" value="" autocomplete="off" />
+                    </div>
+                    <button
+                            type="submit"
+                            name="subscribe"
+                            class="shrink-0 border border-paper/70 rounded-sm px-4 py-2 text-[0.7rem] uppercase tracking-[0.18em] text-paper transition-colors hover:bg-venetian hover:border-venetian focus-visible:outline focus-visible:outline-2 focus-visible:outline-gilt focus-visible:outline-offset-2"
+                    >
+                        Subscribe
+                    </button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Row 2: logo + links -->
+        <div class="mt-6 pt-5 border-t border-paper/15 flex flex-col items-center gap-4 sm:flex-row sm:justify-between">
+            <a
+                    href="https://judaicadhpenn.org/"
+                    class="inline-flex items-center opacity-90 transition-opacity hover:opacity-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-gilt focus-visible:outline-offset-4"
+                    aria-label="Judaica Digital Humanities at Penn"
+            >
+                <img
+                        src={JudaicaDHLogo.src}
+                        class="h-12 w-auto"
+                        alt="Judaica Digital Humanities logo"
+                        loading="lazy"
+                        decoding="async"
+                />
+            </a>
+
+            <nav aria-label="Footer">
+                <ul class="flex flex-wrap justify-center items-center gap-x-5 gap-y-2">
+                    {links.map((l) => (
+                            <li>
+                                <a
+                                        href={l.href}
+                                        class="inline-block py-1 text-[0.7rem] uppercase tracking-[0.18em] text-paper/70 hover:text-gilt transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-gilt focus-visible:outline-offset-4"
+                                >
+                                    {l.label}
+                                </a>
+                            </li>
+                    ))}
+                </ul>
+            </nav>
+        </div>
     </div>
 </footer>

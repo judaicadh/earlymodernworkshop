@@ -1,5 +1,5 @@
 ---
-
+import "../styles/global.css";
 ---
 <head>
     <meta charset="UTF-8" />
@@ -7,10 +7,18 @@
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content="Early Modern Workshop: Resources in Jewish History" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
+
+    <!-- Fonts: one consolidated request, with preconnects so the handshake
+         starts early. Merriweather + Roboto kept for now — remove them from
+         this URL once you've confirmed nothing still references them. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Frank+Ruhl+Libre:wght@400;500;700&family=Merriweather&family=Roboto&display=swap"
+    />
+
     <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="/src/styles/global.css" />
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
     <script src="/pagefind/pagefind-ui.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js" defer></script>
@@ -20,4 +28,4 @@
     <script is:inline id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bc637738e21130912a04684ca/142577ecf45ce6f6b476f8672.js");</script>
 
     <slot />
-</head>
+    </head>

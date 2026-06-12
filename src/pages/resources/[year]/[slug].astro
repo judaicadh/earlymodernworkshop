@@ -74,428 +74,391 @@ const safeTags: string[] = tags ?? [];
         {plumxUrl && <script async src="//cdn.plu.mx/widget-popup.js"></script>}
     </Fragment>
 
-    <section class="py-16 sm:py-20 bg-gray-50 dark:bg-gray-900 transition-colors">
-        <div class="mx-auto max-w-screen-2xl px-4 lg:px-10">
-            <!-- Breadcrumb + Actions row stays full-width -->
-            <nav class="flex flex-wrap items-center justify-between text-sm mb-6" aria-label="Breadcrumb">
-                <div class="flex items-center gap-2 mb-2 sm:mb-0 text-gray-700 dark:text-gray-300">
-                    <a href="/resources" class="text-indigo-600 dark:text-indigo-400 hover:underline">Resources</a>
-                    <span>/</span>
-                    <a href={`/resources/${year}`} class="text-indigo-600 dark:text-indigo-400 hover:underline">{year}</a>
-                    <span>/</span>
-                    <span class="text-gray-500 dark:text-gray-400">{title}</span>
-                </div>
+    <section class="py-12 sm:py-16 bg-parchment dark:bg-ink transition-colors">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <!-- Breadcrumb + Actions row stays full-width -->
+    <nav class="flex flex-wrap items-center justify-between gap-3 mb-8" aria-label="Breadcrumb">
+    <div class="flex items-center gap-1.5 text-[0.72rem] uppercase tracking-[0.18em]">
+    <a href="/resources" class="text-ink/60 dark:text-paper/60 hover:text-venetian dark:hover:text-venetian-light transition-colors">Resources</a>
+    <span class="text-ink/30 dark:text-paper/30">/</span>
+    <a href={`/resources/${year}`} class="text-ink/60 dark:text-paper/60 hover:text-venetian dark:hover:text-venetian-light transition-colors">{year}</a>
+    <span class="text-ink/30 dark:text-paper/30">/</span>
+    <span class="text-ink dark:text-paper normal-case tracking-normal text-sm max-w-[18rem] truncate">{title}</span>
+    </div>
 
-                <div class="flex sm:ml-auto">
-                    <a
-                            href={`/downloads/${year}/${docFileName}.pdf`}
-                            download
-                            class="inline-flex items-center gap-2 px-4 py-2 rounded-md border border-indigo-700 text-indigo-900 dark:text-indigo-100 hover:bg-indigo-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition"
-                    >
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 8.25H7.5a2.25 2.25 0 0 0-2.25 2.25v9a2.25 2.25 0 0 0 2.25 2.25h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25H15M9 12l3 3m0 0 3-3m-3 3V2.25" />
-                        </svg>
-                        Download PDF
-                    </a>
-                </div>
-            </nav>
+    <div class="flex sm:ml-auto">
+    <a
+    href={`/downloads/${year}/${docFileName}.pdf`}
+    download
+    class="inline-flex items-center gap-2 px-4 py-2 rounded-sm border border-ink/40 dark:border-paper/40 text-[0.75rem] uppercase tracking-[0.18em] text-ink dark:text-paper hover:bg-venetian hover:border-venetian hover:text-paper focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors"
+    >
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M9 8.25H7.5a2.25 2.25 0 0 0-2.25 2.25v9a2.25 2.25 0 0 0 2.25 2.25h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25H15M9 12l3 3m0 0 3-3m-3 3V2.25" />
+    </svg>
+    Download PDF
+    </a>
+    </div>
+    </nav>
 
-            <!-- Desktop grid: readable content column + steady sidebar -->
-            <div class="grid gap-10 lg:gap-16 lg:grid-cols-[minmax(0,90ch)_minmax(300px,360px)] items-start">                <!-- Main content column -->
-                <div>
-                    <h1 class="text-[2rem] sm:text-4xl lg:text-[2.5rem] leading-tight font-bold text-gray-900 dark:text-gray-100 mb-4"
-                        set:html={marked.parseInline(title)} />
+    <!-- Desktop grid: readable content column + steady sidebar -->
+    <div class="grid gap-10 lg:gap-12 lg:grid-cols-[minmax(0,72ch)_minmax(280px,340px)] items-start">
+    <!-- Main content column -->
+    <div>
+    <h1 class="font-display text-[2rem] sm:text-4xl lg:text-[2.5rem] leading-tight font-semibold text-ink dark:text-paper mb-5"
+    set:html={marked.parseInline(title)} />
 
-                    <!-- At-a-glance row -->
-                    <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between mb-6">
-                        <div class="flex flex-wrap items-center gap-3 text-sm">
-                            {author && (
-                                    <span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-200">
-                <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-70"><path fill="currentColor" d="M12 12a5 5 0 1 0-5-5a5 5 0 0 0 5 5m0 2c-4.33 0-8 2.24-8 5v1h16v-1c0-2.76-3.67-5-8-5"/></svg>
-                <span class="font-medium">Scholar:</span> {author}
-              </span>
-                            )}
+    <!-- At-a-glance row -->
+    <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between mb-8">
+    <div class="flex flex-wrap items-center gap-3 text-sm">
+    {author && (
+        <span class="inline-flex items-center gap-2 px-3 py-1 rounded-sm bg-ink/5 dark:bg-paper/10 text-ink/80 dark:text-paper/80">
+        <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-60"><path fill="currentColor" d="M12 12a5 5 0 1 0-5-5a5 5 0 0 0 5 5m0 2c-4.33 0-8 2.24-8 5v1h16v-1c0-2.76-3.67-5-8-5"/></svg>
+        <span class="font-medium">Scholar:</span> {author}
+    </span>
+    )}
 
-                            <a href={`/resources/${year}`}
-                               class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
-                                <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-70"><path fill="currentColor" d="M17 3H7a2 2 0 0 0-2 2v14l7-3l7 3V5a2 2 0 0 0-2-2"/></svg>
-                                <span class="font-medium">Year:</span> {year}
-                            </a>
+    <a href={`/resources/${year}`}
+    class="inline-flex items-center gap-2 px-3 py-1 rounded-sm bg-ink/5 dark:bg-paper/10 text-ink/80 dark:text-paper/80 hover:bg-ink/10 dark:hover:bg-paper/15 focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+    <svg width="16" height="16" viewBox="0 0 24 24" class="opacity-60"><path fill="currentColor" d="M17 3H7a2 2 0 0 0-2 2v14l7-3l7 3V5a2 2 0 0 0-2-2"/></svg>
+    <span class="font-medium">Year:</span> {year}
+    </a>
 
-                            {safeTags.length > 0 && (
-                                    <div class="w-full sm:w-auto">
-                                        <div class="flex flex-wrap gap-2 mt-1">
-                                            {safeTags.map((tag) => {
-                                                const tagSlug = slugifyTag(tag);
-                                                return (
-                                                        <a href={`/tags/${tagSlug}`}
-                                                           class="inline-block bg-indigo-100 dark:bg-indigo-900/40 text-indigo-800 dark:text-indigo-200 text-xs sm:text-sm px-3 py-1 rounded-full hover:bg-indigo-200 dark:hover:bg-indigo-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
-                                                            {tag}
-                                                        </a>
-                                                );
-                                            })}
-                                        </div>
-                                    </div>
-                            )}
-                        </div>
-                    </div>
-
-                    <!-- PlumX metrics (mobile) -->
-                    {plumxUrl && (
-                        <div class="lg:hidden mb-5">
-                            <a href={plumxUrl}
-                               data-popup="right"
-                               data-badge="true"
-                               class="plumx-plum-print-popup plum-bigben-theme"
-                               data-site="plum"
-                               data-hide-when-empty="true">{title}</a>
-                        </div>
-                    )}
-
-                    <!-- Mobile accordions -->
-                    {description && (
-                            <section id="description" class="scroll-mt-24 mb-6">
-                                <details open class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm">
-                                    <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
-                                        <span class="text-base font-semibold">Description</span>
-                                        <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24">
-                                            <path fill="currentColor" d="m7 10l5 5l5-5z"/>
-                                        </svg>
-                                    </summary>
-                                    <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(description)} />
-                                </details>
-                            </section>
-                    )}
-
-
-
-
-
-
-
-                    {Array.isArray(resource_link) && resource_link.length > 0 && (
-                            <section id="primary-source" class="scroll-mt-24 my-6 space-y-3">
-
-                                {resource_link.map((link, i) => {
-                                    const isString = typeof link === 'string';
-                                    const obj = (!isString ? (link as { url: string; label?: string }) : null);
-                                    const rawUrl = isString ? (link as string) : obj!.url;
-
-                                    const isIframeHtml = isString && rawUrl.trim().startsWith('<iframe');
-
-                                    // Detect raw IIIF manifest
-      const looksLikeRawManifest =
-                                        typeof rawUrl === 'string' &&
-                                        ((/\.json($|\?)/.test(rawUrl)) || /iiif\/(presentation|manifest)/i.test(rawUrl)) &&
-                                        !rawUrl.includes('uv.html') && !rawUrl.includes('mirador') && !rawUrl.includes('manifest=');
-
-                                    // Wrap manifest in UV
-      const viewerUrl = looksLikeRawManifest
-                                        ? `https://uv-v4.netlify.app/uv.html#?manifest=${encodeURIComponent(rawUrl)}`
-                                        : rawUrl;
-
-                                    // Treat as IIIF
-      const isIIIF = typeof viewerUrl === 'string' &&
-                                        (viewerUrl.includes('manifest=') || viewerUrl.includes('uv.html') || viewerUrl.includes('mirador'));
-
-                                    // Encode ?manifest=
-      const encodedUrl = isIIIF
-                                        ? viewerUrl.replace(/manifest=([^&]*)/, (_m, v) => `manifest=${encodeURIComponent(v)}`)
-                                        : viewerUrl;
-
-                                    // Label
-      const siteBase = (Astro.site && new URL(Astro.site).origin) || 'https://example.com';
-                                    const computedLabel = (() => {
-                                        try {
-                                            const parsed = new URL(rawUrl, siteBase);
-                                            if (isIIIF) return 'Primary Resource';
-                                            return parsed.hostname || 'View Resource';
-                                        } catch {
-                                            return 'View Resource';
-                                        }
-                                    })();
-
-                                    const label = obj?.label ?? computedLabel;
-                                    const shouldOpen = isIframeHtml || isIIIF;
-
-                                    return (
-                                            <details class="group rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-800 shadow-sm" open={shouldOpen}>
-                                                <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-gray-900 dark:text-gray-100">
-                                                    <span class="text-sm sm:text-base font-semibold">{label}</span>
-                                                    <svg class="transition-transform group-open:rotate-180" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="m7 10l5 5l5-5z"/></svg>
-                                                </summary>
-
-                                                <div class="px-4 pb-4">
-                                                    {isIframeHtml ? (
-                                                            <div class="rounded overflow-hidden border border-gray-200 dark:border-gray-700" set:html={rawUrl} />
-                                                    ) : isIIIF ? (
-                                                        shouldOpen ? (
-                                                                <iframe src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] rounded border border-gray-200 dark:border-gray-700"></iframe>
-                                                        ) : (
-                                                                <iframe data-src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] rounded border border-gray-200 dark:border-gray-700"></iframe>
-                                                        )
-                                                    ) : (
-                                                            <a href={rawUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-4 py-2 mt-2 rounded-md border border-indigo-700 text-indigo-900 dark:text-indigo-100 hover:bg-indigo-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 transition">
-                                                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14 3h7v7m0 0L10 21l-7-7L21 10z"/></svg>
-                                                                {label}
-                                                            </a>
-                                                    )}
-                                                </div>
-                                            </details>
-                                    );
-                                })}
-                            </section>
-                    )}
-                    <script is:inline>
-                        const resRoot = document.getElementById('primary-source');
-                        if (resRoot) {
-                            resRoot.querySelectorAll('details').forEach((d) => {
-                                const load = () => {
-                                    const iframe = d.querySelector('iframe[data-src]:not([src])');
-                                    if (iframe) {
-                                        iframe.src = iframe.dataset.src;
-                                        requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
-                                    }
-                                };
-                                if (d.open) load();
-                                d.addEventListener('toggle', () => { if (d.open) load(); });
-                            });
-                        }
-                    </script>
-                    <!-- Sticky Mobile ToC -->
-                    {allHeadings.length > 0 && (
-                            <div class="lg:hidden sticky top-0 z-[60] bg-white/90 dark:bg-gray-900/90 backdrop-blur border-b border-gray-200 dark:border-gray-800 mb-6 px-4 py-3">
-                                <div class="relative inline-block">
-                                    <button
-                                            type="button"
-                                            class="bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 shadow-sm px-4 py-2 rounded-md text-sm font-medium text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-                                            onclick="document.getElementById('tocDropdownMenu')?.classList.toggle('hidden')"
-                                    >
-                                        Table of Contents
-                                    </button>
-                                    <div
-                                            id="tocDropdownMenu"
-                                            class="absolute z-[70] mt-2 w-72 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black/10 dark:ring-white/10 hidden max-h-80 overflow-auto"
-                                    >
-                                        <ul id="toc-mobile" class="py-1 text-sm text-gray-700 dark:text-gray-200"></ul>
-                                    </div>
-                                </div>
-                            </div>
-                    )}
-
-                    <!-- Drawer behavior -->
-                    <script is:inline>
-                        const dlg = document.getElementById('metaDrawer');
-
-                        if (dlg) {
-                            dlg.addEventListener('close', () => {
-                                dlg.returnValue = ''; // optional, mostly used in form-mode dialogs
-                                document.body.classList.remove('overflow-hidden');
-                                document.documentElement.classList.remove('overflow-hidden');
-                            });
-
-                            dlg.addEventListener('cancel', (e) => {
-                                e.preventDefault(); // prevent ESC from closing it unless you want it
-                                dlg.close();
-                            });
-
-                            // Optional: lock scroll on open
-                            dlg.addEventListener('show', () => {
-                                document.body.classList.add('overflow-hidden');
-                                document.documentElement.classList.add('overflow-hidden');
-                            });
-
-                            // Or alternatively, if you open via JS
-                            dlg.addEventListener('open', () => {
-                                document.body.classList.add('overflow-hidden');
-                                document.documentElement.classList.add('overflow-hidden');
-                            });
-                        }
-                    </script>
-
-                    <style is:global>
-                        @keyframes slideUp {
-                            from { transform: translateY(16px); opacity: 0 }
-                            to   { transform: translateY(0);    opacity: 1 }
-                        }
-                    </style>
-                    <!-- Citation Export and Clipboard -->
-
-                    <article class="prose dark:prose-invert max-w-none
-                prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
-                prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
-                prose-code:break-words
-                prose-table:block prose-table:w-full
-                prose-a:break-words">
-                        <Content />
-                    </article>
-                    <hr class="my-2 border-gray-300 dark:border-gray-600">
-                    {original_language_body && (
-                            <section id="original-language-body" dir="auto" class="prose dark:prose-invert max-w-none mt-10
-                                     prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
-                                     prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
-                                     prose-code:break-words
-                                     prose-table:block prose-table:w-full
-                                     prose-a:break-words">
-
-
-
-                                <div class="px-4 pb-4 text-gray-700 dark:text-gray-200" set:html={marked.parse(original_language_body)} />
-                            </section>
-                    )}
-                </div>
-
-                <!-- Right-hand sidebar (desktop): ToC + PlumX -->
-                {(allHeadings.length > 0 || plumxUrl) && (
-                        <aside class="hidden lg:block sticky top-28 justify-self-end w-[320px] space-y-4">
-                            {allHeadings.length > 0 && (
-                                <nav class="space-y-2 bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
-                                    <h2 class="text-base font-semibold mb-2 text-gray-900 dark:text-gray-100">On this page</h2>
-                                    <ul id="toc-desktop" class="space-y-1"></ul>
-                                </nav>
-                            )}
-                            {plumxUrl && (
-                                <div class="bg-white/80 dark:bg-gray-800/70 backdrop-blur p-4 rounded shadow border border-gray-200 dark:border-gray-800">
-                                    <h2 class="text-base font-semibold mb-3 text-gray-900 dark:text-gray-100">Article Metrics</h2>
-                                    <a href={plumxUrl}
-                                       data-popup="right"
-                                       data-badge="true"
-                                       class="plumx-plum-print-popup plum-bigben-theme"
-                                       data-site="plum"
-                                       data-hide-when-empty="true">{title}</a>
-                                </div>
-                            )}
-                        </aside>
-                )}
-
-            </div>
+    {safeTags.length > 0 && (
+        <div class="w-full sm:w-auto">
+        <div class="flex flex-wrap gap-2 mt-1">
+        {safeTags.map((tag) => {
+                const tagSlug = slugifyTag(tag);
+                return (
+                    <a href={`/tags/${tagSlug}`}
+            class="inline-block border border-ink/15 dark:border-paper/20 text-ink/60 dark:text-paper/60 text-[0.7rem] uppercase tracking-[0.12em] px-2.5 py-1 hover:border-gilt hover:text-venetian dark:hover:text-venetian-light focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+            {tag}
+        </a>
+        );
+        })}
+        </div>
+        </div>
+        )}
+        </div>
         </div>
 
+        <!-- PlumX metrics (mobile) -->
+    {plumxUrl && (
+        <div class="lg:hidden mb-5">
+        <a href={plumxUrl}
+        data-popup="right"
+        data-badge="true"
+        class="plumx-plum-print-popup plum-bigben-theme"
+        data-site="plum"
+        data-hide-when-empty="true">{title}</a>
+        </div>
+        )}
 
-
-        <button
-                id="back-to-top"
-                class="fixed bottom-5 right-5 z-[80] rounded-full p-3 shadow-lg
-         bg-indigo-600 text-white hover:bg-indigo-700 focus:outline-none
-         focus:ring-2 focus:ring-indigo-500 transition-opacity duration-300
-         opacity-0 pointer-events-none"
-                aria-label="Back to top"
-        >
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 15l-6-6-6 6"/>
-            </svg>
-        </button>
+        <!-- Mobile accordions -->
+    {description && (
+        <section id="description" class="scroll-mt-24 mb-6">
+        <details open class="group rounded-sm border border-ink/10 dark:border-paper/15 bg-white dark:bg-paper/5 shadow-sm">
+        <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-ink dark:text-paper">
+        <span class="font-display text-base font-semibold">Description</span>
+        <svg class="transition-transform group-open:rotate-180 text-gilt" width="18" height="18" viewBox="0 0 24 24">
+        <path fill="currentColor" d="m7 10l5 5l5-5z"/>
+        </svg>
+        </summary>
+        <div class="px-4 pb-4 text-ink/80 dark:text-paper/80" set:html={marked.parse(description)} />
+    </details>
     </section>
+    )}
 
-</Layout>
-<script is:inline>
-    (() => {
-        const btn = document.getElementById('back-to-top');
-        if (!btn) return;
+    {Array.isArray(resource_link) && resource_link.length > 0 && (
+        <section id="primary-source" class="scroll-mt-24 my-6 space-y-3">
 
-        const showAt = 300; // px
+        {resource_link.map((link, i) => {
+                const isString = typeof link === 'string';
+                const obj = (!isString ? (link as { url: string; label?: string }) : null);
+                const rawUrl = isString ? (link as string) : obj!.url;
+
+                const isIframeHtml = isString && rawUrl.trim().startsWith('<iframe');
+
+                // Detect raw IIIF manifest
+      const looksLikeRawManifest =
+                    typeof rawUrl === 'string' &&
+                    ((/\.json($|\?)/.test(rawUrl)) || /iiif\/(presentation|manifest)/i.test(rawUrl)) &&
+                    !rawUrl.includes('uv.html') && !rawUrl.includes('mirador') && !rawUrl.includes('manifest=');
+
+                // Wrap manifest in UV
+      const viewerUrl = looksLikeRawManifest
+                    ? `https://uv-v4.netlify.app/uv.html#?manifest=${encodeURIComponent(rawUrl)}`
+                    : rawUrl;
+
+                // Treat as IIIF
+      const isIIIF = typeof viewerUrl === 'string' &&
+                    (viewerUrl.includes('manifest=') || viewerUrl.includes('uv.html') || viewerUrl.includes('mirador'));
+
+                // Encode ?manifest=
+      const encodedUrl = isIIIF
+                    ? viewerUrl.replace(/manifest=([^&]*)/, (_m, v) => `manifest=${encodeURIComponent(v)}`)
+                    : viewerUrl;
+
+                // Label
+      const siteBase = (Astro.site && new URL(Astro.site).origin) || 'https://example.com';
+                const computedLabel = (() => {
+                    try {
+                        const parsed = new URL(rawUrl, siteBase);
+                        if (isIIIF) return 'Primary Resource';
+                        return parsed.hostname || 'View Resource';
+                    } catch {
+                        return 'View Resource';
+                    }
+                })();
+
+                const label = obj?.label ?? computedLabel;
+                const shouldOpen = isIframeHtml || isIIIF;
+
+                return (
+                    <details class="group rounded-sm border border-ink/10 dark:border-paper/15 bg-white dark:bg-paper/5 shadow-sm" open={shouldOpen}>
+                    <summary class="cursor-pointer list-none flex items-center justify-between p-4 text-ink dark:text-paper">
+                    <span class="font-display text-sm sm:text-base font-semibold">{label}</span>
+            <svg class="transition-transform group-open:rotate-180 text-gilt" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="m7 10l5 5l5-5z"/></svg>
+            </summary>
+
+            <div class="px-4 pb-4">
+            {isIframeHtml ? (
+                    <div class="overflow-hidden border border-ink/10 dark:border-paper/15" set:html={rawUrl} />
+            ) : isIIIF ? (
+                    shouldOpen ? (
+                        <iframe src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] border border-ink/10 dark:border-paper/15"></iframe>
+            ) : (
+            <iframe data-src={encodedUrl} loading="lazy" allowfullscreen class="w-full h-[600px] border border-ink/10 dark:border-paper/15"></iframe>
+            )
+            ) : (
+            <a href={rawUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-4 py-2 mt-2 rounded-sm border border-ink/40 dark:border-paper/40 text-[0.75rem] uppercase tracking-[0.18em] text-ink dark:text-paper hover:bg-venetian hover:border-venetian hover:text-paper focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14 3h7v7m0 0L10 21l-7-7L21 10z"/></svg>
+            {label}
+            </a>
+            )}
+            </div>
+            </details>
+            );
+            })}
+            </section>
+            )}
+            <script is:inline>
+            const resRoot = document.getElementById('primary-source');
+            if (resRoot) {
+                resRoot.querySelectorAll('details').forEach((d) => {
+                    const load = () => {
+                        const iframe = d.querySelector('iframe[data-src]:not([src])');
+                        if (iframe) {
+                            iframe.src = iframe.dataset.src;
+                            requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+                        }
+                    };
+                    if (d.open) load();
+                    d.addEventListener('toggle', () => { if (d.open) load(); });
+                });
+            }
+            </script>
+            <!-- Sticky Mobile ToC (sits just below the sticky site nav) -->
+            {allHeadings.length > 0 && (
+                <div class="lg:hidden sticky top-16 z-30 bg-parchment/90 dark:bg-ink/90 backdrop-blur border-b border-ink/10 dark:border-paper/15 mb-6 px-4 py-3">
+                    <div class="relative inline-block">
+                    <button
+                type="button"
+                class="bg-white dark:bg-paper/10 border border-ink/20 dark:border-paper/25 shadow-sm px-4 py-2 rounded-sm text-sm font-medium text-ink dark:text-paper hover:bg-ink/5 dark:hover:bg-paper/15 focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt"
+                onclick="document.getElementById('tocDropdownMenu')?.classList.toggle('hidden')"
+                    >
+                    Table of Contents
+            </button>
+            <div
+            id="tocDropdownMenu"
+            class="absolute z-[70] mt-2 w-72 rounded-sm shadow-lg bg-white dark:bg-[#241a12] ring-1 ring-ink/10 dark:ring-paper/15 hidden max-h-80 overflow-auto"
+            >
+            <ul id="toc-mobile" class="py-1 text-sm text-ink dark:text-paper"></ul>
+            </div>
+            </div>
+            </div>
+            )}
+
+            <style is:global>
+            @keyframes slideUp {
+                from { transform: translateY(16px); opacity: 0 }
+                to   { transform: translateY(0);    opacity: 1 }
+            }
+            </style>
+            <!-- Citation Export and Clipboard -->
+
+            <article class="prose dark:prose-invert max-w-none
+            prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
+            prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
+            prose-code:break-words
+            prose-table:block prose-table:w-full
+            prose-a:break-words">
+            <Content />
+            </article>
+
+            {original_language_body && (
+                <>
+                <div class="my-10 text-center text-gilt text-lg" aria-hidden="true">&#10086;</div>
+            <section id="original-language-body" dir="auto" class="prose dark:prose-invert max-w-none
+            prose-img:mx-auto prose-img:max-w-full prose-img:h-auto
+            prose-pre:whitespace-pre-wrap prose-pre:break-words prose-pre:overflow-x-auto
+            prose-code:break-words
+            prose-table:block prose-table:w-full
+            prose-a:break-words">
+            <div set:html={marked.parse(original_language_body)} />
+            </section>
+            </>
+            )}
+            </div>
+
+            <!-- Right-hand sidebar (desktop): ToC + PlumX -->
+            {(allHeadings.length > 0 || plumxUrl) && (
+                <aside class="hidden lg:block sticky top-28 space-y-4">
+                    {allHeadings.length > 0 && (
+                            <nav class="space-y-2 bg-white dark:bg-paper/5 p-5 rounded-sm shadow-sm border border-ink/10 dark:border-paper/15">
+                        <h2 class="text-[0.7rem] uppercase tracking-[0.25em] text-bronze dark:text-gilt mb-3">On this page</h2>
+            <ul id="toc-desktop" class="space-y-1.5 text-sm"></ul>
+            </nav>
+            )}
+            {plumxUrl && (
+                <div class="bg-white dark:bg-paper/5 p-5 rounded-sm shadow-sm border border-ink/10 dark:border-paper/15">
+                    <h2 class="text-[0.7rem] uppercase tracking-[0.25em] text-bronze dark:text-gilt mb-3">Article Metrics</h2>
+            <a href={plumxUrl}
+            data-popup="right"
+            data-badge="true"
+            class="plumx-plum-print-popup plum-bigben-theme"
+            data-site="plum"
+            data-hide-when-empty="true">{title}</a>
+            </div>
+            )}
+            </aside>
+            )}
+
+            </div>
+            </div>
+
+            <button
+            id="back-to-top"
+            class="fixed bottom-5 right-5 z-[80] rounded-full p-3 shadow-lg
+            bg-ink text-paper border border-paper/25 hover:bg-venetian focus:outline-none
+            focus-visible:ring-2 focus-visible:ring-gilt transition-opacity duration-300
+            opacity-0 pointer-events-none"
+            aria-label="Back to top"
+            >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 15l-6-6-6 6"/>
+            </svg>
+            </button>
+            </section>
+
+            </Layout>
+            <script is:inline>
+            (() => {
+                const btn = document.getElementById('back-to-top');
+                if (!btn) return;
+
+                const showAt = 300; // px
         const onScroll = () => {
-            if (window.scrollY > showAt) {
-                btn.classList.remove('opacity-0', 'pointer-events-none');
-                btn.classList.add('opacity-100');
-            } else {
-                btn.classList.add('opacity-0', 'pointer-events-none');
-                btn.classList.remove('opacity-100');
-            }
-        };
+                    if (window.scrollY > showAt) {
+                        btn.classList.remove('opacity-0', 'pointer-events-none');
+                        btn.classList.add('opacity-100');
+                    } else {
+                        btn.classList.add('opacity-0', 'pointer-events-none');
+                        btn.classList.remove('opacity-100');
+                    }
+                };
 
-        const toTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
+                const toTop = () => window.scrollTo({ top: 0, behavior: 'smooth' });
 
-        window.addEventListener('scroll', onScroll, { passive: true });
-        btn.addEventListener('click', toTop);
-        onScroll();
-    })();
+                window.addEventListener('scroll', onScroll, { passive: true });
+                btn.addEventListener('click', toTop);
+                onScroll();
+            })();
 
-// Slugify helper
-const slugify = (s) =>
-(s || "")
-.toString()
-.normalize("NFKD")
-.replace(/[\u0300-\u036f]/g, "")
-.toLowerCase()
-.replace(/[^a-z0-9\s-]/g, "")
-.trim()
-.replace(/\s+/g, "-");
+            // Slugify helper
+            const slugify = (s) =>
+            (s || "")
+            .toString()
+            .normalize("NFKD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .toLowerCase()
+            .replace(/[^a-z0-9\s-]/g, "")
+            .trim()
+            .replace(/\s+/g, "-");
 
-// 1) Ensure article headings have stable IDs (captures raw HTML <h1> too)
-const headingNodes = document.querySelectorAll('article h1, article h2, article h3');
-headingNodes.forEach((h) => {
-    if (!h.id || !h.id.trim()) h.id = slugify(h.textContent);
+            // 1) Ensure article headings have stable IDs (captures raw HTML <h1> too)
+            const headingNodes = document.querySelectorAll('article h1, article h2, article h3');
+            headingNodes.forEach((h) => {
+                if (!h.id || !h.id.trim()) h.id = slugify(h.textContent);
 
-    // add tiny hash anchor
+                // add tiny hash anchor
     if (!h.querySelector('a[data-hash]')) {
-    const a = document.createElement('a');
-    a.href = `#${h.id}`;
-    a.dataset.hash = 'true';
-    a.className = 'text-indigo-500 hover:underline ml-2 opacity-0 group-hover:opacity-100';
-    a.textContent = '#';
-    h.classList.add('group', 'scroll-mt-24');
-    h.appendChild(a);
-    }
-    });
+                    const a = document.createElement('a');
+                    a.href = `#${h.id}`;
+                    a.dataset.hash = 'true';
+                    a.className = 'text-gilt hover:text-venetian ml-2 opacity-0 group-hover:opacity-100 no-underline';
+                    a.textContent = '#';
+                    h.classList.add('group', 'scroll-mt-24');
+                    h.appendChild(a);
+                }
+            });
 
-// 2) Collect DOM headings (with their IDs and text)
-const domHeadings = Array.from(headingNodes).map((h) => ({
-    slug: h.id,
-    text: h.textContent.replace(/#+$/,'').trim(),
-    depth: Number(h.tagName.substring(1)) || 2,
-    }));
+            // 2) Collect DOM headings (with their IDs and text)
+            const domHeadings = Array.from(headingNodes).map((h) => ({
+                slug: h.id,
+                    text: h.textContent.replace(/#+$/,'').trim(),
+                    depth: Number(h.tagName.substring(1)) || 2,
+            }));
 
-// 3) Add your three “extra” sections (these exist in the body via ids)
-const extras = [];
-if (document.getElementById('description')) {
-    extras.push({ slug: 'description', text: 'Description', depth: 2 });
-    }
-
-if (document.getElementById('primary-source')) {
-    extras.push({ slug: 'primary-source', text: 'Primary Source', depth: 2 });
-    }
-if (document.getElementById('original-language-body')) {
-        extras.push({ slug: 'original-language-body', text: 'Primary Source in Original Language', depth: 2 });
-    }
-// 4) Merge and (optionally) de-duplicate by slug (keep first occurrence)
-    const seen = new Set();
-    let merged = [...extras, ...domHeadings].filter(({ slug }) => {
-        if (seen.has(slug)) return false;
-        seen.add(slug);
-        return true;
-    });
-
-    // Move "original-language-body" to the end
-    const olb = merged.find(h => h.slug === "original-language-body");
-    merged = merged.filter(h => h.slug !== "original-language-body");
-    if (olb) merged.push(olb);
-
-    const all = merged;
-// 5) Render ToCs
-    const renderList = (ul, items, variant) => {
-        if (!ul) return;
-        ul.innerHTML = "";
-
-        items.forEach(({ slug, text }) => {
-            if (slug === "original-language-body") {
-                const dividerLi = document.createElement("li");
-                dividerLi.innerHTML = `<hr class="my-2 border-gray-300 dark:border-gray-600">`;
-                ul.appendChild(dividerLi);
+            // 3) Add your three "extra" sections (these exist in the body via ids)
+            const extras = [];
+            if (document.getElementById('description')) {
+                extras.push({ slug: 'description', text: 'Description', depth: 2 });
             }
 
-            const li = document.createElement("li");
-            const a = document.createElement("a");
-            a.href = `#${slug}`;
-            a.textContent = text;
-            a.className =
-                variant === "mobile"
-                    ? "block px-4 py-2 hover:underline"
-                    : "hover:underline text-gray-800 dark:text-gray-200 hover:text-indigo-700 dark:hover:text-indigo-300";
-            li.appendChild(a);
-            ul.appendChild(li);
-        });
-    };
-renderList(document.getElementById("toc-mobile"), all, "mobile");
-renderList(document.getElementById("toc-desktop"), all, "desktop");
-</script>
+            if (document.getElementById('primary-source')) {
+                extras.push({ slug: 'primary-source', text: 'Primary Source', depth: 2 });
+            }
+            if (document.getElementById('original-language-body')) {
+                extras.push({ slug: 'original-language-body', text: 'Primary Source in Original Language', depth: 2 });
+            }
+            // 4) Merge and (optionally) de-duplicate by slug (keep first occurrence)
+            const seen = new Set();
+            let merged = [...extras, ...domHeadings].filter(({ slug }) => {
+                if (seen.has(slug)) return false;
+                seen.add(slug);
+                return true;
+            });
+
+            // Move "original-language-body" to the end
+            const olb = merged.find(h => h.slug === "original-language-body");
+            merged = merged.filter(h => h.slug !== "original-language-body");
+            if (olb) merged.push(olb);
+
+            const all = merged;
+            // 5) Render ToCs
+            const renderList = (ul, items, variant) => {
+                if (!ul) return;
+                ul.innerHTML = "";
+
+                items.forEach(({ slug, text }) => {
+                    if (slug === "original-language-body") {
+                        const dividerLi = document.createElement("li");
+                        dividerLi.innerHTML = `<hr class="my-2 border-ink/15 dark:border-paper/20">`;
+                        ul.appendChild(dividerLi);
+                    }
+
+                    const li = document.createElement("li");
+                    const a = document.createElement("a");
+                    a.href = `#${slug}`;
+                    a.textContent = text;
+                    a.className =
+                        variant === "mobile"
+                            ? "block px-4 py-2 hover:text-venetian dark:hover:text-venetian-light hover:underline"
+                            : "hover:underline text-ink/80 dark:text-paper/80 hover:text-venetian dark:hover:text-venetian-light";
+                    li.appendChild(a);
+                    ul.appendChild(li);
+                });
+            };
+            renderList(document.getElementById("toc-mobile"), all, "mobile");
+            renderList(document.getElementById("toc-desktop"), all, "desktop");
+            </script>
