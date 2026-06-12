@@ -1,0 +1,19 @@
+<!--
+  Static stub so Netlify's build-time form detector registers the "contact"
+  form. The real, styled form lives in src/pages/contact.astro (rendered at
+  request time by the SSR adapter, where Netlify can't scan it). Field names
+  here must match that form. Do not delete.
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head><title>Netlify form stub</title></head>
+  <body>
+    <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input type="text" name="name" />
+      <input type="email" name="email" />
+      <input type="text" name="subject" />
+      <textarea name="message"></textarea>
+      <input name="bot-field" />
+    </form>
+  </body>
+</html>

@@ -1,0 +1,63 @@
+---
+/**
+ * Mailchimp email sign-up form.
+ *
+ * This posts directly to Mailchimp's "embedded form" endpoint, so no API key
+ * or backend is required. To wire it up to your own audience:
+ *
+ *   1. In Mailchimp go to: Audience → Signup forms → Embedded forms.
+ *   2. Copy the URL from the <form action="..."> in the generated code.
+ *      It looks like:
+ *        https://YOURACCOUNT.us21.list-manage.com/subscribe/post?u=XXXX&id=YYYY
+ *   3. Paste it below as PUBLIC_MAILCHIMP_URL in your .env file, OR replace
+ *      the fallback string here directly.
+ *
+ * The honeypot field (b_xxxx_yyyy) is Mailchimp's bot-protection field — keep
+ * it, and make sure its name matches the one in your embedded form code.
+ */
+const MAILCHIMP_URL =
+  import.meta.env.PUBLIC_MAILCHIMP_URL ||
+  "https://fordham.us17.list-manage.com/subscribe/post?u=bc637738e21130912a04684ca&id=2e6a6285fa&f_id=00fcece3f0";
+
+const { heading = "Stay in the loop", blurb = "Get occasional updates about new sources, lectures, and workshops from the Early Modern Workshop." } = Astro.props;
+---
+
+<section class="rounded-2xl border border-slate-200 bg-white p-6 sm:p-8 shadow-sm">
+  <h2 class="text-2xl font-bold text-gray-900">{heading}</h2>
+  <p class="mt-2 text-gray-700">{blurb}</p>
+
+  <form
+    action={MAILCHIMP_URL}
+    method="post"
+    target="_blank"
+    novalidate
+    class="mt-6 flex flex-col sm:flex-row gap-3"
+  >
+    <label for="mce-EMAIL" class="sr-only">Email address</label>
+    <input
+      type="email"
+      name="EMAIL"
+      id="mce-EMAIL"
+      required
+      placeholder="you@example.com"
+      class="flex-1 rounded-lg border border-slate-300 px-4 py-2.5 text-gray-900 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-500 focus:outline-none"
+    />
+
+    <!-- Mailchimp anti-bot honeypot: must stay hidden from real users. -->
+    <div aria-hidden="true" class="absolute left-[-5000px]">
+      <input type="text" name="b_bc637738e21130912a04684ca_2e6a6285fa" tabindex="-1" value="" />
+    </div>
+
+    <button
+      type="submit"
+      class="rounded-lg bg-indigo-600 px-5 py-2.5 font-semibold text-white hover:bg-indigo-700 focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:outline-none transition-colors"
+    >
+      Subscribe
+    </button>
+  </form>
+
+  <p class="mt-3 text-xs text-gray-500">
+    We use Mailchimp. By subscribing you acknowledge your information will be
+    transferred to Mailchimp for processing.
+  </p>
+</section>
