@@ -3,47 +3,68 @@ import Search from "astro-pagefind/components/Search";
 ---
 <!-- Trigger (put this in the navbar’s right group, after About) -->
 <button id="open-search"
-        class="hidden md:inline-flex items-center gap-2 px-3 py-2 rounded-md border border-gray-300 dark:border-gray-600
-         hover:bg-gray-50 dark:hover:bg-gray-800 text-sm text-gray-700 dark:text-gray-200">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        aria-keyshortcuts="Control+K Meta+K /"
+        class="hidden md:inline-flex items-center gap-2 px-3 py-2 rounded-sm border border-ink/20 dark:border-paper/25
+         hover:border-gilt hover:text-venetian dark:hover:text-venetian-light text-sm text-ink/70 dark:text-paper/70
+         focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
         <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
     </svg>
-    Search
+    <span>Search</span>
+    <kbd class="ml-1 hidden lg:inline-block rounded border border-ink/20 dark:border-paper/25 px-1.5 py-0.5 text-[0.65rem] font-sans text-ink/50 dark:text-paper/50">⌘K</kbd>
 </button>
 
-<!-- Overlay -->
+<!-- Overlay (flex-centers the panel horizontally) -->
 <div id="searchOverlay"
-     class="fixed inset-0 z-[60] hidden"
+     class="fixed inset-0 z-[60] hidden flex justify-center items-start px-4"
      role="dialog" aria-modal="true" aria-labelledby="search-title">
     <!-- Backdrop -->
     <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" data-backdrop></div>
 
     <!-- Panel -->
     <div id="searchPanel"
-         class="absolute left-1/2 -translate-x-1/2 top-[6vh] w-[min(92vw,900px)]
-              bg-white dark:bg-gray-900 rounded-xl shadow-2xl ring-1 ring-black/10
+         class="relative mt-[6vh] w-full max-w-[900px]
+              bg-parchment dark:bg-[#241a12] rounded-sm shadow-2xl ring-1 ring-ink/15 dark:ring-paper/15
               flex flex-col max-h-[88vh]" tabindex="-1">
-        <div class="flex items-center justify-between px-4 py-3 border-b border-gray-200 dark:border-gray-700">
-            <h2 id="search-title" class="text-sm font-semibold text-gray-700 dark:text-gray-200">Search</h2>
+        <div class="shrink-0 flex items-center justify-between px-4 py-3 border-b border-ink/10 dark:border-paper/15">
+            <h2 id="search-title" class="text-[0.7rem] uppercase tracking-[0.22em] text-bronze dark:text-gilt">Search the archive</h2>
             <button id="close-search"
-                    class="inline-flex items-center px-2 py-1 text-sm rounded-md hover:bg-gray-100 dark:hover:bg-gray-800"
+                    class="inline-flex items-center gap-1 px-2 py-1 text-xs rounded-sm border border-ink/15 dark:border-paper/20 text-ink/60 dark:text-paper/60 hover:border-gilt hover:text-venetian dark:hover:text-venetian-light focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors"
                     aria-label="Close search (Esc)">
                 Esc
             </button>
         </div>
 
-        <div class="p-3 overflow-hidden">
-
-
+        <!-- This is the single scroll container; the panel itself is height-capped. -->
+        <div class="flex-1 min-h-0 overflow-y-auto p-3">
             <Search
                     id="search"
                     className="pagefind-ui w-full"
                     uiOptions={{ showImages: false }}
-            />        </div>
+            />
+        </div>
 
-        <!-- Keep results scrollable inside panel -->
+        <!-- Let the panel body handle scrolling instead of an inner fixed-height drawer. -->
         <style is:global>
-            .pagefind-ui__drawer { max-height: 60vh; overflow: auto; }
+            .pagefind-ui__drawer { max-height: none; overflow: visible; }
+
+            /* Year pill prepended to each result title (see script below) */
+            .result-year-pill {
+                display: inline-block;
+                margin-right: 0.5rem;
+                padding: 0.1rem 0.5rem;
+                font-size: 0.65rem;
+                font-weight: 600;
+                letter-spacing: 0.1em;
+                text-transform: uppercase;
+                vertical-align: middle;
+                border-radius: 2px;
+                background: #1b130d;   /* ink */
+                color: #f4ecda;        /* paper */
+            }
+            @media (prefers-color-scheme: dark) {
+                .result-year-pill { background: #cfa45c; color: #1b130d; } /* gilt on ink */
+            }
         </style>
     </div>
 </div>
@@ -103,5 +124,50 @@ import Search from "astro-pagefind/components/Search";
     openBtn?.addEventListener('click', open);
     closeBtn?.addEventListener('click', close);
     backdrop?.addEventListener('click', close);
-    window.addEventListener('keydown', (e) => { if (e.key === 'Escape') close(); });
+
+    const isOpen = () => overlay && !overlay.classList.contains('hidden');
+    const isTyping = (el) =>
+        el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable);
+
+    // Global shortcuts: Cmd/Ctrl+K toggles search, "/" opens it.
+    window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') return close();
+
+        // Cmd/Ctrl + K
+        if ((e.metaKey || e.ctrlKey) && (e.key === 'k' || e.key === 'K')) {
+            e.preventDefault();
+            isOpen() ? close() : open();
+            return;
+        }
+
+        // "/" when not already typing in a field
+        if (e.key === '/' && !isOpen() && !isTyping(document.activeElement)) {
+            e.preventDefault();
+            open();
+        }
+    });
+
+    // ── Add a year pill to each result title ──
+    // Result links look like /resources/2014/some-slug — pull the year and
+    // prepend a small pill inside the title. Pagefind re-renders results as you
+    // type, so we watch the overlay for changes.
+    function addYearPills() {
+        const titles = overlay?.querySelectorAll('.pagefind-ui__result-title');
+        titles?.forEach((title) => {
+            if (title.dataset.yearTagged) return;
+            const link = title.querySelector('a[href]');
+            const m = link?.getAttribute('href')?.match(/\/resources\/(\d{4})(?:\/|$)/);
+            if (!m) { title.dataset.yearTagged = 'skip'; return; }
+            const pill = document.createElement('span');
+            pill.className = 'result-year-pill';
+            pill.textContent = m[1];
+            title.insertBefore(pill, title.firstChild);
+            title.dataset.yearTagged = 'done';
+        });
+    }
+
+    const resultObserver = new MutationObserver(() => addYearPills());
+    if (overlay) {
+        resultObserver.observe(overlay, { childList: true, subtree: true });
+    }
 </script>

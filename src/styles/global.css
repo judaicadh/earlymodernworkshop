@@ -14,7 +14,10 @@
    the EB Garamond part of this import and keep only Frank Ruhl Libre.) */
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Frank+Ruhl+Libre:wght@400;500;700&display=swap");
 
-/* ── Design tokens (shared with the hero) ── */
+/* ── Design tokens (shared with the hero) ──
+   NOTE: these :root vars drive the custom .prose rules below only.
+   Tailwind utility colors (bg-ink, text-paper, …) come from @theme above
+   and are intentionally fixed. */
 :root {
     --ink: #1b130d;
     --ink-soft: #3a2f25;
@@ -22,6 +25,28 @@
     --gilt: #cfa45c;
     --venetian: #8e2f23;
     --serif: "EB Garamond", "Frank Ruhl Libre", Georgia, serif;
+}
+
+/* In OS dark mode, flip the prose tokens so long-form article text is light
+   on dark instead of dark-on-dark. Links shift to the lighter Venetian so
+   they keep AA contrast against the ink background. */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --ink: #f4ecda;       /* headings → warm paper */
+        --ink-soft: #d8cdb6;  /* body text → soft paper */
+        --venetian: #d07d68;  /* links → lighter Venetian for contrast */
+    }
+}
+
+/* Let the browser theme native UI (form fields, scrollbars) and give the
+   page a base background so there is never a white flash behind sections. */
+html { color-scheme: light dark; }
+body {
+    background-color: var(--color-parchment, #fbf7ee);
+    color: var(--ink);
+}
+@media (prefers-color-scheme: dark) {
+    body { background-color: #1b130d; }
 }
 
 /* ── Bidi: keep Hebrew/Latin mixed content rendering correctly ── */
@@ -185,3 +210,27 @@ img, video, svg, canvas, iframe, embed, object {
 ::selection {
     background: rgba(207, 164, 92, 0.35);
 }
+
+/* ── Pagefind search UI: map onto the site palette (light + dark) ── */
+.pagefind-ui {
+    --pagefind-ui-primary: #8e2f23;        /* Venetian */
+    --pagefind-ui-text: #1b130d;           /* ink */
+    --pagefind-ui-background: #fbf7ee;     /* parchment */
+    --pagefind-ui-border: rgba(27, 19, 13, 0.18);
+    --pagefind-ui-tag: #f4ecda;            /* paper */
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 2px;
+    --pagefind-ui-font: "EB Garamond", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+    .pagefind-ui {
+        --pagefind-ui-primary: #cfa45c;        /* gilt for contrast on dark */
+        --pagefind-ui-text: #f4ecda;           /* paper */
+        --pagefind-ui-background: #241a12;      /* warm dark panel */
+        --pagefind-ui-border: rgba(244, 236, 218, 0.18);
+        --pagefind-ui-tag: #2e2218;
+    }
+}
+/* The result links Pagefind renders should follow the primary colour. */
+.pagefind-ui__result-link { color: var(--pagefind-ui-primary); }
+.pagefind-ui__result-excerpt { color: var(--pagefind-ui-text); }

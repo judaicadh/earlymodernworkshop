@@ -37,19 +37,23 @@ const displayTag = label ?? tag;
 ---
 
 <Layout>
-    <section class="py-16">
-        <div class="container mx-auto px-6 lg:px-8">
-            <nav class="text-sm mb-6" aria-label="Breadcrumb">
-                <a href="/resources" class="text-indigo-600 hover:underline">Resources</a>
-                <span> / </span>
-                <a href="/tags" class="text-indigo-600 hover:underline">Tags</a>
-                <span> / </span>
-                <span class="text-gray-500">{displayTag}</span>
+    <section class="py-16 sm:py-20 bg-parchment dark:bg-ink transition-colors">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <nav class="flex items-center gap-1.5 text-[0.72rem] uppercase tracking-[0.18em] mb-8" aria-label="Breadcrumb">
+                <a href="/resources" class="text-ink/60 dark:text-paper/60 hover:text-venetian dark:hover:text-venetian-light transition-colors">Resources</a>
+                <span class="text-ink/30 dark:text-paper/30">/</span>
+                <a href="/tags" class="text-ink/60 dark:text-paper/60 hover:text-venetian dark:hover:text-venetian-light transition-colors">Tags</a>
+                <span class="text-ink/30 dark:text-paper/30">/</span>
+                <span class="text-ink dark:text-paper normal-case tracking-normal text-sm">{displayTag}</span>
             </nav>
 
-            <h1 class="text-3xl font-bold mb-8">
-                Tag: <span class="text-indigo-700">{displayTag}</span>
-            </h1>
+            <div class="mb-8">
+                <p class="text-[0.7rem] uppercase tracking-[0.3em] text-bronze dark:text-gilt mb-2">Tag</p>
+                <h1 class="font-display text-3xl sm:text-4xl font-semibold text-ink dark:text-paper">
+                    {displayTag}
+                </h1>
+                <div class="mt-3 text-gilt text-lg" aria-hidden="true">&#10086;</div>
+            </div>
 
             {docsForTag.length > 0 ? (
                     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -57,28 +61,28 @@ const displayTag = label ?? tag;
 
                                 <a
                                         href={`/resources/${doc.data.year}/${doc.data.slug}`}
-                                        class="group relative block p-5 pt-8 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md hover:border-indigo-500 transition"
+                                        class="group relative block p-5 pt-8 bg-white dark:bg-paper/5 border border-ink/15 dark:border-paper/15 rounded-sm shadow-sm hover:shadow-md hover:border-gilt dark:hover:border-gilt focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt focus-visible:ring-offset-2 focus-visible:ring-offset-parchment dark:focus-visible:ring-offset-ink transition-all"
                                 >
-                                    <!-- Year pill -->
+                                    <!-- Year label, set like a printed plate number -->
                                     <span
-                                            class="pointer-events-none absolute top-2 left-2 inline-flex items-center gap-1 rounded-full bg-indigo-100 px-2.5 py-0.5 text-xs font-medium text-indigo-800 shadow"
+                                            class="pointer-events-none absolute top-2 left-2 bg-ink/85 text-paper px-2.5 py-1 text-[0.7rem] font-medium uppercase tracking-[0.18em]"
                                     >
     {doc.data.year}
   </span>
 
                                     <h2
-                                            class="text-xl font-semibold mb-2 text-gray-800 group-hover:text-indigo-600"
+                                            class="font-display text-xl font-semibold mb-2 text-ink dark:text-paper group-hover:text-venetian dark:group-hover:text-venetian-light transition-colors"
                                             set:html={marked.parseInline(doc.data.title)}
                                     />
 
-                                    <p class="text-gray-600 line-clamp-3">
+                                    <p class="text-ink/70 dark:text-paper/70 line-clamp-3">
                                         {doc.data.description ?? "No description available."}
                                     </p>
                                 </a>
                         ))}
                     </div>
             ) : (
-                    <p class="text-gray-500">No documents found for this tag.</p>
+                    <p class="text-ink/60 dark:text-paper/60">No documents found for this tag.</p>
             )}
         </div>
     </section>
