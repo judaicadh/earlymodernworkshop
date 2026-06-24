@@ -155,11 +155,11 @@ memory.
 Rosh Hodesh Adar, a daughter was delivered to the slaughterer who lives by
 Shmuel Herenburg.
 
-1 [^1]: The word אנוסה (*anusah*) is written above this entry, which could mean that this was a Marrano woman, or that she was raped. This remains unclear.  
-2 [^2]: This street is also listed as Pinto’sgang or Pintjesgang.  
-3 [^3]: Marken is an area in Amsterdam, a former island.  
-4 [^4]: Zandstraat-gang.  
-5 [^5]: This was the person who served as the head of funeral processions.
+[^1]: The word אנוסה (*anusah*) is written above this entry, which could mean that this was a Marrano woman, or that she was raped. This remains unclear.  
+[^2]: This street is also listed as Pinto’sgang or Pintjesgang.  
+[^3]: Marken is an area in Amsterdam, a former island.  
+[^4]: Zandstraat-gang.  
+[^5]: This was the person who served as the head of funeral processions.
 
 ### Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio 135v]
 
