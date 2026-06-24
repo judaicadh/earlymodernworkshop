@@ -54,6 +54,10 @@ Moreover, the words of Rabbeinu Tam,[^28] of blessed memory – upon whom the le
 
 ## Source 1 Original Text
 
+Hebrew Union College Library, Cincinnati, Ms. 210, 124a-125b
+
+Paragraph divisions and punctuation have been added editorially to aid readability, except for certain colons that mark the end of sentences or arguments, which appear in the original manuscript. Paragraph breaks that appear in the original manuscript are marked by a double space.
+
 ‫טופס החתימה שחתמתי על פסק הגבינות הנעשות מחלב שחלבו גוי ואין ישראל רואה‬
 
 ‫לאפושי גברי קא אתינא הכא, וחדינא למיחזי רבנן קדישי וקשישי דאתו בכנופיא למעבד תקנתא מעלייא ולמיזגר מילתא באיסור'[א] ואמינא לפעלי טבי, יישר חילייהו, ואל יהי ברכת הדיוט קלה בעינייהו:‬
