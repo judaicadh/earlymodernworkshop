@@ -36,153 +36,21 @@ Michela Andreatta, “The Taste of Conviviality: A Poem on Food by Leon Modena,�
 
 Hebrew Union College Library, Cincinnati, Ms. 210, 124a-125b
 
-**The form of the signature that I signed on the ruling regarding cheeses**
+**The form of the signature that I signed on the ruling regarding cheeses made from milk that was milked by a non-Jew, without a Jew observing**
 
-**made from milk that was milked by a non-Jew, without a Jew observing**
+To strengthen the fellows I have come forward, and I was gladdened to see holy and elder rabbis who gathered as a group to establish a fine ordinance and issue a prohibition. I said of their action: it is praiseworthy; may their strength be upright; and let not the blessing of a layman be light in their eyes.[^1]
 
-To strengthen the fellows I have come forward, and I was gladdened to see holy
+“And these [word] add upon the earlier ones.”2 The *Mordekhai*,3 at the beginning of the second chapter of *Bava Metzia*, cites in the name of a responsum of Rabbeinu Gershom,4 and it is brought by the author of *Me’irat Einayim*5** 2:10, as follows: “Anyone who is appointed over the community is as mighty as the mightiest, and ‘Yiftach in his generation [= is like Samuel in his generation]’.6 And whatever he does is valid.” Similarly, *Rashba*7 writes in responsum 729 that every community in its locale is like the Geonim8** for all of Israel, who enacted many ordinances for all of Israel. Therefore, every wise person – let him mightily uphold and support their ordinance and their decree. [That is] even if they ruled to prohibit what is otherwise permitted. All the more so – and how much more so – regarding those holy rabbis, who only issued a decree regarding what is [already] prohibited, as is clear from all the evidence and halakhic authorities. And also, since in all the regions of Italy, where they tend to be more lenient, [still] their custom aligns with their [ruling].9
 
-and elder rabbis who gathered as a group to establish a fine ordinance and issue
+And this is similar to what *HaRav HaMashbir* (=the “Provider Rabbi”)10 wrote in Section 125, about those who eat cheeses of gentiles that are curdled with flowers,11 as follows: “All the more so in a case where Maimonides12 and the *Rashba* prohibit it, for they are pillars of the world. And furthermore, in all the places of Israel of which I have heard, the practice is to prohibit it”; and such is the ruling in our case.
 
-a prohibition. I said of their action: it is praiseworthy; may their strength be
+And the reason is that this is a matter that was prohibited by a formal vote, and requires another vote to permit it,13 as appears in the first chapter of [tractate] *Yom Tov*. So wrote *Harav HaMaggid*14 in chapter 3 of the Laws of Forbidden Foods. And so wrote the author of *Lehem Mishneh*, 15 as follows: “In our times, where no one in that certain place would curdle with a prohibited object, as it is known that [the people of that place] would certainly abhor non kosher milk, still, since it was prohibited by a formal vote, a new vote is required to permit it.” End quote. And the author of *Derisha u-Perisha*iii also wrote in *Derisha*, Section 7, as follows: “And since all cheeses of gentiles were prohibited, even if one finds a place where there is no reason to prohibit them, we have no authority to permit it. Such is also the view of the *Rashba*.” End quote.
 
-upright; and let not the blessing of a layman be light in their eyes.1
+From all the aforementioned halakhic authorities it is clear that cheeses made from milk milked by a non-Jew, without a Jew observing, are prohibited. And we follow the later authorities (*batrai*), even among halakhic decisors (*poskim*).16 And the author of *Siftei Kohen*17 (*Shakh*) wrote in his “*Abridged [guidelines] for Conducting Rulings in Matters of Ritual and Dietary Law*”,18 no. 8: “In every case where the words of the early authorities are written in a book and are well-known, and the later decisors disagree with them, we follow the later ones.”
 
-“And these [word] add upon the earlier ones.”2 The *Mordekhai*,
+And the author of *Kenesset HaGedolah*19** wrote, in his “*Rules Concerning the Courses of Halakhic Authorities*”,20 no. 39, as follows: “Even among decisors, we say the law follows the later authorities (*hilkhetah ke-batrai*), even if a single authority disagrees with many; [Source:] R. Moses Alashkar,21 of blessed memory, 23, citing *Maharik* (R. Joseph Colon)22. So also wrote R. Jacob Smot,23 of blessed memory; his words were cited in the Responsa of our teacher R. Yosef Karo,vi of blessed memory, Part 1, Section 2, and in *Binyamin Ze’ev*, 24 126. And my teacher the Rav,25 of blessed memory, in Responsa Part 2, *Yoreh De’ah*, 51. And the author of *Mishpat Tzedek*, 26 *Hoshen Mishpat*, citing *Maharik*, of blessed memory. And R. Elijah Mizrahi (*Re’em*),27 of blessed memory, in a manuscript responsum, wrote in accordance with the words of *Maharik*, of blessed memory.” So ends the words of the Compiler Rabbi.xi
 
-3 at the
-
-beginning of the second chapter of *Bava Metzia*, cites in the name of a
-
-responsum of Rabbeinu Gershom,4 and it is brought by the author of *Me’irat*
-
-*Einayim*5** 2:10, as follows: “Anyone who is appointed over the community is as
-
-mighty as the mightiest, and ‘Yiftach in his generation [= is like Samuel in his
-
-generation]’.6 And whatever he does is valid.” Similarly, *Rashba*7 writes in
-
-responsum 729 that every community in its locale is like the Geonim8** for all of
-
-Israel, who enacted many ordinances for all of Israel. Therefore, every wise
-
-person – let him mightily uphold and support their ordinance and their decree.
-
-[That is] even if they ruled to prohibit what is otherwise permitted. All the more
-
-so – and how much more so – regarding those holy rabbis, who only issued a
-
-decree regarding what is [already] prohibited, as is clear from all the evidence
-
-and halakhic authorities. And also, since in all the regions of Italy, where they
-
-tend to be more lenient, [still] their custom aligns with their [ruling].9
-
-And this is similar to what *HaRav HaMashbir* (=the “Provider Rabbi”)10
-
-wrote in Section 125, about those who eat cheeses of gentiles that are curdled
-
-with flowers,11 as follows: “All the more so in a case where Maimonides12 and
-
-the *Rashba* prohibit it, for they are pillars of the world. And furthermore, in all
-
-the places of Israel of which I have heard, the practice is to prohibit it”; and
-
-such is the ruling in our case.
-
-And the reason is that this is a matter that was prohibited by a formal
-
-vote, and requires another vote to permit it,13 as appears in the first chapter of
-
-[tractate] *Yom Tov*. So wrote *Harav HaMaggid*14 in chapter 3 of the Laws of
-
-Forbidden Foods. And so wrote the author of *Lehem Mishneh*,
-
-15 as follows: “In
-
-our times, where no one in that certain place would curdle with a prohibited
-
-object, as it is known that [the people of that place] would certainly abhor non
-
-kosher milk, still, since it was prohibited by a formal vote, a new vote is
-
-required to permit it.” End quote. And the author of *Derisha u-Perisha*iii also
-
-wrote in *Derisha*, Section 7, as follows: “And since all cheeses of gentiles were
-
-prohibited, even if one finds a place where there is no reason to prohibit them,
-
-we have no authority to permit it. Such is also the view of the *Rashba*.” End
-
-quote.
-
-From all the aforementioned halakhic authorities it is clear that cheeses
-
-made from milk milked by a non-Jew, without a Jew observing, are prohibited.
-
-And we follow the later authorities (*batrai*), even among halakhic decisors
-
-(*poskim*).16 And the author of *Siftei Kohen*17 (*Shakh*) wrote in his “*Abridged*
-
-*[guidelines] for Conducting Rulings in Matters of Ritual and Dietary Law*”,18
-
-no. 8: “In every case where the words of the early authorities are written in a
-
-book and are well-known, and the later decisors disagree with them, we follow
-
-the later ones.”
-
-And the author of *Kenesset HaGedolah*19** wrote, in his “*Rules Concerning*
-
-*the Courses of Halakhic Authorities*”,20 no. 39, as follows: “Even among
-
-decisors, we say the law follows the later authorities (*hilkhetah ke-batrai*), even
-
-if a single authority disagrees with many; [Source:] R. Moses Alashkar,21 of
-
-blessed memory, 23, citing *Maharik* (R. Joseph Colon)22. So also wrote R. Jacob
-
-Smot,23 of blessed memory; his words were cited in the Responsa of our teacher
-
-R. Yosef Karo,vi of blessed memory, Part 1, Section 2, and in *Binyamin Ze’ev*,
-
-24
-
-126. And my teacher the Rav,25 of blessed memory, in Responsa Part 2, *Yoreh*
-
-*De’ah*, 51. And the author of *Mishpat Tzedek*,
-
-26 *Hoshen Mishpat*, citing
-
-*Maharik*, of blessed memory. And R. Elijah Mizrahi (*Re’em*),27 of blessed
-
-memory, in a manuscript responsum, wrote in accordance with the words of
-
-*Maharik*, of blessed memory.” So ends the words of the Compiler Rabbi.xi
-
-Moreover, the words of Rabbeinu Tam,28 of blessed memory – upon
-
-whom the lenient rely29 – were said as a theoretical ruling (*le-halakhah*), not for
-
-actual practice (*le-ma’aseh*),30 as noted by our honored teacher, Rabbi Menashe
-
-Ḥaim of Padua, in his ruling.31 And I found support for his statement – even
-
-though his words are built on foundations of gold and need no further support –
-
-in the *Rules of Halakhic Decisors* by the *Compiler Rabbi*, no. 16, as follows: “I
-
-received from my father and teacher that one should not rely in practice on the
-
-words of Tosafot32 unless they explicitly state that their words carry practical
-
-implications. And one may rely on *Piskei Tosafot* in practice.33 And in *Tosafot*
-
-*Ashkenaziyot* I found: in every place where Tosafot would say a practical ruling,
-
-the scribe should mark it outside the main text; [Source:] Responsa of R. Elijah
-
-Capsali,34 of blessed memory, manuscript.”
+Moreover, the words of Rabbeinu Tam,28 of blessed memory – upon whom the lenient rely29 – were said as a theoretical ruling (*le-halakhah*), not for actual practice (*le-ma’aseh*),30 as noted by our honored teacher, Rabbi Menashe Ḥaim of Padua, in his ruling.31 And I found support for his statement – even though his words are built on foundations of gold and need no further support – in the *Rules of Halakhic Decisors* by the *Compiler Rabbi*, no. 16, as follows: “I received from my father and teacher that one should not rely in practice on the words of Tosafot32 unless they explicitly state that their words carry practical implications. And one may rely on *Piskei Tosafot* in practice.33 And in *Tosafot Ashkenaziyot* I found: in every place where Tosafot would say a practical ruling, the scribe should mark it outside the main text; [Source:] Responsa of R. Elijah Capsali,34 of blessed memory, manuscript.”
 
 ## Source 1 Original Text
 
