@@ -20,6 +20,7 @@ bibliography:
   - {}
 ---
 ### Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche Hoofdsynagogue, Inv. 2,
+
 folio 551
 
 Because we have found and seen that it is not sufficient to have only one doctor to perform
@@ -53,24 +54,23 @@ signatures below.
 
 Today, Thursday 14 Tevet 5523 [December 30, 1762]
 
-<p align="center">
 Districts of the Above Midwives
-</p>
 
-| Haykhe midwife  new  | Judith midwife  new | Bela midwife | Serkhe midwife |
-| ------------- | ------------- | ------------- | ------------- |
-| Uilenburger 2 Streets  | Flembourg  | From the new Mark | Marken |
-| Alte Shantz  | Stromark  | Sant street | Markenstan (?) |
+
+| Haykhe midwife new | Judith midwife new | Bela midwife | Serkhe midwife |
+| ------------------------------------- | --------------------------------------- | -------------------------- | ---------------- |
+| Uilenburger 2 Streets | Flembourg | From the new Mark | Marken |
+| Alte Shantz | Stromark | Sant street | Markenstan (?) |
 | Uilenburger alley | Greenmark by the Portuguese (meat) hall | Moder Mahlen alley | Small Houttuinen |
 | Big and Small Houttuinen to Shlis | Flembourger alley | Farbrei Street and *graft* | Vinkenbuurt |
-| Breite Street | Shul street | Neue Street |          | 
-|From the Shlis to the Portuguese shul | Tarf *graft* and alley (?)  | Wesper Street |           |
-|               |              | Kerk Street  |              |
+| Breite Street | Shul street | Neue Street |  |
+| From the Shlis to the Portuguese shul | Tarf *graft* and alley (?) | Wesper Street |  |
+|  |  | Kerk Street |  |
+
 
 Signature of Serkhe (pen mark)
 
 ## Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche Hoofdsynagogue, Inv. 2, folio 551
-
 
 מאחר שמצאנו וראינו שלא טוב להיות רופא אחד של ביקור חולים לפני עניי עירינו לבדו, ולכך נתמנו ע״י מנהיגי קהל
 יצ״ו עזר לו עוד שני רופאים כדי שלא תכבוד העבודה הנזכר בפנקס הלז בדף .F 544 וביותר צריך זירוז, אצל נשים
@@ -87,19 +87,22 @@ Signature of Serkhe (pen mark)
 שיהיו עוסקים בשדרות שלהם באמונה, כמו שמחייבן את עצמן בחתימת ידיהן דלמטה, היום יום ד׳ י״ד טבת תקך״ג
 באמשטרדם
 
-|  חייכי המילדות חדשה  |  יודית מילדות חדשה | בילה מילדות  | סערכי מילדות |
-| ------------- | ------------- | ------------- | ------------- |
-| אוילנבורגר שני גאסן |  ֿפלאמבורג | פון דרא נייאה מארק | מארקן |
-|  אלט שאנץ | שטרוא מארק | זאנט גאס | מארקן שטען |
-|  אוילנבורגר שטעג | גרין מארק ביז פארטעגיזן האל | מודר מאהלן שטעהג | קליינה הויטטוין  |
+
+| חייכי המילדות חדשה | יודית מילדות חדשה | בילה מילדות | סערכי מילדות |
+| ---------------------------------- | --------------------------- | ------------------- | --------------- |
+| אוילנבורגר שני גאסן | ֿפלאמבורג | פון דרא נייאה מארק | מארקן |
+| אלט שאנץ | שטרוא מארק | זאנט גאס | מארקן שטען |
+| אוילנבורגר שטעג | גרין מארק ביז פארטעגיזן האל | מודר מאהלן שטעהג | קליינה הויטטוין |
 | גרושי אונ׳ קליינה הויטטון ביז שליס | פלאמבורגר שטעג | פארברייא גאס וגראפט | פינקעבירט |
-|  ברייטה גאס | שול גאס | נייאה גאס |          | 
-|פון דיא שליס ביז אן פארטעגיזן שול | טארף גראפט אונ׳ שטעג | וועזפר גאט |           |
-|               |              | קערק גאס  |              |
+| ברייטה גאס | שול גאס | נייאה גאס |  |
+| פון דיא שליס ביז אן פארטעגיזן שול | טארף גראפט אונ׳ שטעג | וועזפר גאט |  |
+|  |  | קערק גאס |  |
+
 
 חתימת יד מן סערה הנ״ל []
 
 ## Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio 135v]
+
 ### 5489
 
 Rosh Hodesh Iyyar, a daughter was delivered to the Bimitel [Pimentel]
@@ -152,14 +155,14 @@ memory.
 Rosh Hodesh Adar, a daughter was delivered to the slaughterer who lives by
 Shmuel Herenburg.
 
-[^1]: The word אנוסה (*anusah*) is written above this entry, which could mean that this was a Marrano woman, or that she was raped. This remains unclear.
-[^2]: This street is also listed as Pinto’sgang or Pintjesgang.
-[^3]: Marken is an area in Amsterdam, a former island.
-[^4]: Zandstraat-gang.
-[^5]: This was the person who served as the head of funeral processions.
-
+1[^1]: The word אנוסה (*anusah*) is written above this entry, which could mean that this was a Marrano woman, or that she was raped. This remains unclear.  
+2[^2]: This street is also listed as Pinto’sgang or Pintjesgang.  
+3[^3]: Marken is an area in Amsterdam, a former island.  
+4[^4]: Zandstraat-gang.  
+5[^5]: This was the person who served as the head of funeral processions.
 
 ### Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio 135v]
+
 ### 5489
 
 ר״ח אייר גיהואלט איין טאֿכטר ביי אדעם בימי טעל זילבר שמיט
