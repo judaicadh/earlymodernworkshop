@@ -206,6 +206,15 @@ img, video, svg, canvas, iframe, embed, object {
     font-size: 1.15rem;
 }
 
+/* ── Footnotes: show numbers on the ordered list ── */
+.prose .footnotes ol {
+    list-style-type: decimal;
+    padding-inline-start: 1.5em;
+}
+.prose .footnotes li {
+    margin-bottom: 0.5em;
+}
+
 /* ── Text selection in the site palette ── */
 ::selection {
     background: rgba(207, 164, 92, 0.35);
