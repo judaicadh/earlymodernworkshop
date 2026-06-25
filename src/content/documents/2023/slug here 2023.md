@@ -11,7 +11,14 @@ event:
   theme: Fun, Leisure, and Play
 language:
   - Judeo-Arabic
-description: description text
+description: >-
+  Amina Boukail, University of Jijel-Algeria  
+
+  Bodleian Library, Oxford, Ms. Opp. Add. 4o 85 (Neubauer, *Catalog of the
+  Hebrew*
+
+
+  *Manuscripts in the Bodleian Library* 1191) cols, XII- XXXIX.
 sections:
   - title: Introduction
     content: The study delves into mystical and messianic interpretations of Rome
