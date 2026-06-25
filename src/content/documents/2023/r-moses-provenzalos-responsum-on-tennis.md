@@ -115,31 +115,38 @@ Responsa of R. Moses Provenzalo, #53
 
 Footnotes
 
-[^1]:
+[^1]: BT, Tractate Shabbat, 146a (Mishnah) ״חוששני לו מחטאת״ (I am concerned for him, because he may be liable to bring a sin-offering as a result of this.)
 
-[^2]:
+[^2]: BT, Tractate Chagiga, 15b, ‫אַם דוֹמֶה הָרַב לְמַלְאַך ה׳ צְבָאוֹת — יְבַקְּשׁוּ תּוֹרָה מִפִּיהוּ, וְאִם לָאו — אַל יְבַקְּשׁוּ תּוֹרָה מִפִּיהוּ‬‎! (If the rabbi is similar to an angel of the Lord of hosts, they should seek Torah from his mouth; but if not, they should not seek Torah from his mouth.)
 
-[^3]:
+[^3]: I Samuel 2:24 השמעה אשר אנכי שמע מעברים עם ה׳
 
-[^4]:
+[^4]: I Isaiah 22:18: ‫צָנוֹף יִצְנָפְךָ צְנֵפָה כַּדּוּר אֶל־אֶרֶץ רַחֲבַת יָדָיִם‬‎
 
-[^5]:
+See Rashi, there:
 
-[^6]:
+‫כדור. כשור מקף ורבותינו פירשו לשון כדור שקורין פלוט"א בלע"ז שזורקין אותו ומקבלין מיד ליד:‬‎
 
-[^7]:
+(‫כַּדּוּר‬‎), like a surrounding wall. Our Rabbis, however, explained it as an expression of a ball, which they call 'pelote' in French, which is tossed and caught from hand to hand.
 
-[^8]:
+[^5]:  ‎Job 18:18: ‫יֶהְדְּפֻהוּ מֵאוֹר אֶל־חֹשֶׁךְ וּמִתֵּבֵל יְנִדֻּהוּ׃‬‎
 
-[^9]:
+[^6]: ‎.‫בקשת קטנה מעולפת נימין מסורגת חבלים‬‎  
+Song of Songs 5:14 ‫מֵעָיו עֶשֶׁת שֵׁן מְעֻלֶּפֶת סַפִּירִים
 
-[^10]:
+[^7]: ‎Exodus 16:4 ‫וְיָצָא הָעָם וְלָקְטוּ דְּבַר־יוֹם בְּיוֹמוֹ‬‎
 
-[^11]:
+[^8]: "The ante," see, for instance, the section on *invito*: [https://it.wikipedia.org/wiki/Poker_tradizionale](https://it.wikipedia.org/wiki/Poker_tradizionale).
 
-[^12]:
+[^9]: ‎‫וכלם נעשים להם דינרים‬‎
 
-[^13]:
+[^10]: ‎BT, Tractate *Megilla* 10b: ‫דָּבָר זֶה מָסוֹרֶת בְּיָדֵינוּ מֵאֲבוֹתֵינוּ‬‎
+
+[^11]: ‎II Maccabees, 5:3 ‫ויראו כדמות פרשים לבושי שריוני זהב נושאים חניתות, מערכה מול מערכה‬‎.
+
+[^12]: ‎BT, Tractate *Berakhot* 6b: ‫אָמַר רַבִּי חֶלְבּוֹ, אָמַר רַב הוּנָא: הַיּוֹצֵא מִבֵּית הַכְּנֶסֶת אַל יַפְסִיעַ פְּסִיעָה גַסָּה. אָמַר אַבָּיֵי‬‎:
+
+[^13]: ‎Tur OḤ 301: ‫כתיב אם תשיב משבת רגליך ודרשו חז"ל שלא יהא הילוכך של שבת כהילוכך של חול ע"כ אין לו לאדם לרוץ בשבת כדרך שעושה בחול אבל אם רץ לדבר מצוה כגון לבהכ"נ או כיוצא בו מותר כתוב בס"ה בחורים המתענגים בקפיצתם ובמרוצתם מותר‬‎
 
 [^14]:
 
