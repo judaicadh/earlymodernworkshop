@@ -63,5 +63,49 @@ Schippers, Ariel. Spanish-Hebrew Poetry and the Arabic Literary Tradition: Arabi
 
 ## Source 1 Translation
 
+Amina Boukail, University of Jijel- Algeria
+
+Neubauer, Catalog of the Hebrew Manuscripts in the Bodleian Library, t, A, Oxford, 1885, Opp. Add. 4to 85 (Neubauer 1191) cols, XII- XXXIX
+
+**XII**
+
+These days please me, when the flowers begin to open  
+When desire begins to consume me, and the violet exhales its fragrance Praised be the one who raised it up among all the flowers  
+I want to pull it up, uproot it, cultivate it, and it with me to the house  
+And make something with it, maybe cook with it, and offer it to the moon Spring among the seasons is like Israel among the nations
+
+How beautiful was our gathering by river, with all the winds at play  
+The turtledove, goldfinch, and the nightingale, O gazelle!  
+How beautiful were the nights of friendship, of closeness between lovers.  
+But be strong, my heart, for from union (he lost his way)  
+I swear, and I mean it: I asked after him with the friend of God  
+Today my heart has fallen into turbulence, the ocean is between them  
+How beautiful was our gathering of singing with girls, with tambourines and lutes and delights  
+Times pass and others come, and the gazelle of the elegant one sleeps beside me... Among the odor of the lavender.
+
+**XXI.**
+
+O servant, my love is renewed! when I see the cluster of grapes I rejoice!  
+My passion arouses me, and I come it and dance  
+He holds me by the hands of a young Jew, he presses them the grapes for me and I am glad  
+My reason leaves me when I see him, and my desire for him grows  
+I love no other like him, O new moon of each festivity
+
+O my companion, awake from your slumber! It is certain that he is renewed Listen to the birds crying out, and the cups are ready for you  
+See how dawn has broken, it is lighting the branches on fire  
+The day is shining in the east, and the shadows are going to the west
+
+Listen to the voice of the in trees doing tawashih embroideries Say to Him a blessing, you who fear God  
+Exalt Him with a blessing, servants of God  
+Do blessing unto Him, Bless God
+
+**XXXIX**
+
+The wealth has scattered along with all the assembly- that time has passed!  
+Get the drink and pour out the wine, both tomorrow morning and in the afternoon Leave behind the one who said, “He says without “ Call for and my spirit.  
+Life is an hour and life is a dream passed  
+Live in the moment before the storm hits  
+Before the Galout which is written upon us
+
 ## Source 1 Original Text
 
