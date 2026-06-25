@@ -10,10 +10,42 @@ event:
   theme: Fun, Leisure, and Play
 language:
   - Hebrew
+description: >-
+  R. Moses Provenzalo (1503-1576) was born in Rosà, in the Veneto, to a
+  Provençal family. He was largely self-taught.[^1] Provenzalo resided in
+  Mantua for most of his life and served as the rabbi of the Italian community
+  there. He was involved in several public disputes that embroiled the rabbinate
+  throughout Italy. One of these took place in 1558-1560, when Moshe Ibn Shoshan
+  was sent to Italy by R. Joseph Karo to oversee the printing of *Bet Yosef* and
+  got involved in a disagreement with the Savionetta printers. Another dispute
+  was the notorious Tamari-Venturozzo *get* (divorce document) in 1566- 1567.
+
+
+  Provenzalo wrote responsa, commentaries on Maimonides' *Guide*, annotations on
+  *Ma’or Enayim* by R. Azariah de Rossi and R. Yedayah ha-Penini’s geometrical
+  work *Beḥinat Olam*, talmudic commentaries, and a work on Hebrew grammar.
+  Provenzalo's compilation of responsa was edited by his grandson, R. Elazar bar
+  Avraham, who arranged it and intended to print the work, but failed. The
+  responsa remained in manuscript until 1989, when *Makhon Yerushalayim*
+  published them based on Ms Mantua 39, with completions and emendarions based
+  on Ms Jerusalem 1999 and Ms New York R.1537.
+
+
+  [^1]: This is interesting in light of a responsum, where he pointed out the
+  difference between “the oral learning that the earlier authorities were
+  accustomed to in their day and the written learning from books, as we do it.”
+  Responsa, R. Moshe Provenzalo, 6. דע כי יש הפרש גדול בין הלימוד על פה כמו שהיו
+  הראשונים ]נוהגים[ בימיהם אל הלימוד בכתב מתוך הספר על פי דרכנו
 ---
 ## Source 1 Translation
 
+
+
 ## Source 1 Original Text
+
+Responsa of R. Moses Provenzalo, #53
+
+*She’elot u-Teshuvot Rabbenu Moshe Provenẓalo zekher ẓaddik ḷi-*vrakha, ed. R. Avraham Yosef Yanni, 2vols. (*Makhon Yerushalayim*: Jerusalem, 1989), I:84-85.
 
 ‫שאלות ותשובות רבנו משה פרובנצלו זצ״ל‬
 
