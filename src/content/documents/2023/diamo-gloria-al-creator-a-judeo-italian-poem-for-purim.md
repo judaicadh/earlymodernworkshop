@@ -97,26 +97,21 @@ To bring her flowers.
 
   **Let us give glory to the Creator.**
 8. [8]  And if he (?) finds  
-A nice gown with a tail,1  
+A nice gown with a tail,[^1]  
 To say this clearly,  
 He should gift her with love.  
 **Let us give glory to the Creator.**
-9. [9]  With money and quattrini2 Cheering up the children  
+9. [9]  With money and quattrini[^2] Cheering up the children  
 With doughnuts and candies Putting them in a good mood.  
 **Let us give glory to the Creator.**
 10. [10]  With the drum and clapping hands,
 
-1 Most likely referring to a bridal dress with a train.  
-2 An ancient Italian currency mostly used in Central Italy, starting from the Middle Ages.
-
-7
-
-Give them the manna3 [?]  
-Despite that dog4  
+Give them the manna[^3] [?]  
+Despite that dog[^4]  
 Let them make a lot of noise.  
 **Let us give glory to the Creator.**
 
-11. [11]  Offer to the *robitim* (teachers, rabbis) Some bags of zecchini5
+11. [11]  Offer to the *robitim* (teachers, rabbis) Some bags of zecchini[^5]
 
   The thought of bread and wine Let them think about.  
   **Let us give glory to the Creator.**
@@ -130,10 +125,6 @@ To friends and relatives
   And, I say, the most favorite one Is enjoying tasteful food.  
   **Let us give glory to the Creator.**
 14. [14]  After singing,
-
-3 I am inclined to translate this as *manna* (referring to the food provided by God to Moses and the Israelites in the desert), rather than *mano* (“hand”).  
-4 Not sure whether this refers to Haman or a real dog.  
-5 Another Italian currency, from Venice, but also known abroad because of the Venetian trades.
 
 And opening the chest,  
 It will be possible to prepare Several kinds of liquor.  
@@ -153,7 +144,11 @@ We will have great wealth
   Every day we will be  
   With silver and gold.  
   **Let us give glory to the Creator.**
-18. [18]  Then we have the *havtaḥah* (certainty) To always have the *berakhah* (blessing) *Shalom* (peace) and *hatzlaḥah* (success)
+18. [18]  Then we have the *havtaḥah* (certainty)
+
+To always have the berakhah (blessing)
+
+Shalom (peace) and hatzlaḥah (success)
 
 For us, people of treasures.
 
@@ -168,11 +163,24 @@ For us, people of treasures.
   Careful and serve with a happy heart Who gives us vigor.  
   **Let us give glory to the Creator.**
 21. [21]  Now we say the *berakhah* (blessing)  
-To the gotto make the *hadaḥah* (cleaning)6 With *shashon* (joy) and *simḥah* (happiness) Let us exalt the great Giver.  
+To the gotto make the *hadaḥah* (cleaning)[^6] With *shashon* (joy) and *simḥah* (happiness) Let us exalt the great Giver.  
 **Let us give glory to the Creator.**  
 [The end]
 
-6 A large glass with a handle, mostly used in the region of Veneto. In Venice, the *gotto* was also used as a unit of measurement. The *gotto* represented a capacity of 19 deciliters, which is slightly less than 8.4535056755 cups in the United States). The reference to cleaning the *gotto* implies the act of emptying it and enjoying the wine contained within.
-
 ## Source 1 Original Text
 
+
+
+Footnotes
+
+[^1]: Most likely referring to a bridal dress with a train.
+
+[^2]: An ancient Italian currency mostly used in Central Italy, starting from the Middle Ages.
+
+[^3]: I am inclined to translate this as *manna* (referring to the food provided by God to Moses and the Israelites in the desert), rather than *mano* (“hand”).
+
+[^4]: Not sure whether this refers to Haman or a real dog.
+
+[^5]: Another Italian currency, from Venice, but also known abroad because of the Venetian trades.
+
+[^6]: A large glass with a handle, mostly used in the region of Veneto. In Venice, the *gotto* was also used as a unit of measurement. The *gotto* represented a capacity of 19 deciliters, which is slightly less than 8.4535056755 cups in the United States). The reference to cleaning the *gotto* implies the act of emptying it and enjoying the wine contained within.
