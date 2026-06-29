@@ -78,7 +78,11 @@ Everyone is crying and asking God to relieve our anguish and give us the wind of
 
 Francis Annabi send us a boat  
 And protect us from the Turks  
-Separate me from the people of my friends  *and the heart is heavy and stingy*  And I left my country  *I travelled in the salty sea*  They are crying and shouting And a tear from my eye  
+Separate me from the people of my friends  *and the heart is heavy and stingy*
+
+And I left my country  *I travelled in the salty sea*  They are crying and shouting
+
+And a tear from my eye  
 We came .we thank God  
 Give us the blessing...from the Turks...  
 We came to the land of fish and net  
@@ -89,9 +93,13 @@ The sea brought us together
 Some of them went to Nice,  
 Oh Lord guide us  
 How great is the separation!  
-O God, give us patience and the best for us God sent us our Messiah
+O God, give us patience and the best for us
 
-O God in Eretz Israel unite us with Eliahou and the prophets When we saw the sun of Evening, I remember Oran”
+God sent us our Messiah
+
+O God in Eretz Israel unite us with Eliahou and the prophets
+
+When we saw the sun of Evening, I remember Oran”
 
 ## Source 1 Original Text
 
