@@ -146,7 +146,9 @@ Let them think about.
 
 To friends and relatives
 
-  And with musical of instruments Let us give glory to the Lord.  
+  And with musical of instruments
+
+Let us give glory to the Lord.  
   **Let us give glory to the Creator.**  
 [13]  This is the beautiful precept
 
