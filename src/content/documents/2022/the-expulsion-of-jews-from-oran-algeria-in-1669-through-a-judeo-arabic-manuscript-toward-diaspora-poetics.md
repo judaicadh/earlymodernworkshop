@@ -105,7 +105,7 @@ When we saw the sun of Evening, I remember Oran”
 
 Bodleian Library, Oxford, Ms. Opp. Add. 4to 85 (Neubauer 1191) cols. 400-303, XC-XCI.
 
-‫אלעשי נתפכר אלוטן ה נרה שמש ד וא "‬
+‫"ואדה נרה שמש אלעשי נתפכר אלוטן‬
 
 ‫נתפכרו דיארנה וואנה נתפכר והראן‬
 
