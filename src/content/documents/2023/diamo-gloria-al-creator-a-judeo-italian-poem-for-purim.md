@@ -172,6 +172,10 @@ To the gotto make the *hadaḥah* (cleaning)[^6] With *shashon* (joy) and *simh�
 
 ## Source 1 Original Text
 
+**Notes to the text:**
+
+The poem is composed of 21 stanzas of *quartine*. With the exception of the first (AAAA) and the twentieth stanzas (BABA), the composition follows the metric of *serventese*[^7] (BBBA). Each stanza is followed by the refrain “Diamo Gloria al Creator” (A). While most of the composition is in Judeo-Italian, occasionally, Hebrew words are incorporated at the end of the verses to achieve rhyming. These Hebrew words are emphasized in cursive font throughout the text.
+
 Primary text in the original language:
 
 Judeo-Italian (Hebrew script)	Judeo-Italian (Latin script)
@@ -409,3 +413,5 @@ Footnotes
 [^5]: Another Italian currency, from Venice, but also known abroad because of the Venetian trades.
 
 [^6]: A large glass with a handle, mostly used in the region of Veneto. In Venice, the *gotto* was also used as a unit of measurement. The *gotto* represented a capacity of 19 deciliters, which is slightly less than 8.4535056755 cups in the United States). The reference to cleaning the *gotto* implies the act of emptying it and enjoying the wine contained within.
+
+[^7]: An Italian-style composition in rhyme, which can be traced back to the thirteenth or fourteenth century.
