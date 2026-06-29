@@ -93,7 +93,7 @@ They should throw it *ba-adamah* (on the soil),
 Without *paḥad* (fear) and *emah* (horror),  
 Let us banish rigor.  
 **Let us give glory to the Creator.**  
-5.[5]  In spite of Haman, Good wine and bread
+[5]  In spite of Haman, Good wine and bread
 
   *‘ofot* (chickens) and marzipan  
   Let us eat with a good heart.  
