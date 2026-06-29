@@ -58,95 +58,135 @@ I decided not to translate the Hebrew words appearing in the original compositio
 **English translation:**  
 **Poem preceding *Birkat ha-Mazon* (Blessing after Meals) on Purim**
 
-[1] Let us give glory to the Creator, song, praise, and honor
+[1] Let us give glory to the Creator,
 
-Who from Haman the traitor vanquished the fierce rigor.  
+song, praise, and honor
+
+Who from Haman the traitor
+
+vanquished the fierce rigor.  
 **Let us give glory to the Creator.**
 
-5
+[2]  Let us celebrate with *simḥah* (happiness)
 
-2. [2]  Let us celebrate with *simḥah* (happiness) And say loud the *berakhah* (blessing) That victory and *hatzlaḥah* (success) The Prime Mover gave us.
+And say loud the *berakhah* (blessing)
 
-  **Let us give glory to the Creator.**
-3. [3]  Oh, *zqenim* (elderly) and *ne’arim* (young people), Be cheerful on Purim!
+That victory and *hatzlaḥah* (success)
 
-  *Baḥurot* (girls) and *baḥurim* (boys), All rejoice with love.  
-  **Let us give glory to the Creator.**
-4. [4]  Whoever has *milḥamah* (lit. war),
+The Prime Mover gave us.
 
-They should throw it *ba-adamah* (on the soil), Without *paḥad* (fear) and *emah* (horror),  
+**Let us give glory to the Creator.**
+
+[3]  Oh, *zqenim* (elderly) and *ne’arim* (young people),
+
+Be cheerful on Purim!
+
+*Baḥurot* (girls) and *baḥurim* (boys),
+
+All rejoice with love.  
+**Let us give glory to the Creator.**
+
+[4]  Whoever has *milḥamah* (lit. war),
+
+They should throw it *ba-adamah* (on the soil),
+
+Without *paḥad* (fear) and *emah* (horror),  
 Let us banish rigor.  
-**Let us give glory to the Creator.**
-5. [5]  In spite of Haman, Good wine and bread
+**Let us give glory to the Creator.**  
+5.[5]  In spite of Haman, Good wine and bread
 
   *‘ofot* (chickens) and marzipan  
   Let us eat with a good heart.  
-  **Let us give glory to the Creator.**
-6. [6]  Let us console the *‘aniyim* (poor ones)
-
-6
+  **Let us give glory to the Creator.**  
+[6]  Let us console the *‘aniyim* (poor ones)
 
 And the *shvuyim* (prisoners)  
-So that *shalom u-shnot ḥayyim* (peace and life) The Great Rector will give us.  
+So that *shalom u-shnot ḥayyim* (peace and life)
+
+The Great Rector will give us.  
 **Let us give glory to the Creator.**
 
-7. [7]  The *ḥatan* (groom) to the *challah* (bride) After reading the *megillah*
+[7]  The *ḥatan* (groom) to the *challah* (bride)
+
+After reading the *megillah*
 
 He should go with *ma‘alah* (honor)  
 To bring her flowers.
 
-  **Let us give glory to the Creator.**
-8. [8]  And if he (?) finds  
+  **Let us give glory to the Creator.**  
+ [8]  And if he (?) finds  
 A nice gown with a tail,[^1]  
 To say this clearly,  
 He should gift her with love.  
-**Let us give glory to the Creator.**
-9. [9]  With money and quattrini[^2] Cheering up the children  
-With doughnuts and candies Putting them in a good mood.  
-**Let us give glory to the Creator.**
-10. [10]  With the drum and clapping hands,
+**Let us give glory to the Creator.**  
+[9]  With money and quattrini[^2]
+
+Cheering up the children  
+With doughnuts and candies
+
+Putting them in a good mood.  
+**Let us give glory to the Creator.**  
+[10]  With the drum and clapping hands,
 
 Give them the manna[^3] [?]  
 Despite that dog[^4]  
 Let them make a lot of noise.  
 **Let us give glory to the Creator.**
 
-11. [11]  Offer to the *robitim* (teachers, rabbis) Some bags of zecchini[^5]
+[11]  Offer to the *robitim* (teachers, rabbis)
 
-  The thought of bread and wine Let them think about.  
-  **Let us give glory to the Creator.**
-12. [12]  Give nice gifts
+Some bags of zecchini[^5]
+
+The thought of bread and wine
+
+Let them think about.  
+**Let us give glory to the Creator.**
+
+[12]  Give nice gifts
 
 To friends and relatives
 
   And with musical of instruments Let us give glory to the Lord.  
-  **Let us give glory to the Creator.**
-13. [13]  This is the beautiful precept To be with joy and delight
+  **Let us give glory to the Creator.**  
+[13]  This is the beautiful precept
 
-  And, I say, the most favorite one Is enjoying tasteful food.  
-  **Let us give glory to the Creator.**
-14. [14]  After singing,
+To be with joy and delight
+
+  And, I say, the most favorite one
+
+Is enjoying tasteful food.  
+  **Let us give glory to the Creator.**  
+[14]  After singing,
 
 And opening the chest,  
-It will be possible to prepare Several kinds of liquor.  
+It will be possible to prepare
+
+Several kinds of liquor.  
 **Let us give glory to the Creator.**
 
-15. [15]  Comforted and happy, Ban all the torments,
+[15]  Comforted and happy,
 
-  And, with frequent toasts,  
-  Make the heart rejoice.  
-  **Let us give glory to the Creator.**
-16. [16]  Mordekhai of great doctrine, Together with Esther, the wise queen, Ordered that everyone bows
+Ban all the torments,
+
+And, with frequent toasts,  
+Make the heart rejoice.  
+**Let us give glory to the Creator.**
+
+[16]  Mordekhai of great doctrine,
+
+Together with Esther, the wise queen,
+
+Ordered that everyone bows
 
 And observe [Purim] in this way.  
-**Let us give glory to the Creator.**
-17. [17]  If we will do so,  
+**Let us give glory to the Creator.**  
+[17]  If we will do so,  
 We will have great wealth
 
   Every day we will be  
   With silver and gold.  
-  **Let us give glory to the Creator.**
-18. [18]  Then we have the *havtaḥah* (certainty)
+  **Let us give glory to the Creator.**  
+[18]  Then we have the *havtaḥah* (certainty)
 
 To always have the berakhah (blessing)
 
@@ -156,17 +196,31 @@ For us, people of treasures.
 
 **Let us give glory to the Creator.**
 
-19. [19]  The virtue of constance Is having hope in Him
+[19]  The virtue of constance
 
-  This is the strongest spear (?) Against vice and terror.  
-  **Let us give glory to the Creator.**
-20. [20]  This is the true sustenance Be a man every hour
+Is having hope in Him
 
-  Careful and serve with a happy heart Who gives us vigor.  
-  **Let us give glory to the Creator.**
-21. [21]  Now we say the *berakhah* (blessing)
+This is the strongest spear (?)
 
-To the gotto make the *hadaḥah* (cleaning)[^6] With *shashon* (joy) and *simḥah* (happiness) Let us exalt the great Giver.  
+Against vice and terror.  
+**Let us give glory to the Creator.**
+
+[20]  This is the true sustenance
+
+Be a man every hour
+
+Careful and serve with a happy heart
+
+Who gives us vigor.  
+**Let us give glory to the Creator.**
+
+[21]  Now we say the *berakhah* (blessing)
+
+To the gotto make the *hadaḥah* (cleaning)[^6]
+
+With *shashon* (joy) and *simḥah* (happiness)
+
+Let us exalt the great Giver.  
 **Let us give glory to the Creator.**  
 [The end]
 
