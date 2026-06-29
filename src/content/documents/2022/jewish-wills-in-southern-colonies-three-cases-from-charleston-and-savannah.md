@@ -38,6 +38,31 @@ This will was p?d before his Ex[cllenc]y the 15th day of May 1752 by the oath of
 
 ## Source 2 Original Text
 
+Chatham County Will Book, Volume A, 434. Accessible on [Ancestry.com](http://Ancestry.com).
+
+In the Name of God Amen.  
+I, Benjamin Sheftall finding myself very infirm in my Bodily health but strong mind and memory thank God and being willing to dispose of my worldly substance so that I may be better Disposed to prepare for a better life whenever it shall please the Almighty to call me to himself, do hereby declare and pronounce this Instrument of writing to be my last Will and Testament and which I enjoy my under named executors to fulfill punctual. Impimes, I give and bequeath to my loving wife Hannah Sheftall my dwelling house and the improvements on said lot [...illegible]
+
+upon my decease as also my negro Wench Named betty and her two children named Jack and Ben for and during the time of the natural life of my said wife Hannah Sheftall and at her decease I give and bequeath the whole of the above mentioned Except the two negroe children which are to be disposed of as hereafter mentioned (to my son Levi Sheftall and my two grand children named Sheftall Sheftall & Perla Sheftall the one half to be divided between My two Grand Children and the other half for my son Levi. Secondly, all the cash that I shall be possessed of at the time of my decease as able whatever may be recovered by my Executors for all bonds, notes, Debts or any other matters that shall be due to me and of the proceeds of the sale of the two hundred acres of land that I bought of John Snook which I hereby direct may be sold at publick vendue to the highest bidder after my decease and of the proceeds of all other chattels or effects not specified above, belonging or appertaining to me at the time of my decease. It is my will that after all my just debts be paid by my executors that the remainder be put out a interest by my executor on good Security and the Interest arising therefrom shall be paid regularly to my said wife Hannah Sheftall to and during her natural life and at her decease the whole I give and bequeath to my son Levi Sheftall and my two grand children Sheftall & Perla. + one half for my son Levi and the other half to be equally divided between two grandchildren or their lawful heirs. Thirdly, after the decease of said wife Hannah Sheftall I give and bequeath my negro boy named Ben to my Levi or his lawful heirs and my negro boy Jack to my two Grand Children or their lawful heirs. ? I hereby give my two Grand Children all that tract of land containing one hundred and fifty acres Joyning land of my son, Mordecai at a place on the Hoping Islands. ? I hereby acquit release & discharge my son Mordecai of the sum of twelve pounds sterling which he owes and is not charged in my books as also of the further sum of eighteen pounds sterling out of the same that is charged him in my books making in total the sum of thirty pounds sterling being as an equivalent to ? I have some time past Given to my son Levi. And lastly I do hereby nominate and appoint my well beloved wife Hannah Sheftall & my ?? executors in this matter.
+
+...Testament and resigning my self to the divine Mercy of my Creator I conclude, acknowledging the truth of thy unity here oh Israel the Lord our God is one God in thy hands I commend my spirit. Thou hast received me oh Lord God of truth. Savannah in Georgia this fourth day of August one thousand seven hundred sixty five and in the fifth year of his Majesty’s Reign
+
+Signed Sealed Published & declared to be the Last will and Testament of the Testator Benjamin Sheftall who has acknowledge to  
+us that he has the Contents hereof and we Testify, said Testator is in his proper Senese as Far as we are able to Judge
+
+Benjamin Sheftall [seal]
+
+Peter Tondee  
+Thomas Celu  
+Add. Layer  
+Before his Honor James Habersham Esq. Presider and Commander in Chief of his Majesty’s said Province and Ordinary of the above
+
+Personally appeared Peter Tondee of the town of Savannah Carpenter one of the subscribing Witnesses to the within or annexed written last will and Testament of Benjamin Sheftall late of Savannah Merchant deceased who being Solemnly Sworn on the Holy Evangelists of Almighty God made Oath that he was present and did see the said Testator sign seal publish pronounce and declare the same to be and contain his last Will and Testament and that he was of sound disposing mind and memory As the best of this knowledge and ? and that he with Thomas Club & Adrian Soyer subscribed names as witnesses to the said will at the rest and in the presence of the said testator and in each others presence.
+
+At the same time Mordecai Sheftall one of the Executors named in the said Will Qualified such Given under my hand the fourth day of May 1772  
+James Habersham  
+Recorded 5th May 1772
+
 ## Source 3 Original Text
 
 Footnotes
