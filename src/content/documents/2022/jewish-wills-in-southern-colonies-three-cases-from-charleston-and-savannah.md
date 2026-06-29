@@ -65,6 +65,24 @@ Recorded 5th May 1772
 
 ## Source 3 Original Text
 
+Charleston County Will Book, Volume 11, page 301. Accessible on [Ancestry.com](http://Ancestry.com).
+
+“BE IT REMEMBERED That I Leah Pimenta of Charles Town in the Province of So. Carolina Widow being in Health and sound mind memory and Understanding do make and publish this my Last Will and Testament in manner and form following, that is to say, First I will that all my Just debts and funeral Expences be duly paid and Satisfied, ITEM I give unto Joshua Hart of Charles Town shopkeeper and Mordecai Myers of Ponpon Storekeeper and to the Survivor of them and the Executors and administrators of such survivor, all such sum and sums of money that are or shall be due owing payable or belonging to me, at the time of my decease, from my son in law Isaac DaCosta of Charles Town Merchant, whether by Bond, Note, Bill Book debt account or otherwise howsoever, IN TRUST nevertheless and to and for the several Uses, intents and purposes hereafter mentioned, and to and for no other use intent or purpose whatsoever, that is to say for the sole use benefit and behoof of my daughter Sarah now wife of the said Isaac DaCosta, to the intent that the said Sarah may from time to time have hold receive and take such part or parts thereof during the Term of her natural Life and dispose of the same at her will and pleasure without the control of her said husband for the support and maintenance of herself and her children which she hath or may have by the said Isaac DaCosta and after her decease the Remainder to be Equally divided between all her said Children as shall be then living share and share alike and all the rest residue and remainder of my Estate of what Nature or kind the
+
+125
+
+same may be, I will be divided into two equal parts, One part thereof I give and bequeath unto my daughter Joel Pimenta, her Executors administrators and Assigns forever, and the other part thereof...I give unto the said Joshua Hart and Mordecai Myers and the survivor of them and the Executors and administrators of such survivor IN TRUST for the Sole use benefit and behoof of my daughter Rebecah Wife of Abraham Dacosta during the Term of her Natural Life without being Liable to the Will Controll or disposal of her said Husband and after her decease such part thereof as shall be remaining to be equally divided between such Children she may have by the said Abraham Dacosta at the time of her decease and in default of Issue to the said Abraham DaCosta AND I do hereby Nominate and appoint the said Joshua Hart and Mordecai Myers Executors of this my Last Will and Testament hereby revoking all former and other Will and Wills by me heretofore made declaring this only to be my last Will and Testament, IN WITNESS whereof I have hereunto set my hand and Seal the Twenty Seventh day of November, in the year of our Lord One thousand seven hundred and Sixty Six. Her Leah Pimenta (L.S.)
+
+Mark  
+Signed Sealed published pronounced and  
+declared by the Testatrix for and as her last  
+Will and Testament in her presence have subscribed  
+Our Names as Witnesses thereto.  
+John Butler Figgott  
+William Remington  
+John Remington  
+Proved before his Excellency the Rt. Ho. Ld. Charles Greville Montagu 11th March 1768 at the same time Qualified Mordecai Myers Executor to the said Will.
+
 Footnotes
 
 [^1]: Elsewhere spelled Oliveira or D’Olivera.
