@@ -6,7 +6,7 @@ volume: 19
 year: "2022"
 slug: mobility-culture-poland
 ---
-Introduction
+## Introduction
 
 Archiwum Kapituły Kolegiackiej i Katedralnej w Sandomierzu (AKKiKS, Poland) 740
 
@@ -15,3 +15,6 @@ The text presented here is an excerpt from the lengthy trial of Jews in Sandomie
 The first day testimonies capture a lot of movement of people, information, and rumors. It also provides three fascinating, if very problematic—given the nature of the source, Jewish ego documents, revealing the way Jews moved from place to place, either permanently or for business, and glimpses into everyday life.
 
 As a side note, the first day also included a testimony of the person who might have been responsible for the boy’s death Augustynowiczowa—a woman who took care of the boy found dead near the rabbi’s house. Augustynowiczowa seems to have physically abused the boy and it might be that she inadvertently caused his death. Fearing consequences, she and her daughter may have dropped the body near Jacob Herc’s house. The 1698 trial of Jews accused of killing a Christian girl was still vividly remembered in town.
+
+## Source 1 Translation
+
