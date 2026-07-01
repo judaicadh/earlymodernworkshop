@@ -148,53 +148,7 @@ Ociec Żony moiey żył y nas żywił z tego iedno co Starsi iemu na tydzień p�
 
 Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab ipsomet Infideli Herc Rabino excepit: idque in hunc verborum illius sensum et tenorem.
 
-Ja Jakub Herc rodem z Morawy Oyca Samuela y Matki Getle syn a potym podczas
-
-Wideńskiey dla trwog, przenioslem się do Sląska, y z Zoną tą ktorą do tych czas
-
-mam imieniem Geta. Tu do Polskiey lat szesnaście iakom przyiechał, y naprzód w
-
-Paczanowie byłem Rabinem lat Sześci albo siedm a potym od lat dziesięciu tu do
-
-Sandomierza przyprowadziłem się y byłem do tych czas także Rabinem,
-
-prze[17r]niozszy się z mnieyszego miasteczka do Większego y sławnieyszegomiasta. Juzmi to pięćdziesiąt lat dochodzi, nigdziem tego niesłyszał, ani czytał, aby
-
-nam potrzeba było krwi Chrześciańskiey albo dzieci zarzynać, a ieżeli się kiedy to
-
-stanie, na nas wkładają, to to tylko potwarz, a iam tu w Sandomierzu ieszcze na ten
-
-czas niebył kiedy z Aleksandrem była sprawa, tylko słyszałem o tym, ale to także
-
-potwarz była. Ja jako Rabin tylko się tym bawię że sądzic powinienem y uważyć
-
-czy co kosiorne albo trefne lub nie, ale samemu mnie rznąc bydlęcia ani kury gęsi
-
-etc niegodzi się, y ieżeli ieść trzeba to do Szkolnika poseła się. U nas godzi się byle
-
-nie w Izbie zarznąć kapłona Gęś et y mnie trafiało się że szkolnik zarzynał, y iuż
-
-mieszkaiąc w tum Domu trafiało się to osobliwie teraz iako mi córka zległa to
-
-kilka kaczek w domu Szkolnik y na ten przeszły sabat zarżnął alem ia tego nie
-
-uważał ieżeli gdzie w tym moim domu krew była, y iezeli iest to to chyba z tego,
-
-że szkolnik zarżnąwszy kurę to nią ciśnie y w ten czas krew wypryska ani też u nas
-
-potrzeba tego żeby ściany chędożyć, y obmywać na sabat chyba na Wielką noc. Ja
-
-na żadne ziazdy [17v] Żydowskie nie ieżdzę bo do tego nienależę, ani też tu
-
-żadnego znoszenia się z Żydami niemam bo moia rzecz nad Xięgą siedzic a onym
-
-tam radzić koło siebie. Żydzi Sandomierscy, iako to Szmul y Jelen ieszcze dotych
-
-czas w Rakowie bawią się na Seymie, przyiechał ieden z nich słyszałem Liczman
-
-na Szabat doyrzeć sobie iako to Arendarz ale nie wiem czyli znowu odiechał czyli
-
-nie.
+++Ja Jakub Herc rodem z Morawy Oyca Samuela y Matki Getle syn a potym++ podczas Wideńskiey dla trwog, przenioslem się do Sląska, y z Zoną tą ktorą do tych czas mam imieniem Geta. Tu do Polskiey lat szesnaście iakom przyiechał, y naprzód w Paczanowie byłem Rabinem lat Sześci albo siedm a potym od lat dziesięciu tu do Sandomierza przyprowadziłem się y byłem do tych czas także Rabinem, prze[17r]niozszy się z mnieyszego miasteczka do Większego y sławnieyszegomiasta. Juzmi to pięćdziesiąt lat dochodzi, nigdziem tego niesłyszał, ani czytał, aby nam potrzeba było krwi Chrześciańskiey albo dzieci zarzynać, a ieżeli się kiedy to stanie, na nas wkładają, to to tylko potwarz, a iam tu w Sandomierzu ieszcze na ten czas niebył kiedy z Aleksandrem była sprawa, tylko słyszałem o tym, ale to także potwarz była. Ja jako Rabin tylko się tym bawię że sądzic powinienem y uważyć czy co kosiorne albo trefne lub nie, ++ale samemu mnie rznąc bydlęcia ani kury gęsi etc niegodzi się, y ieżeli ieść trzeba to do Szkolnika poseła się++. U nas godzi się byle nie w Izbie zarznąć kapłona Gęś et y mnie trafiało się że szkolnik zarzynał, y iuż mieszkaiąc w tum Domu trafiało się to osobliwie teraz iako mi córka zległa ++to kilka kaczek w domu Szkolnik y na ten przeszły sabat zarżnął++ alem ia tego nie uważał ieżeli gdzie w tym moim domu krew była, y iezeli iest to to chyba z tego, że szkolnik zarżnąwszy kurę to nią ciśnie y w ten czas krew wypryska ani też u nas potrzeba tego żeby ściany chędożyć, y obmywać na sabat chyba na Wielką noc. ++Ja na żadne ziazdy++ [17v] Żydowskie nie ieżdzę bo do tego nienależę, ani też tu żadnego znoszenia się z Żydami niemam bo moia rzecz nad Xięgą siedzic a onym tam radzić koło siebie. ++Żydzi Sandomierscy, iako to Szmul y Jelen ieszcze dotych czas w Rakowie bawią się na Seymie, przyiechał ieden z nich słyszałem Liczman na Szabat doyrzeć sobie iako to Arendarz ale nie wiem czyli znowu odiechał czyli++ nie.
 
 Niemiałem żadney zmowy z nikim, anim o tym myślał, żeby Dziecię iakie
 
