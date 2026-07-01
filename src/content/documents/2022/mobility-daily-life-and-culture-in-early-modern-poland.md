@@ -122,49 +122,11 @@ This morning I came to Mr. mayor, my step father, where I found ++Sandomierz Jew
 
 When Jews heard this, they became sheepish and terrified; Wolf changed, once he was pale, then red. And when it became known that Jews were running away, I took a horse and chased after them, and I caught up with Abusia’s son-in-law, who was carrying a box and running away. And I brought him back to Sandomierz. And then, seeing that the rabbi with his son-in-law and son, in whose house the murdered child was found, had run away, I went to the *arendar* near the castle and, to get the horses faster, I said, “The Honorable Burgrave ordered that you give me a horse.” And I asked him about the Jews, the rabbi, and his son and son-in-law [25r]. This *arendar* pointed [?] and said, “this rabbi came to my place but left not too long ago for Koćmierzów.” And I immediately went to the mill in Koćmierzów. And it could be that they went there or toward Zajeziorze. And so I went toward Zajeziorze and then I saw in Złota from afar a wagon going toward Koćmierzów. And I turned around toward the wagon and began to yell, “Stop, stop!” But when he did not heed, I cut him off: and then seeing the Jew, Koćmierzów *arendar*, I asked for information, “Where did you take the rabbi and others?” And he, being a bit stumped, responded that [he had taken them] to Samborzec. And hearing in Złota that the reverend priest Koszycki [was there], I told [25v] him that, and we went to Samborzec. And there, in the brewery, we asked about them [Jews]. Butthe *arendar* said, “They have not been here, I only heard that the Koćmierzów *arendar* brought malt to the mill. And then sent the lackey of his Reverend Priest Official on a different route, and I, along with the reverend priest Koszycki, went toward Gorzycany. And there we came across a peasant carrying flour from the Gorzycany mill, and we asked this peasant about these Jews, and he said that there were three new Jews, one old and two young at the *arenda* in Gorzycany; they had arrived not too long ago.
 
-When we learned that, we went directly to Gorzycany and having gone into the
+When we learned that, we went directly to ++Gorzycany and having gone into the storage room, whose door was left ajar,++ we found the rabbi, his son-in-law, and his son, who were getting ready to leave, since their wagon was ready. And as we began to arrest them, this little Jew [*Żydek*] ++who had come to take them, run away [26r] with the wagon++. And after we had taken them in Gorzycany, we stopped in the manor in Samborzec to secure the prisoners better, and we borrowed a rope, and ++the wife of the deputy *starost* said that the Samborzec *arendar* was greatly cursing reverend++ Koszycki, and she said, ++“It must be true that Jews had done it, when they were brought to the Samborzec mill in sacks.”++
 
-storage room, whose door was left ajar, we found the rabbi, his son-in-law, and his
+From Samborzec we took all three Jews to Sandomierz and her we delivered them to the Castle for voluntary confessions. Sicque et non aliter se vidisse et audivisse officio praesenti retulit. Quae praemissa relata Officium praesens Actis suis connotavit. [And thus, and in no other way, he reported to the present office what he had seen and heard. These above reports the present Office inscribed in its records].
 
-son, who were getting ready to leave, since their wagon was ready. And as we
-
-began to arrest them, this little Jew [*Żydek*] who had come to take them, run away
-
-[26r] with the wagon. And after we had taken them in Gorzycany, we stopped in
-
-the manor in Samborzec to secure the prisoners better, and we borrowed a rope,
-
-and the wife of the deputy *starost* said that the Samborzec *arendar* was greatly
-
-cursing reverend Koszycki, and she said,
-
-“It must be true that Jews had done it,
-
-when they were brought to the Samborzec mill in sacks.
-
-”
-
-From Samborzec we took all three Jews to Sandomierz and her we delivered them
-
-to the Castle for voluntary confessions. Sicque et non aliter se vidisse et audivisse
-
-officio praesenti retulit. Quae praemissa relata Officium praesens Actis suis
-
-connotavit. [And thus, and in no other way, he reported to the present office what
-
-he had seen and heard. These above reports the present Office inscribed in its
-
-records].
-
-ACTUM in CASTRO SANDO[26v]MIRIENSI FERIA SECUNDA POST
-
-FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS
-
-MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO
-
-DECIMO [In Sandomierz Castle, Monday after the feast 
-
-
+ACTUM in CASTRO SANDO[26v]MIRIENSI FERIA SECUNDA POST FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO DECIMO [In Sandomierz Castle, Monday after the feast of the Assumption of the Glorious Mary the Virgin, 1710=August 18th, 1710]
 
 Footnotes
 
