@@ -36,31 +36,11 @@ And so this happened. We did not think about any escape. In the morning, the Jew
 
 And we stayed in Gorzycany for four hours, and my brother-in-law and I ate [something] there, but by father was fasting. Then, ++we sat in a storeroom [with doors left] ajar, and father slept a little; from there we were supposed to go to Klimontów but the priest, having arrived with two men and opened the storeroom, took us saying++: we are going to Sandomierz, and having tied us [14v] with one rope, they led us to Sandomierz and took us to the Castle.
 
-As for the child, that he was supposedly killed, or that my father or brother-in-law
+As for the child, that he was supposedly killed, or that my father or brother-in-law or some other Jew supposedly killed the child, or that Jews have ever killed a Christian child, or slaughtered, I don’t know, I have not heard, et praeter haec plura se nescire allegavit [and besides these he said that he did not know more]
 
-or some other Jew supposedly killed the child, or that Jews have ever killed a
+Post cuius quidem Infidelis Abraham Confessatorum depositionem rursus officium ad examen liberae confessionis infidelis Jacobi Scharis Infidelis Rabin Generi condescendit: Qui haec sequentia recognovit verba:
 
-Christian child, or slaughtered, I don’t know, I have not heard, et praeter haec plura
-
-se nescire allegavit [and besides these he said that he did not know more]
-
-Post cuius quidem Infidelis Abraham Confessatorum depositionem rursus officium
-
-ad examen liberae confessionis infidelis Jacobi Scharis Infidelis Rabin Generi
-
-condescendit: Qui haec sequentia recognovit verba:
-
-I am Jakub Schario. My father is a rabbi and [with] my mother they still live in
-
-Ołyka, four or five miles from Łuck;1 I was born in Ołyka and I lived with my
-
-father, and only three years ago I married the daughter of the Sandomierz Rabbi
-
-and during an epidemic I went back to my father, but alone, and when the epidemic
-
-passed in Sandomierz, I returned to my wife a year ago; and here in Sandomierz I
-
-have lived together with my wife’s father.
+I am Jakub Schario. My father is a rabbi and [with] my mother they still live in Ołyka, four or five miles from Łuck;[^1] I was born in Ołyka and I lived with my father, and only three years ago I married the daughter of the Sandomierz Rabbi and during an epidemic I went back to my father, but alone, and when the epidemic passed in Sandomierz, I returned to my wife a year ago; and here in Sandomierz I have lived together with my wife’s father.
 
 I don’t engage in any trade [*hande*l], because according to the contract, my wife’s
 
