@@ -162,69 +162,7 @@ Secundo Nobilis Nicolaus Kaliszanski Administrator Bonorum Koćmierzów spontane
 
 Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere. Jam robił w Koćmierzowie Piwo y widziałem tych Żydów kiedy byli w Browarze, y kręcili się y pytałem się chłopca małego z kądeście wy ++powiedział my nie z Miasta++ a potym Arendarz zgotował woz y kazał nam włożyć dwa worki słodu, a oni przedtym Ci Zydzi iuż byli wyszli w Pole, a potym gdy Arendarz powrócił mowiliśmy mu koło tego a on odpowiedział: ++Moia nieszczęśliwośc żem tych Żydów dogoniwszy wziął na Woz y odwiozłem ich do Samborca a potym poszli do Gorzycan.++
 
-Quarto Famata Augustynowiczowa similiter spontanee ad Officium praesens
-
-veniens retulit. Iż ten nieboszczyk był sierota niewiem z kąd rodem po proźbie
-
-chodził. Jam z miłosierdzia przed kilkunastu niedzieł wzięłam go do siebie: a
-
-potym gdy się po mieście włóczył y trafiło się że go długo niebyło iak przyszedł
-
-łaiałam go że się tak włóczył y pytałam się gdzieby się tak bawiał odpowiedział
-
-żem między Żydami Trzaski zbierał, daley pytałam go ieżeli też tam Żydzi [22v]
-
-dali ci co odpowiedział że mi Żydowka dała chleba z masłem ale nie umiał
-
-powiedzieć ktora. Jam go napomniała aby niechodził do Żydów powiadaiąc y
-
-strasząc go ze tu też Żydzi dziewczynę zabili y dla tego niedziel temu dwie albo
-
-trzy zaleciłam go do szkoły Panny Maryi. Wczora tedy to iest w Niedzielę
-
-przyszłam z Kościoła y nie zastawszy tegoż chłopca pytałam się córki swoiey
-
-gdzie Jurek ale mi powiedziała iadł bez Pacierza; Jam mu rzekła na co to iesz bez
-
-Pacierza będzie Matusia bić iak przyidzie z Kościoła, y on poszedł gdzieś a kiedy
-
-iuż koło południa było a chłopca nie widać. Jam na tę swoię dziewczynę narzekać
-
-poczęła, po coś straszyła chłopca, podz go szukay: iakosz całe odwieczerze szukała
-
-go roznie po Gospodach gdzie bywał ale go nieznalazła, y rozumieliśmy że go
-
-żołnierze wzięli. Az dziś z rana przyszły do mnie mieszczki Pani Wronowiczowa y
-
-Wasilowska pytaiąc mnie o chłopca: Iam gdy odpowie[23r]działa, że go niemasz
-
-powiedzieli mi ono iest u Żydów zabity, y gdym z niemi poszła znaleźliśmy tegoszTrupa, y poznałam go u tegoż Rabina na tyle y zastałam ieszcze Rabina Żonę która
-
-się uwiiała zatrwożona powiedaiąc ze nam zapowietrzonego przez płot podrzucili,
-
-y pokłoł się po tarninie, a kamieniami znać na niego ciskali a potym ludzi więcey
-
-się naszło y obględowali każdy z nich mowiąc y widząc oczywiście że pokłote
-
-Dziecię to: a potym odeszłam y Dziecięcia y tey Zydowkiey y szlam do Pana
-
-Nowickiego skarżyć się na Żydów y opowiadać to ale mnie oni ubiegli y iuż
-
-skarżyli się na mnie iako to Wolf Liczman y Czapnik iakoby ia te zapowietrzone
-
-Dziecię przechowywała a potym ie podrzucić kazała a gdy mnie to strofować
-
-poczęli Pan Burmistrz y inni Ja y ci ludzie co za mną szli zaraz rzekli nie iesto to
-
-Powietrzem umarłe dziecię: ale ie Żydzi zabili y tak pytali mnie: Jeżeli ia tego
-
-Dziecięcia [23v] szukała y powiedziałam prawdę, iakosz na dokument posłali po
-
-córkę moię, ktora przy wszyskich powiedziała iako go po Gospodach wczora
-
-szukała, a potym co raz to więcey ludzi zbiegać się poczęło, iam też do domu
-
-odeszła.
+Quarto ++Famata Augustynowiczowa++ similiter spontanee ad Officium praesens veniens retulit. Iż ten nieboszczyk był sierota niewiem z kąd rodem po proźbie chodził. Jam z miłosierdzia przed kilkunastu niedzieł wzięłam go do siebie: a potym gdy się po mieście włóczył y trafiło się że go długo niebyło iak przyszedł łaiałam go że się tak włóczył y pytałam się gdzieby się tak bawiał ++odpowiedział żem między Żydami Trzaski zbierał, daley pytałam go ieżeli też tam Żydzi++ [22v] dali ci co odpowiedział ++że mi Żydowka dała chleba z masłem++ ale nie umiał powiedzieć ktora. Jam go napomniała aby niechodził do Żydów powiadaiąc y strasząc go ze tu też Żydzi dziewczynę zabili y dla tego niedziel temu dwie albo trzy zaleciłam go do szkoły Panny Maryi. Wczora tedy to iest w Niedzielę przyszłam z Kościoła y nie zastawszy tegoż chłopca pytałam się córki swoiey gdzie Jurek ale mi powiedziała iadł bez Pacierza; Jam mu rzekła na co to iesz bez Pacierza będzie Matusia bić iak przyidzie z Kościoła, y on poszedł gdzieś a kiedy iuż koło południa było a chłopca nie widać. Jam na tę swoię dziewczynę narzekać poczęła, po coś straszyła chłopca, podz go szukay: ++iakosz całe odwieczerze szukała go roznie po Gospodach gdzie bywał ale go nieznalazła, y rozumieliśmy że go żołnierze wzięli++. Az dziś z rana przyszły do mnie ++mieszczki Pani Wronowiczowa y Wasilowska pytaiąc mnie o chłopca: Iam gdy odpowie++[23r]działa, że go niemasz powiedzieli mi ono iest u Żydów zabity, y gdym z niemi poszła znaleźliśmy tegosz Trupa, y poznałam go ++u tegoż Rabina na tyle y zastałam ieszcze Rabina Żonę która się uwiiała zatrwożona powiedaiąc ze nam zapowietrzonego przez płot podrzucili, y pokłoł się po tarninie, a kamieniami znać na niego ciskali++ a potym ludzi więcey się naszło y obględowali każdy z nich mowiąc y widząc oczywiście że pokłote Dziecię to: ++a potym odeszłam y Dziecięcia y tey Zydowkiey++ y szlam do Pana Nowickiego skarżyć się na Żydów y opowiadać to ale mnie ++oni ubiegli y iuż skarżyli się na mnie iako to Wolf Liczman y Czapnik iakoby ia te zapowietrzone Dziecię przechowywała a potym ie podrzucić kazała++ a gdy mnie to strofować poczęli Pan Burmistrz y inni Ja y ci ludzie co za mną szli zaraz rzekli nie iesto to Powietrzem umarłe dziecię: ale ie Żydzi zabili y tak pytali mnie: Jeżeli ia tego Dziecięcia [23v] szukała y powiedziałam prawdę, iakosz na dokument posłali po córkę moię, ktora przy wszyskich powiedziała iako go po Gospodach wczora szukała, a potym co raz to więcey ludzi zbiegać się poczęło, iam też do domu odeszła.
 
 Quinto. Honestus Balsius Żmuda Civis Sandomieriensis retulit benevole. Iż ia
 
