@@ -110,153 +110,17 @@ Yesterday, that is on Sunday, I returned from church and not having found the bo
 
 ++She was searching for him all afternoon, in inns, which he frequented, but she did not find him++. And we thought that soldiers took him. And then this morning twoburgher women, Lady Wronowiczowa and Wasilowska, came to me, asking about the boy. And when I answered [23r] that he was not here, they told me that he was [found] at the Jews’ , killed, and when I went with them to see this corpse at the rabbi’s, I recognized him. And I found the rabbi’s wife, who was bustling frightened and saying, “They tossed an infected corpse over the fence, and he got scratched in the blackthorn, and it seems that they threw stones at it.”
 
-And then more people came and gawked, each saying that it obvious to see that the
+And then more people came and gawked, each saying that it obvious to see that the child was pricked [pokłóte]. And ++I then left the child and the Jewess++, and went to Mr. Nowicki [the mayor] to complain against Jews about this, but ++they, that is Wolf Liczman and Czapnik [hatter] had been there ahead of me, complaining against me that I had been keeping an infected child and then I ordered it to be tossed++, and when the mayor scolded me, I and other people who came with me said that the deceased child was not infected, but that Jews killed him, and then they [the mayor] asked me if I had been looking for the child [23v] and I told the truth, and to ascertain [that I was telling the truth] they sent for my daughter, who said in everyone’s presence how she was looking for [him] in inns, and then more people came and I went back home.
 
-child was pricked [pokłóte]. And I then left the child and the Jewess, and went to
+Quinto. ++Honestus Balsius Żmuda Civis Sandomieriensis retulit++ benevole [Fifth witness *honestus* Balsius Żmuda, a burgher of Sandomierz ++recounted willingly++]
 
-Mr. Nowicki [the mayor] to complain against Jews about this, but they, that is Wolf
+I was working in the brewery, which is on the Jewish street, next to Jew Czapnik’s house. And I came this morning to take care of the beer, and the beadle was running from house to house knocking to get people to the synagogue, and after he quickly run around and returned, passing by the Brewery and ran toward Czapnik’s house. Seeing him bewildered and [seeing] that Jewesses were coming out and babbling something in Yiddish [*szwargotały*], I asked what had happened among them, thinking that some soldiers arrived and did something, but this beadle responded, ++“It’s none of your business, I am going to an Elder,” and he went to Czapnik++. And I, walking behind him, saw that some Jew [24r] [came] to Czapnik. I do not know him and do not know if he is from here or not. Old, graying, and he left the living quarters, and they were speaking with each other in Jewish in the hallway, I do not know about what. I did not see Czapnik. I then asked the beadle, “What was he talking about with that Jew?” And he responded, ++“It’s none of your business,”++ and then when people broke the news about the child’s killing, I again spoke to the beadle, who was passing by. I asked, you did not tell me anything. But he said, it is not a custom among us to talk but first to let the Elders know.
 
-Liczman and Czapnik [hatter] had been there ahead of me, complaining against me
+Sexto. Honestus Alexander Borkowicz Civis et Incola Sandomiriensis in haec formalia spontanee recognovit. [Sixth. *Honestus* Alexander Borkowicz, citizen and inhabitant of Sandomierz, with these formally and spontaneously recounted]
 
-that I had been keeping an infected child and then I ordered it to be tossed, and
+This morning I came to Mr. mayor, my step father, where I found ++Sandomierz Jews, Wolf Liczman, Czapnik, and the beadle++. They complained that someone ++dropped off an infected corpse++, asking to bury ++this corpse because people were going to be afraid, [saying] there was no benefit for it to be lying for too long++. And hearing this, I went there with other townspeople to take a look; and then having returned, and seeing Jews [still there] I said it was not true that the child died of an epidemic infection [*z powietrze*, lit. from the air] but that it was slaughtered by Jews.
 
-when the mayor scolded me, I and other people who came with me said that the
-
-deceased child was not infected, but that Jews killed him, and then they [the
-
-mayor] asked me if I had been looking for the child [23v] and I told the truth, and
-
-to ascertain [that I was telling the truth] they sent for my daughter, who said in
-
-everyone’s presence how she was looking for [him] in inns, and then more people
-
-came and I went back home.
-
-Quinto. Honestus Balsius Żmuda Civis Sandomieriensis retulit benevole [Fifth
-
-witness *honestus* Balsius Żmuda, a burgher of Sandomierz recounted willingly]
-
-I was working in the brewery, which is on the Jewish street, next to Jew Czapnik’s
-
-house. And I came this morning to take care of the beer, and the beadle was
-
-running from house to house knocking to get people to the synagogue, and after he
-
-quickly run around and returned, passing by the Brewery and ran toward Czapnik’s
-
-house. Seeing him bewildered and [seeing] that Jewesses were coming out and
-
-babbling something in Yiddish [*szwargotały*], I asked what had happened among
-
-them, thinking that some soldiers arrived and did something, but this beadle
-
-responded,
-
-“It’s none of your business, I am going to an Elder,
-
-” and he went to
-
-Czapnik. And I, walking behind him, saw that some Jew [24r] [came] to Czapnik. I
-
-do not know him and do not know if he is from here or not. Old, graying, and he
-
-left the living quarters, and they were speaking with each other in Jewish in the
-
-hallway, I do not know about what. I did not see Czapnik. I then asked the beadle,
-
-“What was he talking about with that Jew?” And he responded,
-
-“It’s none of yourbusiness,
-
-” and then when people broke the news about the child’s killing, I again
-
-spoke to the beadle, who was passing by. I asked, you did not tell me anything. But
-
-he said, it is not a custom among us to talk but first to let the Elders know.
-
-Sexto. Honestus Alexander Borkowicz Civis et Incola Sandomiriensis in haec
-
-formalia spontanee recognovit. [Sixth. *Honestus* Alexander Borkowicz, citizen and
-
-inhabitant of Sandomierz, with these formally and spontaneously recounted]
-
-This morning I came to Mr. mayor, my step father, where I found Sandomierz
-
-Jews, Wolf Liczman, Czapnik, and the beadle. They complained that someone
-
-dropped off an infected corpse, asking to bury this corpse because people were
-
-going to be afraid, [saying] there was no benefit for it to be lying for too long. And
-
-hearing this, I went there with other townspeople to take a look; and then having
-
-returned, and seeing Jews [still there] I said it was not true that the child died of an
-
-epidemic infection [*z powietrze*, lit. from the air] but that it was slaughtered by
-
-Jews.
-
-When Jews heard this, they became sheepish and terrified; Wolf changed, once he
-
-was pale, then red. And when it became known that Jews were running away, I
-
-took a horse and chased after them, and I caught up with Abusia’s son-in-law, who
-
-was carrying a box and running away. And I brought him back to Sandomierz. And
-
-then, seeing that the rabbi with his son-in-law and son, in whose house the
-
-murdered child was found, had run away, I went to the *arendar* near the castle and,
-
-to get the horses faster, I said,
-
-“The Honorable Burgrave ordered that you give me
-
-a horse.
-
-” And I asked him about the Jews, the rabbi, and his son and son-in-law
-
-[25r]. This *arendar* pointed [?] and said,
-
-“this rabbi came to my place but left not
-
-too long ago for Koćmierzów.
-
-” And I immediately went to the mill in Koćmierzów.
-
-And it could be that they went there or toward Zajeziorze. And so I went toward
-
-Zajeziorze and then I saw in Złota from afar a wagon going toward Koćmierzów.
-
-And I turned around toward the wagon and began to yell,
-
-“Stop, stop!” But when
-
-he did not heed, I cut him off: and then seeing the Jew, Koćmierzów *arendar*, I
-
-asked for information,
-
-“Where did you take the rabbi and others?” And he, being a
-
-bit stumped, responded that [he had taken them] to Samborzec. And hearing in
-
-Złota that the reverend priest Koszycki [was there], I told [25v] him that, and we
-
-went to Samborzec. And there, in the brewery, we asked about them [Jews]. Butthe *arendar* said,
-
-“They have not been here, I only heard that the Koćmierzów
-
-*arendar* brought malt to the mill. And then sent the lackey of his Reverend Priest
-
-Official on a different route, and I, along with the reverend priest Koszycki, went
-
-toward Gorzycany. And there we came across a peasant carrying flour from the
-
-Gorzycany mill, and we asked this peasant about these Jews, and he said that there
-
-were three new Jews, one old and two young at the *arenda* in Gorzycany; they had
-
-arrived not too long ago.
+When Jews heard this, they became sheepish and terrified; Wolf changed, once he was pale, then red. And when it became known that Jews were running away, I took a horse and chased after them, and I caught up with Abusia’s son-in-law, who was carrying a box and running away. And I brought him back to Sandomierz. And then, seeing that the rabbi with his son-in-law and son, in whose house the murdered child was found, had run away, I went to the *arendar* near the castle and, to get the horses faster, I said, “The Honorable Burgrave ordered that you give me a horse.” And I asked him about the Jews, the rabbi, and his son and son-in-law [25r]. This *arendar* pointed [?] and said, “this rabbi came to my place but left not too long ago for Koćmierzów.” And I immediately went to the mill in Koćmierzów. And it could be that they went there or toward Zajeziorze. And so I went toward Zajeziorze and then I saw in Złota from afar a wagon going toward Koćmierzów. And I turned around toward the wagon and began to yell, “Stop, stop!” But when he did not heed, I cut him off: and then seeing the Jew, Koćmierzów *arendar*, I asked for information, “Where did you take the rabbi and others?” And he, being a bit stumped, responded that [he had taken them] to Samborzec. And hearing in Złota that the reverend priest Koszycki [was there], I told [25v] him that, and we went to Samborzec. And there, in the brewery, we asked about them [Jews]. Butthe *arendar* said, “They have not been here, I only heard that the Koćmierzów *arendar* brought malt to the mill. And then sent the lackey of his Reverend Priest Official on a different route, and I, along with the reverend priest Koszycki, went toward Gorzycany. And there we came across a peasant carrying flour from the Gorzycany mill, and we asked this peasant about these Jews, and he said that there were three new Jews, one old and two young at the *arenda* in Gorzycany; they had arrived not too long ago.
 
 When we learned that, we went directly to Gorzycany and having gone into the
 
