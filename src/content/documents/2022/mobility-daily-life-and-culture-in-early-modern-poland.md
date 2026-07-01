@@ -150,71 +150,7 @@ Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab ipso
 
 ++Ja Jakub Herc rodem z Morawy Oyca Samuela y Matki Getle syn a potym++ podczas Wideńskiey dla trwog, przenioslem się do Sląska, y z Zoną tą ktorą do tych czas mam imieniem Geta. Tu do Polskiey lat szesnaście iakom przyiechał, y naprzód w Paczanowie byłem Rabinem lat Sześci albo siedm a potym od lat dziesięciu tu do Sandomierza przyprowadziłem się y byłem do tych czas także Rabinem, prze[17r]niozszy się z mnieyszego miasteczka do Większego y sławnieyszegomiasta. Juzmi to pięćdziesiąt lat dochodzi, nigdziem tego niesłyszał, ani czytał, aby nam potrzeba było krwi Chrześciańskiey albo dzieci zarzynać, a ieżeli się kiedy to stanie, na nas wkładają, to to tylko potwarz, a iam tu w Sandomierzu ieszcze na ten czas niebył kiedy z Aleksandrem była sprawa, tylko słyszałem o tym, ale to także potwarz była. Ja jako Rabin tylko się tym bawię że sądzic powinienem y uważyć czy co kosiorne albo trefne lub nie, ++ale samemu mnie rznąc bydlęcia ani kury gęsi etc niegodzi się, y ieżeli ieść trzeba to do Szkolnika poseła się++. U nas godzi się byle nie w Izbie zarznąć kapłona Gęś et y mnie trafiało się że szkolnik zarzynał, y iuż mieszkaiąc w tum Domu trafiało się to osobliwie teraz iako mi córka zległa ++to kilka kaczek w domu Szkolnik y na ten przeszły sabat zarżnął++ alem ia tego nie uważał ieżeli gdzie w tym moim domu krew była, y iezeli iest to to chyba z tego, że szkolnik zarżnąwszy kurę to nią ciśnie y w ten czas krew wypryska ani też u nas potrzeba tego żeby ściany chędożyć, y obmywać na sabat chyba na Wielką noc. ++Ja na żadne ziazdy++ [17v] Żydowskie nie ieżdzę bo do tego nienależę, ani też tu żadnego znoszenia się z Żydami niemam bo moia rzecz nad Xięgą siedzic a onym tam radzić koło siebie. ++Żydzi Sandomierscy, iako to Szmul y Jelen ieszcze dotych czas w Rakowie bawią się na Seymie, przyiechał ieden z nich słyszałem Liczman na Szabat doyrzeć sobie iako to Arendarz ale nie wiem czyli znowu odiechał czyli++ nie.
 
-Niemiałem żadney zmowy z nikim, anim o tym myślał, żeby Dziecię iakie
-
-Chrześciańskie zabić; bo się to niegodzi tylko na Nas Żydów z Nienawiści taka
-
-potwarz kładą. Ludzi Chrześciańskich na posłudze niechowam tylko iedna
-
-Dziewka co wodę nosi, ale ta na mieście mieszka, a co wody przyniesie to iey
-
-zapłacę. Żadne dzieci u mnie niebywały Chrześciańskie, y tego, co zabitego bydz
-
-powiadaią iako żywego tak umarłego niewidziałem, ale wczora ni oczym
-
-niewiedząc poszliśmy spać, aż dziś rano iam ieszcze spał kiedy Żona niewiem od
-
-kogo się dowiedziawszy przyszła do mnie y obudzila mnie mowiąc, że u nas na
-
-tyle trup leży, iam się porwał z strachu rozumieiąc że to zapowietrzonego kto
-
-podrzucił w com mógl na prętce ubrawszy się nic z sobą niewziąwszy, y z Żoną nic
-
-nie rozmawiawszy [18r] się kiedy Żona innych budzić poczęla uszedłem zaraz z
-
-miasta, y biegłem nigdzie niewstępuiąc, z nikiem nierozmawiaiąc, tylko syna tego
-
-co tu iest za mną z sobą wziąwszy do Koćmierzowa. Fanty zaś ludzkie y moie
-
-rzeczy niewiem iak się obrociły, y obracaią, bo ia nie wiem gdzi tam żona te rzeczy
-
-chowała, gdysz ia tylko Regestr pisał ale ona o schowaniu wiedziała: tam mnie y zsynem idąego Zięc za Wisełką ku Koćmierzowi dogonił, y wszyscy szliśmy do
-
-Koćmierzowa, aż przyszliśmy do Arendarza Żyda Koćmierzowskiego. Tam że się
-
-trafiło, iż ten Arendarz iechał do Młyna Samborzeckiego, iam go prosił aby mnie
-
-wziął y z temi drugiemi daley ku Klimontowu bom po to umyślnie wyboczył do
-
-Koćmierzowa żebym miał furę do tegosz Klimontowa y tam wsiedliśmy na ten
-
-Woz na ktorym trzy albo cztery wory słodu było, y iawnośmy siedzieli na wozie,
-
-nie kryiąc się a potym ten Arendarz składał do Młyna Słod y odmawiał nam daley
-
-na wiśc y iuż my piechotą poszli az potym złożywszy słod użałował się nas y
-
-dogonił na wozie my też powsiadali y Zawiósl nas do Arendarza Żyda do
-
-Gorzycan tam niedługo bawiliśmy się y prosiłem żeby ten że Aren[18v]darz
-
-Gorzycanski postarał się nam o powóz do Klimontowa. Jam postem był y nic nie
-
-iadłem. Zięć moy y z synem coś tam iedli, a aim troche usnął. A potym roznie się
-
-po izbie y po komorze przechodząc, tenże zięc moy y z synem przyszli do komory,
-
-y iuż mieliśmy niedługo iechać: Az też Xiądz y z dwiema Mieszczan z
-
-Sandomierza przyiechawszy przez Izbę przysli do komory ktora była nie
-
-zamknięta y zaraz nas pobrali powiedaiąc Żeście wy Nasze Dziecię Chrześciańskie
-
-zabili, y związawszy nas wszystkich trzech postronkiem iednym za ręce wiedli nas
-
-do Sandomierza do Miasta y tu nas przyprowadzili do Grodu. Et praeter haec plura
-
-non recognovit.
+Niemiałem żadney zmowy z nikim, anim o tym myślał, żeby Dziecię iakie Chrześciańskie zabić; bo się to niegodzi tylko na Nas Żydów z Nienawiści taka potwarz kładą. Ludzi Chrześciańskich na posłudze niechowam tylko iedna Dziewka co wodę nosi, ale ta na mieście mieszka, a co wody przyniesie to iey zapłacę. Żadne dzieci u mnie niebywały Chrześciańskie, y tego, co zabitego bydz powiadaią iako żywego tak umarłego niewidziałem, ale wczora ni oczym niewiedząc poszliśmy spać, aż dziś rano iam ieszcze spał kiedy ++Żona niewiem od kogo się dowiedziawszy przyszła do mnie y obudzila mnie mowiąc, że u nas na tyle trup leży, iam się porwał z strachu rozumieiąc że to zapowietrzonego kto podrzucił w com mógl na prętce ubrawszy się nic z sobą niewziąwszy, y z Żoną nic nie rozmawiawszy [18r] się kiedy Żona innych budzić poczęla uszedłem zaraz z miasta, y biegłem nigdzie niewstępuiąc, z nikiem nierozmawiaiąc, tylko syna tego co tu iest za mną z sobą wziąwszy do Koćmierzowa++. Fanty zaś ludzkie y moie rzeczy niewiem iak się obrociły, y obracaią, bo ia nie wiem gdzi tam żona te rzeczy chowała, gdysz ia tylko Regestr pisał ale ona o schowaniu wiedziała: ++tam mnie y zsynem idąego Zięc za Wisełką ku Koćmierzowi dogonił, y wszyscy szliśmy do Koćmierzowa, aż przyszliśmy do Arendarza Żyda Koćmierzowskiego++. Tam że się trafiło, iż ten Arendarz iechał do Młyna Samborzeckiego, iam go prosił aby mnie wziął y z temi drugiemi daley ku Klimontowu bom po to umyślnie wyboczył do Koćmierzowa żebym miał furę do tegosz Klimontowa y tam wsiedliśmy na ten Woz na ktorym trzy albo cztery wory słodu było, y iawnośmy siedzieli na wozie, nie kryiąc się a potym ten Arendarz składał do Młyna Słod y odmawiał nam daley na wiśc y iuż my piechotą poszli az potym złożywszy słod użałował się nas y dogonił na wozie my też powsiadali y ++Zawiósl nas do Arendarza Żyda do Gorzycan tam niedługo bawiliśmy się y prosiłem żeby ten że Aren[18v]darz Gorzycanski postarał się nam o powóz do Klimontowa++. Jam postem był y nic nie iadłem. Zięć moy y z synem coś tam iedli, a aim troche usnął. A potym roznie się po izbie y po komorze przechodząc, tenże zięc moy y z synem przyszli do komory, y iuż mieliśmy niedługo iechać: Az ++też Xiądz y z dwiema Mieszczan z Sandomierza przyiechawszy przez Izbę przysli do komory++ ktora była nie zamknięta y zaraz nas pobrali powiedaiąc Żeście wy Nasze Dziecię Chrześciańskie zabili, y związawszy nas wszystkich trzech postronkiem iednym za ręce wiedli nas do Sandomierza do Miasta y tu nas przyprowadzili do Grodu. Et praeter haec plura non recognovit.
 
 Post connotationem itaque praemissorum liberorum confessatorum suprascriptus
 
