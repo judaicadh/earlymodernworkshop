@@ -42,11 +42,7 @@ Post cuius quidem Infidelis Abraham Confessatorum depositionem rursus officium a
 
 I am Jakub Schario. My father is a rabbi and [with] my mother they still live in Ołyka, four or five miles from Łuck;[^1] I was born in Ołyka and I lived with my father, and only three years ago I married the daughter of the Sandomierz Rabbi and during an epidemic I went back to my father, but alone, and when the epidemic passed in Sandomierz, I returned to my wife a year ago; and here in Sandomierz I have lived together with my wife’s father.
 
-I don’t engage in any trade [*hande*l], because according to the contract, my wife’s
-
-father has to provide food and clothing and there are still three years left before the
-
-expiration of this agreement.
+I don’t engage in any trade [*hande*l], because according to the contract, my wife’s father has to provide food and clothing and there are still three years left before the expiration of this agreement.
 
 And all this time I have been tending to studies and books in preparation to become
 
