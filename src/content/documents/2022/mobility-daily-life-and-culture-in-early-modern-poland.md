@@ -5,6 +5,12 @@ institution: Fordham University
 volume: 19
 year: "2022"
 slug: mobility-culture-poland
+description: The text presented here is an excerpt from the lengthy trial of
+  Jews in Sandomierz accused of killing a Christian boy. The testimonies come
+  from the first day after the body was discovered at the dawn of August 18th,
+  1710. They include three testimonies of the implicated Jews, the rabbi Jacob
+  Herc, his thirteen-year-old son Abraham, and his seventeen-year-old son-in-law
+  Jakub Schario and five additional testimonies of Christians.
 ---
 ## Introduction
 
