@@ -154,31 +154,7 @@ Niemiałem żadney zmowy z nikim, anim o tym myślał, żeby Dziecię iakie Chrz
 
 ++Post connotationem itaque praemissorum liberorum confessatorum suprascriptus Praesentans++ et statuens instigator Ciuitatis huius Sandomiriensis eosdem Inculpatos taliter examinatos rursus ad se recepit et de receptis Officium praesens quietauit:
 
-Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium
-
-quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum.
-
-Et hic subinde post determinationem et connotationem liberorum confessatorum
-
-dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis
-
-Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant,
-
-ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis
-
-circumstantias facti ante et post patratum nefas observantibus et considerantibus
-
-atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis
-
-officium presens annuendo ab infrascriptis personis fide dignis Relationes et
-
-testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo adhuc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
-
-videatur) fide tamen dignas et personarum authoritate firmatas propter majorem
-
-Judicii informationem habendam ad Acta sua suscepit et easdem verba
-
-recognoscentium formalia infrascripta connotauit.
+Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum. Et hic subinde post determinationem et connotationem liberorum confessatorum dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant, ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis circumstantias facti ante et post patratum nefas observantibus et considerantibus atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis officium presens annuendo ab infrascriptis personis fide dignis Relationes et testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo adhuc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere videatur) fide tamen dignas et personarum ++authoritate firmatas propter majorem Judicii informationem++ habendam ad Acta sua suscepit et easdem verba recognoscentium formalia infrascripta connotauit.
 
 Itaque primo Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae
 
