@@ -100,71 +100,15 @@ Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere [The third [witn
 
 I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the brewery, and they loitered around and I asked the little boy, “Where are you from?” And he said we are from the city, and then the *arendar* prepared the wagon and told us to put two sacks of malt, and the Jews had left toward the field before [the *arendar*]. And then, when the *arendar* returned, we told him about [what happened], and he responded: “This is my misfortune that I caught up with those Jews and took them on the wagon and drove them to Samborzec. Afterwards they went to Gorzycany.”
 
-Quarto Famata Augustynowiczowa similter spontanee ad Officium praesens
+Quarto Famata Augustynowiczowa similter spontanee ad Officium praesens veniens retulit [Fourth [witness] the townswoman Augustynowiczowa similarly freely appearing before this Office recounted].
 
-veniens retulit [Fourth [witness] the townswoman Augustynowiczowa similarly
+This dead [child] was an orphan. I don’t know where he was from [but] he went around begging. Out of mercy, I took him to my house several weeks ago. And then when he was wandering around the city and if he was gone for a long time, sometimes I would scold him [beat him?] for his wanderings and ask him where he had been, and he answered that among Jews collecting kindling wood, and I asked further if the Jews [22v] had given him anything. He responded that a Jewess had given him bread with butter, but he could not say which one.
 
-freely appearing before this Office recounted].
+And I admonished him not to go to Jews, telling [him] and [trying to] scare him that Jews had killed a girl. And for this reason [that he was wandering around], two or three weeks ago I sent him to school of the Virgin Mary.
 
-This dead [child] was an orphan. I don’t know where he was from [but] he went
+Yesterday, that is on Sunday, I returned from church and not having found the boy [at home] I asked my daughter where Jurek [the boy’s name] was, and she said, “He was eating without saying a prayer. And I told him, ‘How can you eat without saying a prayer, my mother will beat you when she comes back from church, and he went away somewhere. ” And when around noon there was no sign of the boy, I began to gripe against the girl, “Why did you scare the boy? Go and look for him.”
 
-around begging. Out of mercy, I took him to my house several weeks ago. And
-
-then when he was wandering around the city and if he was gone for a long time,
-
-sometimes I would scold him [beat him?] for his wanderings and ask him where he
-
-had been, and he answered that among Jews collecting kindling wood, and I asked
-
-further if the Jews [22v] had given him anything. He responded that a Jewess had
-
-given him bread with butter, but he could not say which one.
-
-And I admonished him not to go to Jews, telling [him] and [trying to] scare him
-
-that Jews had killed a girl. And for this reason [that he was wandering around], two
-
-or three weeks ago I sent him to school of the Virgin Mary.
-
-Yesterday, that is on Sunday, I returned from church and not having found the boy
-
-[at home] I asked my daughter where Jurek [the boy’s name] was, and she said,
-
-“He was eating without saying a prayer. And I told him,
-
-‘How can you eat without
-
-saying a prayer, my mother will beat you when she comes back from church, and
-
-he went away somewhere.
-
-” And when around noon there was no sign of the boy, I
-
-began to gripe against the girl,
-
-“Why did you scare the boy? Go and look for him.
-
-”
-
-She was searching for him all afternoon, in inns, which he frequented, but she did
-
-not find him. And we thought that soldiers took him. And then this morning twoburgher women, Lady Wronowiczowa and Wasilowska, came to me, asking about
-
-the boy. And when I answered [23r] that he was not here, they told me that he was
-
-[found] at the Jews’
-
-, killed, and when I went with them to see this corpse at the
-
-rabbi’s, I recognized him. And I found the rabbi’s wife, who was bustling
-
-frightened and saying,
-
-“They tossed an infected corpse over the fence, and he got
-
-scratched in the blackthorn, and it seems that they threw stones at it.
-
-”
+++She was searching for him all afternoon, in inns, which he frequented, but she did not find him++. And we thought that soldiers took him. And then this morning twoburgher women, Lady Wronowiczowa and Wasilowska, came to me, asking about the boy. And when I answered [23r] that he was not here, they told me that he was [found] at the Jews’ , killed, and when I went with them to see this corpse at the rabbi’s, I recognized him. And I found the rabbi’s wife, who was bustling frightened and saying, “They tossed an infected corpse over the fence, and he got scratched in the blackthorn, and it seems that they threw stones at it.”
 
 And then more people came and gawked, each saying that it obvious to see that the
 
