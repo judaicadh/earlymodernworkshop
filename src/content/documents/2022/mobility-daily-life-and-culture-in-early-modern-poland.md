@@ -98,27 +98,7 @@ I was in the field when, before noon, Lord Zrazewski, the deputy *starost* from 
 
 Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere [The third [witness], honest Nicolaus Miłosowic, the brewer, freely recounted].[^3]
 
-
-
-I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the
-
-brewery, and they loitered around and I asked the little boy,
-
-“Where are you from?”
-
-And he said we are from the city, and then the *arendar* prepared the wagon and
-
-told us to put two sacks of malt, and the Jews had left toward the field before [the
-
-*arendar*]. And then, when the *arendar* returned, we told him about [what
-
-happened], and he responded: “This is my misfortune that I caught up with those
-
-Jews and took them on the wagon and drove them to Samborzec. Afterwards they
-
-went to Gorzycany.
-
-”
+I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the brewery, and they loitered around and I asked the little boy, “Where are you from?” And he said we are from the city, and then the *arendar* prepared the wagon and told us to put two sacks of malt, and the Jews had left toward the field before [the *arendar*]. And then, when the *arendar* returned, we told him about [what happened], and he responded: “This is my misfortune that I caught up with those Jews and took them on the wagon and drove them to Samborzec. Afterwards they went to Gorzycany.”
 
 Quarto Famata Augustynowiczowa similter spontanee ad Officium praesens
 
