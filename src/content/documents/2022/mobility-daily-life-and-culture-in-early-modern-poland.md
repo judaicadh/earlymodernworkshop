@@ -20,153 +20,23 @@ As a side note, the first day also included a testimony of the person who might 
 
 18 Aug. Praesentatio Corporis in Castro Sandom. cum Confessatis Rabini et Generi ac Filii eius. Item Scrutinia ibidem educta per testes feria secunda post Assumptionis BMV.
 
-[12r] Hicque in continenti suprascriptus instigator Civitatis praesentis Sandomiriensis statuit Officio praesenti inculpates Jacobum Herc, Rabinum Sandomiriensem Parentem Jacobum Schario Generum et Abrahamum Jakubowicz eiusdem Rabini filium Annorum tredecem post patratum praefatum scelestum facinus die hodierna de mane ex civitate et domo sua aufugos primoque ad Bona
+[12r] Hicque in continenti suprascriptus instigator Civitatis praesentis Sandomiriensis statuit Officio praesenti inculpates ++Jacobum Herc, Rabinum Sandomiriensem Parentem Jacobum Schario Generum et Abrahamum Jakubowicz eiusdem Rabini filium Annorum tredecem post patratum praefatum scelestum facinus die hodierna de mane ex civitate et domo sua aufugos primoque ad Bona Kocmierzow rursus ad Villam Samborzec, ac tandem ac Villam Gorzycany Magnificorum++ Capitaneum Lukoviensium divertentes et Ope inferius specificata ac modo indolito et impracticato, propter difficilem investigationem divertentes et devectos ++in eisdemque Bonis Gorzycany in Camera apud Infidelem Arendatorem Gorzycznensem occlusa deprehensos++ et ad Castrum praesens fune ligatos deductos. Petens ab eisdem Inclupatis libera confessata excipi. Cuius affectation tum et disposition legis publicae Officium praesens annuendo ab eisdem inculpatis adscito sibi suprascripto spectabili Joanne Mente consule sandomiriense, uti germanicam linguam bene callente (siquidem se polonicam linguam [12v] ignorare allegarunt iidem inculpate) propter interpretationem Officio praesenti faciendam eadem Confessata quemlibet statutorum seorsive examinando suscepit.
 
-Kocmierzow rursus ad Villam Samborzec, ac tandem ac Villam Gorzycany
+Qui quidem statute in liberis confassatis haec formalia recognoverunt. ++Et quidem primo infidelibs Abraham puer annorum tredecem.++
 
-Magnificorum Capitaneum Lukoviensium divertentes et Ope inferius specificata ac
+++I, Abraham Jakubowicz, son of the Infidel Jacob Herc, the Rabbi of Sandomierz, and of Getty++, mother, was born in Pacanów, where my father, who was at the time a rabbi there, lived with my mother. I don’t know the reason why my father and mother moved to Sandomierz a few years ago, only it seems that because the city is more famous. And they still live here. [Father] made a living as a rabbi and he also had some eight thousand [zlotys] of his own money lending on interest, which he lost and now has barely two thousand. My father, being a rabbi, adjudicated cases worth no more fifty zlotys without appeal to a higher court. When the amount was higher, they went to Opatów and he stayed here. He did not go for any councils, and he did not hold any other office. He did not engage in the slaughter of cattle or chickens or geese—the beadle is responsible for that. [13r] Nothing was ever slaughtered at his place, because he only sat with books and if he needed something to eat, he would send for the beadle. And in this house, in which we have lived for half-a-year, I have never seen anyone slaughter anything, because it is not fitting for a rabbi. I have not seen any blood at any time or place, unless the slaughterer did it [splattered blood] while running away from the soldiers or for another reason. But I have not heard about it and I don’t know. I only remember some five or six weeks ago two chickens were slaughtered at our house to eat, but it was not done in the hallway. It is our custom to clean for Passover [Wielka Noc] tables, benches, windows in rooms so that no stain remains, and so, we did so at our house, where we had lived already by Passover. But such cleaning is less diligent in the hallway.
 
-modo indolito et impracticato, propter difficilem investigationem divertentes et
+My father has not traveled anywhere for almost a year and no unacquainted Jews have visited him during that time. And I have not seen any secret planning.
 
-devectos in eisdemque Bonis Gorzycany in Camera apud Infidelem Arendatorem
+My father and mother do not keep Catholics as servants. There is only one maid who brings water for cooking twice a day, but she does not live at my father’s. There also come some beggar women, and [13v] my father and mother would give them something, but I have not seen any boy, and I have not seen the one who died today.
 
-Gorzycznensem occlusa deprehensos et ad Castrum praesens fune ligatos deductos.
+And so this happened. We did not think about any escape. In the morning, the Jewish widow who lives at the house of Berko, a Sandomierz Jew, who is now in Gdańsk, was assisting my sister’s lying-in, went out in the back and saw the dead body, and so she notified my father, brother-in-law, and mother, who were still sleeping. My father and brother-in-law and myself rushed to the synagogue to confer, without even looking what it was, fearing that someone dropped an plague infected corpse [*zapowietrzonego trupa*], and leaving my mother behind. We did not even take anything not even a penny [*szeląg*]. (As we were leaving, no one spoke with my mother, and for my brother-in-law it was not appropriate to speak to his wife). We left through the gate near the Jewish Street without meeting anyone because people were still asleep. ++As I have said we did not take anything with us.++ I don’t know anything about pledges and where my father kept them, because I have been pouring over books [lit. sitting over books], and I don’t know if Mother hid anything because we did not see her after we had left. We walked without stopping anywhere across Wisełka and having crossed Wisełka onto Koćmierzów (this village belongs to the Honorable Lord Lukowski). [14r] We did not stop at the Castle brewery outside the town, and we did not meet anyone from the brewery, nor anyone along the road. When we arrived at Koćmierzów at the house of the Jewish *arendar* did not stay there more than an hour.
 
-Petens ab eisdem Inclupatis libera confessata excipi. Cuius affectation tum et
+++We left the town because of danger of an epidemic++ [*dla niebespieczeństwa powietrza*, lit. danger of air]. I do not know why we left Koćmierzów, where no one heard about an epidemic, maybe because of the father. Then, in Koćmierzów, the Jewish *arendar*, having taken the peasant’s horse and three sacks of malt, took us to Samborzec. And all three of us, with the Koćmierzów *arendar* as fourth, sat on top of the sacks. No Catholic was with us. And the Jew from Koćmierzów, having taken us to Samborzec, delivered the malt to a mill, and then took us to Gorzycany to the Jewish *arendar* [there], and left.
 
-disposition legis publicae Officium praesens annuendo ab eisdem inculpatis adscito
+And we stayed in Gorzycany for four hours, and my brother-in-law and I ate [something] there, but by father was fasting. Then, ++we sat in a storeroom [with doors left] ajar, and father slept a little; from there we were supposed to go to Klimontów but the priest, having arrived with two men and opened the storeroom, took us saying++: we are going to Sandomierz, and having tied us [14v] with one rope, they led us to Sandomierz and took us to the Castle.
 
-sibi suprascripto spectabili Joanne Mente consule sandomiriense, uti germanicam
-
-linguam bene callente (siquidem se polonicam linguam [12v] ignorare allegarunt
-
-iidem inculpate) propter interpretationem Officio praesenti faciendam eadem
-
-Confessata quemlibet statutorum seorsive examinando suscepit.Qui quidem statute in liberis confassatis haec formalia recognoverunt. Et quidem
-
-primo infidelibs Abraham puer annorum tredecem.
-
-I, Abraham Jakubowicz, son of the Infidel Jacob Herc, the Rabbi of Sandomierz,
-
-and of Getty, mother, was born in Pacanów, where my father, who was at the time a
-
-rabbi there, lived with my mother. I don’t know the reason why my father and
-
-mother moved to Sandomierz a few years ago, only it seems that because the city is
-
-more famous. And they still live here. [Father] made a living as a rabbi and he also
-
-had some eight thousand [zlotys] of his own money lending on interest, which he
-
-lost and now has barely two thousand. My father, being a rabbi, adjudicated cases
-
-worth no more fifty zlotys without appeal to a higher court. When the amount was
-
-higher, they went to Opatów and he stayed here. He did not go for any councils,
-
-and he did not hold any other office. He did not engage in the slaughter of cattle or
-
-chickens or geese—the beadle is responsible for that. [13r] Nothing was ever
-
-slaughtered at his place, because he only sat with books and if he needed
-
-something to eat, he would send for the beadle. And in this house, in which we
-
-have lived for half-a-year, I have never seen anyone slaughter anything, because it
-
-is not fitting for a rabbi. I have not seen any blood at any time or place, unless the
-
-slaughterer did it [splattered blood] while running away from the soldiers or for
-
-another reason. But I have not heard about it and I don’t know. I only remember
-
-some five or six weeks ago two chickens were slaughtered at our house to eat, but
-
-it was not done in the hallway. It is our custom to clean for Passover [Wielka Noc]
-
-tables, benches, windows in rooms so that no stain remains, and so, we did so at
-
-our house, where we had lived already by Passover. But such cleaning is less
-
-diligent in the hallway.
-
-My father has not traveled anywhere for almost a year and no unacquainted Jews
-
-have visited him during that time. And I have not seen any secret planning.
-
-My father and mother do not keep Catholics as servants. There is only one maid
-
-who brings water for cooking twice a day, but she does not live at my father’s.
-
-There also come some beggar women, and [13v] my father and mother would give
-
-them something, but I have not seen any boy, and I have not seen the one who died
-
-today.And so this happened. We did not think about any escape. In the morning, the
-
-Jewish widow who lives at the house of Berko, a Sandomierz Jew, who is now in
-
-Gdańsk, was assisting my sister’s lying-in, went out in the back and saw the dead
-
-body, and so she notified my father, brother-in-law, and mother, who were still
-
-sleeping. My father and brother-in-law and myself rushed to the synagogue to
-
-confer, without even looking what it was, fearing that someone dropped an plague
-
-infected corpse [*zapowietrzonego trupa*], and leaving my mother behind. We did
-
-not even take anything not even a penny [*szeląg*]. (As we were leaving, no one
-
-spoke with my mother, and for my brother-in-law it was not appropriate to speak to
-
-his wife). We left through the gate near the Jewish Street without meeting anyone
-
-because people were still asleep. As I have said we did not take anything with us. I
-
-don’t know anything about pledges and where my father kept them, because I have
-
-been pouring over books [lit. sitting over books], and I don’t know if Mother hid
-
-anything because we did not see her after we had left. We walked without stopping
-
-anywhere across Wisełka and having crossed Wisełka onto Koćmierzów (this
-
-village belongs to the Honorable Lord Lukowski). [14r] We did not stop at the
-
-Castle brewery outside the town, and we did not meet anyone from the brewery,
-
-nor anyone along the road. When we arrived at Koćmierzów at the house of the
-
-Jewish *arendar* did not stay there more than an hour.
-
-We left the town because of danger of an epidemic [*dla niebespieczeństwa*
-
-*powietrza*, lit. danger of air]. I do not know why we left Koćmierzów, where no
-
-one heard about an epidemic, maybe because of the father. Then, in Koćmierzów,
-
-the Jewish *arendar*, having taken the peasant’s horse and three sacks of malt, took
-
-us to Samborzec. And all three of us, with the Koćmierzów *arendar* as fourth, sat
-
-on top of the sacks. No Catholic was with us. And the Jew from Koćmierzów,
-
-having taken us to Samborzec, delivered the malt to a mill, and then took us to
-
-Gorzycany to the Jewish *arendar* [there], and left.
-
-And we stayed in Gorzycany for four hours, and my brother-in-law and I ate
-
-[something] there, but by father was fasting. Then, we sat in a storeroom [with
-
-doors left] ajar, and father slept a little; from there we were supposed to go to
-
-Klimontów but the priest, having arrived with two men and opened the storeroom,
-
-took us saying: we are going to Sandomierz, and having tied us [14v] with one
-
-rope, they led us to Sandomierz and took us to the [Castle.As](http://Castle.As) for the child, that he was supposedly killed, or that my father or brother-in-law
+As for the child, that he was supposedly killed, or that my father or brother-in-law
 
 or some other Jew supposedly killed the child, or that Jews have ever killed a
 
