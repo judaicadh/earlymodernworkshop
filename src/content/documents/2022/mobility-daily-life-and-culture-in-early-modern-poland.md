@@ -158,53 +158,9 @@ Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium quodv
 
 Itaque primo ++Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae Collegiatae Beatissimae Virginis++ MARIAE Sandomiriensi hanc spontaneam libere Officium praesens accedens fecit Relationem. ++Dnia dzisieyszego naprzod słyszałem to od Jegomości Pana Sędziego Grodu++ tuteyszego ktory tu ziechał na słuchanie Inquizycyi Dekretu Trybunalskiego ze Żydzi Sandomierscy gdy jogomośc szedł do Kościoła Swiętey Maryi Magdaleny biegnąc naprzód Jegomości minęli a potym znowu się wróciwszy ++skarżyli się na Mieszczanów Sandomierskich że oni im do Bużnice trupa podrzucili y sprawiedliwości z tych mieszczan prosili++, ktorym gdy Jegomośc Pan Sędzia odpowiedział, że ta spawa ieżeli to prywatny Mieszczanin uczynił należy naprzód do Sądu Mieyskiego a ieżeli potrzeba będzie to y ia sądzić ią będę z tym czasem wszedł do Kościoła oni też Żydzi odeszli. Co słysząc Gospodyni Dworku Jegomości Pana Sędziego z daleka idąc też do Kościoła chcąc się dowiedzieć co się to stało poszła tam y potym powrociwszy ++w wielkim podziwieniem weszła do Jego mosci++ [20r] ++Pana Sędziego y powiedziała że to Żydom niepodrzucono Trupa, ale oni sami Dziecię iako tam są znaki zarżnęli++. A z tąd gdy się to zaraz rozniosło y doszło wiadomości Jegomości Xiędza Officiała Sandomierskiego, oraz y Plebana Miasta tegosz ponieważ Mieszczanie Sandomirscy obaczywszy tego Trupa y rany na nim naprzód do Jegomości Pana Sędziego to donieśli, a potym z tamtąd do Jegomości Xiędza Officiała iako Pasterza Mieysca tuteyszego Miasta odesłani należytą oczynili o tym trupie Relacyą y iako Żydzi z Domu tego to iey Rabin z Zięciem y synem uciekli. Jegomośc Xiądz Officiał zaraz mnie destinował do Jędryszkowic [Andruszkowice] y Złoty prosząc o Sukkurs aby z Ludzmi po krzewinach (iako o tym echo było) szukać zbiegłych winowayców, a tym czasem Pan Borkowicz Mieszczanin Sandomierski także od Miasta posłany na szukanie przybiegł do mnie do Złoty powiedaiąc. Że ia w Koćmierzowie szukałem tych Zydów y napadłem iako Arendarz Koćmierzowski do [20v]pioro stanął z Wozem a gdym się go pytał z kądesz przyiechał on odpowiedział że słód do Zaiezierza woziłem ale potym gdym go barziey examinował o Żydów Sandomierskich odpowiedział że ich odwiózł do Samborca. Tak tedy tego wysłuchawszy zaraz ia y z tymże Panem Borkowiczempoiechaliśmy do Samborca y przyiechawszy na Arendę pytaliśmy się ieżeli tu Arendarz Koćmierzowski był y z innemi Żydami odpowiedział, że był, y przywiózł słod do młyna innych Zydów niewidziałem. A tam ich nieznalazłszy prawie dictante spiritu sancto udaliśmy sie ku Klimontowu y przyiechaliśmy do Gorzycan: w tym napotkaliśmy chłopa z Gorzycan mąkę niosącego ze młyna, y pytaliśmy tego chłopa ieżeli tedy nie przeiechali Żydzi ieden stary a dwuch młodszych ten człowiek gdy nam odpowiedział ze niewidziałem żeby iechali ale tam w Browarze są tacy o iakich się Waszmośc ptyacie tak tedy my zaraz prosto iechaliśmy do Browaru, a było iuż po południu, y zastaliśmy na Podworzu Wóz do iazdy gotowy, a tym czasem prze wozie Pana Borkowicza zostawiwszy sam wszedłem do Izby a potym to komnaty [21r] kazałem otworzyć y zastałem wszytkich tych trzech Żydów ktorzy się iuż gotowali wyiechać, a gdym im powiadał co oni zrobili nic nato niemowili, y tak niebawiąc wzięliśmy ich ktorzy a osobliwie zięc y o Syn bez czapek y sukni zwierzchnich byli tylko w Jamułkach powiedaiąc żeśmy tak z Sandomierz wyszli. Wziąwszy ich przyiechaliśmy do Dworu do Samborca dla Opatrzenia ich y należytego doprowadzenia: ++aż Pani Podstarościna powiadała że Żyd Koćmierzowski wiozł tych Żydow ale dwóch w Worach a Mały na wierzchy siedział++ tylko y tak w Samborzu ich związawszy tyśmy ich do Grodu przyprowadzili. Słyszałem y to od Jegomości Pana Sędziego, że przed Jegomością powiedał Pan Podstarości Koćmierzowski, iż kiedy ci Żydzi Sandomirscy przyszli do Koćmierzowa szwargotać poczęli, żydówka ++Koćmierzowska za łeb się uchwycila y rzekła nie chcę ia o tym wiedzieć poydę z tąd.++
 
-Secundo Nobilis Nicolaus Kaliszanski Administrator Bonorum Koćmierzów
+Secundo Nobilis Nicolaus Kaliszanski Administrator Bonorum Koćmierzów spontanee recognovit. Ja dziś byłem w polu aż przed południem przyiechali do mnie Pan Zrazewski podstarości z Smiechowic y innemi [21v] powiedaiąc co się stało w Sandomierzu, y pytaiąc się o Arendarza Koćmierzowskiego oraz go u mnie aresztuiąc, że on tych Żydów obwinionych uwiosł: a w tym gdy odiechali pytać się o nich iam postrzegł gdy Arendarz Koćmierzowski nazad powracał z próżnym wozem. Ja go zawoławszy mowiłem do niego ześ tu u mnie aresztowany. A toś Rabina Sandomierskiego y z Zięciem y Synem wywiozł, a Oni dziecię zarżnęli, gdzieś ich zawiósl, odpowiedział iam słod woził do młyna do Samborca, bom się bał na Wisłe wisć żeby mi koni niezabrali, ale iuz to co prawda, ze ia tych Żydow odwiozł do Samborca, a z tamtąd poszli do Gorzyczan. Nie wiem co się taw Sandomierzu stało tylko u nas zwyczay iest że kiedy Rabin przyidzie albo też kto ubogi to go trzeba odwieśc: a potym ia kartkę napisałem do Pana Podstarościego Gorzycańskieg aby ich tam przytrzymać: ale też Jegomości Xiądz Koszycki tym czasem ich tam wyspiegował. Ito słyszałem od czeladzi browarney że kiedy ci Zydzi z Sandomierza ++przyszli y poczęli gadać po Żydowsku Żydówka stara uchwyciła się za głowę++ [22r] ++y narzekać poczęła.++
 
-spontanee recognovit. Ja dziś byłem w polu aż przed południem przyiechali do
-
-mnie Pan Zrazewski podstarości z Smiechowic y innemi [21v] powiedaiąc co się
-
-stało w Sandomierzu, y pytaiąc się o Arendarza Koćmierzowskiego oraz go u mnie
-
-aresztuiąc, że on tych Żydów obwinionych uwiosł: a w tym gdy odiechali pytać
-
-się o nich iam postrzegł gdy Arendarz Koćmierzowski nazad powracał z próżnym
-
-wozem. Ja go zawoławszy mowiłem do niego ześ tu u mnie aresztowany. A toś
-
-Rabina Sandomierskiego y z Zięciem y Synem wywiozł, a Oni dziecię zarżnęli,
-
-gdzieś ich zawiósl, odpowiedział iam słod woził do młyna do Samborca, bom
-
-się bał na Wisłe wisć żeby mi koni niezabrali, ale iuz to co prawda, ze ia tych
-
-Żydow odwiozł do Samborca, a z tamtąd poszli do Gorzyczan. Nie wiem co się taw Sandomierzu stało tylko u nas zwyczay iest że kiedy Rabin przyidzie albo też
-
-kto ubogi to go trzeba odwieśc: a potym ia kartkę napisałem do Pana
-
-Podstarościego Gorzycańskieg aby ich tam przytrzymać: ale też Jegomości Xiądz
-
-Koszycki tym czasem ich tam wyspiegował. Ito słyszałem od czeladzi browarney
-
-że kiedy ci Zydzi z Sandomierza przyszli y poczęli gadać po Żydowsku Żydówka
-
-stara uchwyciła się za głowę [22r] y narzekać poczęła.
-
-Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere. Jam robił w
-
-Koćmierzowie Piwo y widziałem tych Żydów kiedy byli w Browarze, y kręcili
-
-się y pytałem się chłopca małego z kądeście wy powiedział my nie z Miasta a
-
-potym Arendarz zgotował woz y kazał nam włożyć dwa worki słodu, a oni
-
-przedtym Ci Zydzi iuż byli wyszli w Pole, a potym gdy Arendarz powrócił
-
-mowiliśmy mu koło tego a on odpowiedział: Moia nieszczęśliwośc żem tych
-
-Żydów dogoniwszy wziął na Woz y odwiozłem ich do Samborca a potym poszli do
-
-Gorzycan.
+Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere. Jam robił w Koćmierzowie Piwo y widziałem tych Żydów kiedy byli w Browarze, y kręcili się y pytałem się chłopca małego z kądeście wy ++powiedział my nie z Miasta++ a potym Arendarz zgotował woz y kazał nam włożyć dwa worki słodu, a oni przedtym Ci Zydzi iuż byli wyszli w Pole, a potym gdy Arendarz powrócił mowiliśmy mu koło tego a on odpowiedział: ++Moia nieszczęśliwośc żem tych Żydów dogoniwszy wziął na Woz y odwiozłem ich do Samborca a potym poszli do Gorzycan.++
 
 Quarto Famata Augustynowiczowa similiter spontanee ad Officium praesens
 
