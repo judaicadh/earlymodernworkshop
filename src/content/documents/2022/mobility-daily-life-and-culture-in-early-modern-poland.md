@@ -128,6 +128,752 @@ From Samborzec we took all three Jews to Sandomierz and her we delivered them to
 
 ACTUM in CASTRO SANDO[26v]MIRIENSI FERIA SECUNDA POST FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO DECIMO [In Sandomierz Castle, Monday after the feast of the Assumption of the Glorious Mary the Virgin, 1710=August 18th, 1710]
 
+## Source 1 Original Text
+
+Archiwum Kapituły Kolegiackiej i Katedralnej w Sandomierzu (AKKiKS, Poland) 740
+
+18 Aug. Praesentatio Corporis in Castro Sandom. cum Confessatis Rabini et Generi ac Filii eius. Item Scrutinia ibidem educta per testes feria secunda post Assumptionis BMV .
+
+[12r] Hicque in continenti suprascriptus instigator Civitatis praesentis Sandomiriensis statuit Officio praesenti inculpates Jacobum Herc, Rabinum Sandomiriensem Parentem Jacobum Schario Generum et Abrahamum Jakubowicz eiusdem Rabini filium Annorum tredecem post patratum praefatum scelestum facinus die hodierna de mane ex civitate et domo sua aufugos primoque ad Bona Kocmierzow rursus ad Villam Samborzec, ac tandem ac Villam Gorzycany Magnificorum Capitaneum Lukoviensium divertentes et Ope inferius specificata ac modo indolito et impracticato, propter difficilem investigationem divertentes et devectos in eisdemque Bonis Gorzycany in Camera apud Infidelem Arendatorem Gorzycznensem occlusa deprehensos et ad Castrum praesens fune ligatos deductos. Petens ab eisdem Inclupatis libera confessata excipi. Cuius affectation tum et disposition legis publicae Officium praesens annuendo ab eisdem inculpatis adscito sibi suprascripto spectabili Joanne Mente consule sandomiriense, uti germanicam linguam bene callente (siquidem se polonicam linguam [12v] ignorare allegarunt iidem inculpate) propter interpretationem Officio praesenti faciendam eadem Confessata quemlibet statutorum seorsive examinando suscepit.
+
+Qui quidem statute in liberis confassatis haec formalia recognoverunt. ++Et quidem primo infidelibs Abraham puer annorum tredecem.++
+
+Ja Abraham Jakubowicz Niewiernego Jakuba Herca Rabina Sandomirskiego y
+
+Getty Matki Syn urodziłem się w Paczanowie gdzie na ten czas Ociec moy
+
+Rabinem tamże bywszy y z Matką mieszkali. Ociec moy y Matka nie wiem z
+
+iakiey przyczyny tylko podobno że tu miasto sławnieysze, przed kilka lat
+
+sprowadzili się do Sandomierza, y tu do tych czas mieszkali. Z tego żyiąc ze
+
+Rabinem był y też co miał pieniędzy swoich na Osm tysięcy na lichwę daiąc, ktore
+
+tu stracił y ledwo go stać iuz na dwa tysiąca. Moy Ociec tu Rabinem bywszy
+
+sprawy te ktore więcey na pięćdziesiąt złotych niewynosiły tu sądził bez żadnego
+
+do wyższego sądu odwołania się gdy o więcey szło do Opatowa z sprawami
+
+ieździli, a on się tu zostawał, y na żadne ziazdy Żydowskie nie ieździł, y innego
+
+urzędu nie miał, ani do rznięcia Bydląt, albo kur gęsi nie należal bo od tego
+
+Szkolnik iest [13r] ani u niego nierznięto nigdy nic do ziedzenia bo on nad Xięgą
+
+tylko siedział a kiedy co chciał iesc to do szkolnika posłał, y w tey chałupie w
+
+ktorey od pułroku mieszkamy iako y w pierwszey niewidziałem żeby co do
+
+ziedzenia rznięto, bo się to u Rabina niegodzi y nie widziałem żeby tam kiedy y w
+
+kiedymkolwiek mieyscu krew była, chybaby to tam Rzeżnik uciekaiąc przed
+
+żołnierzami albo z inney przyczyny mógł zrobić, ale ia o tym niesłyszał y niewiem,
+
+tylko to pamiętam że Niedziel temu pięc albo sześc iako u nas na tyle zarznięto
+
+dwie kur dla ziedzenia: ale to nie w sieni robiono: Zachowuie się też to u nas że
+
+stoły, ławy, okna na Wielką Noc w Izbach pięknie chędorzą, y myią żeby makuły
+
+żadney nie było, iako y my w tym Domu mieszkaiąc iuż na Wielką noc czyniliśmy
+
+ale w sieniach tego Ochędostwa mniey uważaią. Ociec Moy niegdzie temi czasy
+
+od Roku prawie niewyieżdzał y Żydzi żadni obcy y niego temi czasy niebyli, anim
+
+widział żeby się na co zmawiali. Ociec Moy y Matka Katolików na posłudze
+
+niechowaią, tylko iedna Dziewka iest co nosi dwa razy Wodę na dzień dla
+
+gotowania ale ta niemieszka u Oyca Mego. Bywaią tez y bywały Białegłowy po
+
+Proźbie y dawali im [13v] Chleba ociec z Matką, ale ia żadnego bywaiącego tam
+
+niewidziałem chłopca, y dziś tego umarłego niewidziałem: tylko tak się stało.
+
+Niemyślelismy o żadnym uciekaniu, az z rana Żydowska wdowa co u Berka Żyda
+
+Sandomierskiego mieszka ktory teraz iest w Gdańsku a ta pilnowała siostry moiey
+
+w połogu leżącey wyszła na tył y obaczyła tego umarłęgo y dała znać Oycu,
+
+Szwagrowi y Matce ieszcze śpiącym, ktorzy poporywawszy się niechodzili tampatrzyć co to iest, ale zląkszy się rozumieiąc, że kto zapowietrzonego trupa wrzucił
+
+w Bożnicy schadzkę uczynili Ociec z Szwagrem moim y ze mną Matkę
+
+zostawiwszky, nic z sobą niewziąwszy, y szeląga iednego (ktorey odchodząc niekt
+
+z Matką niegadał, a szwagrowi też niegodziło się z Żoną gadać: piechotą Furtką co
+
+niedaleko Żydowskiegy Ulicy iest nikogo niepotkawszy wyszliśmy gdysz tez to
+
+iescze ludzie spali. Niewzięliśmy iakom powiedział nic z sobą. Niewiem o fantach
+
+gdzie ich Ociec chował, bo ia nad Xiąszką siedziałem, y niewiem czli tu Matka co
+
+pochowała bośmy się z nią wszyscy niewidzieli, potym iakośmy wyszli. Szliśmy
+
+tędy niewstępuiąc nigdzie za Wisełkę do Koćmierzowa (która wioska iest
+
+Wielmożnych Państwa Lukowskich) przebrnąwszy przez Wisełkę [14r] a pod
+
+Miastem do Browaru Zamkowego niewstempowaliśmy, y niewidzieliśmy się z
+
+nikim z tegoż Browaru iako też y na drodze a ześmy przyszli do Koćmierzowa, do
+
+Arendarza tamecznego Żyda, y tam bawiliśmy nie więcey nad godzinę. A lubośmy
+
+dla niebespieczeństwa powietrza z miasta wyszli. Czemu z Koćmierzowa gdzie
+
+niesłychać nic o Powietrzu tak nagle ruszylismy się ia niewiem chyba Ociec. Tam
+
+tedy w Koćmierzowie Żyd Arendarz wziąwszy chłopskich koni y trzy wory słodu
+
+powiósł nas do Samborca, a my wszyscy trzech y czwarty Arendarz
+
+Koćmierzowski siedzieliśmy na worach na wierzchu, a Katolika żadnego niebyło z
+
+nami, a tam do Młyna w Samborcu Żyd ten Koćmierzowski nas przywiozszly
+
+złożył słod w młynie, a nas znowu odwiosł do Gorzycan do Arendarza Żyda, a sam
+
+nazad odiechał: tam w Gorzycanach bylismy ze cztery godziny, y tam ia z
+
+Szwagrem iedlismy, bo Ociec by postem a potym w Komorze przywartey
+
+siedzieliśmy a Ociec troche spał, gdyż ztamtąd mielismy iechać do Klimontowa, a
+
+tym czasem Xiądz z dwiema ludzmi nadiechawszy otworzywszy komorę wzięli
+
+nas mowiąc: podzcie do Sandomierza, y tak w iednym powrozem
+
+zwią[14v]zawszy nas razem prowadzili nas do Sandomierza y to do Grodu stawili.
+
+Żeby zas to Dziecię miało być zabite, albo żeby moy Ociec lub Szwagier ie zabili
+
+albo kto inny z Żydów albo żeby Kiedykolwiek Żydzi Chrześciańskie dziecię bili,
+
+y zarzynali, tego niewiem y niesłyszałem, et praeter haec plura se nescire allegavit.
+
+Post cuius quidem Infidelis Abraham Confessatorum depositionem rursus officium
+
+ad examen liberae confessionis infidelis Jacobi Scharis Infidelis Rabin Generi
+
+condescendit: Qui haec sequentia recognovit verba:Ja Jakub Schario Ociec Moy Rabin y Matka ktorzy do tych czas zyią mieszkaią w
+
+Ołyce cztery albo pięc mil od Łucka urodziłem się tamże w Ołyce y mieszkałem
+
+przy Oycu y lat temu dopiero trzy iakom się ożenił z córką tego Rabina
+
+Sandomierskiego a podczas powietrza w Sandomierzu znowu poiechałem był do
+
+Oyca sam tylko, a iak ustali powietrze w Sandomierzu powróciłem do Żony rok
+
+temu, y tu razem w Sandomierzu mieszkałem z Oycem Żony moiey. Ja się tu
+
+Handlem żadnym nie bawię, bo podług kontraktu Ociec żony moiey powinien mi
+
+dać ieść y pić y suknią sprawić y ieszcze trzy lata do wyścia takiego kontraktu. A
+
+ia przez te czasy na Rabienstwo się gotuiąc Nauki [15r] y Księgi Pilnowałem.
+
+Przez te czasy iakom był w Ołyce y tu iestem w Sandomierzu niesłyszałem, anim
+
+tego nigdzie nieczytał aby my Zydzi mieli zabiiac chrześciańskie Dzieci, a co się tu
+
+w Sandomierzu przed lat kilkunastu stało, ia o tym w Ołyce niesłyszałem bo mnie
+
+dopiero lat siedmnaście a Sandomierzu słyszałem ze to iuż kilkanaście lat temu,
+
+toc na ten czas musiałem być małym y czyli to prawda niewiem.
+
+Ociec Żony moiey żył y nas żywił z tego iedno co Starsi iemu na tydzień płacili,
+
+druga że na lichwę dawał bo się mu niegodzi innego Handlu prowadzić. Do niego
+
+też należy sądzić a y od sądu intrata iakakolwiek idzie. Do żadnego procz tego
+
+nienależy urzędu, ani się mu godzi Bydlęcia, kur gęsi rznąc ale iezeli chce ieśc to
+
+trzeba posłać do Szkolnika y on biie, żeby zas u nas rznieto w domu iakie kury
+
+przed kilku niedziel tego cale niepamiętam y niewiem coby tego miała bydz za
+
+potrzeba. Krwi żadney w tym mieszkaniu gdzie teraz mieszkamy a przedtym tam
+
+od lat kilkudziesiąt Mosiek lichwiarz mieszkał, nigdzie niewidziałem y
+
+nieupatrywałem tego nie wiem iezeli tam gdzie iaka iest. A ie [15v]żeliby miała
+
+bydz to chybaby trefunkiem stało się że od Szkolnika niosąc co zabitego mogł kto
+
+pokapać. U nas iest wolno y na ochędowstwie należy na wielką noc umywać lub
+
+same Izbę lub też y sienie mysmy Izbę myli, a w sieniach niewidzieliśmy żeby
+
+miała bydz krew lub nieuważyliśmy. Tenże Ociec Żony moiey nigdzie z
+
+Sandomierza niewyieższa, tylo tu zawsze mieszka, y teraz nieieździł nigdzie anim
+
+tez widział żeby kto z Obcych Żydów był u niego, bo choc gość przyiedzie to do
+
+Starszych iści powinien a Rabin do niczego y nienależy, ani Sandomierscy Żydzi
+
+aby także na iaką u niego Radę byli niewidziałem. Ludzi Katolickich u siebie nie
+
+trzymamy, tylko iedna Dziewka co wodę nosi to tey płacimy ale on a na mieście
+
+mieszka. Ubogie Dzieci żadne u nas nie posługiwały, ani posługują, anim tego
+
+Dziecięcia ktore zabitym bydz powiedaią widział tak Żywego iak umarłego yniewiem co się temu Dziecięciu stało tylko dziś z rana Białagłowa ktora przy zonie
+
+moiey w połogu leżacey iest wyszła z rana na zatyłek y uyrzawszy trupa obudziła
+
+naprzód oyca potym Brata [16r] żony moiey y ci boiąc się powietrza nic z sobą
+
+niebiorąc zaraz poszli z miasta. Mnie także na Ostatku obudzili ia widząc ze iuz
+
+Oyca y Brata tego małego niemasz poszedłem do Bużnice patrzyć ich, tam żem ich
+
+nie zastał, niewiedząc gdzie się obrocili, a pamiętaiąc żem był raz w Wielowsi na
+
+Rękowinach pobiegłem niegadawszy z Żoną fortką co niedalego Żydowskiey
+
+ulicy, y nigdzie nie wstępuiąc y z nikim się nie widząc biegłem ku Wielowsi, aż za
+
+Wisełką dogoniłem Oyca y z Bratem Żony moiey y poszlimy wszyscy do
+
+Arendarza Koćmierzowskiego, tam niedługo bawiąc tenże Arendarz obawiaiąc się
+
+zapowietrzenia sam Osobą swoią wziąwszy słodu worów cztery albo pięc zawiósł
+
+nas y słod do młyna Samborzeckiego. A my wszyscy trzech na tych worach na
+
+wierzchu siedzieli, y tam słod w młynie złożywszy niewidziawszy się z
+
+Arendarzem Samborzeckim tenże Arendarz Kocmierzowski zawiósł nas do
+
+Gorzycan, y tam spoczywaliśmy w Komorze u Arendarza Gorzycanskiego y nie
+
+zamykaliśmy si tamesmy my to iest ia z Oycem nic nie iedli bo był post na Nas
+
+tylko mały iadł chłopiec y z tamtąd iuż z tychze Gorzycan [16v] mieliśmy woz (ale
+
+niewiem kto się tam on starał bo my niewychodzili z komory z komory [sic] toc
+
+musiał się Arendarze tameczny Gorzycanski postarać) iachać do Klimontowa, a w
+
+tym kiedyśmy my wszyscy trzech z sobą gadali, y niespał żaden z nas, przyiechał
+
+Xiądz y z miasta Pan Borkowicz Mieszczanin, y z drugim y nas wzięli powiedaiąc,
+
+Otoście Dziecię zabili y uciekliście, y związawszy iednym powrozem nas
+
+wszystkich tu naprzód do Miasta , a potym do Grodu przyprowadzili. Et praeter
+
+haec plura non recognouit.
+
+Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab
+
+ipsomet Infideli Herc Rabino excepit: idque in hunc verborum illius sensum et
+
+tenorem.
+
+Ja Jakub Herc rodem z Morawy Oyca Samuela y Matki Getle syn a potym podczas
+
+Wideńskiey dla trwog, przenioslem się do Sląska, y z Zoną tą ktorą do tych czas
+
+mam imieniem Geta. Tu do Polskiey lat szesnaście iakom przyiechał, y naprzód w
+
+Paczanowie byłem Rabinem lat Sześci albo siedm a potym od lat dziesięciu tu do
+
+Sandomierza przyprowadziłem się y byłem do tych czas także Rabinem,
+
+prze[17r]niozszy się z mnieyszego miasteczka do Większego y sławnieyszegomiasta. Juzmi to pięćdziesiąt lat dochodzi, nigdziem tego niesłyszał, ani czytał, aby
+
+nam potrzeba było krwi Chrześciańskiey albo dzieci zarzynać, a ieżeli się kiedy to
+
+stanie, na nas wkładają, to to tylko potwarz, a iam tu w Sandomierzu ieszcze na ten
+
+czas niebył kiedy z Aleksandrem była sprawa, tylko słyszałem o tym, ale to także
+
+potwarz była. Ja jako Rabin tylko się tym bawię że sądzic powinienem y uważyć
+
+czy co kosiorne albo trefne lub nie, ale samemu mnie rznąc bydlęcia ani kury gęsi
+
+etc niegodzi się, y ieżeli ieść trzeba to do Szkolnika poseła się. U nas godzi się byle
+
+nie w Izbie zarznąć kapłona Gęś et y mnie trafiało się że szkolnik zarzynał, y iuż
+
+mieszkaiąc w tum Domu trafiało się to osobliwie teraz iako mi córka zległa to
+
+kilka kaczek w domu Szkolnik y na ten przeszły sabat zarżnął alem ia tego nie
+
+uważał ieżeli gdzie w tym moim domu krew była, y iezeli iest to to chyba z tego,
+
+że szkolnik zarżnąwszy kurę to nią ciśnie y w ten czas krew wypryska ani też u nas
+
+potrzeba tego żeby ściany chędożyć, y obmywać na sabat chyba na Wielką noc. Ja
+
+na żadne ziazdy [17v] Żydowskie nie ieżdzę bo do tego nienależę, ani też tu
+
+żadnego znoszenia się z Żydami niemam bo moia rzecz nad Xięgą siedzic a onym
+
+tam radzić koło siebie. Żydzi Sandomierscy, iako to Szmul y Jelen ieszcze dotych
+
+czas w Rakowie bawią się na Seymie, przyiechał ieden z nich słyszałem Liczman
+
+na Szabat doyrzeć sobie iako to Arendarz ale nie wiem czyli znowu odiechał czyli
+
+nie.
+
+Niemiałem żadney zmowy z nikim, anim o tym myślał, żeby Dziecię iakie
+
+Chrześciańskie zabić; bo się to niegodzi tylko na Nas Żydów z Nienawiści taka
+
+potwarz kładą. Ludzi Chrześciańskich na posłudze niechowam tylko iedna
+
+Dziewka co wodę nosi, ale ta na mieście mieszka, a co wody przyniesie to iey
+
+zapłacę. Żadne dzieci u mnie niebywały Chrześciańskie, y tego, co zabitego bydz
+
+powiadaią iako żywego tak umarłego niewidziałem, ale wczora ni oczym
+
+niewiedząc poszliśmy spać, aż dziś rano iam ieszcze spał kiedy Żona niewiem od
+
+kogo się dowiedziawszy przyszła do mnie y obudzila mnie mowiąc, że u nas na
+
+tyle trup leży, iam się porwał z strachu rozumieiąc że to zapowietrzonego kto
+
+podrzucił w com mógl na prętce ubrawszy się nic z sobą niewziąwszy, y z Żoną nic
+
+nie rozmawiawszy [18r] się kiedy Żona innych budzić poczęla uszedłem zaraz z
+
+miasta, y biegłem nigdzie niewstępuiąc, z nikiem nierozmawiaiąc, tylko syna tego
+
+co tu iest za mną z sobą wziąwszy do Koćmierzowa. Fanty zaś ludzkie y moie
+
+rzeczy niewiem iak się obrociły, y obracaią, bo ia nie wiem gdzi tam żona te rzeczy
+
+chowała, gdysz ia tylko Regestr pisał ale ona o schowaniu wiedziała: tam mnie y zsynem idąego Zięc za Wisełką ku Koćmierzowi dogonił, y wszyscy szliśmy do
+
+Koćmierzowa, aż przyszliśmy do Arendarza Żyda Koćmierzowskiego. Tam że się
+
+trafiło, iż ten Arendarz iechał do Młyna Samborzeckiego, iam go prosił aby mnie
+
+wziął y z temi drugiemi daley ku Klimontowu bom po to umyślnie wyboczył do
+
+Koćmierzowa żebym miał furę do tegosz Klimontowa y tam wsiedliśmy na ten
+
+Woz na ktorym trzy albo cztery wory słodu było, y iawnośmy siedzieli na wozie,
+
+nie kryiąc się a potym ten Arendarz składał do Młyna Słod y odmawiał nam daley
+
+na wiśc y iuż my piechotą poszli az potym złożywszy słod użałował się nas y
+
+dogonił na wozie my też powsiadali y Zawiósl nas do Arendarza Żyda do
+
+Gorzycan tam niedługo bawiliśmy się y prosiłem żeby ten że Aren[18v]darz
+
+Gorzycanski postarał się nam o powóz do Klimontowa. Jam postem był y nic nie
+
+iadłem. Zięć moy y z synem coś tam iedli, a aim troche usnął. A potym roznie się
+
+po izbie y po komorze przechodząc, tenże zięc moy y z synem przyszli do komory,
+
+y iuż mieliśmy niedługo iechać: Az też Xiądz y z dwiema Mieszczan z
+
+Sandomierza przyiechawszy przez Izbę przysli do komory ktora była nie
+
+zamknięta y zaraz nas pobrali powiedaiąc Żeście wy Nasze Dziecię Chrześciańskie
+
+zabili, y związawszy nas wszystkich trzech postronkiem iednym za ręce wiedli nas
+
+do Sandomierza do Miasta y tu nas przyprowadzili do Grodu. Et praeter haec plura
+
+non recognovit.
+
+Post connotationem itaque praemissorum liberorum confessatorum suprascriptus
+
+Praesentans et statuens instigator Ciuitatis huius Sandomiriensis eosdem
+
+Inculpatos taliter examinatos rursus ad se recepit et de receptis Officium praesens
+
+quietauit:
+
+Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium
+
+quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum.
+
+Et hic subinde post determinationem et connotationem liberorum confessatorum
+
+dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis
+
+Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant,
+
+ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis
+
+circumstantias facti ante et post patratum nefas observantibus et considerantibus
+
+atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis
+
+officium presens annuendo ab infrascriptis personis fide dignis Relationes et
+
+testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo adhuc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
+
+videatur) fide tamen dignas et personarum authoritate firmatas propter majorem
+
+Judicii informationem habendam ad Acta sua suscepit et easdem verba
+
+recognoscentium formalia infrascripta connotauit.
+
+Itaque primo Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae
+
+Collegiatae Beatissimae Virginis MARIAE Sandomiriensi hanc spontaneam libere
+
+Officium praesens accedens fecit Relationem. Dnia dzisieyszego naprzod
+
+słyszałem to od Jegomości Pana Sędziego Grodu tuteyszego ktory tu ziechał na
+
+słuchanie Inquizycyi Dekretu Trybunalskiego ze Żydzi Sandomierscy gdy
+
+jogomośc szedł do Kościoła Swiętey Maryi Magdaleny biegnąc naprzód
+
+Jegomości minęli a potym znowu się wróciwszy skarżyli się na Mieszczanów
+
+Sandomierskich że oni im do Bużnice trupa podrzucili y sprawiedliwości z tych
+
+mieszczan prosili, ktorym gdy Jegomośc Pan Sędzia odpowiedział, że ta spawa
+
+ieżeli to prywatny Mieszczanin uczynił należy naprzód do Sądu Mieyskiego a
+
+ieżeli potrzeba będzie to y ia sądzić ią będę z tym czasem wszedł do Kościoła oni
+
+też Żydzi odeszli. Co słysząc Gospodyni Dworku Jegomości Pana Sędziego z
+
+daleka idąc też do Kościoła chcąc się dowiedzieć co się to stało poszła tam y
+
+potym powrociwszy w wielkim podziwieniem weszła do Jego mosci [20r] Pana
+
+Sędziego y powiedziała że to Żydom niepodrzucono Trupa, ale oni sami Dziecię
+
+iako tam są znaki zarżnęli. A z tąd gdy się to zaraz rozniosło y doszło wiadomości
+
+Jegomości Xiędza Officiała Sandomierskiego, oraz y Plebana Miasta tegosz
+
+ponieważ Mieszczanie Sandomirscy obaczywszy tego Trupa y rany na nim
+
+naprzód do Jegomości Pana Sędziego to donieśli, a potym z tamtąd do Jegomości
+
+Xiędza Officiała iako Pasterza Mieysca tuteyszego Miasta odesłani należytą
+
+oczynili o tym trupie Relacyą y iako Żydzi z Domu tego to iey Rabin z Zięciem y
+
+synem uciekli. Jegomośc Xiądz Officiał zaraz mnie destinował do Jędryszkowic
+
+[Andruszkowice] y Złoty prosząc o Sukkurs aby z Ludzmi po krzewinach (iako o
+
+tym echo było) szukać zbiegłych winowayców, a tym czasem Pan Borkowicz
+
+Mieszczanin Sandomierski także od Miasta posłany na szukanie przybiegł do mnie
+
+do Złoty powiedaiąc. Że ia w Koćmierzowie szukałem tych Zydów y napadłem
+
+iako Arendarz Koćmierzowski do [20v]pioro stanął z Wozem a gdym się go pytał z
+
+kądesz przyiechał on odpowiedział że słód do Zaiezierza woziłem ale potym gdym
+
+go barziey examinował o Żydów Sandomierskich odpowiedział że ich odwiózł do
+
+Samborca. Tak tedy tego wysłuchawszy zaraz ia y z tymże Panem Borkowiczempoiechaliśmy do Samborca y przyiechawszy na Arendę pytaliśmy się ieżeli tu
+
+Arendarz Koćmierzowski był y z innemi Żydami odpowiedział, że był, y
+
+przywiózł słod do młyna innych Zydów niewidziałem. A tam ich nieznalazłszy
+
+prawie dictante spiritu sancto udaliśmy sie ku Klimontowu y przyiechaliśmy do
+
+Gorzycan: w tym napotkaliśmy chłopa z Gorzycan mąkę niosącego ze młyna, y
+
+pytaliśmy tego chłopa ieżeli tedy nie przeiechali Żydzi ieden stary a dwuch
+
+młodszych ten człowiek gdy nam odpowiedział ze niewidziałem żeby iechali ale
+
+tam w Browarze są tacy o iakich się Waszmośc ptyacie tak tedy my zaraz prosto
+
+iechaliśmy do Browaru, a było iuż po południu, y zastaliśmy na Podworzu Wóz do
+
+iazdy gotowy, a tym czasem prze wozie Pana Borkowicza zostawiwszy sam
+
+wszedłem do Izby a potym to komnaty [21r] kazałem otworzyć y zastałem
+
+wszytkich tych trzech Żydów ktorzy się iuż gotowali wyiechać, a gdym im
+
+powiadał co oni zrobili nic nato niemowili, y tak niebawiąc wzięliśmy ich ktorzy a
+
+osobliwie zięc y o Syn bez czapek y sukni zwierzchnich byli tylko w Jamułkach
+
+powiedaiąc żeśmy tak z Sandomierz wyszli. Wziąwszy ich przyiechaliśmy do
+
+Dworu do Samborca dla Opatrzenia ich y należytego doprowadzenia: aż Pani
+
+Podstarościna powiadała że Żyd Koćmierzowski wiozł tych Żydow ale dwóch w
+
+Worach a Mały na wierzchy siedział tylko y tak w Samborzu ich związawszy
+
+tyśmy ich do Grodu przyprowadzili. Słyszałem y to od Jegomości Pana Sędziego,
+
+że przed Jegomością powiedał Pan Podstarości Koćmierzowski, iż kiedy ci Żydzi
+
+Sandomirscy przyszli do Koćmierzowa szwargotać poczęli, żydówka
+
+Koćmierzowska za łeb się uchwycila y rzekła nie chcę ia o tym wiedzieć poydę z
+
+tąd.
+
+Secundo Nobilis Nicolaus Kaliszanski Administrator Bonorum Koćmierzów
+
+spontanee recognovit. Ja dziś byłem w polu aż przed południem przyiechali do
+
+mnie Pan Zrazewski podstarości z Smiechowic y innemi [21v] powiedaiąc co się
+
+stało w Sandomierzu, y pytaiąc się o Arendarza Koćmierzowskiego oraz go u mnie
+
+aresztuiąc, że on tych Żydów obwinionych uwiosł: a w tym gdy odiechali pytać
+
+się o nich iam postrzegł gdy Arendarz Koćmierzowski nazad powracał z próżnym
+
+wozem. Ja go zawoławszy mowiłem do niego ześ tu u mnie aresztowany. A toś
+
+Rabina Sandomierskiego y z Zięciem y Synem wywiozł, a Oni dziecię zarżnęli,
+
+gdzieś ich zawiósl, odpowiedział iam słod woził do młyna do Samborca, bom
+
+się bał na Wisłe wisć żeby mi koni niezabrali, ale iuz to co prawda, ze ia tych
+
+Żydow odwiozł do Samborca, a z tamtąd poszli do Gorzyczan. Nie wiem co się taw Sandomierzu stało tylko u nas zwyczay iest że kiedy Rabin przyidzie albo też
+
+kto ubogi to go trzeba odwieśc: a potym ia kartkę napisałem do Pana
+
+Podstarościego Gorzycańskieg aby ich tam przytrzymać: ale też Jegomości Xiądz
+
+Koszycki tym czasem ich tam wyspiegował. Ito słyszałem od czeladzi browarney
+
+że kiedy ci Zydzi z Sandomierza przyszli y poczęli gadać po Żydowsku Żydówka
+
+stara uchwyciła się za głowę [22r] y narzekać poczęła.
+
+Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere. Jam robił w
+
+Koćmierzowie Piwo y widziałem tych Żydów kiedy byli w Browarze, y kręcili
+
+się y pytałem się chłopca małego z kądeście wy powiedział my nie z Miasta a
+
+potym Arendarz zgotował woz y kazał nam włożyć dwa worki słodu, a oni
+
+przedtym Ci Zydzi iuż byli wyszli w Pole, a potym gdy Arendarz powrócił
+
+mowiliśmy mu koło tego a on odpowiedział: Moia nieszczęśliwośc żem tych
+
+Żydów dogoniwszy wziął na Woz y odwiozłem ich do Samborca a potym poszli do
+
+Gorzycan.
+
+Quarto Famata Augustynowiczowa similiter spontanee ad Officium praesens
+
+veniens retulit. Iż ten nieboszczyk był sierota niewiem z kąd rodem po proźbie
+
+chodził. Jam z miłosierdzia przed kilkunastu niedzieł wzięłam go do siebie: a
+
+potym gdy się po mieście włóczył y trafiło się że go długo niebyło iak przyszedł
+
+łaiałam go że się tak włóczył y pytałam się gdzieby się tak bawiał odpowiedział
+
+żem między Żydami Trzaski zbierał, daley pytałam go ieżeli też tam Żydzi [22v]
+
+dali ci co odpowiedział że mi Żydowka dała chleba z masłem ale nie umiał
+
+powiedzieć ktora. Jam go napomniała aby niechodził do Żydów powiadaiąc y
+
+strasząc go ze tu też Żydzi dziewczynę zabili y dla tego niedziel temu dwie albo
+
+trzy zaleciłam go do szkoły Panny Maryi. Wczora tedy to iest w Niedzielę
+
+przyszłam z Kościoła y nie zastawszy tegoż chłopca pytałam się córki swoiey
+
+gdzie Jurek ale mi powiedziała iadł bez Pacierza; Jam mu rzekła na co to iesz bez
+
+Pacierza będzie Matusia bić iak przyidzie z Kościoła, y on poszedł gdzieś a kiedy
+
+iuż koło południa było a chłopca nie widać. Jam na tę swoię dziewczynę narzekać
+
+poczęła, po coś straszyła chłopca, podz go szukay: iakosz całe odwieczerze szukała
+
+go roznie po Gospodach gdzie bywał ale go nieznalazła, y rozumieliśmy że go
+
+żołnierze wzięli. Az dziś z rana przyszły do mnie mieszczki Pani Wronowiczowa y
+
+Wasilowska pytaiąc mnie o chłopca: Iam gdy odpowie[23r]działa, że go niemasz
+
+powiedzieli mi ono iest u Żydów zabity, y gdym z niemi poszła znaleźliśmy tegoszTrupa, y poznałam go u tegoż Rabina na tyle y zastałam ieszcze Rabina Żonę która
+
+się uwiiała zatrwożona powiedaiąc ze nam zapowietrzonego przez płot podrzucili,
+
+y pokłoł się po tarninie, a kamieniami znać na niego ciskali a potym ludzi więcey
+
+się naszło y obględowali każdy z nich mowiąc y widząc oczywiście że pokłote
+
+Dziecię to: a potym odeszłam y Dziecięcia y tey Zydowkiey y szlam do Pana
+
+Nowickiego skarżyć się na Żydów y opowiadać to ale mnie oni ubiegli y iuż
+
+skarżyli się na mnie iako to Wolf Liczman y Czapnik iakoby ia te zapowietrzone
+
+Dziecię przechowywała a potym ie podrzucić kazała a gdy mnie to strofować
+
+poczęli Pan Burmistrz y inni Ja y ci ludzie co za mną szli zaraz rzekli nie iesto to
+
+Powietrzem umarłe dziecię: ale ie Żydzi zabili y tak pytali mnie: Jeżeli ia tego
+
+Dziecięcia [23v] szukała y powiedziałam prawdę, iakosz na dokument posłali po
+
+córkę moię, ktora przy wszyskich powiedziała iako go po Gospodach wczora
+
+szukała, a potym co raz to więcey ludzi zbiegać się poczęło, iam też do domu
+
+odeszła.
+
+Quinto. Honestus Balsius Żmuda Civis Sandomieriensis retulit benevole. Iż ia
+
+robiłem Piwo w Browarze ktory iest na Żydowskiey Ulicy wedle Domu Żyda
+
+Czapnika i dziś rano przyszedłem doglądaiąc sobie do Piwa, alic Szkolnik biega po
+
+Domach kołacząc do Bużnice, a potym prętko obiegszy wrócił się y przebiegał
+
+podle Browaru biegnąc do Domu Czapnika. Ja widząc go zmieszanego, a do tego
+
+że Żydówki powychodziły y coś między sobą szwargotały, pytałem go co to tam
+
+między wami stało się, mniemaiąc że Żołnierze tam iacy przyiechali albo co
+
+zrobili, ale on tenże Szkolnik odpowiedział mi Nie wam potym ia do Starszego idę,
+
+y poszedł do Czapnika. Ja też za nim wszedszy widziałem że Żyd [24r] iakiś od
+
+Czapnika którego ia nieznam y niewiem czyli tuteyszy czyli nie, Stary iakiś
+
+Siwizna się weń rzuca ku niemu wyszedł z Izby y gadali w sieni po Żydowsku z
+
+sobą, co niewiem: a czapnika nie widziałem: pytałem się potym Szkolnika co to z
+
+tum Żydem gadał powiedział mi że to do Was nienależy a potym kiey iuż ludzie
+
+gruchnęli o tym zamordowaniu Dziecięcia znowu mówiłem temu przechodzącemu
+
+Szkolnikowi, pytałem cię, nicesmy nie powiedział. Na co on rzekł nie godzi sie u
+
+nas powiadać tylko do Starszych naypierwey odnieść trzeba.
+
+Sexto. Honestus Alexander Borkowicz Civis et Incola Sandomiriensis in haec
+
+formalia spontnee recognovit. Przyszedłem dziś z rana do Pana Burmistrza
+
+Oyczyma mego gdzie zastał Żydów Sandomierskich Wolfa Liczmana y Czapnika ySzkolnika . Cisz się skarżyli, że im ktoś Trupa zapowietrzonego podrzucił. Prosząc
+
+oraz żeby tego [24v] Trupa schować bo się ludzie będą bali, nic potym, coby długo
+
+leżal, ia to usłyszawszy y z drugimi mieszczanami poszliśmy tam obaczyć, a
+
+potym wróciwszy się zastawszy tych Żydow powiedziałem nie iest to prawda aby
+
+to Dziecię było umarle Powietrzem ale iest przez Żydów zarżnięte. Co Żydzi ci
+
+słysząc zaraz się zmieszali y potruchleli, że aż Wolf mienił sie co raz bladem, a co
+
+raz Czerwnym był : a potym gdy dano znać, że Żydzi uciekali. Jam na konia
+
+wsiadszy goniłem y zgoniłem zięcia Abusiowego ktory Skrzynkę z sobą niósł, y
+
+uciekał, y tam go do Sandomierza przyprowadził: a potym widziawszy iako Rabin
+
+z Zięciem y Synem u ktorych w Domu to dziecięcie zabite znalezione iest uciekli
+
+poszedłem do Arendarza od Zamkiem będącego y dla prętszego nabycia konia
+
+powiedziałem że Jegomośc Pan Burgrabia kazał abyś mi konia dał, y pytałem się
+
+go koło tych Żydów Rabina y jego Syna y Zięcia [25r] ten Arendarz wytchnął mi
+
+ich y powiedział Że tu u mnie był ten Rabin ale poszedł niedawno do
+
+Koćmierzowa. Więc ia zaraz do Koćmierzowa poiechałem, tam Piwowar wytchnął
+
+mi ich, że ku Samborcu mieli iść, a ze Żyd Arendarz Koćmierzowski poiechał do
+
+młyna. Więc może bydz że oni tam wsiedli albo ku Zaiezierzu poszli. Jam poiechał
+
+ku Zaiezierzu a w tym od Złotey doyrzałem z daleka że woz iedzie ku
+
+Koćmierzowu. Jam się do Woza obrócił, y począłem wołać Stoy, Stoy, a że tego
+
+niesłuchał zabiegłem drogę: a potym obaczywszy Żyda Arendarza
+
+Koćmierzowskiego spytałem go na domysł gdzieś Rabina y innych zawiósł, ktory
+
+troche się zmieszawszy odpowiedział, że do Samborca, którą wiadomość
+
+powziąwszy poiechałem ku Samborcu a dowiedziawszy się we Złotey o Jegomości
+
+Xiędzu Koszyckim opowie [25v]działem mu to y poiechaliśmy do Samborca y tam
+
+w Browarze pytaliśmy się o nich. Ale Arendarz powiedział że tu nie byli tylkom
+
+słyszał że Koćmierzowski Arendarz do Młyna tu przywiózł słód. My tedy
+
+wyrostka Jegomości Xiędza Officiala na inny trakt wyprawiwszy z Jegomością
+
+Xiędzem Koszyckim ja poiechaliśmy ku Gorzycanom, a tam chłopa napadliśmy
+
+który niósł mąkę z młyna Gorzycańskiego, tego chłopa pytaliśmy się o tych Żydów
+
+y powiedział, że są na Arendzie w Gorzycanach Żydów Nowych trzech ieden stary
+
+młodych dwuch niedawno przysli. O czym się dowiedziawszy prosto iechalismy
+
+do Gorzycan y wpadszy do komory u ktorey drzwi przywarte były zastaliśmy
+
+Rabina Zięcia y syna jego ktorzy iuż gotowali się daley iechac bo wóz iuż był po
+
+nich zaiechał. My ich poczęli brać a Żydek ten co po nich Zaiechał uciekł [26r] z
+
+wozem. Wziąwszy ich tedy w Gorzycanach wstąpiliśmy do Dwora w Samborcuabyśmy byli tych Więzniow dla zaprowadzenia bespiecznego opatrzyli, y tam
+
+postronka pożyczyliśmy gdzie Pani Podstarościna tameczna powiedała że
+
+Arendarz Samborzecki barzo szkalował jegomości xiędza koszyckiego, ale mówiła
+
+musi to bydz prawda że to zrobili Żydzi: kiedy ich tu w Worach do młyna
+
+Samborzeckiego przywieźli. Z tamtąd z Samborca tusmy ich do Sandomierza tych
+
+wszystkich trzech Żydów przywiedli, y potym tuśmy ich do Grodu dla zeznania
+
+dobrowolnych confessat stawili. Sicque et non aliter se vidisse et audivisse officio
+
+praesenti retulit. Quae praemissa relata Officium praesens Actis suis connotavit.
+
+ACTUM in CASTRO SANDO[26v]MIRIENSI FERIA SECUNDA POST
+
+FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS
+
+MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO
+
+DECIMO
+
 Footnotes
 
 [^1]: Ołyka is actually 38km from Łuck, so about 20 miles.
