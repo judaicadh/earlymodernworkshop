@@ -50,173 +50,35 @@ My wife’s father lived on and fed us with what the [community] Elders [*Starsi
 
 It is not only allowed but required to clean for Passover either the living quarters themselves [*samą Izbę*] or also the hallway. We cleaned the living quarters, in the hallway we did not see any blood, or did not notice.
 
-My wife’s father does not leave Sandomierz, he stays here all the time; he has not traveled nor have any unacquainted Jews visited him. And if there is a visitor, he [the visitor] should go to the Elders, for a rabbi has nothing to offer. Neither have I seen any Sandomierz Jews to come for a consultation. We do not keep any Catholics in our house, we pay only one maiden, who brings water, but she lives in town. No poor children have served us or serve us. I have not seen the child, who is said to have been killed, alive or dead, and I do not know what happened to this child; only that ++this morning a woman, who helps my wife in her lying-in, went out to the back and, having noticed the corpse, woke up first my father and then my wife’s brother [16r] and they fearing an epidemic, left the town without taking anything. I was last to be woken up. And I, having noticed that Father and the little Brother were gone, went to the synagogue, looking for them, and when I did not find them, and not knowing where they went but remembering that I was once in Wielowieś for betrothal I run through the gate near the Jewish street, not even saying anything to my wife.++ And not stopping anywhere, nor seeing anyone, I run to Wielowieś, and I caught up with my wife’s Father and Brother, and we went to the Koćmierzów *arendar*, and, not staying long, [because] this *arendar*, fearing the epidemic, took four or five sacks of malt and took us and the malt to the mill in Samborzec. And the three of us sat on the sacks, and having dropped the malt at the mill, without seeing the Samborzec *arendar*, the Koćmierzów *arendar* took us to Gorzycany, and there we rested in a storage room at the house of the Gorzycany *arendar*, and we did not close [the door]. Neither me nor the Father ate anythingbecause we were fasting, only the little boy ate, and we were about to leave Gorzycany [16v], the wagon was ready for us to go to Klimontów (but I do not know who arranged it because we did not leave the room, so it must have been the local Gorzycany *arendar*). And just as the three of us were talking, no one was sleeping, the priest arrived and, from the city, the townsman lord Borkowicz with another one, and they took us, saying “You had killed a child and ran away.” And having tied us up with one rope, they led us all together to the city and then to the Castle. Et praeter haec plura non recognouit [and beyond these, he did not recollect more].
+My wife’s father does not leave Sandomierz, he stays here all the time; he has not traveled nor have any unacquainted Jews visited him. And if there is a visitor, he [the visitor] should go to the Elders, for a rabbi has nothing to offer. Neither have I seen any Sandomierz Jews to come for a consultation. We do not keep any Catholics in our house, we pay only one maiden, who brings water, but she lives in town. No poor children have served us or serve us. I have not seen the child, who is said to have been killed, alive or dead, and I do not know what happened to this child; only that ++this morning a woman, who helps my wife in her lying-in, went out to the back and, having noticed the corpse, woke up first my father and then my wife’s brother [16r] and they fearing an epidemic, left the town without taking anything. I was last to be woken up. And I, having noticed that Father and the little Brother were gone, went to the synagogue, looking for them, and when I did not find them, and not knowing where they went but remembering that I was once in Wielowieś for betrothal I run through the gate near the Jewish street, not even saying anything to my wife.++ And not stopping anywhere, nor seeing anyone, I run to Wielowieś, and I caught up with my wife’s Father and Brother, and we went to the Koćmierzów *arendar*, and, not staying long, [because] this *arendar*, ++fearing the epidemic, took four or five sacks of malt and took us and the malt to the mill in Samborzec++. And the three of us sat on the sacks, and having dropped the malt at the mill, without seeing the Samborzec *arendar*, the Koćmierzów *arendar* took us to Gorzycany, and there ++we rested in a storage room at the house of the Gorzycany *arendar*, and we did not close [the door]. Neither me nor the Father ate anything because we were fasting++, only the little boy ate, and we were about to leave Gorzycany [16v], the wagon was ready for us to go to Klimontów (but I do not know who arranged it because ++we did not leave the room, so it must have been the local Gorzycany *arendar*)++. And just as the three of us were talking, no one was sleeping, the priest arrived and, from the city, the townsman lord Borkowicz with another one, and they took us, saying “You had killed a child and ran away.” And having tied us up with one rope, they led us all together to the city and then to the Castle. Et praeter haec plura non recognouit [and beyond these, he did not recollect more].
 
-Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab
+Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab ipsomet Infideli Herc Rabino excepit: idque in hunc verborum illius sensum et tenorem.
 
-ipsomet Infideli Herc Rabino excepit: idque in hunc verborum illius sensum et
+I, Jakub Herc, come from Moravia [*jestem rodem*]. I am a son of Father Samuel and Mother Getle; during the Vienna [expedition, in 1683] I moved out of fear to Silesia with my wife, Getla, to whom I am still married. It’s been sixteen years since I came to Poland. And I first served as a rabbi in Pacanów for six or seven years, and then for the last ten years, [after] I had moved to Sandomierz, I have been here a rabbi, [17r] having moved from a smaller town to a bigger and more famous city.
 
-tenorem.
+I am almost fifty years old, I have never heard or read that we need Christian blood or to kill children, and if anything happens, they blame us but this is a calumny. I was not here in Sandomierz when Alexander was tried [in 1698], I only heard about it, but it was a calumny.
 
-I, Jakub Herc, come from Moravia [*jestem rodem*]. I am a son of Father Samuel
+As a rabbi, I only engage with having to adjudicate and consider what is kosher and what is treyf, but it is not fitting for me to slaughter cattle or chicken or gees etc by myself. And if I need [meat] to eat, I send for a beadle. It is fitting to slaughter a chicken or goose in our house, as long as it is not in the living quarter, and it sometimes happened that the beadle would slaughter [at my house]; and living in this house, it sometimes happened, especially now that my daughter is bedridden, that the beadle would slaughter some ducks at home; he killed some [for] last sabbath, but I did not pay attention if there was any blood at home. And ifthere was [blood], it was probably because the beadle, having slaughtered the chicken pushes it so that the blood squirts. It is not necessary to clean the walls for the sabbath, except perhaps for Passover.
 
-and Mother Getle; during the Vienna [expedition, in 1683] I moved out of fear to
+I do not attend any Jewish councils [17v] because I don’t belong to any. I do not have any acquiaintances [*żadnego znoszenia się z Żydami*] with Jews because I pour over books, and they can take council by themselves. ++Sandomierz Jews, such as Szmul and Jeleń, are still attending a [Jewish] Seym [council] in Raków. I heard one of them, Liczman, came back for the Sabbath, to check on his business, for he is an *arendar* but I do not know if he has left or not++.
 
-Silesia with my wife, Getla, to whom I am still married. It’s been sixteen years
+I did not scheme with anyone, nor would I think, to kill a Christian child. It is not right; and this calumny is heaped on us Jews because of hatred.
 
-since I came to Poland. And I first served as a rabbi in Pacanów for six or seven
+I do not keep Christians as servants. [There is] only one maiden, who brings water, but she lives in town, and when she brings water, I pay her. No Christian children come to my [house], and this, who is said to have been killed, I have not seen, alive or dead. But yesterday, not knowing anything we went to sleep, and this morning, ++I was still asleep when my wife—having found out I don’t know from whom—came to me and woke me up saying that there was a corpse lying in our [yard], I rushed out of fear, understanding that someone dropped an infected body, and I dressed hurriedly in what I could and not speaking to my wife [18r] fled from the town, while my wife began to wake others up. And I run, not stopping anywhere, nor speaking with anyone, only taking my son, who is here with me, to Koćmierzów.++
 
-years, and then for the last ten years, [after] I had moved to Sandomierz, I have
+I don’t know what happened to people’s pledges and my own possessions, because I don’t know where my wife hid things; I only kept a registry, but she knew where to hide [them].
 
-been here a rabbi, [17r] having moved from a smaller town to a bigger and more
+++My son-in-law caught up with me and my son in Zawisełcze [*za Wisełką*] on our way to Koćmierzów, as we were approaching the Koćmierzów *arendar* Jew++. And it so happened that this *arendar* was going to the Samborzec mill and so I asked him to take us further toward Klimontów. I specifically went to Koćmierzów to get a wagon to Klimontów. And we climbed the wagon, where there were three or four sacks of malt, and we sat openly on top of the cart, not hiding. Then, as the *arendar*was depositing the malt in the mill, he refused to carry us further, and so we went on foot, but then, having left the malt, he had pity on us and caught up with us with his wagon, we climbed it and he took us to the Jew *arendar* to Gorzycany. And we did not spend much time there and I asked the Gorzycany *arendar* [18v] to try to find a carriage [going] to Klimontów.[^2]
 
-famous city.
+I was fasting and did not eat anything, my son-in-law and my son ate something, and I took a nap. And having first spent some time in the living quarters and in the storage room, my son-in-law came with my son to the storage room, and we were about to leave. And then, the priest, who had arrived with two townsmen from Sandomierz, came into the storage room, which was unlocked and took us, saying “You have killed our Christian child,” and having tied us by the hands with a rope, they led us to Sandomierz, into town, and then took us to the Castle. Et praeter haec plura non recognovit [And beyond these he did not recollect any more]
 
-I am almost fifty years old, I have never heard or read that we need Christian blood
+++Post connotationem itaque praemissorum liberorum confessatorum suprascriptus Praesentans++ et statuens instigator Ciuitatis huius Sandomiriensis eosdem Inculpatos taliter examinatos rursus ad se recepit et de receptis Officium praesens quietauit: [After recording the foregoing free confessions, the above-mentioned instigator of the city of Sandomierz, presenting and standing, received the thus examined accused again, and the present office acknowledged their receipt??]
 
-or to kill children, and if anything happens, they blame us but this is a calumny. I
+Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum. Et hic subinde post determinationem et connotationem liberorum confessatorum dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant, ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis circumstantias facti ante et post patratum nefas observantibus et considerantibus atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis officium presens annuendo ab infrascriptis personis fide dignis Relationes et testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo ad huc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
 
-was not here in Sandomierz when Alexander was tried [in 1698], I only heard
 
-about it, but it was a calumny.
 
-As a rabbi, I only engage with having to adjudicate and consider what is kosher
-
-and what is treyf, but it is not fitting for me to slaughter cattle or chicken or gees
-
-etc by myself. And if I need [meat] to eat, I send for a beadle. It is fitting to
-
-slaughter a chicken or goose in our house, as long as it is not in the living quarter,
-
-and it sometimes happened that the beadle would slaughter [at my house]; and
-
-living in this house, it sometimes happened, especially now that my daughter is
-
-bedridden, that the beadle would slaughter some ducks at home; he killed some
-
-[for] last sabbath, but I did not pay attention if there was any blood at home. And ifthere was [blood], it was probably because the beadle, having slaughtered the
-
-chicken pushes it so that the blood squirts. It is not necessary to clean the walls for
-
-the sabbath, except perhaps for Passover.
-
-I do not attend any Jewish councils [17v] because I don’t belong to any. I do not
-
-have any acquiaintances [*żadnego znoszenia się z Żydami*] with Jews because I
-
-pour over books, and they can take council by themselves. Sandomierz Jews, such
-
-as Szmul and Jeleń, are still attending a [Jewish] Seym [council] in Raków. I heard
-
-one of them, Liczman, came back for the Sabbath, to check on his business, for he
-
-is an *arendar* but I do not know if he has left or not.
-
-I did not scheme with anyone, nor would I think, to kill a Christian child. It is not
-
-right; and this calumny is heaped on us Jews because of hatred.
-
-I do not keep Christians as servants. [There is] only one maiden, who brings water,
-
-but she lives in town, and when she brings water, I pay her. No Christian children
-
-come to my [house], and this, who is said to have been killed, I have not seen, alive
-
-or dead. But yesterday, not knowing anything we went to sleep, and this morning, I
-
-was still asleep when my wife—having found out I don’t know from whom—came
-
-to me and woke me up saying that there was a corpse lying in our [yard], I rushed
-
-out of fear, understanding that someone dropped an infected body, and I dressed
-
-hurriedly in what I could and not speaking to my wife [18r] fled from the town,
-
-while my wife began to wake others up. And I run, not stopping anywhere, nor
-
-speaking with anyone, only taking my son, who is here with me, to Koćmierzów.
-
-I don’t know what happened to people’s pledges and my own possessions, because
-
-I don’t know where my wife hid things; I only kept a registry, but she knew where
-
-to hide [them].
-
-My son-in-law caught up with me and my son in Zawisełcze [*za Wisełką*] on our
-
-way to Koćmierzów, as we were approaching the Koćmierzów *arendar* Jew. And
-
-it so happened that this *arendar* was going to the Samborzec mill and so I asked
-
-him to take us further toward Klimontów. I specifically went to Koćmierzów to get
-
-a wagon to Klimontów. And we climbed the wagon, where there were three or four
-
-sacks of malt, and we sat openly on top of the cart, not hiding. Then, as the *arendar*was depositing the malt in the mill, he refused to carry us further, and so we went
-
-on foot, but then, having left the malt, he had pity on us and caught up with us with
-
-his wagon, we climbed it and he took us to the Jew *arendar* to Gorzycany. And we
-
-did not spend much time there and I asked the Gorzycany *arendar* [18v] to try to
-
-find a carriage [going] to Klimontów.
-
-2
-
-I was fasting and did not eat anything, my son-in-law and my son ate something,
-
-and I took a nap. And having first spent some time in the living quarters and in the
-
-storage room, my son-in-law came with my son to the storage room, and we were
-
-about to leave. And then, the priest, who had arrived with two townsmen from
-
-Sandomierz, came into the storage room, which was unlocked and took us, saying
-
-“You have killed our Christian child,
-
-” and having tied us by the hands with a rope,
-
-they led us to Sandomierz, into town, and then took us to the Castle. Et praeter
-
-haec plura non recognovit [And beyond these he did not recollect any more]
-
-Post connotationem itaque praemissorum liberorum confessatorum suprascriptus
-
-Praesentans et statuens instigator Ciuitatis huius Sandomiriensis eosdem Inculpatos
-
-taliter examinatos rursus ad se recepit et de receptis Officium praesens quietauit:
-
-[After recording the foregoing free confessions, the above-mentioned instigator of
-
-the city of Sandomierz, presenting and standing, received the thus examined
-
-accused again, and the present office acknowledged their receipt??]
-
-Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium
-
-quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum.
-
-Et hic subinde post determinationem et connotationem liberorum confessatorum
-
-dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis
-
-Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant,
-
-ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis
-
-circumstantias facti ante et post patratum nefas observantibus et considerantibus
-
-atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis
-
-officium presens annuendo ab infrascriptis personis fide dignis Relationes et
-
-testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo ad
-
-huc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
-
-2 Klimontów is about 13km from Gorzycany, and 22 km from Koćmierzów, andvideatur) fide tamen dignas et personarum authoritate firmatas propter majorem
+videatur) fide tamen dignas et personarum authoritate firmatas propter majorem
 
 Judicii informationem habendam ad Acta sua suscepit et easdem verba
 
@@ -698,3 +560,4 @@ Footnotes
 
 [^1]: Ołyka is actually 38km from Łuck, so about 20 miles.
 
+[^2]: Klimontów is about 13km from Gorzycany, and 22 km from Koćmierzów, and
