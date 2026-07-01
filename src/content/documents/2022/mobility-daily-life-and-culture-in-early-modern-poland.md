@@ -74,211 +74,33 @@ I was fasting and did not eat anything, my son-in-law and my son ate something, 
 
 ++Post connotationem itaque praemissorum liberorum confessatorum suprascriptus Praesentans++ et statuens instigator Ciuitatis huius Sandomiriensis eosdem Inculpatos taliter examinatos rursus ad se recepit et de receptis Officium praesens quietauit: [After recording the foregoing free confessions, the above-mentioned instigator of the city of Sandomierz, presenting and standing, received the thus examined accused again, and the present office acknowledged their receipt??]
 
-Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum. Et hic subinde post determinationem et connotationem liberorum confessatorum dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant, ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis circumstantias facti ante et post patratum nefas observantibus et considerantibus atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis officium presens annuendo ab infrascriptis personis fide dignis Relationes et testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo ad huc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
+Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum. Et hic subinde post determinationem et connotationem liberorum confessatorum dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant, ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis circumstantias facti ante et post patratum nefas observantibus et considerantibus atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis officium presens annuendo ab infrascriptis personis fide dignis Relationes et testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo ad huc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere videatur) fide tamen dignas et personarum ++authoritate firmatas propter majorem Judicii informationem++ habendam ad Acta sua suscepit et easdem verba recognoscentium formalia infrascripta connotauit.
 
+[By offering he will detain them in due custody and will withdraw and abide without delay to any judgment before the judgment of the cause and the provisions of the laws. [19r] And immediately after the conclusion and recording of the established free-confessions of the said accused Jews, the same instigator of the present state of Sandomir, since the aforesaid accused [Jews] obstinately deny such an open crime, in order to prove their stubborn obstinacy, asked various people for testimonies about the circumstances observed, considered and noted, before and after the crime was committed….]
 
+Itaque primo ++Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae Collegiatae Beatissimae Virginis++ MARIAE Sandomiriensi hanc spontaneam libere Officium praesens accedens fecit Relationem. [Therefore, approaching the present office first Reverend Albterus Koszycki, the vicar of the Collegiate Church of Mary the Virgin in Sandomierz freely made this spontaneous account]
 
-videatur) fide tamen dignas et personarum authoritate firmatas propter majorem
+++I first heard about it today from the honorable judge of the Castle court++, who has arrived to hear the inquiry regarding the Tribunal Decree, that when the honorable [judge] was on his way to the Church of Mary Magdalene, Sandomierz Jews, running past him, turned around, and complained about Sandomierz townspeople for having thrown a corpse near the synagogue and asking for justice against these townspeople. The honorable judge answered them, “If this was done by a private townsman, then they had to go to the magistrate court, and if it is needed, I will adjudicate it,” and he entered the church and Jews left.
 
-Judicii informationem habendam ad Acta sua suscepit et easdem verba
+Also on her way to the church, the housekeeper of his honorable judge’s manor, hearing this from a distance and wanting to know what had happened, went there [to the synagogue?] and having returned, ++she came with great astonishment to his honorable [20r] judge and said that the corpse was not dropped at Jews’ but that Jews themselves slaughtered the child, as marks [on the body] suggest++.
 
-recognoscentium formalia infrascripta connotauit.
+And from then, the news spread, reaching the Reverend Priest Official of Sandomierz [Żuchowski] and the parish priest because the townspeople, having found the corpse and the wounds, first notified the honorable judge and, as directed, then appropriately notified the reverend priest official as a local pastor about the corpse and about how Jews, that is the rabbi with his son-in-law and his own son, had escaped.
 
-[By offering he will detain them in due custody and will withdraw and abide
+The Reverend Priest Official immediately directed me to go to Andruszkowice and to Złota, asking for help, so that people could search for the fugitives in scrublands (as was rumored), and Lord Borkowicz, a Sandomierz burgher, also sent by the city to [assist in] the search, approached me in Złota running and saying, “I looked for the Jews in Koćmierzów and happened upon the Koćmierzów *arendar* who [20v] stopped with his wagon and when I asked where he had come from, he responded that he was carrying malt to Zajeziorze [a village not far from Samborzec] and when I investigated him some more about the Sandomierz Jews, he responded that he took them to Samborzec. And so having heard that, I, together with Lord Borkowicz, went to Samborzec and having arrived at the *arenda* we asked if the Koćmierzów *arendar* had been with some other Jews, [and the *arendar* answered] that he had been here and brought malt but he did not see any Jews.
 
-without delay to any judgment before the judgment of the cause and the provisions
+And not finding them as if *dictante spiritu sancto* [with the holy spirit advising] we went toward Klimontów and we arrived to Gorzycany, where we came across a peasant from Gorzycany carrying flour from the mill and we asked this peasant if Jews, one old and two younger, passed through,, and the man responded, “I did not see them pass through but in the brewery there are some like the ones you, Sir, are asking about.” And so, we immediately went directly to the brewery, and it was already in the afternoon, and in the courtyard we found a wagon ready to go; in the meantime, having left Lord Borkowicz [watching] the wagon, I myself went into the living quarters and then to then to the chamber [*komnata*, 21r], and I ordered that it be opened and I found all three Jews who were getting ready to leave, and when I told them what they had done, they said nothing; and without delay, we took them, and they, and especially the son-in-law and the son had no hats and outerwear just *yarmulkes*, saying that this was how they had left Sandomierz. And having taken them, we went to the manor in Samborzec to prepare them and appropriately secure them [? *dla opatrzenia y ich należytego doprowadzenia*], andthe wife of the deputy *starost* [*Pani Podstarościna*]** said that the Koćmierzów Jew carried these Jews but two in sacks and the little one on top; and having tied them in Samborzec, we brought them to the Castle court.
 
-of the laws. [19r] And immediately after the conclusion and recording of the
+I heard from the honorable lord judge that the deputy *starost* of Koćmierzów said to him that when these Jews had arrived in Koćmierzów and started babble something in Yiddish [*szwargotać poczęli*], ++one Koćmierzów Jewess put her hands on her head and said “I don’t want to know anything about it, I am leaving. ”++
 
-established free-confessions of the said accused Jews, the same instigator of the
+Secundo Nobilis Nicolaus Kaliszański Administrator Bonorum Koćmierzow spontanee recognovit [The second [witness] the nobleman Nicolaus Kaliszański, the administrator of the Koćmierzów estate, freely recounted]:
 
-present state of Sandomir, since the aforesaid accused [Jews] obstinately deny such
+I was in the field when, before noon, Lord Zrazewski, the deputy *starost* from Smiechowice arrived with some other people [21v] and related what had happened in Sandomierz, asking for the Koćmierzów *arendar*, and [then wanting to] arrest him at my place on the grounds that he had carried the accused Jews. And when they left inquiring about them, I noticed that the Koćmierzow *arendar* was returning with an empty wagon. Having called him, I said that “you are to be arrested here. You drove the rabbi and his son-in-law and his son, and they slaughtered a child. Where did you take them?” He answered, “I was taking malt to the mill in Samborzec because I was afraid to go to Wisła so my horses would not be taken away. But it is true that I drove these Jews to Samborzec, and from there they went to Gorzycany. I do not know what had happened in Sandomierz, only it is our custom that when a rabbi comes or someone poor that it is an obligation to drive them.” And after that, I left a note for the deputy *starost* of Gorzycany to hold them. But in the meantime the reverend priest Koszycki tracked them down. And this is what I heard from the servants at the brewery that when these Jews ++arrived from Sandomierz and began to speak among themselves in Jewish, an old Jewess put her hands on her head [22r] and began to moan.++
 
-an open crime, in order to prove their stubborn obstinacy, asked various people for
+Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere [The third [witness], honest Nicolaus Miłosowic, the brewer, freely recounted].[^3]
 
-testimonies about the circumstances observed, considered and noted, before and
 
-after the crime was committed….]
 
-Itaque primo Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae
-
-Collegiatae Beatissimae Virginis MARIAE Sandomiriensi hanc spontaneam libere
-
-Officium praesens accedens fecit Relationem. [Therefore, approaching the present
-
-office first Reverend Albterus Koszycki, the vicar of the Collegiate Church of
-
-Mary the Virgin in Sandomierz freely made this spontaneous account]
-
-I first heard about it today from the honorable judge of the Castle court, who has
-
-arrived to hear the inquiry regarding the Tribunal Decree, that when the honorable
-
-[judge] was on his way to the Church of Mary Magdalene, Sandomierz Jews,
-
-running past him, turned around, and complained about Sandomierz townspeople
-
-for having thrown a corpse near the synagogue and asking for justice against these
-
-townspeople. The honorable judge answered them,
-
-“If this was done by a private
-
-townsman, then they had to go to the magistrate court, and if it is needed, I will
-
-adjudicate it,
-
-” and he entered the church and Jews left.
-
-Also on her way to the church, the housekeeper of his honorable judge’s manor,
-
-hearing this from a distance and wanting to know what had happened, went there
-
-[to the synagogue?] and having returned, she came with great astonishment to his
-
-honorable [20r] judge and said that the corpse was not dropped at Jews’ but that
-
-Jews themselves slaughtered the child, as marks [on the body] suggest.And from then, the news spread, reaching the Reverend Priest Official of
-
-Sandomierz [Żuchowski] and the parish priest because the townspeople, having
-
-found the corpse and the wounds, first notified the honorable judge and, as
-
-directed, then appropriately notified the reverend priest official as a local pastor
-
-about the corpse and about how Jews, that is the rabbi with his son-in-law and his
-
-own son, had escaped.
-
-The Reverend Priest Official immediately directed me to go to Andruszkowice and
-
-to Złota, asking for help, so that people could search for the fugitives in scrublands
-
-(as was rumored), and Lord Borkowicz, a Sandomierz burgher, also sent by the city
-
-to [assist in] the search, approached me in Złota running and saying,
-
-“I looked for
-
-the Jews in Koćmierzów and happened upon the Koćmierzów *arendar* who [20v]
-
-stopped with his wagon and when I asked where he had come from, he responded
-
-that he was carrying malt to Zajeziorze [a village not far from Samborzec] and
-
-when I investigated him some more about the Sandomierz Jews, he responded that
-
-he took them to Samborzec. And so having heard that, I, together with Lord
-
-Borkowicz, went to Samborzec and having arrived at the *arenda* we asked if the
-
-Koćmierzów *arendar* had been with some other Jews, [and the *arendar* answered]
-
-that he had been here and brought malt but he did not see any Jews.
-
-And not finding them as if *dictante spiritu sancto* [with the holy spirit advising] we
-
-went toward Klimontów and we arrived to Gorzycany, where we came across a
-
-peasant from Gorzycany carrying flour from the mill and we asked this peasant if
-
-Jews, one old and two younger, passed through,, and the man responded,
-
-“I did not
-
-see them pass through but in the brewery there are some like the ones you, Sir, are
-
-asking about.
-
-” And so, we immediately went directly to the brewery, and it was
-
-already in the afternoon, and in the courtyard we found a wagon ready to go; in the
-
-meantime, having left Lord Borkowicz [watching] the wagon, I myself went into
-
-the living quarters and then to then to the chamber [*komnata*, 21r], and I ordered
-
-that it be opened and I found all three Jews who were getting ready to leave, and
-
-when I told them what they had done, they said nothing; and without delay, we
-
-took them, and they, and especially the son-in-law and the son had no hats and
-
-outerwear just *yarmulkes*, saying that this was how they had left Sandomierz. And
-
-having taken them, we went to the manor in Samborzec to prepare them and
-
-appropriately secure them [? *dla opatrzenia y ich należytego doprowadzenia*], andthe wife of the deputy *starost* [*Pani Podstarościna*]** said that the Koćmierzów Jew
-
-carried these Jews but two in sacks and the little one on top; and having tied them
-
-in Samborzec, we brought them to the Castle court.
-
-I heard from the honorable lord judge that the deputy *starost* of Koćmierzów said
-
-to him that when these Jews had arrived in Koćmierzów and started babble
-
-something in Yiddish [*szwargotać poczęli*], one Koćmierzów Jewess put her hands
-
-on her head and said “I don’t want to know anything about it, I am leaving.
-
-”
-
-Secundo Nobilis Nicolaus Kaliszański Administrator Bonorum Koćmierzow
-
-spontanee recognovit [The second [witness] the nobleman Nicolaus Kaliszański,
-
-the administrator of the Koćmierzów estate, freely recounted]:
-
-I was in the field when, before noon, Lord Zrazewski, the deputy *starost* from
-
-Smiechowice arrived with some other people [21v] and related what had happened
-
-in Sandomierz, asking for the Koćmierzów *arendar*, and [then wanting to] arrest
-
-him at my place on the grounds that he had carried the accused Jews. And when
-
-they left inquiring about them, I noticed that the Koćmierzow *arendar* was
-
-returning with an empty wagon. Having called him, I said that “you are to be
-
-arrested here. You drove the rabbi and his son-in-law and his son, and they
-
-slaughtered a child. Where did you take them?” He answered,
-
-“I was taking malt to
-
-the mill in Samborzec because I was afraid to go to Wisła so my horses would not
-
-be taken away. But it is true that I drove these Jews to Samborzec, and from there
-
-they went to Gorzycany. I do not know what had happened in Sandomierz, only it
-
-is our custom that when a rabbi comes or someone poor that it is an obligation to
-
-drive them.
-
-” And after that, I left a note for the deputy *starost* of Gorzycany to
-
-hold them. But in the meantime the reverend priest Koszycki tracked them down.
-
-And this is what I heard from the servants at the brewery that when these Jews
-
-arrived from Sandomierz and began to speak among themselves in Jewish, an old
-
-Jewess put her hands on her head [22r] and began to moan.
-
-Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere [The third
-
-[witness], honest Nicolaus Miłosowic, the brewer, freely recounted].
-
-3
-
-3 “honestus” was a title added in official documents to denote a status to distinguish between “nobilis” (a
-
-nobleman) and “laboriosus” (a peasant, serf).
-
-“Honestus” typically applied to townspeople.I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the
+I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the
 
 brewery, and they loitered around and I asked the little boy,
 
@@ -561,3 +383,5 @@ Footnotes
 [^1]: Ołyka is actually 38km from Łuck, so about 20 miles.
 
 [^2]: Klimontów is about 13km from Gorzycany, and 22 km from Koćmierzów, and
+
+[^3]: “honestus” was a title added in official documents to denote a status to distinguish between “nobilis” (a nobleman) and “laboriosus” (a peasant, serf). “Honestus” typically applied to townspeople.
