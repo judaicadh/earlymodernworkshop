@@ -44,111 +44,13 @@ I am Jakub Schario. My father is a rabbi and [with] my mother they still live in
 
 I don’t engage in any trade [*hande*l], because according to the contract, my wife’s father has to provide food and clothing and there are still three years left before the expiration of this agreement.
 
-And all this time I have been tending to studies and books in preparation to become
+++And all this time I have been tending to studies and books in preparation to become a rabbi++ [15r]. All this time when I was in Ołyka and since I have been in Sandomierz I have not heard, nor have I ever read that we Jews had to kill Christian children, and what happened here in Sandomierz several years ago [in 1698]—I did not hear about it in Ołyka, I am only seventeen and in Sandomierz I heard that [something happened] several years ago, but I must have been a little [boy] then and I do not know if it is true.
 
-a rabbi [15r]. All this time when I was in Ołyka and since I have been in
+My wife’s father lived on and fed us with what the [community] Elders [*Starsi*] pay him weekly, and second, he also lent on interest because it is not fitting for him to engage in any other trade. It is for him to adjudicate [cases] and he has some income from that. He does not hold any other office, because it is not fitting for him. As for ++slaughtering cattle, chickens, [and] geese, if one wants to eat [them] one has to send for the beadle, and he slaughters; I do not remember at all if any chickens were slaughtered in our house in the last weeks and I do not know why they would need to be++. I have not seen any blood in the apartment in which we live now and in which Moshe the moneylender had lived before; I have not seen any [blood] and did not look for it so I do not know if there was any. If there is any [15v] it must be by accident, when the beadle carried a slaughtered meat, it may have dripped.
 
-Sandomierz I have not heard, nor have I ever read that we Jews had to kill
+It is not only allowed but required to clean for Passover either the living quarters themselves [*samą Izbę*] or also the hallway. We cleaned the living quarters, in the hallway we did not see any blood, or did not notice.
 
-Christian children, and what happened here in Sandomierz several years ago [in
-
-1698]—I did not hear about it in Ołyka, I am only seventeen and in Sandomierz I
-
-heard that [something happened] several years ago, but I must have been a little
-
-[boy] then and I do not know if it is true.
-
-My wife’s father lived on and fed us with what the [community] Elders [*Starsi*] pay
-
-him weekly, and second, he also lent on interest because it is not fitting for him to
-
-engage in any other trade. It is for him to adjudicate [cases] and he has some
-
-income from that. He does not hold any other office, because it is not fitting for
-
-1 Ołyka is actually 38km from Łuck, so about 20 miles.him. As for slaughtering cattle, chickens, [and] geese, if one wants to eat [them]
-
-one has to send for the beadle, and he slaughters; I do not remember at all if any
-
-chickens were slaughtered in our house in the last weeks and I do not know why
-
-they would need to be. I have not seen any blood in the apartment in which we live
-
-now and in which Moshe the moneylender had lived before; I have not seen any
-
-[blood] and did not look for it so I do not know if there was any. If there is any
-
-[15v] it must be by accident, when the beadle carried a slaughtered meat, it may
-
-have dripped.
-
-It is not only allowed but required to clean for Passover either the living quarters
-
-themselves [*samą Izbę*] or also the hallway. We cleaned the living quarters, in the
-
-hallway we did not see any blood, or did not notice.
-
-My wife’s father does not leave Sandomierz, he stays here all the time; he has not
-
-traveled nor have any unacquainted Jews visited him. And if there is a visitor, he
-
-[the visitor] should go to the Elders, for a rabbi has nothing to offer. Neither have I
-
-seen any Sandomierz Jews to come for a consultation. We do not keep any
-
-Catholics in our house, we pay only one maiden, who brings water, but she lives in
-
-town. No poor children have served us or serve us. I have not seen the child, who is
-
-said to have been killed, alive or dead, and I do not know what happened to this
-
-child; only that this morning a woman, who helps my wife in her lying-in, went out
-
-to the back and, having noticed the corpse, woke up first my father and then my
-
-wife’s brother [16r] and they fearing an epidemic, left the town without taking
-
-anything. I was last to be woken up. And I, having noticed that Father and the little
-
-Brother were gone, went to the synagogue, looking for them, and when I did not
-
-find them, and not knowing where they went but remembering that I was once in
-
-Wielowieś for betrothal I run through the gate near the Jewish street, not even
-
-saying anything to my wife. And not stopping anywhere, nor seeing anyone, I run
-
-to Wielowieś, and I caught up with my wife’s Father and Brother, and we went to
-
-the Koćmierzów *arendar*, and, not staying long, [because] this *arendar*, fearing the
-
-epidemic, took four or five sacks of malt and took us and the malt to the mill in
-
-Samborzec. And the three of us sat on the sacks, and having dropped the malt at
-
-the mill, without seeing the Samborzec *arendar*, the Koćmierzów *arendar* took us
-
-to Gorzycany, and there we rested in a storage room at the house of the Gorzycany
-
-*arendar*, and we did not close [the door]. Neither me nor the Father ate anythingbecause we were fasting, only the little boy ate, and we were about to leave
-
-Gorzycany [16v], the wagon was ready for us to go to Klimontów (but I do not
-
-know who arranged it because we did not leave the room, so it must have been the
-
-local Gorzycany *arendar*). And just as the three of us were talking, no one was
-
-sleeping, the priest arrived and, from the city, the townsman lord Borkowicz with
-
-another one, and they took us, saying “You had killed a child and ran away.
-
-” And
-
-having tied us up with one rope, they led us all together to the city and then to the
-
-Castle. Et praeter haec plura non recognouit [and beyond these, he did not recollect
-
-more].
+My wife’s father does not leave Sandomierz, he stays here all the time; he has not traveled nor have any unacquainted Jews visited him. And if there is a visitor, he [the visitor] should go to the Elders, for a rabbi has nothing to offer. Neither have I seen any Sandomierz Jews to come for a consultation. We do not keep any Catholics in our house, we pay only one maiden, who brings water, but she lives in town. No poor children have served us or serve us. I have not seen the child, who is said to have been killed, alive or dead, and I do not know what happened to this child; only that ++this morning a woman, who helps my wife in her lying-in, went out to the back and, having noticed the corpse, woke up first my father and then my wife’s brother [16r] and they fearing an epidemic, left the town without taking anything. I was last to be woken up. And I, having noticed that Father and the little Brother were gone, went to the synagogue, looking for them, and when I did not find them, and not knowing where they went but remembering that I was once in Wielowieś for betrothal I run through the gate near the Jewish street, not even saying anything to my wife.++ And not stopping anywhere, nor seeing anyone, I run to Wielowieś, and I caught up with my wife’s Father and Brother, and we went to the Koćmierzów *arendar*, and, not staying long, [because] this *arendar*, fearing the epidemic, took four or five sacks of malt and took us and the malt to the mill in Samborzec. And the three of us sat on the sacks, and having dropped the malt at the mill, without seeing the Samborzec *arendar*, the Koćmierzów *arendar* took us to Gorzycany, and there we rested in a storage room at the house of the Gorzycany *arendar*, and we did not close [the door]. Neither me nor the Father ate anythingbecause we were fasting, only the little boy ate, and we were about to leave Gorzycany [16v], the wagon was ready for us to go to Klimontów (but I do not know who arranged it because we did not leave the room, so it must have been the local Gorzycany *arendar*). And just as the three of us were talking, no one was sleeping, the priest arrived and, from the city, the townsman lord Borkowicz with another one, and they took us, saying “You had killed a child and ran away.” And having tied us up with one rope, they led us all together to the city and then to the Castle. Et praeter haec plura non recognouit [and beyond these, he did not recollect more].
 
 Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab
 
@@ -789,4 +691,10 @@ FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS
 MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO
 
 DECIMO [In Sandomierz Castle, Monday after the feast 
+
+
+
+Footnotes
+
+[^1]: Ołyka is actually 38km from Łuck, so about 20 miles.
 
