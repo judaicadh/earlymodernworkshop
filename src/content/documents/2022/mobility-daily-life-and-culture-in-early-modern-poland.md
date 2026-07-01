@@ -18,3 +18,929 @@ As a side note, the first day also included a testimony of the person who might 
 
 ## Source 1 Translation
 
+18 Aug. Praesentatio Corporis in Castro Sandom. cum Confessatis Rabini et Generi ac Filii eius. Item Scrutinia ibidem educta per testes feria secunda post Assumptionis BMV.
+
+[12r] Hicque in continenti suprascriptus instigator Civitatis praesentis Sandomiriensis statuit Officio praesenti inculpates Jacobum Herc, Rabinum Sandomiriensem Parentem Jacobum Schario Generum et Abrahamum Jakubowicz eiusdem Rabini filium Annorum tredecem post patratum praefatum scelestum facinus die hodierna de mane ex civitate et domo sua aufugos primoque ad Bona
+
+Kocmierzow rursus ad Villam Samborzec, ac tandem ac Villam Gorzycany
+
+Magnificorum Capitaneum Lukoviensium divertentes et Ope inferius specificata ac
+
+modo indolito et impracticato, propter difficilem investigationem divertentes et
+
+devectos in eisdemque Bonis Gorzycany in Camera apud Infidelem Arendatorem
+
+Gorzycznensem occlusa deprehensos et ad Castrum praesens fune ligatos deductos.
+
+Petens ab eisdem Inclupatis libera confessata excipi. Cuius affectation tum et
+
+disposition legis publicae Officium praesens annuendo ab eisdem inculpatis adscito
+
+sibi suprascripto spectabili Joanne Mente consule sandomiriense, uti germanicam
+
+linguam bene callente (siquidem se polonicam linguam [12v] ignorare allegarunt
+
+iidem inculpate) propter interpretationem Officio praesenti faciendam eadem
+
+Confessata quemlibet statutorum seorsive examinando suscepit.Qui quidem statute in liberis confassatis haec formalia recognoverunt. Et quidem
+
+primo infidelibs Abraham puer annorum tredecem.
+
+I, Abraham Jakubowicz, son of the Infidel Jacob Herc, the Rabbi of Sandomierz,
+
+and of Getty, mother, was born in Pacanów, where my father, who was at the time a
+
+rabbi there, lived with my mother. I don’t know the reason why my father and
+
+mother moved to Sandomierz a few years ago, only it seems that because the city is
+
+more famous. And they still live here. [Father] made a living as a rabbi and he also
+
+had some eight thousand [zlotys] of his own money lending on interest, which he
+
+lost and now has barely two thousand. My father, being a rabbi, adjudicated cases
+
+worth no more fifty zlotys without appeal to a higher court. When the amount was
+
+higher, they went to Opatów and he stayed here. He did not go for any councils,
+
+and he did not hold any other office. He did not engage in the slaughter of cattle or
+
+chickens or geese—the beadle is responsible for that. [13r] Nothing was ever
+
+slaughtered at his place, because he only sat with books and if he needed
+
+something to eat, he would send for the beadle. And in this house, in which we
+
+have lived for half-a-year, I have never seen anyone slaughter anything, because it
+
+is not fitting for a rabbi. I have not seen any blood at any time or place, unless the
+
+slaughterer did it [splattered blood] while running away from the soldiers or for
+
+another reason. But I have not heard about it and I don’t know. I only remember
+
+some five or six weeks ago two chickens were slaughtered at our house to eat, but
+
+it was not done in the hallway. It is our custom to clean for Passover [Wielka Noc]
+
+tables, benches, windows in rooms so that no stain remains, and so, we did so at
+
+our house, where we had lived already by Passover. But such cleaning is less
+
+diligent in the hallway.
+
+My father has not traveled anywhere for almost a year and no unacquainted Jews
+
+have visited him during that time. And I have not seen any secret planning.
+
+My father and mother do not keep Catholics as servants. There is only one maid
+
+who brings water for cooking twice a day, but she does not live at my father’s.
+
+There also come some beggar women, and [13v] my father and mother would give
+
+them something, but I have not seen any boy, and I have not seen the one who died
+
+today.And so this happened. We did not think about any escape. In the morning, the
+
+Jewish widow who lives at the house of Berko, a Sandomierz Jew, who is now in
+
+Gdańsk, was assisting my sister’s lying-in, went out in the back and saw the dead
+
+body, and so she notified my father, brother-in-law, and mother, who were still
+
+sleeping. My father and brother-in-law and myself rushed to the synagogue to
+
+confer, without even looking what it was, fearing that someone dropped an plague
+
+infected corpse [*zapowietrzonego trupa*], and leaving my mother behind. We did
+
+not even take anything not even a penny [*szeląg*]. (As we were leaving, no one
+
+spoke with my mother, and for my brother-in-law it was not appropriate to speak to
+
+his wife). We left through the gate near the Jewish Street without meeting anyone
+
+because people were still asleep. As I have said we did not take anything with us. I
+
+don’t know anything about pledges and where my father kept them, because I have
+
+been pouring over books [lit. sitting over books], and I don’t know if Mother hid
+
+anything because we did not see her after we had left. We walked without stopping
+
+anywhere across Wisełka and having crossed Wisełka onto Koćmierzów (this
+
+village belongs to the Honorable Lord Lukowski). [14r] We did not stop at the
+
+Castle brewery outside the town, and we did not meet anyone from the brewery,
+
+nor anyone along the road. When we arrived at Koćmierzów at the house of the
+
+Jewish *arendar* did not stay there more than an hour.
+
+We left the town because of danger of an epidemic [*dla niebespieczeństwa*
+
+*powietrza*, lit. danger of air]. I do not know why we left Koćmierzów, where no
+
+one heard about an epidemic, maybe because of the father. Then, in Koćmierzów,
+
+the Jewish *arendar*, having taken the peasant’s horse and three sacks of malt, took
+
+us to Samborzec. And all three of us, with the Koćmierzów *arendar* as fourth, sat
+
+on top of the sacks. No Catholic was with us. And the Jew from Koćmierzów,
+
+having taken us to Samborzec, delivered the malt to a mill, and then took us to
+
+Gorzycany to the Jewish *arendar* [there], and left.
+
+And we stayed in Gorzycany for four hours, and my brother-in-law and I ate
+
+[something] there, but by father was fasting. Then, we sat in a storeroom [with
+
+doors left] ajar, and father slept a little; from there we were supposed to go to
+
+Klimontów but the priest, having arrived with two men and opened the storeroom,
+
+took us saying: we are going to Sandomierz, and having tied us [14v] with one
+
+rope, they led us to Sandomierz and took us to the [Castle.As](http://Castle.As) for the child, that he was supposedly killed, or that my father or brother-in-law
+
+or some other Jew supposedly killed the child, or that Jews have ever killed a
+
+Christian child, or slaughtered, I don’t know, I have not heard, et praeter haec plura
+
+se nescire allegavit [and besides these he said that he did not know more]
+
+Post cuius quidem Infidelis Abraham Confessatorum depositionem rursus officium
+
+ad examen liberae confessionis infidelis Jacobi Scharis Infidelis Rabin Generi
+
+condescendit: Qui haec sequentia recognovit verba:
+
+I am Jakub Schario. My father is a rabbi and [with] my mother they still live in
+
+Ołyka, four or five miles from Łuck;1 I was born in Ołyka and I lived with my
+
+father, and only three years ago I married the daughter of the Sandomierz Rabbi
+
+and during an epidemic I went back to my father, but alone, and when the epidemic
+
+passed in Sandomierz, I returned to my wife a year ago; and here in Sandomierz I
+
+have lived together with my wife’s father.
+
+I don’t engage in any trade [*hande*l], because according to the contract, my wife’s
+
+father has to provide food and clothing and there are still three years left before the
+
+expiration of this agreement.
+
+And all this time I have been tending to studies and books in preparation to become
+
+a rabbi [15r]. All this time when I was in Ołyka and since I have been in
+
+Sandomierz I have not heard, nor have I ever read that we Jews had to kill
+
+Christian children, and what happened here in Sandomierz several years ago [in
+
+1698]—I did not hear about it in Ołyka, I am only seventeen and in Sandomierz I
+
+heard that [something happened] several years ago, but I must have been a little
+
+[boy] then and I do not know if it is true.
+
+My wife’s father lived on and fed us with what the [community] Elders [*Starsi*] pay
+
+him weekly, and second, he also lent on interest because it is not fitting for him to
+
+engage in any other trade. It is for him to adjudicate [cases] and he has some
+
+income from that. He does not hold any other office, because it is not fitting for
+
+1 Ołyka is actually 38km from Łuck, so about 20 miles.him. As for slaughtering cattle, chickens, [and] geese, if one wants to eat [them]
+
+one has to send for the beadle, and he slaughters; I do not remember at all if any
+
+chickens were slaughtered in our house in the last weeks and I do not know why
+
+they would need to be. I have not seen any blood in the apartment in which we live
+
+now and in which Moshe the moneylender had lived before; I have not seen any
+
+[blood] and did not look for it so I do not know if there was any. If there is any
+
+[15v] it must be by accident, when the beadle carried a slaughtered meat, it may
+
+have dripped.
+
+It is not only allowed but required to clean for Passover either the living quarters
+
+themselves [*samą Izbę*] or also the hallway. We cleaned the living quarters, in the
+
+hallway we did not see any blood, or did not notice.
+
+My wife’s father does not leave Sandomierz, he stays here all the time; he has not
+
+traveled nor have any unacquainted Jews visited him. And if there is a visitor, he
+
+[the visitor] should go to the Elders, for a rabbi has nothing to offer. Neither have I
+
+seen any Sandomierz Jews to come for a consultation. We do not keep any
+
+Catholics in our house, we pay only one maiden, who brings water, but she lives in
+
+town. No poor children have served us or serve us. I have not seen the child, who is
+
+said to have been killed, alive or dead, and I do not know what happened to this
+
+child; only that this morning a woman, who helps my wife in her lying-in, went out
+
+to the back and, having noticed the corpse, woke up first my father and then my
+
+wife’s brother [16r] and they fearing an epidemic, left the town without taking
+
+anything. I was last to be woken up. And I, having noticed that Father and the little
+
+Brother were gone, went to the synagogue, looking for them, and when I did not
+
+find them, and not knowing where they went but remembering that I was once in
+
+Wielowieś for betrothal I run through the gate near the Jewish street, not even
+
+saying anything to my wife. And not stopping anywhere, nor seeing anyone, I run
+
+to Wielowieś, and I caught up with my wife’s Father and Brother, and we went to
+
+the Koćmierzów *arendar*, and, not staying long, [because] this *arendar*, fearing the
+
+epidemic, took four or five sacks of malt and took us and the malt to the mill in
+
+Samborzec. And the three of us sat on the sacks, and having dropped the malt at
+
+the mill, without seeing the Samborzec *arendar*, the Koćmierzów *arendar* took us
+
+to Gorzycany, and there we rested in a storage room at the house of the Gorzycany
+
+*arendar*, and we did not close [the door]. Neither me nor the Father ate anythingbecause we were fasting, only the little boy ate, and we were about to leave
+
+Gorzycany [16v], the wagon was ready for us to go to Klimontów (but I do not
+
+know who arranged it because we did not leave the room, so it must have been the
+
+local Gorzycany *arendar*). And just as the three of us were talking, no one was
+
+sleeping, the priest arrived and, from the city, the townsman lord Borkowicz with
+
+another one, and they took us, saying “You had killed a child and ran away.
+
+” And
+
+having tied us up with one rope, they led us all together to the city and then to the
+
+Castle. Et praeter haec plura non recognouit [and beyond these, he did not recollect
+
+more].
+
+Expeditis itaque hisce confessatis tandem Officium liberam recognitionem ab
+
+ipsomet Infideli Herc Rabino excepit: idque in hunc verborum illius sensum et
+
+tenorem.
+
+I, Jakub Herc, come from Moravia [*jestem rodem*]. I am a son of Father Samuel
+
+and Mother Getle; during the Vienna [expedition, in 1683] I moved out of fear to
+
+Silesia with my wife, Getla, to whom I am still married. It’s been sixteen years
+
+since I came to Poland. And I first served as a rabbi in Pacanów for six or seven
+
+years, and then for the last ten years, [after] I had moved to Sandomierz, I have
+
+been here a rabbi, [17r] having moved from a smaller town to a bigger and more
+
+famous city.
+
+I am almost fifty years old, I have never heard or read that we need Christian blood
+
+or to kill children, and if anything happens, they blame us but this is a calumny. I
+
+was not here in Sandomierz when Alexander was tried [in 1698], I only heard
+
+about it, but it was a calumny.
+
+As a rabbi, I only engage with having to adjudicate and consider what is kosher
+
+and what is treyf, but it is not fitting for me to slaughter cattle or chicken or gees
+
+etc by myself. And if I need [meat] to eat, I send for a beadle. It is fitting to
+
+slaughter a chicken or goose in our house, as long as it is not in the living quarter,
+
+and it sometimes happened that the beadle would slaughter [at my house]; and
+
+living in this house, it sometimes happened, especially now that my daughter is
+
+bedridden, that the beadle would slaughter some ducks at home; he killed some
+
+[for] last sabbath, but I did not pay attention if there was any blood at home. And ifthere was [blood], it was probably because the beadle, having slaughtered the
+
+chicken pushes it so that the blood squirts. It is not necessary to clean the walls for
+
+the sabbath, except perhaps for Passover.
+
+I do not attend any Jewish councils [17v] because I don’t belong to any. I do not
+
+have any acquiaintances [*żadnego znoszenia się z Żydami*] with Jews because I
+
+pour over books, and they can take council by themselves. Sandomierz Jews, such
+
+as Szmul and Jeleń, are still attending a [Jewish] Seym [council] in Raków. I heard
+
+one of them, Liczman, came back for the Sabbath, to check on his business, for he
+
+is an *arendar* but I do not know if he has left or not.
+
+I did not scheme with anyone, nor would I think, to kill a Christian child. It is not
+
+right; and this calumny is heaped on us Jews because of hatred.
+
+I do not keep Christians as servants. [There is] only one maiden, who brings water,
+
+but she lives in town, and when she brings water, I pay her. No Christian children
+
+come to my [house], and this, who is said to have been killed, I have not seen, alive
+
+or dead. But yesterday, not knowing anything we went to sleep, and this morning, I
+
+was still asleep when my wife—having found out I don’t know from whom—came
+
+to me and woke me up saying that there was a corpse lying in our [yard], I rushed
+
+out of fear, understanding that someone dropped an infected body, and I dressed
+
+hurriedly in what I could and not speaking to my wife [18r] fled from the town,
+
+while my wife began to wake others up. And I run, not stopping anywhere, nor
+
+speaking with anyone, only taking my son, who is here with me, to Koćmierzów.
+
+I don’t know what happened to people’s pledges and my own possessions, because
+
+I don’t know where my wife hid things; I only kept a registry, but she knew where
+
+to hide [them].
+
+My son-in-law caught up with me and my son in Zawisełcze [*za Wisełką*] on our
+
+way to Koćmierzów, as we were approaching the Koćmierzów *arendar* Jew. And
+
+it so happened that this *arendar* was going to the Samborzec mill and so I asked
+
+him to take us further toward Klimontów. I specifically went to Koćmierzów to get
+
+a wagon to Klimontów. And we climbed the wagon, where there were three or four
+
+sacks of malt, and we sat openly on top of the cart, not hiding. Then, as the *arendar*was depositing the malt in the mill, he refused to carry us further, and so we went
+
+on foot, but then, having left the malt, he had pity on us and caught up with us with
+
+his wagon, we climbed it and he took us to the Jew *arendar* to Gorzycany. And we
+
+did not spend much time there and I asked the Gorzycany *arendar* [18v] to try to
+
+find a carriage [going] to Klimontów.
+
+2
+
+I was fasting and did not eat anything, my son-in-law and my son ate something,
+
+and I took a nap. And having first spent some time in the living quarters and in the
+
+storage room, my son-in-law came with my son to the storage room, and we were
+
+about to leave. And then, the priest, who had arrived with two townsmen from
+
+Sandomierz, came into the storage room, which was unlocked and took us, saying
+
+“You have killed our Christian child,
+
+” and having tied us by the hands with a rope,
+
+they led us to Sandomierz, into town, and then took us to the Castle. Et praeter
+
+haec plura non recognovit [And beyond these he did not recollect any more]
+
+Post connotationem itaque praemissorum liberorum confessatorum suprascriptus
+
+Praesentans et statuens instigator Ciuitatis huius Sandomiriensis eosdem Inculpatos
+
+taliter examinatos rursus ad se recepit et de receptis Officium praesens quietauit:
+
+[After recording the foregoing free confessions, the above-mentioned instigator of
+
+the city of Sandomierz, presenting and standing, received the thus examined
+
+accused again, and the present office acknowledged their receipt??]
+
+Offerendo se eosdem in debita custodia detenturum et sine mora ad Judicium
+
+quodvis pro disjudicatione causae et paerus legum [19r] deducturum et staturum.
+
+Et hic subinde post determinationem et connotationem liberorum confessatorum
+
+dictorum incuplatorum Judaeorum Statutorum idem instigator civitatis praesentis
+
+Sandomiriensis quoniam praefati inculpati tam apertum facinus pertinaciter negant,
+
+ad convincendam illorum tam pervicacem pertinaciam, petyt a variis personis
+
+circumstantias facti ante et post patratum nefas observantibus et considerantibus
+
+atque advertentibus testimonia suscipi. Cuius affectatione uti in causa tanti criminis
+
+officium presens annuendo ab infrascriptis personis fide dignis Relationes et
+
+testimonia seu attestations Juramento quidem non comprobatas. (utpote nullo ad
+
+huc mediante Decreto tum ne officium praecipitanter et affectate infrascripta facere
+
+2 Klimontów is about 13km from Gorzycany, and 22 km from Koćmierzów, andvideatur) fide tamen dignas et personarum authoritate firmatas propter majorem
+
+Judicii informationem habendam ad Acta sua suscepit et easdem verba
+
+recognoscentium formalia infrascripta connotauit.
+
+[By offering he will detain them in due custody and will withdraw and abide
+
+without delay to any judgment before the judgment of the cause and the provisions
+
+of the laws. [19r] And immediately after the conclusion and recording of the
+
+established free-confessions of the said accused Jews, the same instigator of the
+
+present state of Sandomir, since the aforesaid accused [Jews] obstinately deny such
+
+an open crime, in order to prove their stubborn obstinacy, asked various people for
+
+testimonies about the circumstances observed, considered and noted, before and
+
+after the crime was committed….]
+
+Itaque primo Admodum Reverendus Albertus Koszycki [19v] Vicarius Ecclesiae
+
+Collegiatae Beatissimae Virginis MARIAE Sandomiriensi hanc spontaneam libere
+
+Officium praesens accedens fecit Relationem. [Therefore, approaching the present
+
+office first Reverend Albterus Koszycki, the vicar of the Collegiate Church of
+
+Mary the Virgin in Sandomierz freely made this spontaneous account]
+
+I first heard about it today from the honorable judge of the Castle court, who has
+
+arrived to hear the inquiry regarding the Tribunal Decree, that when the honorable
+
+[judge] was on his way to the Church of Mary Magdalene, Sandomierz Jews,
+
+running past him, turned around, and complained about Sandomierz townspeople
+
+for having thrown a corpse near the synagogue and asking for justice against these
+
+townspeople. The honorable judge answered them,
+
+“If this was done by a private
+
+townsman, then they had to go to the magistrate court, and if it is needed, I will
+
+adjudicate it,
+
+” and he entered the church and Jews left.
+
+Also on her way to the church, the housekeeper of his honorable judge’s manor,
+
+hearing this from a distance and wanting to know what had happened, went there
+
+[to the synagogue?] and having returned, she came with great astonishment to his
+
+honorable [20r] judge and said that the corpse was not dropped at Jews’ but that
+
+Jews themselves slaughtered the child, as marks [on the body] suggest.And from then, the news spread, reaching the Reverend Priest Official of
+
+Sandomierz [Żuchowski] and the parish priest because the townspeople, having
+
+found the corpse and the wounds, first notified the honorable judge and, as
+
+directed, then appropriately notified the reverend priest official as a local pastor
+
+about the corpse and about how Jews, that is the rabbi with his son-in-law and his
+
+own son, had escaped.
+
+The Reverend Priest Official immediately directed me to go to Andruszkowice and
+
+to Złota, asking for help, so that people could search for the fugitives in scrublands
+
+(as was rumored), and Lord Borkowicz, a Sandomierz burgher, also sent by the city
+
+to [assist in] the search, approached me in Złota running and saying,
+
+“I looked for
+
+the Jews in Koćmierzów and happened upon the Koćmierzów *arendar* who [20v]
+
+stopped with his wagon and when I asked where he had come from, he responded
+
+that he was carrying malt to Zajeziorze [a village not far from Samborzec] and
+
+when I investigated him some more about the Sandomierz Jews, he responded that
+
+he took them to Samborzec. And so having heard that, I, together with Lord
+
+Borkowicz, went to Samborzec and having arrived at the *arenda* we asked if the
+
+Koćmierzów *arendar* had been with some other Jews, [and the *arendar* answered]
+
+that he had been here and brought malt but he did not see any Jews.
+
+And not finding them as if *dictante spiritu sancto* [with the holy spirit advising] we
+
+went toward Klimontów and we arrived to Gorzycany, where we came across a
+
+peasant from Gorzycany carrying flour from the mill and we asked this peasant if
+
+Jews, one old and two younger, passed through,, and the man responded,
+
+“I did not
+
+see them pass through but in the brewery there are some like the ones you, Sir, are
+
+asking about.
+
+” And so, we immediately went directly to the brewery, and it was
+
+already in the afternoon, and in the courtyard we found a wagon ready to go; in the
+
+meantime, having left Lord Borkowicz [watching] the wagon, I myself went into
+
+the living quarters and then to then to the chamber [*komnata*, 21r], and I ordered
+
+that it be opened and I found all three Jews who were getting ready to leave, and
+
+when I told them what they had done, they said nothing; and without delay, we
+
+took them, and they, and especially the son-in-law and the son had no hats and
+
+outerwear just *yarmulkes*, saying that this was how they had left Sandomierz. And
+
+having taken them, we went to the manor in Samborzec to prepare them and
+
+appropriately secure them [? *dla opatrzenia y ich należytego doprowadzenia*], andthe wife of the deputy *starost* [*Pani Podstarościna*]** said that the Koćmierzów Jew
+
+carried these Jews but two in sacks and the little one on top; and having tied them
+
+in Samborzec, we brought them to the Castle court.
+
+I heard from the honorable lord judge that the deputy *starost* of Koćmierzów said
+
+to him that when these Jews had arrived in Koćmierzów and started babble
+
+something in Yiddish [*szwargotać poczęli*], one Koćmierzów Jewess put her hands
+
+on her head and said “I don’t want to know anything about it, I am leaving.
+
+”
+
+Secundo Nobilis Nicolaus Kaliszański Administrator Bonorum Koćmierzow
+
+spontanee recognovit [The second [witness] the nobleman Nicolaus Kaliszański,
+
+the administrator of the Koćmierzów estate, freely recounted]:
+
+I was in the field when, before noon, Lord Zrazewski, the deputy *starost* from
+
+Smiechowice arrived with some other people [21v] and related what had happened
+
+in Sandomierz, asking for the Koćmierzów *arendar*, and [then wanting to] arrest
+
+him at my place on the grounds that he had carried the accused Jews. And when
+
+they left inquiring about them, I noticed that the Koćmierzow *arendar* was
+
+returning with an empty wagon. Having called him, I said that “you are to be
+
+arrested here. You drove the rabbi and his son-in-law and his son, and they
+
+slaughtered a child. Where did you take them?” He answered,
+
+“I was taking malt to
+
+the mill in Samborzec because I was afraid to go to Wisła so my horses would not
+
+be taken away. But it is true that I drove these Jews to Samborzec, and from there
+
+they went to Gorzycany. I do not know what had happened in Sandomierz, only it
+
+is our custom that when a rabbi comes or someone poor that it is an obligation to
+
+drive them.
+
+” And after that, I left a note for the deputy *starost* of Gorzycany to
+
+hold them. But in the meantime the reverend priest Koszycki tracked them down.
+
+And this is what I heard from the servants at the brewery that when these Jews
+
+arrived from Sandomierz and began to speak among themselves in Jewish, an old
+
+Jewess put her hands on her head [22r] and began to moan.
+
+Tertio Honestus Nicolaus Miłosowicz Braxator recognovit libere [The third
+
+[witness], honest Nicolaus Miłosowic, the brewer, freely recounted].
+
+3
+
+3 “honestus” was a title added in official documents to denote a status to distinguish between “nobilis” (a
+
+nobleman) and “laboriosus” (a peasant, serf).
+
+“Honestus” typically applied to townspeople.I was brewing beer in Koćmierzów and I saw these Jews when they arrived in the
+
+brewery, and they loitered around and I asked the little boy,
+
+“Where are you from?”
+
+And he said we are from the city, and then the *arendar* prepared the wagon and
+
+told us to put two sacks of malt, and the Jews had left toward the field before [the
+
+*arendar*]. And then, when the *arendar* returned, we told him about [what
+
+happened], and he responded: “This is my misfortune that I caught up with those
+
+Jews and took them on the wagon and drove them to Samborzec. Afterwards they
+
+went to Gorzycany.
+
+”
+
+Quarto Famata Augustynowiczowa similter spontanee ad Officium praesens
+
+veniens retulit [Fourth [witness] the townswoman Augustynowiczowa similarly
+
+freely appearing before this Office recounted].
+
+This dead [child] was an orphan. I don’t know where he was from [but] he went
+
+around begging. Out of mercy, I took him to my house several weeks ago. And
+
+then when he was wandering around the city and if he was gone for a long time,
+
+sometimes I would scold him [beat him?] for his wanderings and ask him where he
+
+had been, and he answered that among Jews collecting kindling wood, and I asked
+
+further if the Jews [22v] had given him anything. He responded that a Jewess had
+
+given him bread with butter, but he could not say which one.
+
+And I admonished him not to go to Jews, telling [him] and [trying to] scare him
+
+that Jews had killed a girl. And for this reason [that he was wandering around], two
+
+or three weeks ago I sent him to school of the Virgin Mary.
+
+Yesterday, that is on Sunday, I returned from church and not having found the boy
+
+[at home] I asked my daughter where Jurek [the boy’s name] was, and she said,
+
+“He was eating without saying a prayer. And I told him,
+
+‘How can you eat without
+
+saying a prayer, my mother will beat you when she comes back from church, and
+
+he went away somewhere.
+
+” And when around noon there was no sign of the boy, I
+
+began to gripe against the girl,
+
+“Why did you scare the boy? Go and look for him.
+
+”
+
+She was searching for him all afternoon, in inns, which he frequented, but she did
+
+not find him. And we thought that soldiers took him. And then this morning twoburgher women, Lady Wronowiczowa and Wasilowska, came to me, asking about
+
+the boy. And when I answered [23r] that he was not here, they told me that he was
+
+[found] at the Jews’
+
+, killed, and when I went with them to see this corpse at the
+
+rabbi’s, I recognized him. And I found the rabbi’s wife, who was bustling
+
+frightened and saying,
+
+“They tossed an infected corpse over the fence, and he got
+
+scratched in the blackthorn, and it seems that they threw stones at it.
+
+”
+
+And then more people came and gawked, each saying that it obvious to see that the
+
+child was pricked [pokłóte]. And I then left the child and the Jewess, and went to
+
+Mr. Nowicki [the mayor] to complain against Jews about this, but they, that is Wolf
+
+Liczman and Czapnik [hatter] had been there ahead of me, complaining against me
+
+that I had been keeping an infected child and then I ordered it to be tossed, and
+
+when the mayor scolded me, I and other people who came with me said that the
+
+deceased child was not infected, but that Jews killed him, and then they [the
+
+mayor] asked me if I had been looking for the child [23v] and I told the truth, and
+
+to ascertain [that I was telling the truth] they sent for my daughter, who said in
+
+everyone’s presence how she was looking for [him] in inns, and then more people
+
+came and I went back home.
+
+Quinto. Honestus Balsius Żmuda Civis Sandomieriensis retulit benevole [Fifth
+
+witness *honestus* Balsius Żmuda, a burgher of Sandomierz recounted willingly]
+
+I was working in the brewery, which is on the Jewish street, next to Jew Czapnik’s
+
+house. And I came this morning to take care of the beer, and the beadle was
+
+running from house to house knocking to get people to the synagogue, and after he
+
+quickly run around and returned, passing by the Brewery and ran toward Czapnik’s
+
+house. Seeing him bewildered and [seeing] that Jewesses were coming out and
+
+babbling something in Yiddish [*szwargotały*], I asked what had happened among
+
+them, thinking that some soldiers arrived and did something, but this beadle
+
+responded,
+
+“It’s none of your business, I am going to an Elder,
+
+” and he went to
+
+Czapnik. And I, walking behind him, saw that some Jew [24r] [came] to Czapnik. I
+
+do not know him and do not know if he is from here or not. Old, graying, and he
+
+left the living quarters, and they were speaking with each other in Jewish in the
+
+hallway, I do not know about what. I did not see Czapnik. I then asked the beadle,
+
+“What was he talking about with that Jew?” And he responded,
+
+“It’s none of yourbusiness,
+
+” and then when people broke the news about the child’s killing, I again
+
+spoke to the beadle, who was passing by. I asked, you did not tell me anything. But
+
+he said, it is not a custom among us to talk but first to let the Elders know.
+
+Sexto. Honestus Alexander Borkowicz Civis et Incola Sandomiriensis in haec
+
+formalia spontanee recognovit. [Sixth. *Honestus* Alexander Borkowicz, citizen and
+
+inhabitant of Sandomierz, with these formally and spontaneously recounted]
+
+This morning I came to Mr. mayor, my step father, where I found Sandomierz
+
+Jews, Wolf Liczman, Czapnik, and the beadle. They complained that someone
+
+dropped off an infected corpse, asking to bury this corpse because people were
+
+going to be afraid, [saying] there was no benefit for it to be lying for too long. And
+
+hearing this, I went there with other townspeople to take a look; and then having
+
+returned, and seeing Jews [still there] I said it was not true that the child died of an
+
+epidemic infection [*z powietrze*, lit. from the air] but that it was slaughtered by
+
+Jews.
+
+When Jews heard this, they became sheepish and terrified; Wolf changed, once he
+
+was pale, then red. And when it became known that Jews were running away, I
+
+took a horse and chased after them, and I caught up with Abusia’s son-in-law, who
+
+was carrying a box and running away. And I brought him back to Sandomierz. And
+
+then, seeing that the rabbi with his son-in-law and son, in whose house the
+
+murdered child was found, had run away, I went to the *arendar* near the castle and,
+
+to get the horses faster, I said,
+
+“The Honorable Burgrave ordered that you give me
+
+a horse.
+
+” And I asked him about the Jews, the rabbi, and his son and son-in-law
+
+[25r]. This *arendar* pointed [?] and said,
+
+“this rabbi came to my place but left not
+
+too long ago for Koćmierzów.
+
+” And I immediately went to the mill in Koćmierzów.
+
+And it could be that they went there or toward Zajeziorze. And so I went toward
+
+Zajeziorze and then I saw in Złota from afar a wagon going toward Koćmierzów.
+
+And I turned around toward the wagon and began to yell,
+
+“Stop, stop!” But when
+
+he did not heed, I cut him off: and then seeing the Jew, Koćmierzów *arendar*, I
+
+asked for information,
+
+“Where did you take the rabbi and others?” And he, being a
+
+bit stumped, responded that [he had taken them] to Samborzec. And hearing in
+
+Złota that the reverend priest Koszycki [was there], I told [25v] him that, and we
+
+went to Samborzec. And there, in the brewery, we asked about them [Jews]. Butthe *arendar* said,
+
+“They have not been here, I only heard that the Koćmierzów
+
+*arendar* brought malt to the mill. And then sent the lackey of his Reverend Priest
+
+Official on a different route, and I, along with the reverend priest Koszycki, went
+
+toward Gorzycany. And there we came across a peasant carrying flour from the
+
+Gorzycany mill, and we asked this peasant about these Jews, and he said that there
+
+were three new Jews, one old and two young at the *arenda* in Gorzycany; they had
+
+arrived not too long ago.
+
+When we learned that, we went directly to Gorzycany and having gone into the
+
+storage room, whose door was left ajar, we found the rabbi, his son-in-law, and his
+
+son, who were getting ready to leave, since their wagon was ready. And as we
+
+began to arrest them, this little Jew [*Żydek*] who had come to take them, run away
+
+[26r] with the wagon. And after we had taken them in Gorzycany, we stopped in
+
+the manor in Samborzec to secure the prisoners better, and we borrowed a rope,
+
+and the wife of the deputy *starost* said that the Samborzec *arendar* was greatly
+
+cursing reverend Koszycki, and she said,
+
+“It must be true that Jews had done it,
+
+when they were brought to the Samborzec mill in sacks.
+
+”
+
+From Samborzec we took all three Jews to Sandomierz and her we delivered them
+
+to the Castle for voluntary confessions. Sicque et non aliter se vidisse et audivisse
+
+officio praesenti retulit. Quae praemissa relata Officium praesens Actis suis
+
+connotavit. [And thus, and in no other way, he reported to the present office what
+
+he had seen and heard. These above reports the present Office inscribed in its
+
+records].
+
+ACTUM in CASTRO SANDO[26v]MIRIENSI FERIA SECUNDA POST
+
+FESTUM ASSUMPTIONIS IN CAELUM GLORIOSSIMAE VIRGINIS
+
+MARIAE PROXIMA ANNO DOMINI MILLESIMO SEPTIGENTESIMO
+
+DECIMO [In Sandomierz Castle, Monday after the feast 
+
