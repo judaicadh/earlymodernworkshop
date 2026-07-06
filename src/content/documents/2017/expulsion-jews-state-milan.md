@@ -41,7 +41,7 @@ description: "Documents presented here come from three different sources: the
   preservation and organization, since those six documents from Simancas were
   preserved together in a file and given a sequence of numbers from 33 to 38,
   even though they cover a timespan of at least 15 months."
-original_language_body: >-
+original_language_body: >+
   ## Source 1 Original
 
 
@@ -644,11 +644,6 @@ original_language_body: >-
 
 
   ## Source 6 Original
-
-
-
-
-  &nbsp;
 ---
 ## Introduction
 
@@ -820,3 +815,6 @@ For these reasons, we conclude that we cannot prohibit them from living in Chris
 
 ## Source 6 Translation
 
+Joseph ha-Kohen, *Sefer Emeq Ha-Bakha*, Karin Almbladh, ed. (Uppsala, 1981), 112.
+
+There was a Jew in Alessandria by the name of Samuel [Simon] ha- Kohen. He offered to go to Spain on behalf of the Jews to plead for his fatherland. . . . [A]fter he arrived in Spain, he conferred with the councilors about the plight of the Jews. He even succeeded in getting all the way into the palace where the King and his highest ministers were. He spoke in the name of the Jews and asked why he planned to deal in this way with his servants who had assisted him and his father in times of trial. He said that they were still ready today to help him with as much and more for the poor and indigent in case this became necessary, and that they could bring witnesses to justify them. But if the king had once decided to expel them, he would then demand, in the name of the Jews, that he first repays them what they could rightfully claim; for this is what justice demanded.
