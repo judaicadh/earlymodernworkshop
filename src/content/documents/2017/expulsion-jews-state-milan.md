@@ -382,6 +382,265 @@ original_language_body: >-
   ## Source 5 Original
 
 
+  Archivio di Stato di Milano, Fondo Culto 2159, Fasc. 1; Shlomo Simonsohn, *The
+  Jews in the Duchy of Milan* (Jerusalem: Israel Academy of Sciences and
+  Humanities, 1982) vol. 3, 1813- 1819.
+
+
+  Instruttione et Allegatione per gli Hebrei del Stato di Milano per informare
+  sua Maestà in essecutione d’una sua lettera de 25 Aprile 1589.
+  All’Illustrissimo S. Governatore del Stato di Milano.
+
+
+  Anchora che l’articuolo sii chiarissimo, che gl’Hebrei, quali vivono bene, non
+  si possano non solamente prohibire habitare nelle terre de Christiani, ma anzi
+  che se gli debba permettere per molto più Chiara dimostratione s’adduce prima
+  la dicisione de la legge Christianis C de paganis. Et qual fu fatta da
+  gl’imperatori Honorio et Teodosio che erano pur Christiani, et havevano la
+  cognitione del lume della vera et ortodoxa fede Christiana, col voler turbare
+  gl’Hebrei, sotto pena del duplo a chi turbasse, et la medesima pena è
+  constituita a i Rettori delle provincie et a li Giudici, che non daranno le
+  sudette pene a tali turbanti gli Hebrei. A tal che ivi si legge, che si chiama
+  abusare la religione Christiana nel turbare gl’Hebrei. Molte altre legge et
+  canoni sono a questo proposito quali per brevità si omettono. Non
+  traslaciando però, che nelli sacri canoni fatti da Santi Padri et Sommi
+  Pontefici, a quali tocca maggior parte de tali particulari, si leggono molte
+  dispositioni fatte sopra gl’Hebrei, come si vede in tutto el titulo ex. de
+  Iude. qual sarebbono superflue se l’habitatione non fusse permessa da
+  gl’istessi Santi Padri, et la legge non admette superfluità alcuna, item in
+  quibus in prima constitutione Civitatis dal che si comprende, che la
+  habitatione e permessa di ragione. Et questo più chiaro si dimostra da
+  l’effetto seguito, et sempre continuato, perche si trova per cosa notoria, che
+  gli Hebrei non solamente sono sempre et continuamente statti permessi habitare
+  nelle giurisdittioni de Prencipi secolari per tutta la Christianità, ma
+  ancora in quella della Santa Chiessa, anci nel’istessa Cità dove habitano i
+  Sommi Pontefici, et dove hanno giurisdittione temporale, el che più chiaro si
+  dimostra per la fede fatta sotto 25 Genaro 1568 dall’Illustriss. Et
+  Reverendiss. Cardinale Vitellio Camerario Apostolico, dove si legge, che el
+  Santissimo de felice memoria Pio Papa Quinto dal giorno che fu eletto Papa
+  fin’al giorno d’essa fede, sempre et continuamente ha permesso et tolerato
+  Hebrei stare, habitare, et prestare nelle Provincie, Cità, Castelli, et
+  luochi mediatamente, overo immediatatemente alla Santa Romana Chiesa suggetti,
+  et che esso Ilustriss. et Reverendiss. Camerario ad ogni Hebreo che vogli
+  stare, habitare, et prestare indistintamente suole dare et concedere licenza
+  per sue patente, signata primo. Item per una simil fede dell’Illustriss. et
+  Reverendiss. Cardinal Caetano Camerario Apostolico fatta a di 18 Febraro 1588
+  per quale appare che nelle terre della Santa Chiesa si da licenza ad hebrei di
+  habitare et fenerare con deputatione de giudici, et che si darebbe nel Stato
+  de Milano, se a questo vi concoresse la volontà del potentissimo Re Filippo
+  sign 2a. Et cosi per questi doi fondamenti cioe della dispositione della legge
+  et dell’osservanza, si conosce chiaramente, che non se deve prohibire
+  l’habitatione a gli Hebrei.
+
+
+  S’aggiunge il terzo fondamento qual si pigli dalla communissima opinione de
+  Dottori che in questa materia scrivono, che gl’Hebrei non si debbono
+  scacciare, pur che si portino modestamente, como doppo Oldrado, Alessandro,
+  Iasone, Parisio, et altri allegati nell’apostilla ad Alex. consi. 13 col. 4 in
+  7 vol. et Marsil. consi. 101 num. 56 attesta Antonio Corset. in tract. de
+  potesta req. q. 81 et Marquardo de Susan. in tracta. de Iude. parte pri. cap.
+  7 Martin Lauden. in tracta. de Princip. quest. 9 et nel proprio termine delli
+  Hebrei habitanti nel stato de Milano; vi è il consil. de Rolan. da Valle 25
+  in 3 vol. Et che gl’Hebrei si portino modestamente, et senza scandalo, et non
+  sijno processati de delitti, o cosa scandalosa, si prova per l’infrascritte
+  fede. Una del molt’Illust. Sig. Don Rafael Mandrich col suo sigillo, che
+  gl’Hebrei habitanti in Cremona si portano modestamente, trattando con
+  Christiani con rispetto et riverenza, et c’hanno soccorso con molta commodità
+  et cortesia a Soldati, et in transito de Principi hanno servito de utensila et
+  robbe per regular’ essi Principi. Sign. A.
+
+
+  Une del sig. Bernardino Lodi attuario del Sig. Subconservatore d’Hebrei di
+  Cremona con fede de legalità, che gl’Hebrei ivi habitanti procedono con
+  modestia contra suoi debitori, et ricercati soprasedono anchora
+  dall’essecutioni a loro concesse. Sign. B.
+
+
+  Una del Sig. Francesco Corbelino attuario Criminale di Cremona con fede de
+  legalità, che gl’hebrei ivi habitanti vivono quietamente, et non
+  contravengono a gl’ordini et cride de superiori. Sign. C.
+
+
+  Una delli Mag. Signori Vicario, Giudice, et Fiscale di Pavia, che gl’hebrei
+  ivi habitanti vivono quietamente, accomodando chi trafica con loro. Sign. D.  
+
+  Una del Sig. Christoforo da Corte attuario del Sig. Subconservatore d’Hebrei
+  di Pavia, conforme all’antecedente. Sign. E.
+
+
+  Una delli Mag. Signori Decurioni di Lode con fede de legalità, che gl’hebrei
+  ivi habitanti sono pronti a prestar gratis per regalare gl’Illustriss.
+  Principi et altri Signori che vengono a Lode utensilia et robbe, et sono
+  amorevoli nelle suoi negotij et si deportano bene. Sign. F.
+
+
+  Una del Sig. Francesco Bondena attuario del Sig. subconservatore d’Hebrei di
+  Lode con fede de legalità, conforme all’antecedente. Sign. G.  
+
+  Una del Sig. Francesco Prevedono attuario Criminale di Lode con fede di
+  legalità, che gl’Hebrei ivi habitanti non sono stati querelati de cosa
+  scandalosa da 25 anni in qui. Sign. H.
+
+
+  Una del Rever. Sig. Vicario Episcopale d’Alessandria, che gl’Hebrei habitanti
+  in quella cità vivono senza scandalo, procedendo con modestia con tutti.
+  Sign. I.  
+
+  Una delli Mag. Signori Subconservatori d’Alessandria, che gl’Hebrei in quella
+  Cità vivono quietamente, et hanno usato cortesia a Christiani in dargli
+  dilationi a pagare, et rimettergli interessi et spese, et all’occasione hanno
+  servito di utensilia et robbe in passagio de Principi. Sign. K.
+
+
+  Una del Mag. Sig. Luocotenente del Mag. Sig. Sindicatore d’Alessandria, che
+  gl’hebrei ivi habitanti non sono d molt’anni in qua querelati d’eccesi, et si
+  portano modestamente. Sig. L.
+
+
+  Una delli Signori Attuarij del Civile et Criminale di Casalmaggiore con fede
+  de legalità, che gl’Hebrei ivi habitanti hanno prestato danari gratiosamente,
+  et procedono con modestia contra debitori, et soprasedono dall’essecutione
+  ottenute. Sign. M.
+
+
+  Una del Notaro Criminale di Casal Maggiore con fede de legalità, che
+  gl’hebrei ivi habitanti non contravengono a cride o ordini de superiori. Sign.
+  N
+
+
+  Dal che si comprende, che ha luocho la sudetta commune opinione poi che vi
+  concorre la qualità ricercata, et è fondata nelle sudette leggi et canoni.
+
+
+  Quarto, si fortifica questa conclusione per molte ragioni, che persuadono
+  questo, delle quale se ne adducono alcune particulari fra infinite che si
+  possono addurre. Prima che alcuni Hebrei per tal habitatione vengono a
+  cognoscere la verità della fede Christiana, et cosi pigliano el santo
+  battesimo del che più se allegra l’Evangelico Pastore che delle sue pecore
+  ben custodite, et cosi stando che noi debbiamo curare la conversione d’essi
+  Hebrei, Abb. in cap. quod super ex. de vot., et non potendosi questo far
+  altramente e che per la cohabitatione quella si deve per questa ragione
+  concedere. Secunda che gl’Hebrei ne riducono a memoria la passione del nostro
+  Signore et Redentore, come rei de quella, et nelli suoi libri si prefigura la
+  verità della nostra fede Christiana Fel. et Soc. in cap. consuluit ex. de
+  Iude. Terza, che anchora gl’Hebrei sono pecore di Christo per creatione, non
+  per redentione, se con il santo Battesimo non si procacciano la salute poi che
+  sono invitati alla mensa Evangelica i buoni et i cattivi, benche poi restino
+  scacciati quelli che non hanno la veste nuptiale, et cosi se dal sommo fattore
+  sono invitati, et vivono nella figura della nostra fede, non se gli deve di
+  ragione prohibire l’habitatione.
+
+
+  Quarta, che siamo obligati a far elemosina ancora alli Hebrei poveri cap.
+  quiescamus 42 distinct. et che non si puo considerare per discorso naturale,
+  se non con l’habitatione d’essi Hebrei nelle nostre Città, perche altramente
+  non potressimo esser informati della loro povertà et bisogno.
+
+
+  Quinto, se accresce questa dispositione considerando la utilità, che ne segue
+  a li populi subditi di sua Maestà Catholica, quali per la habitatione de
+  Hebrei affitano le case, che forse restarebbono vacue, et le affitano più
+  care a gl’Hebrei : ancora gli vendono i suoi frutti, grani, vivi, et altre
+  cose pertinente al vestire et fornitura di casa. Ne de questo deve sua M. R.
+  Cath. farne poco conto, convenendoseli favorire et aggiutare a suoi sudditi,
+  et dargli tutte le commodità perche restino solevati et ricchi in quanto si
+  pò, atteso che detti sudditi quanto più cavano delle sue intrate, et quanto
+  sono più ricchi sono ancora più habili et idonei a pagare i censi devuti a
+  sua M.R.C.
+
+
+  Sesto, non se ha da ommetere a questo proposito le molte utilità de sua
+  M.R.C. delle quale accesoriamente a le altre ne pò havre conveniente
+  consideratione. Prima che le sue Città sono più populose et ricche con
+  l’habitatione d’essi Hebrei, dd. in. l. l. ff. sol. matr. Secunda, che i suoi
+  Datij s’affatano più poi che gli Hebrei, et per cose de suo uso, cioe macina,
+  dacio de vino, carne, et altre simil cose necessarie al vitto humano, et per
+  alcune de mercantie pagano ogn’anno grossa somma de danari de Dacij.
+
+
+  Et che dalli negotij d’Hebrei ne risulti grand’utilità a sua Maestà per i
+  dacij, si prova per l’infrascritte fede.
+
+
+  Una delli assistenti al dacio de Milano, che gli hebrei hanno datto et danno
+  grandissimo utile alli dacij. Sign. O.
+
+
+  Una publica per mano di Notaro con fede de legalità dal daciaro de Cremona
+  delle precedente sostanza. Sign P.
+
+
+  Una del daciaro de Pavia della precedente sostanza. Sign. Q.  
+
+  Una publica per mano di Notaro con fede de legalità dellli Daciari di Lode
+  della precedente sostanza. Sign. R.
+
+
+  Una del daciaro d’Alessandria dell’antecedente sostanza. Sign. S.
+
+
+  Una publica per mano di Notaro con fede legalità del daciaro de Casal
+  Maggiore dell’antecedente sostanza. Sign. T.
+
+
+  Una publica per mano di Notaro con fede de legalità del daciaro de
+  Pizighitone dell’antecedente sostanza. Sign. U.
+
+
+  Secunda che sua M.R. Cath. a suoi bisogni si è servita delle facoltà d’essi
+  Hebrei come ha fatto da trenta anni in qua, che oltra quello hanno pagato
+  gl’Hebrei per la licanza di fenerare, et di non portar segno differente da
+  Christiani, hanno ancora servito a sua M. Reg. Cath. de molti danari, come se
+  dirà de sotto, de quali ancora ne restano creditori, et tali danari sono
+  stati tolti a tempi de urgente necessità, et quando non si trovavano
+  Christiani che de tali danari servissero, et a questo proposito s’aggiunge che
+  se alcuna volta Christiani in simil casi hanno servito, ne hanno voluto
+  ricavare grossissimo interesse, et hanno voluto certissime et fortissime
+  cautione, come s’adduce per cosa notoria. Ma gl’Hebrei hanno servito senza
+  incommodarsi, anzi con suo grandissimo commodo per l’interesse che cavavano,
+  et per contro gl’Hebrei, oltra che no hanno havuto interesse hanno ancora
+  servito de tali danari con grandissimo suo incommodo et danno, anzi ruina,
+  perche alcuni de loro per tal causa sono restati poverissimi et miserabili, a
+  tal che non hanno di che vivere, se con la sua industria non se lo
+  procacciano. Terza, che con l’habitatione de gli Hebrei sua M.R. Cath
+  gratifica duoi benemeriti facendoli conservatori, a quali si paga il censo da
+  gl’Hebrei quando habitano et prestano a usura, et se sua M.R.C. non
+  gratificasse tali benemeriti a questo modo, sarebbe necessario gratificarli de
+  quello che è de sua M.R.C et cosi per l’evidente utilità de sua M.R. Cath.
+  insieme con tutte l’altre chiarissimamente appare, che l’habitatione non si
+  deve prohibire a gl’Hebrei in questo stato. Ne a questo obsta che vi sij
+  pericolo della commistione carnale de gl’Hebrei con li Christiani, perche se
+  risponde, che tal suspitione era fin al tempo che fu fatta quella legge
+  Christianis, et tanti canoni come sopra, et niente di meno non sono mancati i
+  legislatori et conditori di canoni de far tal legge et canoni. Di più se si
+  vorrà cercare nei processi criminali de questo stato non se ne troverà uno
+  solo sopra tale imputatione contra alcuni Hebrei, perche gl’Hebrei
+  infinitamente perseguitati (se non per altro, almeno per paura di gran
+  persecutione et pena), s’astengono talmente, che cessa ogni suspitione. Ma de
+  più poi che la legge si deve accomodare a gli casi più frequenti, non si
+  deve talmente considerare un delitto che possa commettere un particolare, che
+  da quello se piglia l’occasione de far una legge generale anzi universale
+  contraria, anzi stando in ogni caso la suspitione contra alcuni particolari,
+  et la presumptione ch’el maggior numero si debba portar bene, ancora che de
+  raggione se debba più attendere la causa che obsta, che quella giova, Ias. in
+  I.siis ad quem num. 28 de aquir. Haered., Alciat. in tracta. de praesumpt.
+  pri. reg. praesump. 30, Soc. Iun. consi. 37. num. 22. in pri. vol.
+  Nientedimeno si limita detta conclusione non haver luocho (quando bene
+  procedesse nel nostro caso, al quale però non si puo accomodare) quando la
+  causa che giova è più potente, come l’istesso Ias. nel sudetto luocho dice,
+  ne vi è da dubitare che più potente è la presumptione de molti che la
+  suspitione de pochi, et la ppresumptione del bene che la suspitione de male,
+  massimamente poi che chi in cio falasse si potrebbe severamente castigare :
+  come ancora si permette il portar di spada universalmente, ne si ha risguardo
+  che alcuno possi con quella far alcun delitto, o mal operatione, poi che
+  contra tali delinquenti si procede, et se gli da el debito castigo.
+
+
+  Et per obedire a quanto sua Maesta commanda, quanti Hebrei habitano in questo
+  stato di Milano : Si dice, che in tutto sono al num. de 889. cioè a Cremona
+  456, a Pavia 123, a Lode 130, a Alessandria 103, a Casal Maggiore 71, a
+  Caravaggio 6. Per queste raggioni si conclude non potersi prohibire
+  l’habitatione loro nelle terre de Christiani.
 
 
   ## Source 6 Original
