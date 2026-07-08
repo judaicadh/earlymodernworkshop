@@ -71,7 +71,7 @@ Stephanie B. Siegmund, *The Medici State and the Ghetto of Florence: The Constru
 
 ## Source 1 Translation
 
-**Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:[^1]**
+**Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:**[^1]
 
 **With God’s Help**
 
