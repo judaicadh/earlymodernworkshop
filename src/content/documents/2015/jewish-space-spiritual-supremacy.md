@@ -118,9 +118,9 @@ And so, we also gave the honorable *camerlengo* mentioned above a pair of silk s
 
 **Footnotes**
 
-[^1] A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439 (Neubauer 2239), fol. 138r. 
+[^1]: A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439 (Neubauer 2239), fol. 138r. 
 
-[^2] Isaiah 57:14.  
-[^3] Isaiah Bassan served as chief rabbi of Padua between 1715 and 1722.
+[^2]: Isaiah 57:14.  
+[^3]: Isaiah Bassan served as chief rabbi of Padua between 1715 and 1722.
 
-[^4] Jews were permitted to carry throughout the city, except in the Castello Carrarese at the southeast corner of the city on the Bacchiglione River. At the time, the Castello may not have been in use. Between 1767 and 1777, its main tower was transformed into an astronomical observatory known as *Specola*.
+[^4]: Jews were permitted to carry throughout the city, except in the Castello Carrarese at the southeast corner of the city on the Bacchiglione River. At the time, the Castello may not have been in use. Between 1767 and 1777, its main tower was transformed into an astronomical observatory known as *Specola*.
