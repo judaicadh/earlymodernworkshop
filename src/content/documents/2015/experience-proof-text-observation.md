@@ -43,7 +43,7 @@ The late seventeenth and early eighteenth centuries marked a significant period 
 
 ++Useful studies on observation, experience, and empiricism in the early modern period include:++
 
-Daston, Lorraine, and Elizabeth Lunbeck, eds. *Histories of Scientific Observation.* Chicago: University of           Chicago Press, 2011.
+Daston, Lorraine, and Elizabeth Lunbeck, eds. *Histories of Scientific Observation.* Chicago: University of Chicago Press, 2011.
 
 Dear, Peter. *Discipline and Experience: The Mathematical Way in the Scientific Revolution.* Chicago: University of Chicago Press, 1995.
 
