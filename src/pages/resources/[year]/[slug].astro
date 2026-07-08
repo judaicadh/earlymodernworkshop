@@ -2,7 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Layout from "../../../layouts/Layout.astro";
 import { Schema } from 'astro-seo-schema';
-import { marked } from 'marked';
+import { marked } from '../../../utils/marked';
 import { slugifyTag } from "../../../utils/slugifyTag";
 
 export async function getStaticPaths() {

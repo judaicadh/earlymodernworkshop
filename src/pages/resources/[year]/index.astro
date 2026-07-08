@@ -3,7 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import years from '../../../content/years.json'; // adjust path as needed
 
 import Layout from "../../../layouts/Layout.astro";
-import {marked} from "marked";
+import { marked } from "../../../utils/marked";
 
 const { year } = Astro.params;
 
