@@ -99,10 +99,10 @@ Stephanie B. Siegmund, *The Medici State and the Ghetto of Florence: The Constru
 
 **Footnotes**
 
-[^1] Luzzatto used the term קיבוץ השלימות in his introduction to theosophical Kabbalah, *Derekh Hashem*. 
+[^1]: Luzzatto used the term קיבוץ השלימות in his introduction to theosophical Kabbalah, *Derekh Hashem*. 
 
-[^2] Oxford, Bodleian, Mich. 439 (Neubauer 2239).  
-[^3] Mordecai Chriqui, *Igerot Ramhal u-bene doro* (Jerusalem: Mekhon Ramhal, 2001), no. 30, p. 86.
+[^2]: Oxford, Bodleian, Mich. 439 (Neubauer 2239).  
+[^3]: Mordecai Chriqui, *Igerot Ramhal u-bene doro* (Jerusalem: Mekhon Ramhal, 2001), no. 30, p. 86.
 
 ## Source 1 Translation
 
