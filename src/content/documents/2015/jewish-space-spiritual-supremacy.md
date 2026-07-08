@@ -39,9 +39,6 @@ original_language_body: >-
   **Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:**[^1]
 
 
-  <u>Your Text</u>
-
-
   **ב״ה**
 
 
