@@ -65,7 +65,7 @@ original_language_body: >-
 
 
   [^8]: A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439
-  (Neubauer 2239), fol.‬‎
+  (Neubauer 2239), fol.‬‎ 138r.
 ---
 ## Introduction
 
