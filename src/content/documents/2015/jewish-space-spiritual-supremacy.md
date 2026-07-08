@@ -68,3 +68,7 @@ Stephanie B. Siegmund, *The Medici State and the Ghetto of Florence: The Constru
 
 [^2] Oxford, Bodleian, Mich. 439 (Neubauer 2239).  
 [^3] Mordecai Chriqui, *Igerot Ramhal u-bene doro* (Jerusalem: Mekhon Ramhal, 2001), no. 30, p. 86.
+
+## Source 1 Translation
+
+Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:[^1]
