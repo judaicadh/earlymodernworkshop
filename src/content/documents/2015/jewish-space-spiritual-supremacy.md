@@ -96,7 +96,7 @@ Adam Mintz, *Halakhah in America: The History of City Eruvin, 1894–1962* (PhD 
 
 Stephanie B. Siegmund, *The Medici State and the Ghetto of Florence: The Construction of an Early Modern Jewish Community* (Stanford, 2006), ch. 2.
 
-
+**Footnotes**
 
 [^1] Luzzatto used the term קיבוץ השלימות in his introduction to theosophical Kabbalah, *Derekh Hashem*. 
 
