@@ -34,6 +34,13 @@ description: The late seventeenth and early eighteenth centuries marked a
   ones. Through such analysis, historians can better understand the influence
   and reach of the new epistemology and the complex hierarchies of authority
   that emerged in the era.
+original_language_body: >+
+  ## Source 1 Original
+
+
+  **Isaac Lampronti, *Paḥad Yiẓḥak*, Vol. 2, p. 100r, s.v. *“dam nidah”*
+  (Venice, 1750) (first printed edition); Paris, Bibliotheque Nationale de
+  France, Ms. Hebrew 481, f. 266r (manuscript original).**
 ---
 ## Introduction
 
@@ -61,7 +68,7 @@ Ruderman, David B. *Jewish Thought and Scientific Discovery in Early Modern Euro
 
 ## Source 1 Translation
 
-Isaac Lampronti, *Paḥad Yiẓḥak*, Vol. 2, p. 100r, s.v. *“dam nidah”* (Venice, 1750) (first printed edition); Paris, Bibliotheque Nationale de France, Ms. Hebrew 481, f. 266r (manuscript original).
+**Isaac Lampronti, *Paḥad Yiẓḥak*, Vol. 2, p. 100r, s.v. *“dam nidah”* (Venice, 1750) (first printed edition); Paris, Bibliotheque Nationale de France, Ms. Hebrew 481, f. 266r (manuscript original).**
 
 *Dam nidah* - See Pliny Book 9, Chapter 15,[^1] who says the following but in another language: “There is nothing more wondrous and amazing about women than their menstrual blood, for [contact with it] turns wine sour, [it causes] the fruit of the earth to become barren, [as well as] shoots to die and garden seeds to burn up. The fruit of trees falls off if the [menstruating] women happen to sit on them. The bright glimmer of mirrors becomes darkened from the glance of the menstruating woman, the sharpness of the iron is blunted, and the gleam of ivory dulled. Dogs become crazy and rabid if they happen to eat the blood of a menstruating woman and their bite is infected with a poison from which they cannot be cured."[^2]
 
