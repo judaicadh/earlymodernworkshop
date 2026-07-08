@@ -41,7 +41,7 @@ description: "Documents presented here come from three different sources: the
   preservation and organization, since those six documents from Simancas were
   preserved together in a file and given a sequence of numbers from 33 to 38,
   even though they cover a timespan of at least 15 months."
-original_language_body: >+
+original_language_body: >-
   ## Source 1 Original
 
 
@@ -644,6 +644,18 @@ original_language_body: >+
 
 
   ## Source 6 Original
+
+
+  ‫איש יהודי היה באליסנדריאה שמואל הכהן שמו, וידבנו לבו ללכת בשם היהודים אל ארץ
+  ספרד ולבקש מלפני המלך על עמו ועל מולדתו, ויעש לו המשנה תיור ובטחון לעמוד בחצר
+  המלך, ויסע אל גיינובה וירה הימה ויבא אל ספרד, וידבר באזני הזקנים אשר שם על
+  אודות בני ישראל הנתונים בצרה, ויבא עד ליפני שער המלך ושריו היושבים ראשונה
+  במלכות, וידבר בשם היהודים כי למה יעשה כה לעבדיו אשר עמדו לו ולאביו בשעת הדחק,
+  ועוד היום ידם נטויה להלוות כהנה וכהנה, גם לו גם אל העניים והאביונים ליום
+  המצטרץ, וכאשר יתנו עדיהן ויצדקו, ואם יצאה גזרה מלפניו לגרשם, הנה הוא שואל בשם
+  היהודים כי יתן להם מקודם את אשר יש להם לקבל ממנו כי כן הדין נותן, וכאשר ידוע
+  לכל כי מעלתו יכלכל דבריו במשפט, ושאינו כפוי טובה, וייטבו דבריו בעיני המלך ויט
+  אליו חסד, ויכתב אל המשנה כי לא יעשה דבר בעסק היהודים עד יבא דברו אלין שנית.‬‎
 ---
 ## Introduction
 
