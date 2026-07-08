@@ -98,3 +98,4 @@ Translation by WHS Jones: “But nothing could easily be found that is more rema
 [^17] The stomach of the rabbit is mentioned in a medieval Hebrew translation of Galen’s *Book on the Womb.* See Ron Barkai, *A History of Jewish Gynaecological Texts in the Middle Ages* (Leiden: Brill, 1998), p. 174.  
 [^18] Theriaca was one of the most common ancient and medieval medicinal cures, often considered a universal cure- all. See Barkai, p. 221.  
 [^19] *Fumaria officinalis* is a medicinal herb discussed by both Lemery and Morgagni.  
+[^20] The manuscript reads: "‫ועל הכל ירבה לרחוץ‬‎".
