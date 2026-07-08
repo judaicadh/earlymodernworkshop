@@ -64,7 +64,7 @@ original_language_body: >-
   צום כפור, שנת התפ״א לבריא~~ת עולם.~~
 
 
-  [^1] A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439
+  [^1]: A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439
   (Neubauer 2239), fol.‬‎
 ---
 ## Introduction
