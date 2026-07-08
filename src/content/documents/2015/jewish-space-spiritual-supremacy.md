@@ -71,4 +71,21 @@ Stephanie B. Siegmund, *The Medici State and the Ghetto of Florence: The Constru
 
 ## Source 1 Translation
 
-Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:[^1]
+**Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:[^1]**
+
+**With God’s Help**
+
+From one generation to the next, our ancestors have removed obstacles from the path of the people so that they not unwittingly stumble into sin,[^2] particularly [with respect to] those prohibitions relating to the Sabbath. Because many simpletons carelessly remove and bring in possessions from the ghetto to the outside and from the outside to the ghetto, against the words of our sages, the honorable Shemariah Conian, one of the *memunim*, and the honorable Samuel Katz Cantarini, one of the *parnasim*, saw it good and efficacious to establish an *eruv* as had been done in other communities in Italy, such as those in Mantua and Reggio, in order to permit [people] to carry items in and out [of the ghetto] without unwitting iniquity.
+
+Because the *eruv* cannot be constructed from outside the ghetto to within the ghetto or from within the ghetto outwards except with permission from the Minister of the Treasury, as is well-known in our law, they went before the honorable *camerlengo*, Signore Giacomo Contarini, and informed him of the content of the request. He graciously heeded their voice, and granted the necessary permission according to the law. Although it may be a common assumption among the masses that such an *eruv* would necessitate having the keys of the city handed over for a short time, this is a total error as known to erudite individuals. Therefore, we did not need to do so at all. So the rabbi Judah Briel of Mantua wrote to our rabbi,[^3] and these are his words: “people can only dream about having the keys to the city handed over. The custom to establish an *eruv* began in my day, while the leader of our community was Rabbi Moses Zacut (of blessed memory), and there was no other activity except to give one ducat to his excellency the Duke, and also, afterwards, [to provide] officials of his honor the Emperor with coffee and chocolate.” These were the words of the aforementioned rabbi.
+
+And so, we also gave the honorable *camerlengo* mentioned above a pair of silk stockings, and he gave us consent for a 50-year period to establish the *eruv* in the synagogue according to the law. And with this, [people have] permission to carry out and bring in, from the ghetto to the outside and therefrom to the ghetto, and to carry things throughout the entire city — except for the Castello,[^4] which we left forbidden according to the law and the enactment of our sages. And so it was on Friday, the eve of the Fast of Atonement, 5481 [= 11 October 1720].
+
+**Footnotes**
+
+[^1] A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439 (Neubauer 2239), fol. 138r. 
+
+[^2] Isaiah 57:14.  
+[^3] Isaiah Bassan served as chief rabbi of Padua between 1715 and 1722.
+
+[^4] Jews were permitted to carry throughout the city, except in the Castello Carrarese at the southeast corner of the city on the Bacchiglione River. At the time, the Castello may not have been in use. Between 1767 and 1777, its main tower was transformed into an astronomical observatory known as *Specola*.
