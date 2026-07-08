@@ -78,7 +78,8 @@ Contemporary documents in Padua *pinkasim* refer to a drop in religious observan
 
 The document’s appearance as a copied text in a manuscript owned by the Pesaro rabbi Isaiah Romanin,[^2] who had been a member of both *Mevakshe Hashem* and Luzzatto’s circle, suggests that this *eruv* was deeply significant to kabbalists in Padua. Luzzatto himself considered it to be Bassan’s great *tikun*.[^3] As such, the document reflects the nexus of general communal behavior and a rabbinic attempt at religious rectification. It may also elucidate a mentality that (self-) identified rabbis as mystically responsible for communal spiritual welfare.
 
-**Bibliography**  
+**Bibliography**
+
 Samuel Aboab, *Sefer Devar Shemuel* (Venice, 1702), no. 257.
 
 Tsevi Ashkenazi, *She’elot u-Teshuvot Hakham Tsevi* (Jerusalem, 2004), no. 6.
