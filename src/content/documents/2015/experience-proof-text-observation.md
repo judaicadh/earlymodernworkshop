@@ -88,3 +88,13 @@ Translation by WHS Jones: “But nothing could easily be found that is more rema
 [^10] Giambattista Morgagni (d. 1771) mentions a substance containing extracts of pearls in one of the consultations he wrote to Lampronti. See: Saul Jarcho, ed., *The Clinical Consultations of Giambattista Morgagni: The Edition of Enrico Benassi (1935)* (Boston: The Francis A. Countway Library of Medicine, 1984), p. 155, see footnote 555 p. 389.  
 [^11] *Melissa officinalis* (lemon balm) was a widely used medicinal herb, often prepared with water. Nicholas Lemery (d. 1715) discussed *melissa* water specifically in his pharmacological work, *Farmacopea Universale*. See: Lemery, *Farmacopea Universale* (Venice, 1720), p. 391. I reference this text because I have seen Lampronti mention it specifically on other occasions in the *Paḥad Yiẓḥak*.  
 [^12] *Scrupolo* is a measurement equal to 1/3 dram.
+
+[^13] A preparation of viper meat, discussed in another Italian pharmacological work I have seen Lampronti mention elsewhere: *Antidotario Romano* (Rome, 1624) p.108. Morgagni also mentions the use of viper frequently in his consultations and even mentions it specifically with reference to menstrual ailments. See Saul Jarcho, ed., *The Clinical Consultations of Giambattista Morgagni: The Edition of Enrico Benassi (1935)* (Boston: The Francis A. Countway Library of Medicine, 1984), 73-4.
+
+[^14] The *Conciliator* is a scholastic medical written by Paduan physician Pietro d’Abano (d. 1313). In 1472, an edition of the *Conciliator* was printed together with Pietro d’Abano’s short treatise on toxicology, *De veneris eorumque remediis.* There Abano discussed the therapeutic qualities of the bezoar stone.  
+[^15] The bezoar stone (a small mass found in the stomach) was long considered an antidote to poison. A short article on the belzoar can be found in the 1743 edition of the *Giornale de’letterati*: *Giornale de’letterati, Della Pietra Belzoar, Articolo* XXII, (Rome, 1743), p. 274-5. Morgagni also mentions a substance containing the bezoar stone in his exchange with Lampronti: *The Clinical Consultations of Giambattista Morgagni*, p. 155, see footnote 555, p. .389
+
+[^16] Lemery discussed c*avolo* (cabbage): Lemery, *Farmacopea*, p. 161.  
+[^17] The stomach of the rabbit is mentioned in a medieval Hebrew translation of Galen’s *Book on the Womb.* See Ron Barkai, *A History of Jewish Gynaecological Texts in the Middle Ages* (Leiden: Brill, 1998), p. 174.  
+[^18] Theriaca was one of the most common ancient and medieval medicinal cures, often considered a universal cure- all. See Barkai, p. 221.  
+[^19] *Fumaria officinalis* is a medicinal herb discussed by both Lemery and Morgagni.  
