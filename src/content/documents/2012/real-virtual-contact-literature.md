@@ -5,6 +5,9 @@ institution: Oxford University, UK
 volume: 9
 year: "2012"
 slug: real-virtual-contact-literature
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: Cross-Cultural Connections in the Early Modern Jewish World
 language:
   - German
   - Hebrew
