@@ -7,7 +7,7 @@ import react from '@astrojs/react';
 import pagefind from 'astro-pagefind';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import { rehypeHeadingIds } from '@astrojs/markdown-remark';
+import { rehypeHeadingIds, unified } from '@astrojs/markdown-remark';
 import partytown from '@astrojs/partytown';
 import collectionSearch from 'astro-collection-search';
 
@@ -29,17 +29,14 @@ export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
 
   markdown: {
-    remarkPlugins: [
-      [remarkToc, { heading: 'toc', maxDepth: 3 }],
-      remarkGfm,
-      citePlugin,
-      remarkLint,
-      remarkIns,
-    ],
-    rehypePlugins: [
-      rehypeMeta,
-      rehypeHeadingIds,
-    ],
+    processor: unified({
+
+      remarkPlugins: [[remarkToc, { heading: 'toc', maxDepth: 3 }], remarkGfm, citePlugin, remarkLint, remarkIns],
+      rehypePlugins: [
+        rehypeMeta,
+        rehypeHeadingIds,
+      ],
+    }),
   },
 
   build: { format: 'file' },
@@ -51,7 +48,6 @@ export default defineConfig({
     sitemap(),
     partytown(),
     collectionSearch(),
-    readingTime(),
     markdoc(),
   ],
 
