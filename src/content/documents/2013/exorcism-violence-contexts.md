@@ -15,4 +15,6 @@ publication_location:
 text_location:
   - Tutchin
   - Sieniawa
+description: This presentation discusses projections of violence and social
+  values in a mystical text from eastern Europe.
 ---
