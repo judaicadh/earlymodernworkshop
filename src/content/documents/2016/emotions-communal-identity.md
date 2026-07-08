@@ -5,6 +5,15 @@ institution: Columbia University
 volume: 13
 year: "2016"
 slug: emotions-communal-identity
+event:
+  name: "Early Modern Workshop: Jewish History Resources"
+  theme: History of Emotions/Emotions in History
+language:
+  - Hebrew
+publication_location:
+  - Hamburg-Altona
+text_location:
+  - Altona-Hamburg-Wandsbeck
 description: >-
   Assigning character traits to national groups was a key pastime in the early
   modern period, part of a process of consolidation of European national
@@ -16,5 +25,5 @@ description: >-
 
 
   The following texts are excerpts from Jewish communal records, as noted for
-  each excerpt
+  each excerpt.
 ---
