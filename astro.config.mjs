@@ -12,7 +12,6 @@ import partytown from '@astrojs/partytown';
 import collectionSearch from 'astro-collection-search';
 
 import citePlugin from '@benrbray/remark-cite';
-import readingTime from 'astro-reading-time';
 import remarkIns from 'remark-ins';
 import remarkToc from 'remark-toc';
 import remarkGfm from 'remark-gfm';
