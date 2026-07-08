@@ -36,7 +36,7 @@ original_language_body: >-
   ## Source 1 Original
 
 
-  **Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:**[^1]
+  **Padua, *Archivio della Comunità Ebraica di Padova*, no. 13, p. 168:**[^8]
 
 
   **ב״ה**
@@ -64,7 +64,7 @@ original_language_body: >-
   צום כפור, שנת התפ״א לבריא~~ת עולם.~~
 
 
-  [^1]: A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439
+  [^8]: A copy by Isaiah Romanin appears in Oxford, Bodleian Library, Mich. 439
   (Neubauer 2239), fol.‬‎
 ---
 ## Introduction
