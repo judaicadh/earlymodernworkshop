@@ -92,9 +92,9 @@ In the year 305 1544–45 I went to Perugia, the great city, to study and teach[
 
 ## Source 1 Original Text
 
-National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370)
+David de’ Pomis, *Zemah David: Dittionario novo Hebraico...Dechiarato in Tre*
 
-*Memorbuch* of the Community of Metz
+*Lingue* (Venice: 1587), Hebrew Introduction
 
 ‫הקדמת הספר עם ספור קצת התלאות אירעו למחבר משני ]![ נעוריו עד היום :‬
 
