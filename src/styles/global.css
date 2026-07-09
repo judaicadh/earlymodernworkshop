@@ -220,26 +220,24 @@ img, video, svg, canvas, iframe, embed, object {
     background: rgba(207, 164, 92, 0.35);
 }
 
-/* ── Pagefind search UI: map onto the site palette (light + dark) ── */
-.pagefind-ui {
-    --pagefind-ui-primary: #8e2f23;        /* Venetian */
-    --pagefind-ui-text: #1b130d;           /* ink */
-    --pagefind-ui-background: #fbf7ee;     /* parchment */
-    --pagefind-ui-border: rgba(27, 19, 13, 0.18);
-    --pagefind-ui-tag: #f4ecda;            /* paper */
-    --pagefind-ui-border-width: 1px;
-    --pagefind-ui-border-radius: 2px;
-    --pagefind-ui-font: "EB Garamond", Georgia, serif;
+/* ── Pagefind search UI (@pagefind/component-ui v2): map onto the site palette ──
+   v2 themes via --pf-* custom properties and the .pf-* class prefix. */
+:root {
+    --pf-background: #fbf7ee;              /* parchment */
+    --pf-border: rgba(27, 19, 13, 0.18);
+    --pf-hover: #f4ecda;                   /* paper */
+    --pf-mark: #8e2f23;                    /* Venetian — matched-term highlight */
+    --pf-border-radius: 2px;
+    --pf-font: "EB Garamond", Georgia, serif;
 }
 @media (prefers-color-scheme: dark) {
-    .pagefind-ui {
-        --pagefind-ui-primary: #cfa45c;        /* gilt for contrast on dark */
-        --pagefind-ui-text: #f4ecda;           /* paper */
-        --pagefind-ui-background: #241a12;      /* warm dark panel */
-        --pagefind-ui-border: rgba(244, 236, 218, 0.18);
-        --pagefind-ui-tag: #2e2218;
+    :root {
+        --pf-background: #241a12;          /* warm dark panel */
+        --pf-border: rgba(244, 236, 218, 0.18);
+        --pf-hover: #2e2218;
+        --pf-mark: #cfa45c;                /* gilt for contrast on dark */
     }
 }
-/* The result links Pagefind renders should follow the primary colour. */
-.pagefind-ui__result-link { color: var(--pagefind-ui-primary); }
-.pagefind-ui__result-excerpt { color: var(--pagefind-ui-text); }
+/* Result links follow the site link colour. */
+.pf-result-link { color: var(--venetian); }
+.pf-result-excerpt { color: var(--ink-soft); }

@@ -39,14 +39,32 @@ import Search from "astro-pagefind/components/Search.astro";
         <div class="flex-1 min-h-0 overflow-y-auto p-3">
             <Search
                     id="search"
-                    className="pagefind-ui w-full"
-                    uiOptions={{ showImages: false }}
+                    className="w-full"
+                    searchboxOptions={{ autofocus: true }}
             />
         </div>
 
-        <!-- Let the panel body handle scrolling instead of an inner fixed-height drawer. -->
+        <!-- Adapt the v2 <pagefind-searchbox> (dropdown widget) to live inside our
+             modal: fill the panel width and render results in-flow instead of as a
+             floating absolute-positioned dropdown, so the modal body scrolls them. -->
         <style is:global>
-            .pagefind-ui__drawer { max-height: none; overflow: visible; }
+            /* Fill the panel instead of the component's 480px cap.
+               component-ui guards its rules with a high-specificity selector
+               (~3 IDs), so !important is required to override its layout. */
+            #searchPanel .pf-searchbox { max-width: none !important; }
+
+            /* Un-float the results dropdown so it sits inside the modal's scroll area. */
+            #searchPanel .pf-searchbox-dropdown {
+                position: static !important;
+                max-height: none !important;
+                margin-top: 0.75rem;
+                border: 0 !important;
+                box-shadow: none !important;
+                background: transparent !important;
+            }
+
+            /* No thumbnails in this compact modal. */
+            #searchPanel .pf-result-image { display: none !important; }
 
             /* Year pill prepended to each result title (see script below) */
             .result-year-pill {
@@ -79,7 +97,7 @@ import Search from "astro-pagefind/components/Search.astro";
     let lastFocus = null;
 
     function focusInput() {
-        const input = overlay?.querySelector('.pagefind-ui__search-input, input[type="search"]');
+        const input = overlay?.querySelector('.pf-searchbox-input, input[type="search"]');
         if (input && typeof input.focus === 'function') input.focus();
         else panel?.focus();
     }
@@ -152,7 +170,7 @@ import Search from "astro-pagefind/components/Search.astro";
     // prepend a small pill inside the title. Pagefind re-renders results as you
     // type, so we watch the overlay for changes.
     function addYearPills() {
-        const titles = overlay?.querySelectorAll('.pagefind-ui__result-title');
+        const titles = overlay?.querySelectorAll('.pf-result-title');
         titles?.forEach((title) => {
             if (title.dataset.yearTagged) return;
             const link = title.querySelector('a[href]');
