@@ -20,6 +20,11 @@ tags:
   - Amsterdam
   - Oporto
   - Portuguese Inquisition
+publication_location:
+  - "Amsterdam "
+  - Oporto
+  - Lisbon
+  - Flanders
 description: Traveling in the Western Sephardic diaspora often raised questions
   among their creditors whether the purpose of a travel was really for
   legitimate business interests or an attempt to abscond with their funds. By
