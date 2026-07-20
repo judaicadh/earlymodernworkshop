@@ -529,7 +529,95 @@ original_language_body: >-
   [^10]:         קופשטיק = Kopfstück (a small coin).
 
 
-  [^11]:
+  [^11]: Thereafter the word ‫ניט‬‎ commencing the next page.
+
+
+  ‫.שלשים‬‎ 12
+
+
+  13 In the manuscript appear two yod.
+
+
+  14 The meaning of that word on this position remains unclear.
+
+
+  15 Thereafter ‫ל''הנ‬‎ commencing the next page.
+
+
+  ‫.וכל שכן‬‎ 16
+
+
+  ‫.חס וחללה‬‎ 17
+
+
+  ‫.שיחיה‬‎ 18
+
+
+  19 Above the word three small strokes.
+
+
+  20 From here until the end of the paragraph a later addition in a different
+  handwriting, apparently that of the rabbi Ascher Enslen.
+
+
+  21 15 July 1688.
+
+
+  22 Until here the original version, in the following later amendments.
+
+
+  23 30 June 1683.
+
+
+  ‫.הפרנס‬‎ 24
+
+
+  ‫.ואחר כך‬‎ 25
+
+
+  ‫.נאום‬‎ 26
+
+
+  27 Addition in different ink.
+
+
+  ‫.אם ירצה השם‬‎ 28
+
+
+  ‫?על ידם‬‎ 29
+
+
+  ‫.משמע מזה‬‎ 30
+
+
+  31 5 July 1690.
+
+
+  ‫.חתום מטה‬‎ 32
+
+
+  33 In the manuscript: ‫נאים‬‎.
+
+
+  34 28 June 1694.
+
+
+  35 Illegible signature.
+
+
+  36 The rest of the row was filled by the scribe with a line.
+
+
+  37 Deleted: ‫.הראש‬‎
+
+
+  ‫.ביום טוב‬‎ 38
+
+
+  39 This word deleted and written again above the row.
+
+
+  Copyright © 2012 Early Modern Workshop
 ---
 ## Source 1 Translation
 
