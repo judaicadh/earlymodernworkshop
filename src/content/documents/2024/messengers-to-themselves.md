@@ -91,7 +91,7 @@ In conclusion: the collection of letters from Jerusalem shows an extensive netwo
 
 Here are three examples of such letters, sent by the community for private individuals.[^8]
 
-### Source 1
+### Source 1 Translation
 
 Jerusalem, The National Library of Israel, Ktiv Project, Ms. Heb. 8°61, system no. 990000434660205171, Correspondence from Jerusalem in the 17th Century, letter no. 178, fol. 209-210 (digitized fol. 109-110).
 
