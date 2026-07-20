@@ -508,7 +508,7 @@ original_language_body: >-
   [^3]: Deut. 12, 8.
 
 
-  חולי :[4^].
+  חולי.  :[4^].
 
 
   [^5]: According to Ez. 16, 63.
