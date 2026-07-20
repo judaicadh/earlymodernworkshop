@@ -9,79 +9,25 @@ const YEARS = [
 ].sort((a, b) => b - a);
 
 const schema = {
-    title: fields.markdoc({ label: 'Title', extension: 'md' }),
-    description: fields.markdoc({ label: 'Description', extension: 'md' }),
-    author: fields.text({ label: 'Author' }),
-    year: fields.text({ label: 'Year', validation: { isRequired: true } }),
-    volume: fields.integer({ label: 'Volume' }),
-    slug:fields.slug({ name: 'Slug' }),
+    title: fields.text({ label: 'Title', validation: { isRequired: true } }),
 
-    source_author: fields.text({ label: 'Source Author' }),
+// content.config.ts types these as z.string().optional() → keep them as frontmatter
+// strings, not externalized markdoc:
+    description: fields.text({ label: 'Description', multiline: true }),
+    original_language_body: fields.text({ label: 'Original Language', multiline: true }),
+    primarysourceinfo: fields.text({ label: 'Primary Source Info', multiline: true }),
 
-    original_language_body: fields.markdoc({ label: 'Original Language', extension: 'md' }
-    ),
-
-    resource_link: fields.array(
-        fields.url({ label: 'Resource Link(s)' }),
-        // Labelling options
-        {
-            label: 'Resource Link (s)',
-        }
-    ),
-    publication_location: fields.array(
-        fields.text({ label: 'Primary Location(s)' }),
-        // Labelling options
-        {
-            label: 'Primary Location(s)',
-            itemLabel: props => props.value
-        }
-    ),
-    text_location: fields.array(
-        fields.text({ label: 'Secondary Location(s)' }),
-        // Labelling options
-        {
-            label: 'Secondary Location(s)',
-            itemLabel: props => props.value
-        }
-    ),
-    language: fields.array(
-        fields.text({ label: 'Language(s)' }),
-        // Labelling options
-        {
-            label: 'Language(s)',
-            itemLabel: props => props.value
-        }
-    ),
-
-    tags: fields.array(
-        fields.text({ label: 'Tag' }),
-        // Labelling options
-        {
-            label: 'Tag(s)',
-            itemLabel: props => props.value
-        }
-    ),
-
-    institution: fields.text({ label: 'Institution' }),
-    event: fields.object({
-        name: fields.text({label: 'Event Name'}),
-        theme: fields.text({label: 'Theme'}),
-        Date: fields.object({
-            start: fields.date({label: 'Start Date'}),
-            end: fields.date({label: 'End Date'}),
+    bibliography: fields.array(
+        fields.object({
+            author: fields.text({ label: 'Author' }),
+            title: fields.text({ label: 'Title' }),
+            type: fields.text({ label: 'Type' }),
+            institution: fields.text({ label: 'Institution' }),
+            year: fields.text({ label: 'Publication Year' }),
+            pages: fields.text({ label: 'Pages' }),
         }),
-    }),
-    bibliography: fields.object({
-        title: fields.text({ label: 'Title' }),
-        author: fields.text({ label: 'Author' }),
-        publication: fields.text({ label: 'Publication' }),
-        type: fields.text({ label: 'Type' }),
-        institution: fields.text({ label: 'Institution' }),
-        year: fields.text({ label: 'Publication Year' }),
-        pages: fields.text({ label: 'Pages' }),
-
-    }),
-    primarysourceinfo: fields.markdoc({ label: 'Primary Source Info', extension: 'md' }),
+        { label: 'Bibliography', itemLabel: (p) => p.fields.title.value || 'Reference' }
+    ),
 
     content: fields.markdoc({ label: 'Content', extension: 'md' }),
 };
