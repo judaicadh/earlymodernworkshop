@@ -9,8 +9,8 @@ const YEARS = [
 ].sort((a, b) => b - a);
 
 const schema = {
-    title: fields.markdoc({ label: 'Title' }),
-    description: fields.markdoc({ label: 'Description' }),
+    title: fields.markdoc({ label: 'Title', extension: 'md' }),
+    description: fields.markdoc({ label: 'Description', extension: 'md' }),
     author: fields.text({ label: 'Author' }),
     year: fields.text({ label: 'Year', validation: { isRequired: true } }),
     volume: fields.integer({ label: 'Volume' }),
@@ -18,7 +18,7 @@ const schema = {
 
     source_author: fields.text({ label: 'Source Author' }),
 
-    original_language_body: fields.text({ label: 'Original Language' }
+    original_language_body: fields.markdoc({ label: 'Original Language', extension: 'md' }
     ),
 
     resource_link: fields.array(
@@ -81,7 +81,7 @@ const schema = {
         pages: fields.text({ label: 'Pages' }),
 
     }),
-    primarysourceinfo: fields.markdoc({ label: 'Primary Source Info' }),
+    primarysourceinfo: fields.markdoc({ label: 'Primary Source Info', extension: 'md' }),
 
     content: fields.markdoc({ label: 'Content', extension: 'md' }),
 };
