@@ -242,7 +242,7 @@ Through these objects Jewish women uniquely connected their domestic space, wher
 
 Note on the texts: In the transcription and the translation of the original texts, I have retained all the original spelling and orthography but I have adjusted the punctuation to standard modern Italian and English.
 
-## Source 1 Introduction
+## Source 1 Translation
 
 **Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 259, Notaio Andrea Calzavara, pratica n. 673, 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora.**
 
