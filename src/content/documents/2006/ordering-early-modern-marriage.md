@@ -558,7 +558,11 @@ original_language_body: >-
 ---
 ## Introduction
 
-Selected Bibliography
+R. Jephthah Joseph Yuspa HaLevi Manzbach (1604-1678), usually known as Juspa Shamash of Worms wrote one of the most extensive descriptions of the marriage rite known to us from early modern Jewish sources. In his Minhagim de Kehilat Kodesh Wormeisa, Juspa sets out to describe the daily rituals and the specific variations of them practiced in Worms. As can be seen in the text below, he goes into minute details of practice concerning dress, procession, food and social order. 
+
+My presentation will discuss his description of the marriage rite from two perspectives. The first will be a brief comparison to earlier German texts from the thirteenth-fifteenth century and a discussion of some of the novel emphases and elements in Juspa’s account. The second focus will be an analysis of family and gender hierarchies based on these novelties in light of recent research on early modern Christian families. I will read the text seeking to expose the gender divisions and attitudes towards families as they emerge through the extensive wedding ritual observed by the Jews in Worms.
+
+**Selected Bibliography**
 
 Abraham Epstein, “Die Wormser Minhagbücher”, *Gedenkbuch zur Erinnerung an David Kaufman*, Breslau 1900, 288-317
 
