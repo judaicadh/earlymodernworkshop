@@ -20,6 +20,8 @@
     "@astrojs/starlight": "^0.41.2",
     "@benrbray/remark-cite": "^2.0.1-alpha.4",
     "@giscus/react": "^3.1.0",
+    "@keystatic/astro": "^5.2.0",
+    "@keystatic/core": "^0.6.0",
     "@samvera/clover-iiif": "^3.9.2",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/typography": "^0.5.15",

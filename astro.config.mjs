@@ -10,20 +10,17 @@ import sitemap from '@astrojs/sitemap';
 import { rehypeHeadingIds, unified } from '@astrojs/markdown-remark';
 import partytown from '@astrojs/partytown';
 import collectionSearch from 'astro-collection-search';
-
+import markdoc from '@astrojs/markdoc';
 import citePlugin from '@benrbray/remark-cite';
 import remarkIns from 'remark-ins';
 import remarkToc from 'remark-toc';
 import remarkGfm from 'remark-gfm';
 import rehypeMeta from 'rehype-meta';
 import remarkLint from 'remark-lint';
-import { rehypeAccessibleEmojis } from 'rehype-accessible-emojis';
 import netlify from '@astrojs/netlify';
 
 
-
-import markdoc from '@astrojs/markdoc';
-
+import keystatic from '@keystatic/astro'
 export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
 
@@ -42,12 +39,13 @@ export default defineConfig({
 
   integrations: [
     react(),
-    mdx(),
+    markdoc(),
+    keystatic(),
     pagefind(),
     sitemap(),
     partytown(),
-    collectionSearch(),
-    markdoc(),
+    collectionSearch()
+
   ],
 
   adapter: netlify(),
