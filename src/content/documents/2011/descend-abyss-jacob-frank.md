@@ -1,6 +1,6 @@
 ---
 author: Pawel Maciejko
-title: Descend 
+title: "Descend to the Abyss: Jacob Frank's Going to Poland"
 year: '2011'
 volume: 8
 slug: descend-abyss-jacob-frank
