@@ -236,7 +236,9 @@ ferry him across. And I did not wish to permit this, for I had inquired and hear
 from older rabbis that rabbis of previous generations had been asked this and did  
 not permit it…. 
 
-## Národní Archiv, Praha (National Archives of the Czech Republic, Prague), SM J4/ 34
+## Source 3 Translation
+
+**Národní Archiv, Praha (National Archives of the Czech Republic, Prague), SM J4/ 34**
 
 Concerning /titles…/ their excellence and gracious masters, the royal Stadthalter,
 /titles…/ To respond to the chief’s of the royal Old Town of the City of Prague
@@ -256,25 +258,23 @@ Thus the Stadthauptmann should indicate the following points to the Jewish
 community and require their observance, and to publicize them in all of the Jewish
 synagogues to make it known that:
 
-1. Each and every Jew—except for on their Sabbath—are not permitted to
-
-bathe at any other time than first after 10 in the long days and first after nine
+1. Each and every Jew—except for on their Sabbath—are not permitted to bathe at any other time than first after 10 in the long days and first after nine  
 in the short days.
-2. On Sabbath-times after 7 o’clock in the evening or in the very early morning
+2. On Sabbath-times after 7 o’clock in the evening or in the very early morning  
 they may peform their bathing.
-3. The bathing Jews should do so without any tumult and in small numbers,
-behave honorably and cause no annoying frivolousness. And no Jew may bathe in the Moldau that does not appear fully surrounded by a bathing shirt,
+3. The bathing Jews should do so without any tumult and in small numbers,  
+behave honorably and cause no annoying frivolousness. And no Jew may bathe in the Moldau that does not appear fully surrounded by a bathing shirt,  
 and nothing less than that.
-4. On the great and mother-of-God holidays the Jews are entirely proscribed
-from bathing and are hereby prohibited, by which all of the Jewish
-community will come under stringent punishment without exception, and the
-Stadthauptman will make sure this order will be obeyed in all points.
-Thereby the magistrate will ensure that any transgressions of the Jewish
-community will not be handled in an unorderly way and cause any tumult
-between Jews and Christians.
-Furthermore the Stadthauptman will instruct the Old Town magistrate in all the
-above mentioned points and explain that in case there will be another Jew with a
-scandalous way of bathing, first the court has to inform the Jewish Elders so they
+4. On the great and mother-of-God holidays the Jews are entirely proscribed  
+from bathing and are hereby prohibited, by which all of the Jewish  
+community will come under stringent punishment without exception, and the  
+Stadthauptman will make sure this order will be obeyed in all points.  
+Thereby the magistrate will ensure that any transgressions of the Jewish  
+community will not be handled in an unorderly way and cause any tumult  
+between Jews and Christians.  
+Furthermore the Stadthauptman will instruct the Old Town magistrate in all the  
+above mentioned points and explain that in case there will be another Jew with a  
+scandalous way of bathing, first the court has to inform the Jewish Elders so they  
 can deal with it and should not immediately proceed with tumultous actions.
 
 From the Prague Consistory
