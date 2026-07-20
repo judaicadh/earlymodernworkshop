@@ -554,41 +554,7 @@ And the Ba‘al Hama’or[^33] wrote (there) in accordance with Rabbenu Ephraim�
 
 And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the Month (paragraph 8 and in chapter 1 of the Laws of Festivals (paragraph 21 in accordance with the Rif’s words. And the Rav Hamagid[^36] wrote (there) that there are those who disagree and who hold that Rosh Hashanah must be observed for only one day in the land of Israel. But the words of the *Halakhot* (the Rif) and of our rabbi (Maimonides) are the principal ones, **and so are we accustomed today to observe two days of Rosh Hashanah even in the land of Israel**. His (Rav Hamagid) language ends here:
 
-### Bibliography
-
-Altshuler, Mor. “Rabbi Joseph Karo and Sixteenth-Century Messianic Maimonideanism.” *The Cultures of Maimonideanism: New Approaches to the History of Jewish Thought.* Ed. James T. Robinson. Leiden, 2009 191–210.
-
-Altshuler, Mor. *The Life of Rabbi Yosef Karo.* Tel Aviv, 2016 (Hebrew).
-
-Beinart, Haim (ed.) *Moreshet Sepharad: The Sephardi Legacy.* 2 volumes. Jerusalem, 1992
-
-Benayahu, Meir. *Yosef Behiri*. Jerusalem, 1991
-
-Davis, Joseph. “The Reception of the *Shulhan ‘Arukh* and the Formation of Ashkenazic Jewish Identity.” *AJS Review* 26, 2 (2002): 251–276.
-
-Elon, Menachem. *Jewish Law: History, Sources, Principles.* Trans. Bernard Auerbach and Melvin J. Sykes. 4 volumes. Philadelphia and Jerusalem, 1994
-
-Fram, Edward. *The Codification of Jewish Law on the Cusp of Modernity.* Cambridge, 2022
-
-Gray,  Alyssa M. “Poverty and Community in R. Joseph Karo’s *Shulhan Arukh*: ‘Law and Literature’ and Halakhic History.” *Diné Israel* 29 (2013): 57–89.
-
-Idel Moshe, Ben-Naeh, Yaron, and Pelei, Haggai (eds.) *Rabbi Joseph Karo: History, Halakhah, Kabbalah.* Jerusalem, 2021 (Hebrew).
-
-Kelman, Tirzah. “I Shall Create Halakhic Ruling. . . For That Is the Objective”: The Dimension of Halakhic Ruling in Joseph Karo’s *Beit Yosef*. PhD diss. Ben-Gurion University, 2018 (Hebrew).
-
-Morsel-Eisenberg, Tamara. “Print and the Codification of Jewish Law.” *Routledge Encyclopedia of the Renaissance World.* [https://www.taylorfrancis.com/rrorw/?context=rrorw](https://www.taylorfrancis.com/rrorw/?context=rrorw). 
-
-Raz-Krakozkin, Amnon. “From Safed to Venice: The *Shulhan ‘Arukh* and the Censor.” *Tradition, Heterodoxy and Religious Culture: Judaism and Christianity in the Early Modern Period.* Ed. Chanita Goodblatt and Howard Kreisel. Beer-Sheva, 2006 91–115.
-
-Raz-Krokotzkin, Amnon. “Law and Censure: The Printing of the Shulkhan Arukh as the Commencement of Jewish Modernity.” *Tov Elem: Memory, Community and Gender in Medieval and Early Modern Jewish Societies; Essays in honor of Robert Bonfil.* Ed. Elisheva Baumgarten, Amnon Raz-Krakotzkin, Roni Weinstein. Jerusalem, 2011 (Hebrew).
-
-Twersky, Isadore. “The Shulhan ‘Aruk: Enduring Code of Jewish Law,” *Judaism* 16, 2 (Spring 1967): 141–158. Repr. *The Jewish Expression*. Ed. Judah Goldin. New Haven, 1976 322–343.
-
-Weinstein, Roni. “Jewish Modern Law and Legalism in a Global Age: The Case of Rabbi Joseph Karo.” *Modern Intellectual History* 17, 2 (2020): 561–578.
-
-Weinstein, Roni. *Joseph Karo and Shaping of Modern Jewish Law: The Early Modern Ottoman and Global Settings.* London, 2022
-
-Werblowsky, R.J. Zwi. *Joseph Karo: Lawyer and Mystic.* Philadelphia, 1977
+**Footnotes**
 
 [^1]:  Tosafot to bMegillah 28b, s.v. “*batei*.” The Tosafists (Hebrew, “Tosafot”) were Franco-German scholars of the 12th13th centuries who composed dialectical commentaries on the Babylonian Talmud with the aim (in part) of harmonizing real or perceived inconsistencies between passages. “Tosafot” means “additions.” The “additions” are to the widely-accepted commentary of the northern French scholar Rashi (1040–1105).
 
@@ -661,3 +627,39 @@ Werblowsky, R.J. Zwi. *Joseph Karo: Lawyer and Mystic.* Philadelphia, 1977
 [^35]:  1138–1204. Author of the law code *Mishneh Torah*, which Karo later relies on as one of his three “pillars of legal instruction.”
 
 [^36]:  This is a commentary on Maimonides’s *Mishneh Torah* written by Vidal of Toulouse (late 14th century).
+
+### Bibliography
+
+Altshuler, Mor. “Rabbi Joseph Karo and Sixteenth-Century Messianic Maimonideanism.” *The Cultures of Maimonideanism: New Approaches to the History of Jewish Thought.* Ed. James T. Robinson. Leiden, 2009 191–210.
+
+Altshuler, Mor. *The Life of Rabbi Yosef Karo.* Tel Aviv, 2016 (Hebrew).
+
+Beinart, Haim (ed.) *Moreshet Sepharad: The Sephardi Legacy.* 2 volumes. Jerusalem, 1992
+
+Benayahu, Meir. *Yosef Behiri*. Jerusalem, 1991
+
+Davis, Joseph. “The Reception of the *Shulhan ‘Arukh* and the Formation of Ashkenazic Jewish Identity.” *AJS Review* 26, 2 (2002): 251–276.
+
+Elon, Menachem. *Jewish Law: History, Sources, Principles.* Trans. Bernard Auerbach and Melvin J. Sykes. 4 volumes. Philadelphia and Jerusalem, 1994
+
+Fram, Edward. *The Codification of Jewish Law on the Cusp of Modernity.* Cambridge, 2022
+
+Gray,  Alyssa M. “Poverty and Community in R. Joseph Karo’s *Shulhan Arukh*: ‘Law and Literature’ and Halakhic History.” *Diné Israel* 29 (2013): 57–89.
+
+Idel Moshe, Ben-Naeh, Yaron, and Pelei, Haggai (eds.) *Rabbi Joseph Karo: History, Halakhah, Kabbalah.* Jerusalem, 2021 (Hebrew).
+
+Kelman, Tirzah. “I Shall Create Halakhic Ruling. . . For That Is the Objective”: The Dimension of Halakhic Ruling in Joseph Karo’s *Beit Yosef*. PhD diss. Ben-Gurion University, 2018 (Hebrew).
+
+Morsel-Eisenberg, Tamara. “Print and the Codification of Jewish Law.” *Routledge Encyclopedia of the Renaissance World.* [https://www.taylorfrancis.com/rrorw/?context=rrorw](https://www.taylorfrancis.com/rrorw/?context=rrorw). 
+
+Raz-Krakozkin, Amnon. “From Safed to Venice: The *Shulhan ‘Arukh* and the Censor.” *Tradition, Heterodoxy and Religious Culture: Judaism and Christianity in the Early Modern Period.* Ed. Chanita Goodblatt and Howard Kreisel. Beer-Sheva, 2006 91–115.
+
+Raz-Krokotzkin, Amnon. “Law and Censure: The Printing of the Shulkhan Arukh as the Commencement of Jewish Modernity.” *Tov Elem: Memory, Community and Gender in Medieval and Early Modern Jewish Societies; Essays in honor of Robert Bonfil.* Ed. Elisheva Baumgarten, Amnon Raz-Krakotzkin, Roni Weinstein. Jerusalem, 2011 (Hebrew).
+
+Twersky, Isadore. “The Shulhan ‘Aruk: Enduring Code of Jewish Law,” *Judaism* 16, 2 (Spring 1967): 141–158. Repr. *The Jewish Expression*. Ed. Judah Goldin. New Haven, 1976 322–343.
+
+Weinstein, Roni. “Jewish Modern Law and Legalism in a Global Age: The Case of Rabbi Joseph Karo.” *Modern Intellectual History* 17, 2 (2020): 561–578.
+
+Weinstein, Roni. *Joseph Karo and Shaping of Modern Jewish Law: The Early Modern Ottoman and Global Settings.* London, 2022
+
+Werblowsky, R.J. Zwi. *Joseph Karo: Lawyer and Mystic.* Philadelphia, 1977
