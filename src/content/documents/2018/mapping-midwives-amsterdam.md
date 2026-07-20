@@ -12,6 +12,10 @@ event:
   date:
     start: 2018-08-15
     end: 2018-08-16
+language:
+  - Hebrew
+publication_location:
+  - Amsterdam
 sections:
   - {}
 footnotes:
