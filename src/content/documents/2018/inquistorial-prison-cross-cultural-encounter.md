@@ -556,7 +556,9 @@ Teensma, *Studia Rosenthaliana* vol. x 1976. pp.1-36.
 dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-  
 319 and PT-TT-TSO-IL-28-319-1.
 
-Related Secondary Sources:  
+**Related Secondary Sources:**
+
+  
 Alberro, Solange. *Inquisición y sociedad en México, 1571-1700*. México: Fondo de  
 Cultura Económica, 1988.
 
