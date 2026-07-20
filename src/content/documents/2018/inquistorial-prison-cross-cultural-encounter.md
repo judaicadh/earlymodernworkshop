@@ -32,7 +32,7 @@ footnotes:
 bibliography:
   - {}
 original_language_body: >-
-  ## Source 1 Translation
+  ## Source 1 Original
 
 
   **Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.*
