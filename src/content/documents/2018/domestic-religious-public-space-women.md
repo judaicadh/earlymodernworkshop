@@ -45,6 +45,178 @@ footnotes:
   - {}
 bibliography:
   - {}
+original_language_body: >-
+  ## Source 1 Original
+
+
+  **Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 259,
+  pratica n. 673 (Notaio Andrea Calzavara), 2 of August, 1666, Testament of
+  Mirian quondam Abram Israel Mora.**
+
+
+  In Venetia in nome di Dio de Israel, Addi 2 Agosto 1666 Considerando io Mirian
+  del quondam Abram Israel Mora, quanto sia fragile la vita humana e certa la
+  morte, ma incerta l’hora di quella, et trovandomi ammalata, resentita alqaunto
+  del corpo, ma sana per la Dio gratia di mente, et intelletto, mi è parso bene
+  far di persona mia confidente scrivere il presente mio testamento et ultima
+  volontà, ordinando le cose mie. Prima casso, et anullo ogni altro testamento,
+  cedula et altro per avante avessi fatto, intendende, e volendo che questo solo
+  vaglia, racomandando l’anima mia al Signore Iddio del cielo creator del mondo,
+  chiedendoli perdon de miei peccati pregando sua divina Majestà ricever quella
+  compiuta misericordia congraziarla della gloria celeste.
+
+
+  Lascio i miei beni, danari, crediti, cosi mobili come ori, argenti e ogni e
+  qual si voglia altra cosa, nissuna eccettuata che al presente mi atrovo, et
+  per l’avvenire mi potessi aspettare come ancho il mio salario della mia
+  servitù fatta per il passato al quondam Signore Rafael de Silva, et figlioli,
+  e anco il mio salario della mia servitù, che al presente faccio, e ho fatto in
+  casa del Signore Gabriel de Silva dove al presente habito, e mi ritorno, il
+  tutto come di sopra lascio alla Signora Bianca de Silva consorte del Signore
+  Gabriel de Silva per il bene, et amore che sempre mi ha portato e mi porta,
+  esortandola a pregar per l’anima mia al Signore Iddio.
+
+
+  ## Source 2 Original
+
+
+  **Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 260,
+  pratica n. 811 (Notaio Andrea Calzavara), 23 of November 1679, Testament of
+  Rachel quondam Raffael di Silva, Widow of Isach Oliver.**
+
+
+  1r Conosendo io Rachel, figlia del quondam Raffael di Silva relicta del
+  quondam Dottor Isach di Olivera in sechonde nozze, quanto sia sichura et certa
+  la morte et incerta l’ora di quella e ritrovandomi io inferma in letto, sana
+  per Dio gratia della mente et inteletto ho risolto terminare le cose mei,
+  accio che quanto piacia al Signore Iddio creator del mondo levarmi di questa
+  miglior vita sia seguitto quanto nel presente et ultimo mio testamento. Fatto
+  far di persona mia confidente ordinaro et prima del tutto prego al Signor
+  Iddio haver compasione del anima mia ricevendo quella con caritta et
+  misericordia, chiedendosi perdon di miei pecatti e graciandomi della gloria
+  celeste, volio che il mio cadavero sia sepolto nel lido dove si sepeliscono li
+  altri morti della nostra natione hebrea. Voglio anche con doversi far ogni
+  fonzione solitta farsi si di pietra la lapide, como tener luminaria continua
+  acesa nella sinagoga Spagnolla tutto il anno doppo la mia morte, dovendo anche
+  farsi li funzioni solitti alli sette giorni et mesi et anno, come si costuma
+  alli altri; e con far tanto nel giorno della mia morte quanto nelli sette
+  giorni doppo mesi et anno quelli, come si costuma alli altri; e con far tanto
+  nel giorno della mia morte quanto nelli sette giorni doppo mesi et anno quelli
+  limosini che parera a mej comesarij cioè fra le spese del mortorio fossa et
+  pietra è cerimonij di sette giorni mesi et anno per la somma di ducati
+  trecento di lire sei soldi quatro per ducato.
+
+
+  Lasio à mio fratello Salamon di Silva ducati diese di lire sei e quatro per
+  ducato per una volta tanto per segno di morevolezza.
+
+
+  Lasio ali figlioli del quondam Daniel di Silva fu mio fratello che credo siano
+  uno o doi a ducati di cinque lire sei è quatro per ducatto per cadauno per una
+  volta tanto e per segno di morevolezza.
+
+
+  Lasio à mio fratello Gabriel di Silva di diese di lire sei e quatro per
+  cadauno per segno di morevolezza.
+
+
+  Lasio alli figliolli femene del sopra detto Salamon mio fratello, mie nepoti
+  cioè Sara, Rachel e Ester, ducatti trecento di lire sei e quatro per ducato,
+  un terzo per cadauna e quelli li dovrano usare al termpo del suo marittar.
+
+
+  1v Lasio alle dette Sara, Rachel e Ester, sopra dette figliole del sopra detto
+  Salamon, dodece linciolli di tella di Lino nostrano, un terzo per cadauna.
+
+
+  Lasio a Sara, sopra detta figliola del sopra detto Salamon, una cadenella
+  d’oro smaltata con ambra ò sia muschio La qual pasara circa onze una meno
+  carati diece.
+
+
+  Lasio a Rachel, sopra detta figliola del sopra detto Salamon, un paro di
+  manini di oro smaltati che pesarano onze una meno carati otto in circa.
+
+
+  Lasio a Ester, sopra detta figliolla del sopra detto Salamon, un paro manini
+  di oro schezzi che pesarano onze doi meno carati diese in circa.
+
+
+  Lasio a Sara di Silva mia nepotte, figliolla della quondam Ester di Silva
+  relitta del quondam Jacob di Silva, fu mia sorella, li prò di ducati quatro
+  cento è novanta cinque di lire sei e quattro per ducatto valutta corrente, che
+  mi atrovo in mio nome in la zecha di questa Serenissima Repubblica nel
+  depositto di tre per cento. Quelli prò dovranno restar a sua libera
+  dispositione de ratta in ratta durante la vita di detta Sara non potendo ella
+  disponer di detto capitalle e restando sempre detto capital conditionato. Et
+  per morte di detta Sara vadino similmente detti pro a Biancha di Silva, mia
+  nepotta, sorella di detta Sara e figliolla della detta quondam mia sorella
+  Ester di Silva, et similmente a Gabriel di Silva, mio fratello e marito di
+  detta Biancha. Durante la vitta di detta Biancha et Gabriel sopradetti, non
+  potendo detta Biancha et Gabriel di Silva sopradetti disponer altro che delli
+  pro di ratta in ratta à Libera et sua dispositione, restando detto capitalle
+  conditionato. Et se il Signore Iddio concedera figlioli maschi o femine al
+  detto mio fratello Garbriel di Silva con la sopradetta Biancha mia nepotta,
+  vada detto capitalle et prò à detti figliolli maschij e femine della detta
+  Biancha et Gabriel à Libera dispositione di essi cioè li prò subitto 2r di
+  ratta in ratta et il capitalle al tempo che siano tutti stimati à ratta
+  portione a ogni uno di detti maschi e femine. Et in caso che li detti mio
+  fratello Gabriel e Biancha, mia nepotte, non lascian figliolli, alla morte di
+  tutti doi vadano detti prò sopradetti alla scolla di Talmud Torà delli ebrei
+  ponentini di questa città, conditionatto detto capitalle non potendo detta
+  sinagoga ne meno li cappi, ò siano del Maamad di essa scolla che sarano di
+  tempo in tempo disponer di detto capital bensì delli prò che corerano di ratta
+  in ratta. Quelli prò espartirano e cioe per cinque di lire sei e quattro per
+  ducatto, nel giorno della mia morte, di anno in anno, in detto giorno a poveri
+  ebrei meritevolli et il resto di detti pro spartirano nella Luna di Chislev in
+  tanti legni, ossia fassi, a poveri ebrei come sopra, e così di anno in anno.
+  Et in caso che la detta congrega di detta scolla di Talmud Torà non volia
+  acettar quanto di sopra, con il sopra detto obbligo, dovra dichiararsi subito
+  doppo la mia morte. Et in tal caso restar debra detto capitalle e pro alla
+  fraterna di marittar donzelle della Congrega Hebrà para Casar Orphaos della
+  natione ponentina di questa città. Cioè il capitalle restar debba per
+  capitalle di detta fraterna, in conformita delli parti et regolli di essa
+  fraterna, con obbligo che delli pro d’esso capitalle doverano spartir li
+  deputatti di essa fraterna, che sarano di anno in anno ogni anno di cinque di
+  lire sei e quattro per ducatto, nel giorno della mia morte à poveri ebrei
+  meritevolli per la mia anima, e cossi di anno in anno et il resto dalli prò
+  vadino per prò di detta fraterna. Et in casso che la detta fraterna non voglia
+  acettar con il obligo di sopra dichiaratto, dovra chiarirsi subitto doppo la
+  mia morte. Et in tal caso restar debba detto capitalle et prò à dispositione
+  delli miei comesarij, che potranno disponer di esso capitalle 2v et pro nel
+  meglio modo che parerà à detti acio vadino in opera pie. Et in caso che il
+  serenissimo prencipe retranechij il sopra detto deposito, che meglio parera in
+  modo talle che detto capitalle restar debba sempre fermo con li sopra detti
+  obblighi, acio si debba conseguir quanto ordino di sopra.
+
+
+  Lasio una Coperta di veludo cremesi, in rechamada con oro et seta, alla scolla
+  di Talmud Torà di ponentini di questa città, la qual dovra servir in detta
+  scolla per parochetto ò sia coltrina da metter davante il loco solitto,
+  nominatto da noi ebrei echal, dove si pone la sacra leggie. La qual non possa
+  detta Congrega, no meno li cappi ò siano dal maamad de detta scolla, che
+  sarano di tempo in tempo, venderla e ne meno desfarla per cosa nisuna
+  ecetuatta. Anzi sia sempre in essere in detta scolla da meterla in detto loco
+  in alcuni giorni delli nostri fasti sachri, con obbligo di farmi buttar una
+  aschara *haskarah* ogni anno per la mia anima. Et in caso che la detta
+  Congrega non voglia acetarla, con il sopra detto obligo, restar debba alli
+  miei comesarij disponer di essa del meglio modo che parera à detto comesarij
+  in modo tal che vada in opere pie. Lasio ducatti sesanta lire sei e quattro
+  per ducatto à tre donzelle ò siano orfane ebree a ducati vinti per una, per
+  aiuto del suo maritar; quelli dovrano dar li mieij comesarij à chi meglio gli
+  parera all’ora del suo maritar.
+
+
+  Il reseduario di quanto mi atrovo et atrovar mi potesse in qualsivoglia tempo
+  tanto per ocasione della mia detta quanto per qual si voglia causa, nisuna
+  ecetuata, lasio à Biancha di Silva mia nepotte, figliolla della quondam mia
+  sorella Ester di Silva (relitta del quondam Jacob de Silva), consorte 3r di
+  domino Gabriel di Silva mio fratello di sopra nominatta comesaria et
+  esichutrice del presente mio testamento.
+
+
+  Casando et anulando ogni altro mio testamento che si trovasse volendo che il
+  presente sia eseguitto in tutto per tutto come sopra ne altro voglio ordinar.
 ---
 ## Introduction
 
@@ -68,25 +240,19 @@ Venetian Jewish female embroiderers, although not socialized to view their creat
 
 Through these objects Jewish women uniquely connected their domestic space, where the conception and the production happened, to the institutional space of the synagogue the women belonged to. Indeed, as historians Sandra Cavallo and Silvia Evangelisti have argued in a recent study there is a need to reassess the validity of the different and separated categories of domesticity and institutional as they are applied to the early modern world.[^14] Moreover, some of the most elusive conditions of the premodern world were the physical intimacy of the household, the lack of privacy, and the close cohabitation of householders with their servants. At times this physical proximity could also foster the development of intense sentiments: affection, loyalty, and gratitude are expressed in the wills of both Mirian and Rachel. These testaments help investigate the triangulation of people, spaces and things and to capture the complexity and contingency of the early modern Jewish spaces in Italy.
 
-Note on the texts In the transcription and the translation of the original texts, I have retained all the original spelling and orthography but I have adjusted the punctuation to standard modern Italian and English.
+Note on the texts: In the transcription and the translation of the original texts, I have retained all the original spelling and orthography but I have adjusted the punctuation to standard modern Italian and English.
 
-## Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 259, Notaio Andrea
+## Source 1 Introduction
 
-Calzavara, pratica n. 673, 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora.
+**Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 259, Notaio Andrea Calzavara, pratica n. 673, 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora.**
 
 In Venice, in the Name of God of Israel. Today, August 2, 1666 Considering I, Mirian, of the late Abram Israel Mora, how fragile human life is and certain of death, even if uncertain of its time, and being sick, weak in my body but healthy thanks to God’s grace in my mind and capacities, I thought it to be a good thing to ask a person I trust to write down my present testament and last wills, putting my goods in order. First, I annul and delete any other testament, *cedola*, and other documents that I may have redacted previously, with the intent and desire that only this one will counts, recommending my soul to the Lord, God of the heavens and creator of earth, asking forgiveness for my sins, and praying His divine Majesty to receive full mercy with the grace of celestial glory.
 
 I leave my goods, money, credits, as well as chattels like gold, silver, and any other thing, without exception, that I presently possess and those that I may expect for the future. For example, I own the salary for my service that I did in the past to the late Mister Rafael de Silva and his children; and also the salary for the service that I presently do and I did in the house of Mister Gabriel de Silva where I presently live and return to; everything as listed above I leave to Mistress Bianca de Silva, wife of Mister Gabriel de Silva, for the affection and love that she has always shown to me and still shows, asking her to pray to the Lord God for my soul.
 
-## Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 259, pratica n. 673 (Notaio Andrea Calzavara), 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora.
+## Source 2 Translation
 
-In Venetia in nome di Dio de Israel, Addi 2 Agosto 1666 Considerando io Mirian del quondam Abram Israel Mora, quanto sia fragile la vita humana e certa la morte, ma incerta l’hora di quella, et trovandomi ammalata, resentita alqaunto del corpo, ma sana per la Dio gratia di mente, et intelletto, mi è parso bene far di persona mia confidente scrivere il presente mio testamento et ultima volontà, ordinando le cose mie. Prima casso, et anullo ogni altro testamento, cedula et altro per avante avessi fatto, intendende, e volendo che questo solo vaglia, racomandando l’anima mia al Signore Iddio del cielo creator del mondo, chiedendoli perdon de miei peccati pregando sua divina Majestà ricever quella compiuta misericordia congraziarla della gloria celeste.
-
-Lascio i miei beni, danari, crediti, cosi mobili come ori, argenti e ogni e qual si voglia altra cosa, nissuna eccettuata che al presente mi atrovo, et per l’avvenire mi potessi aspettare come ancho il mio salario della mia servitù fatta per il passato al quondam Signore Rafael de Silva, et figlioli, e anco il mio salario della mia servitù, che al presente faccio, e ho fatto in casa del Signore Gabriel de Silva dove al presente habito, e mi ritorno, il tutto come di sopra lascio alla Signora Bianca de Silva consorte del Signore Gabriel de Silva per il bene, et amore che sempre mi ha portato e mi porta, esortandola a pregar per l’anima mia al Signore Iddio.
-
-## Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 260, pratica n. 811 (Notaio
-
-Andrea Calzavara), 23 of November 1679, Testament of Rachel quondam Raffael di Silva, Widow of Isach Oliver.
+**Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 260, pratica n. 811 (Notaio Andrea Calzavara), 23 of November 1679, Testament of Rachel quondam Raffael di Silva, Widow of Isach Oliver.**
 
 1r Knowing I, Rachel, daughter of the late Raffael di Silva, widow of the late Doctor Isach di Olivera in second marriage, how sure and certain death is and unsure of its time, while being sick in my bed, lucid for the grace of God in my mind and capacities, I have resolved to put my things in order to please Lord God before He will take me off from this to a better life and so that this present and last testament be followed. Having a person, I trust, to redact it, I first pray Lord God to be compassionate of my soul, receiving that soul with charity and mercy. I ask forgiveness for my sins and given the celestial glory I wish that my corpse be buried in the lido where the others of our Jewish nation are buried the Jewish cemetery in Lido with the obligation of fulfilling every usual service, making the tombstone, keeping the lamp lighted in the Spanish Synagogue for the entire year after my death, and also fulfilling the usual rituals at the seven days, months, and year as is custom for the others other Jewish dead. Also on the day of my death, in the seven days after months and years, those alimonies should be done that my executors will consider proper, that is, for the expenses of the funeral and stone and ceremonies of seven days, months, and year for three hundred ducats of liras six *soldi*, four per ducat.
 
@@ -116,35 +282,9 @@ The rest of what I own now or anything else that I end up owning in the future f
 
 Deleting and annulling any other testament that would be found, willing that the present be executed in all and for all as above, and there is nothing else I want to order.
 
-## Archivio di Stato di Venezia, Fondo Notarile, Testamenti, busta n. 260, pratica n. 811 (Notaio Andrea Calzavara), 23 of November 1679, Testament of Rachel quondam Raffael di Silva, Widow of Isach Oliver.
+**Footnotes:**
 
-1r Conosendo io Rachel, figlia del quondam Raffael di Silva relicta del quondam Dottor Isach di Olivera in sechonde nozze, quanto sia sichura et certa la morte et incerta l’ora di quella e ritrovandomi io inferma in letto, sana per Dio gratia della mente et inteletto ho risolto terminare le cose mei, accio che quanto piacia al Signore Iddio creator del mondo levarmi di questa miglior vita sia seguitto quanto nel presente et ultimo mio testamento. Fatto far di persona mia confidente ordinaro et prima del tutto prego al Signor Iddio haver compasione del anima mia ricevendo quella con caritta et misericordia, chiedendosi perdon di miei pecatti e graciandomi della gloria celeste, volio che il mio cadavero sia sepolto nel lido dove si sepeliscono li altri morti della nostra natione hebrea. Voglio anche con doversi far ogni fonzione solitta farsi si di pietra la lapide, como tener luminaria continua acesa nella sinagoga Spagnolla tutto il anno doppo la mia morte, dovendo anche farsi li funzioni solitti alli sette giorni et mesi et anno, come si costuma alli altri; e con far tanto nel giorno della mia morte quanto nelli sette giorni doppo mesi et anno quelli, come si costuma alli altri; e con far tanto nel giorno della mia morte quanto nelli sette giorni doppo mesi et anno quelli limosini che parera a mej comesarij cioè fra le spese del mortorio fossa et pietra è cerimonij di sette giorni mesi et anno per la somma di ducati trecento di lire sei soldi quatro per ducato.
-
-Lasio à mio fratello Salamon di Silva ducati diese di lire sei e quatro per ducato per una volta tanto per segno di morevolezza.
-
-Lasio ali figlioli del quondam Daniel di Silva fu mio fratello che credo siano uno o doi a ducati di cinque lire sei è quatro per ducatto per cadauno per una volta tanto e per segno di morevolezza.
-
-Lasio à mio fratello Gabriel di Silva di diese di lire sei e quatro per cadauno per segno di morevolezza.
-
-Lasio alli figliolli femene del sopra detto Salamon mio fratello, mie nepoti cioè Sara, Rachel e Ester, ducatti trecento di lire sei e quatro per ducato, un terzo per cadauna e quelli li dovrano usare al termpo del suo marittar.
-
-1v Lasio alle dette Sara, Rachel e Ester, sopra dette figliole del sopra detto Salamon, dodece linciolli di tella di Lino nostrano, un terzo per cadauna.
-
-Lasio a Sara, sopra detta figliola del sopra detto Salamon, una cadenella d’oro smaltata con ambra ò sia muschio La qual pasara circa onze una meno carati diece.
-
-Lasio a Rachel, sopra detta figliola del sopra detto Salamon, un paro di manini di oro smaltati che pesarano onze una meno carati otto in circa.
-
-Lasio a Ester, sopra detta figliolla del sopra detto Salamon, un paro manini di oro schezzi che pesarano onze doi meno carati diese in circa.
-
-Lasio a Sara di Silva mia nepotte, figliolla della quondam Ester di Silva relitta del quondam Jacob di Silva, fu mia sorella, li prò di ducati quatro cento è novanta cinque di lire sei e quattro per ducatto valutta corrente, che mi atrovo in mio nome in la zecha di questa Serenissima Repubblica nel depositto di tre per cento. Quelli prò dovranno restar a sua libera dispositione de ratta in ratta durante la vita di detta Sara non potendo ella disponer di detto capitalle e restando sempre detto capital conditionato. Et per morte di detta Sara vadino similmente detti pro a Biancha di Silva, mia nepotta, sorella di detta Sara e figliolla della detta quondam mia sorella Ester di Silva, et similmente a Gabriel di Silva, mio fratello e marito di detta Biancha. Durante la vitta di detta Biancha et Gabriel sopradetti, non potendo detta Biancha et Gabriel di Silva sopradetti disponer altro che delli pro di ratta in ratta à Libera et sua dispositione, restando detto capitalle conditionato. Et se il Signore Iddio concedera figlioli maschi o femine al detto mio fratello Garbriel di Silva con la sopradetta Biancha mia nepotta, vada detto capitalle et prò à detti figliolli maschij e femine della detta Biancha et Gabriel à Libera dispositione di essi cioè li prò subitto 2r di ratta in ratta et il capitalle al tempo che siano tutti stimati à ratta portione a ogni uno di detti maschi e femine. Et in caso che li detti mio fratello Gabriel e Biancha, mia nepotte, non lascian figliolli, alla morte di tutti doi vadano detti prò sopradetti alla scolla di Talmud Torà delli ebrei ponentini di questa città, conditionatto detto capitalle non potendo detta sinagoga ne meno li cappi, ò siano del Maamad di essa scolla che sarano di tempo in tempo disponer di detto capital bensì delli prò che corerano di ratta in ratta. Quelli prò espartirano e cioe per cinque di lire sei e quattro per ducatto, nel giorno della mia morte, di anno in anno, in detto giorno a poveri ebrei meritevolli et il resto di detti pro spartirano nella Luna di Chislev in tanti legni, ossia fassi, a poveri ebrei come sopra, e così di anno in anno. Et in caso che la detta congrega di detta scolla di Talmud Torà non volia acettar quanto di sopra, con il sopra detto obbligo, dovra dichiararsi subito doppo la mia morte. Et in tal caso restar debra detto capitalle e pro alla fraterna di marittar donzelle della Congrega Hebrà para Casar Orphaos della natione ponentina di questa città. Cioè il capitalle restar debba per capitalle di detta fraterna, in conformita delli parti et regolli di essa fraterna, con obbligo che delli pro d’esso capitalle doverano spartir li deputatti di essa fraterna, che sarano di anno in anno ogni anno di cinque di lire sei e quattro per ducatto, nel giorno della mia morte à poveri ebrei meritevolli per la mia anima, e cossi di anno in anno et il resto dalli prò vadino per prò di detta fraterna. Et in casso che la detta fraterna non voglia acettar con il obligo di sopra dichiaratto, dovra chiarirsi subitto doppo la mia morte. Et in tal caso restar debba detto capitalle et prò à dispositione delli miei comesarij, che potranno disponer di esso capitalle 2v et pro nel meglio modo che parerà à detti acio vadino in opera pie. Et in caso che il serenissimo prencipe retranechij il sopra detto deposito, che meglio parera in modo talle che detto capitalle restar debba sempre fermo con li sopra detti obblighi, acio si debba conseguir quanto ordino di sopra.
-
-Lasio una Coperta di veludo cremesi, in rechamada con oro et seta, alla scolla di Talmud Torà di ponentini di questa città, la qual dovra servir in detta scolla per parochetto ò sia coltrina da metter davante il loco solitto, nominatto da noi ebrei echal, dove si pone la sacra leggie. La qual non possa detta Congrega, no meno li cappi ò siano dal maamad de detta scolla, che sarano di tempo in tempo, venderla e ne meno desfarla per cosa nisuna ecetuatta. Anzi sia sempre in essere in detta scolla da meterla in detto loco in alcuni giorni delli nostri fasti sachri, con obbligo di farmi buttar una aschara *haskarah* ogni anno per la mia anima. Et in caso che la detta Congrega non voglia acetarla, con il sopra detto obligo, restar debba alli miei comesarij disponer di essa del meglio modo che parera à detto comesarij in modo tal che vada in opere pie. Lasio ducatti sesanta lire sei e quattro per ducatto à tre donzelle ò siano orfane ebree a ducati vinti per una, per aiuto del suo maritar; quelli dovrano dar li mieij comesarij à chi meglio gli parera all’ora del suo maritar.
-
-Il reseduario di quanto mi atrovo et atrovar mi potesse in qualsivoglia tempo tanto per ocasione della mia detta quanto per qual si voglia causa, nisuna ecetuata, lasio à Biancha di Silva mia nepotte, figliolla della quondam mia sorella Ester di Silva (relitta del quondam Jacob de Silva), consorte 3r di domino Gabriel di Silva mio fratello di sopra nominatta comesaria et esichutrice del presente mio testamento.
-
-Casando et anulando ogni altro mio testamento che si trovasse volendo che il presente sia eseguitto in tutto per tutto come sopra ne altro voglio ordinar.
-
-^1: Archivio di Stato di Venezia (hereafter, ASVE), Fondo Notarile, Testamenti, busta n. 259, pratica n. 673, 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora; ASVE, Fondo Notarile, Testamenti, busta n. 260, pratica n. 811, 23 of November 1679, Testament of Rachel quondam Raffael di Silva, Widow of Isach Oliver. In Venice, the term “Ponentini” referred to Iberian Jews while “Levantini,” in the Jewish context referred specifically to Sephardi Jews who were subjected to the Ottoman Empire before moving back to Europe. 
+[^1]: Archivio di Stato di Venezia (hereafter, ASVE), Fondo Notarile, Testamenti, busta n. 259, pratica n. 673, 2 of August, 1666, Testament of Mirian quondam Abram Israel Mora; ASVE, Fondo Notarile, Testamenti, busta n. 260, pratica n. 811, 23 of November 1679, Testament of Rachel quondam Raffael di Silva, Widow of Isach Oliver. In Venice, the term “Ponentini” referred to Iberian Jews while “Levantini,” in the Jewish context referred specifically to Sephardi Jews who were subjected to the Ottoman Empire before moving back to Europe. 
 
 [^2]: Federica Ruspio, *La Nazione Portoghese. Ebrei ponentini e nuovi cristiani a Venezia* (Turin: Silvio Zamorani Editore, 2007), 306-308. 
 
