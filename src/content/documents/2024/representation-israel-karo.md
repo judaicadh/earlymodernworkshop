@@ -40,7 +40,7 @@ bibliography:
   - author: Altshuler, Mor.
     title: "*The Life of Rabbi Yosef Karo.*"
     publication: Tel Aviv, 2016
-original_language_body: >+
+original_language_body: >-
   ## Source 1 Original
 
 
@@ -325,6 +325,62 @@ original_language_body: >+
 
 
   ## Source 12 Original
+
+
+  *Shulhan Arukh Hoshen Mishpa*t 409.1 
+
+
+  אין מגדלים בהמה דקה בארץ ישראל, מפני שדרכם לרעות בשדות של אחרים והיזקם מצוי;
+  אבל מגדלים בסוריא ובמדברות שבארץ ישראל. **והאידנא, שאין מצוי שיהיו לישראל בארץ
+  ישראל שדות, נראה דשרי**.
+
+
+  *Tur Hoshen Mishpat* 409
+
+
+  מפני שהבהמה דקה דרכה לרעות בשדות אחרות והיזקה מצוי תקנו חכמים שלא יגדלנה האדם
+  במקום שדות וכרמים אלא ביערים ואפילו בבית אסור ואפילו שאינה שלו והחמירו בה כדי
+  להרחיק מההיזק שאסור לאדם שיזיק את חבירו ומיהו עיקר תקנה זו לא נתקנה אלא על ארץ
+  ישראל אלא דקאמר בגמרא שבבל יש לה דין ארץ ישראל לדבר זה וי"א דבכל מנהגי דילן
+  בתר בבל גרירינן ולדידן נמי אסור ונראה דבהא לא גרירינן בתר בבל דטעמא דאסור בבבל
+  לפי שהיו שם רוב שדות ישראל וכיון דהשתא ליתא להאי טעמא שרי:
+
+
+  ## Source 13 Original
+
+
+  *Shulhan Arukh Orach Hayyim* 601
+
+
+  א ביום שני וקורים מוהאלהים נסה את אברהם עד סוף סידרא, ומפטיר קורא כמו אתמול
+  ומפטיר בירמיה (ירמיה לא, א) כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים;
+  ובמוצאי ר"ה מבדילין כמו במוצאי שבת, אלא שאין מברכין על הבשמים ועל האש.
+
+
+  ב **אף בארץ ישראל עושים ר"ה שני ימים**.
+
+
+  *Tur Orach Hayyi*m 601 
+
+
+  בשני מתפללין ותוקעין כמו בראשון וקורין בפרשת וירא אליו מן והאלהים נסה את אברהם
+  עד סוף סדרא ומפטיר קורא כמו אתמול ומפטיר בירמיה כה אמר ה' מצא חן במדבר עד הבן
+  יקיר לי אפרים ובמוצאי ר"ה מבדילין כמו במ"ש אלא שאין מברכין על הבשמים ועל האש:
+
+
+  *Beit Yosef to Tur Orach Hayyim* 601
+
+
+  וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים
+  של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב
+  דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר
+  כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום
+  אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל
+  הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות
+  שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא
+  יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב
+  (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר
+  **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
 ---
 ## Introduction
 
@@ -468,7 +524,7 @@ And even though there is no need of intense cross-examination, if the witnesses 
 
 But if they contradicted each other in their responses to examinations, their testimony stands. How? If one witness says: “X borrowed from Y in Nisan,” and the second says, “No, he borrowed from him in Iyar,” or if one said, “X borrowed from Y in such-and-such a  place,” and the second said: “No, it was in such-and-such a place,” their testimony is invalid.
 
-## Source 13 Translation
+## Source 12 Translation
 
 *Shulhan Arukh Hoshen Mishpat* 409.1 
 
@@ -478,21 +534,7 @@ One does not raise small cattle in the land of Israel, because their way is to g
 
 The sages instituted that people should not raise small cattle is a place of fields and vineyards but rather in forests, because the way of small cattle is to graze in others’ fields and their resulting damage is common. It is even forbidden to raise small cattle in the house, and even if the beast is not his. And the sages were strict about this in order to prevent damage, for a person is forbidden to cause damage to his fellow. Nevertheless, the essential enactment was for the land of Israel, except that the *gemara* says that Babylonia is considered to be the land of Israel for this purpose. And there are those who say that we are drawn after Babylonia as to all of our practices, and thus for us, too, raising small cattle should be forbidden. But it  seems that we are not drawn after Babylonia as to this. The reason that raising small cattle was forbidden in Babylonia was because most of the fields were in the possession of Jews. And since now this reason is inapplicable, raising small cattle is permitted.
 
-*Shulhan Arukh Hoshen Mishpa*t 409.1 
-
-
-
-אין מגדלים בהמה דקה בארץ ישראל, מפני שדרכם לרעות בשדות של אחרים והיזקם מצוי; אבל מגדלים בסוריא ובמדברות שבארץ ישראל. **והאידנא, שאין מצוי שיהיו לישראל בארץ ישראל שדות, נראה דשרי**.
-
-
-
-*Tur Hoshen Mishpat* 409
-
-
-
-מפני שהבהמה דקה דרכה לרעות בשדות אחרות והיזקה מצוי תקנו חכמים שלא יגדלנה האדם במקום שדות וכרמים אלא ביערים ואפילו בבית אסור ואפילו שאינה שלו והחמירו בה כדי להרחיק מההיזק שאסור לאדם שיזיק את חבירו ומיהו עיקר תקנה זו לא נתקנה אלא על ארץ ישראל אלא דקאמר בגמרא שבבל יש לה דין ארץ ישראל לדבר זה וי"א דבכל מנהגי דילן בתר בבל גרירינן ולדידן נמי אסור ונראה דבהא לא גרירינן בתר בבל דטעמא דאסור בבבל לפי שהיו שם רוב שדות ישראל וכיון דהשתא ליתא להאי טעמא שרי:
-
-## Source 14 Translation
+## Source 13 Translation
 
 *Shulhan Arukh Orach Hayyim* 601
 
@@ -511,22 +553,6 @@ And the Rif[^29] wrote (Betzah 3b): “And we learn from this that the people of
 And the Ba‘al Hama’or[^33] wrote (there) in accordance with Rabbenu Ephraim’s words. And he wrote further that so were they accustomed in the land of Israel during all the generations prior to us to observe Rosh Hoshanah for one day—until now, when “new ones who came there but lately”[^34] from among the sages of Provence instituted the practice of observing two festival days on Rosh Hashanah following the *Halakhot* (“Laws”) of the Rif. And Ba‘al Hama’or brought a proof that originally, they only observed one day. . . . 
 
 And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the Month (paragraph 8 and in chapter 1 of the Laws of Festivals (paragraph 21 in accordance with the Rif’s words. And the Rav Hamagid[^36] wrote (there) that there are those who disagree and who hold that Rosh Hashanah must be observed for only one day in the land of Israel. But the words of the *Halakhot* (the Rif) and of our rabbi (Maimonides) are the principal ones, **and so are we accustomed today to observe two days of Rosh Hashanah even in the land of Israel**. His (Rav Hamagid) language ends here:
-
-*Shulhan Arukh Orach Hayyim* 601
-
-א ביום שני וקורים מוהאלהים נסה את אברהם עד סוף סידרא, ומפטיר קורא כמו אתמול ומפטיר בירמיה (ירמיה לא, א) כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים; ובמוצאי ר"ה מבדילין כמו במוצאי שבת, אלא שאין מברכין על הבשמים ועל האש.
-
-ב **אף בארץ ישראל עושים ר"ה שני ימים**.
-
-*Tur Orach Hayyi*m 601 
-
-בשני מתפללין ותוקעין כמו בראשון וקורין בפרשת וירא אליו מן והאלהים נסה את אברהם עד סוף סדרא ומפטיר קורא כמו אתמול ומפטיר בירמיה כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים ובמוצאי ר"ה מבדילין כמו במ"ש אלא שאין מברכין על הבשמים ועל האש:
-
-*Beit Yosef to Tur Orach Hayyim* 601
-
-וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
-
-
 
 ### Bibliography
 
