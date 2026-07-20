@@ -40,7 +40,7 @@ bibliography:
   - author: Altshuler, Mor.
     title: "*The Life of Rabbi Yosef Karo.*"
     publication: Tel Aviv, 2016
-original_language_body: >-
+original_language_body: >+
   ## Source 1 Original
 
 
@@ -322,6 +322,9 @@ original_language_body: >-
   אבל אם הכחישו זה את זה בבדיקות עדותן קיימת כיצד אחד אמר בניסן לוה הימנו והשני
   אמר לא כי אלא באייר לוה הימנו או שאמר האחד במקום פלוני והשני אמר לא כי אלא
   במקום פלוני עדותן בטלה:
+
+
+  ## Source 12 Original
 ---
 ## Introduction
 
