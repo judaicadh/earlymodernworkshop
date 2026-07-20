@@ -37,6 +37,10 @@ original_language_body: >-
   ## Source 1 Original
 
 
+  Juspe Schammes, Minhagim K”K Warmaisa, eds. B.S. Hamburger and E. Zimmer, 2
+  vols. (Jerusalem, 1988) 2, Appendix 1.
+
+
   כמבו"ל הי"ה באר"ץ לפ"ק  
 
   המי"ם הי"ו ע"ל פנ"י האדמ"ה לפ"ק  
