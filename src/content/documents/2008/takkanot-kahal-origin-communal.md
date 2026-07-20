@@ -517,16 +517,16 @@ original_language_body: >-
   [^6]: This word written in larger letters.
 
 
-  [^7]: בעל בית
+  [^7]:     בעל בית
 
 
-  [^8]: בבית הכנסת.
+  [^8]:     בבית הכנסת.
 
 
   [^9]: This word above the row.
 
 
-  [^10]: קופשטיק = Kopfstück (a small coin).
+  [^10]:         קופשטיק = Kopfstück (a small coin).
 
 
   [^11]:
