@@ -37,8 +37,8 @@ original_language_body: >-
   ## Source 1 Original
 
 
-  Juspe Schammes, Minhagim K”K Warmaisa, eds. B.S. Hamburger and E. Zimmer, 2
-  vols. (Jerusalem, 1988) 2, Appendix 1.
+  **Juspe Schammes, Minhagim K”K Warmaisa, eds. B.S. Hamburger and E. Zimmer, 2
+  vols. (Jerusalem, 1988) 2, Appendix 1.**
 
 
   כמבו"ל הי"ה באר"ץ לפ"ק  
@@ -105,6 +105,39 @@ original_language_body: >-
   ששקעו  
 
   שם, והיה זה עיכוב גדול לעוברי דרכים וההתחלה היה בשנת תי"א בחודש טבת כנ"ל.
+
+
+  ## Source 2 Original
+
+
+  **Yair Hayyim Bacharach, *Havot Yair* (Frankfurt, 1699), no. 115.**
+
+
+  שאלה בהיותי אב"ד ומ"ץ במדינת טריר בג"ת בק"ק קובלענץ והיה דר שם נגד קובלענץ
+  מעבר הנהר  
+
+  ריין ב"ב עשיר מכובד שמו בערמן בכפר טאל והי' הולך לבה"כ עכ"פ ביום השבת בבקר
+  לקובלענץ  
+
+  והיה שם גשר עשויה ע"י ספינות גדולות מעבר לעבר נהר הנ"ל רק שכמשלש חדשים בימי
+  הקור  
+
+  הגדול והליכות הגליד על הנהר היו מפרקין האומנים את בנין הגשר ומוליכין הספינות
+  למקום מיוחד  
+
+  ששם לא יוזקו מכח הגליד ההולך בכח גדול. ומ"מ היו שכיחים עוברים מעבר לעבר ע"י
+  ספינות  
+
+  קטנות גם לפעמי' שהיה יומא דעיבא ואין הקור והגליד גדול ושאלני ב"ב העשיר ומכובד
+  אם יכול לבא  
+
+  לקובלענץ בבקר בבקר יום ש"ק להתפלל בעשרה ולשמוע קריאת התורה. בספינה שישכור
+  מע"ש  
+
+  אצל ספין המעבירו ולא רציתי להתיר מפני שחקרתי ושמעתי דרבנן קשישא דהוו שם מקמי
+  דידי  
+
+  רבנים ומ"ץ נשאלו ולא התירו.
 ---
 ### Introduction
 
@@ -181,35 +214,27 @@ normal level, in any event, the water that had reached the fields in some of the
 places remained for a long time until they receded, and it caused great delay to  
 travelers, and this began in [5]411 in the month of Tevet, as was mentioned above.
 
-## Yair Hayyim Bacharach, *Havot Yair* (Frankfurt, 1699), no. 115.
+## Source 2 Translation
 
-A question [was asked] when I was the rabbinical judge and rabbi of the Trier
-region in lower Germany in Koblenz. And directly across the Rhine river from
-Koblenz, there lived a wealthy and honorable man named Berman, in the town of
-Tal [Mülheim-im-Tal]. And on every Sabbath morning, he went to synagogue in
-Koblenz, for there was a bridge that was constructed out of large boats [that were
-docked] from one end of the aforementioned river to the other. Only for
-approximately three months, during the great cold, when ice would [accumulate]
-on the river, the artisans would dissemble the boats and move them to a special
-place where the force of the flowing ice would not damage them. In any event,
-[people] would regularly cross the river using small boats, even on cloudy days,
-when the cold and ice were not great [severe]. And the wealthy and honorable head
-of household asked me if he could come to Koblenz in the mornings on the holy
-Sabbath in order to pray with a quorum of ten [men] and to hear the Torah reading,
-via a boat that he would rent on Sabbath eve [Friday] from a captain who would
-ferry him across. And I did not wish to permit this, for I had inquired and heard
-from older rabbis that rabbis of previous generations had been asked this and did
+Yair Hayyim Bacharach, *Havot Yair* (Frankfurt, 1699), no. 115.
+
+A question [was asked] when I was the rabbinical judge and rabbi of the Trier  
+region in lower Germany in Koblenz. And directly across the Rhine river from  
+Koblenz, there lived a wealthy and honorable man named Berman, in the town of  
+Tal [Mülheim-im-Tal]. And on every Sabbath morning, he went to synagogue in  
+Koblenz, for there was a bridge that was constructed out of large boats [that were  
+docked] from one end of the aforementioned river to the other. Only for  
+approximately three months, during the great cold, when ice would [accumulate]  
+on the river, the artisans would dissemble the boats and move them to a special  
+place where the force of the flowing ice would not damage them. In any event,  
+[people] would regularly cross the river using small boats, even on cloudy days,  
+when the cold and ice were not great [severe]. And the wealthy and honorable head  
+of household asked me if he could come to Koblenz in the mornings on the holy  
+Sabbath in order to pray with a quorum of ten [men] and to hear the Torah reading,  
+via a boat that he would rent on Sabbath eve [Friday] from a captain who would  
+ferry him across. And I did not wish to permit this, for I had inquired and heard  
+from older rabbis that rabbis of previous generations had been asked this and did  
 not permit it…. 
-
-שאלה בהיותי אב"ד ומ"ץ במדינת טריר בג"ת בק"ק קובלענץ והיה דר שם נגד קובלענץ מעבר הנהר
-ריין ב"ב עשיר מכובד שמו בערמן בכפר טאל והי' הולך לבה"כ עכ"פ ביום השבת בבקר לקובלענץ
-והיה שם גשר עשויה ע"י ספינות גדולות מעבר לעבר נהר הנ"ל רק שכמשלש חדשים בימי הקור
-הגדול והליכות הגליד על הנהר היו מפרקין האומנים את בנין הגשר ומוליכין הספינות למקום מיוחד
-ששם לא יוזקו מכח הגליד ההולך בכח גדול. ומ"מ היו שכיחים עוברים מעבר לעבר ע"י ספינות
-קטנות גם לפעמי' שהיה יומא דעיבא ואין הקור והגליד גדול ושאלני ב"ב העשיר ומכובד אם יכול לבא
-לקובלענץ בבקר בבקר יום ש"ק להתפלל בעשרה ולשמוע קריאת התורה. בספינה שישכור מע"ש
-אצל ספין המעבירו ולא רציתי להתיר מפני שחקרתי ושמעתי דרבנן קשישא דהוו שם מקמי דידי
-רבנים ומ"ץ נשאלו ולא התירו.
 
 ## Národní Archiv, Praha (National Archives of the Czech Republic, Prague), SM J4/ 34
 
