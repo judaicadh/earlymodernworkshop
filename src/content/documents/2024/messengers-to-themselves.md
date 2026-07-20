@@ -91,7 +91,7 @@ In conclusion: the collection of letters from Jerusalem shows an extensive netwo
 
 Here are three examples of such letters, sent by the community for private individuals.[^8]
 
-### Source 1 Translation
+### Source 1
 
 Jerusalem, The National Library of Israel, Ktiv Project, Ms. Heb. 8°61, system no. 990000434660205171, Correspondence from Jerusalem in the 17th Century, letter no. 178, fol. 209-210 (digitized fol. 109-110).
 
@@ -129,7 +129,7 @@ Therefore, we are full of sorrow for this poor man, because as we have heard he 
 
 Therefore, we have come to beseech your honors to strengthen the feeble hands and steady the buckling knees, for it is a time for you to act for God, . . . especially for this poor man, who has a mask of embarrassment hovering over his face, and he lacks the words to beg, as he has no experience with this. Therefore we said: Let us speak up for those who are mute, and we have come in these two lines to vouch for him before your honors with all your charity …. Now it is your mitzva, you priests Cohens?, to support him and bring him joy, to fill him with maximum happiness with valuable money. . . . So that he can return, appearing on the mountain of God, to take care of the members of his household, all of whom are directing their eyes toward His providence (may He be blessed). As a reward for this, behold, our God stands watching behind our wall to bring blessing to your storehouses. May He send you help from the holy place and grant you support from Zion. May your eyes see Jerusalem restored as a peaceful abode, and the palace standing in its proper place.
 
-### Source 2 Translation
+### Source 2
 
 Jerusalem, The National Library of Israel, Ktiv Project, Ms. Heb. 8°61, system no. 990000434660205171, Correspondence from Jerusalem in the 17th Century, letter no.72, fol. 114 (digitized fol. 60).
 
@@ -151,7 +151,7 @@ To the one who is a flowing spring, who knows the will of the Highest, a fountai
 
 This is to call your eminence’s attention to the plight of the elderly woman so-and-so, mother of so-and-so. She came before us, her cheeks wet with tears, like water cascading down a slope. She cries and causes others to cry with her, due to her desire to see her son so-and-so. A number of years ago, he set out somewhere, and she did not know where he was and whether he was alïve or dëad. Her soul was embittered as no one could even tell her where he was headed. Recently, she was told by someone that her son has been detained and imprisoned by a Jew to whom he owed a certain amount and had to serve him for free until he repays the debt. Therefore, we implore you, dignitaries, kings, and princes, to rescue a prisoner from confinement, to stand at the right hand of Moshe and save him. Do not rest until you have sent this young man money to redeem him from there and raise him up post haste. This will comfort his elderly mother whose soul lies prostrate in the dust and is in constant pain due to their separation, for her soul is bound up with his soul. This will be credited to you as righteousness, for you will revive her soul in the midst of Jerusalem.
 
-### Source 3 Translation
+### Source 3
 
 Jerusalem, The National Library of Israel, Ktiv Project, Ms. Heb. 8°61, system no. 990000434660205171, Correspondence from Jerusalem in the 17th Century, letter no. 165, fol. 196 (digitized fol. 103).
 
