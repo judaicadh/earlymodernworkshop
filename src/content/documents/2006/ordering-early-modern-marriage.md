@@ -1448,178 +1448,156 @@ recently married.
 
 [^10] The cemetery.
 
-11 A simple head covering (that was worn particularly by women in mourning).
+[^11]: A simple head covering (that was worn particularly by women in mourning).
 
-12 The canopy used in the wedding ceremony, employed here as a reference to the
+[^12]: The canopy used in the wedding ceremony, employed here as a reference to the ceremony itself.
 
-ceremony itself.
+[^13]: *Betulot*, literally, "virgins," henceforth "young women." The term refers to individuals who are unmarried.
 
-13 *Betulot*, literally, “virgins,” henceforth “young women.” The term refers to individuals
+[^14]: "Soup Meal."
 
-who are unmarried.
+[^15]: A golden head covering.
 
-14 “Soup Meal.”
+[^16]: The Sabbath preceding the wedding, as will be explained in the next paragraph.
 
-15 A golden head covering.
+[^17]: "Day of Gifts," as will be described presently.
 
-16 The Sabbath preceding the wedding, as will be explained in the next paragraph.
+[^18]: The afternoon prayers.
 
-17 “Day of Gifts,” as will be described presently.
+[^19]: A silk cloak.
 
-18 The afternoon prayers.
+[^20]: A hood-like head covering.
 
-19 A silk cloak.
+[^21]: "Your Majesty," a line in the evening prayers.
 
-20 A hood-like head covering.
+[^22]: "Lay Us Down," a line in the evening prayers.
 
-21 “Your Majesty,” a line in the evening prayers.
+[^23]: "For [God] Who Protects Us," a line in the evening prayers.
 
-22 “Lay Us Down,” a line in the evening prayers.
+[^24]: "To the *Spinholz*."
 
-23 “For [God] Who Protects Us,” a line in the evening prayers.
+[^25]: Literally, "husband and wife."
 
-24 “To the *Spinholz*.”
+[^26]: Literally, "of merchant's powders."
 
-25 Literally, “husband and wife.”
+[^27]: Sugar.
 
-26 Literally, “of merchant’s powders.”
+[^28]: Literally, "forever."
 
-27 Sugar.
+[^29]: Or *Schapel*, a flower garland or gold tiara.
 
-28 Literally, “forever.”
+[^30]: A checkered cloth.
 
-29 Or *Schapel*, a flower garland or gold tiara.
+[^31]: "Over the fist," i.e. a fist-length above her face, rather than covering her face.
 
-30 A checkered cloth.
+[^32]: The "Additional Prayer" for Sabbath and holidays.
 
-31 “Over the fist,” i.e. a fist-length above her face, rather than covering her face.
+[^33]: "May There Be [Abundant] Peace," a line of the *Kaddish* prayer.
 
-32 The “Additional Prayer” for Sabbath and holidays.
+[^34]: "He Who Makes Peace," a line of the *Kaddish* prayer.
 
-33 “May There Be [Abundant] Peace,” a line of the *Kaddish* prayer.
+[^35]: The liturgical doxology, recited several times throughout the prayer service (sometimes by mourners).
 
-34 “He Who Makes Peace,” a line of the *Kaddish* prayer.
+[^36]: "There Is None Like Our God," one of the concluding hymns of the Sabbath morning service.
 
-35 The liturgical doxology, recited several times throughout the prayer service
+[^37]: A dress or skirt.
 
-(sometimes by mourners).
+[^38]: "Bride House."
 
-36 “There Is None Like Our God,” one of the concluding hymns of the Sabbath morning
+[^39]: "He Who Blessed," a prayer recited on behalf of individuals who are called to the Torah.
 
-service.
+[^40]: The third of the benedictions in the "Eighteen Benedictions" prayer of the daily service.
 
-37 A dress or skirt.
+[^41]: *Zidkatkha VeZedek*, "Your Justice is Justice," a series of verses from Psalms recited at Sabbath afternoon services.
 
-38 “Bride House.”
+[^42]: "Rabbi Manis Meal"? The meaning of this name is unclear.
 
-39 “He Who Blessed,” a prayer recited on behalf of individuals who are called to the
+[^43]: Lavish gifts.
 
-Torah.
+[^44]: Note, slip of paper.
 
-40 The third of the benedictions in the “Eighteen Benedictions” prayer of the daily
+[^45]: "Milk Meal."
 
-service.
+[^46]: Perhaps by order of importance.
 
-41 *Zidkatkha VeZedek*, “Your Justice is Justice,” a series of verses from Psalms recited at
+[^47]: "[They are] leading the bride to the bath."
 
-Sabbath afternoon services.
+[^48]: This is evidence that the mikveh is in the bathhouse, which was certainly the case in Worms.
 
-42 “Rabbi Manis Meal”? The meaning of this name is unclear.
+[^49]: Thick scarf.
 
-43 Lavish gifts.
+[^50]: This is another kind of tiara or garland of flowers, see n. 29.
 
-44 Note, slip of paper.
+[^51]: Literally, "descends to her purification."
 
-45 “Milk Meal.”
+[^52]: Prayer of Supplication.
 
-46 Perhaps by order of importance.
+[^53]: I could not identify this place.
 
-47 “[They are] leading the bride to the bath.”
+[^54]: Blessing on the bread.
 
-48 This is evidence that the mikveh is in the bathhouse, which was certainly the case in
+[^55]: "Wine Sending," the Sabbath after the wedding, as will be described presently.
 
-Worms.
+[^56]: "We Shall Praise Your Name," a liturgical hymn that was recited, according to German custom, before Grace After Meals at a wedding feast.
 
-49 Thick scarf.
+[^57]: "[God] Be Exalted," a liturgical hymn.
 
-50 This is another kind of tiara or garland of flowers, see n. 29.
+[^58]: Butler, banquet attendant.
 
-51 Literally, “descends to her purification.”
+[^59]: Literally, "knocks."
 
-52 Prayer of Supplication.
+[^60]: Lectern.
 
-53 I could not identify this place.
+[^61]: "Bless [God]," the official beginning of the *Shaharit* (morning) prayer service.
 
-54 Blessing on the bread.
+[^62]: *Tahanun*, see note 48.
 
-55 “Wine Sending,” the Sabbath after the wedding, as will be described presently.
+[^63]: "For the Conductor," a chapter of Psalms recited at the end of the morning prayers.
 
-56 “We Shall Praise Your Name,” a liturgical hymn that was recited, according to German
+[^64]: "God You Are Slow to Anger," a prayer that is added to the morning prayers on Mondays and Thursdays.
 
-custom, before Grace After Meals at a wedding feast.
+[^65]: Penitential prayers.
 
-57 “[God] Be Exalted,” a liturgical hymn.
+[^66]: The confessional prayer.
 
-58 Butler, banquet attendant.
+[^67]: "Transfer," of the dowry.
 
-59 Literally, “knocks.”
+[^68]: Marriage contract.
 
-60 Lectern.
+[^69]: "[They are] going to the braiding of the bride."
 
-61 “Bless [God,” the official beginning of the *Shaharit* (morning) prayer service.
+[^70]: Commandment, religious duty.
 
-62 *Tahanun*, see note 48.
+[^71]: "To the blessing."
 
-63 “For the Conductor,” a chapter of Psalms recited at the end of the morning prayers.
+[^72]: The consecration ceremony.
 
-64 “God You Are Slow to Anger,” a prayer that is added to the morning prayers on
+[^73]: A sharp corner, an attached strap.
 
-Mondays and Thurdays.
+[^74]: "Creator of the Fruit of the Vine."
 
-65 Penitential prayers.
+[^75]: Official betrothal.
 
-66 The confessional prayer.
+[^76]: A small coin, a penny.
 
-67 “Transfer,” of the dowry.
+[^77]: "Bring Joy To," the fifth of the seven marriage blessings.
 
-68 Marriage contract.
+[^78]: "Groom and Bride," the last words of the fifth blessing.
 
-69 “[They are] going to the braiding of the bride.”
+[^79]: "Who Created Joy," the sixth of the seven marriage blessings.
 
-70 Commandment, religious duty.
+[^80]: "Groom with the Bride," the last words of the seventh blessing.
 
-71 “To the blessing.”
+[^81]: The blessing on bread.
 
-72 The consecration ceremony.
+[^82]: The Discourse Ring.
 
-73 A sharp corner, an attached strap.
+[^83]: A sweet wine, possibly *Nougat*. In this context, the reference is to a monetary payment.
 
-74 “Creator of the Fruit of the Vine.”
+[^84]: "Relatives' Meal."
 
-75 Official betrothal.
+[^85]: "With a fringe on the forehead."
 
-76 A small coin, a penny.
+[^86]: i.e. Saturday night.
 
-77 “Bring Joy To,” the fifth of the seven marriage blessings.
-
-78 “Groom and Bride,” the last words of the fifth blessing.
-
-79 “Who Created Joy,” the sixth of the seven marriage blessings.
-
-80 “Groom with the Bride,” the last words of the seventh blessing.
-
-81 The blessing on bread.
-
-82 The Discourse Ring.
-
-83 A sweet wine, possibly *Nougat*. In this context, the reference is to a monetary
-
-payment.
-
-84 “Relatives’ Meal.”
-
-85 “With a fringe on the forehead.”
-
-86 i.e. Saturday night.
-
-87 “Fish Meal.”
+[^87]: "Fish Meal."
