@@ -15,7 +15,7 @@ event:
   name: 'Early Modern Workshop: Jewish History Resources'
   theme: 'Egodocuments: Revelation of the Self in the Early Modern Period'
   Date: {}
-bibliography: {}
+bibliography: []
 ---
 # Introduction
 
