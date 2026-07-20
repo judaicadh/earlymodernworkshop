@@ -73,6 +73,149 @@ description: >-
 
   Michela Torbidoni, “Pomis, David ben Isaac de,” *Encyclopedia of Renaissance
   Philosophy*, 2017, s.v.
+original_language_body: >-
+  ## Source 1 Original Text
+
+
+  David de’ Pomis, *Zemah David: Dittionario novo Hebraico...Dechiarato in Tre*
+
+
+  *Lingue* (Venice: 1587), Hebrew Introduction
+
+
+  ‫הקדמת הספר עם ספור קצת התלאות שאירעו למחבר משני[!] נעוריו עד היום:‬
+
+
+  ‫אמר דוד בן יצחק בן אליעזר בן יצחק בן עובדיה בן יצחק המכונה העשיר בן אליה
+  המכונה הקדוש ובעבור טהרתו וקדושתו העצומה[!] בשבע׳ לילות אחר מיתתו תמיד נראו
+  נרות דולקות על קברו והיה ממשפחת התפוחים משבט יהודה מארבעה בתי אבות המיוחסות
+  שהגלה טיטוס הקיסר מירושלם ברומה ומרומה. אחר מיתת החסיד הנ״ל יצאו כל בני ביתו
+  בשבעים נפש ונפוצו בכל הארץ. אכן רובם נשארו בספוליטי העיר שהיא בגליל אומריאה[!]
+  ושמה פרו ורבו ובנו בתים וחצרות ונטעו כרמים וחפרו בורות ועמדו על כר נרחב יותר
+  ממעשרי׳[?] וארבע מאות שנה כפי שמצאתי בא׳ ספר ישן שהיה אצל א״מ ע״ה.‬
+
+
+  ‫ובשנת פ״ז על מאתים לפרט קטן שנתים אחר תולדתי כלה הפ״ז ונשאר הנחושת, יען כי
+  בעת שהספרדים והאשכנזים שללו רומ״ה העיר גוברת ומהוללה רוב סביבותיה נשמו ג״כ
+  ומקול הפחד א״מ ע״ה נפל אל הפחת ונלכד בפח. בהיות ששם מגמת פניו לגלות בראש גולים
+  ולנוס עם כל הון ביתו עבור השד והשבר והרעב והחרב ובעצה כללית ועם הסכמת כל צבור
+  ספול׳יטי שלח לקאמ׳רינו ובצר׳יטו שהם ערים בצורות ארבעי׳ פרדים טעונים ממולוה
+  בגדי צמר ופשתן ובתוכם שבע מאות ליטרין כסף צרוף מזוקק שבעתים כלי יקר וחמדת
+  שכיות אבנים טובות ומרגליות. אבל יצא משלוח לחרדה והלך אל הגחלים. כי חיל הקשר
+  הנקרא ליג״ה בלע״ז ששר הצבא היה שיארא קולונ״ה שדד כל מקום מנוס ולא היה מחנה
+  נשאר לפלטה. ובזה את ממוננו כלו וירדנו פלאים:‬
+
+
+  ‫ולולי השם צבאות הותיר לנו שריד שדות ובתים היינו נאנחים מבקשים לחם להשיב
+  נפשנו. ובספוליטי׳ החיל ההוא לא בא ולא נלקח מחוט ועד שרוך נעל. והיה יום מהומה
+  ומבוסה ומבוכה לאדוני אבי ע״ה ומנע את לבו מכל שמחה והאנחה היתה לו לארוכה. בכל
+  זאת לא חטא בשפתיו ולעולם יראת שדי לא עזב. ושפט בצדק מעשיו ולא מעדו קרסוליו מן
+  הדרך הישר כי באמת ובצדקה איש צדיק תמים היה בדורותיו ואף כי התנכר לו הזמן שקט
+  ובטח באל הנאמן:‬
+
+
+  ‫גם ראתה עיני אל מארת צפעוני מהזמן הרע אשר פרש רשת לרגליו ובגלל קורות זמנו
+  הייתי כל ימי עמוס התלאות איש מכאובות יען כי אחר הפרץ הלך לארץ ביוונ״יה לרשת
+  פלטת אחיו ע״ה ושמה התמהמה ימים ושנים עם כל בני ביתו מקום אשר לא היו בו מרביצי
+  תורה אך הוא לבדו שהיה גדול בגמרא[!] ובקי בכל ספרי הקדש ופילוסוף אלהי צור תעודה
+  חתום תורה בלמודי. האמנם למדני לעתים לא בזמן קבוע לרוב טרדותיו ומריביו. עד כי
+  בחרתי בלבי ללכת[!] אחר המושכלות עבריות וגם מעיין ההלכה בלתי חבר ומלמד. והייתי
+  אצלי חיצוניות והייתי מנעורי חמור גרם יושב בין המשפתים. ספר הערוך הגדול ישן
+  נושן מטושטש ומקולקל בכתיב׳ יד ובקלף והכתב מכתב המחבר כמהר״ר נתן ז״ל שהוא היה
+  ממשפחתנו לפי הקבלה ובהיות שבטורח עמל ויגיעה רבה הייתי מבין דברי הספר ההוא
+  הסכמתי להוציא לאור בקצור ופירשתי מלותיו בשלשה לשונות. וכן עשיתי בשער השרשים של
+  ר׳ דוד קמחי עם הנגזרים. אחר כך בא לידי ספר התשבי וספר המתורגמן חבורי רבי אליה
+  אשכנזי מדקדק הגדול ע״ה והוצאתי מהם כל התועלת שמצאתי בם:‬
+
+
+  ‫וחברתי מכלם זה החבור שקראתיו בשם צמח דוד על אשר חברתיו בבחרותי. ובשנת צ״ב נסע
+  א״מ ע״ה מביוונייה והלך לדור בטודי ושמה קנה שדות וכרמים, ובמקום ההוא שמעתי כל
+  ההגיון בשלשה שנים רצופים. ולא סרתי מהתאבק בעפר רגלי אביר הרופאים כמהר״ר יחיאל
+  רחביה אלאטי״נו בלע״ז דודי ע״ה ולקטתי פניני משליו ושאבתי ממעייניו מים חיים
+  לפקוח עיני העורות. והיה חכם גבור עשיר ומפורסם בכל הארצות ולא הניח שני לו.
+  והיום בפירירה עומד אחיו מצד האב כמ״ר משה אלאטיני קרובי יצ״ו רופא ופילוסוף
+  מובהק והעתיק מלשון הקדש אל לשון לאטינו חלק ראשון של אויצ׳הני[?] וספר שמים
+  ועולם מטמיסטי״או בלשון צח, ויש לו בן חכם ישמח אב ה׳ ישמרהו א׳:‬
+
+
+  ‫ובשנת ש״ה הלכתי בפירושה קריה נאמנה ללמוד וללמד דברי חכמים וחידותם ובפרט חבורי
+  אריסטוטילי ואיפוקרט[!] וגאלי״נו ושמה התמהמהתי[!] ששה שנים וחצי עד כי נרשמתי
+  בפירוש׳ בעיר ההיא ונדבה רוח הקוליגי״או לזמר לי שיר המעלות בהגיון בפילוסופיאה
+  וברפואה. ותכף ומיד נקראתי מצבור עיר מאלייאני ראש גליל סאוינה עם עצה כללית והיא
+  תחת ממשלת רומ״אני ועכבתי בארץ ההיא בשכר הגון שלש שני׳ רצופי׳.[!] בימים ההם
+  נולד אפיפיור פאו״לו רביעי ויצא דבר מלכו׳ ונכת׳ נגד אומתנו בעונותינו והחריד
+  לבבי ונמס והיה מים ונשמה לא נותרה בי על אשר יצאו קומיסא״ריי דחופי׳ נגדנו והלכו
+  לטו״די ומהרו ושללו כל אשר מצאו בביתנו והשאירוני ערום ושולל ויפרצוני פרץ על פני
+  פרץ. לכן הייתי כסוס עגור שיצפצף קצף קצפתי דלו עיני למרום ותעל שועתי אל האלהים
+  והוא ית׳ שמו הביא ברעיוני אופן הבטחון ושם בלבי לשרת השר הגדול קונטי ניקולה
+  אורסינו והוא מהגבורים אשר מעולם אנשי השם ועבדתי אותו במלאכת הרפואה חמשה[!]
+  שנים בשלש[!] ערי׳ המקלט פיטיליאנו סוראני וסוואנה והיא ארץ אוכלת יושביה עבור
+  קלקול האויר. שמה קברתי שגל ימיני אשת נעורי שהיתה אחות של אנשי חסד ואמונה
+  היושבים ראשונה במלכות הדעת והתבונה כמהר״ר אליעזר חכם ורופא מובהק וכמהר״ר יצחק
+  אחיו הגאון והפילוסוף הגדול שניהם ראשי גדולת ממלכת כהנים אשר יצאו מויטרבו ‪[is
+  this Isaac da Viterbo?]‬ ובארץ סוואנה מתו לי גם[!] בנים זכרים נתקו מיתרי שודד
+  אהלי ונשארתי יחיד וגלמוד. ולא נודעה אצלי שארית משפחתנו אלא כמ״ר ראובן ובניו
+  שהוא דר בארץ אדוני ס׳ פיור״ה וברומה יש לו בן אחד משכיל ונבון במושכלות רבות
+  עשאל פומיס שמו איש חמודות גיסו של כמהר״ר אליה קורקוס רופא. אחר כך נדרשתי לעבוד
+  שרי ספורצה מנדיבי עם ומהם יצאו שלשה חשמנים ועבדתי אותם שלש שנים. אחר זה נקראתי
+  מצבור קיושי בעצה כללית והיא עיר של דוכוס הגדול מפיורנצה וההגמון של עיר ההיא
+  מנע ואסר הליכתי שמה. אעפ״ז הלכתי ברומה לבקש רחמים וצדק מאפיפיור פאיו רביעי
+  ועשיתי לפניו ולפני שרים גדולים וחשמנים רבים ולפני המון רב אין מספר תחינה ארוכה
+  אוראציאני בלע״ז בלשון לאטינו ונשאתי [ע״ב]‬
+
+
+  1  ‫בראשית מט,‬‎14. He was as strong as a pack animal who sits among the
+  dung-heaps/folds.
+
+
+  ‫חן לפני והשגתי כל מה ששאלתי. אכן תוך שבוע אחד אחר השגתי מת בעונותיי והמליכו
+  תחתיו פאיו חמישי וחדש תקנות וסדרי אפאולו רביעי והרס כל הבנין ובטל הכל. ואבדתי
+  ברגע א׳ כל מה שכבשתי בשנים רבות. ולא שלותי ולא שקטתי ויבא רוגז הייתי ימים רבים
+  כצבי מודח וכצאן ואין מקבץ, עד שנשאתי אשה אחרת באנקונא מכהני לינול אשת חיל מרת
+  ספרינצה והשביתה קצת אנחתי אל על דרך כל[sic׳] יען כי מצאתי שמוהר ונתמו שנדרו
+  קרוביה לתת לי במחושבים היה ביד תגר א׳ לוינטי״ן והוא בגד וברח. ואני רדפתי אחריו
+  והלכתי למסע מחנותיו עד שהגעתי אותו פה וויניציאה עי״ר המהוללה רבתי עם מלאתי
+  משפט. עם כל זה לא קבלתי ממנו אלא מעט מצער ובתוך ימים אחדים תם ואפס מכל וכל כסף
+  מכיסי ואויבי שקר חשבו היותי משופע בעושר ובנכסים והו׳ יודע ועד כי במקלי עברתי
+  את הירדן הזה ולא מצאתי לא אח ולא ריע אלא רודפי כולם ויקנאו אותי ממה שלא היה
+  בידי ורובם שכוח שכחו הטובה שעשיתי להם אצל דוכוס מוצונינוסו והשררה רי״ה ושמו
+  עול על צוארי שאי אפשר לשאת אותו. האמנם שפתי לא אכלא מלספר קצת שבח אנשים שלמים
+  אשר מצאתי ביניהם רודפי צדק ושונאי בצע נדיבי עמים אנשים ראשי אלפי ישראל והם
+  ארבעה בני שמחה קאלמאנו וביניהם יש״א תבונות הבחור הנחמד והחכם כמ״ר ברוך
+  קאלימ״אן ומשפחת סארוואל אשר בה כמהר״ר יהודה יודוהו כחתי ויהללו את שמו על אשר
+  בו מעלות המדות ומעלות שכליות וראוי לברך כל פטר רחם אשר הוליד בן משכיל כמוהו.
+  גם ארבעה בני גרישיני הם מאצילי בני ישראל ובה החכם כמ׳ גרשון ובנו׳ גם בני
+  לוציאטו[!] מיוחסים הם ופרו ורבו בעושר וכבוד ובפרט הקצין חשוב ונורא כמ״ר יצחק
+  בן החכם כמהר״ר לוצ׳ו ע״ה והחכם כמ״ר דוד וכמר יעקב אחיו ומשפחות אחרות נמצאות פה
+  וויניציאה מיוחסו׳ ובפרט משפחת צירטל חשובה וגדולה ובה כמהר״ר אביגדור הגדול בדור
+  וחכמים אחרים אשכנזים זולתם כמו כ״מר שמחה גרשוני וכמר׳ משה מרור וכמו״ר גבריאל
+  בן כמהר״ר מאיר בקי בגמרא[!] וכמו״ר שלמה סורנפו בן חכם ישמח אביו ואמו וכולם
+  קבלו מהנורא שמו בכל הארץ מהר״ר יהודה קצנלנבוגן שעל פיו ישק כל בעל ריב ודבריו
+  נשמעים כדברי אלקים חיים ואין מי שיסרב לו כמוטל לעשות כי אין חקר לתבונתו וישקיט
+  כל ריב ומדון. והוא אב בית דין ועמו איש קדוש ונורא כמהר״ר יעקב בר אברהם ברוך
+  כהן ועליו יצדק שפתי כהן ישמרו דעת כי לא ישקר ולא יכזב באמונתו ועמם חוט המשולש
+  אשר לא במהרה ינתק כמהר״ר אביגדור הנ״ל ודי בזה.‬
+
+
+  ‫ועתה טרם אחדל המאמר ואשים קנצי למלין אשוב לכוונתי הראשונה ואשא משלי ואומר
+  החבור הזה עמל ידי צפנתיהו ימים ושנים ולא יכולתי הצפינו עד ונראה מאנשי לכל שכל
+  ומדע ושבחוהו והללוהו עד בלי די עברים גם נצרים ובקשו ממני בעוצם כחם להדפיסו
+  ויהי כדברם כנוגשי׳ אלי יום יום שמעתי אליהם ובפרט לקול החכם כמר יעקב טריוייס
+  ואחר שהוחל להוציאו אותו לאור הדפוס הראיתיהו לחכמים אחרים ואלו הם, כמ״ר יום טוב
+  כהן כמ״ר גבריאל מנחם כמ״ר יוסף סימיסי הוא שחבר ספר הנקרא מקראי קדש כמ״ר יצחק
+  גרשון וכמו״ר שמואל פרנצישי הנדיב והמשכיל שבספרדים ולו העושר החכמה והגבורה
+  באגודה א׳ וחכמים אחרים זולתם וכולם פה א׳ קיימו והודו ואמרו שתועלת זה החבור רב
+  עד מאד לכל קורא בו והשקיטו המיית לבב הסוער נוסף שהעתקתי אותו לסבות מקבילות. הן
+  לשים בו מורה מקום הן ג״כ להבדיל מלות עבריות מן הנכריות כי בתחילה היו בערבוביא.
+  והוספתי שתי לוחות למצוא ביאור כל המלות הנמצאות בחבור. והאחד פרשתיהו בלשון
+  לאטינו והאחר בלשון איטאל״ינו וזה בארתי ג״כ עם אותיות עבריות למען יוכל העברי
+  והנכרי לקרוא בנקלה עם אותיות חבר ולמצוא הביאור עם אותיות לשונו אם לא עלה לאל
+  ידו לקרוא עם הנכריות. והמחוקקים אצים לאמר ולכ מעשיהם דבר יום ביומו ואני זקנתי
+  וישבתי ונתרשלו ידי לכתוב במרוצה ועסקי הבית והרפואה ג״כ מנעוני פעמים רבות למלאת
+  חפצם ועא״ז גמר הדפיסה היתה בעכוב. ותשלם כל המלאכה יתברך שמו של מלך מלכי המלכים
+  היום יום ו׳ כ״א שבט שנת שמ״ז [שמ״ו?] לפ״ק י״ר [=יהי רצון] מלפני אבינו שבשמים
+  שאזכה להוציא לאור שאר חבוריי עם ישועת הנפש וגדול ילדיי למצוותיו שלמען חסדו
+  בזקנתי חנן לי ויתן די ספקם ויאיר פניו להם אמן ואמן.
 ---
 ## Source 1 Translation
 
@@ -88,35 +231,9 @@ My eye also saw into the viper’s hole of that time that spread a net around hi
 
 Out of all of these I composed this work which I called *Tzemah David* The Sprout of David, because I composed it in my youth. And in the year 5392 i.e., 1531– 32, my late lord father moved from Bevagna and went to live in Todi where he bought fields and vineyards. There I “heard” the entire Logic in three consecutive years. I never moved from sitting in the dust at the feet of the master doctor, His Honor Rabbi Yehiel Rehavia Alatino[^6] my late uncle. I gathered the pearls of his parables and drew living water from his wellsprings with which to open my blind eyes. He was a great wealthy, and famous scholar in all the lands, and had no equal. Currently, his paternal brother and my relative, Moses Alatini, may God protect him, is a doctor and eminent philosopher in Ferrara. He translated the first part of Avicenna and the book *Heaven and Earth* of Themistius from Hebrew into Latin in a clear language.[^7] He has a son, may he gladden the heart of his father, and may God protect him.
 
-In the year 305 1544–45 I went to Perugia, the great city, to study and teach[^8] the words of the sages and their riddles—especially the works of Aristotle, Hippocrates and Galen, and there I stayed six and one-half years until I was registered in Perugia in that city and the College was kind enough “to sing me a song of degrees” in logic, philosophy and medicine. Immediately, I was called by the commune of the city of Majjano, the chief city of the region of Savina,[^9] with a vote of the general commune, then under Roman rule. I stayed in that territory with a good salary for three consecutive years. It was then that Pope Paul IV was elected literally: born, and a government edict was issued, and for our sins it was directed against our people. This put fear in my heart, and it melted and became water. My breath was knocked out of me. This was because the *commissarii* hurried out against us and went to Todi and quickly looted whatever they found in our house, leaving me naked and bereft; they broke through and demolished again and again. I was like a screeching crane or swallow, I foamed, my eyes were weary with looking upward to heaven for help.[^10] My cry went up to the Lord, and He, may His name be blessed, put a secure plan into my mind. He gave me the idea of serving the great lord, Count Niccolo Orsini, one of the great men of long-standing reputation. I served him in the craft of medicine for five years in the three ‘cities of refuge’: Pitigliano, Sorano, and Sovana. But these are a land that eats its inhabitants on account of the bad air. There I buried the consort who stood on my right hand,[^11] the wife of my youth who was the sister of kind and faithful people who sit first in the kingdom of knowledge and insight, his honor our teacher rabbi Eliezer, a sage and excellent doctor and his honor our teacher rabbi Isaac his brother, the brilliant and great philosopher, both of them the leaders of greatness of the kingdom of priests who were from Viterbo. And in the territory of Sovana I also lost my two sons. My tent cords are broken, my tent was pillaged,[^12] and I was left alone and desolate. I don’t know what happened to the last of my family, except for Reuben and his sons who live in the territory of the lords of S. Fiore.[^13] He has one son in Rome named Asael Pomis; he is learned and wise in many sciences, a delightful fellow and the brother-in-law of his excellency, our teacher Rabbi Elia Corcos, the doctor. After that I was asked to serve the noble Sforzas, generous people whose family produced three cardinals. I served them for three years. After that I was called by the commune of Chiusi by the general commune. This is a city under the grand duke of Florence, and the bishop of the city prevented and forbade my going there. Nevertheless ? I traveled to Rome to beg mercy and justice from Pope Pius IV. I delie3vered a lengthy appeal in Latin, called an *orazione*, before him, the great officials and cardinals, and a large, indeed uncountable, audience. I gained favor in his eyes and I received everything for which I asked. But in a single week of my achievement, he died for my sins, and they enthroned under him Pius V. He renewed all the rules and orders of Paul IV and destroyed the entire structure, annulling everything. I lost in a single moment everything that I had accomplished over many years….
+In the year 305 1544–45 I went to Perugia, the great city, to study and teach[^8] the words of the sages and their riddles—especially the works of Aristotle, Hippocrates and Galen, and there I stayed six and one-half years until I was registered in Perugia in that city and the College was kind enough “to sing me a song of degrees” in logic, philosophy and medicine. Immediately, I was called by the commune of the city of Majjano, the chief city of the region of Savina,[^9] with a vote of the general commune, then under Roman rule. I stayed in that territory with a good salary for three consecutive years. It was then that Pope Paul IV was elected literally: born, and a government edict was issued, and for our sins it was directed against our people. This put fear in my heart, and it melted and became water. My breath was knocked out of me. This was because the *commissarii* hurried out against us and went to Todi and quickly looted whatever they found in our house, leaving me naked and bereft; they broke through and demolished again and again. I was like a screeching crane or swallow, I foamed, my eyes were weary with looking upward to heaven for help.[^10] My cry went up to the Lord, and He, may His name be blessed, put a secure plan into my mind. He gave me the idea of serving the great lord, Count Niccolo Orsini, one of the great men of long-standing reputation. I served him in the craft of medicine for five years in the three ‘cities of refuge’: Pitigliano, Sorano, and Sovana. But these are a land that eats its inhabitants on account of the bad air. There I buried the consort who stood on my right hand,[^11] the wife of my youth who was the sister of kind and faithful people who sit first in the kingdom of knowledge and insight, his honor our teacher rabbi Eliezer, a sage and excellent doctor and his honor our teacher rabbi Isaac his brother, the brilliant and great philosopher, both of them the leaders of greatness of the kingdom of priests who were from Viterbo. And in the territory of Sovana I also lost my two sons. My tent cords are broken, my tent was pillaged,[^12] and I was left alone and desolate. I don’t know what happened to the last of my family, except for Reuben and his sons who live in the territory of the lords of S. Fiore.[^13] He has one son in Rome named Asael Pomis; he is learned and wise in many sciences, a delightful fellow and the brother-in-law of his excellency, our teacher Rabbi Elia Corcos, the doctor. After that I was asked to serve the noble Sforzas, generous people whose family produced three cardinals. I served them for three years. After that I was called by the commune of Chiusi by the general commune. This is a city under the grand duke of Florence, and the bishop of the city prevented and forbade my going there. Nevertheless ? I traveled to Rome to beg mercy and justice from Pope Pius IV. I delie3vered a lengthy appeal in Latin, called an *orazione*, before him, the great officials and cardinals, and a large, indeed uncountable, audience. I gained favor in his eyes and I received everything for which I asked. But in a single week of my achievement, he died for my sins, and they enthroned under him Pius V. He renewed all the rules and orders of Paul IV and destroyed the entire structure, annulling everything. I lost in a single moment everything that I had accomplished over many years….‬‬
 
-## Source 1 Original Text
-
-David de’ Pomis, *Zemah David: Dittionario novo Hebraico...Dechiarato in Tre*
-
-*Lingue* (Venice: 1587), Hebrew Introduction
-
-‫הקדמת הספר עם ספור קצת התלאות שאירעו למחבר משני[!] נעוריו עד היום:‬
-
-‫אמר דוד בן יצחק בן אליעזר בן יצחק בן עובדיה בן יצחק המכונה העשיר בן אליה המכונה הקדוש ובעבור טהרתו וקדושתו העצומה[!] בשבע׳ לילות אחר מיתתו תמיד נראו נרות דולקות על קברו והיה ממשפחת התפוחים משבט יהודה מארבעה בתי אבות המיוחסות שהגלה טיטוס הקיסר מירושלם ברומה ומרומה. אחר מיתת החסיד הנ״ל יצאו כל בני ביתו בשבעים נפש ונפוצו בכל הארץ. אכן רובם נשארו בספוליטי העיר שהיא בגליל אומריאה[!] ושמה פרו ורבו ובנו בתים וחצרות ונטעו כרמים וחפרו בורות ועמדו על כר נרחב יותר ממעשרי׳[?] וארבע מאות שנה כפי שמצאתי בא׳ ספר ישן שהיה אצל א״מ ע״ה.‬
-
-‫ובשנת פ״ז על מאתים לפרט קטן שנתים אחר תולדתי כלה הפ״ז ונשאר הנחושת, יען כי בעת שהספרדים והאשכנזים שללו רומ״ה העיר גוברת ומהוללה רוב סביבותיה נשמו ג״כ ומקול הפחד א״מ ע״ה נפל אל הפחת ונלכד בפח. בהיות ששם מגמת פניו לגלות בראש גולים ולנוס עם כל הון ביתו עבור השד והשבר והרעב והחרב ובעצה כללית ועם הסכמת כל צבור ספול׳יטי שלח לקאמ׳רינו ובצר׳יטו שהם ערים בצורות ארבעי׳ פרדים טעונים ממולוה בגדי צמר ופשתן ובתוכם שבע מאות ליטרין כסף צרוף מזוקק שבעתים כלי יקר וחמדת שכיות אבנים טובות ומרגליות. אבל יצא משלוח לחרדה והלך אל הגחלים. כי חיל הקשר הנקרא ליג״ה בלע״ז ששר הצבא היה שיארא קולונ״ה שדד כל מקום מנוס ולא היה מחנה נשאר לפלטה. ובזה את ממוננו כלו וירדנו פלאים:‬
-
-‫ולולי השם צבאות הותיר לנו שריד שדות ובתים היינו נאנחים מבקשים לחם להשיב נפשנו. ובספוליטי׳ החיל ההוא לא בא ולא נלקח מחוט ועד שרוך נעל. והיה יום מהומה ומבוסה ומבוכה לאדוני אבי ע״ה ומנע את לבו מכל שמחה והאנחה היתה לו לארוכה. בכל זאת לא חטא בשפתיו ולעולם יראת שדי לא עזב. ושפט בצדק מעשיו ולא מעדו קרסוליו מן הדרך הישר כי באמת ובצדקה איש צדיק תמים היה בדורותיו ואף כי התנכר לו הזמן שקט ובטח באל הנאמן:‬
-
-‫גם ראתה עיני אל מארת צפעוני מהזמן הרע אשר פרש רשת לרגליו ובגלל קורות זמנו הייתי כל ימי עמוס התלאות איש מכאובות יען כי אחר הפרץ הלך לארץ ביוונ״יה לרשת פלטת אחיו ע״ה ושמה התמהמה ימים ושנים עם כל בני ביתו מקום אשר לא היו בו מרביצי תורה אך הוא לבדו שהיה גדול בגמרא[!] ובקי בכל ספרי הקדש ופילוסוף אלהי צור תעודה חתום תורה בלמודי. האמנם למדני לעתים לא בזמן קבוע לרוב טרדותיו ומריביו. עד כי בחרתי בלבי ללכת[!] אחר המושכלות עבריות וגם מעיין ההלכה בלתי חבר ומלמד. והייתי אצלי חיצוניות והייתי מנעורי חמור גרם יושב בין המשפתים. ספר הערוך הגדול ישן נושן מטושטש ומקולקל בכתיב׳ יד ובקלף והכתב מכתב המחבר כמהר״ר נתן ז״ל שהוא היה ממשפחתנו לפי הקבלה ובהיות שבטורח עמל ויגיעה רבה הייתי מבין דברי הספר ההוא הסכמתי להוציא לאור בקצור ופירשתי מלותיו בשלשה לשונות. וכן עשיתי בשער השרשים של ר׳ דוד קמחי עם הנגזרים. אחר כך בא לידי ספר התשבי וספר המתורגמן חבורי רבי אליה אשכנזי מדקדק הגדול ע״ה והוצאתי מהם כל התועלת שמצאתי בם:‬
-
-‫וחברתי מכלם זה החבור שקראתיו בשם צמח דוד על אשר חברתיו בבחרותי. ובשנת צ״ב נסע א״מ ע״ה מביוונייה והלך לדור בטודי ושמה קנה שדות וכרמים, ובמקום ההוא שמעתי כל ההגיון בשלשה שנים רצופים. ולא סרתי מהתאבק בעפר רגלי אביר הרופאים כמהר״ר יחיאל רחביה אלאטי״נו בלע״ז דודי ע״ה ולקטתי פניני משליו ושאבתי ממעייניו מים חיים לפקוח עיני העורות. והיה חכם גבור עשיר ומפורסם בכל הארצות ולא הניח שני לו. והיום בפירירה עומד אחיו מצד האב כמ״ר משה אלאטיני קרובי יצ״ו רופא ופילוסוף מובהק והעתיק מלשון הקדש אל לשון לאטינו חלק ראשון של אויצ׳הני[?] וספר שמים ועולם מטמיסטי״או בלשון צח, ויש לו בן חכם ישמח אב ה׳ ישמרהו א׳:‬
-
-‫ובשנת ש״ה הלכתי בפירושה קריה נאמנה ללמוד וללמד דברי חכמים וחידותם ובפרט חבורי אריסטוטילי ואיפוקרט[!] וגאלי״נו ושמה התמהמהתי[!] ששה שנים וחצי עד כי נרשמתי בפירוש׳ בעיר ההיא ונדבה רוח הקוליגי״או לזמר לי שיר המעלות בהגיון בפילוסופיאה וברפואה. ותכף ומיד נקראתי מצבור עיר מאלייאני ראש גליל סאוינה עם עצה כללית והיא תחת ממשלת רומ״אני ועכבתי בארץ ההיא בשכר הגון שלש שני׳ רצופי׳.[!] בימים ההם נולד אפיפיור פאו״לו רביעי ויצא דבר מלכו׳ ונכת׳ נגד אומתנו בעונותינו והחריד לבבי ונמס והיה מים ונשמה לא נותרה בי על אשר יצאו קומיסא״ריי דחופי׳ נגדנו והלכו לטו״די ומהרו ושללו כל אשר מצאו בביתנו והשאירוני ערום ושולל ויפרצוני פרץ על פני פרץ. לכן הייתי כסוס עגור שיצפצף קצף קצפתי דלו עיני למרום ותעל שועתי אל האלהים והוא ית׳ שמו הביא ברעיוני אופן הבטחון ושם בלבי לשרת השר הגדול קונטי ניקולה אורסינו והוא מהגבורים אשר מעולם אנשי השם ועבדתי אותו במלאכת הרפואה חמשה[!] שנים בשלש[!] ערי׳ המקלט פיטיליאנו סוראני וסוואנה והיא ארץ אוכלת יושביה עבור קלקול האויר. שמה קברתי שגל ימיני אשת נעורי שהיתה אחות של אנשי חסד ואמונה היושבים ראשונה במלכות הדעת והתבונה כמהר״ר אליעזר חכם ורופא מובהק וכמהר״ר יצחק אחיו הגאון והפילוסוף הגדול שניהם ראשי גדולת ממלכת כהנים אשר יצאו מויטרבו ‪[is this Isaac da Viterbo?]‬ ובארץ סוואנה מתו לי גם[!] בנים זכרים נתקו מיתרי שודד אהלי ונשארתי יחיד וגלמוד. ולא נודעה אצלי שארית משפחתנו אלא כמ״ר ראובן ובניו שהוא דר בארץ אדוני ס׳ פיור״ה וברומה יש לו בן אחד משכיל ונבון במושכלות רבות עשאל פומיס שמו איש חמודות גיסו של כמהר״ר אליה קורקוס רופא. אחר כך נדרשתי לעבוד שרי ספורצה מנדיבי עם ומהם יצאו שלשה חשמנים ועבדתי אותם שלש שנים. אחר זה נקראתי מצבור קיושי בעצה כללית והיא עיר של דוכוס הגדול מפיורנצה וההגמון של עיר ההיא מנע ואסר הליכתי שמה. אעפ״ז הלכתי ברומה לבקש רחמים וצדק מאפיפיור פאיו רביעי ועשיתי לפניו ולפני שרים גדולים וחשמנים רבים ולפני המון רב אין מספר תחינה ארוכה אוראציאני בלע״ז בלשון לאטינו ונשאתי [ע״ב]‬
-
-1  ‫בראשית מט,‬‎14. He was as strong as a pack animal who sits among the dung-heaps/folds.
-
-‫חן לפני והשגתי כל מה ששאלתי. אכן תוך שבוע אחד אחר השגתי מת בעונותיי והמליכו תחתיו פאיו חמישי וחדש תקנות וסדרי אפאולו רביעי והרס כל הבנין ובטל הכל. ואבדתי ברגע א׳ כל מה שכבשתי בשנים רבות. ולא שלותי ולא שקטתי ויבא רוגז הייתי ימים רבים כצבי מודח וכצאן ואין מקבץ, עד שנשאתי אשה אחרת באנקונא מכהני לינול אשת חיל מרת ספרינצה והשביתה קצת אנחתי אל על דרך כל[sic׳] יען כי מצאתי שמוהר ונתמו שנדרו קרוביה לתת לי במחושבים היה ביד תגר א׳ לוינטי״ן והוא בגד וברח. ואני רדפתי אחריו והלכתי למסע מחנותיו עד שהגעתי אותו פה וויניציאה עי״ר המהוללה רבתי עם מלאתי משפט. עם כל זה לא קבלתי ממנו אלא מעט מצער ובתוך ימים אחדים תם ואפס מכל וכל כסף מכיסי ואויבי שקר חשבו היותי משופע בעושר ובנכסים והו׳ יודע ועד כי במקלי עברתי את הירדן הזה ולא מצאתי לא אח ולא ריע אלא רודפי כולם ויקנאו אותי ממה שלא היה בידי ורובם שכוח שכחו הטובה שעשיתי להם אצל דוכוס מוצונינוסו והשררה רי״ה ושמו עול על צוארי שאי אפשר לשאת אותו. האמנם שפתי לא אכלא מלספר קצת שבח אנשים שלמים אשר מצאתי ביניהם רודפי צדק ושונאי בצע נדיבי עמים אנשים ראשי אלפי ישראל והם ארבעה בני שמחה קאלמאנו וביניהם יש״א תבונות הבחור הנחמד והחכם כמ״ר ברוך קאלימ״אן ומשפחת סארוואל אשר בה כמהר״ר יהודה יודוהו כחתי ויהללו את שמו על אשר בו מעלות המדות ומעלות שכליות וראוי לברך כל פטר רחם אשר הוליד בן משכיל כמוהו. גם ארבעה בני גרישיני הם מאצילי בני ישראל ובה החכם כמ׳ גרשון ובנו׳ גם בני לוציאטו[!] מיוחסים הם ופרו ורבו בעושר וכבוד ובפרט הקצין חשוב ונורא כמ״ר יצחק בן החכם כמהר״ר לוצ׳ו ע״ה והחכם כמ״ר דוד וכמר יעקב אחיו ומשפחות אחרות נמצאות פה וויניציאה מיוחסו׳ ובפרט משפחת צירטל חשובה וגדולה ובה כמהר״ר אביגדור הגדול בדור וחכמים אחרים אשכנזים זולתם כמו כ״מר שמחה גרשוני וכמר׳ משה מרור וכמו״ר גבריאל בן כמהר״ר מאיר בקי בגמרא[!] וכמו״ר שלמה סורנפו בן חכם ישמח אביו ואמו וכולם קבלו מהנורא שמו בכל הארץ מהר״ר יהודה קצנלנבוגן שעל פיו ישק כל בעל ריב ודבריו נשמעים כדברי אלקים חיים ואין מי שיסרב לו כמוטל לעשות כי אין חקר לתבונתו וישקיט כל ריב ומדון. והוא אב בית דין ועמו איש קדוש ונורא כמהר״ר יעקב בר אברהם ברוך כהן ועליו יצדק שפתי כהן ישמרו דעת כי לא ישקר ולא יכזב באמונתו ועמם חוט המשולש אשר לא במהרה ינתק כמהר״ר אביגדור הנ״ל ודי בזה.‬
-
-‫ועתה טרם אחדל המאמר ואשים קנצי למלין אשוב לכוונתי הראשונה ואשא משלי ואומר החבור הזה עמל ידי צפנתיהו ימים ושנים ולא יכולתי הצפינו עד ונראה מאנשי לכל שכל ומדע ושבחוהו והללוהו עד בלי די עברים גם נצרים ובקשו ממני בעוצם כחם להדפיסו ויהי כדברם כנוגשי׳ אלי יום יום שמעתי אליהם ובפרט לקול החכם כמר יעקב טריוייס ואחר שהוחל להוציאו אותו לאור הדפוס הראיתיהו לחכמים אחרים ואלו הם, כמ״ר יום טוב כהן כמ״ר גבריאל מנחם כמ״ר יוסף סימיסי הוא שחבר ספר הנקרא מקראי קדש כמ״ר יצחק גרשון וכמו״ר שמואל פרנצישי הנדיב והמשכיל שבספרדים ולו העושר החכמה והגבורה באגודה א׳ וחכמים אחרים זולתם וכולם פה א׳ קיימו והודו ואמרו שתועלת זה החבור רב עד מאד לכל קורא בו והשקיטו המיית לבב הסוער נוסף שהעתקתי אותו לסבות מקבילות. הן לשים בו מורה מקום הן ג״כ להבדיל מלות עבריות מן הנכריות כי בתחילה היו בערבוביא. והוספתי שתי לוחות למצוא ביאור כל המלות הנמצאות בחבור. והאחד פרשתיהו בלשון לאטינו והאחר בלשון איטאל״ינו וזה בארתי ג״כ עם אותיות עבריות למען יוכל העברי והנכרי לקרוא בנקלה עם אותיות חבר ולמצוא הביאור עם אותיות לשונו אם לא עלה לאל ידו לקרוא עם הנכריות. והמחוקקים אצים לאמר ולכ מעשיהם דבר יום ביומו ואני זקנתי וישבתי ונתרשלו ידי לכתוב במרוצה ועסקי הבית והרפואה ג״כ מנעוני פעמים רבות למלאת חפצם ועא״ז גמר הדפיסה היתה בעכוב. ותשלם כל המלאכה יתברך שמו של מלך מלכי המלכים היום יום ו׳ כ״א שבט שנת שמ״ז [שמ״ו?] לפ״ק י״ר [=יהי רצון] מלפני אבינו שבשמים שאזכה להוציא לאור שאר חבוריי עם ישועת הנפש וגדול ילדיי למצוותיו שלמען חסדו בזקנתי חנן לי ויתן די ספקם ויאיר פניו להם אמן ואמן.‬‬
-
-Footnotes
+**Footnotes**
 
 [^1]: The year Hebrew year [5]287, equivalent to the Christian calendar year 1526–27, is written in the alphabetic- numbering system with the letters *peh-*zayin which spell out the Hebrew word *paz*, meaning “pure gold.”
 
