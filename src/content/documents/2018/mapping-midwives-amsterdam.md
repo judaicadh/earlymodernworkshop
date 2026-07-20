@@ -22,14 +22,149 @@ footnotes:
   - {}
 bibliography:
   - {}
+original_language_body: >-
+  ## Source 1 Original
+
+
+  Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche
+  Hoofdsynagogue, Inv. 2, folio 551
+
+
+  מאחר שמצאנו וראינו שלא טוב להיות רופא אחד של ביקור חולים לפני עניי עירינו
+  לבדו, ולכך נתמנו ע״י מנהיגי קהל  
+
+  יצ״ו עזר לו עוד שני רופאים כדי שלא תכבוד העבודה הנזכר בפנקס הלז בדף .F 544
+  וביותר צריך זירוז, אצל נשים  
+
+  היושבים על המשבר, ושהיי׳ [שהייה] אסורה להציל נפשות בבת אחת, היולדת עם הולד׳
+  ואין לאל ידי שתי נשים  
+
+  מילדות לבוא אצל כולם כי לפעמים רבים הנה׳ ולא ראיי [ראי] זה כראיי [ראי] זה כמו
+  הרופאים כאשר באים במשמוש  
+
+  היד כן ילכו מה שאין כן המילדות הצריכין לפעמים להשהות אצל היולדת זמן רב׳ ע״כ
+  הוספנו אליהם עוד שתי נשים  
+
+  מילדות הנקובים בשמותם/ סערכי אשת ליב וויצנהוזן [Wittsenhausen ] הישנה ובלה אש׳
+  אלי׳ קאלקר הישנה  
+
+  /יודית אלמנה בן יעקב אווה החדשה חייכי אשת יואל פראנק החדשה ויהיה משכורתם שלימה
+  בכל דבר כמו השתי  
+
+  נשים מילדות הראשונים גם ניתן לכל אחת מהנה רשימה למען ידעון באיזה דרך שמחוייבין
+  לילך ברחובות הקבועים  
+
+  להם/ ובאותו רשימה ממש נרשם ג״כ אצל כל בתי כנסיות לעין כל לידע ולהודיע לכל
+  המבקשים את המילדות הנ״ל,  
+
+  זאת ועוד אחרת הותנו בתנאי כפול קודם למעשה, באם שיהי׳ יותר מאשה אחת יושבת על
+  המשבר באותן הרחובות  
+
+  השייכים לאותן המילדות, מחוייבת כל אחת מהמילדות הנ״ל לסייע לחברתה, שתחי׳ באותו
+  זמן פנוי׳ בלי שום פתחון  
+
+  פה בעולם לחק ולא יעבור, והשכירות של שתי נשים מילדות החדשים יתחיל מן ר״ח כסליו
+  העבר דהאי שתא בתנאי  
+
+  שיהיו עוסקים בשדרות שלהם באמונה, כמו שמחייבן את עצמן בחתימת ידיהן דלמטה, היום
+  יום ד׳ י״ד טבת תקך״ג  
+
+  באמשטרדם
+
+
+
+  | חייכי המילדות חדשה | יודית מילדות חדשה | בילה מילדות | סערכי מילדות |
+
+  | ---------------------------------- | --------------------------- |
+  ------------------- | --------------- |
+
+  | אוילנבורגר שני גאסן | ֿפלאמבורג | פון דרא נייאה מארק | מארקן |
+
+  | אלט שאנץ | שטרוא מארק | זאנט גאס | מארקן שטען |
+
+  | אוילנבורגר שטעג | גרין מארק ביז פארטעגיזן האל | מודר מאהלן שטעהג | קליינה
+  הויטטוין |
+
+  | גרושי אונ׳ קליינה הויטטון ביז שליס | פלאמבורגר שטעג | פארברייא גאס וגראפט |
+  פינקעבירט |
+
+  | ברייטה גאס | שול גאס | נייאה גאס |  |
+
+  | פון דיא שליס ביז אן פארטעגיזן שול | טארף גראפט אונ׳ שטעג | וועזפר גאט |  |
+
+  |  |  | קערק גאס |  |
+
+
+
+  חתימת יד מן סערה הנ״ל []
+
+
+  ## Source 2 Original
+
+
+  **Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio
+  135v]**
+
+
+  **5489**
+
+
+  ר״ח אייר גיהואלט איין טאֿכטר ביי אדעם בימי טעל זילבר שמיט  
+
+  היום יום שבת קודש גיהואלט איין זון בייא דיא שפאניָאר אויף דיא קאמר ֿפון דעם
+  פרויקה מאכר ט״ו  
+
+  אייר תפ״ט לפ״ק  
+
+  יום א׳ ט״ז אייר גיהואלט איין טאֿכטר בייא מלך פאֿפיגייא זעליג  
+
+  יום ב׳ ך״ד אייר גיהואלט איין טאֿכטר בייא סאלאמאן בלויא פייקי בירט  
+
+  היום יום שבת קודש ב׳ של שבועת גיהואלט איין זון בייא זלמן שטודל  
+
+  יום ו׳ י״ג סיון גיהואלט איין טאֿכטר בייא מאיר אין פינטיש גאנג  
+
+  יום שבת קודש גיהואלט איין טאֿכטר בייא לאה בת שמעי קרויאר ז׳ סיון  
+
+  יום ג׳ ח׳ תמוז גיהאולט איין טאֿכטר בייא יאזיע ערגיז  
+
+  יום שבת קודש גיהואלט איין טאֿכטר בייא דיא וואז אויף מארקן  
+
+  יום שבת קודש י״ב תמוז גיהואלט איין טאכטר בייא יטלה אין דיא זאנט גאס  
+
+  יום ג׳ ט״ו תמוז גיהואלט איין טאכטר בייא שמעי קניפ  
+
+  גיהואלט איין טאֿכטר בייא ציפיע אין דיא הויטוין  
+
+  יום ג׳ ך״ב תמוז גיהואלט איין זון בייא ידלה חתן סאחיע  
+
+  יום ו׳ ך״ה תמוז גיהואלט איין זון ביי אדעם פאר רייטר  
+
+  יום ג׳ ער״ח מנחם גיהואלט איין זון בייא אהרן בן ליזר ווינג  
+
+  יום ב׳ י״ג אב גיהואלט איין טאֿכטר בייא משה טאנטירו  
+
+  יום ה׳ ט״ז אב גיהואלט איין טאֿכטר בייא יוכבד איר טאכטר מרים  
+
+  יום א׳ י״ט אב גיהואלט איין טאֿכטר בייא אברהם פס  
+
+  יום ג׳ ך״ח אב גיהואלט איין טאֿכטר בייא אלי׳ ניקלש בורג  
+
+  היום יום שבת קודש ב׳ אלול תפ״ט לפ״ק גיהואלט איין טאֿכטר בייא ר׳ הירץ בן פ״ו
+  כהר״ר ידלה לוי  
+
+  ז״ל  
+
+  ר״ח אדר תפ״ט גיהואלט איין טאֿכטר ביי אדעם שניידר דער בייא שמואל הארין בורג
+  וואונט
 ---
 ## Introduction
 
 In the late seventeenth and early eighteenth centuries, western European cities began to enact robust regulations concerning the training and licensure of midwives. The city of Amsterdam refined its bureaucratic procedures for midwife licensure earlier than other European locales, and all prospective midwives – including Jews – were required to register in the Collegium Obstetricum from 1668 onward. Midwives had to attend anatomy lectures, report their apprenticeships, and pass a comprehensive examination. Although individual Jewish midwives often went through standard municipal procedures to gain admittance to the profession, Jewish communities had their own internal methods of regulating midwives and ensuring that members of the community received appropriate care from them. The event of birth, and ensuring a positive outcome for both mother and child, was of prime concern to the lay leadership, which was responsible for hiring a midwife or midwives to serve the community. Because of this heightened sensitivity towards midwifery in Amsterdam, communal registers from the Ashkenazic (Hoogduitse) kehillah emphatically state that it is the responsibility of the community to supply enough midwives to serve all birthing women. In the following entries from the community’s pinkas, lay officials appoint additional midwives to address the community’s growing population. These entries divide midwives’ roles by street, with each midwife responsible for a discrete area. The inclusion of this rubric suggests the importance of geography among Jews in eighteenth-century Amsterdam as well as the community’s keen awareness of its location within an urban landscape. In addition to this, birth records kept by one Amsterdam midwife in the earlier half of the century frequently record streets or neighborhoods where births took place, reinforcing this sense of place and the importance of a mental cartography for the midwife as she went about her work. This impulse to record geographical information may have taken cues from the midwife records submitted to the Collegium Obstetricum, to which stadsvroedvrouwen (municipal midwives) and their advanced students were required to supply birth lists at least every three months.
 
-### Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche Hoofdsynagogue, Inv. 2,
+## Source 1 Introduction
 
-folio 551
+**Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche Hoofdsynagogue, Inv. 2, folio 551**
 
 Because we have found and seen that it is not sufficient to have only one doctor to perform
 *bikur holim* before the indigent of our city, two more doctors were appointed by the leaders of
@@ -77,37 +212,6 @@ Districts of the Above Midwives
 
 
 Signature of Serkhe (pen mark)
-
-## Gemeente Archief Amsterdam, Archief van de Nederlands Israelitsche Hoofdsynagogue, Inv. 2, folio 551
-
-מאחר שמצאנו וראינו שלא טוב להיות רופא אחד של ביקור חולים לפני עניי עירינו לבדו, ולכך נתמנו ע״י מנהיגי קהל
-יצ״ו עזר לו עוד שני רופאים כדי שלא תכבוד העבודה הנזכר בפנקס הלז בדף .F 544 וביותר צריך זירוז, אצל נשים
-היושבים על המשבר, ושהיי׳ [שהייה] אסורה להציל נפשות בבת אחת, היולדת עם הולד׳ ואין לאל ידי שתי נשים
-מילדות לבוא אצל כולם כי לפעמים רבים הנה׳ ולא ראיי [ראי] זה כראיי [ראי] זה כמו הרופאים כאשר באים במשמוש
-היד כן ילכו מה שאין כן המילדות הצריכין לפעמים להשהות אצל היולדת זמן רב׳ ע״כ הוספנו אליהם עוד שתי נשים
-מילדות הנקובים בשמותם/ סערכי אשת ליב וויצנהוזן [Wittsenhausen ] הישנה ובלה אש׳ אלי׳ קאלקר הישנה
-/יודית אלמנה בן יעקב אווה החדשה חייכי אשת יואל פראנק החדשה ויהיה משכורתם שלימה בכל דבר כמו השתי
-נשים מילדות הראשונים גם ניתן לכל אחת מהנה רשימה למען ידעון באיזה דרך שמחוייבין לילך ברחובות הקבועים
-להם/ ובאותו רשימה ממש נרשם ג״כ אצל כל בתי כנסיות לעין כל לידע ולהודיע לכל המבקשים את המילדות הנ״ל,
-זאת ועוד אחרת הותנו בתנאי כפול קודם למעשה, באם שיהי׳ יותר מאשה אחת יושבת על המשבר באותן הרחובות
-השייכים לאותן המילדות, מחוייבת כל אחת מהמילדות הנ״ל לסייע לחברתה, שתחי׳ באותו זמן פנוי׳ בלי שום פתחון
-פה בעולם לחק ולא יעבור, והשכירות של שתי נשים מילדות החדשים יתחיל מן ר״ח כסליו העבר דהאי שתא בתנאי
-שיהיו עוסקים בשדרות שלהם באמונה, כמו שמחייבן את עצמן בחתימת ידיהן דלמטה, היום יום ד׳ י״ד טבת תקך״ג
-באמשטרדם
-
-
-| חייכי המילדות חדשה | יודית מילדות חדשה | בילה מילדות | סערכי מילדות |
-| ---------------------------------- | --------------------------- | ------------------- | --------------- |
-| אוילנבורגר שני גאסן | ֿפלאמבורג | פון דרא נייאה מארק | מארקן |
-| אלט שאנץ | שטרוא מארק | זאנט גאס | מארקן שטען |
-| אוילנבורגר שטעג | גרין מארק ביז פארטעגיזן האל | מודר מאהלן שטעהג | קליינה הויטטוין |
-| גרושי אונ׳ קליינה הויטטון ביז שליס | פלאמבורגר שטעג | פארברייא גאס וגראפט | פינקעבירט |
-| ברייטה גאס | שול גאס | נייאה גאס |  |
-| פון דיא שליס ביז אן פארטעגיזן שול | טארף גראפט אונ׳ שטעג | וועזפר גאט |  |
-|  |  | קערק גאס |  |
-
-
-חתימת יד מן סערה הנ״ל []
 
 ## Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio 135v]
 
@@ -169,30 +273,3 @@ Shmuel Herenburg.
 [^4]: Zandstraat-gang.  
 [^5]: This was the person who served as the head of funeral processions.
 
-### Bibliothèque Nationale et Universitaire, Strasbourg, m.s. 4.048, folio 135v]
-
-### 5489
-
-ר״ח אייר גיהואלט איין טאֿכטר ביי אדעם בימי טעל זילבר שמיט
-היום יום שבת קודש גיהואלט איין זון בייא דיא שפאניָאר אויף דיא קאמר ֿפון דעם פרויקה מאכר ט״ו
-אייר תפ״ט לפ״ק
-יום א׳ ט״ז אייר גיהואלט איין טאֿכטר בייא מלך פאֿפיגייא זעליג
-יום ב׳ ך״ד אייר גיהואלט איין טאֿכטר בייא סאלאמאן בלויא פייקי בירט
-היום יום שבת קודש ב׳ של שבועת גיהואלט איין זון בייא זלמן שטודל
-יום ו׳ י״ג סיון גיהואלט איין טאֿכטר בייא מאיר אין פינטיש גאנג
-יום שבת קודש גיהואלט איין טאֿכטר בייא לאה בת שמעי קרויאר ז׳ סיון
-יום ג׳ ח׳ תמוז גיהאולט איין טאֿכטר בייא יאזיע ערגיז
-יום שבת קודש גיהואלט איין טאֿכטר בייא דיא וואז אויף מארקן
-יום שבת קודש י״ב תמוז גיהואלט איין טאכטר בייא יטלה אין דיא זאנט גאס
-יום ג׳ ט״ו תמוז גיהואלט איין טאכטר בייא שמעי קניפ
-גיהואלט איין טאֿכטר בייא ציפיע אין דיא הויטוין
-יום ג׳ ך״ב תמוז גיהואלט איין זון בייא ידלה חתן סאחיע
-יום ו׳ ך״ה תמוז גיהואלט איין זון ביי אדעם פאר רייטר
-יום ג׳ ער״ח מנחם גיהואלט איין זון בייא אהרן בן ליזר ווינג
-יום ב׳ י״ג אב גיהואלט איין טאֿכטר בייא משה טאנטירו
-יום ה׳ ט״ז אב גיהואלט איין טאֿכטר בייא יוכבד איר טאכטר מרים
-יום א׳ י״ט אב גיהואלט איין טאֿכטר בייא אברהם פס
-יום ג׳ ך״ח אב גיהואלט איין טאֿכטר בייא אלי׳ ניקלש בורג
-היום יום שבת קודש ב׳ אלול תפ״ט לפ״ק גיהואלט איין טאֿכטר בייא ר׳ הירץ בן פ״ו כהר״ר ידלה לוי
-ז״ל
-ר״ח אדר תפ״ט גיהואלט איין טאֿכטר ביי אדעם שניידר דער בייא שמואל הארין בורג וואונט
