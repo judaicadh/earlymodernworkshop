@@ -40,6 +40,126 @@ bibliography:
   - author: Altshuler, Mor.
     title: "*The Life of Rabbi Yosef Karo.*"
     publication: Tel Aviv, 2016
+original_language_body: >+
+  ## Source 1 Original
+
+
+  *Shulhan Arukh Orach Hayyim* 151.11
+
+
+  אם בשעת בנין בהכ"נ התנו עליו להשתמש בו, מותר להשתמש בו בחרבנו; אבל ביישובו, לא
+  מהני תנאי. ואפילו בחרבנו, לתשמיש מגונה, כגון: זריעה וחשבונות של רבים, לא מהני
+  תנאה; **בד"א, בבתי כנסיות שבחוצה לארץ, אבל בבתי כנסיות שבא"י, לא מהני שום
+  תנאי**.
+
+
+  *Tur Orach Hayyim* 151
+
+
+  ואם התנו עליו להשתמש בו בשעת בנין מותר להשתמש בו בחורבתו אבל בישובו לא מהני
+  ביה תנאה ואפילו בחורבנו לתשמיש מגונה כגון זריעה וחשבונות של רבים לא מהני תנאה:
+
+
+  *Beit Yosef to Tur Orach Hayyim* 151
+
+
+  וכתבו התוספות (כח: ד"ה בתי כנסיות) דהא דעל תנאי הן עשויין לא מהני אלא לאותם
+  שבבבל שהרי לעת בוא גואל במהרה בימינו תפקע קדושתם אבל לאותם שבארץ ישראל לא מהני
+  תנאי שהרי קדושתן לעולם קיימת:
+
+
+  ## Source 2 Original
+
+
+  *Shulhan Arukh Orach Hayyim* 248.4
+
+
+   היוצאים בשיירא במדבר, והכל יודעים שהם צריכים לחלל שבת כי מפני הסכנה לא יוכלו
+  לעכב במדבר בשבת לבדם, ג' ימים קודם שבת אסורים לצאת, וביום ראשון ובשני ובשלישי
+  מותר לצאת, ואם אחר כך יארע לו סכנה ויצטרך לחלל שבת מפני פיקוח נפש, מותר, ואין
+  כאן חילול; **והעולה לארץ ישראל, אם נזדמנה לו שיירא אפילו בערב שבת, כיון דדבר
+  מצוה הוא, יכול לפרוש. . . .** 
+
+
+  *Tur Orach Hayyim* 248
+
+
+  אין מפליגין בספינה פחות מג' ימים קודם השבת בד"א לדבר הרשות אבל לדבר מצוה מותר.
+  . . ולענין דבר מצוה פר"ת שכל מקום שאדם הולך כגון לסחורה או לראות פני חבירו
+  חשיב הכל דבר מצוה ואין חשובה דבר הרשות אלא כשהולך לטייל:
+
+
+  *Beit Yosef to Tur Orach Hayyim* 248
+
+
+  וכן כתב הריב"ש בתשובה (סי' קא) שזה שכתב רבינו בשם רבינו תם קולא יתירה היא ומכל
+  מקום כתב שלעלות לארץ ישראל הוי שפיר לדבר מצוה. . . 
+
+
+  ## Source 3 Original
+
+
+  *Shulhan Arukh Orach Hayyim* 269  
+
+
+  נוהגין לקדש בבהכ"נ, ואין למקדש לטעום מיין הקידוש אלא מטעימו לקטן, דאין קידוש
+  אלא במקום סעודה (וע"ל סי' רע"ג). ומעיקרא לא נתקן אלא בשביל אורחים דאכלי ושתי
+  בבי כנישתא, להוציאם י"ח, ועכשיו אע"ג דלא אכלי אורחים בבי כנישתא לא בטלה התקנה,
+  זהו טעם המקומות שנהגו לקדש בבהכ"נ. **אבל יותר טוב להנהיג שלא לקדש בבהכ"נ, וכן
+  מנהג ארץ ישראל**.
+
+
+  *Tur Orach Hayyim* 269
+
+
+  ונוהגין בכל המקומות שש"ץ מקדש בבה"כ ואני תמה היאך נתפשט זה המנהג. . .שלא תקנו
+  אותו אלא משום אורחין וכיון דליכא אורחין ראוי היה שלא לקדש ואי איישר חילי
+  אבטליניה.
+
+
+  ## Source 4 Original
+
+
+  *Shulhan Arukh Orach Hayyim* 306.11
+
+
+   מותר לקנות בית בארץ ישראל מן הא"י, בשבת, וחותם ומעלה בערכאות
+
+
+  *Beit Yosef to Tur Orach Hayyim* 306
+
+
+  כתוב בהגהות אשירי פרק ב' דמועד קטן (סי' יח) בשם אור זרוע מותר לקנות בתים מן
+  הגוי בשבת כיצד הוא עושה מראה הוא לו כיסים של דינרין והגוי חותם ומעלה לערכאות
+  עכ"ל **ונראה דבקונה בית בארץ ישראל מיירי** וכדאמרינן בפרק קמא דגיטין (ח:)
+  ובסוף פרק מרובה (ב"ק פ:).
+
+
+  *Hagahot Asheri*, Mo‘ed Katan 2.18
+
+
+  **מותר לקנות בתים מן הנכרי בשבת** כיצד הוא עושה מראה הוא לו כיס של דינרים
+  והנכרי חותם ומעלה לערכאות. מא"ז:
+
+
+  *Or Zar‘ua* 2.85
+
+
+  ועוד ראיה דאמרי' פ"ק דגיטין דהקונה שדה בסוריא כקונה בפרוורי ירושלים אומר
+  לעכו"ם וכותב עליו אונו אפי' בשבת דאע"ג דאמירה לעכו"ם שבות **משום ישוב ארץ
+  ישראל ל"ג רבנן**.
+
+
+  ## Source 5 Original
+
+
+  ## Source 6 Original
+
+
+  ## Source 7 Original
+
+
+  ## Source 8 Original
 ---
 ## Introduction
 
@@ -61,29 +181,7 @@ And if at the time the synagogue was built the community made a condition allowi
 
 And the Tosafists wrote[^1] that this principle “synagogues are made on condition” is only effective for those synagogues in Babylonia, for at the time of the redeemer’s coming (may it be speedily in our days), their sanctity will be canceled. But a condition is ineffective for those synagogues in the land of Israel, the sanctity of which endures forever.
 
-*Shulhan Arukh Orach Hayyim* 151.11
-
-
-
-אם בשעת בנין בהכ"נ התנו עליו להשתמש בו, מותר להשתמש בו בחרבנו; אבל ביישובו, לא מהני תנאי. ואפילו בחרבנו, לתשמיש מגונה, כגון: זריעה וחשבונות של רבים, לא מהני תנאה; **בד"א, בבתי כנסיות שבחוצה לארץ, אבל בבתי כנסיות שבא"י, לא מהני שום תנאי**.
-
-
-
-*Tur Orach Hayyim* 151
-
-
-
-ואם התנו עליו להשתמש בו בשעת בנין מותר להשתמש בו בחורבתו אבל בישובו לא מהני ביה תנאה ואפילו בחורבנו לתשמיש מגונה כגון זריעה וחשבונות של רבים לא מהני תנאה:
-
-
-
-*Beit Yosef to Tur Orach Hayyim* 151
-
-
-
-וכתבו התוספות (כח: ד"ה בתי כנסיות) דהא דעל תנאי הן עשויין לא מהני אלא לאותם שבבבל שהרי לעת בוא גואל במהרה בימינו תפקע קדושתם אבל לאותם שבארץ ישראל לא מהני תנאי שהרי קדושתן לעולם קיימת:
-
-
+## Source 2 Translation
 
 *Shulhan Arukh Orach Hayyim* 248.4
 
@@ -95,31 +193,9 @@ One does not set sail on a ship within three days of the Sabbath. This rule appl
 
 *Beit Yosef to Tur Orach Hayyim* 248
 
-And thus did the Rivash[^3] write in a responsum (chapter 101 that this which our rabbi (=the Tur) wrote in the name of Rabbenu Tam is an extreme leniency. And he wrote that, nevertheless, ascending to the land of Israel is certainly a matter of divine  commandment. . . .
+And thus did the Rivash[^3] write in a responsum (chapter 101 that this which our rabbi (=the Tur) wrote in the name of Rabbenu Tam is an extreme leniency. And he wrote that, nevertheless, ascending to the land of Israel is certainly a matter of divine commandment. . . .
 
-*Shulhan Arukh Orach Hayyim* 248.4
-
-
-
- היוצאים בשיירא במדבר, והכל יודעים שהם צריכים לחלל שבת כי מפני הסכנה לא יוכלו לעכב במדבר בשבת לבדם, ג' ימים קודם שבת אסורים לצאת, וביום ראשון ובשני ובשלישי מותר לצאת, ואם אחר כך יארע לו סכנה ויצטרך לחלל שבת מפני פיקוח נפש, מותר, ואין כאן חילול; **והעולה לארץ ישראל, אם נזדמנה לו שיירא אפילו בערב שבת, כיון דדבר מצוה הוא, יכול לפרוש. . . .** 
-
-
-
-*Tur Orach Hayyim* 248
-
-
-
-אין מפליגין בספינה פחות מג' ימים קודם השבת בד"א לדבר הרשות אבל לדבר מצוה מותר. . . ולענין דבר מצוה פר"ת שכל מקום שאדם הולך כגון לסחורה או לראות פני חבירו חשיב הכל דבר מצוה ואין חשובה דבר הרשות אלא כשהולך לטייל:
-
-
-
-*Beit Yosef to Tur Orach Hayyim* 248
-
-
-
-וכן כתב הריב"ש בתשובה (סי' קא) שזה שכתב רבינו בשם רבינו תם קולא יתירה היא ומכל מקום כתב שלעלות לארץ ישראל הוי שפיר לדבר מצוה. . . 
-
-
+## Source 3 Translation
 
 *Shulhan Arukh Orach Hayyim* 269
 
@@ -127,22 +203,9 @@ They are accustomed to sanctify the Sabbath in the synagogue.[^4] The one who sa
 
 *Tur Orach Hayyim* 269
 
-And they are accustomed in all places that the prayer leader sanctifies the Sabbath on Friday nights in the synagogue. And I am astonished: How has this practice spread?. . . for they only instituted the recitation of the Friday night sanctification in the synagogue on account of guests. And since there are no longer any guests who eat meals in the  synagogue, it is appropriate not to sanctify the Sabbath there. And had I the power I would nullify this practice.  
-*Shulhan Arukh Orach Hayyim* 269  
+And they are accustomed in all places that the prayer leader sanctifies the Sabbath on Friday nights in the synagogue. And I am astonished: How has this practice spread?. . . for they only instituted the recitation of the Friday night sanctification in the synagogue on account of guests. And since there are no longer any guests who eat meals in the synagogue, it is appropriate not to sanctify the Sabbath there. And had I the power I would nullify this practice.
 
-
-
-נוהגין לקדש בבהכ"נ, ואין למקדש לטעום מיין הקידוש אלא מטעימו לקטן, דאין קידוש אלא במקום סעודה (וע"ל סי' רע"ג). ומעיקרא לא נתקן אלא בשביל אורחים דאכלי ושתי בבי כנישתא, להוציאם י"ח, ועכשיו אע"ג דלא אכלי אורחים בבי כנישתא לא בטלה התקנה, זהו טעם המקומות שנהגו לקדש בבהכ"נ. **אבל יותר טוב להנהיג שלא לקדש בבהכ"נ, וכן מנהג ארץ ישראל**.
-
-
-
-*Tur Orach Hayyim* 269
-
-
-
-ונוהגין בכל המקומות שש"ץ מקדש בבה"כ ואני תמה היאך נתפשט זה המנהג. . .שלא תקנו אותו אלא משום אורחין וכיון דליכא אורחין ראוי היה שלא לקדש ואי איישר חילי אבטליניה.
-
-
+## Source 4 Translation
 
 *Shulhan Arukh Orach Hayyim* 306.11
 
@@ -160,37 +223,7 @@ It is written in the *hagahot Asheri*[^5] in chapter 2 of Babylonian Talmud trac
 
 And there is another proof, for we say in the first chapter of Babylonian Talmud tractate Gittin (8b) that the one who buys a field in Syria is like one who buys a field in the outskirts of Jerusalem. The Jew tells the idolater, and he writes a bill of sale for him even on the Sabbath. For even though telling an idolater on the Sabbath to perform a labor for a Jew is a violation of Sabbath “rest,”[^7] **the rabbis did not issue a decree prohibiting this on account of encouraging settlement of the land of Israel**.
 
-*Shulhan Arukh Orach Hayyim* 306.11
-
-
-
- מותר לקנות בית בארץ ישראל מן הא"י, בשבת, וחותם ומעלה בערכאות
-
-
-
-*Beit Yosef to Tur Orach Hayyim* 306
-
-
-
-כתוב בהגהות אשירי פרק ב' דמועד קטן (סי' יח) בשם אור זרוע מותר לקנות בתים מן הגוי בשבת כיצד הוא עושה מראה הוא לו כיסים של דינרין והגוי חותם ומעלה לערכאות עכ"ל **ונראה דבקונה בית בארץ ישראל מיירי** וכדאמרינן בפרק קמא דגיטין (ח:) ובסוף פרק מרובה (ב"ק פ:).
-
-
-
-*Hagahot Asheri*, Mo‘ed Katan 2.18
-
-
-
-**מותר לקנות בתים מן הנכרי בשבת** כיצד הוא עושה מראה הוא לו כיס של דינרים והנכרי חותם ומעלה לערכאות. מא"ז:
-
-
-
-*Or Zar‘ua* 2.85
-
-
-
-ועוד ראיה דאמרי' פ"ק דגיטין דהקונה שדה בסוריא כקונה בפרוורי ירושלים אומר לעכו"ם וכותב עליו אונו אפי' בשבת דאע"ג דאמירה לעכו"ם שבות **משום ישוב ארץ ישראל ל"ג רבנן**.
-
-
+## Source 5 Translation
 
 *Shulhan Arukh Orach Hayyim* 566.4
 
@@ -204,7 +237,15 @@ And they are accustomed to increase the number of penitential prayers in the ble
 
 And they are accustomed to increase the number of petitionary prayers in the blessing “Forgive us.” And the Ri explained that they rely on that which we say: “And if he wishes to add petitions at the end of each petitionary blessing of the *Amidah* reflecting that blessing, he may do so,” etc. And the Tosafists wrote in the first chapter of Babylonian Talmud tractate Avodah Zarah (8a, s.v. “*im ba*”) that Rabbi Yehoshua ben Levi’s statement that one can say petitions after his *Amidah* prayer even like the order of the Yom Kippur prayer service means what it says, but that he may not add petitionary prayers in the middle of his *Amidah* prayer. And continue the Tosafists, one can say that our practice now on fast days to lengthen the *Amidah* prayer with scriptural verses of mercy and petitionary prayers in the blessing “Forgive us” is due a community’s being different (i.e., a community is permitted to take liturgical liberties that an individual may not). End quote. And it appears that the Tosafists’ reasoning is that they understand that which we say: “‘And if he wishes to add petitions at the end of each petitionary blessing of the *Amidah* reflecting that blessing, he may do so’ means adding a few things, but not to go on at length to the extent that we do.
 
+## Source 6 Translation
 
+## Source 7 Translation
+
+## Source 8 Translation
+
+
+
+&nbsp;
 
 *Shulhan Arukh Orach Hayyim* 566.4
 
