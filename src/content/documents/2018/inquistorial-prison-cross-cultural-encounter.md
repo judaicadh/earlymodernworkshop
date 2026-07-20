@@ -12,12 +12,20 @@ event:
   date:
     start: 2018-08-15
     end: 2018-08-16
+language:
+  - Portuguese
 tags:
   - Inquisition
   - prison
   - cross-cultural encounter
   - Jewish conversions
   - Lisbon
+publication_location:
+  - Amsterdam
+text_location:
+  - London
+  - Lisbon
+  - Hamburg
 description: The inquisitorial prison housed individuals who were accused of
   crimes of conscience and thus the encounters that a prisoner would have in a
   secret prison of the Inquisition would often enough center on issues of belief
