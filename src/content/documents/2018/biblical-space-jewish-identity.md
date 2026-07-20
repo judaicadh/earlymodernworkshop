@@ -8,4 +8,8 @@ slug: biblical-space-jewish-identity
 language:
   - English
   - Hebrew
+publication_location:
+  - Mantua
+text_location:
+  - Canaan
 ---
