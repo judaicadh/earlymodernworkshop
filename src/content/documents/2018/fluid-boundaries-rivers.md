@@ -33,13 +33,74 @@ footnotes:
   - {}
 bibliography:
   - {}
-original_language_body: |-
+original_language_body: >-
   ## Source 1 Original
 
+
   כמבו"ל הי"ה באר"ץ לפ"ק  
+
   המי"ם הי"ו ע"ל פנ"י האדמ"ה לפ"ק  
+
   טב"ת לפ"ק  
+
   דהיינו בשנת תי"א
+
+
+  בחודש טבת מיום א' כ"ב טבת תי"א, גברו המים מי רינו"ס והלכו תוך מקומינו
+  וורמיישא, עד  
+
+  שברחובותינו בשער תחתון היו נכנסין בספינה, ומשם עבר הרוצה לעבור דרך שער ריין
+  פפארט  
+
+  ולהלאה וכן הוו נכנסין בספינה מן הויך פפארט, ובתוך וואל גס, וכן בתוך שמי"ט ג"ס
+  וכן בתוך האן  
+
+  גס, ובכולן עברו דרך שער רינו"ס, וכן היו צריכין לעבור בספינה מרחוב לרחוב, כי כל
+  הרחובות  
+
+  הסמוכי' לצד הריין היו כולם מליאים מים. ואני יוזפא שמש ראיתי בעיני המים שהיו
+  גובהין עד שהיו  
+
+  שוין לחלונות בית האושפי"זא הנקרא צו"ר רוזי"ן. והדלי העליון התולה בשלשלת בבאר
+  שבריי"ן  
+
+  ג"ס, נגד חלל הבאר, היה עומד על המים, ומן הבאר עצמו לא נראה מאומה, כי היה משוקע
+  בתוך  
+
+  המים. וכל דיירי רחוב ריין גס ורחובות הנ"ל, היו מוכרחין לצאת מבתיהם ולהוציא את
+  כל אשר להם  
+
+  ולדור בבתים אחרי בטוחי' ממים. ואף כמה רחובות שאין המים היו יכולין להגיע שם,
+  היו המרתפות  
+
+  מליאי' מים, עד שהיו צריכין לעשות תחבולה להציל החביתין של יין שבתוכם ולהכבידן
+  כדי שהיו  
+
+  מוכרחין שיונחו על מקומם. וכן ראיתי בעיני ברחובותינו בבית איצק צו"ם ריזן, ובבית
+  הפרנס הר"ר  
+
+  אנשיל צ"ו וואלפ"ין, כמה חביתין ייין משוקעין בתוך, לא נראו כי המים היו מכסם,
+  אין רואה אותם,  
+
+  וכן כמעט רוב מרתפי הרחוב היו בתוכן מים, ובאו תוך מרתף הפרנס כהר"ר ברוך צו"ר
+  זוני"ן, רק  
+
+  שמרתפי הרחוב התחתוני' היו מליאים מים, והעליונים לא היו כל כך מליאי' מים, וכן
+  כולם: העולה  
+
+  מעלה מעלה, היו המים שבתוכן מעטי' מאשר תחתיו.
+
+
+  ובעבר לנהר רינו"ס היו המים ב' ג' פרסאות עד שעוברי דרכים לא היו יכולין לילך דרך
+  המלך, רק  
+
+  בסיבוב גדול, זמן ארוך עד ששקעו המים במקום ההוא. ואף כשהקטינו מי רינו"ס ולהיות
+  כאשר הריין  
+
+  רגיל להיות, מ"מ המים שבאו בשדות בקצת מקומות הנמוכים היו עומדי' המים זמן רב עד
+  ששקעו  
+
+  שם, והיה זה עיכוב גדול לעוברי דרכים וההתחלה היה בשנת תי"א בחודש טבת כנ"ל.
 ---
 ### Introduction
 
@@ -82,62 +143,39 @@ numerical equivalent to the year]
 “Tevet” according to the small counting [a numerical equivalent to the year]
 Namely, the year [5]411
 
-In the month of Tevet on Sunday, 22 Tevet [5]411 [15 January 1651], the waters of
-the Rhine river swelled, and they came into our place, Warmaisa [Worms], up until
-in our street, people would enter the lower gate by boat, and from there, anyone
-who wished would cross through the Rheinpforte [a gate] and beyond. And
-similarly, one would enter the Viehpforte by boat, and in Wollgasse, and also in
-Schmidtgasse and also in Hahngasse, and in order to access all of these [streets],
-people crossed through the Rhine Gate. And similarly, it was necessary to use a
-boat to cross from one street to another, because all of the streets that abutted the
-shore of the Rhine were filled with water. And I, Juspe Schammes, saw with my
-own eyes the water that went so high that it reached level of the windows of the
-guest house known as Zur Rosen. And the upper bucket that was hung on the chain
-of the well that was in Rheingasse, opposite the opening of the well, was under
-water, and the well itself was not visible, for it was submerged beneath the water.
-And all of the residents of the Rheingasse street and the abovementioned streets,
-were forced to leave their homes and to empty [their homes] of all of their
-possessions, and to reside in other homes that were secure from water. And even
-in some of those streets in which the water had not reached, the basements were
-filled with water, and it was necessary to make an effort to save the wine barrels that were in them [the cellars] and to weight them down so that it was certain they
-would remain in their place. And thus I saw with my own eyes in our street, in the
-house of Itzik zum Riesen, and in the house of the parnas [lay leader] Rav Anshel
-zu Wolfen, how many barrels of wine were submerged, and they were not visible
-because the water had covered them, no one could see them, and most of the
-cellars on the street had water in them, and they [the water] came into the cellar of the parnas, the honorable R. Baruch zur Sonnen. Only the cellars in the lower part
-of the street were filled with water, and the upper ones were not filled with as
-much water, and so it was with everything -- the more you ascended, the less
-water there was when compared to [buildings] on lower ground.
-And on the other side of the Rhine river, the [overflow of ] water stretched 2-3
-parasangs [inland] such that travelers were unable to traverse the imperial roads,
-but rather, they needed to take a large detour, [which lasted] for a long time until
-the water receded. And even when the waters of the Rhine went down to their
-normal level, in any event, the water that had reached the fields in some of the low
-places remained for a long time until they receded, and it caused great delay to
+In the month of Tevet on Sunday, 22 Tevet [5]411 [15 January 1651], the waters of  
+the Rhine river swelled, and they came into our place, Warmaisa [Worms], up until  
+in our street, people would enter the lower gate by boat, and from there, anyone  
+who wished would cross through the Rheinpforte [a gate] and beyond. And  
+similarly, one would enter the Viehpforte by boat, and in Wollgasse, and also in  
+Schmidtgasse and also in Hahngasse, and in order to access all of these [streets],  
+people crossed through the Rhine Gate. And similarly, it was necessary to use a  
+boat to cross from one street to another, because all of the streets that abutted the  
+shore of the Rhine were filled with water. And I, Juspe Schammes, saw with my  
+own eyes the water that went so high that it reached level of the windows of the  
+guest house known as Zur Rosen. And the upper bucket that was hung on the chain  
+of the well that was in Rheingasse, opposite the opening of the well, was under  
+water, and the well itself was not visible, for it was submerged beneath the water.  
+And all of the residents of the Rheingasse street and the abovementioned streets,  
+were forced to leave their homes and to empty [their homes] of all of their  
+possessions, and to reside in other homes that were secure from water. And even  
+in some of those streets in which the water had not reached, the basements were  
+filled with water, and it was necessary to make an effort to save the wine barrels that were in them [the cellars] and to weight them down so that it was certain they  
+would remain in their place. And thus I saw with my own eyes in our street, in the  
+house of Itzik zum Riesen, and in the house of the parnas [lay leader] Rav Anshel  
+zu Wolfen, how many barrels of wine were submerged, and they were not visible  
+because the water had covered them, no one could see them, and most of the  
+cellars on the street had water in them, and they [the water] came into the cellar of the parnas, the honorable R. Baruch zur Sonnen. Only the cellars in the lower part  
+of the street were filled with water, and the upper ones were not filled with as  
+much water, and so it was with everything -- the more you ascended, the less  
+water there was when compared to [buildings] on lower ground.  
+And on the other side of the Rhine river, the [overflow of ] water stretched 2-3  
+parasangs [inland] such that travelers were unable to traverse the imperial roads,  
+but rather, they needed to take a large detour, [which lasted] for a long time until  
+the water receded. And even when the waters of the Rhine went down to their  
+normal level, in any event, the water that had reached the fields in some of the low  
+places remained for a long time until they receded, and it caused great delay to  
 travelers, and this began in [5]411 in the month of Tevet, as was mentioned above.
-
-
-
-בחודש טבת מיום א' כ"ב טבת תי"א, גברו המים מי רינו"ס והלכו תוך מקומינו וורמיישא, עד
-שברחובותינו בשער תחתון היו נכנסין בספינה, ומשם עבר הרוצה לעבור דרך שער ריין פפארט
-ולהלאה וכן הוו נכנסין בספינה מן הויך פפארט, ובתוך וואל גס, וכן בתוך שמי"ט ג"ס וכן בתוך האן
-גס, ובכולן עברו דרך שער רינו"ס, וכן היו צריכין לעבור בספינה מרחוב לרחוב, כי כל הרחובות
-הסמוכי' לצד הריין היו כולם מליאים מים. ואני יוזפא שמש ראיתי בעיני המים שהיו גובהין עד שהיו
-שוין לחלונות בית האושפי"זא הנקרא צו"ר רוזי"ן. והדלי העליון התולה בשלשלת בבאר שבריי"ן
-ג"ס, נגד חלל הבאר, היה עומד על המים, ומן הבאר עצמו לא נראה מאומה, כי היה משוקע בתוך
-המים. וכל דיירי רחוב ריין גס ורחובות הנ"ל, היו מוכרחין לצאת מבתיהם ולהוציא את כל אשר להם
-ולדור בבתים אחרי בטוחי' ממים. ואף כמה רחובות שאין המים היו יכולין להגיע שם, היו המרתפות
-מליאי' מים, עד שהיו צריכין לעשות תחבולה להציל החביתין של יין שבתוכם ולהכבידן כדי שהיו
-מוכרחין שיונחו על מקומם. וכן ראיתי בעיני ברחובותינו בבית איצק צו"ם ריזן, ובבית הפרנס הר"ר
-אנשיל צ"ו וואלפ"ין, כמה חביתין ייין משוקעין בתוך, לא נראו כי המים היו מכסם, אין רואה אותם,
-וכן כמעט רוב מרתפי הרחוב היו בתוכן מים, ובאו תוך מרתף הפרנס כהר"ר ברוך צו"ר זוני"ן, רק
-שמרתפי הרחוב התחתוני' היו מליאים מים, והעליונים לא היו כל כך מליאי' מים, וכן כולם: העולה
-מעלה מעלה, היו המים שבתוכן מעטי' מאשר תחתיו.
-
-ובעבר לנהר רינו"ס היו המים ב' ג' פרסאות עד שעוברי דרכים לא היו יכולין לילך דרך המלך, רק
-בסיבוב גדול, זמן ארוך עד ששקעו המים במקום ההוא. ואף כשהקטינו מי רינו"ס ולהיות כאשר הריין
-רגיל להיות, מ"מ המים שבאו בשדות בקצת מקומות הנמוכים היו עומדי' המים זמן רב עד ששקעו
-שם, והיה זה עיכוב גדול לעוברי דרכים וההתחלה היה בשנת תי"א בחודש טבת כנ"ל.
 
 ## Yair Hayyim Bacharach, *Havot Yair* (Frankfurt, 1699), no. 115.
 
