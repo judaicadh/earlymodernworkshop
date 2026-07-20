@@ -138,6 +138,167 @@ original_language_body: >-
   דידי  
 
   רבנים ומ"ץ נשאלו ולא התירו.
+
+
+  ## Source 3 Original
+
+
+  **Národní Archiv, Praha (National Archives of the Czech Republic, Prague), SM
+  J4/ 34 [^1]**
+
+
+  Accep. 10 expedit. 11 Sept.  
+
+  Von /:tit:/ Ihrer Excells und gnaden dere Königl. Herrn Stadthaltere wegen
+  /:tit:/ Herren  
+
+  Haubtmann der Königl. alten Stadt Prag auf dessen *in mua* des Jüdischen
+  baadens den 5 Sept.  
+
+  eingereichten bericht anzufügen:  
+
+  Ein Königl. *Gouverno* hatte hieraus ersehen, aus was Ursachen der *Magistrat*
+  der Königl. alten  
+
+  Stadt Prag bewogen worden, deren *Scandalose* baadenden Juden die Kleider
+  durch den  
+
+  Stadtrichter weg nemmen5 zu lassen, und welcher gestalten die entnommenen
+  Kleider und Sachen  
+
+  berichtlichen Juden würklich *restituiret* worden also daß Sie Juden nichts
+  mehr zu *praetendiren*  
+
+  haben. Gleichwie nun solcher gestalten *respectu privati* der Jüdische
+  *querel* abgethan worden,  
+
+  *respectu publici* aber eine gantz billige Sach ist, das biβherige
+  *prasumptuos*- und *scandalose*  
+
+  Jüdische baaden in der Moldau auf gewisse maaß und weis zu *restringiren*,
+  [new page]  
+
+  und der so außgelassenen Judenschafft *pro Vosina [ed.: ?]* Vorzuschreiben,
+  wie Sie sich in  
+
+  künfftig in baaden *ratione modi et temporis* unter sonst ergehend scharffen
+  bestraffung zu  
+
+  Verhalten hätten; dahero dan Er Herr Stadthaubtman nachfolgende *puncta* der
+  Judenschafft zur  
+
+  schuldigsten *observantz* anzudeüthen, und in allen Juden Schulen *publiciren*
+  zu lassen wissen  
+
+  wird; daß
+
+
+  1. allen und jeden Juden außer halb Ihres Schabes in denen langen tagen erst
+  nach 10. in denen
+
+
+  kurtzen tagen aber erst nach 9. Uhr abendts mithin zu keiner anderer zeit zu
+  baaden erlaubet seyn  
+
+  solle; wo Sie  
+
+  2. In Schabes zeit nach 7. Uhr abendts oder aber gantz fruhe Ihr baaden
+  Verrichtem werden  
+
+  können  
+
+  3. Sollen die baadende Juden ohne allen tumult und in kleiner anzahl sich
+  einfinden Ehrbar  
+
+  verhalten und keine ~~Scandale~~ [new page] ärgerliche leichtfertigkeit
+  verüben. Also daß auch  
+
+  keinem Juden ~~zu baaden~~ in der Moldau zu baaden erlaubet seÿn soll, der da
+  nicht mit einen  
+
+  Schirtzl versehen, und umbgegeben seÿn wird, nicht weniger soll  
+
+  4. ~~Soll~~ hinführo vor denen grösseren und Mutter gottes feÿrtägen Ihnen
+  Juden dieses baaden  
+
+  gäntzlich untersaget, und hiermit Verbotten seÿn, welchem allen die
+  Judenschafft unter schwerer  
+
+  bestraffung unfehlbahr nachkommen, Er Herr Stadthaubtmann aber darob seÿn
+  solle, damit  
+
+  dieses **mandato in omnibar punctis** nachgelebet werden.  
+
+  ~~Sollte sich aber einige contra~~  
+
+  ~~venienz ereignen, da~~  
+
+  ~~wird der Herr Stadthaubtmann~~  
+
+  ~~sich mit~~
+
+
+  [ed. Marg:] Damit aber auch *ex parte* des  
+
+  Magistrats *antiq warden [ed.: ?]*  
+
+  Sie bey einiger anseithen  
+
+  der Judenschafft ereignenden  
+
+  ~~Inconvenientz~~ Excedirung]
+
+
+  nichts unordentlicher weise Vorgenommen und hierduch einiger Tumult unter
+  Juden und  
+
+  Christen causiret werden möge;
+
+
+  Alß wird Er Herr Stadthaubtman, dem Altstädter Magistrat obige Puncta
+  gleichfalls [new page]  
+
+  zu intimiren beÿm obenstehenden soll zu bedeuten wissen, das beÿ derleÿ von
+  denen Juden  
+
+  unter-nemmenden Scandalosen baadens-arth, forderist durch das gericht denen
+  Juden Eltisten,  
+
+  die alsogleiche einstellung anzudeütten, ~~von da aber die parition nicht
+  erfolgen sollte, als dan erst wider die Excedent. entlicher jedoch ohne
+  grossen~~ Und nicht so gleich tumulta  
+
+  zu verfahren seÿn wird.
+
+
+  Ex Cons. Praga 9.  
+
+  Septembris 1712
+
+
+  Decretum an den Altstädter  
+
+  Herrn Haubtmann, das in certis passibus restringirte Jüdische baaden  
+
+  in den Moldau flueß betrf.
+
+
+  dd. 9 Sept. A. 1712.
+
+
+  Exp. auf beÿliegende relation des Alt-  
+
+  stadter Herrn Haubtmanns mit beÿ-  
+
+  liegenden Actis und Examinibus derer  
+
+  beÿ Jüngstem baad Tumult beraubten  
+
+  Juden.
+
+
+  [^1]: With thanks to Verena Kasper-Marienberg (North Carolina State
+  University) for aid in producing a more accurate transcription.
 ---
 ### Introduction
 
@@ -277,81 +438,11 @@ above mentioned points and explain that in case there will be another Jew with a
 scandalous way of bathing, first the court has to inform the Jewish Elders so they  
 can deal with it and should not immediately proceed with tumultous actions.
 
-From the Prague Consistory
-9th September 1712
-Decree to the Old Town Hauptmann concerning the restricted Jewish bathing in
-the river Moldau
-de dato 9th Sept. anno 1712
-Concerning the report of the Old Town Hauptman with attached files and
-interrogations related to the robbing of Jews during the recent Jewish bathing
+From the Prague Consistory  
+9th September 1712  
+Decree to the Old Town Hauptmann concerning the restricted Jewish bathing in  
+the river Moldau  
+de dato 9th Sept. anno 1712  
+Concerning the report of the Old Town Hauptman with attached files and  
+interrogations related to the robbing of Jews during the recent Jewish bathing  
 tumult 
-
-## Národní Archiv, Praha (National Archives of the Czech Republic, Prague), SM J4/ 34 [^1]
-
-[^1]: With thanks to Verena Kasper-Marienberg (North Carolina State University) for aid in producing a more accurate transcription.
-
-Accep. 10 expedit. 11 Sept.
-Von /:tit:/ Ihrer Excells und gnaden dere Königl. Herrn Stadthaltere wegen /:tit:/ Herren
-Haubtmann der Königl. alten Stadt Prag auf dessen *in mua* des Jüdischen baadens den 5 Sept.
-eingereichten bericht anzufügen:
-Ein Königl. *Gouverno* hatte hieraus ersehen, aus was Ursachen der *Magistrat* der Königl. alten
-Stadt Prag bewogen worden, deren *Scandalose* baadenden Juden die Kleider durch den
-Stadtrichter weg nemmen5 zu lassen, und welcher gestalten die entnommenen Kleider und Sachen
-berichtlichen Juden würklich *restituiret* worden also daß Sie Juden nichts mehr zu *praetendiren*
-haben. Gleichwie nun solcher gestalten *respectu privati* der Jüdische *querel* abgethan worden,
-*respectu publici* aber eine gantz billige Sach ist, das biβherige *prasumptuos*- und *scandalose*
-Jüdische baaden in der Moldau auf gewisse maaß und weis zu *restringiren*, [new page]
-und der so außgelassenen Judenschafft *pro Vosina [ed.: ?]* Vorzuschreiben, wie Sie sich in
-künfftig in baaden *ratione modi et temporis* unter sonst ergehend scharffen bestraffung zu
-Verhalten hätten; dahero dan Er Herr Stadthaubtman nachfolgende *puncta* der Judenschafft zur
-schuldigsten *observantz* anzudeüthen, und in allen Juden Schulen *publiciren* zu lassen wissen
-wird; daß
-
-1. allen und jeden Juden außer halb Ihres Schabes in denen langen tagen erst nach 10. in denen
-
-kurtzen tagen aber erst nach 9. Uhr abendts mithin zu keiner anderer zeit zu baaden erlaubet seyn
-solle; wo Sie
-2. In Schabes zeit nach 7. Uhr abendts oder aber gantz fruhe Ihr baaden Verrichtem werden
-können
-3. Sollen die baadende Juden ohne allen tumult und in kleiner anzahl sich einfinden Ehrbar
-verhalten und keine ~~Scandale~~ [new page] ärgerliche leichtfertigkeit verüben. Also daß auch
-keinem Juden ~~zu baaden~~ in der Moldau zu baaden erlaubet seÿn soll, der da nicht mit einen
-Schirtzl versehen, und umbgegeben seÿn wird, nicht weniger soll
-4. ~~Soll~~ hinführo vor denen grösseren und Mutter gottes feÿrtägen Ihnen Juden dieses baaden
-gäntzlich untersaget, und hiermit Verbotten seÿn, welchem allen die Judenschafft unter schwerer
-bestraffung unfehlbahr nachkommen, Er Herr Stadthaubtmann aber darob seÿn solle, damit
-dieses **mandato in omnibar punctis** nachgelebet werden.
-~~Sollte sich aber einige contra
-venienz ereignen, da
-wird der Herr Stadthaubtmann
-sich mit~~
-
-[ed. Marg:] Damit aber auch *ex parte* des
-Magistrats *antiq warden [ed.: ?]*
-Sie bey einiger anseithen
-der Judenschafft ereignenden
-~~Inconvenientz~~ Excedirung]
-
-nichts unordentlicher weise Vorgenommen und hierduch einiger Tumult unter Juden und
-Christen causiret werden möge;
-
-Alß wird Er Herr Stadthaubtman, dem Altstädter Magistrat obige Puncta gleichfalls [new page]
-zu intimiren beÿm obenstehenden soll zu bedeuten wissen, das beÿ derleÿ von denen Juden
-unter-nemmenden Scandalosen baadens-arth, forderist durch das gericht denen Juden Eltisten,
-die alsogleiche einstellung anzudeütten, ~~von da aber die parition nicht erfolgen sollte, als dan erst wider die Excedent. entlicher jedoch ohne grossen~~ Und nicht so gleich tumulta
-zu verfahren seÿn wird.
-
-Ex Cons. Praga 9.
-Septembris 1712
-
-Decretum an den Altstädter
-Herrn Haubtmann, das in certis passibus restringirte Jüdische baaden
-in den Moldau flueß betrf.
-
-dd. 9 Sept. A. 1712.
-
-Exp. auf beÿliegende relation des Alt-
-stadter Herrn Haubtmanns mit beÿ-
-liegenden Actis und Examinibus derer
-beÿ Jüngstem baad Tumult beraubten
-Juden.
