@@ -18,6 +18,12 @@ tags:
   - Central Europe
   - rivers
   - environmental history
+publication_location:
+  - Worms
+  - "Koblenz "
+  - Prague
+text_location:
+  - Tal
 description: This discussion explores the interactions between Jews and the
   natural world. The session focuses around Jewish engagement with rivers, and
   how waterways shaped the spatial dimensions of daily life. The discussion
@@ -419,7 +425,8 @@ Thus the Stadthauptmann should indicate the following points to the Jewish
 community and require their observance, and to publicize them in all of the Jewish
 synagogues to make it known that:
 
-1. Each and every Jew—except for on their Sabbath—are not permitted to bathe at any other time than first after 10 in the long days and first after nine  
+1. Each and every Jew—except for on their Sabbath—are not permitted to bathe at any other time than first after 10 in the long days and first after nine
+
 in the short days.
 2. On Sabbath-times after 7 o’clock in the evening or in the very early morning  
 they may peform their bathing.
