@@ -18,13 +18,7 @@ const schema = {
 
     source_author: fields.text({ label: 'Source Author' }),
 
-    original_language_body: fields.array(
-        fields.text({ label: 'Original Language' }),
-        // Labelling options
-        {
-            label: 'Original Langugage',
-            itemLabel: props => props.value
-        }
+    original_language_body: fields.text({ label: 'Original Language' }
     ),
 
     resource_link: fields.array(
