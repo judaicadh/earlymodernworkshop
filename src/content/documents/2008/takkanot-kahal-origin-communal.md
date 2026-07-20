@@ -499,7 +499,10 @@ original_language_body: >-
   **Endnotes**
 
 
-  [^1]: וסבובותיה
+  [^11]: Thereafter the word ‫ניט‬‎ commencing the next page.
+
+
+  [^1]: ‫וסבובותיה‬‎
 
 
   [^2]: Missing text caused by damaged paper.
@@ -508,7 +511,7 @@ original_language_body: >-
   [^3]: Deut. 12, 8.
 
 
-  חולי.  :[4^].
+  [^4]: ‫חולי‬‎
 
 
   [^5]: According to Ez. 16, 63.
@@ -517,107 +520,104 @@ original_language_body: >-
   [^6]: This word written in larger letters.
 
 
-  [^7]:     בעל בית
+  [^7]: ‫בעל בית‬‎
 
 
-  [^8]:     בבית הכנסת.
+  [^8]: ‫בבית הכנסת‬‎
 
 
   [^9]: This word above the row.
 
 
-  [^10]:         קופשטיק = Kopfstück (a small coin).
+  [^10]: ‫קופשטיק‬‎ = Kopfstück (a small coin).
 
 
   [^11]: Thereafter the word ‫ניט‬‎ commencing the next page.
 
 
-  ‫.שלשים‬‎ 12
+  [^12]: ‫שלשים‬‎
 
 
-  13 In the manuscript appear two yod.
+  [^13]: In the manuscript appear two yod.
 
 
-  14 The meaning of that word on this position remains unclear.
+  [^14]: The meaning of that word on this position remains unclear.
 
 
-  15 Thereafter ‫ל''הנ‬‎ commencing the next page.
+  [^15]: Thereafter ‫ל''הנ‬‎ commencing the next page.
 
 
-  ‫.וכל שכן‬‎ 16
+  [^16]: ‫וכל שכן‬‎
 
 
-  ‫.חס וחללה‬‎ 17
+  [^17]: ‫חס וחללה‬‎
 
 
-  ‫.שיחיה‬‎ 18
+  [^18]: ‫שיחיה‬‎
 
 
-  19 Above the word three small strokes.
+  [^19]: Above the word three small strokes.
 
 
-  20 From here until the end of the paragraph a later addition in a different
-  handwriting, apparently that of the rabbi Ascher Enslen.
+  [^20]: From here until the end of the paragraph, a later addition in a
+  different handwriting, apparently that of the rabbi Ascher Enslen.
 
 
-  21 15 July 1688.
+  [^21]: 15 July 1688.
 
 
-  22 Until here the original version, in the following later amendments.
+  [^22]: Until here the original version, in the following later amendments.
 
 
-  23 30 June 1683.
+  [^23]: 30 June 1683.
 
 
-  ‫.הפרנס‬‎ 24
+  [^24]: ‫הפרנס‬‎
 
 
-  ‫.ואחר כך‬‎ 25
+  [^25]: ‫ואחר כך‬‎
 
 
-  ‫.נאום‬‎ 26
+  [^26]: ‫נאום‬‎
 
 
-  27 Addition in different ink.
+  [^27]: Addition in different ink.
 
 
-  ‫.אם ירצה השם‬‎ 28
+  [^28]: ‫אם ירצה השם‬‎
 
 
-  ‫?על ידם‬‎ 29
+  [^29]: ‫?על ידם‬‎
 
 
-  ‫.משמע מזה‬‎ 30
+  [^30]: ‫משמע מזה‬‎
 
 
-  31 5 July 1690.
+  [^31]: 5 July 1690.
 
 
-  ‫.חתום מטה‬‎ 32
+  [^32]: ‫חתום מטה‬‎
 
 
-  33 In the manuscript: ‫נאים‬‎.
+  [^33]: In the manuscript: ‫נאים‬‎.
 
 
-  34 28 June 1694.
+  [^34]: 28 June 1694.
 
 
-  35 Illegible signature.
+  [^35]: Illegible signature.
 
 
-  36 The rest of the row was filled by the scribe with a line.
+  [^36]: The rest of the row was filled by the scribe with a line.
 
 
-  37 Deleted: ‫.הראש‬‎
+  [^37]: Deleted: ‫הראש‬‎.
 
 
-  ‫.ביום טוב‬‎ 38
+  [^38]: ‫ביום טוב‬‎
 
 
-  39 This word deleted and written again above the row.
-
-
-  Copyright © 2012 Early Modern Workshop
+  [^39]: This word deleted and written again above the row.
 ---
 ## Source 1 Translation
 
