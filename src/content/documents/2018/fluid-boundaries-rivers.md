@@ -34,8 +34,6 @@ footnotes:
 bibliography:
   - {}
 ---
-
-
 ### Introduction
 
 In this discussion we explore an aspect of space that is often overlooked in studies
@@ -69,10 +67,8 @@ physical and cultural interaction.
 “A flood was in the land” according to the small counting [a numerical equivalent
 to the year]
 
-
 “The water was on the surface of the land” according to the small counting [a
 numerical equivalent to the year]
-
 
 “Tevet” according to the small counting [a numerical equivalent to the year]
 Namely, the year [5]411
@@ -112,8 +108,14 @@ places remained for a long time until they receded, and it caused great delay to
 travelers, and this began in [5]411 in the month of Tevet, as was mentioned above.
 
 כמבו"ל הי"ה באר"ץ לפ"ק
+
+
 המי"ם הי"ו ע"ל פנ"י האדמ"ה לפ"ק
+
+
 טב"ת לפ"ק
+
+
 דהיינו בשנת תי"א
 
 בחודש טבת מיום א' כ"ב טבת תי"א, גברו המים מי רינו"ס והלכו תוך מקומינו וורמיישא, עד
