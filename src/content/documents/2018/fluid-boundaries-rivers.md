@@ -34,7 +34,7 @@ footnotes:
 bibliography:
   - {}
 ---
-<div class="ltr">
+
 
 ### Introduction
 
@@ -63,12 +63,17 @@ space in Jewish life, and together offer a portrait of the place of water as a z
 physical and cultural interaction.
 
 ## Juspe Schammes, *Minhagim K”K Warmaisa*, eds. B.S. Hamburger and E. Zimmer, 2 vols.
+
 (Jerusalem, 1988) 2, Appendix 1.
 
 “A flood was in the land” according to the small counting [a numerical equivalent
 to the year]
+
+
 “The water was on the surface of the land” according to the small counting [a
 numerical equivalent to the year]
+
+
 “Tevet” according to the small counting [a numerical equivalent to the year]
 Namely, the year [5]411
 
@@ -181,7 +186,9 @@ and times of their bathing, and to stringently punish those who behave otherwise
 Thus the Stadthauptmann should indicate the following points to the Jewish
 community and require their observance, and to publicize them in all of the Jewish
 synagogues to make it known that:
+
 1. Each and every Jew—except for on their Sabbath—are not permitted to
+
 bathe at any other time than first after 10 in the long days and first after nine
 in the short days.
 2. On Sabbath-times after 7 o’clock in the evening or in the very early morning
@@ -230,7 +237,9 @@ künfftig in baaden *ratione modi et temporis* unter sonst ergehend scharffen be
 Verhalten hätten; dahero dan Er Herr Stadthaubtman nachfolgende *puncta* der Judenschafft zur
 schuldigsten *observantz* anzudeüthen, und in allen Juden Schulen *publiciren* zu lassen wissen
 wird; daß
+
 1. allen und jeden Juden außer halb Ihres Schabes in denen langen tagen erst nach 10. in denen
+
 kurtzen tagen aber erst nach 9. Uhr abendts mithin zu keiner anderer zeit zu baaden erlaubet seyn
 solle; wo Sie
 2. In Schabes zeit nach 7. Uhr abendts oder aber gantz fruhe Ihr baaden Verrichtem werden
