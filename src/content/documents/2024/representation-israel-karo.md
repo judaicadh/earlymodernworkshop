@@ -270,6 +270,58 @@ original_language_body: >-
   סבלונות חוששין שמא לשם קידושין שלחם אבל אם רוב העיר רגילים לשלוח תחילה ואח"כ
   מקדשין אין חוששין . . . ולפירש"י חוששין הלכך טוב לחוש . . . להחמיר וכן היא
   מסקנת א"א הרא"ש ז"ל. . . .:
+
+
+  ## Source 10 Original
+
+
+  *Shulhan Arukh Even Haezer* 142.1
+
+
+  שליח שהביא גט ממקום למקום בחוצה לארץ, או מארץ ישראל לחוצה לארץ, או מחוצה לארץ
+  לארץ ישראל, אם היה השליח עומד בשעת כתיבת הגט וחתימתו, ה"ז אומר בפני שנים: בפני
+  נכתב ובפני נחתם, ואחר כך יתן לה בפניהם ותתגרש בו; ואע"פ שאין עדיו ידועים
+  אצלנו. . . .ואם בא הבעל ועמד וערער, אין משגיחין בו. . . .וכן שליח שהביא גט
+  בארץ ישראל ואמר: בפני נכתב ובפני נחתם, אף ע"פ שאינו צריך, אם יבא הבעל ויערער,
+  אין משגיחין בו. . . . ומפני מה הצריכו לומר: בפני נכתב ובפני נחתם, בחוצה לארץ,
+  כדי שלא תהיה האשה צריכה לקיימו אם יבא הבעל ויערער, מפני שאין עדים מצויים
+  לקיימו ממקום למקום בחוצה לארץ. **ונ"ל דהאידנא, אפילו בארץ ישראל צריך לומר:
+  בפני נכתב ובפני נחתם**.
+
+
+  *Tur Even Haezer* 142
+
+
+  המביא גט ממ"ה והבעל עשאו שליח להוליכו לאשתו צריך שיעמוד על כתיבתו וחתימתו
+  ויאמר בפני נכתב ובפני נחתם אבל מא"י אין צריך וטעמא משום דבחוצה לארץ אין עדים
+  מצויין לקיימו ואם תינשא בו היום או מחר יבא הבעל ויערער ולא תוכל למצוא עדים
+  לקיימו לכך תקנו שלא תתגרש בו עד שיאמר השליח בפני נכתב ובפני נחתם והאמינוהו ואז
+  לא נחוש לערערו של הבעל אבל בא"י שתוכל לקיימו תינשא בו אע"פ שלא אמר בפני נכתב
+  ובפני נחתם. . . ובא"י נמי אם אומר בפני נכתב ובפני נחתם מועיל לדחות ערעורו של
+  בעל אע"פ שלא היה צריך.
+
+
+  ## Source 11 Original
+
+
+  *Shulhan Arukh Hoshen Mishpat* 30.2
+
+
+  אעפ"י שאין עידי דיני ממונות צריכין דרישה וחקירה, אם הכחישו זה את זה בדרישות או
+  בחקירות, עדותן בטלה; ואם הכחישו זה את זה בבדיקות, עדותן קיימת. כיצד, אחד אומר:
+  בניסן לוה ממנו, והשני אומר: לא כי אלא באייר, **או שאמר האחד: בירושלים, והשני
+  אמר: לא כי אלא בלוד**, עדותן בטלה.
+
+
+  *Tur Hoshen Mishpat* 30
+
+
+  ואע"פ שאין צריך דרישה וחקירה אם הכחישו זה את זה בדרישות וחקירות עדותן בטילה:
+
+
+  אבל אם הכחישו זה את זה בבדיקות עדותן קיימת כיצד אחד אמר בניסן לוה הימנו והשני
+  אמר לא כי אלא באייר לוה הימנו או שאמר האחד במקום פלוני והשני אמר לא כי אלא
+  במקום פלוני עדותן בטלה:
 ---
 ## Introduction
 
@@ -383,15 +435,15 @@ A non-expert who looked over a firstborn animal which was then slaughtered erron
 
 ## Source 9 Translation
 
+*Shulhan Arukh Even Haezer* 45.2
+
 **Today, the entire kingdom of the land of Israel, Egypt, and Turkey are not accustomed to be concerned about nuptial gifts**, except in Constantinople, where they are concerned about them. 
 
 *Tur Even Haezer* 45
 
 One is concerned about nuptial gifts. And Rashi[^22] explained that if the prospective groom settled marriage terms with the prospective bride initially and sent her nuptial gifts afterwards with witnesses, we are concerned that perhaps he sent them to her for the sake of legal betrothal, and she will require a bill of divorce to terminate the relationship. Therefore, if most of the town are accustomed to betroth and send nuptial gifts afterwards, we are concerned that they sent the gifts for the sake of legal betrothal. But if most of the town are accustomed to send nuptial gifts first and legally betroth afterwards, we are not concerned. . . and according to Rashi’s explanation, we are concerned, therefore it is good to be wary. . . to be stringent. And thus was the conclusion of my lord, my father, the Rosh, z’’l.[^23]
 
-
-
-&nbsp;
+## Source 10 Translation
 
 *Shulhan Arukh Even Haezer* 142.1
 
@@ -401,19 +453,7 @@ An agent who brought a bill of divorce from one place to another outside the lan
 
 One who brings a bill of divorce from a province of the sea and the husband made him an agent to bring it to his wife, the agent must stand by the bill’s writing and signing and say: “Before me it was written and before me it was signed.” But an agent from the land of Israel need not say this. And the reason is that witnesses are not available to uphold the validity of the bill of divorce outside the land and if she remarries through it today or tomorrow the husband may come and protest and she will be unable to find witnesses to uphold it. Therefore the sages instituted that she not be divorced by it until the agent says “Before me it was written and before me it was signed,” and they believe him, and then are not troubled by the husband’s protest. But in the land of Israel, where she can  uphold it, she may remarry through it even though the agent did not say “Before me it  was written and before me it was signed”. . . . but also in the land of Israel, if the agent says “Before  me it was written and before me it was signed,” this declaration helps to push off the husband’s protest, even though it is unnecessary.
 
-*Shulhan Arukh Even Haezer* 142.1
-
-
-
-שליח שהביא גט ממקום למקום בחוצה לארץ, או מארץ ישראל לחוצה לארץ, או מחוצה לארץ לארץ ישראל, אם היה השליח עומד בשעת כתיבת הגט וחתימתו, ה"ז אומר בפני שנים: בפני נכתב ובפני נחתם, ואחר כך יתן לה בפניהם ותתגרש בו; ואע"פ שאין עדיו ידועים אצלנו. . . .ואם בא הבעל ועמד וערער, אין משגיחין בו. . . .וכן שליח שהביא גט בארץ ישראל ואמר: בפני נכתב ובפני נחתם, אף ע"פ שאינו צריך, אם יבא הבעל ויערער, אין משגיחין בו. . . . ומפני מה הצריכו לומר: בפני נכתב ובפני נחתם, בחוצה לארץ, כדי שלא תהיה האשה צריכה לקיימו אם יבא הבעל ויערער, מפני שאין עדים מצויים לקיימו ממקום למקום בחוצה לארץ. **ונ"ל דהאידנא, אפילו בארץ ישראל צריך לומר: בפני נכתב ובפני נחתם**.
-
-*Tur Even Haezer* 142
-
-
-
-המביא גט ממ"ה והבעל עשאו שליח להוליכו לאשתו צריך שיעמוד על כתיבתו וחתימתו ויאמר בפני נכתב ובפני נחתם אבל מא"י אין צריך וטעמא משום דבחוצה לארץ אין עדים מצויין לקיימו ואם תינשא בו היום או מחר יבא הבעל ויערער ולא תוכל למצוא עדים לקיימו לכך תקנו שלא תתגרש בו עד שיאמר השליח בפני נכתב ובפני נחתם והאמינוהו ואז לא נחוש לערערו של הבעל אבל בא"י שתוכל לקיימו תינשא בו אע"פ שלא אמר בפני נכתב ובפני נחתם. . . ובא"י נמי אם אומר בפני נכתב ובפני נחתם מועיל לדחות ערעורו של בעל אע"פ שלא היה צריך.
-
-
+## Source 11 Translation
 
 *Shulhan Arukh Hoshen Mishpat* 30.2
 
@@ -425,25 +465,7 @@ And even though there is no need of intense cross-examination, if the witnesses 
 
 But if they contradicted each other in their responses to examinations, their testimony stands. How? If one witness says: “X borrowed from Y in Nisan,” and the second says, “No, he borrowed from him in Iyar,” or if one said, “X borrowed from Y in such-and-such a  place,” and the second said: “No, it was in such-and-such a place,” their testimony is invalid.
 
-*Shulhan Arukh Hoshen Mishpat* 30.2
-
-
-
-&nbsp;
-
-אעפ"י שאין עידי דיני ממונות צריכין דרישה וחקירה, אם הכחישו זה את זה בדרישות או בחקירות, עדותן בטלה; ואם הכחישו זה את זה בבדיקות, עדותן קיימת. כיצד, אחד אומר: בניסן לוה ממנו, והשני אומר: לא כי אלא באייר, **או שאמר האחד: בירושלים, והשני אמר: לא כי אלא בלוד**, עדותן בטלה.
-
-*Tur Hoshen Mishpat* 30
-
-
-
-&nbsp;
-
-ואע"פ שאין צריך דרישה וחקירה אם הכחישו זה את זה בדרישות וחקירות עדותן בטילה:
-
-אבל אם הכחישו זה את זה בבדיקות עדותן קיימת כיצד אחד אמר בניסן לוה הימנו והשני אמר לא כי אלא באייר לוה הימנו או שאמר האחד במקום פלוני והשני אמר לא כי אלא במקום פלוני עדותן בטלה:
-
-
+## Source 13 Translation
 
 *Shulhan Arukh Hoshen Mishpat* 409.1 
 
@@ -467,7 +489,7 @@ The sages instituted that people should not raise small cattle is a place of fie
 
 מפני שהבהמה דקה דרכה לרעות בשדות אחרות והיזקה מצוי תקנו חכמים שלא יגדלנה האדם במקום שדות וכרמים אלא ביערים ואפילו בבית אסור ואפילו שאינה שלו והחמירו בה כדי להרחיק מההיזק שאסור לאדם שיזיק את חבירו ומיהו עיקר תקנה זו לא נתקנה אלא על ארץ ישראל אלא דקאמר בגמרא שבבל יש לה דין ארץ ישראל לדבר זה וי"א דבכל מנהגי דילן בתר בבל גרירינן ולדידן נמי אסור ונראה דבהא לא גרירינן בתר בבל דטעמא דאסור בבבל לפי שהיו שם רוב שדות ישראל וכיון דהשתא ליתא להאי טעמא שרי:
 
-
+## Source 14 Translation
 
 *Shulhan Arukh Orach Hayyim* 601
 
@@ -489,25 +511,15 @@ And Maimonides[^35] wrote in chapter 5 of the Laws of the Sanctification of the 
 
 *Shulhan Arukh Orach Hayyim* 601
 
-
-
 א ביום שני וקורים מוהאלהים נסה את אברהם עד סוף סידרא, ומפטיר קורא כמו אתמול ומפטיר בירמיה (ירמיה לא, א) כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים; ובמוצאי ר"ה מבדילין כמו במוצאי שבת, אלא שאין מברכין על הבשמים ועל האש.
 
 ב **אף בארץ ישראל עושים ר"ה שני ימים**.
 
-
-
 *Tur Orach Hayyi*m 601 
-
-
 
 בשני מתפללין ותוקעין כמו בראשון וקורין בפרשת וירא אליו מן והאלהים נסה את אברהם עד סוף סדרא ומפטיר קורא כמו אתמול ומפטיר בירמיה כה אמר ה' מצא חן במדבר עד הבן יקיר לי אפרים ובמוצאי ר"ה מבדילין כמו במ"ש אלא שאין מברכין על הבשמים ועל האש:
 
-
-
 *Beit Yosef to Tur Orach Hayyim* 601
-
-
 
 וכתב הרי"ף (ביצה ג.) ושמעינן מינה דבני ארץ ישראל צריכין למיעבד שני ימים טובים של ראש השנה וכתב הרא"ש (ביצה פ"א סי' ד) שרבינו אפרים תלמידו נחלק עליו וכתב דהני מילי בזמן שהיו מקדשין על פי הראיה אבל עכשיו שאנו סומכים על סוד העיבור חזר כל ארץ ישראל להיות בית הועד שאין להם ספק בקדושת היום ואין להם לשמור אלא יום אחד: וכתב בעל המאור (שם) כדברי רבינו אפרים ועוד כתב שכן נהגו בארץ ישראל כל הדורות שהיו לפנינו עד עתה חדשים מקרוב באו לשם מחכמי פרובינצ"א והנהיגום לעשות שני ימים טובים בראש השנה על פי הלכות הרי"ף והביא ראיה שלא היו עושים מתחלה אלא יום אחד . . . והרמב"ם בפרק ה' מהלכות קידוש החדש (ה"ח) ובפרק א' מהלכות יום טוב (הכ"א) כתב כדברי הרי"ף וכתב הרב המגיד (שם) יש חולקין ודברי ההלכות ורבינו עיקר **וכן נוהגין היום אף בארץ ישראל לעשות שני ימים ראש השנה** עכ"ל:
 
