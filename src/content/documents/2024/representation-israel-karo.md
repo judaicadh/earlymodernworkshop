@@ -272,18 +272,6 @@ And they are accustomed to increase the number of petitionary prayers in the ble
 
 ## Source 6 Translation
 
-
-
-## Source 7 Translation
-
-## Source 8 Translation
-
-
-
-&nbsp;
-
-&nbsp;
-
 *Shulhan Arukh Orach Hayyim* 576.11
 
 And similarly, over rain. How so? Were the rains to be overwhelming to the point of causing anguish, these affected people may pray about them (for the rains to stop), for there is no greater anguish than this, that houses collapse and people’s homes turn out to be their graves. **And in the land of Israel** one does not pray for  the cessation of excessive rains, **for it is a hilly land, their houses are built of stone, and excessive rain is a goodness for them. And one does not fast to cause a goodness to pass away. But now in Safed there are house collapses on account of rain, and one prays about them (for a cessation of the excessive rain)**.
@@ -291,6 +279,10 @@ And similarly, over rain. How so? Were the rains to be overwhelming to the point
 *Tur Orach Hayyim* 577
 
 One prays concerning any trouble, that it not come upon them, except for excessive rain, since one does not pray for the cessation of an excess of goodness. And this applies to a hilly land that requires much rain. But a sunken land for which excessive rain is a hardship and in which, moreover, it causes house collapses, one prays for the rains to stop since there is no greater anguish.
+
+## Source 7 Translation
+
+## Source 8 Translation
 
 
 
@@ -476,7 +468,7 @@ The sages instituted that people should not raise small cattle is a place of fie
 
 *Tur Orach Hayyim* 601 
 
-On the second day of Rosh Hashanah we pray and sound the horn as on the first day. And we read in *parashat Vayera*[^27] from “And God tested Abraham” (Genesis 22:1) until the end of the portion.[^28] And the reader that concludes reads in the same manner as on the previous day, and concludes with Jeremiah, “Thus says the Lord, found favor  in the desert” through “Is Ephraim not a dear child to me.” And on the evening after Rosh Hashanah, we divide as on the evening after the Sabbath, except that we bless neither over the spices nor the flame.
+On the second day of Rosh Hashanah we pray and sound the horn as on the first day. And we read in *parashat Vayera*[^27] from “And God tested Abraham” (Genesis 22:1) until the end of the portion.[^28] And the reader that concludes reads in the same manner as on the previous day, and concludes with Jeremiah, “Thus says the Lord, found favor in the desert” through “Is Ephraim not a dear child to me.” And on the evening after Rosh Hashanah, we divide as on the evening after the Sabbath, except that we bless neither over the spices nor the flame.
 
 *Beit Yosef to Tur Orach Hayyim* 601
 
