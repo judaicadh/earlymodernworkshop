@@ -16,6 +16,36 @@ language:
   - Hebrew
 publication_location:
   - Amsterdam
+description: In the late seventeenth and early eighteenth centuries, western
+  European cities began to enact robust regulations concerning the training and
+  licensure of midwives. The city of Amsterdam refined its bureaucratic
+  procedures for midwife licensure earlier than other European locales, and all
+  prospective midwives – including Jews – were required to register in the
+  Collegium Obstetricum from 1668 onward. Midwives had to attend anatomy
+  lectures, report their apprenticeships, and pass a comprehensive examination.
+  Although individual Jewish midwives often went through standard municipal
+  procedures to gain admittance to the profession, Jewish communities had their
+  own internal methods of regulating midwives and ensuring that members of the
+  community received appropriate care from them. The event of birth, and
+  ensuring a positive outcome for both mother and child, was of prime concern to
+  the lay leadership, which was responsible for hiring a midwife or midwives to
+  serve the community. Because of this heightened sensitivity towards midwifery
+  in Amsterdam, communal registers from the Ashkenazic (Hoogduitse) kehillah
+  emphatically state that it is the responsibility of the community to supply
+  enough midwives to serve all birthing women. In the following entries from the
+  community’s pinkas, lay officials appoint additional midwives to address the
+  community’s growing population. These entries divide midwives’ roles by
+  street, with each midwife responsible for a discrete area. The inclusion of
+  this rubric suggests the importance of geography among Jews in
+  eighteenth-century Amsterdam as well as the community’s keen awareness of its
+  location within an urban landscape. In addition to this, birth records kept by
+  one Amsterdam midwife in the earlier half of the century frequently record
+  streets or neighborhoods where births took place, reinforcing this sense of
+  place and the importance of a mental cartography for the midwife as she went
+  about her work. This impulse to record geographical information may have taken
+  cues from the midwife records submitted to the Collegium Obstetricum, to which
+  stadsvroedvrouwen (municipal midwives) and their advanced students were
+  required to supply birth lists at least every three months.
 sections:
   - {}
 footnotes:
