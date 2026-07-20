@@ -189,7 +189,48 @@ original_language_body: >+
   ## Source 6 Original
 
 
+  *Shulhan Arukh Orach Hayyim* 576.11
+
+
+  וכן על המטר. כיצד, הרי שרבו עליהם גשמים עד שיצרו להם, הרי אלו מתפללים עליהם,
+  שאין לך צרה יתירה מזו שהבתים נופלים ונמצא בתיהם קבריהם; **ובארץ ישראל** אין
+  מתפללין על רוב הגשמים, **מפני שהיא ארץ הרים ובתיהם בנוים באבנים ורוב הגשמים
+  טובה להם ואין מתענים להעביר הטובה; ועכשיו בצפת מצוים מפולת בתים מפני הגשמים,
+  ומתפללים עליהם**.
+
+
+  *Tur Orach Hayyim* 577
+
+
+  מתפללין על כל צרה שלא תבא עליהם חוץ מעל רוב הגשמים שאין מתפללין על ריבוי הטובה
+  וה"מ בארץ הרים שצריכה לרוב גשמים אבל ארץ מצולה שרוב גשמים קשין לה ולא עוד אלא
+  שמפילין בתים עליהם אין לך צרה גדולה מזו ומתפללין עליהם:
+
+
   ## Source 7 Original
+
+
+  *Shulhan Arukh Yor’eh De‘ah* 251.3 (excerpt)
+
+
+  ועניי ביתו קודמין לעניי עירו, ועניי עירו קודמין לעניי אחרת **ויושבי ארץ ישראל
+  קודמין ליושבי חוצה לארץ**.
+
+
+  *Tur Yor’eh De‘ah* 251
+
+
+  ועניי ביתו קודמין לעניי עירו ועניי עירו קודמין לעניי עיר אחרת.
+
+
+  *Beit Yosef to Tur Yor’eh De‘ah* 251
+
+
+   תניא בספרי (ראה פסקא סג) אחיך זה אחיך מאביך מאחד אחיך זה אחיך מאמך מלמד שאחיך
+  מאביך קודם לאחיך מאמך באחד שעריך אנשי עירך קודם לאנשי עיר אחרת בארצך יושבי ארץ
+  ישראל קודמים ליושבי חוצה לארץ ויושבי חוצה לארץ מנלן תלמוד לומר אשר ה' אלהיך
+  נותן לך לרבות כל מקום ע"כ. וכתבוה סמ"ג (שם רז ע"א) להאי ברייתא והמרדכי בפ"ק
+  דב"ב (סי' תקג):
 
 
   ## Source 8 Original
@@ -282,26 +323,6 @@ One prays concerning any trouble, that it not come upon them, except for excessi
 
 ## Source 7 Translation
 
-## Source 8 Translation
-
-
-
-*Shulhan Arukh Orach Hayyim* 576.11
-
-
-
-וכן על המטר. כיצד, הרי שרבו עליהם גשמים עד שיצרו להם, הרי אלו מתפללים עליהם, שאין לך צרה יתירה מזו שהבתים נופלים ונמצא בתיהם קבריהם; **ובארץ ישראל** אין מתפללין על רוב הגשמים, **מפני שהיא ארץ הרים ובתיהם בנוים באבנים ורוב הגשמים טובה להם ואין מתענים להעביר הטובה; ועכשיו בצפת מצוים מפולת בתים מפני הגשמים, ומתפללים עליהם**.
-
-
-
-*Tur Orach Hayyim* 577
-
-
-
-מתפללין על כל צרה שלא תבא עליהם חוץ מעל רוב הגשמים שאין מתפללין על ריבוי הטובה וה"מ בארץ הרים שצריכה לרוב גשמים אבל ארץ מצולה שרוב גשמים קשין לה ולא עוד אלא שמפילין בתים עליהם אין לך צרה גדולה מזו ומתפללין עליהם:
-
-
-
 *Shulhan Arukh Yor’eh De‘ah* 251.3 (excerpt)
 
 And the poor of one’s house take precedence over the poor of one’s town, and the poor of one’s town take precedence over the poor of another town. **And the inhabitants of the land of Israel take precedence over the inhabitants of outside the land**.
@@ -314,29 +335,11 @@ And the poor of one’s house take precedence over the poor of one’s town, and
 
 It was taught in the Sifrei[^19] (see *piska* 63): *your brother* (Deuteronomy 15:7)—this is your brother from your father. *One of your brothers* this is your brother from your mother. This teaches that your brother from your father takes precedence over your brother from your mother. *In one of your gates*—the people of your town take precedence over the people of another town. *In your land*—the inhabitants of the land of Israel take precedence over the inhabitants of outside the land. And the inhabitants of outside the land, from where do we derive that they should be given charity? Scripture says, *which the Lord your God gives you*—this comes to include every place where Jews live. End quote. And the SeMaG[^20] wrote this tannaitic passage into his lawbook (there 207a), as did the Mordecai[^21] in his legal notes to the first chapter of (Babylonian Talmud tractate) Bava Batra (paragraph 503).
 
-*Shulhan Arukh Yor’eh De‘ah* 251.3 (excerpt)
+## Source 8 Translation
 
 
 
-ועניי ביתו קודמין לעניי עירו, ועניי עירו קודמין לעניי אחרת **ויושבי ארץ ישראל קודמין ליושבי חוצה לארץ**.
-
-
-
-*Tur Yor’eh De‘ah* 251
-
-
-
-ועניי ביתו קודמין לעניי עירו ועניי עירו קודמין לעניי עיר אחרת.
-
-
-
-*Beit Yosef to Tur Yor’eh De‘ah* 251
-
-
-
- תניא בספרי (ראה פסקא סג) אחיך זה אחיך מאביך מאחד אחיך זה אחיך מאמך מלמד שאחיך מאביך קודם לאחיך מאמך באחד שעריך אנשי עירך קודם לאנשי עיר אחרת בארצך יושבי ארץ ישראל קודמים ליושבי חוצה לארץ ויושבי חוצה לארץ מנלן תלמוד לומר אשר ה' אלהיך נותן לך לרבות כל מקום ע"כ. וכתבוה סמ"ג (שם רז ע"א) להאי ברייתא והמרדכי בפ"ק דב"ב (סי' תקג):
-
-
+&nbsp;
 
 *Shulhan Arukh Yo’reh De‘ah* 310.3
 
