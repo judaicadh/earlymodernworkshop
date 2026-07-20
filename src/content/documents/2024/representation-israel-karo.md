@@ -41,11 +41,13 @@ bibliography:
     title: "*The Life of Rabbi Yosef Karo.*"
     publication: Tel Aviv, 2016
 ---
-### Introduction
+## Introduction
 
 Joseph Karo’s (1488–1575) legal *oeuvre* marks a transition between the Jewish Middle Ages and early modernity. Of his legal works, two are particularly consequential: the analytic magnum opus *Beit Yosef* (“House of Joseph”), presented in the form of a commentary on Jacob ben Asher’s fourteenth-century lawbook *Arba‘ah Turim* (“Four Rows,” known as “Tur”), and its companion, *Shulhan Arukh* (“Prepared Table”). Karo composed *Beit Yosef* over an approximately twenty-year period (1522–1547, with later revisions), and its four parts were printed in Italy between 1550 and 1559 *Shulhan Arukh* was first published in Italy in 1565 In a brief introduction, Karo describes *Shulhan Arukh* as a lawbook that collects *Beit Yosef*’s rulings, presenting them “in a concise manner.” *Shulhan Arukh* is also to serve as a Jewish law *aide mémoire,* the content of which both seasoned scholars and students would come to know by heart through constant monthly study and repetition. While the story of *Shulhan Arukh*’s composition and reception is incomplete without reference to Moses Isserles’s (1530–1572) glosses and their early printing as part of the work (beginning in 1574), this presentation focuses on Karo’s own text. 
 
 Karo’s brief introduction to *Shulhan Arukh* does not fully account for how he composed it. Even *Shulhan Arukh*’s early readers recognized the lawbook’s clear indebtedness to the language of *Arba‘ah Turim* (especially) as well as that of Maimonides’s *Mishneh Torah* (twelfth century). Source-criticism reveals that at times, Karo introduces novel ideas into sequences of language he takes from these predecessors, especially *Arba‘ah Turim.* Karo’s literary interventions may be based on legal sources *Arba‘ah Turim* neglected or was unaware of, or they may be his own original formulations. Ongoing research demonstrates to date that there are demonstrable thematic patterns to two sets of these interventions, one of which is the subject of this presentation: Karo’s literary interventions touching on the land of Israel. Identifications of other literary interventions and their themes is a desideratum. Broader study of these thematic patterns beyond the “four walls” of Karo’s lawbooks may further illuminate his thought, public roles, and Safedian context.
+
+## Source 1 Translation
 
 *Shulhan Arukh Orach Hayyim* 151.11
 
