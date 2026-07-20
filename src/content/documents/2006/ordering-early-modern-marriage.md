@@ -804,17 +804,17 @@ Most weddings of young men and young women are on Wednesdays. On Monday night,
 
 which is actually the beginning of Tuesday (night), they feast and make merry, and this
 
-meal is called: R. Manis Mahl.[42] And it is customary to invite relatives of the groom and
+meal is called: R. Manis Mahl.[^42] And it is customary to invite relatives of the groom and
 
 bride and some notables to this meal, but no more.
 
 230
 
-Tuesday is the Day of Savlonot.[43] In the morning, the groom comes with a Sabbath
+Tuesday is the Day of Savlonot.[^43] In the morning, the groom comes with a Sabbath
 
 mantle, that is to say, a Seiden Mantel. At noon, the groom summons young men and
 
-boys and the bride, young women, and the sexton summons them from the Zettel.[44]
+boys and the bride, young women, and the sexton summons them from the Zettel.[^44]
 
 And the young men and the boys eat at the home of the groom with the groom and the
 
@@ -822,7 +822,7 @@ young women with the bride. And it is customary for them to eat dairy foods and 
 
 and no more. And they hurry this meal, one hour at the most, and they call this meal:
 
-Milchmahl.[45] And they do not summon to this meal either married men or married
+Milchmahl.[^45] And they do not summon to this meal either married men or married
 
 women.
 
@@ -858,7 +858,7 @@ the gifts, and so, exposed, conveys them to the home of the bride. The rabbi ent
 
 and after him, the father of the groom and the father of the bride, and afterwards, all
 
-those summoned, the notables leading.[46] And then the rabbi sets the gifts on the table,
+those summoned, the notables leading.[^46] And then the rabbi sets the gifts on the table,
 
 in front of the bride, and says: “This shall be a present to you from the groom, after the
 
@@ -872,7 +872,7 @@ also return to their homes.
 
 And just before Minhah, before the sexton summons [people] to the synagogue, he calls
 
-through the street, up and down: “Die Kalle zum Bad führen.”[47] And then the bride
+through the street, up and down: “Die Kalle zum Bad führen.”[^47] And then the bride
 
 goes, in a Scheppel and a Glencheck, and in a Sabbath mantle, with two women in
 
@@ -880,25 +880,25 @@ festive clothing and Sabbath mantles to her right and to her left, and behind he
 
 women and young women, and the players before her, and they lead her to the
 
-bathhouse. And when they leave the synagogue,[48] the bride returns, with the two
+bathhouse. And when they leave the synagogue,[^48] the bride returns, with the two
 
 women at her side and with the women, and the young women, and the players before
 
-her. And on the bride’s head is a scarf which they call: dicke Schleier,[49] and on the scarf
+her. And on the bride’s head is a scarf which they call: dicke Schleier,[^49] and on the scarf
 
-is one Scheppel, a Mascheppel[50] and a Glencheck. And the bride performs her
+is one Scheppel, a Mascheppel[^50] and a Glencheck. And the bride performs her
 
-purification rite[51] that night, if she is fit to immerse, and not during the day.
+purification rite[^51] that night, if she is fit to immerse, and not during the day.
 
 For Minhah, the groom comes to the synagogue in a Sabbath mantle and a Mitron, and
 
-when the cantor gets up to Tahanun,[52] the groom exits and sits there in the synagogue
+when the cantor gets up to Tahanun,[^52] the groom exits and sits there in the synagogue
 
 courtyard until the cantor and the congregation have completed the Tahanun, and just
 
 as the cantor begins the Kaddish, he returns and comes in to the synagogue. In
 
-Freileift[53] where the marriage [ceremony] is on Sabbath, then on the Wednesday and
+Freileift[^53] where the marriage [ceremony] is on Sabbath, then on the Wednesday and
 
 Thursday before the marriage [ceremony], the groom exits the synagogue during
 
@@ -922,7 +922,7 @@ groom sits with his guests. And if possible, the groom should be facing the brid
 
 women sit in a different room, not in the same room where the groom sits. The groom
 
-sits in a Mitron and a mantle for Sabbath until shortly after HaMozi,[54] and then, if he
+sits in a Mitron and a mantle for Sabbath until shortly after HaMozi,[^54] and then, if he
 
 should wish to remove the Mitron and place a hat on his head, it is his prerogative, until
 
@@ -952,11 +952,11 @@ until the Grace After Meals, and then he re-dons the Mitron.
 
 And the groom and the bride wear the gifts every single day until the Saturday night of
 
-the Schenk Wein.[55]
+the Schenk Wein.[^55]
 
 The groom wears the Mitron and they recite the Grace After Meals—they sing Nodeh
 
-LeShimkha[56] and afterwards Grace After Meals. And they do not seat the bride at the
+LeShimkha[^56] and afterwards Grace After Meals. And they do not seat the bride at the
 
 table during Grace After Meals and Nodeh LeShimkha.
 
@@ -966,7 +966,7 @@ the bride and young women are already there, because they came there before Grac
 
 After Meals. And nearly all those summoned walk with the groom, and they sing
 
-Yigdal[57] as they walk, and the servir[58] goes before them with torches, and they dance
+Yigdal[^57] as they walk, and the servir[^58] goes before them with torches, and they dance
 
 and rejoice there for some time. And afterwards, they bring the bride to the groom, and
 
@@ -978,7 +978,7 @@ afterwards, they go peacefully to their homes.
 
 On Wednesday, which is the day of the Huppah, in the morning, before the sexton
 
-sounds[59] [the call] to synagogue, he opens the Braut Haus, and he opens a small
+sounds[^59] [the call] to synagogue, he opens the Braut Haus, and he opens a small
 
 entrance of the synagogue which is called: the Groom’s Entrance. And the sexton calls in
 
@@ -1044,13 +1044,13 @@ groom and the bride to bring this wheat themselves in a small bowl.
 
 They seat the groom at the front of the synagogue, in the place designated for all grooms
 
-to sit during the Mayen, and they place a Ständer[60] before him, and they light twelve
+to sit during the Mayen, and they place a Ständer[^60] before him, and they light twelve
 
 wax candles on that same Ständer which is before him. Relatives of the groom and bride
 
 come zu der Mayen in mantles for Sabbath. The groom sits in his place and does not
 
-stand even when they say Kaddish and Barukhu[61] and does not pray at all. And when
+stand even when they say Kaddish and Barukhu[^61] and does not pray at all. And when
 
 the cantor reaches Kedushah, the groom stands and wraps himself in a prayer shawl, but
 
@@ -1062,13 +1062,13 @@ that he sits in the groom’s place and twelve candles are lit for him, but he i
 
 pray and to put on phylacteries like all other people.
 
-And they do not say Tehinah[62] nor LaMenazeah,[63] and if it is a Monday or Thursday,
+And they do not say Tehinah[^62] nor LaMenazeah,[^63] and if it is a Monday or Thursday,
 
-they say El Erekh Apayim[64] in a pleasant tune. And it is a requirement to call the groom
+they say El Erekh Apayim[^64] in a pleasant tune. And it is a requirement to call the groom
 
-to the Torah Scroll. [If] a wedding [is] on a public fast day, they say selihot[65] as well as
+to the Torah Scroll. [If] a wedding [is] on a public fast day, they say selihot[^65] as well as
 
-Viddui,[66] Tehinot but not LaMenazeah.
+Viddui,[^66] Tehinot but not LaMenazeah.
 
 It is customary for the groom and bride, whether they are young man and young woman
 
@@ -1082,7 +1082,7 @@ and they lead the bride to the festivity, and the young men go to the festivity 
 
 the groom, if he wishes to go with them, may do so. And if he wishes, he may go to his
 
-Lieferung,[67] even if his father is there.
+Lieferung,[^67] even if his father is there.
 
 The fathers of the groom and the bride summon, via the sexton, those who wish to come
 
@@ -1092,7 +1092,7 @@ abridge that meal and hurry with the Lieferung. The father of the groom lays out
 
 groom’s dowry first, and afterwards the father of the bride. And since there is no
 
-Ketubbah[68] over which the parties do not quarrel, they are, for that reason, in the
+Ketubbah[^68] over which the parties do not quarrel, they are, for that reason, in the
 
 presence of the rabbi, and the rabbi and the wedding attendants who are there mediate
 
@@ -1102,11 +1102,11 @@ a seal, and they give it to a trustee who is reliable and acceptable to the groo
 
 generally leave it in the possession of the rabbi.
 
-And afterwards, the sexton calls: “die Kalle flechten gehen,”[69] and then the Rabbanit,
+And afterwards, the sexton calls: “die Kalle flechten gehen,”[^69] and then the Rabbanit,
 
 the wife of the rabbi, comes first to the home of the bride and commences with this
 
-mitzvah[70] to braid her [hair]. And thus is the custom. All of the women come in
+mitzvah[^70] to braid her [hair]. And thus is the custom. All of the women come in
 
 mantles, the relatives in a mantle for Sabbath and the others in a mantle for weekdays,
 
@@ -1124,7 +1124,7 @@ braiding. At that braiding, the women also sing songs in honor of groom and brid
 
 And afterwards, the sexton calls for two escorts, servants of Dahlburger. And the sexton
 
-calls from the upper gate to the lower one in these words: “zu der Broche.”[71] And then
+calls from the upper gate to the lower one in these words: “zu der Broche.”[^71] And then
 
 the rabbi comes opposite the entrance to the groom’s home, and the entire community is
 
@@ -1146,7 +1146,7 @@ the Braut Haus.
 
 And the rabbi takes hold of the bride by her clothing [and leads her] to the place
 
-designated for Kiddushin[72] and stands the groom next to her, the bride on the right and
+designated for Kiddushin[^72] and stands the groom next to her, the bride on the right and
 
 the groom to her left, their faces to the south and their backs to the north. And the
 
@@ -1158,7 +1158,7 @@ festive clothing. And during the Kiddushin, the two women stand adjacent to the 
 
 and the bride, and all of the women stand close to them as well, at the Braut Haus.
 
-During the Kiddushin, they take up the Zipfel[73] from the Mitron which is on the
+During the Kiddushin, they take up the Zipfel[^73] from the Mitron which is on the
 
 groom’s head and place it on the bride’s head. And if the bride is not ritually pure, they
 
@@ -1172,7 +1172,7 @@ prayer shawl to the Head of the Rabbinical Court who officiates at the Kiddushin
 
 rabbi dons it, and afterwards, the sexton gives him one flask, and the rabbi recites upon
 
-it the blessing Borei Pri HaGafen[74] and the Erusin[75] blessing, and the one who blesses
+it the blessing Borei Pri HaGafen[^74] and the Erusin[^75] blessing, and the one who blesses
 
 faces east. The sexton takes the flask from the rabbi and gives the groom to drink from
 
@@ -1190,7 +1190,7 @@ the Kiddushin witnesses and the Ketubbah and document witnesses are distinct,
 
 because the Ketubbah and document witnesses are two young men. The rabbi says to
 
-the Kiddushin witnesses: “See whether this Kiddushin ring is worth a perutah,”[76] and if
+the Kiddushin witnesses: “See whether this Kiddushin ring is worth a perutah,”[^76] and if
 
 they said: “Yes [it is],” then the rabbi says to them: “Observe the Kiddushin.” And then
 
@@ -1218,17 +1218,17 @@ the custom. The rabbi takes off the prayer shawl and gives it to him, and he wra
 
 himself [in it] and recites upon the second flask the blessing Borei Pri HaGafen and
 
-commences with the Seven [Wedding] Blessings, until the end of Sameah TiSamah,[77]
+commences with the Seven [Wedding] Blessings, until the end of Sameah TiSamah,[^77]
 
-and concludes: “Hatan VeKallah.”[78] And following him, they do not give the groom and
+and concludes: “Hatan VeKallah.”[^78] And following him, they do not give the groom and
 
 bride to drink from the [cup of] blessing. And he takes off the prayer shawl and gives [it]
 
 to the father of the bride or to her relative, and he recites the continuation and begins at
 
-the place where the first one broke off, which is at the blessing Asher Bara Sasson etc.,[79]
+the place where the first one broke off, which is at the blessing Asher Bara Sasson etc.,[^79]
 
-through the end of the Seven Blessings, and concludes: “Hatan Im HaKallah.”[80] And
+through the end of the Seven Blessings, and concludes: “Hatan Im HaKallah.”[^80] And
 
 then the sexton gives the groom to drink from the [cup of] blessing, and the woman
 
@@ -1268,7 +1268,7 @@ groom first, and afterwards, the bride.
 
 And they sit at a table, and one who wishes to sit at that table as well takes a seat. And
 
-they bring a whole loaf, the groom recites the HaMozi[81] blessing and gives the bride a
+they bring a whole loaf, the groom recites the HaMozi[^81] blessing and gives the bride a
 
 piece and [pieces to] all those seated, and they bring wine, and they recite Borei Pri
 
@@ -1308,9 +1308,9 @@ roast, and the groom expounds. And they do not seat the bride at the groom’s t
 
 during the discourse. And the fathers of the groom and the bride come, and they honor
 
-the groom with a gift, and they call that gift: Drosh Vingerlin.[82] And after the discourse,
+the groom with a gift, and they call that gift: Drosh Vingerlin.[^82] And after the discourse,
 
-those seated negotiate with the groom over the Naut Wein.[83] During Grace After Meals
+those seated negotiate with the groom over the Naut Wein.[^83] During Grace After Meals
 
 at that feast, they seat the bride opposite the groom and two young women at her two
 
@@ -1350,7 +1350,7 @@ everyone goes peacefully to his home.
 
 On Thursday night, the night after the Huppah, they feast and make merry, and that is
 
-the one called: Krovim Mahl.[84] And they summon relatives, and neighbors, and servir,
+the one called: Krovim Mahl.[^84] And they summon relatives, and neighbors, and servir,
 
 and no more.
 
@@ -1384,7 +1384,7 @@ the day of her death, she is not permitted to uncover her hair before mankind. W
 
 they take out the Torah Scroll, the women go with the bride to her home and put a
 
-special scarf, mit geflindert an der Stirn,[85] on her head. And they lead her a second time
+special scarf, mit geflindert an der Stirn,[^85] on her head. And they lead her a second time
 
 to the synagogue, before they bring the Torah Scroll into the sanctuary. And the mother
 
@@ -1404,7 +1404,7 @@ For the Third Meal, after Minhah, they feast and make merry. And it is customary
 
 the relatives, and the neighbors, and the servir, and anyone whom they wish.
 
-And on that night, which is the night of Moza’ai Shabbat,[86] the groom performs the
+And on that night, which is the night of Moza’ai Shabbat,[^86] the groom performs the
 
 commanded sexual intercourse, and separates.
 
@@ -1414,7 +1414,7 @@ makes a meal, and summons his relatives, and his in-laws, and anyone whom he wis
 
 and it is verification that [the bride] was a virgin, like [going about with] her head
 
-uncovered. And they call this meal: Fisch Mahl.[87]
+uncovered. And they call this meal: Fisch Mahl.[^87]
 
 235
 
