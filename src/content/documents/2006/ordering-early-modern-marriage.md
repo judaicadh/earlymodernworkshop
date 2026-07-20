@@ -1426,27 +1426,27 @@ for the Erusin blessing, and he breaks it on the ground.
 
 **Endnotes**
 
-1Literally, “place the fine.”
+[^1]: Literally, “place the fine.”
 
-2Literally, “the fine.”
+[^2]: Literally, “the fine.”
 
-3“Good luck,” or “Congratulations.”
+[^3]: “Good luck,” or “Congratulations.”
 
-4A type of pasty.
+[^4]: A type of pasty.
 
-5“Betrothal Meal,” or “Meal of the Fine.”
+[^5]: “Betrothal Meal,” or “Meal of the Fine.”
 
-6*Bahurim*, henceforth “young men,” refers to individuals who are unmarried or perhaps
+[^6] *Bahurim*, henceforth “young men,” refers to individuals who are unmarried or perhaps
 
 recently married.
 
-7The shamash.
+[^7] The shamash.
 
-8 The thirty-sixth day of the post-Passover *Omer* counting.
+[^8] The thirty-sixth day of the post-Passover *Omer* counting.
 
-9 He gives them an amount of wine – a quarter, a well known quantity during the period.
+[^9] He gives them an amount of wine – a quarter, a well known quantity during the period.
 
-10 The cemetery.
+[^10] The cemetery.
 
 11 A simple head covering (that was worn particularly by women in mourning).
 
