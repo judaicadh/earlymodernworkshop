@@ -492,37 +492,6 @@ original_language_body: >-
   כל חתן בשענ"ק וויין ככל חתן, כדלעיל בסימן רל"ד.  
 
 
-  Selected Bibliography
-
-
-  Abraham Epstein, “Die Wormser Minhagbücher”, *Gedenkbuch zur Erinnerung an
-  David Kaufman*, Breslau 1900, 288-317
-
-
-  Steven Ozment, *When Fathers Ruled. Family Life in Reformation Europe*,
-  (Cambridge 1985).
-
-
-  Lyndal Roper, “Going to Church and Street. Weddings in Reformation Augsburg”,
-  *Past and Present* 106, (1985), 62-101.
-
-
-  Eadem, *The Holy Household: Women and Morals in Reformation Augsburg*.
-  (Oxford, 1989).
-
-
-  שלמה איידלברג, "ר' יפתח יוסף יוזפא הלוי מנצפך מוורמיישא. שמש, נאמן הקהל ורושם
-  רשומות", PAAJR 51 (1984), 22-1.
-
-
-  אברהם מאיר הברמן, "מנהגי הקהילה בוורמייזא מתוך ספר המנהגים של ר' יוזפא שמש",
-  סיני עט (תשל"ו), רמז-רסח.
-
-
-  יצחק זימר, "מנהגי נישואין בוורמייזא. מתוך ספר המנהגים של ר' יוזפא שמש", סיני
-  פו, (תש"ם), יד-נד.
-
-
   ---
 
 
@@ -550,7 +519,7 @@ original_language_body: >-
   8 לפי rock, שמלה, באשכנז, רעקלא כינוי לתכריכי אשה.
 
 
-  9 נגני כינור שמרקידים את הקהל.
+  [9] נגני כינור שמרקידים את הקהל.
 
 
   10 Braut haus, בית הכלה, בית החתנות.
@@ -587,13 +556,21 @@ original_language_body: >-
 ---
 ## Introduction
 
-Abraham Epstein, “Die Wormser Minhagbücher”, Gedenkbuch zur Erinnerung an David Kaufman, Breslau 1900, 288-317 
+Selected Bibliography
 
-Steven Ozment, When Fathers Ruled. Family Life in Reformation Europe, (Cambridge 1985). Lyndal Roper, “Going to Church and Street. Weddings in Reformation Augsburg”, Past and Present 106, (1985), 62-101. 
+Abraham Epstein, “Die Wormser Minhagbücher”, *Gedenkbuch zur Erinnerung an David Kaufman*, Breslau 1900, 288-317
 
-Eadem, The Holy Household: Women and Morals in Reformation Augsburg. (Oxford, 1989).
+Steven Ozment, *When Fathers Ruled. Family Life in Reformation Europe*, (Cambridge 1985).
 
+Lyndal Roper, “Going to Church and Street. Weddings in Reformation Augsburg”, *Past and Present* 106, (1985), 62-101.
 
+Eadem, *The Holy Household: Women and Morals in Reformation Augsburg*. (Oxford, 1989).
+
+שלמה איידלברג, "ר' יפתח יוסף יוזפא הלוי מנצפך מוורמיישא. שמש, נאמן הקהל ורושם רשומות", PAAJR 51 (1984), 22-1.
+
+אברהם מאיר הברמן, "מנהגי הקהילה בוורמייזא מתוך ספר המנהגים של ר' יוזפא שמש", סיני עט (תשל"ו), רמז-רסח.
+
+יצחק זימר, "מנהגי נישואין בוורמייזא. מתוך ספר המנהגים של ר' יוזפא שמש", סיני פו, (תש"ם), יד-נד.
 
 ## Source 1 Translation
 
@@ -795,7 +772,9 @@ And before he descends from the podium, he re-dons the Mitron in its usual way a
 
 returns to his place in the synagogue. And immediately after the Kedushah,[40] the
 
-groom exits the synagogue, and in his honor, the young men walk behind him to his home. And they say ZU”Z.[41]
+groom exits the synagogue, and in his honor, the young men walk behind him to his home. 
+
+And they say ZU”Z.[41]
 
 Immediately upon departure from the synagogue, after Minhah, the sexton calls those
 
@@ -863,7 +842,9 @@ her, around the table, and there is nothing on the table but a lovely cloth, spr
 
 honor. And the father of the groom brings the gifts to the Head of the Rabbinical Court,
 
-and the sexton summons to the [giving of the] gifts, from the Zettel, those whom the fathers of the groom and the bride wish. And all those summoned, they too come to the
+and the sexton summons to the [giving of the] gifts, from the Zettel, those whom the fathers of the groom and 
+
+the bride wish. And all those summoned, they too come to the
 
 home of the Head of the Rabbinical Court. And the rabbi emerges from his home with
 
@@ -939,7 +920,9 @@ sits in a Mitron and a mantle for Sabbath until shortly after HaMozi,[54] and th
 
 should wish to remove the Mitron and place a hat on his head, it is his prerogative, until
 
-before they bring him gifts from the bride, as will henceforth [be described], then he re-dons the Mitron. And he is not allowed to eat or to drink until after he receives the
+before they bring him gifts from the bride, as will henceforth [be described], then he re-dons the Mitron. 
+
+And he is not allowed to eat or to drink until after he receives the
 
 gifts that the bride sent him.
 
@@ -1009,7 +992,9 @@ groom’s household, walk before them with torches in their hands. And they ligh
 
 torches even on summer days, because they are not lit solely to illuminate, rather, the
 
-main purpose is to bring joy to the groom and bride. And they walk [until] they come to the Braut Haus. And the groom sits on a special platform for seating the groom and
+main purpose is to bring joy to the groom and bride. And they walk [until] they come to the Braut Haus. 
+
+And the groom sits on a special platform for seating the groom and
 
 bride, and the rabbi and the community stand there.
 
