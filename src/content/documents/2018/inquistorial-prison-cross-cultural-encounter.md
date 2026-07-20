@@ -31,8 +31,474 @@ footnotes:
   - {}
 bibliography:
   - {}
+original_language_body: >-
+  ## Source 1 Translation
+
+
+  **Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.*
+  Ed. B.**  
+
+  **Teensma, *Studia Rosenthaliana* vol. x 1976. pp.1-36.**
+
+
+  I.  
+
+  e assy asistía aly Enbaxador espanhol, e vendo-me este veyo a ssaber que eu
+  era  
+
+  Portuguêz, e que emtrava nas cerchas, e que não hia à misa à sua caza com[o]
+  hião  
+
+  os mays Portuguezes e Espanhóis que aly estavão, dos quais eu sempre me  
+
+  afastava. Sabendo-o como digo me emcontrou em Palácio em companhia do  
+
+  fidalgo meo amigo, e tomándo- me de parte me dixe por que couza, sendo  
+
+  Portuguêz, não hia à misa.  
+
+  Eu lhe respondi: que Sua Exelência tivese conta com seus criados e não
+  commigo.  
+
+  (8)
+
+
+  II.  
+
+  Vendo o Bispo esta temeridade se demudou de coor, e se não soube rezolver  
+
+  mais que mandar esconder de mim, a chamar ao Juis de Fora e Coregedor, e em  
+
+  meyo tempo entreter-me com palavras. Os quais em continente vierão e me  
+
+  levarão à cadea pú[b]lica, onde me meterão em huma câmara só. Meu pay se  
+
+  recolheo logo em caza muy triste, e fechou portas e janelas como afrontado, e
+  sem  
+
+  querer que de sua caza me viese cama nem comer ou couza alguma, finalmente
+  que  
+
+  o nessesário me vinha de caza de minha avó.
+
+
+  Ao cabo de 8 d[ias], por me não ter o Bispo seguro, me mandou // à Ylha
+  Terseira, até que ouvese embarcasão para Lixboa. Quando me embarcavão  
+
+  despov[o]ou-se a ylha por me verem chegar à Terc[eir]a, onde me meterão em
+  hum  
+
+  calaboso, no aljube, donde estive 2 mezes, sem falar ninguém commigo,
+  padesendo  
+
+  muy tos traba- lhos de mao tratamento da caza. Ao cabo delles me embarcarão
+  em  
+
+  huma carabela ara Lixboa, e botarão-me hums grillos, os quais botando-mos pus
+  os  
+
+  olhos no séu diante de todas as justisas q[ue] hião commigo, e dixe com
+  muytas  
+
+  lágrimas: “S[enho]r, não hé por ladrão nem por maofeitor, hé por buscar o
+  caminho  
+
+  de miña Salvasão" (8-9).
+
+
+  Quando cheguey a Lixboa levarão-me logo à Ynquisisão, e meterão me em huma  
+
+  triste cova, e ao outro dia me levarão à Meza onde estavão todos os
+  persiguido- res  
+
+  tiranos Ynquizidores, e preguntarão-me que[m] era, como custumão, e como me  
+
+  chamava, y por que vinha prezo. Eu lhes respondy que me chamava Manoel  
+
+  Cardozo de Macedo; „Venho prezo, ao que cuido, por Calvino" // (9).
+
+
+  III.  
+
+  . . . e com isto me tornarão a mandar à prisão, na qual estive 5 m[eses] sem
+  me  
+
+  falarem mais, nem me quererem dar cama nem carniza que vestir, y assi durmia
+  em  
+
+  huma peq[ue]na de palha, pasando frios e fome quantas el Dio sabe, cheo de
+  toda  
+
+  ymundíxia, que já a cabo de tempo não podia piar, e assi ganhey frialdade em  
+
+  huma perna, da qual nunca serey s[enho]r, // porque a caza donde estava,
+  sendo  
+
+  verão, manavão as paredes água (11).
+
+
+  Vendo-me acabado y entendendo que todas estas avezasoims erão para me  
+
+  abrandar, pedy Meza ao Alcalde, o qual me levou, y falando o cruel
+  Presidente  
+
+  Manoel Álvares Tavares me dixe: „Que quereis?". Digo: ,,S[enho]r, venho a
+  ssaber  
+
+  de Vosas Señorías se determinão de me matar naquela caza, porque sendo assy  
+
+  terey pasênsia; por-me-ey bem com D[eu]s. E se me guardão para me queimar,  
+
+  dêm-me outra caza milhor e meo fato, e vivirey até chegar a esse estado".  
+
+  Respondeo : „Tendes mais do que mereseis. Não há outra caza milhor. Chamay  
+
+  pello diabo que fala em vós, e vede se vos val, ou votay-o de vós, e
+  valer-vos-á a  
+
+  mizericórdia desta Meza. E assy: levai-o, Alcaide, que se ou vera outro peor,
+  se  
+
+  vos dera, e não milhor" (12).
+
+
+  *Capitulo 3*  
+
+  Tomou-me à prizão aonde estive athé o outro dia, e tornarão-me a levar à
+  Meza  
+
+  chea de bíboras, e me dixe o Presidente [d] ellas : „Nós havemos considrado
+  não  
+
+  em vossas obras, senão em cujo filho sois e em vosa gerasão, e juntamente uzar
+  da  
+
+  mizericórdia que custumamos dar a todos, e assy vos queremos tirar donde
+  estais, e  
+
+  dar-vos vosso fatto, e por-vos em comp[anhi]a de hum homem onrado desta  
+
+  cidade. Velho hé, assy o obedesereys como a esse, y alimpando-o e fazendo-lhe
+  o  
+
+  nessesário por servidor, podrá ser que ahy vos tocará o Espírito S[an]to, para
+  que  
+
+  vos con- vertais ao leyte da Ygreja que mamasteis." Dei-lhe eu os
+  agradesimentos,  
+
+  e leváron- me à comp[ani]a de hum Henrique Dias Milão, que estava prezo por  
+
+  Judeo negativo. Aly me derão meo fatto com que me alimpey da ymundisia que  
+
+  trazia. Fiquey muy contente com a comp[anhi]a por ser boa, e conhesendo a
+  meu  
+
+  pay ficou espantado de me ver (12).
+
+
+  IV.  
+
+  Passados que forão 6 d[ias] chamarão à Meza ao Henrique Dias, e lhe derão o  
+
+  libelo de suas culpas, no qual lhe manifestavão como era Judeo, que guardava
+  o  
+
+  Sabat, e que não comia as couzas proibidas // na Ley, e outras
+  particularidades que  
+
+  custumão a dar. O desgrasiado homem veyo muy agastado, dizendo que tudo erão  
+
+  falsos testemunhos que lhe punhão, porque elle nunca havia sido Judeo, e tomou
+  o  
+
+  libelo e votou-o sobre a cama. Eu tomei-o e lendo-o lhe dixe se havia jente
+  que  
+
+  guardasse aquela religão, porque tudo o que aly estava concordava com a  
+
+  Escritura, y se o Sabat não era domingo, que era o séptimo dia em que D[eu]s  
+
+  repouzou.  
+
+  Respondeu-me o bom velho: „Filho, não sey nada. Sey que estou prezo  
+
+  injustamente, e deixai-me."  
+
+  Não querendo afligi-lo mais me pus a pasear pella caza, considerando
+  naquelle  
+
+  papel, e como em semelhante caza estão os pensamentos mais delgados que em  
+
+  outra parte, me veyo à memória huma proposisão de São Jerónimo que havia
+  lido  
+
+  sobre o Sab (p.12)
+
+
+  . . . . .
+
+
+  Eu, vendo na ymaginasão ysto e outras couzas que me ocorião, como era na  
+
+  Trinidade, me vi tão persegido de pensamentos que me levantey às duas oras  
+
+  depois da meya noute sem poder durmir, e me pus em pé na cama, e pus os olho
+  no  
+
+  ceo por huma fresta, e dixe: „S[enho]r, acude-me, que me veijo perdido de
+  m[inh]a  
+
+  Salvasão". He deitando-me amanhesi sem hum modo de religão, borando todas as  
+
+  Escrituras e não creher nada delias, e ter tudo por fábula. Finalmente fiquey
+  libertino formado (12-13)
+
+
+  V.  
+
+  Cap[ítulo ] 4.  
+
+  Recolhi-me à prisão, e sahy no Auto que se fez em 5 de Abril de 1609 com  
+
+  sanbenito. Nelle me leerão a sentensa, e logo ao outro dia me mandarão às
+  Escolas  
+
+  Gerais como hé costume, e nunca aquietando com o juizo me chegava a algumas  
+
+  pessoas que me paresião, y lhes preguntava: „Porquê vos prenderão?", e
+  dizendo-  
+
+  me que por Judeu lhe tornava a preguntar se o avia sido. Se me dezia que sy.
+  Tirá-  
+
+  lla delle couza era, y dizendo-mo tomava dahy o que me paresia. Ao cabo de 2  
+
+  m[eses] sahy das Escolas, e fuy pouzar com os filhos de Henryque Diaz Milão,  
+
+  meo comp[anheir]o, o qual padeseo no mesmo Auto, q[ue] vingados sejão seus  
+
+  osos como os demais. (13)
+
+
+  Fuy com presuposto de guardar o Sabat e yr pouco a pouco tomando nottísia da  
+
+  Ley de Mosseh, porque me pareseu ser a verdadeira, da qual de antes não
+  havia  
+
+  tido nottísia, por cuidar que os Judeos adoravão huma toura, como em caza de
+  meo  
+
+  pay se dezia. Fui recolhendo della // o mais que podia com todo o secretto
+  do  
+
+  mundo, entendendo q[ue] era Judeo e que ninguém o sabia nem entendia de nem  
+
+  entendia de mim. Ao que me pareseo fuy tomando afeisão à gente da Nasão, e  
+
+  pasar-me a seus trabalhos como propios (13).
+
+
+  VI.  
+
+  Ao outro dia me levarão à Meza, e foi meu livramento o milhor que pude, não  
+
+  falando nunca nos que não tomarão, mas antes livrando as pesoas que comigo  
+
+  prenderão. O qual fiz de maneira, que a cabo de 32 d[ia]s os soltarão, e a mim
+  me  
+
+  deixarão dentro, e por se23 vingaren em não poder24 condenar a ninguém, que  
+
+  elles não deixavão de entender a verdade, mas não podião mal fazer, porque
+  em  
+
+  minha boca estava tudo, tiverão-me preso thé outro Auto, sem poderem nunca
+  tirar  
+
+  de mim huma só palavra, no qual sahi solto y livre.
+
+
+  No tempo que estive prezo me meterão em companhia de hum Judeo de Selonique,  
+
+  o qual prenderão por entrar no reino sem sinal, chamado Joseph Bar Jahacob.
+  Pusme por vezes em disputa mais por tirar delle que por outra couza, e foi de
+  maneira  
+
+  que, // sem ninguém o entender, que sahi de sua comp[anhi]a feito mestre dos  
+
+  Judeos daquelas partes.
+
+
+  Sahido que fuy, me fuy pouzar em caza de hum Manoel Rodrigues Pinheiro,  
+
+  natural de Celorico, viuvo com 3 filhas donzelas, todos bons Judeos e tementes
+  del  
+
+  Dio. Aly estive em sua caza, com a onra devida, 10 m[eses], conhesendo e  
+
+  comunicando o que professava com m[ui]tos da Nasão, e a algums - louvores al  
+
+  Dio - ensinando, porque como diggo, sahy bom mestre da comp[anhi]a do bom  
+
+  Judeo que el Dio mandou aly para meu bem. (14)
+
+
+  VII  
+
+  Dahy a 13 d[ia]s, procurando aqueles S[enho]res // algúm remédio de m[inh]a  
+
+  vida, me mandarão a Danzique, a estar em comp[anhi]a de Mosseh Abensur, hum  
+
+  dos filhos de d[i]to Henrique Diaz Milão. Chegado eu lá me fes afeta de
+  amigo.  
+
+  A cabo de 3 m[eses] moreu-nos hum mulato em caza, e o cazo como guardo para  
+
+  my. Morto que foy - el Dio nos livre - se levantou o povo, dizendo que nós o  
+
+  havíamos morto p[ar]a lhe bebermos o sangue em sacrefísio na Páscoa que
+  vinha,  
+
+  isto era 5 d[ia]s antes de Quipur. (14-15)
+
+
+  Eu na prisão me meterão entre 5 ladroins // matadores, que as justisas que em
+  mim  
+
+  fizera, el Dio mas deconte em pago de meos pecados, e assy tomara hum mez
+  antes  
+
+  de Inquizisão q[ue] hum dia de tal prisão. Cada dia cu[i]dava q[ue] sahia a
+  padeser,  
+
+  e já não sentia a morte por estar muy emfadado da vida e cansado de trabalhos.
+  O  
+
+  q[ue] mais sentia era q[ue] se meo pay soubesse, q[ue] diria q[ue] eu fuy a
+  pagar o  
+
+  q[ue] fiz em me tirar dos caminhos q[ue] elle me ensinou. Isto me cansava y
+  me  
+
+  fazia pedir ao S[enho]r me livrase, o qual Elle fez como Pay de Mizeri- córdia
+  a  
+
+  cabo de 49 d[ia]s. (15)
+
+
+  considra[n]do mos dava para provar se estava fixo na Sua Ley, ou não.
+
+
+  VIII  
+
+  q[ue] tenho obrigasão contìnuamente de alabá-lo por me tirar de entre meos
+  irmãos  
+
+  e me dar lugar entre seu Povo, p[ar]a q[ue] venha a alcansar o q[ue] Elie diz
+  p[o]r  
+
+  boca do Propheta Isaya, cap[ítulo] 56, v[ers]os 6, 7, etc.: „У hijos de los
+  estranhos ,  
+
+  los ajuntados a A'donay' para servirlo y p[a]r[a] amar a nombre de A[donay]t
+  p'a'ra  
+
+  ser a Elle por siervos , todo guardando Sabat , de abiltarlo travantes en ту  
+
+  firmamento , traer-los-hé en monte de ту santidad , y alegrar-los-hé en caza
+  de ту  
+
+  orasión , у sus alsasiones y sacrifisios por voluntad sobre ту ara , que ту
+  caza caza  
+
+  de oración será llamada 33 ; dicho de A [donay] Dios a todos los pueblos
+  apanhan  
+
+  enpujados de Israel , aun apanharé a él a sus empujados " Que seja em nossos
+  dias  
+
+  (15).
+
+
+  IX  
+
+  *A desputa y controvérsia que teve aqui com hum Yngrês, ao qual comvenseo y*  
+
+  *reduziu à Verdade*
+
+
+  Andando na bolsa bem fora do q[ue] havia de emcontrar, encontrey com hum  
+
+  Yngrês natural de Topsham . . .  
+
+  Vendo-o entreconhesi-o e desviey-me delle; elle também me entreconheseo, e
+  foise chegando a mym, olhando-me sempre encaradamente no rostro. Eu q[ue] vy  
+
+  q[ue] tanto me seguia para huma parte e para outra, cada vez q[ue] andava me
+  fazia  
+
+  mais manco da perna q[ue] tenho da frialdade q[ue] receby em meos trabalhos.  
+
+  Elle comfuzo em me desconheser pello geito della, todavia se ratificou no
+  aspecto  
+
+  do rostro, e chegando-sse a myn me dixe em Ingrêz: “Conhese-me?” Eu lhe  
+
+  respondi em Framengo: “Não entendo”. Elle tomando mais o tom da falla q[ue]  
+
+  meo ditto, dixe: “Bem vos conheso, Manoel. Q[ue] tendes no pé?” Eu, vendo  
+
+  q[ue] estava em terra livre y que ymportava pouco o conheser-me, lhe dixe:
+  “O  
+
+  estado em q[ue] estou de povreza me fez desviar de vós, mas já q[ue] assy
+  hé,  
+
+  como estais e a que visteis aqui, Cr[is]tóvão?” (16). 
+
+
+  [^1]: My translations try to remain faithful to the original as presented by
+  Teensma and are also  
+
+  committed to offering a lucid text to the reader. They are at an early stage
+  and often come off as  
+
+  rather rough. Much more work is needed to render them smoothly into English
+  and I hope the  
+
+  discussion at the workshop will help me along that path.  
+
+  [^2]: In translating these passages I see new concepts emerge. The use of
+  “caza”/house to describe  
+
+  prison facilities, the term meza/table to describe the tribunal’s desk points
+  to the ways that these  
+
+  domestic terms which evoke warmth and comfort can be turned into signifiers of
+  harsh justice  
+
+  and punishment.  
+
+  [^3]: In Inquisitorial proceedings a suspect who consistently denies the
+  charges against them and  
+
+  proclaims their innocence is referred to as a “negativo”- some one who denies
+  the accusations.  
+
+  [^4]: Not sure if this is a non sequitur or if something is missing. Is he
+  invoking his father because of  
+
+  his virulent anti-Jewish sentiment?  
+
+  [^5]: See pp206-7 in Narratives 2016 especially foot note 357.  
+
+  [^6]: In the Vida Cardoso describes the severe beatings he received while in
+  prison in Danzig in the  
+
+  aftermath of an attack on his Jewish patrons the Díaz Milão family.
 ---
-### Inquisitorial Prison as a site of Cross-Cultural Encounter
+### Source 1 Introduction
 
 Prisons are often a site of cross-cultural encounter and religious illumination.
 People from different ethnic and socio-economic backgrounds meet each other and
@@ -46,20 +512,20 @@ walls. I will pay attention to other, non-incarceratory places of meeting as a w
 appreciating the continuities and disruptions between life inside and outside of the
 prison space.
 
-Manuel Cardoso de Macedo (1585–1652) was an Azorean Old Christian
-who found his way to Judaism after first embracing Calvinism as a teenager living
-in London and then discovering “the Law of Moses” in a cell he shared with an
-accused Judaizer in the prison of the Lisbon Holy Office. Cardoso eventually
-escapes Portugal along with members of a large converso family that he met in
-prison and he converts to Judaism in Hamburg taking the Hebrew name of
-Abraham Pelengrino Guer. He settles in Amsterdam where he lives within the
-Portuguese community until his death in 1653.[^1]
-																																																							 
-Cardoso’s religious odyssey begins in England. His father was in the dye
-and textile trade and conducted extensive business with England. He sent his
-teenage son, Manuel to England in 1599 to master the language and apprentice
-with some business associates presumably in preparation for a life in the family
-business. While in England he encountered the Bible in English translation. This,
+Manuel Cardoso de Macedo (1585–1652) was an Azorean Old Christian  
+who found his way to Judaism after first embracing Calvinism as a teenager living  
+in London and then discovering “the Law of Moses” in a cell he shared with an  
+accused Judaizer in the prison of the Lisbon Holy Office. Cardoso eventually  
+escapes Portugal along with members of a large converso family that he met in  
+prison and he converts to Judaism in Hamburg taking the Hebrew name of  
+Abraham Pelengrino Guer. He settles in Amsterdam where he lives within the  
+Portuguese community until his death in 1653.[^1]  
+																																														  
+Cardoso’s religious odyssey begins in England. His father was in the dye  
+and textile trade and conducted extensive business with England. He sent his  
+teenage son, Manuel to England in 1599 to master the language and apprentice  
+with some business associates presumably in preparation for a life in the family  
+business. While in England he encountered the Bible in English translation. This,  
 according to his telling in the *Vida* changed his life, setting off a series of
 independently inspired religious inquiries. He writes: “Scripture was the first thing
 that they placed in my hand after the ABC.”[^2]
@@ -75,68 +541,64 @@ for Hamburg where he formally converted, eventually settling in Amsterdam.
 Around the 1620s he composed his spiritual autobiography *La Vida del
 buenaventurado Abraham Pelengrino Guer.*
 
-The encounters with ethnic and religious others within the warped “third
-space” of the inquisitorial prison allow for much more than an exchange of new
-ideas or the forging of new friendships. These encounters allow for religious
-transformations and a radical shift in the subjects’ sense of self. The following
-texts include scenes where space informs the development of Cardoso’s self-presentation as developed in his autobiography. I have selected examples from
-both within his Inquisitorial experience and outside of it. I look forward to the
-discussion of what the spatial elements of these scenes of encounter and self-reflection add to our understanding of this early modern life.
-																																																																																																																																																																																		
-[^1]: Cardoso wrote a spiritual autobiography later in his life while he was living openly as a
-converted Jew in Amsterdam. The text was titled, “Vida do bemaventurado Abraham
-Pelengrino” and has survived in a beautifully copied manuscript from 1769 in the collection of
-the Ets Haim Library in Amsterdam (EH_49_A_15; http://etshaimmanuscripts.nl/eh_49_a_15/).
-Prof. Yosef Kaplan disentangled the identity of this Old Christian convert to Judaism from
-another convert with a similar Jewish name, Abraham Guer but with a different Christian name
-who lived at a slight remove from our Pelengrino. See his “Jewish Proselytes from Portugal in 17th Century Amsterdam – The Case of Lorenzo Esudero,” [Hebrew] *Proceedings of the World
-Congress of Jewish Studies* (1977): 87–101.
-Bernard Teensma published a transcription of the autobiography with a Dutch translation and
-very helpful biographical and linguistic annotations: “Manuel Cardozo de Macedo, ‘La *Vida* del
-buenaventurado Abraham Pelengrino,’ edited by B. Teensma,” *Studia Rosenthaliana* 10
-(1976):1–36. My citations are from this transcription and all translations are my own (hereafter,
-*Vida*). I also make occasional use of the records from Cardoso’s two inquisitorial trials found in
-the Torre de Tombo archive in Lisbon: *Processo de Manuel Cardoso*. Tribunal do Santo Ofício,
-Inquisição de Lisboa, Instituto dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-319 and PT-TT-TSO-IL-28-319-1. I have abbreviated these to: CM PT-TT for
-the first trial and CM PT-TT II for the second trial.
-Currently Dr. Alexander van der Haven at the Center for the Study of Conversion and Inter-Religious Encounters at Ben-Gurion University of the Negev is working on some very exciting
-research into the life of Cardoso de Macedo. I look forward to his forthcoming work.
-[^2]: “Consideray na Escritura, que foy a primeira couza que me meterão na mão depois de ABC”
-(*Vida*, 7).
+The encounters with ethnic and religious others within the warped “third  
+space” of the inquisitorial prison allow for much more than an exchange of new  
+ideas or the forging of new friendships. These encounters allow for religious  
+transformations and a radical shift in the subjects’ sense of self. The following  
+texts include scenes where space informs the development of Cardoso’s self-presentation as developed in his autobiography. I have selected examples from  
+both within his Inquisitorial experience and outside of it. I look forward to the  
+discussion of what the spatial elements of these scenes of encounter and self-reflection add to our understanding of this early modern life. 
 
-
-
-Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.* Ed. B.
+Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.* Ed. B.  
 Teensma, *Studia Rosenthaliana* vol. x 1976. pp.1-36.
 
-*Processo De Manuel Cardoso.* Tribunal do Santo Ofício, Inquisição de Lisboa, Instituto
-dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-
+*Processo De Manuel Cardoso.* Tribunal do Santo Ofício, Inquisição de Lisboa, Instituto  
+dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-  
 319 and PT-TT-TSO-IL-28-319-1.
 
-
-<ins>Related Secondary Sources:</ins>
-Alberro, Solange. *Inquisición y sociedad en México, 1571-1700*. México: Fondo de
+Related Secondary Sources:  
+Alberro, Solange. *Inquisición y sociedad en México, 1571-1700*. México: Fondo de  
 Cultura Económica, 1988.
 
-Bodian, Miriam. *Dying in the Law of Moses: Crypto-Jewish Martyrdom in the Iberian
-World.* Bloomington: Indiana University Press, 2007.
+Bodian, Miriam. *Dying in the Law of Moses: Crypto-Jewish Martyrdom in the Iberian*  
+*World.* Bloomington: Indiana University Press, 2007.
 
-Kagan, Richard L., and Abigail Dyer. *Inquisitorial Inquiries: Brief Lives of Secret Jews
-and Other Heretics.* Baltimore: Johns Hopkins University Press, 2004.
+Kagan, Richard L., and Abigail Dyer. *Inquisitorial Inquiries: Brief Lives of Secret Jews*  
+*and Other Heretics.* Baltimore: Johns Hopkins University Press, 2004.
 
-Lewin, Boleslao Gaspar de Alfar, Juan de León, and Francisco Botello. *Confidencias de
-dos criptojudíos en las cárceles del Santo Oficio, México, 1645-1646.* Buenos
+Lewin, Boleslao Gaspar de Alfar, Juan de León, and Francisco Botello. *Confidencias de*  
+*dos criptojudíos en las cárceles del Santo Oficio, México, 1645-1646.* Buenos  
 Aires: Talleres Gráficos, Julio Kaufman, 1975.
 
-Perelis, Ronnie. *Narratives	from	the	Sephardic	Atlantic:	Blood	and	Faith.*	
+Perelis, Ronnie. *Narratives	from	the	Sephardic	Atlantic:	Blood	and	Faith.*	  
 Bloomington:	Indiana	University	Press,	2016.
 
+[^1]: Cardoso wrote a spiritual autobiography later in his life while he was living openly as a  
+converted Jew in Amsterdam. The text was titled, “Vida do bemaventurado Abraham  
+Pelengrino” and has survived in a beautifully copied manuscript from 1769 in the collection of  
+the Ets Haim Library in Amsterdam (EH_49_A_15; [http://etshaimmanuscripts.nl/eh_49_a_15/](http://etshaimmanuscripts.nl/eh_49_a_15/)).  
+Prof. Yosef Kaplan disentangled the identity of this Old Christian convert to Judaism from  
+another convert with a similar Jewish name, Abraham Guer but with a different Christian name  
+who lived at a slight remove from our Pelengrino. See his “Jewish Proselytes from Portugal in 17th Century Amsterdam – The Case of Lorenzo Esudero,” [Hebrew] *Proceedings of the World*  
+*Congress of Jewish Studies* (1977): 87–101.  
+Bernard Teensma published a transcription of the autobiography with a Dutch translation and  
+very helpful biographical and linguistic annotations: “Manuel Cardozo de Macedo, ‘La *Vida* del  
+buenaventurado Abraham Pelengrino,’ edited by B. Teensma,” *Studia Rosenthaliana* 10  
+(1976):1–36. My citations are from this transcription and all translations are my own (hereafter,  
+*Vida*). I also make occasional use of the records from Cardoso’s two inquisitorial trials found in  
+the Torre de Tombo archive in Lisbon: *Processo de Manuel Cardoso*. Tribunal do Santo Ofício,  
+Inquisição de Lisboa, Instituto dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-319 and PT-TT-TSO-IL-28-319-1. I have abbreviated these to: CM PT-TT for  
+the first trial and CM PT-TT II for the second trial.  
+Currently Dr. Alexander van der Haven at the Center for the Study of Conversion and Inter-Religious Encounters at Ben-Gurion University of the Negev is working on some very exciting  
+research into the life of Cardoso de Macedo. I look forward to his forthcoming work.  
+[^2]: “Consideray na Escritura, que foy a primeira couza que me meterão na mão depois de ABC”  
+(*Vida*, 7).
 
+## Source 1 Translation
 
+**Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.* Ed. B.**
 
-### Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.* Ed. B.
 Teensma, Studia Rosenthaliana vol. x 1976. pp.1-36.
-
 
 I.
 *A Heretic at the Palace, a Free Man in London:
@@ -382,225 +844,17 @@ there, I met an Englishman, a native of Topham. . .
 
 *At first Cardoso tries to avoid his old friend:*
 
-Seeing him I vaguely recognized him and I diverted my path from his; he also
-vaguely recognized me, and he approached me, eyeing me [intently] as if putting
-his face into mine.
-I saw that he was following me from one part to another, and every time I walked
-my leg, which is weak from the sufferings I have received,[^6] would go more lame.
-He was confused to not recognizing because of the “geito della”, still he became
-sure from the appearance of my face, and approaching me he said to me in English:
-“Do you recognize me?” and I responded to him in Flemish: “I don’t understand”.
-Taking into acount more my tone of speaking [then the actual words] he said: “I
-know you well Manoel. What is with your foot?"
-I, seeing that I was in a free country and that it mattered little if I was recognized, I
-said to him: “The state of poverty that I find myself in makes me want to avoid
-you, now that this is how it is, how are you and what brings you here,
-Christopher?”
-																																																							 
-
-
-
-###Cardozo de Macedo, Manuel. *La vida del buenaventurado Abraham Pelengrino.* Ed. B.
-Teensma, *Studia Rosenthaliana* vol. x 1976. pp.1-36.
-
-
-I.
-e assy asistía aly Enbaxador espanhol, e vendo-me este veyo a ssaber que eu era
-Portuguêz, e que emtrava nas cerchas, e que não hia à misa à sua caza com[o] hião
-os mays Portuguezes e Espanhóis que aly estavão, dos quais eu sempre me
-afastava. Sabendo-o como digo me emcontrou em Palácio em companhia do
-fidalgo meo amigo, e tomándo- me de parte me dixe por que couza, sendo
-Portuguêz, não hia à misa.
-Eu lhe respondi: que Sua Exelência tivese conta com seus criados e não commigo.
-(8)
-
-II.
-Vendo o Bispo esta temeridade se demudou de coor, e se não soube rezolver
-mais que mandar esconder de mim, a chamar ao Juis de Fora e Coregedor, e em
-meyo tempo entreter-me com palavras. Os quais em continente vierão e me
-levarão à cadea pú[b]lica, onde me meterão em huma câmara só. Meu pay se
-recolheo logo em caza muy triste, e fechou portas e janelas como afrontado, e sem
-querer que de sua caza me viese cama nem comer ou couza alguma, finalmente que
-o nessesário me vinha de caza de minha avó.
-
-Ao cabo de 8 d[ias], por me não ter o Bispo seguro, me mandou // à Ylha Terseira, até que ouvese embarcasão para Lixboa. Quando me embarcavão
-despov[o]ou-se a ylha por me verem chegar à Terc[eir]a, onde me meterão em hum
-calaboso, no aljube, donde estive 2 mezes, sem falar ninguém commigo, padesendo
-muy tos traba- lhos de mao tratamento da caza. Ao cabo delles me embarcarão em
-huma carabela ara Lixboa, e botarão-me hums grillos, os quais botando-mos pus os
-olhos no séu diante de todas as justisas q[ue] hião commigo, e dixe com muytas
-lágrimas: “S[enho]r, não hé por ladrão nem por maofeitor, hé por buscar o caminho
-de miña Salvasão" (8-9).
-
-Quando cheguey a Lixboa levarão-me logo à Ynquisisão, e meterão me em huma
-triste cova, e ao outro dia me levarão à Meza onde estavão todos os persiguido- res
-tiranos Ynquizidores, e preguntarão-me que[m] era, como custumão, e como me
-chamava, y por que vinha prezo. Eu lhes respondy que me chamava Manoel
-Cardozo de Macedo; „Venho prezo, ao que cuido, por Calvino" // (9).
-
-III.
-. . . e com isto me tornarão a mandar à prisão, na qual estive 5 m[eses] sem me
-falarem mais, nem me quererem dar cama nem carniza que vestir, y assi durmia em
-huma peq[ue]na de palha, pasando frios e fome quantas el Dio sabe, cheo de toda
-ymundíxia, que já a cabo de tempo não podia piar, e assi ganhey frialdade em
-huma perna, da qual nunca serey s[enho]r, // porque a caza donde estava, sendo
-verão, manavão as paredes água (11).
-
-Vendo-me acabado y entendendo que todas estas avezasoims erão para me
-abrandar, pedy Meza ao Alcalde, o qual me levou, y falando o cruel Presidente
-Manoel Álvares Tavares me dixe: „Que quereis?". Digo: ,,S[enho]r, venho a ssaber
-de Vosas Señorías se determinão de me matar naquela caza, porque sendo assy
-terey pasênsia; por-me-ey bem com D[eu]s. E se me guardão para me queimar,
-dêm-me outra caza milhor e meo fato, e vivirey até chegar a esse estado".
-Respondeo : „Tendes mais do que mereseis. Não há outra caza milhor. Chamay
-pello diabo que fala em vós, e vede se vos val, ou votay-o de vós, e valer-vos-á a
-mizericórdia desta Meza. E assy: levai-o, Alcaide, que se ou vera outro peor, se
-vos dera, e não milhor" (12).
-
-*Capitulo 3*
-Tomou-me à prizão aonde estive athé o outro dia, e tornarão-me a levar à Meza
-chea de bíboras, e me dixe o Presidente [d] ellas : „Nós havemos considrado não
-em vossas obras, senão em cujo filho sois e em vosa gerasão, e juntamente uzar da
-mizericórdia que custumamos dar a todos, e assy vos queremos tirar donde estais, e
-dar-vos vosso fatto, e por-vos em comp[anhi]a de hum homem onrado desta
-cidade. Velho hé, assy o obedesereys como a esse, y alimpando-o e fazendo-lhe o
-nessesário por servidor, podrá ser que ahy vos tocará o Espírito S[an]to, para que
-vos con- vertais ao leyte da Ygreja que mamasteis." Dei-lhe eu os agradesimentos,
-e leváron- me à comp[ani]a de hum Henrique Dias Milão, que estava prezo por
-Judeo negativo. Aly me derão meo fatto com que me alimpey da ymundisia que
-trazia. Fiquey muy contente com a comp[anhi]a por ser boa, e conhesendo a meu
-pay ficou espantado de me ver (12).
-
-IV.
-Passados que forão 6 d[ias] chamarão à Meza ao Henrique Dias, e lhe derão o
-libelo de suas culpas, no qual lhe manifestavão como era Judeo, que guardava o
-Sabat, e que não comia as couzas proibidas // na Ley, e outras particularidades que
-custumão a dar. O desgrasiado homem veyo muy agastado, dizendo que tudo erão
-falsos testemunhos que lhe punhão, porque elle nunca havia sido Judeo, e tomou o
-libelo e votou-o sobre a cama. Eu tomei-o e lendo-o lhe dixe se havia jente que
-guardasse aquela religão, porque tudo o que aly estava concordava com a
-Escritura, y se o Sabat não era domingo, que era o séptimo dia em que D[eu]s
-repouzou.
-Respondeu-me o bom velho: „Filho, não sey nada. Sey que estou prezo
-injustamente, e deixai-me."
-Não querendo afligi-lo mais me pus a pasear pella caza, considerando naquelle
-papel, e como em semelhante caza estão os pensamentos mais delgados que em
-outra parte, me veyo à memória huma proposisão de São Jerónimo que havia lido
-sobre o Sab (p.12)
-
-. . . . .
-
-
-Eu, vendo na ymaginasão ysto e outras couzas que me ocorião, como era na
-Trinidade, me vi tão persegido de pensamentos que me levantey às duas oras
-depois da meya noute sem poder durmir, e me pus em pé na cama, e pus os olho no
-ceo por huma fresta, e dixe: „S[enho]r, acude-me, que me veijo perdido de m[inh]a
-Salvasão". He deitando-me amanhesi sem hum modo de religão, borando todas as
-Escrituras e não creher nada delias, e ter tudo por fábula. Finalmente fiquey libertino formado (12-13)
-
-V.
-Cap[ítulo ] 4.
-Recolhi-me à prisão, e sahy no Auto que se fez em 5 de Abril de 1609 com
-sanbenito. Nelle me leerão a sentensa, e logo ao outro dia me mandarão às Escolas
-Gerais como hé costume, e nunca aquietando com o juizo me chegava a algumas
-pessoas que me paresião, y lhes preguntava: „Porquê vos prenderão?", e dizendo-
-me que por Judeu lhe tornava a preguntar se o avia sido. Se me dezia que sy. Tirá-
-lla delle couza era, y dizendo-mo tomava dahy o que me paresia. Ao cabo de 2
-m[eses] sahy das Escolas, e fuy pouzar com os filhos de Henryque Diaz Milão,
-meo comp[anheir]o, o qual padeseo no mesmo Auto, q[ue] vingados sejão seus
-osos como os demais. (13)
-
-Fuy com presuposto de guardar o Sabat e yr pouco a pouco tomando nottísia da
-Ley de Mosseh, porque me pareseu ser a verdadeira, da qual de antes não havia
-tido nottísia, por cuidar que os Judeos adoravão huma toura, como em caza de meo
-pay se dezia. Fui recolhendo della // o mais que podia com todo o secretto do
-mundo, entendendo q[ue] era Judeo e que ninguém o sabia nem entendia de nem
-entendia de mim. Ao que me pareseo fuy tomando afeisão à gente da Nasão, e
-pasar-me a seus trabalhos como propios (13).
-
-VI.
-Ao outro dia me levarão à Meza, e foi meu livramento o milhor que pude, não
-falando nunca nos que não tomarão, mas antes livrando as pesoas que comigo
-prenderão. O qual fiz de maneira, que a cabo de 32 d[ia]s os soltarão, e a mim me
-deixarão dentro, e por se23 vingaren em não poder24 condenar a ninguém, que
-elles não deixavão de entender a verdade, mas não podião mal fazer, porque em
-minha boca estava tudo, tiverão-me preso thé outro Auto, sem poderem nunca tirar
-de mim huma só palavra, no qual sahi solto y livre.
-
-No tempo que estive prezo me meterão em companhia de hum Judeo de Selonique,
-o qual prenderão por entrar no reino sem sinal, chamado Joseph Bar Jahacob. Pusme por vezes em disputa mais por tirar delle que por outra couza, e foi de maneira
-que, // sem ninguém o entender, que sahi de sua comp[anhi]a feito mestre dos
-Judeos daquelas partes.
-
-Sahido que fuy, me fuy pouzar em caza de hum Manoel Rodrigues Pinheiro,
-natural de Celorico, viuvo com 3 filhas donzelas, todos bons Judeos e tementes del
-Dio. Aly estive em sua caza, com a onra devida, 10 m[eses], conhesendo e
-comunicando o que professava com m[ui]tos da Nasão, e a algums - louvores al
-Dio - ensinando, porque como diggo, sahy bom mestre da comp[anhi]a do bom
-Judeo que el Dio mandou aly para meu bem. (14)
-
-VII
-Dahy a 13 d[ia]s, procurando aqueles S[enho]res // algúm remédio de m[inh]a
-vida, me mandarão a Danzique, a estar em comp[anhi]a de Mosseh Abensur, hum
-dos filhos de d[i]to Henrique Diaz Milão. Chegado eu lá me fes afeta de amigo.
-A cabo de 3 m[eses] moreu-nos hum mulato em caza, e o cazo como guardo para
-my. Morto que foy - el Dio nos livre - se levantou o povo, dizendo que nós o
-havíamos morto p[ar]a lhe bebermos o sangue em sacrefísio na Páscoa que vinha,
-isto era 5 d[ia]s antes de Quipur. (14-15)
-
-Eu na prisão me meterão entre 5 ladroins // matadores, que as justisas que em mim
-fizera, el Dio mas deconte em pago de meos pecados, e assy tomara hum mez antes
-de Inquizisão q[ue] hum dia de tal prisão. Cada dia cu[i]dava q[ue] sahia a padeser,
-e já não sentia a morte por estar muy emfadado da vida e cansado de trabalhos. O
-q[ue] mais sentia era q[ue] se meo pay soubesse, q[ue] diria q[ue] eu fuy a pagar o
-q[ue] fiz em me tirar dos caminhos q[ue] elle me ensinou. Isto me cansava y me
-fazia pedir ao S[enho]r me livrase, o qual Elle fez como Pay de Mizeri- córdia a
-cabo de 49 d[ia]s. (15)
-
-considra[n]do mos dava para provar se estava fixo na Sua Ley, ou não.
-
-
-VIII
-q[ue] tenho obrigasão contìnuamente de alabá-lo por me tirar de entre meos irmãos
-e me dar lugar entre seu Povo, p[ar]a q[ue] venha a alcansar o q[ue] Elie diz p[o]r
-boca do Propheta Isaya, cap[ítulo] 56, v[ers]os 6, 7, etc.: „У hijos de los estranhos ,
-los ajuntados a A'donay' para servirlo y p[a]r[a] amar a nombre de A[donay]t p'a'ra
-ser a Elle por siervos , todo guardando Sabat , de abiltarlo travantes en ту
-firmamento , traer-los-hé en monte de ту santidad , y alegrar-los-hé en caza de ту
-orasión , у sus alsasiones y sacrifisios por voluntad sobre ту ara , que ту caza caza
-de oración será llamada 33 ; dicho de A [donay] Dios a todos los pueblos apanhan
-enpujados de Israel , aun apanharé a él a sus empujados " Que seja em nossos dias
-(15).
-
-IX
-*A desputa y controvérsia que teve aqui com hum Yngrês, ao qual comvenseo y
-reduziu à Verdade*
-
-Andando na bolsa bem fora do q[ue] havia de emcontrar, encontrey com hum
-Yngrês natural de Topsham . . .
-Vendo-o entreconhesi-o e desviey-me delle; elle também me entreconheseo, e foise chegando a mym, olhando-me sempre encaradamente no rostro. Eu q[ue] vy
-q[ue] tanto me seguia para huma parte e para outra, cada vez q[ue] andava me fazia
-mais manco da perna q[ue] tenho da frialdade q[ue] receby em meos trabalhos.
-Elle comfuzo em me desconheser pello geito della, todavia se ratificou no aspecto
-do rostro, e chegando-sse a myn me dixe em Ingrêz: “Conhese-me?” Eu lhe
-respondi em Framengo: “Não entendo”. Elle tomando mais o tom da falla q[ue]
-meo ditto, dixe: “Bem vos conheso, Manoel. Q[ue] tendes no pé?” Eu, vendo
-q[ue] estava em terra livre y que ymportava pouco o conheser-me, lhe dixe: “O
-estado em q[ue] estou de povreza me fez desviar de vós, mas já q[ue] assy hé,
-como estais e a que visteis aqui, Cr[is]tóvão?” (16). 
-
-[^1]: My translations try to remain faithful to the original as presented by Teensma and are also
-committed to offering a lucid text to the reader. They are at an early stage and often come off as
-rather rough. Much more work is needed to render them smoothly into English and I hope the
-discussion at the workshop will help me along that path.
-[^2]: In translating these passages I see new concepts emerge. The use of “caza”/house to describe
-prison facilities, the term meza/table to describe the tribunal’s desk points to the ways that these
-domestic terms which evoke warmth and comfort can be turned into signifiers of harsh justice
-and punishment.
-[^3]: In Inquisitorial proceedings a suspect who consistently denies the charges against them and
-proclaims their innocence is referred to as a “negativo”- some one who denies the accusations.
-[^4]: Not sure if this is a non sequitur or if something is missing. Is he invoking his father because of
-his virulent anti-Jewish sentiment?
-[^5]: See pp206-7 in Narratives 2016 especially foot note 357.
-[^6]: In the Vida Cardoso describes the severe beatings he received while in prison in Danzig in the
-aftermath of an attack on his Jewish patrons the Díaz Milão family.
+Seeing him I vaguely recognized him and I diverted my path from his; he also  
+vaguely recognized me, and he approached me, eyeing me [intently] as if putting  
+his face into mine.  
+I saw that he was following me from one part to another, and every time I walked  
+my leg, which is weak from the sufferings I have received,[^6] would go more lame.  
+He was confused to not recognizing because of the “geito della”, still he became  
+sure from the appearance of my face, and approaching me he said to me in English:  
+“Do you recognize me?” and I responded to him in Flemish: “I don’t understand”.  
+Taking into acount more my tone of speaking [then the actual words] he said: “I  
+know you well Manoel. What is with your foot?"  
+I, seeing that I was in a free country and that it mattered little if I was recognized, I  
+said to him: “The state of poverty that I find myself in makes me want to avoid  
+you, now that this is how it is, how are you and what brings you here,  
+Christopher?”																																										
