@@ -1,5 +1,6 @@
 ---
 author: Pawel Maciejko
+title: Descend 
 year: '2011'
 volume: 8
 slug: descend-abyss-jacob-frank
