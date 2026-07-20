@@ -498,7 +498,7 @@ original_language_body: >-
 
   aftermath of an attack on his Jewish patrons the Díaz Milão family.
 ---
-### Source 1 Introduction
+### Introduction
 
 Prisons are often a site of cross-cultural encounter and religious illumination.
 People from different ethnic and socio-economic backgrounds meet each other and
@@ -558,7 +558,6 @@ dos Arquivos Nacionais / Arquivo Nacional Torre do Tombo. PT-TT-TSO-IL-28-
 
 **Related Secondary Sources:**
 
-  
 Alberro, Solange. *Inquisición y sociedad en México, 1571-1700*. México: Fondo de  
 Cultura Económica, 1988.
 
