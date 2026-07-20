@@ -33,6 +33,13 @@ footnotes:
   - {}
 bibliography:
   - {}
+original_language_body: |-
+  ## Source 1 Original
+
+  כמבו"ל הי"ה באר"ץ לפ"ק  
+  המי"ם הי"ו ע"ל פנ"י האדמ"ה לפ"ק  
+  טב"ת לפ"ק  
+  דהיינו בשנת תי"א
 ---
 ### Introduction
 
@@ -60,7 +67,9 @@ source sheds light on an aspect of the experience of environment and the role of
 space in Jewish life, and together offer a portrait of the place of water as a zone of
 physical and cultural interaction.
 
-## Juspe Schammes, *Minhagim K”K Warmaisa*, eds. B.S. Hamburger and E. Zimmer, 2 vols.
+## Source 1 Translation
+
+**Juspe Schammes, Minhagim K”K Warmaisa, eds. B.S. Hamburger and E. Zimmer, 2 vols.**
 
 (Jerusalem, 1988) 2, Appendix 1.
 
@@ -107,16 +116,7 @@ normal level, in any event, the water that had reached the fields in some of the
 places remained for a long time until they receded, and it caused great delay to
 travelers, and this began in [5]411 in the month of Tevet, as was mentioned above.
 
-כמבו"ל הי"ה באר"ץ לפ"ק
 
-
-המי"ם הי"ו ע"ל פנ"י האדמ"ה לפ"ק
-
-
-טב"ת לפ"ק
-
-
-דהיינו בשנת תי"א
 
 בחודש טבת מיום א' כ"ב טבת תי"א, גברו המים מי רינו"ס והלכו תוך מקומינו וורמיישא, עד
 שברחובותינו בשער תחתון היו נכנסין בספינה, ומשם עבר הרוצה לעבור דרך שער ריין פפארט
