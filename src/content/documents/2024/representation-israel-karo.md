@@ -11,12 +11,13 @@ event:
     start: 2024-08-19
     end: 2024-08-20
 language:
-  - en
-  - he
+  - Hebrew
 tags:
   - Land of Israel
   - Joseph Karo
   - Shulhan Arukh
+publication_location:
+  - Safed
 description: This workshop presentation explores the representation of the Land
   of Israel in Joseph Karo’s *Shulhan ‘Arukh*.  It delves into Karo’s literary
   interventions, thematic patterns, and the Safedian context of his legal
