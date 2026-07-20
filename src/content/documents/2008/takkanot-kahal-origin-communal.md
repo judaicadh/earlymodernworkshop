@@ -44,8 +44,8 @@ original_language_body: >-
   [fol. 1 r]
 
 
-  ‫יען וביען כי העיד ה' את רוח אנשי קודש יושבי אילטפֿעלט וסביבות'[^1] וקבלו
-  [...][^2][/] עליהם לאב''ד
+  ‫יען וביען כי העיד ה' את רוח אנשי קודש יושבי אילטפֿעלט
+  וסביבות'[^1](‫וסבובותיה‬‎) וקבלו [...][^2][/] עליהם לאב''ד
 
 
   ולמורה צדק ולהורות להם הדרך אשר ילכו בה ואתה יועשהאשר [/]יעשו ובקשו ממני לעשות
@@ -57,7 +57,7 @@ original_language_body: >-
 
 
   הישר בעיניו יעשה[^3] כי רצונם ומגמתם לנהוג בדרכי ישרים ונכונים כשארי כשרים [/]
-  בישראל חו'[^4]
+  בישראל חו'[^4](‫חולי‬‎)
 
 
   במחנותם ולא יהיה לבעד פיתחון פה[^5] [...] בכן נענעתי להם את ראשי ומלאתי דבריהם
@@ -150,7 +150,7 @@ original_language_body: >-
 
 
   [fol. 2 r][^11] איסור [/] איז אביר לענגיר אלש ח' ימי' זול ער כל יום א' פץ קנס
-  חייב [/] זיין אונ' ווען ער שלשי'[^12]
+  חייב [/] זיין אונ' ווען ער שלשי'[^12](‫שלשים‬‎)
 
 
   ימי' אין איסור בליב אונ' ניט אכטט [/] אזו זול מן לאב''ד מודיע זיין דען ער ראוי
@@ -269,8 +269,8 @@ original_language_body: >-
   ער שון איש הגון איז אם לא
 
 
-  ברשות הפרנסי' פן ח''ו[^17] מעכט איין הכבדה דורך אים על הקהל שי'[^18] קומן בקנס
-  [/] א' ר''ט.
+  ברשות הפרנסי' פן ח''ו[^17] מעכט איין הכבדה דורך אים על הקהל שי'[^18](‫שיחיה‬‎)
+  קומן בקנס [/] א' ר''ט.
 
 
   אשר ענזלן הנ''ל
@@ -336,7 +336,7 @@ original_language_body: >-
 
 
   היום יום ד' ו' תמוז תמ''ג[^23] ל' הסכמנו יחד הקהל אילטועלד בהסכמתי [/] ובהסכמת
-  הפ'[^24] הר''ר
+  הפ'[^24](‫הפרנס‬‎) הר''ר
 
 
   שמעון טיספעק שכל מי שיעשה שום סרסרות [/] בכפר פה אילט ועלד יהיה הסרסרות החצי'
@@ -348,7 +348,7 @@ original_language_body: >-
 
 
   אשר ענזלן הנ''ל ואח''כ[^25] ביד הקהל לשנות הדבר כפי תואר העין ולפי [/] הזמן
-  וצורך עניני הקהל נ'[^26]
+  וצורך עניני הקהל נ'[^26](‫נאום‬‎)
 
 
   הוסכם[^27] במעמד הפרנסי' שכל מי שיעשה סרסרו' יגיד לגבאי או לקהל [/] קודם מוצא
@@ -502,16 +502,10 @@ original_language_body: >-
   [^11]: Thereafter the word ‫ניט‬‎ commencing the next page.
 
 
-  [^1]: ‫וסבובותיה‬‎
-
-
   [^2]: Missing text caused by damaged paper.
 
 
   [^3]: Deut. 12, 8.
-
-
-  [^4]: ‫חולי‬‎
 
 
   [^5]: According to Ez. 16, 63.
@@ -535,9 +529,6 @@ original_language_body: >-
   [^11]: Thereafter the word ‫ניט‬‎ commencing the next page.
 
 
-  [^12]: ‫שלשים‬‎
-
-
   [^13]: In the manuscript appear two yod.
 
 
@@ -551,9 +542,6 @@ original_language_body: >-
 
 
   [^17]: ‫חס וחללה‬‎
-
-
-  [^18]: ‫שיחיה‬‎
 
 
   [^19]: Above the word three small strokes.
@@ -572,13 +560,7 @@ original_language_body: >-
   [^23]: 30 June 1683.
 
 
-  [^24]: ‫הפרנס‬‎
-
-
   [^25]: ‫ואחר כך‬‎
-
-
-  [^26]: ‫נאום‬‎
 
 
   [^27]: Addition in different ink.
@@ -659,7 +641,7 @@ Since they are still few one cannot set a fine for that i.e. not going to pray i
 
 [fol. 4 r]
 
-18.  No one must drink unkosher vine, otherwise he must pay a fine of one *Reichstaler*. In case the perpetrator is the slaughterer and *bodek* he will be forbidden to continue his work in addition to the above mentioned one *Reichstaler*. The above mentioned Asher Enslen.
+18. No one must drink unkosher vine, otherwise he must pay a fine of one *Reichstaler*. In case the perpetrator is the slaughterer and *bodek* he will be forbidden to continue his work in addition to the above mentioned one *Reichstaler*. The above mentioned Asher Enslen.
 
 Today, Wednesday, 6 Tammuz 5443 the leadership of Ühlfeld decided with my agreement and the agreement of the *Parnas*, the honourable Shimon Tispeck that every one who will do any negotiation in this village Ühlfeld will keep one half of the profit for himself, and the other half will go to the community for a holy purpose. This will be kept on for the next ten years from today on. Thereafter it is in the hands of the leadership to change this ordinance according to their will, the time and the needs of the community. Confirmed by the above mentioned Asher Enslen
 
@@ -670,13 +652,13 @@ On the above mentioned day was also decided that because on the above mentioned 
 [fol. 4 v]
 
 19. Today, Wednesday, 1 Tammuz 5450 agreed the Holy Community here before me, the undersigned, and before the honourable *Parnas* Shimon Heshekh ? that one starts to say psalms if there are two or more heads of households in the synagogue, and even if the second does not properly respond to the first with verses from the psalms he may say psalms slowly for himself as if others were with him. Whoever does not come to the synagogue before the Torah-reader finishes the reading of the Torah, will pay a fine of one *Batzen,* and whoever does not come before the end of *az yashir* will pay a fine of half a *Batzen* and on the other regular days he will pay half a *Gulden.* Asher Enslen, ‘resident’ of the Holy Community of Schnaittach and ‘resident’ here in Ühlfeld
-
 20. Today, Sunday, 7 Heshvan 5459 agreed the Holy Community here before the *Parnas*, the leader, the honourable Moshe Gaikel that whenever the elders of the community or the *Gabbai Tzedaka* will demand a bail from a head of a household or they will demand a fine from him they may go to the rabbinical court to negotiate with him. If appears a case that he owes money then he the *Gabbai Tzedaka* is entitled to punish him according to to what is written in the book of the community regulations. Confirmed by Mordekhai Tiesbeck
 
 [fol. 5 r]
 
 21. When I came here to the Holy Community of Ühlfeld I heard from members of the Holy Community about conflicts between them about the salary of their teacher and cantor. With the agreement of the leadership I have decided that they will proceed for the next three years as follows. For one hour learning one golden *Gulden*, for half an hour half a golden *Gulden* and for a quarter of an hour according to the asset. And whoever has to learn *Mishnayot* is obliged to pay for an hour. For *Humesh* three *Batzen*. Prayer for half an hour. Alphabet for a quarter of an hour, and for writing alone for half an hour. And for teaching the commandments the salary of the teacher and cantor will be half according to Gulden and half according to the asset. All the above has been undertaken with my agreement according to the circumstances of the issue and of the time for the duration of three years from today on, and after three years the issue will come before the head of the rabbinic court who will be in that time. Monday, 2 Tammuz ... 5454 Menahem Mendel ... signed in the above mentioned Holy Community
-22. The members of the Holy Community of Ühlfeld, may God protect them, have built a splendid synagogue. Only few of them talk in the synagogue during the prayer and after it but great anger and dispute came between them concerning the matters of the synagogue, Torah reading and other issues. And there are those who do not listen to their leaders and therefore I spoke and decided with my authority that whoever perpetrates and causes quarrels in the synagogue and does not listen to the voice of the leader or of the *Gabbai Tzedaka* will have to pay a fine of one *Reichstaler*, half for the ruler and half for the poor fund.  
+22. The members of the Holy Community of Ühlfeld, may God protect them, have built a splendid synagogue. Only few of them talk in the synagogue during the prayer and after it but great anger and dispute came between them concerning the matters of the synagogue, Torah reading and other issues. And there are those who do not listen to their leaders and therefore I spoke and decided with my authority that whoever perpetrates and causes quarrels in the synagogue and does not listen to the voice of the leader or of the *Gabbai Tzedaka* will have to pay a fine of one *Reichstaler*, half for the ruler and half for the poor fund.
+
 Concerning the Torah readings they may proceed as always was usual that there won’t be men who do not read from the Torah. That means that on the first Shabbat of a month two of those who had no turn in the last month will read and on a Shabbat after a holyday these who read on the holyday will not read again, but those who had no turn on the holyday before,  
 Menahem Mendel ...
 
