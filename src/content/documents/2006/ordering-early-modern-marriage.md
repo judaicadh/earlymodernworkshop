@@ -588,11 +588,11 @@ Eadem, *The Holy Household: Women and Morals in Reformation Augsburg*. (Oxford, 
 
 227
 
-Generally, they arrange the betrothal[1] at the home of the rabbi, and immediately after
+Generally, they arrange the betrothal[^1] at the home of the rabbi, and immediately after
 
-the vessel is broken for the betrothal agreement,[2] the people who are present go to the
+the vessel is broken for the betrothal agreement,[^2] the people who are present go to the
 
-home of the groom and say to him: “Mazal Tov.”[3] And if they wish, they go to the home
+home of the groom and say to him: “Mazal Tov.”[^3] And if they wish, they go to the home
 
 of the bride as well, to say to her: “Mazal Tov.” And the mother of the bride brings along
 
@@ -600,53 +600,53 @@ female neighbors and relatives to the home of the groom, they say to the groom: 
 
 Tov.” And the custom is for the fathers of the groom and the bride to distribute
 
-Lebkuchen[4] after the betrothal. And on the day of the betrothal, the groom makes a
+Lebkuchen[^4] after the betrothal. And on the day of the betrothal, the groom makes a
 
-meal, and this meal is called: Knass Mahl. [5]
+meal, and this meal is called: Knass Mahl. [^5]
 
 The groom, the first Sabbath after the betrothal—it is a requirement to call him to the
 
 Torah Scroll on the first Sabbath after the betrothal, and he is obligated to give half a
 
-gold piece to the charitable trust in return. And he gives liquor to the young men[6] and
+gold piece to the charitable trust in return. And he gives liquor to the young men[^6] and
 
 sends liquor to various householders, relatives, and many neighbors, the cantor, the
 
-sexton,[7] and to those whom he wishes. And on Lag BaOmer[9] and on the fifteenth [of
+sexton,[^7] and to those whom he wishes. And on Lag BaOmer[^8] and on the fifteenth [of
 
 the months of Av and Shvat], he is obligated to give the young men a gift that is called
 
-Viertel.[9]
+Viertel.[^9]
 
-The groom and the bride do not go to the graves [10] for a period before the wedding and
+The groom and the bride do not go to the graves [^10] for a period before the wedding and
 
 for a period after the wedding, unless someone has died and they must observe
 
-mourning. And the bride does not wear Sturz[11] for a full year after the Huppah,[12] as
+mourning. And the bride does not wear Sturz[^11] for a full year after the Huppah,[^12] as
 
 will be noted hereafter in Section 252.
 
 For seven days before the marriage [ceremony], the bride wears white [garments]. And
 
-they summon young women [13] to dine with her, and this meal is called: Suppe Mahl.[14]
+they summon young women [^13] to dine with her, and this meal is called: Suppe Mahl.[^14]
 
-And the bride wears Sabbath clothing and Guelden Haube[15] until the day of the wedding. And she does not leave her house from that day on, until Spinholz Sabbath[16]
+And the bride wears Sabbath clothing and Guelden Haube[^15] until the day of the wedding. And she does not leave her house from that day on, until Spinholz Sabbath[^16]
 
-and until the Day of Savlonot.[17] And during these days, the young women enter the
+and until the Day of Savlonot.[^17] And during these days, the young women enter the
 
 home of the bride and rejoice with her and entertain her.
 
 Spinholz is on the Sabbath immediately preceding the wedding of a young man and a
 
-young woman. On Friday close to Minhah,[18] the groom dons a Sabbath mantle,
+young woman. On Friday close to Minhah,[^18] the groom dons a Sabbath mantle,
 
-meaning a Seiden Mantel,[19] and a Mitron[20] and comes to the synagogue. The cantor
+meaning a Seiden Mantel,[^19] and a Mitron[^20] and comes to the synagogue. The cantor
 
-sings Malhutekha,[21] Hashkivenu,[22] Ki Shomreinu[23] in special tunes for the Spinholz.
+sings Malhutekha,[^21] Hashkivenu,[^22] Ki Shomreinu[^23] in special tunes for the Spinholz.
 
 After the nighttime meal, the sexton calls through the streets, up and down: “zu der
 
-Spinholz.”[24] And the entire community, men and women,[25] come in Sabbath mantles
+Spinholz.”[^24] And the entire community, men and women,[^25] come in Sabbath mantles
 
 to the home of the groom. The fathers of the groom and the bride are also dressed in
 
@@ -656,7 +656,7 @@ drinks to those entering. And the groom sits at the head of his table, and his t
 
 decorated and bedecked with lovely vessels, as is befitting his status, and with fruits and
 
-sweet delicacies brought by the merchants,[26] such as Zucker[27] and the like. And all who
+sweet delicacies brought by the merchants,[^26] such as Zucker[^27] and the like. And all who
 
 come sit around his table for a short while, and drink wine, and rejoice with the groom
 
@@ -664,7 +664,7 @@ until others arrive. And then the first group goes on its way, and the [new]come
 
 the table for a short while like the previously-mentioned ones, and they too go when a
 
-third group arrives. And so forth.[28] And after everyone else, the young men come and
+third group arrives. And so forth.[^28] And after everyone else, the young men come and
 
 sit with the groom at his table, and rejoice with him, and drink in his honor. And the
 
@@ -680,7 +680,7 @@ And so, afterwards, all of the groups go to the home of the bride as well. The b
 
 sits at the head of her table adorned with lovely clothing as befitting her status and with
 
-a Scheppel[29] and a Glencheck[30] on her head. And the table is decorated and bedecked
+a Scheppel[^29] and a Glencheck[^30] on her head. And the table is decorated and bedecked
 
 like the table of the groom. And around the table sit young women adorned with lovely
 
@@ -708,7 +708,7 @@ Spinholz. Nor does the widower go with new garments or in a Mitron to the synago
 
 Sabbath, wears only her wrap, which they call Sturz. This Sturz she wears Über den
 
-Faust,[31] and no further.
+Faust,[^31] and no further.
 
 [On] the morning of Spinholz Sabbath, the groom comes to the synagogue, as on the
 
@@ -716,9 +716,9 @@ previous day, in a Mitron and a mantle for Sabbath. The groom is not called to t
 
 Scroll on the morning of Spinholz Sabbath.
 
-For Mussaf,[32] the cantor sings Yehei Shelamah[33] and Oseh Shalom[34] in the final
+For Mussaf,[^32] the cantor sings Yehei Shelamah[^33] and Oseh Shalom[^34] in the final
 
-Kaddish[35] in the groom-and-bride tune. After Ein KeEloheinu,[36] the young men and
+Kaddish[^35] in the groom-and-bride tune. After Ein KeEloheinu,[^36] the young men and
 
 boys accompany the groom to his home, and drink liquor, and eat Lebkuchen.
 
@@ -730,7 +730,7 @@ wife of the Head of the Rabbinical Court, in the lead, and seat the bride on a c
 
 dress her in women’s garments that are called Röckli and sing a melody and a groom-
 
-and-bride song. And afterwards, they remove the Röckli[37] garment from her and dress
+and-bride song. And afterwards, they remove the Röckli[^37] garment from her and dress
 
 her in a Sabbath mantle for women. And the bride goes first, with her two attendants to
 
@@ -738,7 +738,7 @@ her right and to her left, and all the young women behind them, and the players 
 
 them with musical instruments, and they play from the home of the bride until the Braut
 
-Haus.[38] And the bride goes thus, in a mantle for Sabbath and in a Scheppel and
+Haus.[^38] And the bride goes thus, in a mantle for Sabbath and in a Scheppel and
 
 Glencheck, until her arrival at the Braut Haus, and there she removes the mantle. And
 
@@ -772,15 +772,15 @@ call the groom to the Torah Scroll. And when he comes to the podium, opposite th
 
 Torah Scroll, before he recites the Torah blessing, he removes the Mitron and wears it
 
-around his neck like a mourner. And so he stands there, until after the Mi Sheberakh.[39]
+around his neck like a mourner. And so he stands there, until after the Mi Sheberakh.[^39]
 
 And before he descends from the podium, he re-dons the Mitron in its usual way and
 
-returns to his place in the synagogue. And immediately after the Kedushah,[40] the
+returns to his place in the synagogue. And immediately after the Kedushah,[^40] the
 
 groom exits the synagogue, and in his honor, the young men walk behind him to his home. 
 
-And they say ZU”Z.[41]
+And they say ZU”Z.[^41]
 
 Immediately upon departure from the synagogue, after Minhah, the sexton calls those
 
