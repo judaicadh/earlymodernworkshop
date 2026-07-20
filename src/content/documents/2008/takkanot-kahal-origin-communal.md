@@ -25,37 +25,34 @@ description: Takkanot Kahal are clearly a phenomenon of early modern Jewry in
   Yiddish text provides rich information on this process, as well as some
   insights into the administrative practice, since the takkanot open the
   earliest Pinkas Kahal of Ühlfeld.
-original_language_body: >-
-  
+original_language_body: |-
+  ## Source 1 Original
+
+  [fol. 1 r]
+
+
 
   &nbsp;
 
-
   **Endnotes**
 
+  [^1]: וסבובותיה
 
-  [^1] Deut. 12, 8.  
+  [^2]: Missing text caused by damaged paper.
 
-  [^2] According to Ez. 1, 63  
+  [^3]: Deut. 12, 8.
 
-  [^3] A wedding celebrated by poor Jews.  
+  חולי [4^].
 
-  [^4] Minimum of vine served at weddings, the term was used among Christians in
-  Germany.  
+  [^5] According to Ez. 16, 63.
 
-  [^5] From here until the end of the paragraph in a different handwriting.  
+  [^6] This word written in larger letters.
 
-  [^6] 15 July 1688.  
+  [^7] בעל בית
 
-  [^7] 30 June 1683.  
+  [^8] בבית הכנסת.
 
-  [^8] 5 July 1690.  
-
-  [^9] Meaning ‚rabbi’.  
-
-  [^10] 12 October 1698.  
-
-  [^11] 28 June 1694.
+  [^9] This word above the row.
 ---
 ## Source 1 Translation
 
@@ -118,3 +115,16 @@ fol. 5 r
 Concerning the Torah readings they may proceed as always was usual that there won’t be men who do not read from the Torah. That means that on the first Shabbat of a month two of those who had no turn in the last month will read and on a Shabbat after a holyday these who read on the holyday will not read again, but those who had no turn on the holyday before,  
 Menahem Mendel ...
 
+**Endnotes**
+
+[^1] Deut. 12, 8.  
+[^2] According to Ez. 1, 63  
+[^3] A wedding celebrated by poor Jews.  
+[^4] Minimum of vine served at weddings, the term was used among Christians in Germany.  
+[^5] From here until the end of the paragraph in a different handwriting.  
+[^6] 15 July 1688.  
+[^7] 30 June 1683.  
+[^8] 5 July 1690.  
+[^9] Meaning ‚rabbi’.  
+[^10] 12 October 1698.  
+[^11] 28 June 1694.
