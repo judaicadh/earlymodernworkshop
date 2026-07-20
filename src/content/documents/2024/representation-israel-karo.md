@@ -40,7 +40,7 @@ bibliography:
   - author: Altshuler, Mor.
     title: "*The Life of Rabbi Yosef Karo.*"
     publication: Tel Aviv, 2016
-original_language_body: >+
+original_language_body: >-
   ## Source 1 Original
 
 
@@ -234,6 +234,42 @@ original_language_body: >+
 
 
   ## Source 8 Original
+
+
+  *Shulhan Arukh Yo’reh De‘ah* 310.3
+
+
+  מי שאינו מומחה, וראה את הבכור, ונשחט על פיו, יקבר וישלם מביתו. וכמה ישלם, אם
+  הוא בארץ ישראל משלם בגסה חצי דמיו, ובדקה רביע דמיו; ובחוץ לארץ, בין בדקה בין
+  בגסה חצי דמיו. **והאידנא, שאף בא"י אין רוב שדות של ישראל, מותר לגדל בהמה דקה
+  אפילו בארץ ישראל, הילכך אפי' בא"י אף בדקה משלם חצי דמים**.
+
+
+  *Tur Yo’reh De‘ah* 310
+
+
+  מי שאינו מומחה ורואה בכור ונשחט על פיו יקבר וישלם וכמה ישלם אם הוא בא"י משלם
+  בגסה חצי דמיו ובדקה רביע דמיו ובח"ל בין בדקה בין בגסה חצי דמיו:
+
+
+  ## Source 9 Original
+
+
+  *Shulhan Arukh Even Haezer* 45.2
+
+
+  **האידנא, נהגו בכל מלכות ארץ ישראל ומצרים ותוגרמא שלא לחוש לסבלונות**, זולתי
+  בקוסטנטינה שחוששין להם.
+
+
+  *Tur Even Haezer* 45
+
+
+  חוששין לסבלונות ופירש"י שאם שדכה תחילה ואח"כ שלח לה סבלונות בעדים אנו חוששין
+  שמא שלחם לה לשם קדושין וצריכה גט לפיכך אם רוב העיר רגילים לקדש ואח"כ שולחים
+  סבלונות חוששין שמא לשם קידושין שלחם אבל אם רוב העיר רגילים לשלוח תחילה ואח"כ
+  מקדשין אין חוששין . . . ולפירש"י חוששין הלכך טוב לחוש . . . להחמיר וכן היא
+  מסקנת א"א הרא"ש ז"ל. . . .:
 ---
 ## Introduction
 
@@ -337,10 +373,6 @@ It was taught in the Sifrei[^19] (see *piska* 63): *your brother* (Deuteronomy 1
 
 ## Source 8 Translation
 
-
-
-&nbsp;
-
 *Shulhan Arukh Yo’reh De‘ah* 310.3
 
 A non-expert who looked over a firstborn animal which was then slaughtered erroneously on his say-so, the animal is buried and the non-expert compensates the owner from his own resources. How much should he pay as compensation? If he is in the land of Israel, he should pay half the value of a large animal and a quarter of the value of a small animal. And outside the land, he should pay half the value of either a large or small animal. **And today, in which most fields even in the land of Israel are not in the possession of Jews, it is permitted to raise small cattle even in the land of Israel. Therefore, even in the land of Israel he pays half the animal’s value as compensation**.
@@ -349,21 +381,7 @@ A non-expert who looked over a firstborn animal which was then slaughtered erron
 
 A non-expert who looked over a firstborn animal which was then slaughtered erroneously on his say-so, the animal is buried and the non-expert compensates the owner. And how much should he pay as compensation? If he is in the land of Israel, he should pay half the value of a large animal and a quarter of the value of a small animal. And outside the land, he should pay half the value of either a large or small animal.
 
-*Shulhan Arukh Yo’reh De‘ah* 310.3
-
-
-
-מי שאינו מומחה, וראה את הבכור, ונשחט על פיו, יקבר וישלם מביתו. וכמה ישלם, אם הוא בארץ ישראל משלם בגסה חצי דמיו, ובדקה רביע דמיו; ובחוץ לארץ, בין בדקה בין בגסה חצי דמיו. **והאידנא, שאף בא"י אין רוב שדות של ישראל, מותר לגדל בהמה דקה אפילו בארץ ישראל, הילכך אפי' בא"י אף בדקה משלם חצי דמים**.
-
-
-
-*Tur Yo’reh De‘ah* 310
-
-
-
-מי שאינו מומחה ורואה בכור ונשחט על פיו יקבר וישלם וכמה ישלם אם הוא בא"י משלם בגסה חצי דמיו ובדקה רביע דמיו ובח"ל בין בדקה בין בגסה חצי דמיו:
-
-
+## Source 9 Translation
 
 **Today, the entire kingdom of the land of Israel, Egypt, and Turkey are not accustomed to be concerned about nuptial gifts**, except in Constantinople, where they are concerned about them. 
 
@@ -371,21 +389,9 @@ A non-expert who looked over a firstborn animal which was then slaughtered erron
 
 One is concerned about nuptial gifts. And Rashi[^22] explained that if the prospective groom settled marriage terms with the prospective bride initially and sent her nuptial gifts afterwards with witnesses, we are concerned that perhaps he sent them to her for the sake of legal betrothal, and she will require a bill of divorce to terminate the relationship. Therefore, if most of the town are accustomed to betroth and send nuptial gifts afterwards, we are concerned that they sent the gifts for the sake of legal betrothal. But if most of the town are accustomed to send nuptial gifts first and legally betroth afterwards, we are not concerned. . . and according to Rashi’s explanation, we are concerned, therefore it is good to be wary. . . to be stringent. And thus was the conclusion of my lord, my father, the Rosh, z’’l.[^23]
 
-*Shulhan Arukh Even Haezer* 45.2
 
 
-
-**האידנא, נהגו בכל מלכות ארץ ישראל ומצרים ותוגרמא שלא לחוש לסבלונות**, זולתי בקוסטנטינה שחוששין להם.
-
-
-
-*Tur Even Haezer* 45
-
-
-
-חוששין לסבלונות ופירש"י שאם שדכה תחילה ואח"כ שלח לה סבלונות בעדים אנו חוששין שמא שלחם לה לשם קדושין וצריכה גט לפיכך אם רוב העיר רגילים לקדש ואח"כ שולחים סבלונות חוששין שמא לשם קידושין שלחם אבל אם רוב העיר רגילים לשלוח תחילה ואח"כ מקדשין אין חוששין . . . ולפירש"י חוששין הלכך טוב לחוש . . . להחמיר וכן היא מסקנת א"א הרא"ש ז"ל. . . .:
-
-
+&nbsp;
 
 *Shulhan Arukh Even Haezer* 142.1
 
