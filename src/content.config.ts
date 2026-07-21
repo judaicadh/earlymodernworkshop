@@ -59,7 +59,10 @@ const documents = defineCollection({
             )
             .optional(),
 
-
+        footnotes: z.array(z.object({
+            ref: z.string().optional(),
+            text: z.string().optional(),
+        })).optional(),
 
         bibliography: z
             .array(
