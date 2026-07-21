@@ -15,6 +15,7 @@ import citePlugin from '@benrbray/remark-cite';
 import remarkIns from 'remark-ins';
 import remarkToc from 'remark-toc';
 import remarkGfm from 'remark-gfm';
+import remarkAlign from './src/plugins/remark-align.mjs';
 import rehypeMeta from 'rehype-meta';
 import remarkLint from 'remark-lint';
 import netlify from '@astrojs/netlify';
@@ -27,7 +28,7 @@ export default defineConfig({
   markdown: {
     processor: unified({
 
-      remarkPlugins: [[remarkToc, { heading: 'toc', maxDepth: 3 }], remarkGfm, citePlugin, remarkLint, remarkIns],
+      remarkPlugins: [[remarkToc, { heading: 'toc', maxDepth: 3 }], remarkGfm, citePlugin, remarkLint, remarkIns, remarkAlign],
       rehypePlugins: [
         rehypeMeta,
         rehypeHeadingIds,

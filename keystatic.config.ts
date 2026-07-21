@@ -1,5 +1,6 @@
 // keystatic.config.ts
 import { config, fields, collection } from '@keystatic/core';
+import { wrapper } from '@keystatic/core/content-components';
 
 // List your years and sort DESC so newest shows first in the sidebar
 const YEARS = [
@@ -93,7 +94,26 @@ const schema = {
     // changed: markdoc → text
     primarysourceinfo: fields.text({ label: 'Primary Source Info', multiline: true }),
 
-    content: fields.markdoc({ label: 'Content', extension: 'mdoc' }),
+    content: fields.markdoc({
+        label: 'Content',
+        extension: 'md',
+        components: {
+            // Renders via the remark-align plugin in astro.config.mjs
+            Align: wrapper({
+                label: 'Align',
+                schema: {
+                    alignment: fields.select({
+                        label: 'Alignment',
+                        options: [
+                            { label: 'Center', value: 'center' },
+                            { label: 'Right', value: 'right' },
+                        ],
+                        defaultValue: 'center',
+                    }),
+                },
+            }),
+        },
+    }),
 };
 
 export default config({
