@@ -118,7 +118,7 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 
 **Publisher:** B. Weinryb (ed.), Texts and Studies the Communal History of Polish Jewry, New York 1950
 
-מתוך "ספר הזכרונות" - פנקס הקהל של ק"ק פוזנא
+**מתוך "ספר הזכרונות" - פנקס הקהל של ק"ק פוזנא**
 
 תקנות המבוררים המה בכתובי' חתומי' בקצה מטה ענייני ואופני דירות המשכיר בית החורף והמכניס קאמרניק
 
