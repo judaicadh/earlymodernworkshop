@@ -252,9 +252,20 @@ original_language_body: >-
   Republica, que estando entre si Ephraym, (inda que está cheo de idolatria)
   unido, deyxallo; porque naõ ha força que o possa contrastar, nem justiça que o
   possa condenar; & sendo pello contrario, diz o mesmo Propheta *Ossea cap. 10.
-  ver. 2.* ‫חלק לבם עתה יאשמו‬‎ [13] *Dividiuse o seu coraçaõ*, *agora seraõ
+  ver. 2.* ‫חלק לבם עתה יאשמו‬‎ **[13]** *Dividiuse o seu coraçaõ*, *agora seraõ
   condenados*; agora si, que tera lugar a justiça contra elles, he assi agora
   sendo condenados, seraõ castigados.
+
+
+
+
+  &nbsp;
+
+
+  &nbsp;
+
+
+  &nbsp;
 
 
   He este pois o abuso, que algums presumindo mais do que sabem, & naõ de
