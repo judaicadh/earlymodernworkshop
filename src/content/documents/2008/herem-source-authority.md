@@ -109,9 +109,9 @@ original_language_body: >-
   Ysrael; como aquelles que bem entendiaõ o misterio de quanto montava o numero
   de doze, paraque a Divindade do Senhor jamais os desamparase: & dizem assi em
   Iuezes capit. 21. vers. 7. ‫מה נעשה להם לנותרים לנשים ואנחנו נשבענו בה' לבלתי
-  תת להם מבנותינו לנשים‬‎ Que faremos a os que ficaraõ para lhes dar mulheres, &
-  tornar a edeficar este cahido baluarte da fortaleza de Ysrael; porque nos
-  juramos por .A. de naõ lhes dar mulheres das nossas filhas. Segue entonces
+  תת להם מבנותינו לנשים‬‎ *Que faremos a os que ficaraõ para lhes dar mulheres*,
+  & tornar a edeficar este cahido baluarte da fortaleza de Ysrael; *porque nos
+  juramos por .A. de naõ lhes dar mulheres das nossas filhas*. Segue entonces
   dizendo, como cõdenaraõ a os moradores de Yabez Gilhad, porque transgiriraõ o
   herem, & naõ acudiraõ como os demais a aquella guerra; & assi mandaõ sejaõ
   todos passados a fio de espada, sem reservar seso de pessoa, eseito as donzel-
