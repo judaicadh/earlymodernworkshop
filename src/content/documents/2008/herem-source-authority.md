@@ -792,7 +792,7 @@ Lorberbaum, Menachem. *Politics and the Limits of Law: Secularizing the Politica
 
 [^25]: *Homem estimado*—Aboab’s direct Portuguese translation of the Hebrew term *adam hashuv*, which is mentioned in BT Bava Batra 9a (and elsewhere) as a figure whose approval is necessary to validate a communal enactment.
 
-[^26] Rabbi Jacob ben Asher (1270-1340), the author of the *Arba’ah Turim*.
+[^26]: Rabbi Jacob ben Asher (1270-1340), the author of the *Arba’ah Turim*.
 
 [^27]: Aboab shifts from “Hakham” to “Sabio” here, and in the next sentence, to “sage.” I have preserved the distinctions, in case he means to distinguish between the office of Hakham, the status of a Rabbi, and the quality of being wise or learned.  
 [^28]: Actually Malachi 3:6  
