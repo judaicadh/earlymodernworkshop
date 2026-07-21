@@ -206,7 +206,9 @@ Zinger, Nimrod. “‘Our Hearts and Spirits Were Broken’: The Medical World f
 
 ## Source 1 Translation
 
-**National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370) Memorbuch of the Community of Metz**
+**National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370)** 
+
+**Memorbuch of the Community of Metz**
 
 Scan 23: May God remember the soul of the esteemed, pure, pious, upright woman, Marat Mindle Rivkah bat Yaakov ha-Levi, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that all her days she followed a straight and honest path, and she performed kindness with the living and the deceased, **and especially with the parturients**, and she also visited the sick … and she fasted each day for eighteen years, and more so, she also spun (thread for) tzitzit for our community almost all her days. On account of this, her children gave money to charity. As reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. 
 
@@ -214,7 +216,11 @@ Deceased on Tuesday, 2 Heshvan 5415 1654
 
 Buried on Wednesday, 3 Heshvan the following day
 
-Scan 35: May God remember the soul of the pious, esteemed, upright woman, Marat Mikhlen bat Yeshaya Yaakov, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that all her days she followed a straight path, and at every opportunity attended synagogue, and her prayers were with great concentration with many supplications. For many years she also fasted on all days of Tahanun, and also gave her spirit to accompany her husband, the pious R’ Feivish Halfon, of blessed memory, to the holy city of Jerusalem (?), and there and also here in the holy community of Metz, she was with all midwives and parturients, to perform kindness with them, whether with her body or her radiance. Her children also gave charity on her behalf. As reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Amen. Deceased and buried in the Holy City of Jerusalem 24 Elul 5430 1670
+Scan 35: May God remember the soul of the pious, esteemed, upright woman, Marat Mikhlen bat Yeshaya Yaakov, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that all her days she followed a straight path, and at every opportunity attended synagogue, and her prayers were with great concentration with many supplications. For many years she also fasted on all days of Tahanun, and also gave her spirit to accompany her husband, the pious R’ Feivish Halfon, of blessed memory, to the holy city of Jerusalem (?), and there and also here in the holy community of Metz, she was with all midwives and parturients, to perform kindness with them, whether with her body or her radiance. Her children also gave charity on her behalf. As reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Amen. 
+
+Deceased and buried in the Holy City of Jerusalem 
+
+24 Elul 5430 1670
 
 Scan 39: May God remember the soul of the dear, upright woman, Marat Malka bat Avraham, of blessed memory, of Charleville, on account of her charitable activities with the living and the dead, for she was a midwife to women and would prepare the newborn. For all her days, she would also make clothing for the poor, and practiced self-denial by fasting for many years, and she did not derive benefit from any person in eating or drinking outside of her home for all her days on earth. She would give medicines and bandages to all people for free, to heal their wounds, and for all her days would visit the sick. She would attend synagogue at every opportunity, and for all her days she acted honestly with all people, and was exceedingly modest in all her deeds. And she possessed countless other good attributes. She died with a good name and her husband gave charity on her behalf. She died and passed on Thursday, 6 Menahem Av and was buried Friday, Erev Shabbat Kodesh, 7 Menahem Av 5436 1676 On account of this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Amen.
 
