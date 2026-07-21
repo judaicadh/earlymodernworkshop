@@ -104,6 +104,8 @@ I also see these words of yours as incorrect, and there is nothing in these clai
 
 ## Source 4 Translation
 
+**Introduction**
+
 **Notes:** Based on Talya Fishman "Voice of a Fool": an Early Modern Jewish Critique of Rabbinic Culture (Stanford: Stanford University Press, 1997), 150.
 
 *Kol Sakhal*, literally, "Voice of a Fool", is a critique of rabbinic culture written under cover of pseudonym by the colorful Venetian rabbi, Leone Modena [1571-1648]. Well-versed in Christian sources, Rabbi Modena interacted with learned Christians from all over Europe as teacher, preacher and interlocutor. Noblemen and clerics who went "slumming" in the Venetian ghetto raved about Modena's sermons, and Rabbi Modena referred to Paolo Sarpi, legal and theological consultant to the Venetian Senate -- who was denounced by the Church for his excessive contact with Jews-- as "my friar."
@@ -112,64 +114,13 @@ The passage in question, part of a revisionist code of Jewish law, envisions a w
 
 *Kol Sakhal's* iconclastic suggestion that conversion to Judaism be made easier for individuals already drawn to the Hebrew Bible raises the question of whether there may have been an underground Jewish proselytizing movement in this period, as claimed, in the 1640's, by the Portuguese Jesuit, Antonio Vieira.
 
-Source
+**Source**
 
-*Converts*. It was necessary to circumcise and ritually immerse every convert, according to their [rabbinic] arrangement.[1] But they did not understand and paid no attention to matters upon
+*Converts*. It was necessary to circumcise and ritually immerse every convert, according to their [rabbinic] arrangement.[1] But they did not understand and paid no attention to matters upon which the foundation of the nation, its greatness and success depend.[2] As they did with every order and arrangement they made, all is destruction and corruption. By this I mean that they ought to have explained regarding one who comes to convert that, after warning him[3] and [after] the investigation - by which it is made clear to us that his coming is for the sake of heaven and not for some external purpose[4] -- he should be informed of the virtue of circumcision and its reward.[5] If he wishes to circumcise himself, well and good, and if not, let him immerse himself and become a Jew.[6] And this will be sufficient for him to participate in testimony and marriage, inheritance and bequest--and everything else like the rest of the Jewish people. Not to make his property ownerless and the laws of Sodom that they commanded in this regard[7] -- go and check them. However, any sons born to him after his conversion are to be circumcised at eight days.
 
-which the foundation of the nation, its greatness and success depend.[2] As they did with every order and arrangement they made, all is destruction and corruption. By this I mean that they
+They would already have some support [for this lenient position] in the Torah, for a resident alien was not required to circumcise himself and it was not an impediment for him, except with regard to the eating of the paschal sacrifice, and nothing else.[8]And this is not mentioned regarding Jethro or anyone who converted [9]that he circumcised himself.
 
-ought to have explained regarding one who comes to convert that, after warning him[3] and [after] the investigation - by which it is made clear to us that his coming is for the sake of
-
-heaven and not for some external purpose[4] -- he should be informed of the virtue of circumcision and its reward.[5] If he wishes to circumcise himself, well and good, and if not, let
-
-him immerse himself and become a Jew.[6] And this will be sufficient for him to participate in testimony and marriage, inheritance and bequest--and everything else like the rest of the Jewish people. Not to make his property ownerless and the laws of Sodom that they
-
-commanded in this regard[7] -- go and check them. However, any sons born to him after his conversion are to be circumcised at eight days.
-
-They would already have some support [for this lenient position] in the Torah, for a resident alien was not required to circumcise himself and it was not an impediment for him, except with
-
-regard to the eating of the paschal sacrifice, and nothing else.[8]And this is not mentioned regarding Jethro or anyone who converted [9]that he circumcised himself.
-
-This would have made it easier for the nations, enabling them to enter under the wings of the Divine Presence[10]or[11] to assume the yoke of our Torah,[12] if it were most easy and pleasant,
-
-but always according to what was commanded by Moses, man of the Lord.[13] [And perhaps] an entire nation and kingdom would already have become Jews, or more than one, and our redemption would draw near, as I have hinted to you in the Second Essay, chapter 6; study it
-
-239
-
-and return and study it. I know that you will acknowledge that the sages of the Talmud are
-
-truly the pillars of Exile who support and keep us in the *Galut* [Exile] as long as there are still days on earth--if the God of heaven and earth does not send forth his hand and take us from it.
-
-**Endnotes**
-
-[1] BT, Yeb. 46b, Tur YD 268.
-
-[2] *Kol Sakhal* wishes to present Judaism as universally appealing, and therefore accuses the rabbis of discouraging conversion by their insistence upon circumcision as a prerequisite. Cf. the claim in a medieval Hebrew treatise that Paul's limitation of circumcision as a requirement for admission into the community of early Christians contributed heavily to Christianity's success (Profyat Duran, *Kelimat ha-Goyyim*, p. 28). And see Modena's assertion in two sermons that the convert's entry into Judaism must be made easier, cited in Rosenzweig, pp. 537-38.
-
-[3] The potential convert is to be warned about the drawbacks of throwing his lot in with that of the Jews, people who submit to the yoke of the commandments, for which they are ridiculed and persecuted by their neighbors (BT, Yeb. 47a).
-
-[4]As stipulated in BT Yeb. 47b; Tur YD 268. [5]See MT, Hil. Milah 3:8.
-
-[6] Cf. the position of R. Joshua, who asserted that the prospective convert need only undergo immersion in order to become a Jew. This position was rejected by the rabbis, however, in favor of R. Eliezer b. Hyrcanus's requirement of circumcision and immersion (BT, Yeb. 46a). However, cf. Yom Tov Lipmann Muelhausen's statement in *Sefer Nizahon* that "one who believes correctly is a Jew even if he is not circumcised, although he is guilty of one transgression" (in Bem-Sasson, "Disputation and Polemics," EJ 6:94).
-
-[7] This may be a reference to the rabbinic ruling that a convert's descendants do not inherit his wealth, if they were conceived prior to his conversion to Judaism (BT, Kid. 19b; BB 149a. See Maimonides's rationale for this rabbinic ordinance, MT. Hil. Nahalot 6:10). Some medieval scholars evinced uneasiness about the Talmud's sstory of a Jew who tried to keep the property of a deceased convert. See, e.g. Ha-Meiri, *Beit Ha-Behira* on BB 149a.
-
-[8] Exod. 12:45, 12:48. In identifying the *ger toshav* (resident alien) with an uncircumcised convert to Judaism, *Kol Sakhal* may be following the lead of Ibn Ezra, who understood the term *toshav* as a reference to an Israelite, inasmuch as the Torah had *earlier* excluded the uncircumcised from partaking of the paschal meal (Ibn Ezra on Exod. 12:45). Moreover, Karaites understood that the term *ger* appearing in Exod. 9:19 included the category of *ger toshav* (Weiss, *Melilah* 1, p. 41 citing *Ohel Yosef*). Cf. Philo's understanding of *ger* in Wolfson, *Philo*, 2:364-74. Alternate rabbinic understanding of the term *ger toshav* are reflected in BT, AZ 64b and in Gerim 3, in Higger, p. 33.
-
-[9] This passage reflects *Kol Sakhal*'s indebtedness to the rabbinic perspective, for the perception of Jethro as a convert is not biblical but midrashic (*Sifrei*, Num. no.80; *Mekhilta*,
-
-EMW 2004
-
-240
-
-Yitro I, p. 582; *Mekhilta de-Rabi Shimon ber Yohaii,*, p. 87; Seder Eliyahu Rabbah, 5, 30; EMW 2004
-
-*Tanhuma* Yitro 6, Jerusalem Targum, Exod. 18:6).  
-[10] This term is used by the rabbis to describe conversion to monotheism in a pre-Sinaitic
-
-context, as in the case of Abraham's proselytizing activities. (See, e.g., Rashi on Gen. 12:5). [11] Cf. the distinction made in First Essay, n.204 and in Second Essay n.298.  
-[12] I.e. conversion to Judaism proper.  
-[13] This epithet appears in Josh. 14:6.
+This would have made it easier for the nations, enabling them to enter under the wings of the Divine Presence[10]or[11] to assume the yoke of our Torah,[12] if it were most easy and pleasant, but always according to what was commanded by Moses, man of the Lord.[13] [And perhaps] an entire nation and kingdom would already have become Jews, or more than one, and our redemption would draw near, as I have hinted to you in the Second Essay, chapter 6; study it and return and study it. I know that you will acknowledge that the sages of the Talmud are truly the pillars of Exile who support and keep us in the *Galut* [Exile] as long as there are still days on earth--if the God of heaven and earth does not send forth his hand and take us from it.
 
 ## Source 1 Original Text
 
@@ -223,3 +174,28 @@ Footnotes
 
 [^2]: Isaiah 52:5: “And constantly, unceasingly, my Name is reviled”.
 
+[^3]: BT, Yeb. 46b, Tur YD 268.
+
+[^4]: *Kol Sakhal* wishes to present Judaism as universally appealing, and therefore accuses the rabbis of discouraging conversion by their insistence upon circumcision as a prerequisite. Cf. the claim in a medieval Hebrew treatise that Paul's limitation of circumcision as a requirement for admission into the community of early Christians contributed heavily to Christianity's success (Profyat Duran, *Kelimat ha-Goyyim*, p. 28). And see Modena's assertion in two sermons that the convert's entry into Judaism must be made easier, cited in Rosenzweig, pp. 537-38.
+
+[^5]: The potential convert is to be warned about the drawbacks of throwing his lot in with that of the Jews, people who submit to the yoke of the commandments, for which they are ridiculed and persecuted by their neighbors (BT, Yeb. 47a).
+
+[^6]: As stipulated in BT Yeb. 47b; Tur YD 268.
+
+[^7]: See MT, Hil. Milah 3:8.
+
+[^8]: Cf. the position of R. Joshua, who asserted that the prospective convert need only undergo immersion in order to become a Jew. This position was rejected by the rabbis, however, in favor of R. Eliezer b. Hyrcanus's requirement of circumcision and immersion (BT, Yeb. 46a). However, cf. Yom Tov Lipmann Muelhausen's statement in *Sefer Nizahon* that "one who believes correctly is a Jew even if he is not circumcised, although he is guilty of one transgression" (in Bem-Sasson, "Disputation and Polemics," EJ 6:94).
+
+[^9]: This may be a reference to the rabbinic ruling that a convert's descendants do not inherit his wealth, if they were conceived prior to his conversion to Judaism (BT, Kid. 19b; BB 149a. See Maimonides's rationale for this rabbinic ordinance, MT. Hil. Nahalot 6:10). Some medieval scholars evinced uneasiness about the Talmud's sstory of a Jew who tried to keep the property of a deceased convert. See, e.g. Ha-Meiri, *Beit Ha-Behira* on BB 149a.
+
+[^10]: Exod. 12:45, 12:48. In identifying the *ger toshav* (resident alien) with an uncircumcised convert to Judaism, *Kol Sakhal* may be following the lead of Ibn Ezra, who understood the term *toshav* as a reference to an Israelite, inasmuch as the Torah had *earlier* excluded the uncircumcised from partaking of the paschal meal (Ibn Ezra on Exod. 12:45). Moreover, Karaites understood that the term *ger* appearing in Exod. 9:19 included the category of *ger toshav* (Weiss, *Melilah* 1, p. 41 citing *Ohel Yosef*). Cf. Philo's understanding of *ger* in Wolfson, *Philo*, 2:364-74. Alternate rabbinic understanding of the term *ger toshav* are reflected in BT, AZ 64b and in Gerim 3, in Higger, p. 33.
+
+[^11]: This passage reflects *Kol Sakhal*'s indebtedness to the rabbinic perspective, for the perception of Jethro as a convert is not biblical but midrashic (*Sifrei*, Num. no.80; *Mekhilta*, Yitro I, p. 582; *Mekhilta de-Rabi Shimon ber Yohaii,*, p. 87; Seder Eliyahu Rabbah, 5, 30;*Tanhuma* Yitro 6, Jerusalem Targum, Exod. 18:6).
+
+[^12]: This term is used by the rabbis to describe conversion to monotheism in a pre-Sinaitic context, as in the case of Abraham's proselytizing activities. (See, e.g., Rashi on Gen. 12:5).
+
+[^13]: Cf. the distinction made in First Essay, n.204 and in Second Essay n.298.
+
+[^14]: I.e. conversion to Judaism proper.
+
+[^15]: This epithet appears in Josh. 14:6.
