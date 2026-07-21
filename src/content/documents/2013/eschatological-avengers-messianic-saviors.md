@@ -1,25 +1,12 @@
 ---
-title: Eschatological Avengers or Messianic Saviors? Violence and Physical
-  Strength in the Vernacular Legend of the Red Jews
-author: Rebekka Voss
-institution: Goethe-Universität, Frankfurt
-volume: 10
-year: "2013"
-slug: eschatological-avengers-messianic-saviors
-event:
-  name: "Early Modern Workshop: Jewish History Resources"
-  theme: Jews and Violence in the Early Modern Period
-language:
-  - "German (Source 1) "
-  - Yiddish (Source 2)
-publication_location:
-  - Switzerland
-text_location:
-  - Sambatyon River (Source 2)
-description: The vernacular legend of the Red Jews allows us to explore the
-  relationship of violence, physical strength and power during the early modern
-  period, extending the traditional treatment of Jews and violence in that era.
-  Violence is often linked to power and physical strength. Violence is typically
+title: >-
+  Eschatological Avengers or Messianic Saviors? Violence and Physical Strength
+  in the Vernacular Legend of the Red Jews
+description: >-
+  The vernacular legend of the Red Jews allows us to explore the relationship of
+  violence, physical strength and power during the early modern period,
+  extending the traditional treatment of Jews and violence in that era. Violence
+  is often linked to power and physical strength. Violence is typically
   associated with ruling authorities and the realm of the majority, rather than
   in the hands of an oppressed minority, as in case of Diaspora Jewry, which has
   been identified with victimhood. Moreover, in historiography, the perception
@@ -30,6 +17,10 @@ description: The vernacular legend of the Red Jews allows us to explore the
   actions – runs deep in European and Jewish cultural history as a counter-image
   to the gentile ideal of muscular and forceful masculinity and takes on various
   shapes, with negative as well as positive connotations.
+author: Rebekka Voss
+year: '2013'
+volume: 10
+slug: eschatological-avengers-messianic-saviors
 original_language_body: >-
   <h2 style="text-align: center">Source 1 Original</h2><p style="text-align:
   center"><em>Der Göttweiger Trojanerkrieg </em>(1270-1300)<br><em>Der
@@ -492,46 +483,63 @@ original_language_body: >-
 
 
   .טייג קנעטין טוט
+resource_link: []
+publication_location:
+  - Switzerland
+text_location:
+  - Sambatyon River (Source 2)
+language:
+  - 'German (Source 1) '
+  - Yiddish (Source 2)
+tags: []
+institution: Goethe-Universität, Frankfurt
+event:
+  name: 'Early Modern Workshop: Jewish History Resources'
+  theme: Jews and Violence in the Early Modern Period
+  Date: {}
+bibliography: []
+sections: []
+footnotes: []
 ---
-<h2 style="text-align: center">Introduction</h2>
+## Introduction
 
 Violence is often linked to power and physical strength. Violence is typically associated with ruling authorities and the realm of the majority, rather than in the hands of an oppressed minority, as in case of Diaspora Jewry, which has been identified with victimhood. Moreover, in historiography, the perception of Jews as targets of aggression perpetrated by “the other,” whether Christian or Muslim, corresponds to the widely held idea that Jewish men differ from their non-Jewish peers. The prototype of the “unmanly Jew,” even labeled as “effeminate” Jewish man – i.e., gentle, non-violent, valuing words over actions – runs deep in European and Jewish cultural history as a counter-image to the gentile ideal of muscular and forceful masculinity and takes on various shapes, with negative as well as positive connotations.
 
 The vernacular legend of the Red Jews allows us to explore the relationship of violence, physical strength and power during the early modern period, extending the traditional treatment of Jews and violence in that era. The term “Red Jews,” a unique vernacular characterization of the Ten Lost Tribes of Israel, was in circulation among Jews and Christians in German- and Yiddish-speaking regions in the late Middle Ages and early modern period. The Red Jews were fabled to live beyond the mysterious Sambatyon River, where they would reside until the time comes for them to assist the Messiah – i.e., the Antichrist in Christian lore – taking revenge for centuries of anti-Jewish oppression by bringing apocalyptic destruction to Christianity at the end of days. This legend was immensely popular among both Jews and Christians and appears in many versions in a range of genres, in both manuscript and print.
 
-One of its German variants is included in _Der Göttweiger Trojaner Krieg_ (The Göttweig Trojan War; Text 1), a Middle High German verse romance that originated in northern Switzerland circa 1270-1300. It presents narrative material relating to the Trojan War of Greek antiquity with a burlesque twist, entwined with motifs from the Arthurian romance. Here, during their battles against Troy, the Greeks encounter the horrible Red Jews. Whereas the German account depicts these terrifying Jews as huge and robust, equipped with military skill that is linked to aggressive and violent might, the Yiddish _Ma’ase Akdamut_ (Story of Akdamut; Text 2) presents a more complex picture. The version presented here – the oldest known and most popular of the early modern Yiddish versions of the Red Jews' story, transmitted in a Yiddish manuscript of edifying historical and narrative texts (c. 1580-1600) preserved in the Bodleian Library, Oxford – conveys a tension between the well-established notion that violence can only be exercised by those who wield conventional strength and power and a Jewish revenge fantasy whose unlikely hero is a little, frail and elderly Red Jew who walks with a limp. While his physical abilities may be limited, this Red Jew triumphs in the end by means of a source of power that is less readily visible, namely magic that uses the divine names.
+One of its German variants is included in *Der Göttweiger Trojaner Krieg* (The Göttweig Trojan War; Text 1), a Middle High German verse romance that originated in northern Switzerland circa 1270-1300. It presents narrative material relating to the Trojan War of Greek antiquity with a burlesque twist, entwined with motifs from the Arthurian romance. Here, during their battles against Troy, the Greeks encounter the horrible Red Jews. Whereas the German account depicts these terrifying Jews as huge and robust, equipped with military skill that is linked to aggressive and violent might, the Yiddish *Ma’ase Akdamut* (Story of Akdamut; Text 2) presents a more complex picture. The version presented here – the oldest known and most popular of the early modern Yiddish versions of the Red Jews' story, transmitted in a Yiddish manuscript of edifying historical and narrative texts (c. 1580-1600) preserved in the Bodleian Library, Oxford – conveys a tension between the well-established notion that violence can only be exercised by those who wield conventional strength and power and a Jewish revenge fantasy whose unlikely hero is a little, frail and elderly Red Jew who walks with a limp. While his physical abilities may be limited, this Red Jew triumphs in the end by means of a source of power that is less readily visible, namely magic that uses the divine names.
 
 **Select Bibliography**
 
-On _The Göttweig Trojan War_:
+On *The Göttweig Trojan War*:
 
-Manfred Kern, _Agamemnon weint oder arthurische Metamorphose und trojanische Destruktion im “Göttweiger Trojanerkrieg”_ (Erlangen: Verlag Palm & Enke, 1995).
+Manfred Kern, *Agamemnon weint oder arthurische Metamorphose und trojanische Destruktion im “Göttweiger Trojanerkrieg”* (Erlangen: Verlag Palm & Enke, 1995).
 
-Elisabeth Lienert, _Deutsche Antikenromane des Mittelalters_ (Berlin: Erich Schmidt Verlag, 2001), 140-145.
+Elisabeth Lienert, *Deutsche Antikenromane des Mittelalters* (Berlin: Erich Schmidt Verlag, 2001), 140-145.
 
 On the Red Jews:
 
-Andrew C. Gow, _The Red Jews: Antisemitism in an Apocalyptic Age, 1200-1600_ (Leiden, Brill, 1995).
+Andrew C. Gow, *The Red Jews: Antisemitism in an Apocalyptic Age, 1200-1600* (Leiden, Brill, 1995).
 
-Rebekka Voß, “Entangled Stories: The Red Jews in Premodern Yiddish and German Apocalyptic Lore,” _AJS Review_ 36,1 (2012): 1-41.
+Rebekka Voß, “Entangled Stories: The Red Jews in Premodern Yiddish and German Apocalyptic Lore,” *AJS Review* 36,1 (2012): 1-41.
 
 On Jewish masculinity:
 
-Daniel Boyarin, _Unheroic Conduct: The Rise of Heterosexuality and the Invention of the Jewish Man_ (Berkeley: University of California Press, 1997).
+Daniel Boyarin, *Unheroic Conduct: The Rise of Heterosexuality and the Invention of the Jewish Man* (Berkeley: University of California Press, 1997).
 
-Andreas Gotzmann, “Respectability Tested: Male Ideals, Sexuality, and Honor in Early Modern Ashkenazi Society,” in _Jewish Masculinities: German Jews, Gender, and History_, ed. Benjamin Maria Baader, Sharon Gillerman and Paul Lerner, 23-49 (Bloomington: Indiana University Press, 2012).
+Andreas Gotzmann, “Respectability Tested: Male Ideals, Sexuality, and Honor in Early Modern Ashkenazi Society,” in *Jewish Masculinities: German Jews, Gender, and History*, ed. Benjamin Maria Baader, Sharon Gillerman and Paul Lerner, 23-49 (Bloomington: Indiana University Press, 2012).
 
-Warren Rosenberg, _Legacy of Rage: Jewish Masculinity, Violence, and Culture_ (Amherst: University of Massachusetts Press, 2001).
+Warren Rosenberg, *Legacy of Rage: Jewish Masculinity, Violence, and Culture* (Amherst: University of Massachusetts Press, 2001).
 
 <h2 style="text-align: center">Source 1 Translation</h2><p style="text-align: center"><em>The Göttweig Trojan War </em>(1270-1300)</p><p style="text-align: center">Translated by R. Voß. I thank Regina Toepfer for her generous help with the Middle High German.</p>
 
-\[...\]
+[...]
 
-These fine \[Greek\] warriors, the very best
+These fine [Greek] warriors, the very best
 
 entered another land,
 
-\[whose inhabitants\] were called Plotzen.\[^1\]
+[whose inhabitants] were called Plotzen.[^1]
 
 This was the land of Red Jewry,
 
@@ -541,11 +549,11 @@ They were a poisonous lot indeed.
 
 From travellers they demanded a very heavy toll,
 
-\[so\] it is said.
+[so] it is said.
 
 Their country stretched far and wide
 
-\--- _line missing_ \---.
+--- *line missing* ---.
 
 Virtue and modesty
 
@@ -585,11 +593,11 @@ who despised the lords,
 
 they themselves knew why.
 
-\[...\]
+[...]
 
 When the ship had to come ashore,
 
-Hercules \[i.e., Ulysses\] saw
+Hercules [i.e., Ulysses] saw
 
 an innumerable horde
 
@@ -613,7 +621,7 @@ immediately
 
 against these hateful hell-hounds.
 
-They \[i.e., the Red Jews\] all wore
+They [i.e., the Red Jews] all wore
 
 terrible body armor made from horn
 
@@ -627,7 +635,7 @@ their shields remained unscarred except with great effort
 
 from a hand-held a sword.
 
-The damned ones \[destined to die\] desired battle,
+The damned ones [destined to die] desired battle,
 
 they wanted the gold of the Greeks
 
@@ -727,47 +735,47 @@ defeated them and conquered that land.
 
 That king is known as Alexander.
 
-\[...\]
+[...]
 
 <p style="text-align: center"><strong>Footnotes</strong></p>
 
-\[^1\]  Koppitz  reads  “Colchis,”  an  ancient  kingdom  in  today’s  western  Georgia.  This   conforms  to  the  well  established  association  of  the  land  of  the  Red  Jews  with  the   Caucasus  region.  Another  speculative  reading,  for  which  I  am  indebted  to  Regina   Toepfer,  could  be  “fat  and  strong  men”  or  “fatsos,”  cf.  Ernst  Christmann  and  Julius   Krämer,  Pfälzisches  Wörterbuch  (Wiesbaden:  Franz  Steiner  Verlag,  1965-­‐1998),  vol.   1:1028,  s.v.  _Plotzer_
+[^1] &nbsp;Koppitz &nbsp;reads &nbsp;“Colchis,” &nbsp;an &nbsp;ancient &nbsp;kingdom &nbsp;in &nbsp;today’s &nbsp;western &nbsp;Georgia. &nbsp;This &nbsp; conforms &nbsp;to &nbsp;the &nbsp;well &nbsp;established &nbsp;association &nbsp;of &nbsp;the &nbsp;land &nbsp;of &nbsp;the &nbsp;Red &nbsp;Jews &nbsp;with &nbsp;the &nbsp; Caucasus &nbsp;region. &nbsp;Another &nbsp;speculative &nbsp;reading, &nbsp;for &nbsp;which &nbsp;I &nbsp;am &nbsp;indebted &nbsp;to &nbsp;Regina &nbsp; Toepfer, &nbsp;could &nbsp;be &nbsp;“fat &nbsp;and &nbsp;strong &nbsp;men” &nbsp;or &nbsp;“fatsos,” &nbsp;cf. &nbsp;Ernst &nbsp;Christmann &nbsp;and &nbsp;Julius &nbsp; Krämer, &nbsp;Pfälzisches &nbsp;Wörterbuch &nbsp;(Wiesbaden: &nbsp;Franz &nbsp;Steiner &nbsp;Verlag, &nbsp;1965-­‐1998), &nbsp;vol. &nbsp; 1:1028, &nbsp;s.v. &nbsp;*Plotzer*
 
 <h2 style="text-align: center">Source 2 Translation</h2><p style="text-align: center"><em>Ma'ase 'Akdamut </em>(c. 1580-1600)</p>
 
-\[...\] In those days, a black monk who liked to take revenge on the Jews appeared. No Jew could survive an encounter with him. After just a \[23a\] touch,\[^1\] a slap or light tap from him, \[a Jew\] would die upon returning home \[that very day\]. After he had murdered approximately 30,860 Jews, the sages gathered and agreed: “We will all die at the hands of this black monk,” so they approached the king with their plight. \[The king\] then sent for the monk, who appeared before him, saying: “Your highness, what is your desire?” The king said: “The Jews have complained because you have killed so many of them. They are standing there, behind you.” \[The monk\] turned around, gazed at them and said: “Your should know, I merely touch you out of curiosity.” He then touched three of \[that delegation of\] Jews, thus stripping them of all power. Upon reaching home, they each died. The Jews cried out to the king again: “Merciful royal highness, if we have been found guilty and sentenced to death according to your law, don’t let the Black Monk kill us \[23b\] but let us die at the hand of another.” They feared that the king was incapable of protecting them, since the monk had even killed Jews in the king's presence. The king demanded of the monk: “If you wish to abide by my command and enjoy my favor, restore those three Jews to good health and harm them no more!” The monk replied: “I am happy to follow your command and keep your favor by restoring those Jews to life. But give \[this message to\] your Jews: 'I won't cause \[them\] further harm, provided that they send me a representative who will engage with me in a sorcery competition before one year has passed. However, if they have not sent me anyone by then, I will slay them all.' I don’t do this for my honor; rather, I have been long harboring enmity against them on account of their sorcery. If they comply, I will follow your order, Your Majesty, but if not, \[24a\] I will kill them all; even if I put my own life at risk.” \[...\] Soon the Jews answered with great fear and trembling: “We accept the challenge,” thinking that he \[the monk\] would easily die within that year. “Therefore, we want to repent.”
+[...] In those days, a black monk who liked to take revenge on the Jews appeared. No Jew could survive an encounter with him. After just a [23a] touch,[^1] a slap or light tap from him, [a Jew] would die upon returning home [that very day]. After he had murdered approximately 30,860 Jews, the sages gathered and agreed: “We will all die at the hands of this black monk,” so they approached the king with their plight. [The king] then sent for the monk, who appeared before him, saying: “Your highness, what is your desire?” The king said: “The Jews have complained because you have killed so many of them. They are standing there, behind you.” [The monk] turned around, gazed at them and said: “Your should know, I merely touch you out of curiosity.” He then touched three of [that delegation of] Jews, thus stripping them of all power. Upon reaching home, they each died. The Jews cried out to the king again: “Merciful royal highness, if we have been found guilty and sentenced to death according to your law, don’t let the Black Monk kill us [23b] but let us die at the hand of another.” They feared that the king was incapable of protecting them, since the monk had even killed Jews in the king's presence. The king demanded of the monk: “If you wish to abide by my command and enjoy my favor, restore those three Jews to good health and harm them no more!” The monk replied: “I am happy to follow your command and keep your favor by restoring those Jews to life. But give [this message to] your Jews: 'I won't cause [them] further harm, provided that they send me a representative who will engage with me in a sorcery competition before one year has passed. However, if they have not sent me anyone by then, I will slay them all.' I don’t do this for my honor; rather, I have been long harboring enmity against them on account of their sorcery. If they comply, I will follow your order, Your Majesty, but if not, [24a] I will kill them all; even if I put my own life at risk.” [...] Soon the Jews answered with great fear and trembling: “We accept the challenge,” thinking that he [the monk] would easily die within that year. “Therefore, we want to repent.”
 
-\[...\] \[25b\] \[...\]  
-\[A seer\] recounted \[his dream vision\] to them \[the Jews\]: “Dear brothers and youngsters, you won’t find anyone \[suitable to compete in the Black Monk's sorcery contest\], neither in this country nor in the land of Israel. Rather, you must journey beyond the Sambatyon River, which is never calm on weekdays but \[can be traversed\] on \[26a\] Shabbat. Whoever attempts to cross it during the week will surely drown, non-Jew and Jew alike, because the Sambatyon heaves stones from its riverbed that can rupture any vessel. You must recruit a member of the \[Ten\] Tribes \[i.e., the Red Jews\] who live in exile there, for they are masters of the \[divine\] name who will assist you. At the end of our exile, they will also come to our rescue. They are called Sons of Saviors, as is written: ‘And saviors shall come up on Mount Zion to judge the mount of Esau,’ (Obadiah 1:21) meaning that they will participate in judging Gog and Magog on Mount Zion. \[The Red Jews\] cannot travel across the Sambatyon River, but God will ultimately lead them over dry land.” The \[imperiled\] Jews responded to the seer: “If God plans to help us with a Red Jew, why doesn’t He provide a sign that He will send one to us? Otherwise we would be compelled to travel there, thus violating Shabbat.” The seer replied: “Indeed, you are right. But you \[26b\] are not worthy of such a sign and alteration of the \[natural\] ways of the world that would be required for God to send him to you.” They said to him: “Who would want to go on a journey that entails desecrating Shabbat, to inevitably be judged by the Red Jews \[upon arrival\]? Anyone who risks his neck on such a mission would hardly earn a place in the Garden of Eden.”
+[...] [25b] [...]\
+[A seer] recounted [his dream vision] to them [the Jews]: “Dear brothers and youngsters, you won’t find anyone [suitable to compete in the Black Monk's sorcery contest], neither in this country nor in the land of Israel. Rather, you must journey beyond the Sambatyon River, which is never calm on weekdays but [can be traversed] on [26a] Shabbat. Whoever attempts to cross it during the week will surely drown, non-Jew and Jew alike, because the Sambatyon heaves stones from its riverbed that can rupture any vessel. You must recruit a member of the [Ten] Tribes [i.e., the Red Jews] who live in exile there, for they are masters of the [divine] name who will assist you. At the end of our exile, they will also come to our rescue. They are called Sons of Saviors, as is written: ‘And saviors shall come up on Mount Zion to judge the mount of Esau,’ (Obadiah 1:21) meaning that they will participate in judging Gog and Magog on Mount Zion. [The Red Jews] cannot travel across the Sambatyon River, but God will ultimately lead them over dry land.” The [imperiled] Jews responded to the seer: “If God plans to help us with a Red Jew, why doesn’t He provide a sign that He will send one to us? Otherwise we would be compelled to travel there, thus violating Shabbat.” The seer replied: “Indeed, you are right. But you [26b] are not worthy of such a sign and alteration of the [natural] ways of the world that would be required for God to send him to you.” They said to him: “Who would want to go on a journey that entails desecrating Shabbat, to inevitably be judged by the Red Jews [upon arrival]? Anyone who risks his neck on such a mission would hardly earn a place in the Garden of Eden.”
 
-\[...\] \[27a\] \[...\]  
-The \[Red Jews\] cast lots to determine who would set out \[to compete against the Black Monk\]. The lot fell on one named Dan, who was old and walked with a limp. \[...\] \[27b\] This little Red Jew boarded the ship which sailed across \[the Sambatyon\], where he met the three rabbis \[emissaries\] sitting there. \[...\] The three rabbis were shocked and remarked: “How can one so puny and lame possibly stand up to the monk?”\[^2\] \[...\] When \[they saw how\] the little \[Red\] man \[28a\] hobbled, they \[the rabbis accompanying him\] thought they would need to support and guide him on their way. But he took the lead and, after only two days and two nights, he had brought them to their destination by taking a short cut, arriving just in time for the sorcerers’ contest. The Jews were overcome with fear \[...\]. They all wept and wailed as they approached the site that the monk had appointed for their confrontation. Upon seeing the little man, they became even more downcast that they \[...\] had been sent a lame shrimp of a man \[...\]. Not knowing what to do, they thought: “Almighty God, how can this little fellow can stand up to this strapping and stalwart monk who has mastered both sorcery and demons?”
+[...] [27a] [...]\
+The [Red Jews] cast lots to determine who would set out [to compete against the Black Monk]. The lot fell on one named Dan, who was old and walked with a limp. [...] [27b] This little Red Jew boarded the ship which sailed across [the Sambatyon], where he met the three rabbis [emissaries] sitting there. [...] The three rabbis were shocked and remarked: “How can one so puny and lame possibly stand up to the monk?”[^2] [...] When [they saw how] the little [Red] man [28a] hobbled, they [the rabbis accompanying him] thought they would need to support and guide him on their way. But he took the lead and, after only two days and two nights, he had brought them to their destination by taking a short cut, arriving just in time for the sorcerers’ contest. The Jews were overcome with fear [...]. They all wept and wailed as they approached the site that the monk had appointed for their confrontation. Upon seeing the little man, they became even more downcast that they [...] had been sent a lame shrimp of a man [...]. Not knowing what to do, they thought: “Almighty God, how can this little fellow can stand up to this strapping and stalwart monk who has mastered both sorcery and demons?”
 
-\[28b\]  
-They \[the Jews\] were gathered in a large square, positioned below the other witnesses, who stood on a raised platform that had been erected \[especially for this occasion\], for the monk – per his agreement with the king – planned to kill the Jews en masse once their representative lost \[the sorcery competition\]. The monk turned to them \[the Jews\] and exclaimed: “See how the Jews mock me! Why do they present a trembling dwarf for this contest?” The whole of Israel was very frightened, but the emissaries, who had been lead on a miraculous short cut\[^3\] by \[the little Red Jew\] on their return journey, shouted: “Magician, you haven’t yet seen the morrow! By the time our sorcerer is finished, the world will be too small for you!”
+[28b]\
+They [the Jews] were gathered in a large square, positioned below the other witnesses, who stood on a raised platform that had been erected [especially for this occasion], for the monk – per his agreement with the king – planned to kill the Jews en masse once their representative lost [the sorcery competition]. The monk turned to them [the Jews] and exclaimed: “See how the Jews mock me! Why do they present a trembling dwarf for this contest?” The whole of Israel was very frightened, but the emissaries, who had been lead on a miraculous short cut[^3] by [the little Red Jew] on their return journey, shouted: “Magician, you haven’t yet seen the morrow! By the time our sorcerer is finished, the world will be too small for you!”
 
-\[...\]  
-The monk began by summoning demons to bring him an enormous steel pole that he planned to use for beating the little \[Red\] Jew to death.\[^4\] With the demons’ help, the monk hoisted the pole, which was so heavy that even an entire army couldn’t have lifted, then he cast it into the ground and the earth then \[29a\] swallowed it. He screamed at the little \[Red\] Jew: “Now, pull it out again or else all the Jews will be slain, for you infuriate me so much that I will show no mercy. It will be as if you had killed them.” \[...\] The little man responded immediately: “\[...\] I will pull it out from under the king’s throne.” Wondering about the little \[Red\] Jew’s words, the king observed that the little Red Jew dug a hole with one little finger, effortlessly extracted the pole, and cast it so high in the sky that it was barely visible. As \[29b\] the pole floated in the air, \[the little Red Jew\] addressed the monk: “Grab it – I have not concealed it. If you cannot reach it, everyone will see your head impaled on this pole today. I will then dispatch it to a desolate wasteland where no one ever strays. You and your \[magical\] teachers \[i.e., the demons\] will be stripped of any power over me.” With help from his magic allies, the monk struggled to seize the pole, but he failed. \[The little Red Jew\] had thrown it to a height that no demon could reach. Unable to meet the challenge, the monk stood in disgrace.
+[...]\
+The monk began by summoning demons to bring him an enormous steel pole that he planned to use for beating the little [Red] Jew to death.[^4] With the demons’ help, the monk hoisted the pole, which was so heavy that even an entire army couldn’t have lifted, then he cast it into the ground and the earth then [29a] swallowed it. He screamed at the little [Red] Jew: “Now, pull it out again or else all the Jews will be slain, for you infuriate me so much that I will show no mercy. It will be as if you had killed them.” [...] The little man responded immediately: “[...] I will pull it out from under the king’s throne.” Wondering about the little [Red] Jew’s words, the king observed that the little Red Jew dug a hole with one little finger, effortlessly extracted the pole, and cast it so high in the sky that it was barely visible. As [29b] the pole floated in the air, [the little Red Jew] addressed the monk: “Grab it – I have not concealed it. If you cannot reach it, everyone will see your head impaled on this pole today. I will then dispatch it to a desolate wasteland where no one ever strays. You and your [magical] teachers [i.e., the demons] will be stripped of any power over me.” With help from his magic allies, the monk struggled to seize the pole, but he failed. [The little Red Jew] had thrown it to a height that no demon could reach. Unable to meet the challenge, the monk stood in disgrace.
 
-He said to his little opponent: “Let’s try another trick.” Hoping that \[the little Red Jew\] would forget about the pole, \[the monk\] conjured two millstones. Right after stating: “I created them,” he ground them between his hands, as one would mill flour or \[pulverize\] clods of earth or blocks of chalk. The little \[Red\] Jew replied: “You said \[30a\] you made them. It’s no wonder that I can't create something like that because I am not a god. But I petition God’s help so I too can craft such \[millstones\].” His prayer was followed by a gust of wind that blew the fragments \[of the millstones\] back together and fused them \[once again\] into two piles. \[The little Red Jew then kneaded these fragments\] as if they were clay\[^5\] and formed two millstones, bigger than the monk’s originals, because the wind had collected additional material. He then picked up the two millstones with ease and effortlessly ground them into powder. \[He reshaped the millstones\] and made a wind carry them upward, to the elevation where the pole was still floating. The onlookers all understood that no one could reach or grasp them, and \[the monk\] was disgraced yet again. The little Red Jew remarked: “How much longer should I have to bother with you? You’re no match for me.”
+He said to his little opponent: “Let’s try another trick.” Hoping that [the little Red Jew] would forget about the pole, [the monk] conjured two millstones. Right after stating: “I created them,” he ground them between his hands, as one would mill flour or [pulverize] clods of earth or blocks of chalk. The little [Red] Jew replied: “You said [30a] you made them. It’s no wonder that I can't create something like that because I am not a god. But I petition God’s help so I too can craft such [millstones].” His prayer was followed by a gust of wind that blew the fragments [of the millstones] back together and fused them [once again] into two piles. [The little Red Jew then kneaded these fragments] as if they were clay[^5] and formed two millstones, bigger than the monk’s originals, because the wind had collected additional material. He then picked up the two millstones with ease and effortlessly ground them into powder. [He reshaped the millstones] and made a wind carry them upward, to the elevation where the pole was still floating. The onlookers all understood that no one could reach or grasp them, and [the monk] was disgraced yet again. The little Red Jew remarked: “How much longer should I have to bother with you? You’re no match for me.”
 
-\[...\]  
-When the monk scanned the sky above him without seeing any of his teachers \[i.e., the demons\], so he despaired. He went pale, started shaking and pleaded with the little Red Jew: “I would gladly become your servant, just let me live.” \[The little Red Jew\] answered: “I won’t take your life. I wouldn’t even touch you, although I should kill you. Indeed you deserve to suffer many violent deaths, after having slain so many of my brothers.”
+[...]\
+When the monk scanned the sky above him without seeing any of his teachers [i.e., the demons], so he despaired. He went pale, started shaking and pleaded with the little Red Jew: “I would gladly become your servant, just let me live.” [The little Red Jew] answered: “I won’t take your life. I wouldn’t even touch you, although I should kill you. Indeed you deserve to suffer many violent deaths, after having slain so many of my brothers.”
 
-\[...\] \[31b\] \[...\]
+[...] [31b] [...]
 
-\[The little Red Jew\] said to the monk: “This tall, thick tree has been untouched since Noah built the ark. Since Noah felled the tree \[for his ark\], this tree has been growing in its spot. I will bend it downward and then you shall hold it to the ground to prevent it from snapping back. Or \[if you’d rather,\] you can bend it and I will hold it down.” Again, the monk considered performing another trick, \[32a\] by means of sorcery. But none of the demons were in sight, so he cried and whimpered: “Why did you abandon me, dear masters?” The little Red Jew mocked him: “What is this crying about? Did your father or your mother just die?” The monk, however, didn’t feel like laughing; he wished that he had died long ago because he had no idea how to bend this mighty tree. \[...\] The little \[Red\] Jew, however, bent the tree like a twig before everyone’s eyes. \[...\] Uneasy about his part, the monk was reluctant to step forward, and the little Red Jew shouted: “My highness the king and the entire court of lords, behold this man, \[32b\] what an unusual magician!” The monk was embarrassed because this was not what he had envisioned. \[...\] Although he could already foresee his death, the monk had to carry on. He approached the tree with great shame. \[...\] When the monk finally grabbed it tightly, the little \[Red\] Jew let go. Immediately, the tree snapped back and strongly lashed at the monk, knocking his head off. And everyone witnessed him being tossed into the air, where his body was caught on the pole, between the two millstones that were rotating \[33a\] on it, and sent him flying into the wasteland, as the little Red Jew had foretold.
+[The little Red Jew] said to the monk: “This tall, thick tree has been untouched since Noah built the ark. Since Noah felled the tree [for his ark], this tree has been growing in its spot. I will bend it downward and then you shall hold it to the ground to prevent it from snapping back. Or [if you’d rather,] you can bend it and I will hold it down.” Again, the monk considered performing another trick, [32a] by means of sorcery. But none of the demons were in sight, so he cried and whimpered: “Why did you abandon me, dear masters?” The little Red Jew mocked him: “What is this crying about? Did your father or your mother just die?” The monk, however, didn’t feel like laughing; he wished that he had died long ago because he had no idea how to bend this mighty tree. [...] The little [Red] Jew, however, bent the tree like a twig before everyone’s eyes. [...] Uneasy about his part, the monk was reluctant to step forward, and the little Red Jew shouted: “My highness the king and the entire court of lords, behold this man, [32b] what an unusual magician!” The monk was embarrassed because this was not what he had envisioned. [...] Although he could already foresee his death, the monk had to carry on. He approached the tree with great shame. [...] When the monk finally grabbed it tightly, the little [Red] Jew let go. Immediately, the tree snapped back and strongly lashed at the monk, knocking his head off. And everyone witnessed him being tossed into the air, where his body was caught on the pole, between the two millstones that were rotating [33a] on it, and sent him flying into the wasteland, as the little Red Jew had foretold.
 
 Thus, the Holy One, blessed be He, saved us. Seeing these miracles, all of Israel and all peoples, King Martin von Lanz and all the other kings returned home in peace and joy, for they would never have to fear that Black Monk ever again. The miracle performed by the little Red Jew won favor for the Jews among the king, his judges and all peoples.
 
 <p style="text-align: center"><strong>Footnotes:</strong></p>
 
-\[^1\] Print edition from Fürth 1694, fol. 2a: Even if he just touched against his forehead.
+[^1] Print edition from Fürth 1694, fol. 2a: Even if he just touched against his forehead.
 
-\[^2\] Print edition from Fürth 1694, fol. 4b: How can that lame little man possibly stand up to the great monk? He is limping!
+[^2] Print edition from Fürth 1694, fol. 4b: How can that lame little man possibly stand up to the great monk? He is limping!
 
-\[^3\] _Kefitzat ha-Derech_ is implied here, a magical practice of traveling long distances with miraculous speed by “contracting the path” via the use of divine names.
+[^3] *Kefitzat ha-Derech* is implied here, a magical practice of traveling long distances with miraculous speed by “contracting the path” via the use of divine names.
 
-\[^4\] Print edition from Fürth 1694, fol. 5a: In order to pound the little \[Red\] Jew to pieces.
+[^4] Print edition from Fürth 1694, fol. 5a: In order to pound the little [Red] Jew to pieces.
 
-\[^5\] Print edition from Fürth 1694, fol. 5b: The \[Red Jew\] kneaded the fragments as if they were dough.
+[^5] Print edition from Fürth 1694, fol. 5b: The [Red Jew] kneaded the fragments as if they were dough.
