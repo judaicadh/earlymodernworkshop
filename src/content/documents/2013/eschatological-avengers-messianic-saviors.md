@@ -496,7 +496,6 @@ institution: Goethe-Universität, Frankfurt
 event:
   name: 'Early Modern Workshop: Jewish History Resources'
   theme: Jews and Violence in the Early Modern Period
-  Date: {}
 bibliography: []
 sections: []
 footnotes: []

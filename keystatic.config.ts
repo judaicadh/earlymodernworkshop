@@ -54,7 +54,8 @@ const schema = {
     event: fields.object({
         name: fields.text({ label: 'Event Name' }),
         theme: fields.text({ label: 'Theme' }),
-        Date: fields.object({
+        // lowercase: 9 entries carry real start/end values under `date`
+        date: fields.object({
             start: fields.date({ label: 'Start Date' }),
             end: fields.date({ label: 'End Date' }),
         }),
@@ -69,6 +70,8 @@ const schema = {
             institution: fields.text({ label: 'Institution' }),
             year: fields.text({ label: 'Publication Year' }),
             pages: fields.text({ label: 'Pages' }),
+            // used by 5 references, e.g. "Leiden, 2009"
+            publication: fields.text({ label: 'Publication' }),
         }),
         { label: 'Bibliography', itemLabel: (p) => p.fields.title.value || 'Reference' }
     ),
@@ -87,6 +90,8 @@ const schema = {
         fields.object({
             ref: fields.text({ label: 'Ref' }),
             text: fields.text({ label: 'Text', multiline: true }),
+            // hyphenated key as it appears in 6 entries' frontmatter
+            'rich-text': fields.text({ label: 'Rich Text', multiline: true }),
         }),
         { label: 'Footnotes', itemLabel: (p) => p.fields.ref.value || 'Footnote' }
     ),

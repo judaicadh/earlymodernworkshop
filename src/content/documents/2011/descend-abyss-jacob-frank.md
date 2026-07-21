@@ -14,7 +14,6 @@ institution: Hebrew University of Jerusalem
 event:
   name: 'Early Modern Workshop: Jewish History Resources'
   theme: 'Egodocuments: Revelation of the Self in the Early Modern Period'
-  Date: {}
 bibliography: []
 ---
 # Introduction
