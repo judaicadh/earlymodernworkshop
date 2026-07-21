@@ -29,7 +29,7 @@ description: >-
   primarily based on class? Was violence primarily the response of lower classes
   who couldn’t afford to litigate disputes? Did women in engage in the same
   level of physical violence as men, and if not, how did its expression differ?
-original_language_body: >-
+original_language_body: >+
   ## Source 1 Original
 
 
@@ -455,6 +455,9 @@ original_language_body: >-
 
 
   ב"א לוי מן דף האיסור‬‎
+
+
+  ## Source 3 Original
 ---
 ## Introduction
 
