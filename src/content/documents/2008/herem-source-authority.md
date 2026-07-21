@@ -115,60 +115,60 @@ original_language_body: >-
   dizendo, como cõdenaraõ a os moradores de Yabez Gilhad, porque transgiriraõ o
   herem, & naõ acudiraõ como os demais a aquella guerra; & assi mandaõ sejaõ
   todos passados a fio de espada, sem reservar seso de pessoa, eseito as donzel-
-  [5] las ya en estado de cazar, & foraõ estas quatro sentas, bem, & os demais
-  duzentos que lhes faremos, que dificultade he esta em hum cazo taõ apertado &
-  taõ urgente, os mesmos que consistiraõ no herem naõ o podiaõ absolver, qeu
-  libres delle naõ podiaõ reparar a os duzentos? bem podiaõ, mas se prova o que
-  pretendemos, que podendo, o naõ deviaõ fazer sem ver se por outro caminho se
-  podia remediar, sem tocar no sagrado herem, qeu acharaõ dandolhes licença
-  fossem a o campo & se emboscassem nas vinhas no dia em qeu as dozellas de
-  Ysrael festejavaõ com suas danças & bayles (dia que dizemos das mossas) & que
-  cada qual tomasse hua daquellas moças, de maneira que ainda que violencia &
-  naõ piquena, julgavaõ que era menor mal que violar, ainda que com absolvisaõ a
-  o herem, ora note agora todo o bom juyzo, que disculpa pode ter para deixar de
-  encurrir no herem do sancto kahal, nem por pensamento tratar de sua
-  absolvisaõ, & todos os qeu desta verdade naõ fizerem o cazo devido ainda que o
-  herem for por cauzas ordinarias, poraõ a o tal em niduy ‫נידוי‬‎ quanto mais
-  se for por cousa de misvá, ou feito para melhor observancia da sancta Ley,
-  como se pode ver em R. Moseh Gerundense no [6] Tratado do herem 288. supost
-  como deixo dito ser este o fim deste nosso Tratado, me pareceu em primeiro
-  lugar conviniente dar noticia do herem para que se saiba a quanto se estende,
-  & se pode absolver, & o como, reprovando primeiro como faz R. Moseh Gerundense
-  Tratado 288. o que uzaõ alguas comgregas quando absolvem o herem, que sobe o
-  hazan a Tebah & com dizer está absolto o herem, entendem tem cumprido, porque
-  somente o Haham o pode absolver, o tres pessoas em seu lugar, salvo quando
-  dita absolvisaõ for feita com consentimento, & em presença de todo o Kahal & o
-  mesmo dos que entre si se ligaraõ com herem que elles mesmos se podem
-  absolver, comprovado com o que dizem nossos Sabios, quando os Tribos venderaõ
-  a Iosseph acordaraõ entre si que enemhum delles o descubriria a seu pay com
-  herem, disse Iedudah [sic] naõ pode ser porque falta Reuben & naõ somos mais
-  de nove, numero naõ competente, & para o remediar ajuntaraõ consigo a o
-  Senhor, & tanto estima Deos Bendito a honra dos homems, & particularmente, a
-  de seus tementes, que consintiu & se comprendeu com elles, veo Reuben & ficou
-  sogeito a mesma obrigaçaõ, & com ser assi qeu pa- [7] recia de rezaõ ficava
-  libre o Senhor, & diz o verso do Real Psalmista *Psalmo I* [4]7. ver. 19.
-  ‫מגיד דבריו ליעקב‬‎ *descubre suas palabras á Iahacob*, naõ lho quis descubrir
-  por respeito do herem & honra dos Tribos & assi que acharaõ vivo a Iosseph
-  elles mesmos entre si absolveraõ o herem & he o que dis o Sagrado texto
-  *Genesis 46. verso 27*. ‫ותחי רוח יעקב אביהם‬‎ & *resositou o espirito de
-  Iahacob seu pay*, por vintura eestava morto? si, & assi quer dizer o Sagrado
-  texsto resositou o espirito de Iahacob, sim resositou, por que, por causa do
-  herem naõ se comonicava com elle o Senhor, porem tanto que se absolveu, logo
-  lhe foy restituyda a Prophecia, & assi se deve notar que logo o vay nomeando
-  com o nome de Ysrael, & entendo lhe negou o Senhor a Prophecia opr naõ lhe dar
-  lugar a preguntarlhe por Iosseph & he o que dizem em *Genesis 37. verso 35*.
-  ‫ויבך אותו אביו‬‎ *& chorou a elle seu pay*, a saber seu pay de Iahacob
-  chorava Iosseph em companhia de seu pay, porque naõ presumissem que lhe era
-  revelado qeu estava vivo, porque a elle o podia descubrir o Senhor, de sorte,
-  que o herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
+  **[5]** las ya en estado de cazar, & foraõ estas quatro sentas, bem, & os
+  demais duzentos que lhes faremos, que dificultade he esta em hum cazo taõ
+  apertado & taõ urgente, os mesmos que consistiraõ no herem naõ o podiaõ
+  absolver, qeu libres delle naõ podiaõ reparar a os duzentos? bem podiaõ, mas
+  se prova o que pretendemos, que podendo, o naõ deviaõ fazer sem ver se por
+  outro caminho se podia remediar, sem tocar no sagrado herem, qeu acharaõ
+  dandolhes licença fossem a o campo & se emboscassem nas vinhas no dia em qeu
+  as dozellas de Ysrael festejavaõ com suas danças & bayles (dia que dizemos das
+  mossas) & que cada qual tomasse hua daquellas moças, de maneira que ainda que
+  violencia & naõ piquena, julgavaõ que era menor mal que violar, ainda que com
+  absolvisaõ a o herem, ora note agora todo o bom juyzo, que disculpa pode ter
+  para deixar de encurrir no herem do sancto kahal, nem por pensamento tratar de
+  sua absolvisaõ, & todos os qeu desta verdade naõ fizerem o cazo devido ainda
+  que o herem for por cauzas ordinarias, poraõ a o tal em niduy ‫נידוי‬‎ quanto
+  mais se for por cousa de misvá, ou feito para melhor observancia da sancta
+  Ley, como se pode ver em R. Moseh Gerundense no **[6]** Tratado do herem 288.
+  supost como deixo dito ser este o fim deste nosso Tratado, me pareceu em
+  primeiro lugar conviniente dar noticia do herem para que se saiba a quanto se
+  estende, & se pode absolver, & o como, reprovando primeiro como faz R. Moseh
+  Gerundense Tratado 288. o que uzaõ alguas comgregas quando absolvem o herem,
+  que sobe o hazan a Tebah & com dizer está absolto o herem, entendem tem
+  cumprido, porque somente o Haham o pode absolver, o tres pessoas em seu lugar,
+  salvo quando dita absolvisaõ for feita com consentimento, & em presença de
+  todo o Kahal & o mesmo dos que entre si se ligaraõ com herem que elles mesmos
+  se podem absolver, comprovado com o que dizem nossos Sabios, quando os Tribos
+  venderaõ a Iosseph acordaraõ entre si que enemhum delles o descubriria a seu
+  pay com herem, disse Iedudah [sic] naõ pode ser porque falta Reuben & naõ
+  somos mais de nove, numero naõ competente, & para o remediar ajuntaraõ consigo
+  a o Senhor, & tanto estima Deos Bendito a honra dos homems, & particularmente,
+  a de seus tementes, que consintiu & se comprendeu com elles, veo Reuben &
+  ficou sogeito a mesma obrigaçaõ, & com ser assi qeu pa- **[7]** recia de rezaõ
+  ficava libre o Senhor, & diz o verso do Real Psalmista *Psalmo I* **[4]**7.
+  ver. 19. ‫מגיד דבריו ליעקב‬‎ *descubre suas palabras á Iahacob*, naõ lho quis
+  descubrir por respeito do herem & honra dos Tribos & assi que acharaõ vivo a
+  Iosseph elles mesmos entre si absolveraõ o herem & he o que dis o Sagrado
+  texto *Genesis 46. verso 27*. ‫ותחי רוח יעקב אביהם‬‎ & *resositou o espirito
+  de Iahacob seu pay*, por vintura eestava morto? si, & assi quer dizer o
+  Sagrado texsto resositou o espirito de Iahacob, sim resositou, por que, por
+  causa do herem naõ se comonicava com elle o Senhor, porem tanto que se
+  absolveu, logo lhe foy restituyda a Prophecia, & assi se deve notar que logo o
+  vay nomeando com o nome de Ysrael, & entendo lhe negou o Senhor a Prophecia
+  opr naõ lhe dar lugar a preguntarlhe por Iosseph & he o que dizem em *Genesis
+  37. verso 35*. ‫ויבך אותו אביו‬‎ *& chorou a elle seu pay*, a saber seu pay de
+  Iahacob chorava Iosseph em companhia de seu pay, porque naõ presumissem que
+  lhe era revelado qeu estava vivo, porque a elle o podia descubrir o Senhor, de
+  sorte, que o herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
 
 
-  Dilatasse este nome de herem, que he os mesmo [8] que maldiçaõ, que dizendo
-  hum homem estas fazendas seigaõ herem he o mesmo que se as consagrara, & assi
-  se julga como os demais votos pera sua absolusaõ, & a tal fazenda servia para
-  os consertos do Sagrado Templo, ou se dava a os sacerdotes. Porem quando
-  Bet-Din manda, dizendo quem fizer tal cousa, está posto em herem, que seiga
-  este herem emviolavel, a tradiçaõ no lo ensina como a diante se verá.
+  Dilatasse este nome de herem, que he os mesmo **[8]** que maldiçaõ, que
+  dizendo hum homem estas fazendas seigaõ herem he o mesmo que se as consagrara,
+  & assi se julga como os demais votos pera sua absolusaõ, & a tal fazenda
+  servia para os consertos do Sagrado Templo, ou se dava a os sacerdotes. Porem
+  quando Bet-Din manda, dizendo quem fizer tal cousa, está posto em herem, que
+  seiga este herem emviolavel, a tradiçaõ no lo ensina como a diante se verá.
 
 
   Differe o herem dos juramentos, porque hum homem que aconjurar a outro, sera o
@@ -182,8 +182,8 @@ original_language_body: >-
   elle por si jurara.
 
 
-  Assi mesmo hua cidade cujos moradores acor- [9] daraõ todos, ò a mayor parte
-  delles, em prezencia dos sete Diputados, se deitasse herem, seu herem he
+  Assi mesmo hua cidade cujos moradores acor- **[9]** daraõ todos, ò a mayor
+  parte delles, em prezencia dos sete Diputados, se deitasse herem, seu herem he
   valido para obrigar a menor parte a sua observancia, & ò tal herem he firme, &
   incontravel, assi qualquer da tal cidade, qeu transgerir, fica enhermado como
   se transgerira seu proprio juramento, o qual penetrará seus membros, & como
@@ -201,7 +201,7 @@ original_language_body: >-
 
   E este herem he que dizem naõ he valido, senaõ em companhia dez, & he o que se
   chama congrega, & sendo menos naõ tem autoridade para pór em herem, porem
-  jurar si, cada hum por si. [10] E se este herem fosse posto por el Rey ò
+  jurar si, cada hum por si. **[10]** E se este herem fosse posto por el Rey ò
   Senado grande de Ysrael em presencia da mayor parte de Ysrael, o que o
   transsgerir merece morte, & esta será à eleiçaõ do Rey ó Senado, que lha podem
   dar qual a elles parecer, como consta, & foy o direito que teve o famoso
@@ -236,25 +236,25 @@ original_language_body: >-
   espero com ella evitar hum grande absurdo, reprovar hua perjudicial doctrina,
   introdusida de animos maliciocos, preturbadores da dezejada paz, trazendo
   en[?]xonados algums sogetos dezejosos da liberdade, anhelando o mesmo que os
-  faz cautivos do pecca[d]o, sem considerar o quanto offendem a Deos, [12] pois
-  saõ causa de desunir a sua Congrega, cuja gloria, & felicidade consiste no
-  contrario, pois entonces somos assistidos da sua Soberano graça; pois entonces
-  somos immediatamente delle protegidos; entonces se dgna de ser Rey nosso, &
-  nos seus amados vassallos como assi o manifesta o corifeo dos Prophetas Mosseh
-  *Deute. cap. 33. vers. 5.* ‫ויהי בישורון מלך בהתאסף ראשי עם יחד שבטי ישראל‬‎
-  *E foy Rey em Ysrael,* Rey, que he o Senhor Deos, bem entendido quando estaõ
-  juntas do povo as *Cabeças, unidos os Tribus de Ysrael*; & que mayor
-  encarecimento, naõ o sendo senaõ a mesma verdade, como nos tem mostrado a
-  expiriencia, sentença de nossos Sabios sobre as palavras do Propheta, *Ossea
-  cap. 4. vers. 17.* ‫חבור עצבים אפרים הנח לו‬‎ *Unido idolos Ephraym deyxaõ*;
-  que por estar falto de inteligencia, explicaõ nossos Sabios no *Medras Rabot,
-  Trat. 41. vers. 3.* notay quam grata he a o Senhor a paz, & concordia na sua
-  Republica, que estando entre si Ephraym, (inda que está cheo de idolatria)
-  unido, deyxallo; porque naõ ha força que o possa contrastar, nem justiça que o
-  possa condenar; & sendo pello contrario, diz o mesmo Propheta *Ossea cap. 10.
-  ver. 2.* ‫חלק לבם עתה יאשמו‬‎ **[13]** *Dividiuse o seu coraçaõ*, *agora seraõ
-  condenados*; agora si, que tera lugar a justiça contra elles, he assi agora
-  sendo condenados, seraõ castigados.
+  faz cautivos do pecca[d]o, sem considerar o quanto offendem a Deos, **[12]**
+  pois saõ causa de desunir a sua Congrega, cuja gloria, & felicidade consiste
+  no contrario, pois entonces somos assistidos da sua Soberano graça; pois
+  entonces somos immediatamente delle protegidos; entonces se dgna de ser Rey
+  nosso, & nos seus amados vassallos como assi o manifesta o corifeo dos
+  Prophetas Mosseh *Deute. cap. 33. vers. 5.* ‫ויהי בישורון מלך בהתאסף ראשי עם
+  יחד שבטי ישראל‬‎ *E foy Rey em Ysrael,* Rey, que he o Senhor Deos, bem
+  entendido quando estaõ juntas do povo as *Cabeças, unidos os Tribus de
+  Ysrael*; & que mayor encarecimento, naõ o sendo senaõ a mesma verdade, como
+  nos tem mostrado a expiriencia, sentença de nossos Sabios sobre as palavras do
+  Propheta, *Ossea cap. 4. vers. 17.* ‫חבור עצבים אפרים הנח לו‬‎ *Unido idolos
+  Ephraym deyxaõ*; que por estar falto de inteligencia, explicaõ nossos Sabios
+  no *Medras Rabot, Trat. 41. vers. 3.* notay quam grata he a o Senhor a paz, &
+  concordia na sua Republica, que estando entre si Ephraym, (inda que está cheo
+  de idolatria) unido, deyxallo; porque naõ ha força que o possa contrastar, nem
+  justiça que o possa condenar; & sendo pello contrario, diz o mesmo Propheta
+  *Ossea cap. 10. ver. 2.* ‫חלק לבם עתה יאשמו‬‎ **[13]** *Dividiuse o seu
+  coraçaõ*, *agora seraõ condenados*; agora si, que tera lugar a justiça contra
+  elles, he assi agora sendo condenados, seraõ castigados.
 
 
 
