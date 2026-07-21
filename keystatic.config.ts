@@ -15,9 +15,13 @@ const schema = {
     description: fields.text({ label: 'Description', multiline: true }),
 
     author: fields.text({ label: 'Author' }),
+
+    // present in 13 entries; Keystatic rejects unknown frontmatter keys, so it must be declared
+    presenter: fields.text({ label: 'Presenter' }),
+
     year: fields.text({ label: 'Year', validation: { isRequired: true } }),
     volume: fields.integer({ label: 'Volume' }),
-    slug: fields.slug({ name: 'Slug' }),
+    slug: fields.slug({ name: { label: 'Slug' } }),
 
     source_author: fields.text({ label: 'Source Author' }),
 
@@ -66,6 +70,24 @@ const schema = {
             pages: fields.text({ label: 'Pages' }),
         }),
         { label: 'Bibliography', itemLabel: (p) => p.fields.title.value || 'Reference' }
+    ),
+
+    // present in 10 entries; shape mirrors content.config.ts (title + markdown string)
+    sections: fields.array(
+        fields.object({
+            title: fields.text({ label: 'Title' }),
+            content: fields.text({ label: 'Content', multiline: true }),
+        }),
+        { label: 'Sections', itemLabel: (p) => p.fields.title.value || 'Section' }
+    ),
+
+    // present in 13 entries; shape mirrors content.config.ts
+    footnotes: fields.array(
+        fields.object({
+            ref: fields.text({ label: 'Ref' }),
+            text: fields.text({ label: 'Text', multiline: true }),
+        }),
+        { label: 'Footnotes', itemLabel: (p) => p.fields.ref.value || 'Footnote' }
     ),
 
     // changed: markdoc → text
