@@ -94,6 +94,8 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 
 ## Source 1 Original Text
 
+**Publisher:** Jahrbuch der juedisch-literarisch Gesellschaft 11 (1916)
+
 מתוך תקנות קראקא שנ"ה
 
 דיא אשה, דיא דא לאזט בייא זיך שפילן, איז אויך אין דען עונש וקנס הנ"ל אזו וואול, אז דיא דא הוט גישפילט. אונ' ווען מן קומט פר איין שטוב אודר קמיר, דיא דא ווערט צו זיין, אונ' מן ווערט אן קלאפין, אונ' מן ווערט ניט וועלין אויף טון, אל דיא נשים דיא דרין ווערין זיין גיוועזין, זאלין אלי האבן דען עונש הנ"ל אונ' זול קיין תירוץ בעולם העלפין.
@@ -109,6 +111,8 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 כל הנ"ל זאלין קיין גיגן מאל מכין בשום אופן ותחבולה בעולם אפי' סערוויר ופסולי עדות, נייארט בניו ובנותיו חתניו וכלותיו והדרים עמו אין זיינר שטוב מן זאל אבר קייגן ניט שאצין, אפילו חתן וכלה, אונ' זול מיט קיינם שמש ניט בעטן, אויך ניט אויש רופן אין דער גס כסדר שאר סעודות.
 
 ## Source 2 Original Text
+
+**Publisher:** B. Weinryb (ed.), Texts and Studies the Communal History of Polish Jewry, New York 1950
 
 מתוך "ספר הזכרונות" - פנקס הקהל של ק"ק פוזנא
 
