@@ -232,7 +232,15 @@ Scan 51: May God remember the soul of the dear, esteemed, righteous, upright wom
 
 Deceased with a good name on Thursday evening and buried on Friday, Erev Shabbat Kodesh, 10 Heshvan 5448 1687 to the small counting
 
-Scan 88: May God remember the soul of the esteemed, pious woman, Marat Yekht, daughter of the officer, the deceased parnas (?) R’ Eli Maklif, the righteous of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that her home was open to all …… and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births… … 1709/1710
+Scan 88: May God remember the soul of the esteemed, pious woman, Marat Yekht, daughter of the officer, the deceased parnas (?) R’ Eli Maklif, the righteous of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that her home was open to all 
+
+[……] 
+
+**and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births**
+
+[…] 
+
+1709/1710
 
 National Library of Israel, Ms. Heb. 8°1465, f. 80
 
