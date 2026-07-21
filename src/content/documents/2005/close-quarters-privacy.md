@@ -5,7 +5,7 @@ institution: Brown University
 volume: 2
 year: "2005"
 slug: close-quarters-privacy
-description: >
+description: >+
   The following texts were chosen in order to illustrate the implications of the
   growth in Jewish population in Poland's larger towns during the sixteenth and
   seventeenth centuries when the number of Jews grew faster than the non-Jewish
