@@ -89,9 +89,9 @@ export default config({
                 slugField: 'slug',
                 entryLayout: 'content',
                 format: {
-                    contentField: 'body',
+                    contentField: 'content',
                 },
-               
+
                 schema,
             }),
         ])
