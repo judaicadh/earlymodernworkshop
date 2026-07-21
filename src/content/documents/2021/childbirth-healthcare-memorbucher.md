@@ -236,15 +236,17 @@ Scan 88: May God remember the soul of the esteemed, pious woman, Marat Yekht, da
 
 [……] 
 
-**and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births**
+**and she performed great deeds by supplying all sorts and types of segulot (talismans) to parturients who had difficulty giving birth so that they would not endure difficult births...**
 
 […] 
 
 1709/1710
 
-National Library of Israel, Ms. Heb. 8°1465, f. 80
+## Source 2 Translation
 
-*Memorbuch* of the Community of Frankfurt am Main
+**National Library of Israel, Ms. Heb. 8°1465, f. 80**
+
+***Memorbuch* of the Community of Frankfurt am Main**
 
 May God remember the soul of the important, esteemed, pious woman, Marat Frometle daughter of R’ Meir Schnapper Segal, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that she was modest and decent. She would go to the synagogue at every opportunity to pray to the Dweller of the Realm Above and would pray with concentration. She performed kindness with the living and the dead, and would prepare the children that were born in the communal hospice like Shiphrah and Pu’ah. She was careful in all her *mitzvot* in every time and season, and wanted to perform the will of (her) Maker. She did not neglect any *mitzvah*, great or small, and made medicines for free for both the rich and the poor. Her husband also gave an amount so that her soul would be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Amen.
 
@@ -252,14 +254,16 @@ Deceased on Thursday evening and buried with a good name on Friday, Erev Shabbat
 
 And she was known to all as Frometle the wife of Yaakov Weil
 
-Universitätsbibliothek Mainz, Johannes Gutenberg-Universität Mainz, Jewish Community of Mainz, Mainz Germany, Ms. 16, fol. 1r
+## Source 3 Translation
 
-Pinkas Hevra Kadisha of the Community of Mainz
+**Universitätsbibliothek Mainz, Johannes Gutenberg-Universität Mainz, Jewish Community of Mainz, Mainz Germany, Ms. 16, fol. 1r**
 
-The text states, “and your righteousness shall go before you.”^1 “Righteousness delivers from death”^2 – it is taught that this means from death itself. And (righteousness) shall go before Him^3 to seek rest in the land of the living, and return the charge to its first place, to fulfill “Blessed are you in your comings; blessed are you in your goings.” 
+**Pinkas Hevra Kadisha of the Community of Mainz**
+
+The text states, “and your righteousness shall go before you.”[^1] “Righteousness delivers from death”[^2] – it is taught that this means from death itself. And (righteousness) shall go before Him[^3] to seek rest in the land of the living, and return the charge to its first place, to fulfill “Blessed are you in your comings; blessed are you in your goings.” 
 
 May the name of the modest, pure woman be remembered for her good, Marat Gitle Afinim, who was an attendant to parturients for several years here in Mainz, like Pu’ah and Shiphrah, who flourished in her deeds. And God awakened her spirit and her soul to command her, before her soul blossomed, with clear-headed knowledge, to watch over her us? after her soul departed, to study a section of Mishnah in her soul’s merit in a holy quorum of ten, during the seven days of mourning, and to light an eternal flame for her in the first year, as is customary.
 
 …
 
-She died, and passed away on Erev Shabbat Kodesh, the second day of hol ha-moed Pesah 5523 1763 to the small counting, in Mainz
+She died, and passed away on Erev Shabbat Kodesh, the second day of hol ha-moed Pesah 5523 [1763] to the small counting, in Mainz
