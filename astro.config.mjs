@@ -21,7 +21,6 @@ import remarkLint from 'remark-lint';
 import netlify from '@astrojs/netlify';
 
 
-import keystatic from '@keystatic/astro'
 export default defineConfig({
   site: 'https://earlymodernworkshop.judaicadhpenn.org',
 
@@ -41,7 +40,7 @@ export default defineConfig({
   integrations: [
     react(),
     markdoc(),
-    keystatic(),
+
     pagefind(),
     sitemap(),
     partytown(),
