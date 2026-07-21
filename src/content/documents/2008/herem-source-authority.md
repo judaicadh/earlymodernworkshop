@@ -211,11 +211,11 @@ original_language_body: >-
   sucedeu a o Rey Saul com seu filho Ieonatan, que havendo conseguido hua taõ
   grande como gloriosa vitoria, pois só elle com seu moço foraõ cauza do
   destroço do furioso exercito Philisteo, por aver encurrido no herem que havia
-  deitado seu pay, o condenou como consta pella Sagrada Historia em Semuel I.
-  cap. 14. vers. 26. & naõ menos o Summo Sacerdote Elazar, quando no successo da
-  concobina do Levita, foraõ mortos os moradores de Yabes Guilhad, pella causa
-  que diz em Iuezes cap. 20. vers. 5. ‫כי השבועה הגדולה היתה לאשר לא עלה אל ה'
-  המצפה לאמר מות יומת‬‎ Que o juramento grande foy contra aquelle que naõ
+  deitado seu pay, o condenou como consta pella Sagrada Historia em *Semuel I.
+  cap. 14. vers. 26.* & naõ menos o Summo Sacerdote Elazar, quando no successo
+  da concobina do Levita, foraõ mortos os moradores de Yabes Guilhad, pella
+  causa que diz em Iuezes cap. 20. vers. 5. ‫כי השבועה הגדולה היתה לאשר לא עלה
+  אל ה' המצפה לאמר מות יומת‬‎ Que o juramento grande foy contra aquelle que naõ
   subisse pello Senhor na Mispá, que morrendo morreria, & assi se melda de nome
   de Riby [11] Aquiba, pois como! ahi ouve juramento? senaõ paraque saibas, que
   o herem he juramento, & o juramento he o herem; & assi os moradores de Yabes
