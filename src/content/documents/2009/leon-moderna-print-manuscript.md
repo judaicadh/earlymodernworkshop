@@ -329,19 +329,19 @@ as further evidence against Immanuel Korufoli.
 
 [^16]: Ps. 87:1
 
-17 Mishnah Hagigah 2:1
+[^17]: Mishnah Hagigah 2:1
 
-18 BT Hagigah 13A. Quoted in the responsum by Isaac de Lattes.
+[^18]: BT Hagigah 13A. Quoted in the responsum by Isaac de Lattes.
 
-19 Genesis 3:34
+[^19]: Genesis 3:34
 
-20 BT Temurah 14B; Gittin, 60A.
+[^20]: BT Temurah 14B; Gittin, 60A.
 
-21 BT Hagigah 13A. Quoted in the responsum by Isaac de Lattes.
+[^21]: BT Hagigah 13A. Quoted in the responsum by Isaac de Lattes.
 
-22 Mishnah Sabbath 3:1.
+[^22]: Mishnah Sabbath 3:1.
 
-23On the messianism of Isaac de Lattes see Tishby, “The controversy over the printing of
+[^23]: On the messianism of Isaac de Lattes see Tishby, “The controversy over the printing of
 
 the *Zohar* in Italy,” 151-58. On his political theory see Bernard Dov Cooperman,
 
