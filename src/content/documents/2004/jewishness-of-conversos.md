@@ -104,7 +104,7 @@ I also see these words of yours as incorrect, and there is nothing in these clai
 
 ## Source 4 Translation
 
-**Introduction**
+**Introduction to Voice of a Fool**
 
 **Notes:** Based on Talya Fishman "Voice of a Fool": an Early Modern Jewish Critique of Rabbinic Culture (Stanford: Stanford University Press, 1997), 150.
 
@@ -114,7 +114,7 @@ The passage in question, part of a revisionist code of Jewish law, envisions a w
 
 *Kol Sakhal's* iconclastic suggestion that conversion to Judaism be made easier for individuals already drawn to the Hebrew Bible raises the question of whether there may have been an underground Jewish proselytizing movement in this period, as claimed, in the 1640's, by the Portuguese Jesuit, Antonio Vieira.
 
-**Source**
+**Voice of a Fool**
 
 *Converts*. It was necessary to circumcise and ritually immerse every convert, according to their [rabbinic] arrangement.[^3] But they did not understand and paid no attention to matters upon which the foundation of the nation, its greatness and success depend.[^4] As they did with every order and arrangement they made, all is destruction and corruption. By this I mean that they ought to have explained regarding one who comes to convert that, after warning him[^5] and [after] the investigation - by which it is made clear to us that his coming is for the sake of heaven and not for some external purpose[^6] -- he should be informed of the virtue of circumcision and its reward.[^7] If he wishes to circumcise himself, well and good, and if not, let him immerse himself and become a Jew.[^8] And this will be sufficient for him to participate in testimony and marriage, inheritance and bequest--and everything else like the rest of the Jewish people. Not to make his property ownerless and the laws of Sodom that they commanded in this regard[^9] -- go and check them. However, any sons born to him after his conversion are to be circumcised at eight days.
 
