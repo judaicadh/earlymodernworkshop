@@ -87,7 +87,11 @@ export default config({
                 label: String(year),
                 path: `src/content/documents/${year}/*`,
                 slugField: 'slug',
-                format: { contentField: 'content' },
+                entryLayout: 'content',
+                format: {
+                    contentField: 'body',
+                },
+               
                 schema,
             }),
         ])
