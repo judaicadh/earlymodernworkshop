@@ -156,11 +156,11 @@ original_language_body: >-
   herem naõ se comonicava com elle o Senhor, porem tanto que se absolveu, logo
   lhe foy restituyda a Prophecia, & assi se deve notar que logo o vay nomeando
   com o nome de Ysrael, & entendo lhe negou o Senhor a Prophecia opr naõ lhe dar
-  lugar a preguntarlhe por Iosseph & he o que dizem em Genesis 37. verso 35.
-  ‫ויבך אותו אביו‬‎ & chorou a elle seu pay, a saber seu pay de Iahacob chorava
-  Iosseph em companhia de seu pay, porque naõ presumissem que lhe era revelado
-  qeu estava vivo, porque a elle o podia descubrir o Senhor, de sorte, que o
-  herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
+  lugar a preguntarlhe por Iosseph & he o que dizem em *Genesis 37. verso 35*.
+  ‫ויבך אותו אביו‬‎ *& chorou a elle seu pay*, a saber seu pay de Iahacob
+  chorava Iosseph em companhia de seu pay, porque naõ presumissem que lhe era
+  revelado qeu estava vivo, porque a elle o podia descubrir o Senhor, de sorte,
+  que o herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
 
 
   Dilatasse este nome de herem, que he os mesmo [8] que maldiçaõ, que dizendo
@@ -176,9 +176,10 @@ original_language_body: >-
   Bet-Din, ou Kahal, se ordenarem qualquer ordenança com pena de herem, que
   responda o naõ responda amen, logo fica encorendo, & o mesmo será se o tal naõ
   aseitasse o dito herem, ou senaõ se achasse presente, como se dirá adiante,
-  visto ter o Senado autoridade para deitar herem, como diz em Nechemia Capitulo
-  13. verso 25. ‫ואקללם וגו' ואשביעם באלהים‬‎ & maldixeos & os ajuramentey pello
-  Senhor, logo cay sobre elle dito herem & he o mesmo qeu se elle por si jurara.
+  visto ter o Senado autoridade para deitar herem, como diz em *Nechemia
+  Capitulo 13. verso 25*. ‫ואקללם וגו' ואשביעם באלהים‬‎ *& maldixeos & os
+  ajuramentey pello Senhor*, logo cay sobre elle dito herem & he o mesmo qeu se
+  elle por si jurara.
 
 
   Assi mesmo hua cidade cujos moradores acor- [9] daraõ todos, ò a mayor parte
@@ -186,8 +187,8 @@ original_language_body: >-
   valido para obrigar a menor parte a sua observancia, & ò tal herem he firme, &
   incontravel, assi qualquer da tal cidade, qeu transgerir, fica enhermado como
   se transgerira seu proprio juramento, o qual penetrará seus membros, & como
-  diz o Propheta Zechariah cap. 5. vers. 4. ‫וכלתו ואת עציו ואת אבניו‬‎ E
-  acabará à elle a sua madeira, & a suas pedras.
+  diz o Propheta *Zechariah cap. 5. vers. 4.* ‫וכלתו ואת עציו ואת אבניו‬‎ *E
+  acabará à elle a sua madeira, & a suas pedras.*
 
 
   Todos tem obrigaçaõ de se apartar delle, nem darlhe algum proveito mais que o
@@ -205,8 +206,8 @@ original_language_body: >-
   transsgerir merece morte, & esta será à eleiçaõ do Rey ó Senado, que lha podem
   dar qual a elles parecer, como consta, & foy o direito que teve o famoso
   Capitaõ Ieosua contra o preturbador Achan, que o condenou a morte, porque
-  cometeu sacrilegio, Ieosuah capitulo 7. verso 13. ‫כה אמר ה' אלהי ישראל חרם
-  בקרבך ישראל‬‎ E disse o Señor a Ieosuah herem entre ti Ysrael &tc. & o mesmo
+  cometeu sacrilegio, *Ieosuah capitulo 7. verso 13.* ‫כה אמר ה' אלהי ישראל חרם
+  בקרבך ישראל‬‎ *E disse o Señor a Ieosuah herem entre ti Ysrael &tc*. & o mesmo
   sucedeu a o Rey Saul com seu filho Ieonatan, que havendo conseguido hua taõ
   grande como gloriosa vitoria, pois só elle com seu moço foraõ cauza do
   destroço do furioso exercito Philisteo, por aver encurrido no herem que havia
