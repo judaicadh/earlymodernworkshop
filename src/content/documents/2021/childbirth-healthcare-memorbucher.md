@@ -37,51 +37,6 @@ description: >-
   suggest the need for a more holistic conception of early modern healthcare,
   which was not limited to ‘official’ practitioners or professionals and
   encompassed a much wider spectrum of individuals than has often been assumed.
-
-
-  Bibliography:
-
-
-  Backhaus, Fritz. “„Im Heckhuß die Lahmen, Blinden und Hungerleider...“. Die
-  sozialen Institutionen in der Frankfurter Judengasse.” In *Juden und Armut in
-  Mittel- und Osteuropa*, edited by Stefi Jersch-Wenzel, 31-54. Cologne:
-  Simon-Dubnow-Instituts für Jüdische Geschichte und Kultur, 2000.
-
-
-  Kaplan, Debra. *The Patrons and Their Poor: Jewish Community and Public
-  Charity in Early Modern Germany*. Philadelphia: University of Pennsylvania
-  Press, 2020.
-
-
-  Rankin, Alisha. *Panaceia's Daughters: Noblewomen as Healers in Early Modern
-  Germany*. Chicago: University of Chicago Press, 2013.
-
-
-  Robilliard, Gabrielle. *Tending Mothers and the Fruits of the Womb: The Work
-  of the Midwife in the Early Modern German City*. Stuttgart: Franz Steiner
-  Verlag, 2017.
-
-
-  Stolberg, Michael. “Learning from the Common Folks. Academic Physicians and
-  Medical Lay Culture in the Sixteenth Century.” *Social History of Medicine*
-  27, no. 4 (2014): 649-667.
-
-
-  Strocchia, Sharon. *Forgotten Healers: Women and the Pursuit of Health in Late
-  Renaissance Italy*. Cambridge, MA: Harvard University Press, 2019.
-
-
-  Wiesner-Hanks, Mary. *Women and Gender in Early Modern Europe*, 2nd ed.
-  Cambridge: Cambridge University Press, 2000.
-
-
-  Zinger, Nimrod. “‘Our Hearts and Spirits Were Broken’: The Medical World from
-  the Perspective of German-Jewish Patients in the Seventeenth and Eighteenth
-  Centuries.” *The Leo Baeck Institute Yearbook* 54, no. 1 (2009): 59-91.
-
-
-  ———. *Ba'al ha-shem ve-ha-rofe: refu'ah ve-magiyah be-kerev yehude Germaniyah
-  be-reshit ha-et ha-hadasha.* Haifa: University of Haifa Press, 2017.
 original_language_body: >-
   National Library of Israel, Jewish Community of Metz, Metz France Ms. 1
   (microfilm F 4370)
@@ -225,6 +180,10 @@ original_language_body: >-
 
   נפטרת, ושבק לן חיים עש״ק יום שני דחה״מ של פסח תקכ״ג ל׳ במגענצא
 ---
+## Introduction
+
+Meant to commemorate the passing of a loved one by recounting their attributes and good deeds, seventeenth- and eighteenth-century Ashkenazic communal memorial books (commonly called yizkor books or memorbücher) include numerous entries praising women who assisted in various aspects of childbirth. Although sources permit only a partial view into the array of caregivers involved in childbirth within Ashkenazic Jewish communities, memorial books offer evidence of a class of women who, unlike midwives, never underwent formal training or licensure, yet played important roles in childbirth nonetheless. Entries for these women rarely include any sort of career designation, but instead frame their childbirth work as merely one aspect of a larger constellation of charitable contributions they made to the community.Formulaic in nature, individual entries offer little information about the mechanics of childbirth as it played out within the Ashkenazic world. But taken in the aggregate, these sources demonstrate that childbirth care extended far beyond the scope of a midwife. The provision of food, talismans, postpartum assistance, and spiritual guidance were as integral to childbirth as the participation of midwives at delivery. Even more so, these sources suggest the need for a more holistic conception of early modern healthcare, which was not limited to ‘official’ practitioners or professionals and encompassed a much wider spectrum of individuals than has often been assumed.**Bibliography:**Backhaus, Fritz. “„Im Heckhuß die Lahmen, Blinden und Hungerleider...“. Die sozialen Institutionen in der Frankfurter Judengasse.” In *Juden und Armut in Mittel- und Osteuropa*, edited by Stefi Jersch-Wenzel, 31-54. Cologne: Simon-Dubnow-Instituts für Jüdische Geschichte und Kultur, 2000.Kaplan, Debra. *The Patrons and Their Poor: Jewish Community and Public Charity in Early Modern Germany*. Philadelphia: University of Pennsylvania Press, 2020.Rankin, Alisha. *Panaceia's Daughters: Noblewomen as Healers in Early Modern Germany*. Chicago: University of Chicago Press, 2013.Robilliard, Gabrielle. *Tending Mothers and the Fruits of the Womb: The Work of the Midwife in the Early Modern German City*. Stuttgart: Franz Steiner Verlag, 2017.Stolberg, Michael. “Learning from the Common Folks. Academic Physicians and Medical Lay Culture in the Sixteenth Century.” *Social History of Medicine* 27, no. 4 (2014): 649-667.Strocchia, Sharon. *Forgotten Healers: Women and the Pursuit of Health in Late Renaissance Italy*. Cambridge, MA: Harvard University Press, 2019.Wiesner-Hanks, Mary. *Women and Gender in Early Modern Europe*, 2nd ed. Cambridge: Cambridge University Press, 2000.Zinger, Nimrod. “‘Our Hearts and Spirits Were Broken’: The Medical World from the Perspective of German-Jewish Patients in the Seventeenth and Eighteenth Centuries.” *The Leo Baeck Institute Yearbook* 54, no. 1 (2009): 59-91.———. *Ba'al ha-shem ve-ha-rofe: refu'ah ve-magiyah be-kerev yehude Germaniyah be-reshit ha-et ha-hadasha.* Haifa: University of Haifa Press, 2017.
+
 **National Library of Israel, Jewish Community of Metz, Metz France Ms. 1 (microfilm F 4370) Memorbuch of the Community of Metz**
 
 Scan 23: May God remember the soul of the esteemed, pure, pious, upright woman, Marat Mindle Rivkah bat Yaakov ha-Levi, of blessed memory, together with the souls of Abraham, Isaac, and Jacob, Sarah, Rebecca, Rachel, and Leah, on account of the fact that all her days she followed a straight and honest path, and she performed kindness with the living and the deceased, and especially with the parturients, and she also visited the sick … and she fasted each day for eighteen years, and more so, she also spun (thread for) tzitzit for our community almost all her days. On account of this, her children gave money to charity. As reward for this, may her soul be bound up in the bonds of life with the rest of the righteous individuals in the Garden of Eden. Deceased on Tuesday, 2 Heshvan 5415 1654 Buried on Wednesday, 3 Heshvan the following day
