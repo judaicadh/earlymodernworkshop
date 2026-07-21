@@ -241,9 +241,9 @@ original_language_body: >-
   contrario, pois entonces somos assistidos da sua Soberano graça; pois entonces
   somos immediatamente delle protegidos; entonces se dgna de ser Rey nosso, &
   nos seus amados vassallos como assi o manifesta o corifeo dos Prophetas Mosseh
-  Deute. cap. 33. vers. 5. ‫ויהי בישורון מלך בהתאסף ראשי עם יחד שבטי ישראל‬‎ E
-  foy Rey em Ysrael, Rey, que he o Senhor Deos, bem entendido quando estaõ
-  juntas do povo as Cabeças, unidos os Tribus de Ysrael; & que mayor
+  *Deute. cap. 33. vers. 5.* ‫ויהי בישורון מלך בהתאסף ראשי עם יחד שבטי ישראל‬‎
+  *E foy Rey em Ysrael,* Rey, que he o Senhor Deos, bem entendido quando estaõ
+  juntas do povo as *Cabeças, unidos os Tribus de Ysrael*; & que mayor
   encarecimento, naõ o sendo senaõ a mesma verdade, como nos tem mostrado a
   expiriencia, sentença de nossos Sabios sobre as palavras do Propheta, Ossea
   cap. 4. vers. 17. ‫חבור עצבים אפרים הנח לו‬‎ Unido idolos Ephraym deyxaõ; que
