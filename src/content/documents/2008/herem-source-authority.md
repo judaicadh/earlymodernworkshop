@@ -545,8 +545,8 @@ original_language_body: >-
 
 
   Estou vendo que me dizem que o herem naõ comprende mais que o rezar fora da
-  Esnoga com [30] minham que obedecem, porem querem ficar em suas casas, bem o
-  podem fazer, mais vejaõ que serâ a sua custa, pois a oraçaõ em Congrega tem
+  Esnoga com **[30]** minham que obedecem, porem querem ficar em suas casas, bem
+  o podem fazer, mais vejaõ que serâ a sua custa, pois a oraçaõ em Congrega tem
   grande força & valor, & sendo só grande risco como dizem na Gemará de
   *Berahoth* sobre o verso *Psal. 102. ver. 18.* ‫פנה אל תפילת הערער ולא בזה את
   תפילתם‬‎ *Olhou para a oraçaõ do solitario, & naõ despresou delles a sua
@@ -561,9 +561,9 @@ original_language_body: >-
   vezinhos maos, os que tocaõ na eredade que fiz eredar a meu povo Ysrael &ct.*
   enfirece das palabras do author que foras de ser vezinho mao, pois poem
   defeito na caza do Senhor, naõ fazendo cazo della, naõ honrandosse della,
-  padecer á cautiveiro, elle, [31] & seus filhos, como segue o mesmo Propheta &
-  coroborasse com o que diz na mesma Guemará de *Berahoth* que naõ he ouvido do
-  homem a oraçaõ senaõ na Esnoga, & entende (נוגיעם) ́q pom defeito.
+  padecer á cautiveiro, elle, **[31]** & seus filhos, como segue o mesmo
+  Propheta & coroborasse com o que diz na mesma Guemará de *Berahoth* que naõ he
+  ouvido do homem a oraçaõ senaõ na Esnoga, & entende (נוגיעם) ́q pom defeito.
 
 
   *O Haham Adraby consulta 39.* escreve, que se lhe propòs de Selonique, donde
@@ -578,7 +578,7 @@ original_language_body: >-
   herem, que teraõ obrigaçaõ observallo porem naõ por isso se livraõ do herem
   referido, na escamá, porque esse sempre fica no seu ser, com que sempre os
   tays estaõ condenados, & assi ficaõ emhermados, & desgraciados, diante do
-  Senhor Deos, pello qeu resolve que os [32] ditos se ajaõ de absolver do
+  Senhor Deos, pello qeu resolve que os **[32]** ditos se ajaõ de absolver do
   juramento, que fizeraõ, & tornando a sua Congrega, ficaõ se nenhum escrupolo.
 
 
@@ -602,10 +602,11 @@ original_language_body: >-
 
 
   Terceira, que a mesma authoridade tem o Mahamad quando for eleyto
-  juridicamente, a saber, sendo eleyto pello Kahal, ou pella mayor parte [33]
-  delle donde assi se uza, ou quando o Kahal sedeu da dita sua authoridade & a
-  deu a os primeiros eleitos, paraque elles sucessivamente follsem ellegendo a
-  os que lhes parecerem benemeritos, & naõ reprobada pello gera.
+  juridicamente, a saber, sendo eleyto pello Kahal, ou pella mayor parte
+  **[33]** delle donde assi se uza, ou quando o Kahal sedeu da dita sua
+  authoridade & a deu a os primeiros eleitos, paraque elles sucessivamente
+  follsem ellegendo a os que lhes parecerem benemeritos, & naõ reprobada pello
+  gera.
 
 
   Quarta, que com tudo havendo Haham assalariado ou eleito pello Kahal, donde
@@ -625,7 +626,7 @@ original_language_body: >-
   Septima, o fim de tudo mostrar o que pretendemos, com casos, & exemplos da
   mesma calidade sucedidos, que havendosse constituydo a uniaõ do nosso Sancto
   Kahal, com a aprovaçaõ de todos, & por todos firmado em companhia de seus
-  Hahamim com pena de herem, que aquelles que se se- [34] pararem contra o
+  Hahamim com pena de herem, que aquelles que se se- **[34]** pararem contra o
   acordo, que naõ se podem, nem nimgem no mundo os pode librar da tal pena.
 
 
