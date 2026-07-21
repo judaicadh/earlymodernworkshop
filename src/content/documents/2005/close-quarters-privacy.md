@@ -136,7 +136,7 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 
 **Publisher:** (Jerusalem, 1982), no. 100
 
-מתוך שו"ת רבנו יצחק הגדול מפוזנא זצ"ל - באר יצחק
+**מתוך שו"ת רבנו יצחק הגדול מפוזנא זצ"ל - באר יצחק**
 
 ירושלים תשמ"ב
 
