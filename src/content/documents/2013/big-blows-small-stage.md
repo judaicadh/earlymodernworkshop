@@ -8,4 +8,6 @@ year: "2013"
 slug: big-blows-small-stage
 language:
   - Hebrew
+publication_location:
+  - Altona
 ---
