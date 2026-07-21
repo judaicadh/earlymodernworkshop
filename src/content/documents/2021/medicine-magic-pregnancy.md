@@ -50,9 +50,77 @@ This presentation will engage one of the preeminent concerns in early modern mag
 
 Through close reading of excerpts drawn from select eighteenth-century magical manuscripts, I will interrogate my sources to 1) offer an overview of how Eastern European ba’alei shem regarded illness; 2) reconstruct the diverse types of knowledge these authors deployed in their healing practices: medical, magical, and theoretical-kabbalistic; 3) demonstrate that that ba’alei shem pursued an integrated approach to healing by selectively incorporating elite forms of theoretical knowledge, such as Lurianic Kabbalah; magical practices that used stock formulae such as magical squares; Jewish canonical texts, such as the Hebrew Bible; and folk practices, adapted from the Eastern European cultural milieu.
 
+Bohak, Gideon. “How Jewish Magic Survived the Disenchantment of the World,” *Aries: Journal for the Study of Western Esotericism* 19 (2019): 1-37.
+
+Bynum, Caroline. “Why All the Fuss about the Body?” *Critical Enquiry* 22 (1995): 1-33.
+
+Caballero-Navas, Carmen. “She will Give Birth Immediately: Pregnancy and Childbirth in Medieval Hebrew Medical Texts Produced in the Mediterranean West,” *Dynamis* 34,2 (2014): 377–401.
+
+Caballero-Navas, Carmen. “The Care of Women’s Health and Beauty: An Experience Shared by Medieval Jewish and Christian Women,” *Journal of Medieval History* 34 (2008): 146-163.
+
+Chajes, Joseph H. “He Said, She Said: Hearing the Voices of Early Modern Jewish Women,” *Nashim* 10 (2005): 99-125.
+
+Etkes, Immanuel. *The Besht: Magician, Mystic, and Leader*, trans. *Saadya Sternberg* (Waltham: Brandeis UP, 2005).
+
+Green, Monica. *The Trotula: An English Translation on the Medieval Compendium of Women’s Medicine* (Philadelphia: University of Pennsylvania Press, 2001).
+
+Green, Monica. “Gendering the History of Women’s Health Care,” Gender & History 20 (2008): 487-519.
+
+Green, Monica. “Bodies, Gender, Health, Disease: Recent Work on Medieval Women’s Medicine,” *Studies in Medieval Renaissance History*, sr. 3, 5 (2005): 1-46.
+
+Harrari, Yuval. “‘Practical Kabbalah’ and the Jewish Tradition of Magic,” *Aries: Journal for the Study of Western Esotericism* 19 (2019): 38-82.
+
+Yohanan Petrovsky-Shtern, “The Master of an Evil Name: Hillel Ba'al Shem and His *Sefer Ha-Heshek*,” *AJS Review* 28 (2004): 217-248.
+
+Yohanan Petrovsky-Shtern, “You will Find It in the Pharmacy: Practical Kabbalah and Natural Medicine in the Polish-Lithuanian Commonwealth 1690–1750,” in*Holy Dissent: Jewish and Christian Mystics in Eastern Europe*, ed. Glenn Dynner (Detroit: Wayne State University Press, 2011), 13-54. 
+
+Paluch, Agata. “Intentionality and Kabbalistic Practices in Early Modern East-Central Europe,” *Aries: Journal for the Study of Western Esotericism* 19 (2019): 83-111.
+
+Paluch, Agata. “Practical Kabbalah and Practical Knowledge: Kabbalistic Manuals and Natural Knowledge in Early Modern East-Central Europe,” *History of Knowledge,* April 11, 2019, [https://historyofknowledge.net/2019/04/11/practical-kabbalah-and-practical-knowledge-kabbalistic-manuals-and-natural-knowledge-in-early-modern-east-central-europe/.](https://historyofknowledge.net/2019/04/11/practical-kabbalah-and-practical-knowledge-kabbalistic-manuals-and-natural-knowledge-in-early-modern-east-central-europe/.)
+
+Park, Katherine. *Doctors and Medicine in Early Renaissance Florence* (Princeton:
+
+Princeton UP, 1985).
+
+Park, Katherine. *Secrets of Women: Gender, generation, and the Origins of Human*
+
+*Dissection* (New York: Zone Books, 2006).
+
+Rosman, Moshe. “The History of Jewish Women in Early Modern Poland: An
+
+Assessment,” *Polin: Studies in Polish Jewry* 18** (2007):25-56
+
+Strocchia, Sharon T. *Forgotten Healers: Women and the Pursuit of Health in Late*
+
+*Renaissance Italy* (Cambridge: Harvard UP, 2019).
+
+Tuszewiski, Marek. *A Frog Under the Tongue: Jewish Folk Medicine in Eastern*
+
+*Europe* (Liverpool: Littman, 2021).
+
+Zinger, Nimrod. *The Ba’al Shem and the Doctor: Medicine and Magic among*
+
+*German Jews in the Early Modern Period* (Haifa: University of Haifa Press, 2017).
+
+[Hebrew]
+
+Zinger, Nimrod. “‘Who Knows What the Cause Is?:’ ‘Natural’ and ‘Un-Natural’
+
+Causes for Illness in the Writings of Baalei Shem, Doctors, and Patiemts among
+
+German Jews in the 18th Century,” in *The Jewish Body: Corporeality, Society, amd*
+
+*Identity in the Renaissance and Early Modern Period*, eds. Maria Diemling and
+
+Giuseppe Veltri (Leiden: Brill, 2009), 127-158.
+
+Zinger, Nimrod. “‘Unto Their Assembly, mine Honor, Be Not Thou United:’ The
+
+Doctor Tuviyah Cohen and the Medical Marketplace in the Early Modern Period.”
+
+*Koroth* 20 (2009–10): 67-98.
 
 
-&nbsp;
 
 &nbsp;
 
