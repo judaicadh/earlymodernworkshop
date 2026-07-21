@@ -414,7 +414,7 @@ original_language_body: >-
   תבנה והמקדש על מכונו יכונן:
 
 
-  כ"ד עפרא דתותא כרעא דרבנן · שלמה זלמן לונדן:‬‎
+  ++:כ"ד עפרא דתותא כרעא דרבנן · שלמה זלמן לונדן++
 
 
   **Publisher:** Abraham Athias, Amsterdam, the Netherlands, [1738]
