@@ -250,37 +250,7 @@ shall prove presently, with the help of God.
 
 [^1]: Lam. 4:6
 
-[^2]: Between 1558 and 1560, competing editions of the *Zohar* appeared in print, one at
-
-Cremona and another at Mantua. Rival editions of *Ma’arekhet ha-Elohut*, a medieval
-
-work of Kabbalah ascribed to Peretz ha-Kohen, appeared in print in 1558, one at Ferrara
-
-and another at Mantua. An edition of *Tikkunei Zohar*, a distinct section of the Zoharic
-
-corpus, appeared in print at Mantua in 1558. On the printing of Kabbalah in the 
-
-sixteenth century see Simha Assaf, “On the Controversy over the printing of Kabbalistic
-
-books,” (Hebrew) *Sinai* 5 (1939): 360-68. Isaiah Tishby, “The Controversy over the
-
-Printing of the *Zohar* in Italy.” (Hebrew) *Perakim* 1 (1967-1968): 131-81. Ephraim
-
-Kupfer, “New Documents on the controversy over the printing of the *Zohar*,” (Hebrew),
-
-*Michael* 1 (1973): 302-18. *Iggerot Melamdim* ed. Yacob Boksenboim, (Tel Aviv: Tel Aviv
-
-University Press, 1985) 270-272. Joseph Hacker “A new Letter about the controversy on
-
-the printing of the *Zohar* in Italy.” (Hebrew) in *Massuot*, edited by Amos Goldreich and
-
-Michal Oron, (Jerusalem: Mossad Bialik, 1994) 120-30. Daniel Abrams, “When was the
-
-introduction to the book of the *Zohar* composed?” (Hebrew) *Asufot* 8 (1994): 211-226.
-
-Boaz Huss, *Ke-Zohar ha-Rakia*, (Jerusalem: Ben Zvi Institute and Mossad Bialik,
-
-2008), Chapter Three.
+[^2]: Between 1558 and 1560, competing editions of the *Zohar* appeared in print, one at Cremona and another at Mantua. Rival editions of *Ma’arekhet ha-Elohut*, a medieval work of Kabbalah ascribed to Peretz ha-Kohen, appeared in print in 1558, one at Ferrara and another at Mantua. An edition of *Tikkunei Zohar*, a distinct section of the Zoharic corpus, appeared in print at Mantua in 1558. On the printing of Kabbalah in the  sixteenth century see Simha Assaf, “On the Controversy over the printing of Kabbalistic books,” (Hebrew) *Sinai* 5 (1939): 360-68. Isaiah Tishby, “The Controversy over the Printing of the *Zohar* in Italy.” (Hebrew) *Perakim* 1 (1967-1968): 131-81. Ephraim Kupfer, “New Documents on the controversy over the printing of the *Zohar*,” (Hebrew), *Michael* 1 (1973): 302-18. *Iggerot Melamdim* ed. Yacob Boksenboim, (Tel Aviv: Tel Aviv University Press, 1985) 270-272. Joseph Hacker “A new Letter about the controversy on the printing of the *Zohar* in Italy.” (Hebrew) in *Massuot*, edited by Amos Goldreich and Michal Oron, (Jerusalem: Mossad Bialik, 1994) 120-30. Daniel Abrams, “When was the introduction to the book of the *Zohar* composed?” (Hebrew) *Asufot* 8 (1994): 211-226. Boaz Huss, *Ke-Zohar ha-Rakia*, (Jerusalem: Ben Zvi Institute and Mossad Bialik, 2008), Chapter Three.
 
 [^3]: Lev. 13:5
 
