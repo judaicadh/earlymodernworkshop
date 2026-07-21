@@ -78,51 +78,23 @@ Paluch, Agata. “Intentionality and Kabbalistic Practices in Early Modern East-
 
 Paluch, Agata. “Practical Kabbalah and Practical Knowledge: Kabbalistic Manuals and Natural Knowledge in Early Modern East-Central Europe,” *History of Knowledge,* April 11, 2019, [https://historyofknowledge.net/2019/04/11/practical-kabbalah-and-practical-knowledge-kabbalistic-manuals-and-natural-knowledge-in-early-modern-east-central-europe/.](https://historyofknowledge.net/2019/04/11/practical-kabbalah-and-practical-knowledge-kabbalistic-manuals-and-natural-knowledge-in-early-modern-east-central-europe/.)
 
-Park, Katherine. *Doctors and Medicine in Early Renaissance Florence* (Princeton:
+Park, Katherine. *Doctors and Medicine in Early Renaissance Florence* (Princeton: Princeton UP, 1985).
 
-Princeton UP, 1985).
+Park, Katherine. *Secrets of Women: Gender, generation, and the Origins of Human Dissection* (New York: Zone Books, 2006).
 
-Park, Katherine. *Secrets of Women: Gender, generation, and the Origins of Human*
+Rosman, Moshe. “The History of Jewish Women in Early Modern Poland: An Assessment,” *Polin: Studies in Polish Jewry* 18** (2007):25-56
 
-*Dissection* (New York: Zone Books, 2006).
+Strocchia, Sharon T. *Forgotten Healers: Women and the Pursuit of Health in Late Renaissance Italy* (Cambridge: Harvard UP, 2019).
 
-Rosman, Moshe. “The History of Jewish Women in Early Modern Poland: An
+Tuszewiski, Marek. *A Frog Under the Tongue: Jewish Folk Medicine in Eastern Europe* (Liverpool: Littman, 2021).
 
-Assessment,” *Polin: Studies in Polish Jewry* 18** (2007):25-56
+Zinger, Nimrod. *The Ba’al Shem and the Doctor: Medicine and Magic among German Jews in the Early Modern Period* (Haifa: University of Haifa Press, 2017). [Hebrew]
 
-Strocchia, Sharon T. *Forgotten Healers: Women and the Pursuit of Health in Late*
+Zinger, Nimrod. “‘Who Knows What the Cause Is?:’ ‘Natural’ and ‘Un-Natural’ Causes for Illness in the Writings of Baalei Shem, Doctors, and Patiemts among German Jews in the 18th Century,” in *The Jewish Body: Corporeality, Society, and Identity in the Renaissance and Early Modern Period*, eds. Maria Diemling and Giuseppe Veltri (Leiden: Brill, 2009), 127-158.
 
-*Renaissance Italy* (Cambridge: Harvard UP, 2019).
+Zinger, Nimrod. “‘Unto Their Assembly, mine Honor, Be Not Thou United:’ The Doctor Tuviyah Cohen and the Medical Marketplace in the Early Modern Period.” *Koroth* 20 (2009–10): 67-98.
 
-Tuszewiski, Marek. *A Frog Under the Tongue: Jewish Folk Medicine in Eastern*
-
-*Europe* (Liverpool: Littman, 2021).
-
-Zinger, Nimrod. *The Ba’al Shem and the Doctor: Medicine and Magic among*
-
-*German Jews in the Early Modern Period* (Haifa: University of Haifa Press, 2017).
-
-[Hebrew]
-
-Zinger, Nimrod. “‘Who Knows What the Cause Is?:’ ‘Natural’ and ‘Un-Natural’
-
-Causes for Illness in the Writings of Baalei Shem, Doctors, and Patiemts among
-
-German Jews in the 18th Century,” in *The Jewish Body: Corporeality, Society, amd*
-
-*Identity in the Renaissance and Early Modern Period*, eds. Maria Diemling and
-
-Giuseppe Veltri (Leiden: Brill, 2009), 127-158.
-
-Zinger, Nimrod. “‘Unto Their Assembly, mine Honor, Be Not Thou United:’ The
-
-Doctor Tuviyah Cohen and the Medical Marketplace in the Early Modern Period.”
-
-*Koroth* 20 (2009–10): 67-98.
-
-
-
-&nbsp;
+## Source 1 Translation
 
 Hillel Ba’al Shem, *Sefer ha-Heshekh*, MS Verdnasky National Library of Ukraine, OR 178, Fol. 11a.
 
