@@ -113,7 +113,537 @@ original_language_body: >-
   tornar a edeficar este cahido baluarte da fortaleza de Ysrael; porque nos
   juramos por .A. de naõ lhes dar mulheres das nossas filhas. Segue entonces
   dizendo, como cõdenaraõ a os moradores de Yabez Gilhad, porque transgiriraõ o
-  herem,
+  herem, & naõ acudiraõ como os demais a aquella guerra; & assi mandaõ sejaõ
+  todos passados a fio de espada, sem reservar seso de pessoa, eseito as donzel-
+  [5] las ya en estado de cazar, & foraõ estas quatro sentas, bem, & os demais
+  duzentos que lhes faremos, que dificultade he esta em hum cazo taõ apertado &
+  taõ urgente, os mesmos que consistiraõ no herem naõ o podiaõ absolver, qeu
+  libres delle naõ podiaõ reparar a os duzentos? bem podiaõ, mas se prova o que
+  pretendemos, que podendo, o naõ deviaõ fazer sem ver se por outro caminho se
+  podia remediar, sem tocar no sagrado herem, qeu acharaõ dandolhes licença
+  fossem a o campo & se emboscassem nas vinhas no dia em qeu as dozellas de
+  Ysrael festejavaõ com suas danças & bayles (dia que dizemos das mossas) & que
+  cada qual tomasse hua daquellas moças, de maneira que ainda que violencia &
+  naõ piquena, julgavaõ que era menor mal que violar, ainda que com absolvisaõ a
+  o herem, ora note agora todo o bom juyzo, que disculpa pode ter para deixar de
+  encurrir no herem do sancto kahal, nem por pensamento tratar de sua
+  absolvisaõ, & todos os qeu desta verdade naõ fizerem o cazo devido ainda que o
+  herem for por cauzas ordinarias, poraõ a o tal em niduy ‫נידוי‬‎ quanto mais
+  se for por cousa de misvá, ou feito para melhor observancia da sancta Ley,
+  como se pode ver em R. Moseh Gerundense no [6] Tratado do herem 288. supost
+  como deixo dito ser este o fim deste nosso Tratado, me pareceu em primeiro
+  lugar conviniente dar noticia do herem para que se saiba a quanto se estende,
+  & se pode absolver, & o como, reprovando primeiro como faz R. Moseh Gerundense
+  Tratado 288. o que uzaõ alguas comgregas quando absolvem o herem, que sobe o
+  hazan a Tebah & com dizer está absolto o herem, entendem tem cumprido, porque
+  somente o Haham o pode absolver, o tres pessoas em seu lugar, salvo quando
+  dita absolvisaõ for feita com consentimento, & em presença de todo o Kahal & o
+  mesmo dos que entre si se ligaraõ com herem que elles mesmos se podem
+  absolver, comprovado com o que dizem nossos Sabios, quando os Tribos venderaõ
+  a Iosseph acordaraõ entre si que enemhum delles o descubriria a seu pay com
+  herem, disse Iedudah [sic] naõ pode ser porque falta Reuben & naõ somos mais
+  de nove, numero naõ competente, & para o remediar ajuntaraõ consigo a o
+  Senhor, & tanto estima Deos Bendito a honra dos homems, & particularmente, a
+  de seus tementes, que consintiu & se comprendeu com elles, veo Reuben & ficou
+  sogeito a mesma obrigaçaõ, & com ser assi qeu pa- [7] recia de rezaõ ficava
+  libre o Senhor, & diz o verso do Real Psalmista Psalmo I [4]7. ver. 19. ‫מגיד
+  דבריו ליעקב‬‎ descubre suas palabras á Iahacob, naõ lho quis descubrir por
+  respeito do herem & honra dos Tribos & assi que acharaõ vivo a Iosseph elles
+  mesmos entre si absolveraõ o herem & he o que dis o Sagrado texto Genesis 46.
+  verso 27. ‫ותחי רוח יעקב אביהם‬‎ & resositou o espirito de Iahacob seu pay,
+  por vintura eestava morto? si, & assi quer dizer o Sagrado texsto resositou o
+  espirito de Iahacob, sim resositou, por que, por causa do herem naõ se
+  comonicava com elle o Senhor, porem tanto que se absolveu, logo lhe foy
+  restituyda a Prophecia, & assi se deve notar que logo o vay nomeando com o
+  nome de Ysrael, & entendo lhe negou o Senhor a Prophecia opr naõ lhe dar lugar
+  a preguntarlhe por Iosseph & he o que dizem em Genesis 37. verso 35. ‫ויבך
+  אותו אביו‬‎ & chorou a elle seu pay, a saber seu pay de Iahacob chorava
+  Iosseph em companhia de seu pay, porque naõ presumissem que lhe era revelado
+  qeu estava vivo, porque a elle o podia descubrir o Senhor, de sorte, que o
+  herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
+
+
+  Dilatasse este nome de herem, que he os mesmo [8] que maldiçaõ, que dizendo
+  hum homem estas fazendas seigaõ herem he o mesmo que se as consagrara, & assi
+  se julga como os demais votos pera sua absolusaõ, & a tal fazenda servia para
+  os consertos do Sagrado Templo, ou se dava a os sacerdotes. Porem quando
+  Bet-Din manda, dizendo quem fizer tal cousa, está posto em herem, que seiga
+  este herem emviolavel, a tradiçaõ no lo ensina como a diante se verá.
+
+
+  Differe o herem dos juramentos, porque hum homem que aconjurar a outro, sera o
+  mesmo que nada, em quanto a parte naõ responder amen, porem o herem de
+  Bet-Din, ou Kahal, se ordenarem qualquer ordenança com pena de herem, que
+  responda o naõ responda amen, logo fica encorendo, & o mesmo será se o tal naõ
+  aseitasse o dito herem, ou senaõ se achasse presente, como se dirá adiante,
+  visto ter o Senado autoridade para deitar herem, como diz em Nechemia Capitulo
+  13. verso 25. ‫ואקללם וגו' ואשביעם באלהים‬‎ & maldixeos & os ajuramentey pello
+  Senhor, logo cay sobre elle dito herem & he o mesmo qeu se elle por si jurara.
+
+
+  Assi mesmo hua cidade cujos moradores acor- [9] daraõ todos, ò a mayor parte
+  delles, em prezencia dos sete Diputados, se deitasse herem, seu herem he
+  valido para obrigar a menor parte a sua observancia, & ò tal herem he firme, &
+  incontravel, assi qualquer da tal cidade, qeu transgerir, fica enhermado como
+  se transgerira seu proprio juramento, o qual penetrará seus membros, & como
+  diz o Propheta Zechariah cap. 5. vers. 4. ‫וכלתו ואת עציו ואת אבניו‬‎ E
+  acabará à elle a sua madeira, & a suas pedras.
+
+
+  Todos tem obrigaçaõ de se apartar delle, nem darlhe algum proveito mais que o
+  forçoso para poder viver, & quem assi naõ o observar, fica encorrendo no mesmo
+  herem, & deve observar o mesmo que observa o enhermado, que saõ as
+  circunstancias do lutoso descalsar o çapato, & todo o demais, & naõ se podrá
+  aproveitar da fazenda dos q o condenaraõ, & o que fizer poco cazo do referido
+  he propria causa de sua ruina, & transgire as palabras da ley.
+
+
+  E este herem he que dizem naõ he valido, senaõ em companhia dez, & he o que se
+  chama congrega, & sendo menos naõ tem autoridade para pór em herem, porem
+  jurar si, cada hum por si. [10] E se este herem fosse posto por el Rey ò
+  Senado grande de Ysrael em presencia da mayor parte de Ysrael, o que o
+  transsgerir merece morte, & esta será à eleiçaõ do Rey ó Senado, que lha podem
+  dar qual a elles parecer, como consta, & foy o direito que teve o famoso
+  Capitaõ Ieosua contra o preturbador Achan, que o condenou a morte, porque
+  cometeu sacrilegio, Ieosuah capitulo 7. verso 13. ‫כה אמר ה' אלהי ישראל חרם
+  בקרבך ישראל‬‎ E disse o Señor a Ieosuah herem entre ti Ysrael &tc. & o mesmo
+  sucedeu a o Rey Saul com seu filho Ieonatan, que havendo conseguido hua taõ
+  grande como gloriosa vitoria, pois só elle com seu moço foraõ cauza do
+  destroço do furioso exercito Philisteo, por aver encurrido no herem que havia
+  deitado seu pay, o condenou como consta pella Sagrada Historia em Semuel I.
+  cap. 14. vers. 26. & naõ menos o Summo Sacerdote Elazar, quando no successo da
+  concobina do Levita, foraõ mortos os moradores de Yabes Guilhad, pella causa
+  que diz em Iuezes cap. 20. vers. 5. ‫כי השבועה הגדולה היתה לאשר לא עלה אל ה'
+  המצפה לאמר מות יומת‬‎ Que o juramento grande foy contra aquelle que naõ
+  subisse pello Senhor na Mispá, que morrendo morreria, & assi se melda de nome
+  de Riby [11] Aquiba, pois como! ahi ouve juramento? senaõ paraque saibas, que
+  o herem he juramento, & o juramento he o herem; & assi os moradores de Yabes
+  Guilhad, porque naõ subiraõ em companhia dos demais Tribus, foraõ condenados a
+  morte.
+
+
+  Outro, si, o herem se dilata athe as futuras geraçoems; & he o mesmo Decreto
+  de Ieosuah, de que se faz mençaõ nos heremot; como assi diz em Yeosuah cap. 6.
+  ver. 26. ‫וישבע יהושע לאמר ארור האיש אשר יקום ובנה את העיר הזאת את יריחו‬‎ E
+  conjurou Ieosuah dizendo, naquella hora, maldito seja o homem que alevantar, &
+  fabricar esta Cidade, a Ierihó; & seguiu & se cumpriu o seu Decreto dahi a
+  tantos annos, em tempo de Achab, como consta pella Sagrad Historia, Rey. 1.
+  cap. 17. vers. 1.
+
+
+  Ora, suposto que o principal branco de nosso assumpto, he, hua exortaçaõ, que
+  espero com ella evitar hum grande absurdo, reprovar hua perjudicial doctrina,
+  introdusida de animos maliciocos, preturbadores da dezejada paz, trazendo
+  en[?]xonados algums sogetos dezejosos da liberdade, anhelando o mesmo que os
+  faz cautivos do pecca[d]o, sem considerar o quanto offendem a Deos, [12] pois
+  saõ causa de desunir a sua Congrega, cuja gloria, & felicidade consiste no
+  contrario, pois entonces somos assistidos da sua Soberano graça; pois entonces
+  somos immediatamente delle protegidos; entonces se dgna de ser Rey nosso, &
+  nos seus amados vassallos como assi o manifesta o corifeo dos Prophetas Mosseh
+  Deute. cap. 33. vers. 5. ‫ויהי בישורון מלך בהתאסף ראשי עם יחד שבטי ישראל‬‎ E
+  foy Rey em Ysrael, Rey, que he o Senhor Deos, bem entendido quando estaõ
+  juntas do povo as Cabeças, unidos os Tribus de Ysrael; & que mayor
+  encarecimento, naõ o sendo senaõ a mesma verdade, como nos tem mostrado a
+  expiriencia, sentença de nossos Sabios sobre as palavras do Propheta, Ossea
+  cap. 4. vers. 17. ‫חבור עצבים אפרים הנח לו‬‎ Unido idolos Ephraym deyxaõ; que
+  por estar falto de inteligencia, explicaõ nossos Sabios no Medras Rabot, Trat.
+  41. vers. 3. notay quam grata he a o Senhor a paz, & concordia na sua
+  Republica, que estando entre si Ephraym, (inda que está cheo de idolatria)
+  unido, deyxallo; porque naõ ha força que o possa contrastar, nem justiça que o
+  possa condenar; & sendo pello contrario, diz o mesmo Propheta Ossea cap. 10.
+  ver. 2. ‫חלק לבם עתה יאשמו‬‎ [13] Dividiuse o seu coraçaõ, agora seraõ
+  condenados; agora si, que tera lugar a justiça contra elles, he assi agora
+  sendo condenados, seraõ castigados.
+
+
+  He este pois o abuso, que algums presumindo mais do que sabem, & naõ de
+  tementes de Deos, publicaõ, que quando da Sancta Congrega se apartaõ algums
+  individuos della, sendo em numero de des, formando Congrega a parte, se libraõ
+  do herem. Contra estes digo, que a paixaõ, ò por melhor dizer, o peccado os
+  sega, naõ os deixando considerar, que dado cazo naõ concedido, que assi fosse,
+  logo donde está o valor do herem? & no nosso cazo naõ melita, porque o herem
+  comprende que naõ possa haver nesta Cidade de Amsterdam, nem nos seus
+  contornos outra Esnoga nem se podráõ ajuntar para rezar com minyan, senaõ com
+  as condiçoems nelle referidas.
+
+
+  Daõ outros outra cór, que sendo o fundo falço a cór que lhe daõ, he da mesma
+  calidade, dizem por desuadir a fraqueza dos que ignoraõ a verdade, ou que
+  della se fazem ignorantes, qeu o tal herem naõ tem valor, respeito de naõ ser
+  feito com authoridade de Haham, couza que eu nego, porque no tal acordo se
+  acharaõ 4. Hahamim, que tam- [14] bem estaõ firmados mas dado cazo que assi
+  fora, naõ tem o Kahal bastante authoridade, & mais para o poder fazer digaõ
+  que naõ; logo lhe darey em cara com hua authoridade que naõ tem replica. Manda
+  o Rey Saul pena de herem, qeu ninguem coma naquelle dia, the que o Senhor lhes
+  conceda hua assinalada vitoria ao povo de ysrael; transgire Ieonathan o herem
+  sem comer, porque naõ foy mais, (que chupar hua cana de açucar cujo licor o
+  estava convidando) caya sorte sobre Ieonathan, dá a sentença seu pay conforme
+  a Ley, Semu. I. cap. 14. ver. 45. dizendo ‫מות תמות יהונתן‬‎ Morrendo morrerás
+  Ieonathan, porem diz no mesmo Propheta ver. 26. [sic: 46] ‫ויפדו העם את יהונתן
+  ולא מת‬‎ E dredemiraõ o povo a Ieonathan, & naõ morreu; por vintura o
+  redemiraõ com dinheyro? naõ; pois com que? com authoridade que o Senhor lhe
+  concedeu a Congrega; & a rezaõ o está dectando: porque o Rey naõ faz a o povo;
+  o povo si, que faz a o Rey. Assi diz Selomoh nos seus Prover. cap. 14. ver.
+  28. ‫ברוב עם הדרת מלך‬‎ E quanto mayor for o povo, mayor será a gloria de seu
+  Rey. Assi que pode mais a authoridade do povo, que o Real Decreto, inda que
+  ajustado com a Sagrada Ley, [15] grande absurdo, insoportavel erro; mas mayor
+  erro he, naõ conhecer o erro, considerando, que o Senhor quer castigar
+  peccados com erros, & sendo os erros grandes, indicios saõ de grandes
+  peccados, & naõ menos vaticinios de grandes castigos.
+
+
+  Os que querem por suas paxoems, ou por suas commodidades, escurecer a verdade,
+  nunca lhes faltaõ saidas mais ou menos arriscadas, sayem dizendo, que quando
+  se quebra hua Escamá, as demais perderaõ sua força, & valor. Por comparaçaõ,
+  hua das constituiçoems do Sancto Kahal he, se eligaõ mais seis sogeitos, para
+  todas as ocurrencias do Sancto Kahal, & sendo esta hua das constituiçoems
+  primeiras, & já naõ se observa, logo estamos libres das demais, demaneira, que
+  querem tirar a authoridade a o Mahamad, que he o mesmo, q o Kaal, que naõ
+  possa fazer, o desfazer, segundo pedir o tempo, & quando isso se instituhiu,
+  foi por dar satisfasaõ as tres Congregas, & entaõ unidas, se reduziraõ nesta,
+  que o Senhor nos ade conservar contra os dezenfreados ventos: seçou a cauza,
+  seçou o cauzado, pois ya seperderaõ da memoria, & ya naõ averá dous, que poder
+  dizer de cada Esnoga, mais [16] provo, que ditto acordo por si mesmo está
+  nullo diz assi, & se em algum tempo parecer tirar algo delles (dos acordos) o
+  Mahamad naõ o podrá fazer senaõ os seis Diputados qeu agora os fizemso
+  uniformemente ou daquelles que no tal tempo fossem vivos chamando em praça dos
+  que faltarem outros, que os que se acharem prezentes, nomearaõ das pessoas,
+  qeu ouveraõ sido da Congregaçaõ ou Congregaçoems dos que faltarem, o que os
+  dittos seis resolverem de acordo, seguirá: (pois todos morreraõ sem deixar
+  nomeados outros em seu lugar, o ditto acordo por si mesmo está desfeito) &
+  dado cazo que os ouvera, & que naõ se governa (o que naõ he) como se deve: o
+  mau governo, naõ pode tirar o valor a o herem, & que mais queriaõ os
+  preturbadores? senaõ que com a quebra de hua Escamá, se quebraraõ todas; &
+  somente se deve entender em cazos iguais.
+
+
+  Vamos a o desengano, de outro absurdo; & he: que todos dizem o q entendem, mas
+  naõ todos entendem o que dizem: q elles naõ se acharaõ prezentes, nem firmaraõ
+  o tal herem, & assi o naõ aprovaõ, com o que lhes parece estaõ desobrigados;
+  falça doctrina: & lhe dizemos, naõ vedes, [17] que o herem de Moseh se dilatou
+  athe as ultimas geraçoems entonces se valem do que dizem os Sabios que todas
+  as almas se acharaõ prezentes encorporadas & por encorporar, eu o naõ nego
+  porque seria negar a verdade, mas entendo que alegaõ o que naõ creem, nem tem
+  rezaõ de o alegar, suposto seiga a mesma verdade, porque quatro saõ os modos
+  de comentar, Literal, Alegorico, ou Moral; Anagogico, & Tropologico, porem
+  ningem nega que a todos precede o Literal, & este he o documento que na
+  verdade nos deixò Moseh entrudusido pera as futuras geraçoems, a saber, que o
+  herem comprende, a os presentes, & auzentes, a os nacidos, & os que estaõ por
+  nacer, mas demoslho de barato que diraõ de Ieonathan que naõ estando prezente,
+  nem sabendo de nada, esteve sua vida arriscada se o naõ librara mayor poder.
+
+
+  Agora vamos a os de Yabes Guilad, quero comfesar, & assi o diraõ q tiveraõ
+  noticia do decreto dado do summo Pontifice Elazar em companhia, & prezensa de
+  todo o povo, he luogo serto que o naõ aprovaraõ, porque si fora por elles
+  aprovado, claro está que viriaõ, naõ [18] vieriaõ, o foy ignorancia o foy
+  maldade, se foy ignorancia ignorantemente moreraõ; & se malicia, bem o
+  mereceraõ; & mais naõ lhe havia de valer a ignorancia por disculpa, porque tal
+  he a força que o Senhor concedeu a o herem, que naõ val contra elle nemhua
+  disculpa, nem vemos que Ieonathan se desculpasse, sendo que a tinha bem
+  grande, & quando elle a ignorasse a o Senor lhe era manifesta, & a naõ quis
+  aseitar pois manda deitar sortes.
+
+
+  Assi que esta he a causa que me moveo a tirar a luz esta exortaçaõ, para
+  desengano dos que por algua maldita rezaõ de estado se deixaõ abuzar, & para
+  reparo dos zelozos & tementes do Senhor, que naõ os insisione taõ prejudicial
+  doctrina, quizera que os naõ enganasse a esperança da mizericordia devina,
+  porque muitas vezes se zomba daquelles que com sua confiança forem
+  desagradecidos.
+
+
+  Proposto o antecedente, que espero seiga de todos aprobado, naõ nos deve
+  admirar as desordems que passaõ entre nos, porque naõ he novo, o mesmo tem
+  suscedido em outras Congregas, se bem diferimos em que elles eraõ faciles a
+  reduzirse, & nòs duros, & tercos em obedecer. Seria couza dilatada, & naõ
+  menos inteligible se ouveramos de [19] referir o que escrevem os authores,
+  sobre o nosso mesmo sugeito, somente diremos por mayor o rezumo de suas
+  palabras & se vereficará con sua authoridade o que pretendemos.
+
+
+  Prepugeraõ a o famozo Rabenu Moseh Gerundense, hua congrega que ordena algums
+  decretos, em pró da Congrega com herem, & algums particulares juraraõ em
+  prezença de testigos, que elles naõ o aceitavaõ, & assi naõ entravano debaixo
+  das tais ordenanças ou heremoth, preguntasse se tem algum valor o tal
+  juramento, para encontrar dittos heremoth, a o que responde seiga notorio que
+  todas as Congregas tem plena authoridade sobre os seos Yehidim, para ordenarem
+  na sua cidade como se fora o Senado Grande de Ysrael, & o Propheta Malachi
+  cap. 10. ver. 11. ‫במארה אתם נארים ואותי אתם קובעים הגוי כלו‬‎ Diz assi, com a
+  maldiçaõ vos sois amaldiçoadas a gente toda, dizendo que a mayor parte he o
+  mesmo que o todo, assi os que transgerirem tenhaõ por serto a maldiçaõ, como
+  consta da Guemará de Abodá-zará, & concluye dizendo, que os tais que juraraõ
+  naõ fizeraõ o que deviaõ, nem tinhaõ authoridade para o poder fazer, & todos
+  os que naõ seguem o que a Congrega, tropesaõ [20] & encorrem no herem, que pós
+  o Kahal; naõ vemos que dito author fasa mensaõ de Haham, & deve ser como fica
+  ditto, q a authoridade do Kahal he de todas a mayor, & prova mais clara he, o
+  que dis o mesmo author, que serâ mais valiozo, se se fez com aprovaçaõ do
+  Haham, donde se emfire ser valiozo o herem do Kahal ainda que lhe falte a
+  authoridade de Haham, y suposto que por Arisbá parece necessita o Mahamad da
+  companhia do Haham porque no fim do asima referido, de seu nome diz assi com
+  tal que seiga com acordo de homem estimado, naõ contradis a o referido, porque
+  elle naõ trata senaõ do Mahamad, mas naõ do geral, & naõ menos o dizer que
+  seiga com acordo de homem estimado, que querem entender ser o mesmo que Haham,
+  & apurado nem a o Mahamad obriga, a asistencia de Haham, porque elle bem sabia
+  dizer Haham, mas como sabio naõ quis sahir do termo da Guemará a qual diz ‫אדם
+  חשוב‬‎ Homem estimado, entendo como se verificará adiante, que he homem de
+  quem os cidadoems fazem estimaçaõ, & assi declaraõ homem estimado, por Parnás
+  ou Deputado, Rabenu Nissim sobre a mesma Guemará diz desta sorte.
+
+
+  [21] Porem havendo homem estimado deputado sobre o Kahal sem falar em Sabio, &
+  pera mayor verificaçaõ diz adiante senaõ tomou licença do tal Parnas de
+  maneira que entende que o nome de homem estimado se dá a o Parnas, & assi
+  mesmo o Haham Caro no Bet-Iosseph, de nome do citado Rabenu Nissim, estimado,
+  se deve entender deputado por Parnas sobre a Congrega, & entendo que o Otur
+  sedeu do mesmo, porque havendo dito homem grande y sabio, repite dizendo porem
+  si ouver Haham & governador. Eu o aprovo coroborandoo com o seguinte
+  argumento, se na Guemará naõ trata mais que de ‫אדם חשוב‬‎ Homem estimado
+  donde lhe vejo a autoridade pera acrecentarem dizendo hom˜e, Haham, ou
+  governador, porque segundo a Guemarâ se o estimado q diz fora Sabio, disseraõ
+  Sabio, se governador, governador, & elles daõ a entender que he necessario
+  comcurraõ nele duas calidades, sabio, & q este sabio, seiga governador; a
+  desculpa que podé dar por naõ lhe aplicarmos semelhante descuydo, he que
+  querem dizer sabio, ou governador, pois a qualquer delles se pode aplicar o
+  nome de ‫אדם חשוב‬‎ Homem estimado, & tornando a nosso pronto, [22] Arros assi
+  tambem o afirma, como dilatadamente o Haham Ribi Levy Aben Habib na consulta
+  99. donde diz semelhantes palabras geralmente acordaõ todos os authores, que
+  tudo o que o Mahamad ordenar em companhia do Haham, he de todo valiozo, &
+  firme, donde se deve notar tembem que o citado Arros naõ trata do Kahal, mas
+  si, do Mahamad, com que fica probada nossa pretençaõ, que o Kahal tem plena
+  authoridade pera poder pòr & dispor sem ser necessaria a entercedencia de
+  Haham, somente se pode opòr contra o referido, a authoridade do Haham Ribi
+  Iosseph Caro, a quem em todo segimos, diz assi, No seu Sulhan Aruch tomo 4.
+  cap. 231. ver. 28. Tem authoridade os moradores de hua Cidade pera por preso
+  em todas as cousas como lhes parecer, & pòrem pena contra o q transgerir a
+  ordem, & assi mesmo os officiaes podem em quanto a seu officio acordar entre
+  si, que ningem trabalhe no dia que tocar a seu companheiro (& fecha dizendo) o
+  referido se entende em hua Cidade donde naõ hay Haham, porem se o ouver, o
+  acordo serâ nulo, naõ sendo com sua aprovaçaõ, que parece da entender o
+  contrario, do que sustentamos, a saber, que tambem o Kahal [23] necessita da
+  authoridade de Haham (& Falando com o devido respeito) elle se enganou como se
+  enganaraõ todos os que entenderaõ que o nome de ‫אדם חשוב‬‎ Homem estimado se
+  entende somente, Haham, naõ sendo senaõ como fica dito, & provado, homem de
+  quem os moradores de sua Cidade fazem particular estimaçaõ delle, seiga ou naõ
+  seiga Haham a quem elegem, pera que se emcarregue das ocurrencias de sua
+  Cidade & Kahal, fora do antecendente, pergunto, tem o Kahal por si bastante
+  authoridade? forçozamente me confeçaráõ que si, pois diz que seguirá o seu
+  acordo, quando naõ ouver Haham, mas naõ quando o ouver, logo como o Haham lhe
+  pode tirar a authoridade que goza de rezaõ & de direyto, com que he forçozo
+  dizer, qeu com a companhia de Haham se lhe acresenta, mas naõ que por sua
+  causa, a haya de perder, donde por força de este argumento, infirimos o mesmo
+  que pretendemos, que he a authoridade do Kahal, mayor quando for acompanhada
+  com a do Haham, & assi o mesmo author, no seu famozo Beth Iosseph cita a
+  destinçaõ de Rabenu Nissim, diz assi, porem naõ sendo em dano alheho, podem
+  ordenar entre si tudo o que bem lhes parecer, se entende sem autho- [24]
+  ridade de Haham.
+
+
+  E o Haham Ribi Moseh Alascar, na consulta 49. traz por inteiro a Tosaftá, que
+  trata de todos os officiais, & explica que o que diz, que havendo homem
+  estimado, será valiozo o tal acordo, & quando naõ, será nulo, só se refere a
+  os officios ditos, porque he couza particular, porem naõ a o que antecede dos
+  moradores da Cidade, que esses, que haya Haham ou naõ haya, podem ordenar tudo
+  o que lhes parecer, & sigue dizendo, que assi o entendem hum & outro, Rabenu
+  Moseh, & o mesmo afirma Bar Cessat, & concluye dizendo, que os moradores de
+  hua Cidade podem ordenar, suas ordenanças, sem necessitarem de homem estimado,
+  que sendo em companhia de seu Beth-Din, entaõ, he tanto mais valiozo, a tanto
+  que podem confiscar a fazenda, do transgressor, como consta da Guemará,
+  probado por Esrah capitulo 10. verso 7. ‫ויעבירו קול ביהודה ובירושלם לכל בני
+  הגולה להקבץ ירושלם וכל אשר לא יבא לשלשת הימים כעצת השרים והזקנים יחרם כל רכושו
+  והוא יבדל מקהל הגולה‬‎ & passaraõ boz em Ieudah, & Ierusalaym, a todos os
+  filhos do cautiverio para se juntarem a Ierusalaym, & todo o que naõ viesse a
+  os tres dias (segundo) o conselho dos Principes & velhos, seiga confiscada
+  [25] sua fazenda, & elle seiga apartado da Congrega do cautiverio, & tanto que
+  na Guemará de Guitim fol. 36. repetido na Guemará de Yebamoth fol. 89. & mais
+  dilatdado, na Guemará de Mohet Katan fol. 16. & assi diz, ‫אמר רבי יצחק מנין
+  שהפקר בית דין הפקר שנאמר וכל אשר לא יבא לשלשת ימים וגו'‬‎ Diz Ribi Yshac,
+  dondenos consta, que a confiscaçaõ do Senado he conficaçaõ: que assi diz &
+  aquelle que naõ vier a os tres dias &ct. E quem quizer mayor clarez, o pode
+  ver no citado author, & em rezoluçaõ do referido, se me premita dar hua
+  dinstinçaõ & he que sendo o Haham eleyto pello Kahal entonces necessita o
+  Mahamad de sua companhia, tanto porque possa ser foy essa a intençaõ dos que
+  dizem Haham, & governador, a saber, quando concurrem nelle ser Haham &
+  governador, que he o mesmo que dizer Haham do Kahal, tanto por tapar a boca a
+  os que querem escurecer a verdade, ou eficionar a os que dezeigaõ observalla
+  com razoems aerias & falças, advertindo, que a destinçaõ asima tampoco se
+  entende, com o Kahal, como fica provado.
+
+
+  Agora trataremos do principal, & mais importante, para conservaçaõ da sancta
+  Congrega, & aumento da Sagrada Ley, alimento dos pobres & [26] ter propicio a
+  o Senhor Deos, com a conformidade, & uniaõ que elle tanto ama, sendo hua
+  calidade oculta em Ysrael, que os pode fazer immortais en individuo, assi como
+  saõ em especie, como disse o Propheta Malachy cap. 3 ver. 8 ‫כי אני ה' לא
+  שניתי ואתם בני יעקב לא כליתם‬‎ Que eu .A. naõ me alterey, nem vos filhos de
+  Iahacob naõ vos acabastes. E digo assi hay cousas ainda que parecen
+  insolentes, se fundaõ em algua rezaõ de estado, porem hay outras que lhe falta
+  tudo, como sucede no nosso cazo que agora temos entremaõs.
+
+
+  Hum Kahal que desde seus principios foy instituydo com pena de herem que
+  receberaõ sobre si, & firmaraõ todos os que naquelle tempo se acharaõ, que naõ
+  pudesse haver nesta Cidade nem em todos seus contornos outra Esnoga, nem se
+  pudecem ajuntar a rezar com minham, senaõ na casa de lutozo ou de noivos, ou
+  por accidente; & algums naõ conciderando o mal que para si fazem, & o
+  desconserto que pode causar, com o seu exemplar sem que pertinazmente queiraõ
+  presistir na sua má eleiçaõ, & por payxoems particulares, apartandosse do
+  geral agora veraõ manifestamente seu erro, com a authoridade dos mais famozos
+  authores, veraõ [27] que he o mesmo que hua nevoa facil de desfazer a vista
+  dos contantes rayos do Sol da luzente verdade.
+
+
+  Nas consultas do sciente Medina taõ requestadas consulta 37. direy brevemente
+  o compendio, & resumo com alguas palabras proprias do proponente, possa ser
+  que o modo de falar obre, reduzindo algums coraçoms porque suposto que o
+  Senhor Deos diz que somos duros de serviz, he por nossa constancia, mostra o
+  proponiente com lagrimas ainda que as naõ vemos, o sentimento devido, dizendo
+  assi, eu sou o homem desgraciado & infelice, vendo a afliçaõ de hua Congrega
+  illustre, por estremo gloriosa, entre as demais Congregas, donde se acha toda
+  a caridade, & cadeiras da incorubtivel justiça, eminentissimos Sabios, que
+  fartaõ a os famintos, & mataõ a sede dos sedentos, Amos ca. 8. v. 1. ‫לא רעב
+  ללחם ולא צמא למים כי אם לשמוע דברי ה'‬‎ Naõ famintos de paõ, nem sedentos de
+  aguas, mas sim por ouvir a palabra do Senhor, que assi lhe chama o Propheta,
+  nem faltavaõ nella sujeitos nobres, & de illustre geraçaõ, perfeitos nas
+  virtudes, & naõ menos coroados com a coroa da ley, & da sciencia, fama, &
+  gloria, agora estaõ vendo meus olhos, cousa [28] que naõ quizera ver, que se
+  levantaraõ algums sugeitos profanando o Sagrado Templo, & se acomunaraõ
+  dizendo fassamos altar (grande encarisimento pois assi chama a os que se
+  apartaõ do geral) como fizeraõ sem fazer cazo dos sugeitos pios, que os
+  quizeraõ presuadir, nem do herem & maldiçoems &ct. Algums tornaraõ sobre si,
+  que naõ he deshonra conhecer o erro & mais sendo taõ prejudicial, ouros ainda
+  persistem pretinaces, dos reduzidos hay algums, que escropulaõ o haver jurado
+  que haviaõ de sustentar o seu acordo, & naõ era senaõ desacordo.
+
+
+  A o que responde o author citado, provando primeiro que o juramento que
+  fizeraõ, que continha ficarem apartados da Congrega naõ tem valor nenhum,
+  consta pella Guemarâ de Sebuoth hum homem que jurou de naõ observar tal misvá,
+  & a observou quebrantando seu juramento he libre, por que o seu juramento naõ
+  pode prejudicar a o primeiro feito no monte de Sinay, & sendo assi diz o mesmo
+  author naõ pode haver mayor misvá, que sustentar o primeiro juramento, com que
+  se obrigou a observar a dita escamá feita com o herem, que he o mesmo que
+  juramento com que vem a ser o jura- [29] mento, segundo, jurar de naõ fazer a
+  misvá, & assi naõ he juramento, outras provas tras o author bem eficaces mas
+  como naõ melitaõ com o cazo que a nós nos sucede & somente alegey com o
+  antecedente pello que possa suceder, que aja algum que precepitado se
+  despenhasse à fazer semelhantes juramentos.
+
+
+  E vamos a conclusaõ de nosso author que rezolve dizendo o mesmo sucedeu no
+  Kahal de Geruz, & no Kahal de Lisboa, Congregas na Cidade de Constantina,
+  acordando consiguo os illustres Hahamim & com a sentença que se deu, tornaraõ
+  a congregar a seu Kahal, como aquelles que temendo o castigo se retiraraõ do
+  abuzo em que estavaõ, assi que os apartados da Congrega, ficaõ obrigados
+  (ainda que ajaõ jurado o contario) tornraráõ a congregar con seus Yrmaõs,
+  porque o tal juramento naõ he de valor, & se pertinaces insistirem em sua
+  rebeldia (diz o author) & naõ quizerem reduzirse saibaõ que estaõ emhermados
+  (por mais cores que procurem dar, porque todas saõ falsas) & com a reducçaõ
+  seraõ curados.
+
+
+  Estou vendo que me dizem que o herem naõ comprende mais que o rezar fora da
+  Esnoga com [30] minham que obedecem, porem querem ficar em suas casas, bem o
+  podem fazer, mais vejaõ que serâ a sua custa, pois a oraçaõ em Congrega tem
+  grande força & valor, & sendo só grande risco como dizem na Gemará de Berahoth
+  sobre o verso Psal. 102. ver. 18. ‫פנה אל תפילת הערער ולא בזה את תפילתם‬‎
+  Olhou para a oraçaõ do solitario, & naõ despresou delles a sua oraçaõ, notando
+  que este fraze de (פנה) olhou he o mesmo que dizer especulou, quando o Senhor
+  Deos ouve hua só voz diz, quem he este atrevido que se aparta de minha
+  Congrega, corraselhe a folha veigamos em que funda o seu atrevimento, mas a
+  oraçaõ da Congrega geral, jamais a desprezou o Senhor, fora disto he sentença
+  da Guemará de Berahoth todo aquelle que tem Esnoga em sua Cidade, & naõ vay a
+  orar nella, se estima por vezinho mao, como provaõ pello Propheta Yrmihau que
+  diz na maneira seguinte ‫כה אמר ה' על שכני הרעים הנוגעים בנחלה אשר הנחלתי את
+  עמי את ישראל‬‎ Assi diz o Senhor a todos meus vezinhos maos, os que tocaõ na
+  eredade que fiz eredar a meu povo Ysrael &ct. enfirece das palabras do author
+  que foras de ser vezinho mao, pois poem defeito na caza do Senhor, naõ fazendo
+  cazo della, naõ honrandosse della, padecer á cautiveiro, elle, [31] & seus
+  filhos, como segue o mesmo Propheta & coroborasse com o que diz na mesma
+  Guemará de Berahoth que naõ he ouvido do homem a oraçaõ senaõ na Esnoga, &
+  entende (נוגיעם) ́q pom defeito.
+
+
+  O Haham Adraby consulta 39. escreve, que se lhe propòs de Selonique, donde se
+  padeciaõ diferentes desconcertos ouve entre elles o mesmo que a nòs nos
+  acontesse de algums que se apartaraõ do Kahal, & os Hahamim delles, que nunca
+  podem ser pocos, ordenaraõ entre outras cousas, que ninguem se possa apartar
+  do seu kahal nem fazerem Esnoga de novo mais daquellas que de prezente haviaõ
+  no dito Selonique com todas as maldiçoems & heremoth, & consultandosse com o
+  dito author, respondeu, que direy em summa, que dado caso que os tays ouvessem
+  jurado com mayores maldiçoems que se haviaõ de apartar & dado & naõ concedido,
+  que este juramento seiga valiozo, dogo fazendo differença do juramento, a o
+  herem, que teraõ obrigaçaõ observallo porem naõ por isso se livraõ do herem
+  referido, na escamá, porque esse sempre fica no seu ser, com que sempre os
+  tays estaõ condenados, & assi ficaõ emhermados, & desgraciados, diante do
+  Senhor Deos, pello qeu resolve que os [32] ditos se ajaõ de absolver do
+  juramento, que fizeraõ, & tornando a sua Congrega, ficaõ se nenhum escrupolo.
+
+
+  He na consulta 254. afirma o mesmo, & tambem na consulta 113. assi se enfire
+  do Haham Ribi Moseh Trany na consulta 84. com que damos luz a os que naõ sabem
+  a força do herem, que he tal como fica dito, que no tempo da nossa felissidade
+  & quando posuyamos o reyno merecia morte, o que o trangerisse, sendo posto por
+  el Rey, ou Senado grande de Ysrael, suposto que tudo nos falta fica a cargo do
+  Senhor Deos, sua execuçaõ, a qual pode tardar, mais naõ faltar, com que
+  deixamos resolvido, & provado, o que pretendemos com as seguintes concluzoems.
+
+
+  A primeira, he manifestar o valor do herem, & suas circunstancias, & que
+  somente o Haham, ou tres homems em seu lugar o podem absolver, quando algum
+  particular encurrir nelle.
+
+
+  Segunda, ser tam grande a authoridade de hum Kahal, que naõ necessita de outro
+  favor.
+
+
+  Terceira, que a mesma authoridade tem o Mahamad quando for eleyto
+  juridicamente, a saber, sendo eleyto pello Kahal, ou pella mayor parte [33]
+  delle donde assi se uza, ou quando o Kahal sedeu da dita sua authoridade & a
+  deu a os primeiros eleitos, paraque elles sucessivamente follsem ellegendo a
+  os que lhes parecerem benemeritos, & naõ reprobada pello gera.
+
+
+  Quarta, que com tudo havendo Haham assalariado ou eleito pello Kahal, donde
+  eleje o Kahal, ou donde eleje o Mahamad, necessita de ser acompanhado.
+
+
+  Quinto, que o herem tem o mesmo valor, que os demais desde o de Moseh Rabenu,
+  em que obriga a todas as geraçoems presentes & futuras, sem se poder alegar
+  auzencia nem ignorancia, porque a calidade do sugeitos naõ desfaz na do herem,
+  nem na virtude que o Senhor Deos lhe deu.
+
+
+  Sexta, que todos os que tratarem com os transgreçores ficaõ da sua mesma
+  calidade, & obrigados a huas mesmas circunstancias.
+
+
+  Septima, o fim de tudo mostrar o que pretendemos, com casos, & exemplos da
+  mesma calidade sucedidos, que havendosse constituydo a uniaõ do nosso Sancto
+  Kahal, com a aprovaçaõ de todos, & por todos firmado em companhia de seus
+  Hahamim com pena de herem, que aquelles que se se- [34] pararem contra o
+  acordo, que naõ se podem, nem nimgem no mundo os pode librar da tal pena.
+
+
+  Octava, de caminho advertir, a os que temem a o Senhor, & receaõ cayr em
+  semelhante rigor, & por naõ transgerir o herem se deixaõ ficar em suas cazas,
+  o mal para si o fazem, & assi que espero seiga esta fraca exortaçaõ de se
+  colher o fruto dezejado, & a todos de tanto proveito pera conservaçaõ do
+  Sancto Kahal, honra do Senhor Deos, & gloria de sua Sancta ley, coma qual
+  esperamos salvarnos & merecer & gozar do prometido Siglo, como diz o Propheta
+  Yesayahu cap. 59. ver. 20. ‫ובא לציון גואל ולשבי פשע ביעקב נאם ה'‬‎ & virá
+  redemidor, & pellos que de seus pecados, se reduzem diz o Senhor, que seiga em
+  nossos dias Amen.
+
+
+  Oje 4. de Elul de 5480.
+
+
+  Publisher: Printed by David Tartas, Amsterdam, 1679/80; 34pp.
+
+
+  Archive: 21 E 23 (6) in Biblioteca Ets Haim, Amsterdam, Netherlands.
 ---
 ## Introduction
 
