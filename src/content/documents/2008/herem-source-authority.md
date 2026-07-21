@@ -146,18 +146,18 @@ original_language_body: >-
   Senhor, & tanto estima Deos Bendito a honra dos homems, & particularmente, a
   de seus tementes, que consintiu & se comprendeu com elles, veo Reuben & ficou
   sogeito a mesma obrigaçaõ, & com ser assi qeu pa- [7] recia de rezaõ ficava
-  libre o Senhor, & diz o verso do Real Psalmista Psalmo I [4]7. ver. 19. ‫מגיד
-  דבריו ליעקב‬‎ descubre suas palabras á Iahacob, naõ lho quis descubrir por
-  respeito do herem & honra dos Tribos & assi que acharaõ vivo a Iosseph elles
-  mesmos entre si absolveraõ o herem & he o que dis o Sagrado texto Genesis 46.
-  verso 27. ‫ותחי רוח יעקב אביהם‬‎ & resositou o espirito de Iahacob seu pay,
-  por vintura eestava morto? si, & assi quer dizer o Sagrado texsto resositou o
-  espirito de Iahacob, sim resositou, por que, por causa do herem naõ se
-  comonicava com elle o Senhor, porem tanto que se absolveu, logo lhe foy
-  restituyda a Prophecia, & assi se deve notar que logo o vay nomeando com o
-  nome de Ysrael, & entendo lhe negou o Senhor a Prophecia opr naõ lhe dar lugar
-  a preguntarlhe por Iosseph & he o que dizem em Genesis 37. verso 35. ‫ויבך
-  אותו אביו‬‎ & chorou a elle seu pay, a saber seu pay de Iahacob chorava
+  libre o Senhor, & diz o verso do Real Psalmista *Psalmo I* [4]7. ver. 19.
+  ‫מגיד דבריו ליעקב‬‎ *descubre suas palabras á Iahacob*, naõ lho quis descubrir
+  por respeito do herem & honra dos Tribos & assi que acharaõ vivo a Iosseph
+  elles mesmos entre si absolveraõ o herem & he o que dis o Sagrado texto
+  *Genesis 46. verso 27*. ‫ותחי רוח יעקב אביהם‬‎ & *resositou o espirito de
+  Iahacob seu pay*, por vintura eestava morto? si, & assi quer dizer o Sagrado
+  texsto resositou o espirito de Iahacob, sim resositou, por que, por causa do
+  herem naõ se comonicava com elle o Senhor, porem tanto que se absolveu, logo
+  lhe foy restituyda a Prophecia, & assi se deve notar que logo o vay nomeando
+  com o nome de Ysrael, & entendo lhe negou o Senhor a Prophecia opr naõ lhe dar
+  lugar a preguntarlhe por Iosseph & he o que dizem em Genesis 37. verso 35.
+  ‫ויבך אותו אביו‬‎ & chorou a elle seu pay, a saber seu pay de Iahacob chorava
   Iosseph em companhia de seu pay, porque naõ presumissem que lhe era revelado
   qeu estava vivo, porque a elle o podia descubrir o Senhor, de sorte, que o
   herem que entre si deitaraõ os Tribus elles mesmos o absolveraõ.
