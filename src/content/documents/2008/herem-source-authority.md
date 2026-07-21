@@ -217,10 +217,10 @@ original_language_body: >-
   causa que diz em *Iuezes cap. 20. vers. 5.* ‫כי השבועה הגדולה היתה לאשר לא עלה
   אל ה' המצפה לאמר מות יומת‬‎ *Que o juramento grande foy contra aquelle que naõ
   subisse pello Senhor na Mispá, que morrendo morreria*, & assi se melda de nome
-  de Riby [11] Aquiba, pois como! ahi ouve juramento? senaõ paraque saibas, que
-  o herem he juramento, & o juramento he o herem; & assi os moradores de Yabes
-  Guilhad, porque naõ subiraõ em companhia dos demais Tribus, foraõ condenados a
-  morte.
+  de Riby **[11]** Aquiba, pois como! ahi ouve juramento? senaõ paraque saibas,
+  que o herem he juramento, & o juramento he o herem; & assi os moradores de
+  Yabes Guilhad, porque naõ subiraõ em companhia dos demais Tribus, foraõ
+  condenados a morte.
 
 
   Outro, si, o herem se dilata athe as futuras geraçoems; & he o mesmo Decreto
@@ -251,9 +251,9 @@ original_language_body: >-
   Trat. 41. vers. 3.* notay quam grata he a o Senhor a paz, & concordia na sua
   Republica, que estando entre si Ephraym, (inda que está cheo de idolatria)
   unido, deyxallo; porque naõ ha força que o possa contrastar, nem justiça que o
-  possa condenar; & sendo pello contrario, diz o mesmo Propheta Ossea cap. 10.
-  ver. 2. ‫חלק לבם עתה יאשמו‬‎ [13] Dividiuse o seu coraçaõ, agora seraõ
-  condenados; agora si, que tera lugar a justiça contra elles, he assi agora
+  possa condenar; & sendo pello contrario, diz o mesmo Propheta *Ossea cap. 10.
+  ver. 2.* ‫חלק לבם עתה יאשמו‬‎ [13] *Dividiuse o seu coraçaõ*, *agora seraõ
+  condenados*; agora si, que tera lugar a justiça contra elles, he assi agora
   sendo condenados, seraõ castigados.
 
 
