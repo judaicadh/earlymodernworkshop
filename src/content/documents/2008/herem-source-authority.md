@@ -10,6 +10,7 @@ event:
   theme: Law--Continuity and Change in the Early Modern Period
 language:
   - Portugese
+  - Hebrew
 description: >
   A treatise on the herem composed by Isaac Aboab da Fonseca, the head rabbi of
   the Spanish and Portuguese Jewish community of Amsterdam. Specifically, this
