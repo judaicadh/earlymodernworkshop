@@ -289,79 +289,17 @@ shall prove presently, with the help of God.
 
 [^4]: BT Eruvin 13B.
 
-[^5]: Moses Isserles, *Sefer Torat Ha-Olah*, (Prague, 1569), 72B. This passage from *Torat*
+[^5]: Moses Isserles, *Sefer Torat Ha-Olah*, (Prague, 1569), 72B. This passage from *Torat ha-Olah* was copied without ascription by Aaron Moses Altschuler, a native of Prague and rabbi of the Kromau community in Moravia, in the preface to his *Sefer Va-Yehal Moshe* (Prague, 1613). See Tishby, “General Introduction,” in *The Wisdom of the Zohar: An Anthology of Texts*. (Oxford: Littman Library, 1989), 112.
 
-*ha-Olah* was copied without ascription by Aaron Moses Altschuler, a native of Prague
+[^6]: The writings of Menahem Recanati, an Italian Kabbalist who flourished at the beginning of the fourteenth century, appeared in print in the middle of the sixteenth century. His commentary on the Pentateuch was printed at Venice in 1545 and his *Sefer Ta’amei ha-Mizvot,* which included a liturgical commentary, appeared at Basle in 1585. See Tishby, “General Introduction,” 108, n. 92.
 
-and rabbi of the Kromau community in Moravia, in the preface to his *Sefer Va-Yehal*
+[^7]:*Sha’arei Orah* by Joseph Gikatillia, a thirteenth-century Castilian kabbalist. The work appeared in print for the first time in 1561 at Mantua, at the same press that had printed an edition of the *Zohar* and *Ma’arekhet ha-Elohut*.
 
-*Moshe* (Prague, 1613). See Tishby, “General Introduction,” in *The Wisdom of the Zohar:*
+[^8]: The phrase “by way of truth,” <*al pi ha-emet*> and the notion of an uninterrupted chain of transmission from one recipient to another allude quite pointedly to the position of Nahmanides, a thirteenth-century Iberian kabbalist. See Elliot R. Wolfson, “‘By Way of Truth’: Aspects of Nahmanides' Kabbalistic Hermeneutic,” *AJS Review* 14 (1989). Haviva Pedaya, *Ha-Ramban: Hitalut, Zeman Mahzori ve-Tekst Kadosh* (Tel Aviv: Am Oved, 2003). Moshe Halbertal, *Al Derekh Ha-Emet: Ha-Ramban vi-Yetsiratah shel Masoret* (Jerusalem: Mekhon Shalom Hartman, 2006).
 
-*An Anthology of Texts*. (Oxford: Littman Library, 1989), 112.
+[^9]: Modena conflated two different editors of the *Zohar*, Immanuel Korufoli and Immanuel ben Jekuthiel Benevento, into the same person. Immaneul ben Jekuthiel Benevento wrote *Livyat Hen*, a Hebrew grammar printed at Mantua in 1557. He also edited the Mantua edition of the *Tikkunei Zohar* and the second volume of the Mantua edition of the *Zohar*. Immanuel Korufoli edited the first volume of the Mantua edition of the *Zohar*. For his introduction to the *Zohar* referred to in this passage see Sefer *Ha-Zohar Al Ha-Torah*, (Mantua: 1558), vol. 1, 1A-3B. The passage cited by Modena appears on 2A. For clarification of Modena’s mistake see the letter by Gershom Scholem to Nehemiah Libowitz, printed in *Ari Nohem* ed. Libowitz, (Jerusalem, 1929), 157; Isaiah Tishby, “The Controversy over the Printing of the *Zohar* in Italy,” 170, n.136.
 
-[^6]: The writings of Menahem Recanati, an Italian Kabbalist who flourished at the
-
-beginning of the fourteenth century, appeared in print in the middle of the sixteenth
-
-century. His commentary on the Pentateuch was printed at Venice in 1545 and his *Sefer*
-
-*Ta’amei ha-Mizvot,* which included a liturgical commentary, appeared at Basle in 1585.
-
-See Tishby, “General Introduction,” 108, n. 92.
-
-[^7]:*Sha’arei Orah* by Joseph Gikatillia, a thirteenth-century Castilian kabbalist. The work
-
-appeared in print for the first time in 1561 at Mantua, at the same press that had printed
-
-an edition of the *Zohar* and *Ma’arekhet ha-Elohut*.
-
-[^8]: The phrase “by way of truth,” <*al pi ha-emet*> and the notion of an uninterrupted
-
-chain of transmission from one recipient to another allude quite pointedly to the
-
-position of Nahmanides, a thirteenth-century Iberian kabbalist. See Elliot R. Wolfson,
-
-“‘By Way of Truth’: Aspects of Nahmanides' Kabbalistic Hermeneutic,” *AJS Review* 14
-
-(1989). Haviva Pedaya, *Ha-Ramban: Hitalut, Zeman Mahzori ve-Tekst Kadosh* (Tel
-
-Aviv: Am Oved, 2003). Moshe Halbertal, *Al Derekh Ha-Emet: Ha-Ramban*
-
-*vi-Yetsiratah shel Masoret* (Jerusalem: Mekhon Shalom Hartman, 2006).
-
-[^9]: Modena conflated two different editors of the *Zohar*, Immanuel Korufoli and
-
-Immanuel ben Jekuthiel Benevento, into the same person. Immaneul ben Jekuthiel
-
-Benevento wrote *Livyat Hen*, a Hebrew grammar printed at Mantua in 1557. He also
-
-edited the Mantua edition of the *Tikkunei Zohar* and the second volume of the Mantua
-
-edition of the *Zohar*. Immanuel Korufoli edited the first volume of the Mantua edition of
-
-the *Zohar*. For his introduction to the *Zohar* referred to in this passage see Sefer
-
-*Ha-Zohar Al Ha-Torah*, (Mantua: 1558), vol. 1, 1A-3B. The passage cited by Modena
-
-appears on 2A. For clarification of Modena’s mistake see the letter by Gershom Scholem
-
-to Nehemiah Libowitz, printed in *Ari Nohem* ed. Libowitz, (Jerusalem, 1929), 157;
-
-Isaiah Tishby, “The Controversy over the Printing of the *Zohar* in Italy,” 170, n.136.
-
-[^10]: Joseph Arles was a prominent rabbi in sixteenth century Italy who converted to
-
-Christianity and took the name Jacobus Geraldino. On his conversion see, Yacob
-
-Boksenboim, “Introduction,” (Hebrew) *Iggerot Melamdim*, 9-15. On Joseph of Arles’s
-
-letter mentioned by Modena see *Iggerot Bet Rieti* ed. Yacob Boksenboim, (Tel Aviv: Tel
-
-Aviv University Press, 1987), 329. As Boksenboim demonstrated, the letter mentioned
-
-by Modena has nothing to do with the printing of the *Zohar*. Modena adduces the letter
-
-as further evidence against Immanuel Korufoli.
+[^10]: Joseph Arles was a prominent rabbi in sixteenth century Italy who converted to Christianity and took the name Jacobus Geraldino. On his conversion see, Yacob Boksenboim, “Introduction,” (Hebrew) *Iggerot Melamdim*, 9-15. On Joseph of Arles’s letter mentioned by Modena see *Iggerot Bet Rieti* ed. Yacob Boksenboim, (Tel Aviv: Tel Aviv University Press, 1987), 329. As Boksenboim demonstrated, the letter mentioned by Modena has nothing to do with the printing of the *Zohar*. Modena adduces the letter as further evidence against Immanuel Korufoli.
 
 [^11]: Isa. 8:8
 
@@ -387,18 +325,4 @@ as further evidence against Immanuel Korufoli.
 
 [^22]: Mishnah Sabbath 3:1.
 
-[^23]: On the messianism of Isaac de Lattes see Tishby, “The controversy over the printing of
-
-the *Zohar* in Italy,” 151-58. On his political theory see Bernard Dov Cooperman,
-
-“Political Discourse in a Kabbalistic Register: Isaac De Lattes’ Plea for Stronger
-
-Communal Government,” in *Be’erot Yitzhak: Studies in Memory of Isadore Twersky*,
-
-ed. Jay M. Harris (Cambridge, Mass: Harvard University Press, 2005). On messianism
-
-and the *Zohar* see Yehuda Liebes, “The Messiah of the *Zohar*: The Messianic Image of
-
-Simeon bar Yohai,” (Hebrew) in *Ha-Ra'yon Ha-Meshihi Be-Yisrael*, ed. Shmuel Reem
-
-(Jerusalem: Israel Academy of the Sciences, 1982).
+[^23]: On the messianism of Isaac de Lattes see Tishby, “The controversy over the printing of the *Zohar* in Italy,” 151-58. On his political theory see Bernard Dov Cooperman, “Political Discourse in a Kabbalistic Register: Isaac De Lattes’ Plea for Stronger Communal Government,” in *Be’erot Yitzhak: Studies in Memory of Isadore Twersky*, ed. Jay M. Harris (Cambridge, Mass: Harvard University Press, 2005). On messianism and the *Zohar* see Yehuda Liebes, “The Messiah of the *Zohar*: The Messianic Image of Simeon bar Yohai,” (Hebrew) in *Ha-Ra'yon Ha-Meshihi Be-Yisrael*, ed. Shmuel Reem (Jerusalem: Israel Academy of the Sciences, 1982).
