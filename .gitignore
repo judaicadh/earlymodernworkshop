@@ -27,3 +27,4 @@ node_modules
 # Local Netlify folder
 .netlify
 .claude/worktrees/tender-dhawan-ec1e2b/
+.claude/launch.json
