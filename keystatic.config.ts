@@ -93,7 +93,7 @@ const schema = {
     // changed: markdoc → text
     primarysourceinfo: fields.text({ label: 'Primary Source Info', multiline: true }),
 
-    content: fields.markdoc({ label: 'Content', extension: 'md' }),
+    content: fields.markdoc({ label: 'Content', extension: 'mdoc' }),
 };
 
 export default config({
