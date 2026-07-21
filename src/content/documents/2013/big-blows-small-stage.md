@@ -256,7 +256,7 @@ original_language_body: >-
   **37. קצבים להציל אותו עשה ר' דניאל רציחה וכבר חלף ועבר**
 
 
-  **38. מן העולם וכאשר באמת שמוטל כ' פייבש על ערש דווי ונפל**
+  **38. מן העולם וכאשר באמת שמוטל כ' פייבש על ערש דווי** ונפל
 
 
   39. Here several paragraphs intervene; then this story is picked up fol. 27b
