@@ -23,12 +23,8 @@ Scion of a rabbinic family heavily involved in legal deliberations pertaining to
 
 This extraordinary passage should be considered within the following historical contexts:
 
-1. The efforts by humanists -- Jews as well as Christian -- to reconstruct the historical and
-
-  doctrinal origins of Christianity by mining ancient sources without overt theological bias.
-2. The effort of certain Jews who were learned in Christian sources -- and particularly of those
-
-  involved in "reclaiming" conversos -- to evaluate Christianity both historically and theologically, in order to determine whether it warranted the label of "idolatry".
+1. The efforts by humanists -- Jews as well as Christian -- to reconstruct the historical anddoctrinal origins of Christianity by mining ancient sources without overt theological bias.
+2. The effort of certain Jews who were learned in Christian sources -- and particularly of thoseinvolved in "reclaiming" conversos -- to evaluate Christianity both historically and theologically, in order to determine whether it warranted the label of "idolatry".
 
 ## Source 1 Translation
 
@@ -216,6 +212,10 @@ Additions in bracket based on the critical edition of *Keshet u-magen* by Murcia
 ‫גם דבריכם אלו אני רואה שאינם נכונים ואין בטענות אלו מה שיפסול הזרע מחזקת הכהונה כי לא מצינו מי שיולד מן הערלה שיהיה פסול מלהיות כהן וגם כי ישראל אעפ"י שהם ערלים נקראים מהולים ואעפ"י שהוא עובר הערל על שאינו מל את עצמו מ"מ זרעו כשר והוא נחשב כמהול כדאמרי' בפרק הנודר במסכת נדרים הנודר מן הערלים אסור במהולי אומות העולם ומותר בערלי ישראל שהכ"ום אפי' מהול נקרא ערל וישראל אפי' ערל נקרא מהול שנאמר כי כל הגוים ערלים וכל בית ישראל ערלי לב....
 
 ## Source 4 Original Text
+
+‫בחינת הקבלה כולל ספר קול סכל וספר שאגת אריה. מהדיר, יצחק שמואל ריג"יו (תרי"ב)‬
+
+‫גרים. הוצרך למול ולטבול כל גר כפי סדרם, ולא הבינו ולא שמו לב על דברי' שיסוד האומה תלוי בהם וגדולתה והצלחתה. כאשר עשו בכל סדר ותקון שעשו, הכל הריסה ושחתה, רצוני בזה שהיה להם לבאר שכל הבא להגייר אחר ההתראה בו החקירה שיתברר לנו ביאתו לש"ש לא לתכלית חצוני, יודיעוהו מעלת המילה ושכרה אם ירצה למול עצמו הרי טוב ואם לא יטבול ויהיה יהודי ויספיק לו זה להיות בעדות ועריות ירושה והורשה וכל דבר כשאר עם ישראל, ולא לעשות נכסיו הפקר ודיני סדום אשר צוו בזה, לך ועיין בם, אמנם בני' אשר יולדו לו אחרי גייורו ימולו לשמונה ימי', כי כבר היה להם על (מה) שיסמוכו בתרוה שהרי גר תושב לא הוצרך למול את עצמו ולא היה לו זה עיכוב אלא באכילת הפסח לא זולת, וביתרו ושום גר שנתגייר לא נזכר בתורה שמל את עצמו, והיה זה מיקל על העמי' לשיוכלו לבא תחת כנפי השכינה או לקבל עליהם עול תורתנו אם והיה קל ונעי' ביותר, אכן לעולם על פי הדבר אשר צוה משה איש האלהי ובאולי כבר התיהדו גוי וממלכה כולה או יותר מאחת וקרבה גאולתנו כמו שרמזתי לך מאמר ב' פ' ו' עיין וחזור ועיין עליו, ידעתי תודה כי חכמי התלמוד באמת עמודי גולה התומכי' ומעמידי' אותנו בגלות עוד כל ימי הארץ, אם לא ישלח ידו ויקחנו ממנו אלהי השמי' והארץ.‬
 
 Footnotes
 
