@@ -214,9 +214,9 @@ original_language_body: >-
   deitado seu pay, o condenou como consta pella Sagrada Historia em *Semuel I.
   cap. 14. vers. 26.* & naõ menos o Summo Sacerdote Elazar, quando no successo
   da concobina do Levita, foraõ mortos os moradores de Yabes Guilhad, pella
-  causa que diz em Iuezes cap. 20. vers. 5. ‫כי השבועה הגדולה היתה לאשר לא עלה
-  אל ה' המצפה לאמר מות יומת‬‎ Que o juramento grande foy contra aquelle que naõ
-  subisse pello Senhor na Mispá, que morrendo morreria, & assi se melda de nome
+  causa que diz em *Iuezes cap. 20. vers. 5.* ‫כי השבועה הגדולה היתה לאשר לא עלה
+  אל ה' המצפה לאמר מות יומת‬‎ *Que o juramento grande foy contra aquelle que naõ
+  subisse pello Senhor na Mispá, que morrendo morreria*, & assi se melda de nome
   de Riby [11] Aquiba, pois como! ahi ouve juramento? senaõ paraque saibas, que
   o herem he juramento, & o juramento he o herem; & assi os moradores de Yabes
   Guilhad, porque naõ subiraõ em companhia dos demais Tribus, foraõ condenados a
@@ -224,12 +224,12 @@ original_language_body: >-
 
 
   Outro, si, o herem se dilata athe as futuras geraçoems; & he o mesmo Decreto
-  de Ieosuah, de que se faz mençaõ nos heremot; como assi diz em Yeosuah cap. 6.
-  ver. 26. ‫וישבע יהושע לאמר ארור האיש אשר יקום ובנה את העיר הזאת את יריחו‬‎ E
-  conjurou Ieosuah dizendo, naquella hora, maldito seja o homem que alevantar, &
-  fabricar esta Cidade, a Ierihó; & seguiu & se cumpriu o seu Decreto dahi a
-  tantos annos, em tempo de Achab, como consta pella Sagrad Historia, Rey. 1.
-  cap. 17. vers. 1.
+  de Ieosuah, de que se faz mençaõ nos heremot; como assi diz em *Yeosuah cap.
+  6. ver. 26.* ‫וישבע יהושע לאמר ארור האיש אשר יקום ובנה את העיר הזאת את יריחו‬‎
+  *E conjurou Ieosuah dizendo, naquella hora, maldito seja o homem que
+  alevantar, & fabricar esta Cidade, a Ierihó*; & seguiu & se cumpriu o seu
+  Decreto dahi a tantos annos, em tempo de Achab, como consta pella Sagrad
+  Historia, Rey. 1. cap. 17. vers. 1.
 
 
   Ora, suposto que o principal branco de nosso assumpto, he, hua exortaçaõ, que
