@@ -173,8 +173,8 @@ Lorberbaum, Menachem. *Politics and the Limits of Law: Secularizing the Politica
 [^29]: Or, “commandment.”  
 [^30]: Now apparently referring again to the rebels of Amsterdam  
 [^31]: Jeremiah 12:14  
-32 JPS: _He shall come as redeemer to Zion, to those in Jacob who turn back from sin—declares the Lord.  
-_33 It should be 5440, the date given at the beginning of the treatise, which must be the correct one Aboab died in 5453. Perhaps the error crept in because the Gregorian date was 1680.  
+[^32]: JPS: *He shall come as redeemer to Zion, to those in Jacob who turn back from sin—declares the Lord.*  
+[^33]: It should be 5440, the date given at the beginning of the treatise, which must be the correct one Aboab died in 5453. Perhaps the error crept in because the Gregorian date was 1680.  
 ->
 
 ## Source 1 Original Text
