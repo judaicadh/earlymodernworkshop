@@ -116,8 +116,6 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 
 **Responsa Be'er Yitzhak Yitzhak ben Avraham, before 1685**
 
-**Publisher:** B. Weinryb (ed.), Texts and Studies the Communal History of Polish Jewry, New York 1950
-
 **מתוך "ספר הזכרונות" - פנקס הקהל של ק"ק פוזנא**
 
 תקנות המבוררים המה בכתובי' חתומי' בקצה מטה ענייני ואופני דירות המשכיר בית החורף והמכניס קאמרניק
@@ -130,11 +128,11 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 
 [הוצאות הקהל יצ"ו בשנת שצ"ח: אב"ד ק"ל זה' שכירו', ק' זהו' הספקה]
 
+**Publisher:** B. Weinryb (ed.), Texts and Studies the Communal History of Polish Jewry, New York 1950
+
 ## Source 3 Original Text
 
 **Responsa Be'er Yitzhak Yitzhak ben Avraham, before 1685**
-
-**Publisher:** (Jerusalem, 1982), no. 100
 
 **מתוך שו"ת רבנו יצחק הגדול מפוזנא זצ"ל - באר יצחק**
 
@@ -157,3 +155,5 @@ It is also written in the "Breastplate of Justice" [in the Shulkhan Arukh] that 
 ואם כן כיון שלא הגידו העדים בנ"ד בכמה בחדש היתה ולא באיזה שעה ולא באיזה יום, ותנן בפרק "היו בודקין" [סנהדרין דף מ' ע"א] דבחקירות אם אמר א' אינו יודע עדותן בטילה...
 
 וכן איתא בח"מ... דאין דנין על פיו [של עדות שניתנה לא לפני בעל הדבר], וחוזרין ומגידין בפניו, ואם שינו בעדותן ממה שהגידו בראשונה, הולכים אחר עדות שהגידו בפניו... והכל מודים בנ"ד דבעינן דרישה וחקירות.
+
+**Publisher:** (Jerusalem, 1982), no. 100
