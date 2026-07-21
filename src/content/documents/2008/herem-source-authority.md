@@ -245,10 +245,10 @@ original_language_body: >-
   *E foy Rey em Ysrael,* Rey, que he o Senhor Deos, bem entendido quando estaõ
   juntas do povo as *Cabeças, unidos os Tribus de Ysrael*; & que mayor
   encarecimento, naõ o sendo senaõ a mesma verdade, como nos tem mostrado a
-  expiriencia, sentença de nossos Sabios sobre as palavras do Propheta, Ossea
-  cap. 4. vers. 17. ‫חבור עצבים אפרים הנח לו‬‎ Unido idolos Ephraym deyxaõ; que
-  por estar falto de inteligencia, explicaõ nossos Sabios no Medras Rabot, Trat.
-  41. vers. 3. notay quam grata he a o Senhor a paz, & concordia na sua
+  expiriencia, sentença de nossos Sabios sobre as palavras do Propheta, *Ossea
+  cap. 4. vers. 17.* ‫חבור עצבים אפרים הנח לו‬‎ *Unido idolos Ephraym deyxaõ*;
+  que por estar falto de inteligencia, explicaõ nossos Sabios no *Medras Rabot,
+  Trat. 41. vers. 3.* notay quam grata he a o Senhor a paz, & concordia na sua
   Republica, que estando entre si Ephraym, (inda que está cheo de idolatria)
   unido, deyxallo; porque naõ ha força que o possa contrastar, nem justiça que o
   possa condenar; & sendo pello contrario, diz o mesmo Propheta Ossea cap. 10.
