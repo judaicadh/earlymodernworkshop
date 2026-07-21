@@ -30,7 +30,11 @@ original_language_body: >-
 
   **Exortaçaõ, Paraque os tementes do Senhor na observança dos preceitos de
   sua Sancta Ley, naõ cayaõ em peccado por falta da conviniente
-  inteligencia.**  
+  inteligencia.**
+
+
+  **Exhortation to those who fear the Lord, not to fall into sin due to lack of
+  understanding of the precepts of his Holy Law.**  
 
   **( 5440)1679/80**
 
@@ -74,7 +78,7 @@ original_language_body: >-
   H. Y. ABUAB.
 
 
-  **3**
+  **[3]**
 
 
   שלום רב לאוהבי תורתיך ואין למו מכשול
@@ -88,14 +92,14 @@ original_language_body: >-
   Ros-Yesibá do Kahal Kados de Talmud Torah.
 
 
-  Sentença de nossos Sabios realmente racional סוף המעשה במחשבה תחילה_O fim de
-  qualquer acçaõ primeiro precedeu no pensamento._ Assi deste papel o branco a
+  Sentença de nossos Sabios realmente racional סוף המעשה במחשבה תחילה*O fim de
+  qualquer acçaõ primeiro precedeu no pensamento.* Assi deste papel o branco a
   que se derige, he o fim seu mesmo fim, & assi deve preceder no principio, qeu
   he, desenganar a os enganados, & desabuzar a os abuzados; que o Herem que o
   Sancto Kahal tomou sobre si em companhia dos quatro Hahamim, por todos
   firmado, naõ pode haver poder que o possa desfazer nem anullar, & todo o que
   o transgirir, nemhum remedio tem para deixar de ficar enhermado, eseito quando
-  o Kahal pello menos com otro tanto nu- **4** mero dos que firmaraõ, o
+  o Kahal pello menos com otro tanto nu- **[4]** mero dos que firmaraõ, o
   quizerem absolver, & na minha opiniaõ bem podem, mas naõ o devem fazer, a
   hua por ser contra a Uniaõ, conservaçaõ do Kahal, & alimento dos pobres,
   quanto pello exemplar que acho na Sagrada Escritura. Livraose fogindo de
@@ -104,7 +108,12 @@ original_language_body: >-
   lagrimas lamenta o haver extreminado de todo (segundo julgaraõ) hum tribu de
   Ysrael; como aquelles que bem entendiaõ o misterio de quanto montava o numero
   de doze, paraque a Divindade do Senhor jamais os desamparase: & dizem assi em
-  Iuezes capit. 21. vers מה נעשה להם .7 .
+  Iuezes capit. 21. vers. 7. ‫מה נעשה להם לנותרים לנשים ואנחנו נשבענו בה' לבלתי
+  תת להם מבנותינו לנשים‬‎ Que faremos a os que ficaraõ para lhes dar mulheres, &
+  tornar a edeficar este cahido baluarte da fortaleza de Ysrael; porque nos
+  juramos por .A. de naõ lhes dar mulheres das nossas filhas. Segue entonces
+  dizendo, como cõdenaraõ a os moradores de Yabez Gilhad, porque transgiriraõ o
+  herem,
 ---
 ## Introduction
 
