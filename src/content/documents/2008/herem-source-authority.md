@@ -229,7 +229,7 @@ original_language_body: >-
   *E conjurou Ieosuah dizendo, naquella hora, maldito seja o homem que
   alevantar, & fabricar esta Cidade, a Ierihó*; & seguiu & se cumpriu o seu
   Decreto dahi a tantos annos, em tempo de Achab, como consta pella Sagrad
-  Historia, Rey. 1. cap. 17. vers. 1.
+  Historia, *Rey. 1. cap. 17. vers. 1.*
 
 
   Ora, suposto que o principal branco de nosso assumpto, he, hua exortaçaõ, que
