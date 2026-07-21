@@ -146,8 +146,8 @@ original_language_body: >-
   a o Senhor, & tanto estima Deos Bendito a honra dos homems, & particularmente,
   a de seus tementes, que consintiu & se comprendeu com elles, veo Reuben &
   ficou sogeito a mesma obrigaçaõ, & com ser assi qeu pa- **[7]** recia de rezaõ
-  ficava libre o Senhor, & diz o verso do Real Psalmista *Psalmo I* **[4]**7.
-  ver. 19. ‫מגיד דבריו ליעקב‬‎ *descubre suas palabras á Iahacob*, naõ lho quis
+  ficava libre o Senhor, & diz o verso do Real Psalmista *Psalmo I* *[4]7*. ver.
+  19. ‫מגיד דבריו ליעקב‬‎ *descubre suas palabras á Iahacob*, naõ lho quis
   descubrir por respeito do herem & honra dos Tribos & assi que acharaõ vivo a
   Iosseph elles mesmos entre si absolveraõ o herem & he o que dis o Sagrado
   texto *Genesis 46. verso 27*. ‫ותחי רוח יעקב אביהם‬‎ & *resositou o espirito
@@ -305,7 +305,7 @@ original_language_body: >-
   foi por dar satisfasaõ as tres Congregas, & entaõ unidas, se reduziraõ nesta,
   que o Senhor nos ade conservar contra os dezenfreados ventos: seçou a cauza,
   seçou o cauzado, pois ya seperderaõ da memoria, & ya naõ averá dous, que poder
-  dizer de cada Esnoga, mais [16] provo, que ditto acordo por si mesmo está
+  dizer de cada Esnoga, mais **[16]** provo, que ditto acordo por si mesmo está
   nullo diz assi, & se em algum tempo parecer tirar algo delles (dos acordos) o
   Mahamad naõ o podrá fazer senaõ os seis Diputados qeu agora os fizemso
   uniformemente ou daquelles que no tal tempo fossem vivos chamando em praça dos
@@ -322,13 +322,13 @@ original_language_body: >-
   Vamos a o desengano, de outro absurdo; & he: que todos dizem o q entendem, mas
   naõ todos entendem o que dizem: q elles naõ se acharaõ prezentes, nem firmaraõ
   o tal herem, & assi o naõ aprovaõ, com o que lhes parece estaõ desobrigados;
-  falça doctrina: & lhe dizemos, naõ vedes, [17] que o herem de Moseh se dilatou
-  athe as ultimas geraçoems entonces se valem do que dizem os Sabios que todas
-  as almas se acharaõ prezentes encorporadas & por encorporar, eu o naõ nego
-  porque seria negar a verdade, mas entendo que alegaõ o que naõ creem, nem tem
-  rezaõ de o alegar, suposto seiga a mesma verdade, porque quatro saõ os modos
-  de comentar, Literal, Alegorico, ou Moral; Anagogico, & Tropologico, porem
-  ningem nega que a todos precede o Literal, & este he o documento que na
+  falça doctrina: & lhe dizemos, naõ vedes, **[17]** que o herem de Moseh se
+  dilatou athe as ultimas geraçoems entonces se valem do que dizem os Sabios que
+  todas as almas se acharaõ prezentes encorporadas & por encorporar, eu o naõ
+  nego porque seria negar a verdade, mas entendo que alegaõ o que naõ creem, nem
+  tem rezaõ de o alegar, suposto seiga a mesma verdade, porque quatro saõ os
+  modos de comentar, Literal, Alegorico, ou Moral; Anagogico, & Tropologico,
+  porem ningem nega que a todos precede o Literal, & este he o documento que na
   verdade nos deixò Moseh entrudusido pera as futuras geraçoems, a saber, que o
   herem comprende, a os presentes, & auzentes, a os nacidos, & os que estaõ por
   nacer, mas demoslho de barato que diraõ de Ieonathan que naõ estando prezente,
@@ -338,7 +338,7 @@ original_language_body: >-
   Agora vamos a os de Yabes Guilad, quero comfesar, & assi o diraõ q tiveraõ
   noticia do decreto dado do summo Pontifice Elazar em companhia, & prezensa de
   todo o povo, he luogo serto que o naõ aprovaraõ, porque si fora por elles
-  aprovado, claro está que viriaõ, naõ [18] vieriaõ, o foy ignorancia o foy
+  aprovado, claro está que viriaõ, naõ **[18]** vieriaõ, o foy ignorancia o foy
   maldade, se foy ignorancia ignorantemente moreraõ; & se malicia, bem o
   mereceraõ; & mais naõ lhe havia de valer a ignorancia por disculpa, porque tal
   he a força que o Senhor concedeu a o herem, que naõ val contra elle nemhua
@@ -359,7 +359,7 @@ original_language_body: >-
   admirar as desordems que passaõ entre nos, porque naõ he novo, o mesmo tem
   suscedido em outras Congregas, se bem diferimos em que elles eraõ faciles a
   reduzirse, & nòs duros, & tercos em obedecer. Seria couza dilatada, & naõ
-  menos inteligible se ouveramos de [19] referir o que escrevem os authores,
+  menos inteligible se ouveramos de **[19]** referir o que escrevem os authores,
   sobre o nosso mesmo sugeito, somente diremos por mayor o rezumo de suas
   palabras & se vereficará con sua authoridade o que pretendemos.
 
@@ -376,11 +376,11 @@ original_language_body: >-
   mesmo que o todo, assi os que transgerirem tenhaõ por serto a maldiçaõ, como
   consta da Guemará de *Abodá-zará*, & concluye dizendo, que os tais que juraraõ
   naõ fizeraõ o que deviaõ, nem tinhaõ authoridade para o poder fazer, & todos
-  os que naõ seguem o que a Congrega, tropesaõ [20] & encorrem no herem, que pós
-  o Kahal; naõ vemos que dito author fasa mensaõ de Haham, & deve ser como fica
-  ditto, q a authoridade do Kahal he de todas a mayor, & prova mais clara he, o
-  que dis o mesmo author, que serâ mais valiozo, se se fez com aprovaçaõ do
-  Haham, donde se emfire ser valiozo o herem do Kahal ainda que lhe falte a
+  os que naõ seguem o que a Congrega, tropesaõ **[20]** & encorrem no herem, que
+  pós o Kahal; naõ vemos que dito author fasa mensaõ de Haham, & deve ser como
+  fica ditto, q a authoridade do Kahal he de todas a mayor, & prova mais clara
+  he, o que dis o mesmo author, que serâ mais valiozo, se se fez com aprovaçaõ
+  do Haham, donde se emfire ser valiozo o herem do Kahal ainda que lhe falte a
   authoridade de Haham, y suposto que por *Arisbá* parece necessita o Mahamad da
   companhia do Haham porque no fim do asima referido, de seu nome diz assi com
   tal que seiga com acordo de homem estimado, naõ contradis a o referido, porque
@@ -393,9 +393,9 @@ original_language_body: >-
   ou Deputado, *Rabenu Nissim* sobre a mesma Guemará diz desta sorte.
 
 
-  [21] Porem havendo homem estimado deputado sobre o Kahal sem falar em Sabio, &
-  pera mayor verificaçaõ diz adiante senaõ tomou licença do tal Parnas de
-  maneira que entende que o nome de homem estimado se dá a o Parnas, & assi
+  **[21]** Porem havendo homem estimado deputado sobre o Kahal sem falar em
+  Sabio, & pera mayor verificaçaõ diz adiante senaõ tomou licença do tal Parnas
+  de maneira que entende que o nome de homem estimado se dá a o Parnas, & assi
   mesmo o *Haham Caro no Bet-Iosseph*, de nome do citado *Rabenu Nissim*,
   estimado, se deve entender deputado por Parnas sobre a Congrega, & entendo que
   o *Otur* sedeu do mesmo, porque havendo dito homem grande y sabio, repite
@@ -408,37 +408,38 @@ original_language_body: >-
   governador; a desculpa que podé dar por naõ lhe aplicarmos semelhante
   descuydo, he que querem dizer sabio, ou governador, pois a qualquer delles se
   pode aplicar o nome de ‫אדם חשוב‬‎ *Homem estimado*, & tornando a nosso
-  pronto, [22] *Arros* assi tambem o afirma, como dilatadamente o *Haham Ribi
-  Levy Aben Habib na consulta 99.* donde diz semelhantes palabras geralmente
-  acordaõ todos os authores, que tudo o que o Mahamad ordenar em companhia do
-  Haham, he de todo valiozo, & firme, donde se deve notar tembem que o citado
-  *Arros* naõ trata do Kahal, mas si, do Mahamad, com que fica probada nossa
-  pretençaõ, que o Kahal tem plena authoridade pera poder pòr & dispor sem ser
-  necessaria a entercedencia de Haham, somente se pode opòr contra o referido, a
-  authoridade do *Haham Ribi Iosseph Caro*, a quem em todo segimos, diz assi,
-  *No seu* *Sulhan Aruch tomo 4. cap. 231. ver. 28.* Tem authoridade os
-  moradores de hua Cidade pera por preso em todas as cousas como lhes parecer, &
-  pòrem pena contra o q transgerir a ordem, & assi mesmo os officiaes podem em
-  quanto a seu officio acordar entre si, que ningem trabalhe no dia que tocar a
-  seu companheiro (& fecha dizendo) o referido se entende em hua Cidade donde
-  naõ hay Haham, porem se o ouver, o acordo serâ nulo, naõ sendo com sua
-  aprovaçaõ, que parece da entender o contrario, do que sustentamos, a saber,
-  que tambem o Kahal [23] necessita da authoridade de Haham (& Falando com o
-  devido respeito) elle se enganou como se enganaraõ todos os que entenderaõ que
-  o nome de ‫אדם חשוב‬‎ *Homem estimado* se entende somente, Haham, naõ sendo
-  senaõ como fica dito, & provado, homem de quem os moradores de sua Cidade
-  fazem particular estimaçaõ delle, seiga ou naõ seiga Haham a quem elegem, pera
-  que se emcarregue das ocurrencias de sua Cidade & Kahal, fora do antecendente,
-  pergunto, tem o Kahal por si bastante authoridade? forçozamente me confeçaráõ
-  que si, pois diz que seguirá o seu acordo, quando naõ ouver Haham, mas naõ
-  quando o ouver, logo como o Haham lhe pode tirar a authoridade que goza de
-  rezaõ & de direyto, com que he forçozo dizer, qeu com a companhia de Haham se
-  lhe acresenta, mas naõ que por sua causa, a haya de perder, donde por força de
-  este argumento, infirimos o mesmo que pretendemos, que he a authoridade do
-  Kahal, mayor quando for acompanhada com a do Haham, & assi o mesmo author, no
-  seu famozo *Beth Iosseph* cita a destinçaõ de *Rabenu Nissim*, diz assi, porem
-  naõ sendo em dano alheho, podem ordenar entre si tudo o que bem lhes parecer,
-  se entende sem autho- [24] ridade de Haham.
+  pronto, **[22]** *Arros* assi tambem o afirma, como dilatadamente o *Haham
+  Ribi Levy Aben Habib na consulta 99.* donde diz semelhantes palabras
+  geralmente acordaõ todos os authores, que tudo o que o Mahamad ordenar em
+  companhia do Haham, he de todo valiozo, & firme, donde se deve notar tembem
+  que o citado *Arros* naõ trata do Kahal, mas si, do Mahamad, com que fica
+  probada nossa pretençaõ, que o Kahal tem plena authoridade pera poder pòr &
+  dispor sem ser necessaria a entercedencia de Haham, somente se pode opòr
+  contra o referido, a authoridade do *Haham Ribi Iosseph Caro*, a quem em todo
+  segimos, diz assi, *No seu* *Sulhan Aruch tomo 4. cap. 231. ver. 28.* Tem
+  authoridade os moradores de hua Cidade pera por preso em todas as cousas como
+  lhes parecer, & pòrem pena contra o q transgerir a ordem, & assi mesmo os
+  officiaes podem em quanto a seu officio acordar entre si, que ningem trabalhe
+  no dia que tocar a seu companheiro (& fecha dizendo) o referido se entende em
+  hua Cidade donde naõ hay Haham, porem se o ouver, o acordo serâ nulo, naõ
+  sendo com sua aprovaçaõ, que parece da entender o contrario, do que
+  sustentamos, a saber, que tambem o Kahal **[23]** necessita da authoridade de
+  Haham (& Falando com o devido respeito) elle se enganou como se enganaraõ
+  todos os que entenderaõ que o nome de ‫אדם חשוב‬‎ *Homem estimado* se entende
+  somente, Haham, naõ sendo senaõ como fica dito, & provado, homem de quem os
+  moradores de sua Cidade fazem particular estimaçaõ delle, seiga ou naõ seiga
+  Haham a quem elegem, pera que se emcarregue das ocurrencias de sua Cidade &
+  Kahal, fora do antecendente, pergunto, tem o Kahal por si bastante
+  authoridade? forçozamente me confeçaráõ que si, pois diz que seguirá o seu
+  acordo, quando naõ ouver Haham, mas naõ quando o ouver, logo como o Haham lhe
+  pode tirar a authoridade que goza de rezaõ & de direyto, com que he forçozo
+  dizer, qeu com a companhia de Haham se lhe acresenta, mas naõ que por sua
+  causa, a haya de perder, donde por força de este argumento, infirimos o mesmo
+  que pretendemos, que he a authoridade do Kahal, mayor quando for acompanhada
+  com a do Haham, & assi o mesmo author, no seu famozo *Beth Iosseph* cita a
+  destinçaõ de *Rabenu Nissim*, diz assi, porem naõ sendo em dano alheho, podem
+  ordenar entre si tudo o que bem lhes parecer, se entende sem autho- **[24]**
+  ridade de Haham.
 
 
   *E o Haham Ribi Moseh Alascar, na consulta 49.* traz por inteiro *a Tosaftá*,
@@ -456,29 +457,29 @@ original_language_body: >-
   והוא יבדל מקהל הגולה‬‎ *& passaraõ boz em Ieudah, & Ierusalaym, a todos os
   filhos do cautiverio para se juntarem a Ierusalaym, & todo o que naõ viesse a
   os tres dias (segundo) o conselho dos Principes & velhos, seiga confiscada*
-  [25] *sua fazenda, & elle seiga apartado da Congrega do cautiverio*, & tanto
-  que na Guemará de *Guitim fol. 36.* repetido na Guemará de *Yebamoth fol. 89.*
-  & mais dilatdado, na Guemará de *Mohet Katan fol. 16*. & assi diz, ‫אמר רבי
-  יצחק מנין שהפקר בית דין הפקר שנאמר וכל אשר לא יבא לשלשת ימים וגו'‬‎ *Diz Ribi
-  Yshac, dondenos consta, que a confiscaçaõ do Senado he conficaçaõ: que assi
-  diz & aquelle que naõ vier a os tres dias &ct.* E quem quizer mayor clarez, o
-  pode ver no citado author, & em rezoluçaõ do referido, se me premita dar hua
-  dinstinçaõ & he que sendo o Haham eleyto pello Kahal entonces necessita o
-  Mahamad de sua companhia, tanto porque possa ser foy essa a intençaõ dos que
-  dizem Haham, & governador, a saber, quando concurrem nelle ser Haham &
-  governador, que he o mesmo que dizer Haham do Kahal, tanto por tapar a boca a
-  os que querem escurecer a verdade, ou eficionar a os que dezeigaõ observalla
-  com razoems aerias & falças, advertindo, que a destinçaõ asima tampoco se
-  entende, com o Kahal, como fica provado.
+  **[25]** *sua fazenda, & elle seiga apartado da Congrega do cautiverio*, &
+  tanto que na Guemará de *Guitim fol. 36.* repetido na Guemará de *Yebamoth
+  fol. 89.* & mais dilatdado, na Guemará de *Mohet Katan fol. 16*. & assi diz,
+  ‫אמר רבי יצחק מנין שהפקר בית דין הפקר שנאמר וכל אשר לא יבא לשלשת ימים וגו'‬‎
+  *Diz Ribi Yshac, dondenos consta, que a confiscaçaõ do Senado he conficaçaõ:
+  que assi diz & aquelle que naõ vier a os tres dias &ct.* E quem quizer mayor
+  clarez, o pode ver no citado author, & em rezoluçaõ do referido, se me premita
+  dar hua dinstinçaõ & he que sendo o Haham eleyto pello Kahal entonces
+  necessita o Mahamad de sua companhia, tanto porque possa ser foy essa a
+  intençaõ dos que dizem Haham, & governador, a saber, quando concurrem nelle
+  ser Haham & governador, que he o mesmo que dizer Haham do Kahal, tanto por
+  tapar a boca a os que querem escurecer a verdade, ou eficionar a os que
+  dezeigaõ observalla com razoems aerias & falças, advertindo, que a destinçaõ
+  asima tampoco se entende, com o Kahal, como fica provado.
 
 
   Agora trataremos do principal, & mais importante, para conservaçaõ da sancta
-  Congrega, & aumento da Sagrada Ley, alimento dos pobres & [26] ter propicio a
-  o Senhor Deos, com a conformidade, & uniaõ que elle tanto ama, sendo hua
-  calidade oculta em Ysrael, que os pode fazer immortais en individuo, assi como
-  saõ em especie, como disse o Propheta *Malachy cap. 3 ver. 8* ‫כי אני ה' לא
-  שניתי ואתם בני יעקב לא כליתם‬‎ *Que eu .A. naõ me alterey, nem vos filhos de
-  Iahacob naõ vos acabastes.* E digo assi hay cousas ainda que parecen
+  Congrega, & aumento da Sagrada Ley, alimento dos pobres & **[26]** ter
+  propicio a o Senhor Deos, com a conformidade, & uniaõ que elle tanto ama,
+  sendo hua calidade oculta em Ysrael, que os pode fazer immortais en individuo,
+  assi como saõ em especie, como disse o Propheta *Malachy cap. 3 ver. 8* ‫כי
+  אני ה' לא שניתי ואתם בני יעקב לא כליתם‬‎ *Que eu .A. naõ me alterey, nem vos
+  filhos de Iahacob naõ vos acabastes.* E digo assi hay cousas ainda que parecen
   insolentes, se fundaõ em algua rezaõ de estado, porem hay outras que lhe falta
   tudo, como sucede no nosso cazo que agora temos entremaõs.
 
@@ -491,8 +492,8 @@ original_language_body: >-
   desconserto que pode causar, com o seu exemplar sem que pertinazmente queiraõ
   presistir na sua má eleiçaõ, & por payxoems particulares, apartandosse do
   geral agora veraõ manifestamente seu erro, com a authoridade dos mais famozos
-  authores, veraõ [27] que he o mesmo que hua nevoa facil de desfazer a vista
-  dos contantes rayos do Sol da luzente verdade.
+  authores, veraõ **[27]** que he o mesmo que hua nevoa facil de desfazer a
+  vista dos contantes rayos do Sol da luzente verdade.
 
 
   Nas consultas do sciente *Medina* taõ requestadas consulta 37. direy
@@ -508,7 +509,7 @@ original_language_body: >-
   sedentos de aguas, mas sim por ouvir a palabra do Senhor*, que assi lhe chama
   o Propheta, nem faltavaõ nella sujeitos nobres, & de illustre geraçaõ,
   perfeitos nas virtudes, & naõ menos coroados com a coroa da ley, & da
-  sciencia, fama, & gloria, agora estaõ vendo meus olhos, cousa [28] que naõ
+  sciencia, fama, & gloria, agora estaõ vendo meus olhos, cousa **[28]** que naõ
   quizera ver, que se levantaraõ algums sugeitos profanando o Sagrado Templo, &
   se acomunaraõ dizendo fassamos altar (grande encarisimento pois assi chama a
   os que se apartaõ do geral) como fizeraõ sem fazer cazo dos sugeitos pios, que
@@ -525,11 +526,11 @@ original_language_body: >-
   juramento naõ pode prejudicar a o primeiro feito no monte de Sinay, & sendo
   assi diz o mesmo author naõ pode haver mayor misvá, que sustentar o primeiro
   juramento, com que se obrigou a observar a dita escamá feita com o herem, que
-  he o mesmo que juramento com que vem a ser o jura- [29] mento, segundo, jurar
-  de naõ fazer a misvá, & assi naõ he juramento, outras provas tras o author bem
-  eficaces mas como naõ melitaõ com o cazo que a nós nos sucede & somente alegey
-  com o antecedente pello que possa suceder, que aja algum que precepitado se
-  despenhasse à fazer semelhantes juramentos.
+  he o mesmo que juramento com que vem a ser o jura- **[29]** mento, segundo,
+  jurar de naõ fazer a misvá, & assi naõ he juramento, outras provas tras o
+  author bem eficaces mas como naõ melitaõ com o cazo que a nós nos sucede &
+  somente alegey com o antecedente pello que possa suceder, que aja algum que
+  precepitado se despenhasse à fazer semelhantes juramentos.
 
 
   E vamos a conclusaõ de nosso author que rezolve dizendo o mesmo sucedeu *no
