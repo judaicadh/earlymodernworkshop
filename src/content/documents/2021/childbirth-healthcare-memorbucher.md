@@ -38,11 +38,14 @@ description: >-
   which was not limited to ‘official’ practitioners or professionals and
   encompassed a much wider spectrum of individuals than has often been assumed.
 original_language_body: >-
-  National Library of Israel, Jewish Community of Metz, Metz France Ms. 1
-  (microfilm F 4370)
+  ## Source 1 Original
 
 
-  *Memorbuch* of the Community of Metz
+  **National Library of Israel, Jewish Community of Metz, Metz France Ms. 1
+  (microfilm F 4370)**
+
+
+  ***Memorbuch* of the Community of Metz**
 
 
   Scan 23:
@@ -140,10 +143,13 @@ original_language_body: >-
   ת״ע
 
 
-  National Library of Israel, Ms. Heb. 8°1465, f. 80
+  ## Source 2 Original
 
 
-  *Memorbuch* of the Community of Frankfurt am Main
+  **National Library of Israel, Ms. Heb. 8°1465, f. 80**
+
+
+  ***Memorbuch* of the Community of Frankfurt am Main**
 
 
   יזכור אלקי׳ את נשמת האשה חשובה והגבירה החסידה מרת פרומיטלה בת ה״ה כמ״ר מאיר
@@ -159,11 +165,14 @@ original_language_body: >-
   פרומיטלה אשת יעקב וואהל
 
 
-  Universitätsbibliothek Mainz, Johannes Gutenberg-Universität Mainz, Jewish
-  Community of Mainz, Mainz Germany, Ms. 16, fol. 1r
+  ## Source 3 Original
 
 
-  Pinkas Hevra Kadisha of the Community of Mainz
+  **Universitätsbibliothek Mainz, Johannes Gutenberg-Universität Mainz, Jewish
+  Community of Mainz, Mainz Germany, Ms. 16, fol. 1r**
+
+
+  **Pinkas Hevra Kadisha of the Community of Mainz**
 
 
   כבר אמר הכתוב והלך לפניך צדקך. צדקה תציל ממות מיתה תנינא, ולפניו יהלך לתור
