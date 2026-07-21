@@ -136,30 +136,43 @@ Lorberbaum, Menachem. *Politics and the Limits of Law: Secularizing the Politica
 
 [^9]: Nahmanides, *Mishpat ha-Herem*
 
-10 *deitar*—literally translated as throw, give, or extend, in the sense of ‘lay down.’ I will translate it as ‘impose’ to match normal English usage.  
-11 The city Aboab refers to is his own, as the Mahamad that was empowered by the Ascamot consisted of seven officers. Aboab may be intentionally ambiguous in the next sentence as to whether “they” means the inhabitants or the deputies. Later in the treatise, he contradicts other rabbinic sources to suggest that the people lose this authority when they transfer it to a government.  
-12 Paraphrased from Nahmanides, *Mishpat ha-Herem*. This passage is quoted in translation in Menachem Lorberbaum, *Politics and the Limits of Law: Secularizing the Political in Medieval Jewish Thought* (Stanford, California: Stanford University Press, 2001), p. 107.  
-13 “They” are apparently congregants who are trying to create their own community by forming a quorum of their own. The rule they cite is given by Nahmanides (in *Mishpat ha-Herem*, quoted in Lorberbaum p. 108), and Aboab’s contradiction of it is striking considering his explicit reliance on Nahmanides elsewhere in the passage. Some such incidents actually took place around the time of the treatise’s composition, and records survive of the Mahamad’s attempts to force them back into the community by means of the herem and the external support of the Dutch authorities. See the incidents involving Abraham Barboza and especially Isaac Coutinho described in Yosef Kaplan, "Bans in the Sephardi Community of Amsterdam in the Late Seventeenth Century," in *Galut ahar golah: mehkarim be-toldot 'Am Yisrael mugashim lel-Professor Haim Beinart li-melot lo shiv'im shanah*, ed. Aaron Mirsky, Avraham Grossman, and Yosef Kaplan (Jerusalem: Mekhon Ben-Tsvi, 1988)  
-14 Again, following Nahmanides in *Mishpat ha-Herem*, quoted in Lorberbaum p. 108.  
-15 *When the troops came to the beehives and found the flow of honey there, no one put his hand to his mouth, for the troops feared the oath*. The passage does not use the word “herem.” The actual condemnation is in I Samuel 14:44.
+[^10]: *deitar*—literally translated as throw, give, or extend, in the sense of ‘lay down.’ I will translate it as ‘impose’ to match normal English usage.
 
-16 See the text of Spinoza’s herem, “...cursing him with the herem with which Joshua banned Jericho....,” recorded in Portuguese in the Mahamad’s minutebook. A translation has been published in Asa Kasher and Shlomo Biderman, "Why Was Baruch de Spinoza Excommunicated?," in *Sceptics, Millenarians and Jews*, ed. David S. Katz and Jonathan I. Israel (Leiden: Brill, 1990), pp. 98-9.
+[^11]: The city Aboab refers to is his own, as the Mahamad that was empowered by the Ascamot consisted of seven officers. Aboab may be intentionally ambiguous in the next sentence as to whether “they” means the inhabitants or the deputies. Later in the treatise, he contradicts other rabbinic sources to suggest that the people lose this authority when they transfer it to a government.
 
-17 This is in the end of 1 Kings 16, at verse 34, not in chapter 17. *During his reign, Hiel the Bethelite fortified Jericho. He laid its foundations at the cost of Abiram his first-born, and set its gates in place at the cost of Segub his youngest, in accordance with the words that the Lord had spoken through Joshua son of Nun.*
+[^12]: Paraphrased from Nahmanides, *Mishpat ha-Herem*. This passage is quoted in translation in Menachem Lorberbaum, *Politics and the Limits of Law: Secularizing the Political in Medieval Jewish Thought* (Stanford, California: Stanford University Press, 2001), p. 107.
 
-18 This is a direct translation of the difficult Hebrew. JPS interprets it as _Ephraim is addicted to images—let him be.  
-_19 JPS:_Now that his boughs are broken up, he feels his guilt.  
-_20 JPS: *A numerous people is the glory of a king: Without a nation a ruler is ruined.* 21 Referring to the Ascamot
+[^13]: “They” are apparently congregants who are trying to create their own community by forming a quorum of their own. The rule they cite is given by Nahmanides (in *Mishpat ha-Herem*, quoted in Lorberbaum p. 108), and Aboab’s contradiction of it is striking considering his explicit reliance on Nahmanides elsewhere in the passage. Some such incidents actually took place around the time of the treatise’s composition, and records survive of the Mahamad’s attempts to force them back into the community by means of the herem and the external support of the Dutch authorities. See the incidents involving Abraham Barboza and especially Isaac Coutinho described in Yosef Kaplan, "Bans in the Sephardi Community of Amsterdam in the Late Seventeenth Century," in *Galut ahar golah: mehkarim be-toldot 'Am Yisrael mugashim lel-Professor Haim Beinart li-melot lo shiv'im shanah*, ed. Aaron Mirsky, Avraham Grossman, and Yosef Kaplan (Jerusalem: Mekhon Ben-Tsvi, 1988)
 
-22 This refers to Article 42 of the Ascamot, which establishes a board of six representatives that must be consulted when major changes are made to the Ascamot. It was to consist of two deputies from each of the former congregations, to ensure that all three receive fair treatment going forward.  
-23 This is actually Malachi 3:9, which JPS has as _You are suffering under a curse, yet you go on defrauding Me—the whole nation of you.  
-_24 I assume he means the Rashba, Rabbi Shlomo ben Aderet, a disciple of Nahmanides. 25 *Homem estimado*—Aboab’s direct Portuguese translation of the Hebrew term *adam hashuv*, which is mentioned in BT Bava Batra 9a (and elsewhere) as a figure whose approval is necessary to validate a communal enactment.  
-26 Rabbi Jacob ben Asher (1270-1340), the author of the *Arba’ah Turim*.  
-27 Aboab shifts from “Hakham” to “Sabio” here, and in the next sentence, to “sage.” I have preserved the distinctions, in case he means to distinguish between the office of Hakham, the status of a Rabbi, and the quality of being wise or learned.  
-28 Actually Malachi 3:6  
-29 Or, “commandment.”  
-30 Now apparently referring again to the rebels of Amsterdam  
-31 Jeremiah 12:14  
+[^14]: Again, following Nahmanides in *Mishpat ha-Herem*, quoted in Lorberbaum p. 108.
+
+[^15]: *When the troops came to the beehives and found the flow of honey there, no one put his hand to his mouth, for the troops feared the oath*. The passage does not use the word “herem.” The actual condemnation is in I Samuel 14:44.
+
+[^16]: See the text of Spinoza’s herem, “...cursing him with the herem with which Joshua banned Jericho....,” recorded in Portuguese in the Mahamad’s minutebook. A translation has been published in Asa Kasher and Shlomo Biderman, "Why Was Baruch de Spinoza Excommunicated?," in *Sceptics, Millenarians and Jews*, ed. David S. Katz and Jonathan I. Israel (Leiden: Brill, 1990), pp. 98-9.
+
+[^17]: This is in the end of 1 Kings 16, at verse 34, not in chapter 17. *During his reign, Hiel the Bethelite fortified Jericho. He laid its foundations at the cost of Abiram his first-born, and set its gates in place at the cost of Segub his youngest, in accordance with the words that the Lord had spoken through Joshua son of Nun.*
+
+[^18]: This is a direct translation of the difficult Hebrew. JPS interprets it as *Ephraim is addicted to images—let him be.*  
+[^19]: JPS: *Now that his boughs are broken up, he feels his guilt.* 
+
+[^20]: JPS: *A numerous people is the glory of a king: Without a nation a ruler is ruined.* 
+
+[^21]: Referring to the Ascamot
+
+[^22]: This refers to Article 42 of the Ascamot, which establishes a board of six representatives that must be consulted when major changes are made to the Ascamot. It was to consist of two deputies from each of the former congregations, to ensure that all three receive fair treatment going forward.  
+[^23]: This is actually Malachi 3:9, which JPS has as *You are suffering under a curse, yet you go on defrauding Me—the whole nation of you.*
+
+[^24]: I assume he means the Rashba, Rabbi Shlomo ben Aderet, a disciple of Nahmanides. 
+
+[^25]: *Homem estimado*—Aboab’s direct Portuguese translation of the Hebrew term *adam hashuv*, which is mentioned in BT Bava Batra 9a (and elsewhere) as a figure whose approval is necessary to validate a communal enactment.
+
+[^26] Rabbi Jacob ben Asher (1270-1340), the author of the *Arba’ah Turim*.
+
+[^27]: Aboab shifts from “Hakham” to “Sabio” here, and in the next sentence, to “sage.” I have preserved the distinctions, in case he means to distinguish between the office of Hakham, the status of a Rabbi, and the quality of being wise or learned.  
+[^28]: Actually Malachi 3:6  
+[^29]: Or, “commandment.”  
+[^30]: Now apparently referring again to the rebels of Amsterdam  
+[^31]: Jeremiah 12:14  
 32 JPS: _He shall come as redeemer to Zion, to those in Jacob who turn back from sin—declares the Lord.  
 _33 It should be 5440, the date given at the beginning of the treatise, which must be the correct one Aboab died in 5453. Perhaps the error crept in because the Gregorian date was 1680.  
 ->
