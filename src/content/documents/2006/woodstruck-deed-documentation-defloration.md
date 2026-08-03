@@ -40,6 +40,25 @@ Who does not know [that] in all these [cases] and in every law the gates of *pil
 
 ## Source 2 Translation
 
+**Introduction**
+
+A communal record book, or pinkas, typically contains communal ordinances, but this document is a court decision, a *ma‘aseh bet din*. The three judges, headed by Samuel Archivolti, Padua’s leading rabbinical authority, affirm the testimony they have heard, by two female witnesses, that a certain girl lost her virginity in an accident. Thus, this document supports the conclusion that accidental defloration was only beginning to be recorded in official instruments, by the public institutions of the Jewish community. We also see that the phenomenon was not limited to Rome, or to central Italy, but appears also in the Veneto, several decades later in the sixteenth century.
+
+**Minutes Book of the Council of the Jewish Community of Padua 1577-1603**  
+**Pinkas Va‘ad K.K. Padova 338-363, no. 830**
+
+**Jewish Community of Padua, Italy, 1582**
+
+Translated by David Malkiel, Bar-Ilan University, Israel
+
+**Notes:** Minutes Book of the Council of the Jewish Community of Padua 1577-1603 [Hebrew], ed. Daniel Carpi, Jerusalem 1973, vol. 1, p. 457. Italy no. 830 (1582)
+
+It occurred thus before us, the court of those undersigned, that the honorable Mr. Solomon Pelestrina came, frightened, frantic and complaining bitterly about what happened to his daughter Bella, born on 13 Adar 338 (as is stated at the beginning of a Mahzor belonging to him). And the event was that she climbed on a chest to play, as girls will do, and when she descended her legs slipped and her steps widened and she fell, and the sharp edge of the chest’s cover struck her between her thighs at that place [her genitals], and immediately her virginity fell out onto her robe. All this was told us by two elderly and important women, namely the honorable Mrs. Rosa de la Comara and the honorable Mrs. Sorelina, widow of Mr. Aaron Rava, both of whom were on the scene when the girl was lying in bed with blood flowing onto her robe, in plain sight of them. Thus, we, the undersigned members of the court, have written and signed this instrument for a remembrance for generations to come, and so that the truth find its way. All the above took place here, Padua, today, Tuesday, 27 Tammuz 342.
+
+Samuel Archivolti, Judge  
+Israel b. Yehiel Luria, Judge  
+Abraham b. Elhanan Heilperon, Judge
+
 ## Source 3 Translation
 
 ## Source 4 Translation
