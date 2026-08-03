@@ -111,86 +111,61 @@ I am he who speaks of the rose of Sharon,[^41] Ozriel Diena. Pure for light, may
 
 Footnotes
 
-[^1]: 
+[^1]: Bava Qamma, ch. 10. The reference is to the second mishnah of chapter ten. In what follows quotations from earlier sources are italicized.
 
-[^2]:
+[^2]: To prevent her from being ‘agunah or trapped for lack of evidence of her husband’s death.
 
-[^3]:  
+[^3]:  The legal acquisition of bees is not recognized under biblical law, because they fly away at will.
 
-[^4]: 
+[^4]: The implication is that the child kept watch over his mother at all times, implying that she could not have been violated by her captors. See Lev. 21:7.
 
-[^5]: 
+[^5]: ‘Eruvin, ch. 5.
 
-[^6]: 
+[^6]: ‘Eruvin 58b-59a.
 
-[^7]: 
+[^7]: This last phrase, from “implying,” is the beginning of the tosafist gloss cited immediately thereafter.
 
-[^8]: 
+[^8]: Lit. her hand.
 
-[^9]: 
+[^9]: JT Pesahim, ch. 1, 27b.
 
-[^10]: 
+[^10]: 4b.
 
-[^11]: 
+[^11]: Niddah ch. 6.
 
-[^12]: 
+[^12]: i.e. with the physical examination of girls: see Niddah 48b.
 
-[^13]: 
+[^13]: Eliezer of Metz.
 
-[^14]: 
+[^14]: Gittin, ch. 5.
 
-[^15]: 
+[^15]: Gittin 54b.  
+[^16]: Mordechai on Hullin, #579. See Shulhan Arukh, Yoreh De‘ah 127:3
 
-[^16]: 
+[^17]: Shevu‘ot, ch. 4.  
+[^18]: Shevu‘ot 30a.  
+[^19]: Based on I Sam. 20:26, which refers however to nocturnal emission.  
+[^20]: Her vagina.  
+[^21]: i.e. deflowered accidentally, rather than through intercourse.  
+[^22]: Ketubot 1:7.  
+[^23]: Ibid.  
+[^24]: i.e. 100 zuz – Ketubot 11b.  
+[^25]: The words of the rabbis, i.e. a rabbinical matter.  
+[^26]: Ketubot 110b, in chapter 13, not chapter 2. Nissim of Gerona’s text, as it appears in standard editions, is ordered somewhat differently.  
+[^27]: i.e. in accordance with the value of the local currency.  
+[^28]: i.e. at the site of Nissim of Gerona’s comments.  
+[^29]: Ketubot 77a.  
+[^30]: Alfasi on Bava Batra, 81a.  
+[^31]: Num. 17:25.  
+[^32]: i.e. for all time. The expression is an inversion of the phrase from the Rosh Hashanah liturgy: a memory of the first day.  
+[^33]: i.e. gossips, based on Sotah 6:1.  
+[^34]: Lit. incline their throats, based on Isa. 3:16.  
+[^35]: Ruth 1:21. The traditional interpretation of this phrase is: God testified to her situation or condition, but here the point is that she was deflowered accidentally. Diena may be referring obliquely to Ex. 21:13, which has inah rather than ‘anah, but which employs this same notion to explain the concept of cities of refuge for cases of accidental homicide.  
+[^36]: Job 3:10.  
+[^37]: A play on the expression “the steps of Bet Horon” – see San. 32b.  
+[^38]: See Sanhedrin 44b.  
+[^39]: Ps. 31:21.  
+[^40]: The reference to Aaron may be purely rhetorical, since the author refers here to atonement, but, as the Hebrew editor notes, it may indicate the author’s first name.
 
-[^17]: 
-
-[^18]: 
-
-[^19]: 
-
-[^20]: 
-
-[^21]: 
-
-[^22]: 
-
-[^23]: 
-
-[^24]: 
-
-[^25]: 
-
-[^26]: 
-
-[^27]: 
-
-[^28]: 
-
-[^29]: 
-
-[^30]:
-
-[^31]: 
-
-[^32]: 
-
-[^33]: 
-
-[^34]: 
-
-[^35]: 
-
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]: 
-
-[^40]: 
-
-[^41]: 
-
-[^42]:
+[^41]: Perhaps an indication that the name of the girl in question was Rosa.  
+[^42]:The last two phrases are used numerically, to indicate the date: 27 Iyyar 5288, or May 16, 1528.
