@@ -101,6 +101,12 @@ I am he who speaks of the rose of Sharon,[^41] Ozriel Diena. Pure for light, may
 
 ## Source 4 Translation
 
+**Introduction**
+
+Berliner published this document from the archive of the Jewish notaries of sixteenth- century Rome, principally Judah Piatelli and his son Isaac. These files are currently stored in Rome’s *Archivio Storico Capitolino* and Kenneth Stow, who recently summarized their contents, notes that there are over a hundred documents like it for the sixteenth century alone.[^43] Yet this kind of document is unprecedented in Jewish history: it is unknown in the Bible, the Talmud, medieval rabbinic literature or the Cairo genizah. Moreover, the Jews of earlier times evince no need for documents of this sort, even though the accident exposed the wounded girl’s family to financial damage and damage its reputation, if eventually her husband should claim that she was not a virgin on her wedding night.
+
+
+
 ## Source 1 Original Text
 
 פחד יצחק
@@ -227,3 +233,7 @@ Footnotes
 
 [^41]: Perhaps an indication that the name of the girl in question was Rosa.  
 [^42]:The last two phrases are used numerically, to indicate the date: 27 Iyyar 5288, or May 16, 1528.
+
+[^43]: See Kenneth Stow, *The Jews in Rome*, vol. 1: 1536-1551 (Leiden 1995), vol. 2: 1551-1557 (Leiden 1997). See, especially, vol. 1, #261, pp. 93-94. On this body of notarial records see also Shoshana Shenhav-Gollan, “La vie des Juifs de Rome de la moitié du XVIe siècle à la deuxième moitié du XVIIe siècle,” REJ 144 (1985), pp. 169-179.
+
+[^44]: Abraham Berliner, “Sarid me-‘ir,” Kovets ‘al Yad 5 (1893), p. 6, republished by Asher Gulack, Otsar ha-Shetarot, Jerusalem 1926, p. 361, deed #400.
