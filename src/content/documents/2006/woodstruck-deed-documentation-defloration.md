@@ -61,6 +61,44 @@ Abraham b. Elhanan Heilperon, Judge
 
 ## Source 3 Translation
 
+**Introduction**
+
+**Notes:** Responsa of Rabbi Azriel Diena, ed. Yacov Boksenboim, Tel Aviv 1977, vol. 1, pp. 541-544 Italy
+
+Ozriel Diena issues a legal opinion on whether and when female testimony is admissible in Jewish legal proceedings. He concedes that it is only admissible in cases involving laws legislated by the Sages, not biblical laws, but argues that disputes surrounding a woman’s marriage contract fall under that rubric. Accordingly, he upholds the judicial value of the testimony given by women regarding the accidental defloration of a particular girl, and buttresses the women’s testimony by adding his own signature.
+
+Among the document’s striking features are: (1) the fact that discussion of an issue so basic as the admissibility of female testimony should arise as late as the sixteenth century; (2) the use of the responsa genre for the publication of an affidavit concerning accidental defloration. These two features are indications that accidental defloration was only now entering the bureaucratic and judicial purview for consideration and documentation.
+
+**Responsa of Rabbi Azriel Diena She’elot u-Teshuvot**
+
+**Azriel Diena, 1528**
+
+Translated by David Malkiel, Bar-Ilan University, Israel
+
+**Notes:** Responsa of Rabbi Azriel Diena, ed. Yacov Boksenboim, Tel Aviv 1977, vol. 1, pp. 541-544 Italy
+
+137
+
+In the second [of the two] chapter[s] entitled One Who Steals, the Mishnah states:[^1] *R. Johanan b. Baroka said: A woman or a child may be believed if they say, “The swarm of bees went away from here.” A man may go into his fellow’s field to save his swarm...* And the *gemara* says about this: *A woman and a child may testify. R. Judah said in the name of Samuel: This is so, for example, when the owners are chasing them and the women and child say casually: “The swarm emerged from here.” R. Ashi said: Casual talk is only accepted as testimony when the issue is a woman’s right to remarry.[^2] Ravina responded: Is not the case of the swarm of bees one of casual testimony* [and yet the Mishnah rules that this is acceptable as testimony]*? The* [case of the] *swarm of bees is an exception, because* [their] *acquisition is rabbinical* [rather than biblical][^3]*...* Rashi commented: *There is no theft here, but rather* [ownership of bees is recognized] *to avoid disputes, for they are not private property.* And [the *gemara*] asks further: *A case came before Rabbi* [Judah the Patriarch] *of a child who spoke casually and said: “My mother and I were taken captive by gentiles. When I went out to draw water, I thought about my mother,[^4] to collect wood – about my mother;” and on that basis they allowed her to marry a Kohen.* [Clearly casual talk is admissible in cases other than that of an *‘agunah*?] *They ruled leniently in the case of a woman taken captive*, [and therefore the rule of the inadmissibility of casual talk stands].
+
+Similarly, the Mishnah states in the chapter entitled How Do We Extend?:[^5] *Even a bondman and even a bondwoman may be believed when they say: “Thus far is the Sabbath limit”...* And in this context the *gemara* states that matters concerning the Sabbath limit are rabbinical [not biblical],[^6] implying that if they were considered biblical, they would not be believed.[^7] And the tosafists wrote there: *Even though we routinely believe women on* [matters pertaining to] *the slaughter and porging of animals and the donation of* hallah*, this is only because it is within her power[^8] to slaughter before the act of slaughter* [takes place]*, but with regard to matters concerning the Sabbath limit, these are not in her power ... This may seem to be contradicted by the statement, regarding the search for leavened bread on the eve of Passover, that the search must be conducted with great care and effort, and therefore one must be more concerned about their laziness* [of women] *than in other situations. And thus it is stated in the Jerusalem Talmud that there is a view according to which women are not to be believed with regard to the search for leavened bread because they are lazy and their search is perfunctory*.[^9] The tosaphists wrote the same thing in the first chapter of *Pesahim*, s.v. The Rabbis Believed Them in Rabbinical Matters.[^10]
+
+Mordechai [b. Hillel] wrote, regarding the first chapter of *Hullin*, that *one witness is believed and* [deemed] *legitimate* [and] *we rely on him, and even a woman, as it is stated in the chapter* [entitled] *If the Lower Mark Comes:[^11] “R. Ishmael entrusts his mother”[^12]... And regarding the immersion of a menstruating woman, when (she)* [the rabbis] *only (knows)* [know] *what other people* [testify]*, in all these cases we rely on one witness. In sum, a minor is not believed whenever the case at hand involves a biblical prohibition, and neither is a woman or an adult male who is not deemed* [as] *reliable* [as two witnesses]*. However,* [they are believed] *with regard to a rabbinical prohibition, such as* [the prohibition of] *salted meat, for* [the prohibition of] *salted blood is only rabbinical ... All this follows the view of R. E.M.,[^13] who explained, regarding the chapter* [entitled] *Damages:[^14] “‘Everything that is in his power:’[^15] Whatever is within his power to fix now.” However, R. Tam, who interpreted* [the Mishnah] *to mean “whatever was once within his power,” has no need of this interpretation*.[^16]
+
+What emerges from all this, therefore, is that the testimony of women is only accepted in rabbinical laws, for the rabbis believed them in rabbinical matters, or in cases of biblical laws when it is within one’s power to repair [the damage], such as slaughtering and porging, for it was in their power to slaughter properly and porge properly, or in the case of a female captive even when it is not within her power to repair [the damage], for they [the rabbis] ruled leniently in the case of a female captive. However, regarding testimony concerning a biblical matter which it is not within their power to repair, they are not believed, as is found in the chapter [entitled] The Oath of Testimony,[^17] that the testimony of women is null, for it is stated [in the Torah]: “Then shall both the men...” [Dt. 19:17].[^18]
+
+Therefore, when an impure incident[^19] occurred to a young girl, the daughter of Mr. [name omitted], who was ascending a ladder on 2 Nissan [5]288 of last year to search for leavened bread in an attic and clean it up, as women do; and she fell from the ladder onto a piece of wood which penetrated her in that place[^20] and her blood spilled onto the ground, her mother cried out for some time, and called two or three modest women, who came and saw the blood spill onto the ground, and the location of the wood onto which she fell, and her bruised and torn genitals; and they saw that she was telling the truth, not lying, and that the event took place just so. These women came and testified before me about the entire episode and about what they saw, so that their testimony would serve as a sign and remembrance for the day of her wedding, that she is struck by wood rather than stomped by man.[^21]
+
+According to R. Gamliel and R. Eliezer, in the first chapter of *Ketubot*, [where it is stated], *She says “I am struck by wood,”* she is believed[^22] and may marry a *Kohen*, and we are not concerned lest she had relations with a man who would render her ineligible [for such a match]. Therefore, according to their view, in the case at hand this girl need not present proof of her words at the time of her marriage, for she is believed when she says: “I am struck by wood.” Moreover, even according to R. J [Joshua], who says “We do not depend on her own testimony,”[^23] and we consider her to have been stomped by man until she brings proof to the contrary... this girl needs to bring proof in support of her words, and the testimony of these two women, who testify about her, about this incident, will not avail her, to enable her to marry a *Kohen*, for this is prohibited biblically, for she is in the category of one who has had relations with a man who renders her ineligible, and this is not testimony which it is within these women’s power to repair, and therefore they would not be believed for the purpose of enabling her to marry a *Kohen*, as I have proved above. Indeed, the *gemara* says about this: *R. Judah said in the name of Samuel: The law follows [the view of] R. Gamliel.* And thus did Maimonides explain in his Mishnah commentary, and thus also R. Asher [b. Yehiel] concerning this *mishnah* of one struck by wood, in the first chapter of *Ketubot*.
+
+Should this girl claim, at the time of her nuptials, that she is struck by wood and [therefore] that her marriage contract [should be] two hundred [*zuz*], and her husband says that she is stomped by man, and *when one marries her under the assumption that she is a virgin and she is discovered to have been deflowered, her marriage contract is worth only one* maneh,[^24] therefore their entire claim, regarding this girl and her husband, is merely a rabbinical matter, for the marriage contract, even one for two hundred *zuz*, is merely from their words.[^25] R. N[issim of Gerona] wrote thus in [his commentary to] *Ketubot*, ch. 2, regarding the phrase “they taught here a lenient regulation concerning the marriage contract:”[^26] *As far as the halakhic ruling is concerned, we accept the view of the Rabbis, for the marriage contract is a rabbinical matter. Admittedly, R. Simon b. Gamliel derives from the phrase “in accordance with the bride-price for virgins”* [Ex. 22:16] *that the woman’s bride-price is of biblical origin, and that by biblical law she has a lien on whatever bride-price is agreed upon, and therefore the lien is in effect at the place[^27] of the wedding. Nevertheless, the amount of the bride-price should not be the money of a rapist and seducer, but rather a sum to which they agree, and the Sages fixed it at two hundred* [zuz]*. And thus is it stated in the Tosefta: “R. Simon b. Gamliel say: A woman’s marriage contract and a debt* [are fixed] *at the place of the wedding.” Apparently it did not state “two hundred pieces of Tyre* [currency]*,” since it says, generally, “at the place of the wedding?”... Those who write* [in the marriage contract] *“the two hundred zuz allocated to you by biblical law” err, for biblical law allocates her nothing,* [only] *rabbinic law does. Therefore she collects nothing on the strength of her marriage contract, but rather on the strength of rabbinic decree...*This was also the ruling of Alfasi at the end of *Ketubot*:[^28] *This excludes the view of Simon b. Gamliel, who said that the basis of the marriage contract is biblical, for it is merely rabbinical*... Even though R. Johanan said: “Wherever R. Simon b. Gamliel taught [a law] in our Mishnah the law is as he ruled,”[^29] Nissim of Gerona wrote that *we do not adhere to this principle, for these are amoraic scholars who identify with R. Johanan, as is found in many places* [in the Talmud]*. And thus also did Alfasi write, in the chapter* [entitled] *An Unfolded Document, that this rule is not necessarily* [binding]*, for we do not say that the law follows* [the view of] *R. Simon b. Gamliel except when there is a reason...[^30]*
+
+Hence, if the claim is made under the canopy, regarding her marriage contract, whether it should be for two hundred [*zuz*] or a *maneh*, according to the views of both R. Gamliel and R. Johanan the testimony of these women should be believed, for it concerns a rabbinical matter, and the Rabbis believed her [any woman] in rabbinical matters.
+
+Therefore, so that the testimony of these women be as a lesson to rebels[^31] and a memory for the last day,[^32] I have signed my name to testify to all that has occurred. And women that spin their yarn by moonlight[^33] shall not gossip about this girl and look down their noses at her,[^34] for God addressed her[^35] and did not close the doors of her abdomen,[^36] and her virginity may have fallen, for her blood flowed at the top of her orifice.[^37] May God be with her to bring her to the home of her husband and act as her advocate. Alternatively, let her return to her former state, as a virgin, concealed and shut,[^38] and not be the subject of mockery by liars and schemers.[^39] And her plight ascended and Aaron atoned.[^40]
+
+I am he who speaks of the rose of Sharon,[^41] Ozriel Diena. Pure for light, may God bless him.[^42]
+
 ## Source 4 Translation
 
 ## Source 1 Original Text
@@ -71,3 +109,88 @@ Abraham b. Elhanan Heilperon, Judge
 
 ## Source 4 Original Text
 
+Footnotes
+
+[^1]: 
+
+[^2]:
+
+[^3]:  
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+[^21]: 
+
+[^22]: 
+
+[^23]: 
+
+[^24]: 
+
+[^25]: 
+
+[^26]: 
+
+[^27]: 
+
+[^28]: 
+
+[^29]: 
+
+[^30]:
+
+[^31]: 
+
+[^32]: 
+
+[^33]: 
+
+[^34]: 
+
+[^35]: 
+
+[^36]: 
+
+[^37]: 
+
+[^38]: 
+
+[^39]: 
+
+[^40]: 
+
+[^41]: 
+
+[^42]:
