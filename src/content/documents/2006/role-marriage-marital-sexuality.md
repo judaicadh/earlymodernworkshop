@@ -49,9 +49,7 @@ Afterwards [i.e., after the Evening service in the synagogue], return to your ho
 
 . . . The two bundles signify Zeir [Anpin] and Nuqba [de-Zeir], on account of which, after you smell them, immediately utter “remember and observe [the Sabbath, proclaimed by God] in a single command”. This alludes to the mystery of Zeir and Nuqba, which are united, as expressed in the words “remember” and “observe” as taught in tractate Shabbat
 
-## Source 1 Original Text
-
-טעמי המצות, פרשת בראשית: מצות פריה ורביה
+## Source 1 Original Textטעמי המצות, פרשת בראשית: מצות פריה ורביה
 
 Ta'amei ha-Mitsvot, Parashat Bereshit
 
