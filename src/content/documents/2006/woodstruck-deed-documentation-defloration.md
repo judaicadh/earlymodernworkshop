@@ -105,7 +105,13 @@ I am he who speaks of the rose of Sharon,[^41] Ozriel Diena. Pure for light, may
 
 Berliner published this document from the archive of the Jewish notaries of sixteenth- century Rome, principally Judah Piatelli and his son Isaac. These files are currently stored in Rome’s *Archivio Storico Capitolino* and Kenneth Stow, who recently summarized their contents, notes that there are over a hundred documents like it for the sixteenth century alone.[^43] Yet this kind of document is unprecedented in Jewish history: it is unknown in the Bible, the Talmud, medieval rabbinic literature or the Cairo genizah. Moreover, the Jews of earlier times evince no need for documents of this sort, even though the accident exposed the wounded girl’s family to financial damage and damage its reputation, if eventually her husband should claim that she was not a virgin on her wedding night.
 
+**Woodstruck Deed Shtar mukat ‘etz**
 
+**Judah b. Shabbatai, 1544**
+
+**Notes:** Abraham Berliner, “Sarid me-‘ir,” Kovets ‘al Yad 5 (1893), p. 6, republished by Asher Gulack, Otsar ha-Shetarot, Jerusalem 1926, p. 361, deed #400 Italy
+
+We the undersigned testify that today, Sunday, 10 Shevat 304, these witnesses came before us: Mr. Isaac Zamat and Mrs. Lina Zamat, his wife, and Mrs. Stella, the wife of Mr. Samuel, and testified before us under oath that last Saturday it happened that the young girl [named] Dolce, daughter of Mr. Judah Pugliese, fell from a box on that Saturday, such that her virginity fell out. And in order that the truth not be lost, and to prevent her from being defamed, and so that the girl possess testimony and proof, I Judah b. Shabbatai, the community scribe, received and wrote this testimony from these witnesses.[^44]
 
 ## Source 1 Original Text
 
