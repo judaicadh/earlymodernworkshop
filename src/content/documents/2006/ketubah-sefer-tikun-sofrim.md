@@ -120,3 +120,5 @@ Endnotes:
 [15] תקנת הרשב"א (ר' שלמה בן אדרת) לביטול מודעא ראו: שו"ת הרשב"א, ח"א, סימן תקעג ומובאת בפירוש 'נמוקי יוסף' להלכות הרי"ף, פרק חזקת הבתים, דף כו ע"ב.
 
 [16] ב"מ, מז סע"א. על נוסחאות הסיום בכתובות ראו: פרידמן, נישואין בא"י, עמ'
+
+**Archive:** Jerusalem, Jewish National and University Library, MS 8°958, Sefer Tikun Sofrim (=Scribe’s Guide Book) by Itzhak Zabakh
