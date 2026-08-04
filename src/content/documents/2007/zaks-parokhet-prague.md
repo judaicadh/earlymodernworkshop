@@ -9,15 +9,19 @@ slug: zaks-parokhet-prague
 ---
 ## Source 1 Translation
 
-++Ms. Jewish Museum of Prague 113, p. 35a (no. 188, second half):++
+**Ms. Jewish Museum of Prague 113, p. 35a (no. 188, second half):**
 
-"קונטרס בית כנסת אלטנוישול בפראג"
+**"קונטרס בית כנסת אלטנוישול בפראג"**
 
-Also known as “The Altneuschul Memorbuch”
+**Also known as “The Altneuschul Memorbuch”**
 
 May God remember the soul of the leader, ‘ruler of the people’[^1] of our holy community here in Prague, who spent most of his days on earth attending to the needs of the public in [good] faith, and [thanks to] his lobbying [they] found shelter in dangerous times. It is he who with honor and glory brought to the house of our Lord a Torah scroll with rods of silver, a Torah curtain and the rest of the holy accoutrements, costing several hundred, and sanctified them. His foot stood on level ground[^2] and [went on] a straight path. The honorable Rabbi Nathan son of Issachar *z”l* called Karpel Zak *z”l*. And because his son- in-law the Rabbi Avinadav (*sic*) David gave charity for the eternal memory of his soul, by this merit may his soul be bound in the bond of life of Abraham, Isaac and Jacob, Sarah, Rebecca, Rachel and Leah and with the rest of the pure, righteous [men and women] who are in the Garden of Eden. And let us say ‘Amen.’
 
 ## Source 2 Translation
+
+**Ms. Jewish Museum of Prague 82, title page**
+
+***Pinkas Hazkarat Neshamot*, Pinkas Synagogue (1801).**
 
 To inform and to notify:
 
