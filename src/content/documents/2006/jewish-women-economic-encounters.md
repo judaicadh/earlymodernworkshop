@@ -23,3 +23,100 @@ description: >+
 
   - Havvot Yair, Responsum 73
 ---
+## Source 1 Translation
+
+**Introduction**
+
+R. Yair Hayyim ben Moses Samson Bacharach (1638-1702,) is well-known for his knowledge of *halakha* and *Kabbalah*. Over the course of his lifetime, he served as the rabbi in several locations in the Holy Roman Empire. In 1666, he was appointed as rabbi and head of the rabbinical court in Koblenz; in 1670, he temporarily served as the rabbi of Worms, after the death of his father. Bacharach returned to his position as rabbi of Worms in 1699. In that same year, he published his book of responsa, *Havot Yair*, in Frankfurt.
+
+In these two responsa, Bacharach deals with one of the *halakhic* problems surrounding women’s trade with non-Jews. Such trade inevitably caused women to enter into seclusion (*yihud*) with non-Jews, especially since according to Jewish law, the presence of the non-Jew’s wife did not alleviate the prohibition of seclusion with a non-Jew.
+
+The first responsum (no. 66) is R. Meir Stern’s (d. 1679) response to Bacharach. (Stern had been the rabbi of Fulda; later he served as the rabbi of the German Jews in Amsterdam, and is also known as one of Christian Knorr von Rosenroth’s teachers.) Though Bacharach’s initial query is no longer extant, one can reconstruct his proposal for explaining the contemporary practice of women going to non-Jews’ homes to trade. Stern disagrees with Bacharach’s rationale, and offers his own justification for this behavior. In responsum 73, Bacharach responds to Stern, disputing Stern’s idea, and reiterating some of his own reasoning. While neither rabbi views these interactions as permissible, each tries to offer his own *halakhic* rationale to explain how these women were not truly or intentionally violating this *halakha*. As such, we can see how rabbis sought to address contemporary economic realities through the *halakhic* system.
+
+**Biblography**
+
+Fram, Edward. *Ideals Face Reality**:** Jewish Law and Life in Poland, 1550-1655*. Cincinnati, 1997.
+
+Hildesheimer, Meir. *The Jews in Germany in the Seventeenth Century Based on the Literature Of She’elot U- Teshubot*. M.A. Thesis, Bar Ilan University, 1972. [Hebrew]
+
+Twersky, Isadore. “Law and Spirituality in the Seventeenth Century: A Case Study in R. Yair Hayyim Bacharach,” *Jewish Thought in the Seventeenth Century*. Ed. I. Twersky and Bernard Septimus. (Cambridge, 1987,) 447-467.
+
+**Source**
+
+**Havvot Yair, Responsum 66**
+
+**Yair Hayyim Bacharach, 1699**
+
+A responsum from the eminent and distinguished, famous rabbi, R. Meir Stern, may his candle shine, concerning a question that I asked him. And it [the question] can be gleaned from the answer. Actually, the body of the question was in a previous edition, and I wrote to the rabbi, may his candle shine, [asking] that he return it to me, and he did not do so; this is what is left, and that is all:
+
+...And here, now I will come to what my master asked, concerning women who go to the houses of non-Jews to do business, and who enter into seclusion with them. And here there is an additional prohibition beyond that of seclusion with a Jew, as is learned in the chapter*’Ain Ma‘amidin*[^1] [where it says] “And she should not enter into seclusion with them [non-Jews],” and it is said in the Talmud that it is not necessary [to single out the prohibition of seclusion with a non-Jew, except to include the provision that seclusion is prohibited] even when his [the non-Jew’s] wife is with him.[^2] For in the case of a Jew, it is certain that his wife will watch over him, but in the case of a non-Jew, it [such seclusion] is prohibited.
+
+And we attribute goodness to the man of esteem and honor, [Bacharach] for he took it upon himself to look after the decrees concerning the daughters of Israel, and to look at the essence of the issue, in order to find them the roots of permissibility, for heaven forbid that the women of Israel are behaving in an unfit manner. Shall our sister be made into a harlot?[^3] And this is what our forefathers and earlier sages did; for they, of blessed memory, said they would obligate themselves to avoid [transgressing] prohibition etc., as is evident from [the adage:] “To be deliberate is worth four hundred *zuzim*, etc.[^4] This is not the case in our generation: [People] say to the wicked, you are righteous. “And from the day that the fist of flattery prevailed,”[^5] no one establishes boundaries, and no one is guarding the breaches, and if only they would not strengthen the hands of those performing transgressions!
+
+And now, we come to trade and do business with them for those same reasons that the man of esteem and honor noted. Now, if we permit this [trade] because of [the fear of] animosity, then [by extension] we would [come to] drink with them, we would drink from their cups and eat from their bread. And what will transpire is that all of the safeguards that were implemented by the sages of blessed memory will be discarded. They had decreed decrees upon decrees, and made safeguards upon safeguards, lest we intermingle with non-Jews, and [thereby] learn from their actions -- and they forbade their bread because of their oil, and their oil because of their wine, and their wine because of their daughters.
+
+And it is certain, as clear as the sun, that nothing is permitted due to [fear of] animosity except for [something which has] a mere chance [of happening and] which is tied to a permissible professional activity, such as receiving a gift from a non-Jew whom one knows on the day of his festival. For throughout the year, one is permitted to trade and to do business with him, and to receive a gift from him. And if it were not permissible to receive a gift from him on the day of his festival -- which would be a mere chance [a random act] tied to a permissible professional contact -- there would be animosity. It is also the case with a Jewish midwife who is known for her skill -- she is not able to refrain from administering to a non-Jew, [and] it is permissible, for it is only a chance emerging from her permissible skill. And it is the same in a case of a Jewish doctor; the animosity stems from a permissible skill of his. This is not applicable to these women in our case – if they did not go to the houses of the uncircumcised, there is no animosity here. And how could one even think to say that it is permissible to go to their houses without a guardian? Therefore, regarding what was said -- that if they were to bring a guardian with them, it would cause animosity – if this is so, they should not go to the houses of the uncircumcised at all, and there will be no animosity, and this is certain.
+
+And what is more, for those who would say to us that there is animosity if she were to bring a guardian with her – perhaps there is no animosity, for it is possible to safeguard against [animosity] in several ways. And in the Talmud, it is proven that something is not permitted due to animosity except if it is not possible to prevent animosity in any manner whatsoever. As it says there, R. Joseph thought to say that [helping idolaters or shepherds of small animals up from a pit] would be permissible because of animosity, etc. Abaye said to him, one can respond and say, “I have to run to the boy on the roof.” Similarly, more examples are brought there, [see] the Chapter *’Ain Ma’amidin*.[^6]
+
+And it is also not fitting to compare this case to the permissibility of selling large cattle to non-Jews, nor to lending them money with interest, for Tosafot have written that one should make a distinction between different times, and in those cases, there is a reason to make distinctions [between the rabbinic and the contemporary situations and times.] As it is written in the Talmud concerning selling weapons to non-Jews, that today, we sell to a Persians that protect us.[^7] Therefore, Tosafot wrote permitting the sale of horses to non-Jews in this time, and they added the reason [for their ruling, which is] that we are very few in a given place. And it is similar concerning lending money with interest to non-Jews: There are several reasons that it is established, not just this one, as is learned later that it is not at all prohibited. And what is more, the reason for the prohibition, [namely] lest we learn from his actions, is not applicable these days, since the Jews are a small number dwelling in a given place, and it is necessary to trade and to do business with non-Jews. There is no suspicion that one would learn more from his [a non-Jew’s] behavior in terms of interest that in any other type of business or trade, as Tosafot wrote there explicitly.
+
+And even if the entire reason for learning [the permissibility of lending money with interest] was because it was necessary for earning a livelihood, there it is specified – for it is explicitly said in the Talmud that [lending] is permissible when it is necessary for livelihood. This is not applicable to our case, to permit seclusion because of the necessity of earning a livelihood, because it is not found that the sages [explicitly] permitted [seclusion] for the sake of [earning] a livelihood. And I do not know why the eminent man of esteem and honor is opposed to this, for they upheld this [opinion] one hundred to one.[^8]
+
+Also, what the man of esteem and honor mentioned in his text, and this is his language: “That it is fitting to permit seclusion these days, due to the needs of trade and business, for it is established that our wives are called traders and business people in the home, and the Rashba wrote to this effect, etc.” I heard, but do not understand why this is relevant here, for it is established that our wives are called traders, etc., but this is concerning deeds and contracts going out in her name, for it is said that the woman is the trader in the house, etc., and it is established that these women simply trade and do business. But this is not a reason for them to trade and do business [while transgressing] a prohibition. There is also nothing coercing these women to trade and do business that would compel any lenient ruling concerning seclusion. It is just that our women trade and do business, but not, heaven forbid, while transgressing – this is not pardoned for them. And as a support, I can say, based on your own argument, that they trade and do business specifically within the house [and therefore, we cannot use the words of the Rashba to justify their entering into seclusion out of the house.]
+
+And in terms of what he desired to know, is there anything concerning this issue in the responsa of the *Aharonim* [later sages] new ones, or old ones; and if this is clearly prohibited, without any opportunity for leniency, what is the reason that the rabbis were silent [about this topic] for in the case where people behaved in a prohibited manner, who excused this? I will notify the man of belief, that in the responsum of Maharam Padua, chapter 26, he wrote an open rebuke to the residents of Cassel about the fact that their wives were lenient with this. And he dismissed the notion that the fact that their wives [non-Jewish women] were present would [render this] permissible, for it is not applicable to a non-Jew.[^9] You should look there, and also in the discussion and interpretation of *Even ha-Ezer* chapter 22, where he questions the custom of going along on the convoy of a non-Jew with a guardian who is a minor, and he wanted to stop that practice. And the Bach, in his last commentary, declared that there is no permissibility for such a thing, and that this is a practice which is contrary to the *halakha* and to the law, but that we do not have the power to curtail. And it is same in this world with several biblical prohibitions, regarding which people have practiced leniency, and look there [for details.] And in the responsum of Mahari Mintz[^10], the same is written, that women are similarly lenient in this matter, this is in the 26th or the 27th chapter, at the end of his responsa. I don’t have that responsum in my hands at this time to look at it, but you should see if you have that responsum.
+
+Despite all this, I endeavored and found a way to view [these women’s behavior] charitably, although there is no permissibility [for what they do], for all Israel is holy, even though they are not prophets. And I found something inthe words of the Ran and of the rabbi the *maggid*,[^11] with regards to the permissible ruling for leaving an animal in a non-Jew’s inn in our days, because the non-Jews in our times are not suspect of bestiality, but to the contrary, are beaten and punished for this, as is discussed in the Beit Yosef in *Yoreh De’ah* chapter 153.[^12] If that is so, we can justify the law, for it is the same in our case -- for non-Jews in our times are not suspect of harlotry with a Jewess. For even though in their times [Talmudic times], [having sexual contact] with an animal of a Jew was preferable,[^13] in our times, it appears to the Ran and to the rabbi the *maggid* that they are not suspect [of bestiality.] The same is true that they should not be suspect of harlotry with a Jewess, for on the contrary, they are beaten and punished for this. And if the Jewess was married to a Jew, it is evident that they would be beaten and punished for this. But even [in the case] of a single woman, if the non-Jew is married, he is penalized with burning according to their laws, and they judge him as having betrayed his wife and as having committed adultery. I heard this with unequivocal clarity, and it is known to me, without a doubt, that they rule in this way. And see the Beit Moshe on *Even ha’Ezer*, chapter 22, and see the Ritva on ’*Avoda Zara*, 26, that in these days, non-Jews are not suspect of murder, for there is the fear of the king [of the law,][^14] and see the Maharsham, chapter 33.
+
+Furthermore, about three months ago or more, I was at a feast for a *Speinholz*, as is customary to do on the Friday night before a wedding, and there were several learned and important people there, and we had a discussion about this, and I brought this lenient ruling before them. And all of them said that it was just and it appeared very good in their eyes, and they all knew that this is how they rule as well. And in truth, this is a very correct lenient ruling in my eyes, for we can learn from the words of the Ran and of the *Maggid* that they are not called suspects except when we know them to be regularly [engaged] in the [specific] behavior, and when it has happened many times.
+
+And also, [they are suspect] when there is neither any danger nor punishment for the act. But in a case where we have not seen that they regularly behave in this way without shame, and it has not happened frequently in our time, they are not called suspects. And all the more so, when they are beaten and punished for such behavior, they are not suspect. And in truth, our eyes have seen that no such incident occurred during our time, and it is because of this that they [the women] decided to act thus. For if, heaven forbid, there were cases of this occurring, they [the women] would certainly refrain from this [behavior,] or the wise men of the generation would have eliminated this bad practice. Yet, since no such episode is known [to have occurred], they learned from this, and persisted in their practice, and this is the essence of the leniency, since we see that they [non-Jews] are not suspect of harlotry with a Jewess, and it is established.
+
+And even so, it must be said that it is still necessary, even with this idea, to halt this practice of entering into seclusion with the uncircumcised at all times and moments. For it is established that it is forbidden to enter into seclusion with a non-Jew, since they are suspect of murder, and this suspicion would be applicable and identical regarding both men and for women. And it is a wonder in my eyes that the exalted man of esteem and honor did not stir to question this practice on the basis of the fact that murder applies to men as it does to women. And in terms of men, no one opens his mouth or utters anything in order to prohibit them from that trade and business which leads to seclusion with the uncircumcised. And according to what I wrote, it is not relevant, since in our times, they are not regularly doing this [murder], but to the contrary, [since] murderers are beaten and are punished with the death penalty, they would not be called suspects for murder. [This is so] nothwithstanding that in the year 5418, as the man of esteem and honor knows, an honored man [a Jew] of Trier was killed, may God avenge his blood, here in the house of the uncircumcised [non-Jew]. In any event, that was a chance occurrence, and they [non-Jews] are not regularly acting like this. And this murderer was forced to flee because of this action, and to run for his life. This is what my limited intellect has come up with on this topic, impoverished and meager [though it is.]
+
+And in any event, I saw and heard from my teacher, my rabbi and father-in-law of blessed memory, that he tried to stop them [from entering into seclusion with a non-Jew], and he preached about this publicly, in open rebuke. I, too, in his wake, warned the people of my land, the land of Fulda, about this many times, and I prevented them with rebukes and fines. And I was successful in that they refrained, and no woman went to the house of a gentile without a guardian, as is the law.
+
+And so it is fitting for all who fear God to do, as per their ability. But also, what I have written is to learn something just about how this bad practice spread, and that we should not judge the women as transgressors of the words of Moses and the Jews. And it we still need to examine the other prohibition, which applies to both men and women. And until then, we need to stop this custom. Therefore [in order to explain the practice,] I have tried to find commonalities among both situations.
+
+And solely concerning the women: In addition, in order to find support [for their behavior, one may rely upon the] words of Tosafot in the Chapter ‘*Ain Ma’amidin*, citing the Jerusalem Talmud.[^15] Although this is as I wrote, that I put my heart towards [understanding] how this lenient behavior spread through Israel. This could be, heaven forbid, a cause for a rise [in the number] of bastards in Israel, as they think that there is nothing suspect in this behavior. For if they thought otherwise, they would certainly not put themselves every day in a situation of shame and entrapment and [would not] transgress each day on the prohibition of “Do not stray.”[^16]
+
+## Source 2 Translation
+
+## Source 1 Original Text
+
+## Source 2 Original Text
+
+## Footnotes
+
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
+
+[^14]:
+
+[^15]:
+
+[^16]:
