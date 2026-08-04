@@ -92,6 +92,8 @@ These entries at the beginning of the pinkas may have been copied from a much ea
 
 **Pinkas Shamash Altona — Elisheva Carlebach, trans. (EMW Vol. 3, 2006, pp. 52–55)**
 
+**Notes:** The following excerpts from JTS ms. 10772 represent a tiny fraction of the hundreds of densely written entries in this pinkas. The material presented here does not appear in one discrete unit, it is scattered throughout the manuscript. For purchasing this ms. at my encouragement and for untrammeled access to it, I am deeply grateful to the Library and its staff.
+
 [2a]
 
 ‫אלה הדברים באמת נאמרים נזכרים ונעשים מה שנאמר לי בוועד הקהל יצ"ו או מפי ה"ה פה [=פרנס החודש] שי' אשר יהי' בימים ההם לאורך ימים ושנים‬‎
