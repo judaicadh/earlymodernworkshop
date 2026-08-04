@@ -24,15 +24,7 @@ I, poor, miserable and vexed man, citizen of Sluck, of a respectable and wealthy
 
 1. The dowry document to the value of 500 zloties which she produced was incorrectly drawn up in a village by her relative, since, when a man marries a Jewish widow, she has to give him 200 zloties. According to the Law of Moses, there is absolutely no need for her to give a dowry, but for the general good of the married state, the Rabbis found it [right] for the widow to give 100 zloties. The husband makes an adjustment of the second hundred zloties out of goodwill. She deserves only 200 Lithuanian zloties on the basis of a good emissary [?], witness to the signature and the husband.
 2. The Kahal's decree of two years ago that were I to beat her as she pretended [I had], I should pay her 1300 zloties, came out against this as yet undiscovered slanderer who had maliciously accused me of beating her and wounding her. She then had to take an oath that she would not scold me and I had to swear that I would not beat her. Since she was willing to take her oath and I was not, I had to pay her a fine of 1000 zl., as well as 100 Lithuanian Kopa dowry and an extra-dowry payment of 50 zl. This comes to 1300 zloties. Then, having come to our agreement, we took our mutual oaths and have lived together peacefully till no. Then, the promised 1000 zl. was annulled.
-3. She gave me nothing at all as a dowry. In particular, [there was]a waistcoat which she still has, [and which] she had valued at 100 zl., as well as two promissory notes drawn on two Jews from Ruthenia to the value of 100 Lithuanian Kopa; this I am ready to return to her. I have a written document and witnesses to prove that when she was in
-
-98
-
-EMW - Workshops
-
-EMW 2006
-
-Minsk on her way to [our] wedding, she borrowed a few zloty for food and also to pay the driver who brought her [here]; I had to pay this from my own pouch.; Her relative Liman Dawydowicz can testify to this.
+3. She gave me nothing at all as a dowry. In particular, [there was]a waistcoat which she still has, [and which] she had valued at 100 zl., as well as two promissory notes drawn on two Jews from Ruthenia to the value of 100 Lithuanian Kopa; this I am ready to return to her. I have a written document and witnesses to prove that when she was in Minsk on her way to [our] wedding, she borrowed a few zloty for food and also to pay the driver who brought her [here]; I had to pay this from my own pouch.; Her relative Liman Dawydowicz can testify to this.
 
 4. Concerning the apartment in my father's house which I bought, I paid for it with [the income] from my hard-earned labour, which I can prove with documents.
 
