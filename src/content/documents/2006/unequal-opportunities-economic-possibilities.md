@@ -81,5 +81,60 @@ Bunim Szlomowicz, Citizen of Sluck
 
 ## Source 1 Original Text
 
+Wielmożny Mościwy Panie Podczaszy Kaliski Panie a Panie moy Miłościwy y Dobrodzieiu.
+
+Ja ubogi a mizernie utrapiony człek z dziadow pradziadow obywatel tuteyszy słucki z zacnego y bogatego domu. A przez złą zoną wniwecz obrucony y do szczentu zgubiony owa zgola ginac mi sie przychodzi. Ratunku potrzebuię a nie maiąc się do kogo iedną do Pana Boga a do Wmsci MM Pana y Dobrodzieia uciekam się a prosze pobożnej sprawiedliwosci z tych miar y przyczyn.
+
+1. Że list wianowany ktory ona pokazuie na złotych 500 nie prawnie na wsi pisany sialo krewny iej, gdyż wdowka żydowką za żone poymuiac by mu y 200 wniosła. Według prawa Moyżeszowego wiana cale nie przynależy oney dawac y zapisywac lecz dla pokoia pospolitego w stanie małżenskim wynalezli Rabinowie zapisywac wdowie 100 złota. Drugi zas 100 złotych mąż z dobrej swej woli czyni oprawe nalezy iej tylko 200 zł litewskie wedlug poslemęke dobrego [?] y reky y menża.
+
+2. Dekrett kahałowy od lat 2 ferowany ze gdybym ią bił iako udała abym iej zapłacił 1300 zł, ten wypadł ieszcze iako przeciw niedoznaney iescze potwarce ktoraz myslaiąc biegała skarżyc iakobym ią bił kaleczył. Miała tedy ona przysiondz, abymic nie łaiała a iam miał przysiądz, abym ią nie bił, a gdyby one przysiengę swoią wykonała, a iabym nie chcial wykonac, mam 1000 zł sztroff oney zaplacic, z osobna 100 Kop Lit wiana a przy wianku zł 50. Co wynasza zł 1300. Zgodziwszy sie tedy między sobą oboiesmynie przysięgali y dotychczas spokoynie, mieszkali, ten tedy 1000 zł. zaręki całe kasowany.
+3. Posagu mi całe nic niedała. Szczegulną kabat ktury y teraz u siebie ma, szacowała go, byla w złotych 100, a do tego dwa mamrany na 2 Żydów na Rusi mieszkaiące, na 100 Kop Lit, y te wrocic iej gotowem. Na dowod tego mam document listowne a do tego swiadki że ona do mnie na wesele iadąc w Minsku na strawe kilka złotych pożyczyła a w ostatku y za fure furmanow ktory ia przywiozł ią z swego worku zapłacic musialem. Niech iej krewny Liman Dawydowicz na to swiadczy.  
+4. Co się zas tycze czensci domu oycowskiego com kupil, to za moie krwawe prace kupiłem, co dokumentalnie dowiade
+
+Gotowych pieniedzy miałem talery bitych 45 czyni tynff ?---zł. 300
+
+Kocioł miedzia[n]y złotych 400 kosztuiący przedałem--- zł. 500
+
+Pasow srebrnych dwa przedałem za---zł. 130  
+Korale z perłami corki mej przedałem za---zł. 60
+
+Sukien moyich pare to iest szubke y zupan za---zł. 120  
+Xiąg moych przedałem w Radoszkiewicach y tu w Słucku za---zł. 330  
+Zastawę pewną ktorom iuż zrenczył w długu oyca mego mieszczanca saskiewiczowej winnego---zł. 150  
+Co wszystkigo wynasza---zł. 1590
+
+Temym pieniedzmi opłacałł długi rodzica mego niżey specificowanym iako to:
+
+Imsci Panu Maiorowi  
+Imsci Panu Boriszewskiemu Imsci Panu Korodniczemu Imsci Panu Benkinowi  
+Imsci Panu Nieczkowskiemu Mieszczance Saskiewiczowej
+
+Ktore te długi wszystkie kapitalnej summy wynaszali zł. 1600 iako na dowod mam od kazdego z ich Msciow kwity, oprocz prowizyiey ktorom tymże Ich Msciom płacił z pracy moiey zł. 300.
+
+5. Do uczynkow zas y cnoty oney ktorem dopiro po ożenieniu się z nią dowiedział, musze niekture wypisac do wiadomosci WMMM Pana y Dobrodzieia.
+
+Złe uczynki Żony moiey Pozy[?]
+
+1. Mieszkaiąc s pierwszym menżem swym na Rusi, ktory z drugim Żydem handluiąc, mieli
+
+  gorzałki Kuff 6 a dla nieiakiego miedzy niemi zwady, ona ze złosci swej powyrywawszey z wszytkich kuff go idzie[??] gorzałkę taiemnię wszytko na ziemie wypusciła. Miał ią tedy dwor za to sondzic surowie, uciekła do Matki swey do Holowczyna, męża okradszy. Z wielką tedy trudnoscią odyskal mąż swoie do siebie a ią doswiadczywszą i po inszych postempkach y nierządkach dawszy list rozwodny wpendził ią od siebie bez wiana.
+2. Aże dla wstydu zasłaną ią do Smolan, w drodze nocowała na wsi u woyta człeka poczciwego y dostatniego. Iako tedy zwykła napastowac zmysliła na onego gospodarza ża ią na kilkaset złotych okradł. Dwor tameczny nakazał onemu z domostwem odprysiędz się. A iako nigdy prysiengał musiał ią godzic 30 Kop Litewskich.
+3. Gdy ieszcze w domu dziada swego była, ktory miał cios[t?]eczna iey siostrę w domu swym za gospodynia, kturey sie we wszystkim zwierzył. A iey iako cnotliwej nie dowierzał. Ona na przekorz [?] ze złosci swey na krewną swoią zmysliła cudzołoztwo. Dawszy parobkowi żydowskiemu na kuntusz sukna swiadczył ten uczynek na poczciwa białogłowę. Aże się to pokazało że ona Pozia swiadka przekupiła, ona tedy z swiadkiem od starszyny Biało Ruskiey wielki sztrof odniesli. Zarenczyła się była za nieiakiego wdowca Mohilewskiego. Ten iak prendko się dowiadział o iej cnocię, uniknoł do Bychowa y tam się ożenił.
+
+Mnie zas iako nie wiadomie, Pan Bog skarał, nie prziacielem, nie pasterza ale wilka do doumu [domu] swego wprowadziłem. To ktora się nie cnotliwie chowa tam y błogosławienstwa nie masz iak prendko do nas przybyła, tak prendko szynk i obfitosc Boska z całego domu rodzica mego znikneła.
+
+4. A do tego ze złosci swey nie tylko łaiąc, besztaiąc y biyiąc dzieci moie z pierwszą żoną spłodzone po kilka krotnym nie musiała dziewczyna moia nie cos przemowic przeciwko niey, ona zezsłosci swey spiącej dziewcznie pełną gembą naplicała czego... y pisac [piiąc?], mało się dziewczyna nie zatchneła, kilka niedziel chorowac przez to musiała.
+5. Rodzica mego o smierc przyprawic chciała, aby do wszystek opanowała. Czarownikow naymowała aby go umorzyli aże go zdawna za poczciwego znały niechcieli całe umorzyc, iednak trząd na niego byli narzucili że mal y przez to z swiata niezszedł.
+6. Widzac ona że go czarami nie umorzyła, kazała sobie arseniku kupic rzkoma na myszy a potrawe rodzica mego wsypawszy przez co on y dwoie dziatek przy nim naiadszy sie mal niego umierali .. widzi że złe udała się w protekcią.
+
+  Bo trudne iey wszystkie uczynki czyniące wypisac tylko w tym nasz mosc Panie y dobrodzieia moy miłosciwy ią doznasz że ona mie nie winnie na tak wielkie swiento na trombki kazała do turmy zaprowadzic przecie .. Chrzescijanie nad Żydami maią miłoserdzie y na takie swięto z niewoli wypuszczaią gdyby ona Bogaboyną była to by tego nie czyniła.
+
+  Do uwagi tedy pobożnego rozsądku WMMMM Pana y dobrodzieia podaie iezeli dla tey nierządnicy zawoloki [?] z kturą y dzieci nie mam, ja z dziadow moych osiadły mam od dziatek pierwszey mey zona wswial [wswiat?] ozebranym chlebie powlec się. Dwoie corek mam na wydaniu za mąż a nie mam czym nawet kawałek chleba w gembe włożyc. Tak mie zła żona zgubila a nawet y domu czensc kturom za swą krwawą pracę kupił ma mi to niecnotliwa odbierac y mnie do niego nie przypuszac.
+
+  Jezeli ona przez czary ale ia przez Miłoserdzie Boskie krwawemi lzami oblewaiono sie prosze aby ona według uczynkow iey była sądzona, a w ostatk y z miasta wypendzona. A ia y rodzic moy iako wierni mieszczanie y poddani tuteysi z wieku przy swey własnosci zostawszy Maiestat Boski błagac powinni bendziemy za szczęsliwe długoletne panowanie.
+
+W. Msci Pana y Dobrodzieia moiego milosciwego naynizszy podnożek Bunim Szłomowicz obywatel słucki.  
+**Archive:** Archiwum Glowne Akt Dawnych w Warszawie, Archiwum Radziwillowie XXIII, 137, pp. 114-115
+
 ## Source 2 Original Text
 
