@@ -79,6 +79,34 @@ Bunim Szlomowicz, Citizen of Sluck
 
 ## Source 2 Translation
 
+**The Meeting of The Holy Council [of the Lithuanian Land] at Mir, November-December 1751**  
+**Va'ad kodesh bekehilat hakodesh Mir behodesh Heshvan Tki`v**
+
+**תקי''ב/1751 ,**  
+Translated by Adam Teller, University of Haifa, Israel
+
+"Fear of the Lord is the beginning of wisdom." Earlier wise men and rabbis have deliberated on regulations and made added restrictions [to the law] to prevent women from going to the houses of non-Jews with various merchandise as mentioned in various previous councils. Now many years have gone by and generations passed – it is almost thirty years since the Council of the Land last met. For that reason many transgressors have appeared in all the communities and abandoned their womenfolk to making their living and supporting their families by doing this - their sons are almost considered bastards (*mamzerim*). Moreover, through their inconsiderate attitude they are harming the incomes of various householders and merchants in all the other communities. The community is unable to punish them since they make up the vast majority of the population. They have connections with the nobility in its palaces and courts. Moreover, they trespass [on others' business] and commit sins in profaning the Sabbaths and festivals until they [profane] the whole Jewish religion, as we have all seen for ourselves.
+
+For this reason we have come with the full force of our regulation together with the heavenly court: From today on, no woman shall take any merchandise to the houses of non-Jews, or priests and noblemen – not even in groups of two or three, for any reason. And all the communities must take care to ensure that this bad custom is done away with. And there should no women peddlers called *tendlerke* in any community in Lithuania. All the shopkeepers should be threatened with a great ban if they give them any merchandise from their shops. The merchants too should not give them any merchandise. Supervisors should be appointed in all the cities where they are to ensure that no woman should go with any merchandise to the houses of non-Jews for any reason whatever, in order to uproot and destroy this evil custom, so that the name of *tendlerke* should be mentioned no more. They should be pushed away, expelled, and excommunicated from every Jewish community, their engagements should be stopped, and of course, their sons should not be circumcised, marriages not arranged for them, and [no-one should] stand close to them until they agree to give up this livelihood. It should not be possible even to talk about some woman going to non-Jewish houses, let alone for it to happen. And should any householder see a *tendlerke*, he may take her merchandise for himself without consulting any rabbi, leader, or judge, and [he may] of course cause her any harm, destroy or damage her goods in whatever way he can, doing whatever he wants. Moreover, the community leaders and judges in all the communities must back him up, help and support him to keep the goods of the *tendlerke*. And should anyone not support the householder, even by remaining passive, the householder may take a copy of this ruling, refuse to pay his communal taxes, to go to the tax-assessors and to declare his business tax, paying nothing until the *tendlerke* is tried and her goods given to him as unclaimed items. The beadles must obey this individual without consulting any rabbi, leader, or judge, under threat of losing their post, and transfer the *tendlerke*’s goods to the householder. Even if another householder or merchant shows that the goods were his and that he gave them to the *tendlerke*, this is not a valid claim, and the goods should remain with the householder as unclaimed items.
+
+On every occasion on which the New Moon is blessed [in synagogue], one of the beadles should make [public] announcement that no merchant or shopkeeper should give any merchandise to a *tendlerke* - it is as though he has thrown his money away. On every Rosh Hashanah before the *shofar* is blown he must proclaim in the Great Synagogue that no woman shall go to the houses of non-Jews.
+
+"Who knows but that God may turn and relent?" And he will gather our dispersed [people] speedily in our days. Amen. Selah.
+
+This proclamation has validity and force from us, the leaders, elders, officers, heads of the Lithuanian Council, May Our Redeemer Protect it. Monday, 4th Kislev 5512 (22/11 /1751), at the Holy Council of the Mir Community May Our Redeemer Protect it.
+
+Signed Israel son of Yona Kahana z"l from Brisk  
+Signed David son of the Rabbi Moshe Yitzhak z"l from Brisk  
+Signed Zvi Hirsh son of the Wise Rabbi Dober z"l from Pinsk  
+Signed Yishay' son of Yitzhak z"l from Horodna  
+Signed Shlomo son of the Rabbi Haim son of the Wise Rabbi z"l from Horodna  
+Signed Avraham son of Yitzhak Isaac z"l from Pinsk  
+Signed Yehuda known as Leib Neides son of Yitzhak from Pinsk  
+Signed David son of Barukh Halevi from Vilna  
+Signed Eli' son of Moshe Meisels from Pinsk, presently in Vilna  
+Signed Yehuda Yudel son of Abraham Halevi Horowitz z"l from Sluck  
+Signed Asher Zelig son of the Wise Rabbi Yosef z"l Frenkel, Scribe and Judge from Sluck
+
 ## Source 1 Original Text
 
 Wielmożny Mościwy Panie Podczaszy Kaliski Panie a Panie moy Miłościwy y Dobrodzieiu.
