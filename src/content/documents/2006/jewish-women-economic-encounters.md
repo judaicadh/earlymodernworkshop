@@ -5,7 +5,7 @@ institution: Yeshiva University
 volume: 3
 year: "2006"
 slug: jewish-women-economic-encounters
-description: >+
+description: >
   R. Yair Hayyim ben Moses Samson Bacharach (1638-1702) is well-known for his
   knowledge of halakha and Kabbalah. Over the course of his lifetime, he served
   as the rabbi in several locations in the Holy Roman Empire. In these two
@@ -89,34 +89,24 @@ And solely concerning the women: In addition, in order to find support [for thei
 
 ## Footnotes
 
-[^1]:
+[^1]: ‘Avodah Zara 22a.  
+[^2]: ‘Avodah Zara 25b.  
+[^3]: Gen. 34:31.  
+[^4]: See Berakhot 20a.  
+[^5]: The reference is to Sotah 41b, where the sages praised Agrippa, who was not worthy of such compliments. The Talmud continues: “R. Simon b. Halafta said: From the day the first of flattery prevailed, justice became perverted, behavior was ruined, and no one could say to his neighbor, ‘My behavior is better than yours.’”
 
-[^2]:
+[^6]: ‘Avodah Zara 26a. The context is a discussion of the permissibility of a Jewish wetnurse nursing a non-Jewish baby. R. Joseph argues that with payment, it would be permitted, due to animosity; Abaye demonstrates that in each situation, there is a plausible excuse for not performing the action, which would remove the possibility of ill will.  
+[^7]: ‘Avodah Zara 16a. This is the Talmud’s explanation for why selling weapons to Persians in contemporary times would be permitted, when Jewish law forbids the sale of weapons to idolators.  
+[^8]: The phrase stems from B. Bath 85b.  
+[^9]: Maharam Padua, Responsum 26. The text reads: “Beloved and friends residing in the city of Cassel...the news that I hear about you is not good, for you observe and remain silent and do not rebuke the daughters of Israel , women who go out, for among you, women go out to the markets and to each and every fair alone, like the merchants of the cities who travel from city to city to get drunk...they go alone and their husbands are not with them, neither are upright men to guard them.” Maharam continues, explaining that this transgresses the prohibition of seclusion with non-Jews, citing the Talmud in ’Avodah Zara.  
+[^10]: The text should read Maharam Mintz.  
+[^11]: Referring to R. Joseph Karo.
 
-[^3]:
+[^12]: The Shulhan Arukh reads: “One does not leave an animal in the inn of idolaters, and does not hand over an animal to their shepherds, for they are suspect of bestiality. And in those places where they are not suspect, but on the contrary, are beaten and punished for this, it is permitted.” Shulhan Arukh, Yoreh De’ah, 153.
 
-[^4]:
+[^13]: See ‘Avodah Zara 22b, where the Talmud explains that bestiality with the animal of a Jew was preferred by non-Jews to intercourse with their wives.  
+[^14]: Here, the Ritva discusses the question of non-Jewish wet nurses. In the Talmud (’Avodah Zara 26a) non-Jewish wet nurses are forbidden, as they are suspect of murder. The Ritva explains that in contemporary times, the reason why some people permitted non-Jewish wet nurses, since the suspicion that a non-Jewish wet nurse would murder the baby was not applicable, since there were laws governing murder. (Hidushei ha-Ritva, ’Avoda Zara 26)
 
-[^5]:
+[^15]: Based upon Bacharach’s response (see responsum 73,) it is possible to reconstruct Bacharach’s original argument. Bacharach cites the Tosafot in ’Avodah Zara 23a. Tosafot explain that minor infractions of seclusion with a non-Jew do not render a woman sexually forbidden to her husband. According to Tosafot, a woman is only considered to be sexually forbidden to her husband under circumstances in which the woman had been captured by a non-Jew and was subject to him as an animal would be. The logic is that just as he might engage in bestiality, he might engage in sexual relations with the woman, rendering her sexually impermissible to her husband. However, Tosafot explain that: “Where she was not under the hand of an idolater at all, and she was able to cry and there would be someone to save her, the idolater would definitely be fearful, and there is no reason to forbid her [to her husband.]” Tosafot cite the Jerusalem Talmud, where a distinction is drawn between animals and women, for women cry out. Bacharach’s original argument, made clear in responsum 73, was that due to economic necessity, women relied upon this leniency and entered into seclusion with non-Jews. While Stern disagrees with Bacharach, and argues that economic necessity cannot be used as a justification for seclusion, he concedes that this ruling of Tosafot could serve as an explanation of the women’s behavior.
 
-[^6]:
-
-[^7]:
-
-[^8]:
-
-[^9]:
-
-[^10]:
-
-[^11]:
-
-[^12]:
-
-[^13]:
-
-[^14]:
-
-[^15]:
-
-[^16]:
+[^16]: Deut. 17:11.  
