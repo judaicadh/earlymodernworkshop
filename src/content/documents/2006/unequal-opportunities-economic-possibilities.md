@@ -172,3 +172,4 @@ Prepared by Adam Teller, University of Haifa, Israel
 
 מתוך: ש' דובנוב (עורך), פנקס מדינת ליטא, ברלין ,1925 עמ' 257-258
 
+**Publisher:** S. Dubnow (ed.), Pinkas Medinat Lita, Berlin 1925
