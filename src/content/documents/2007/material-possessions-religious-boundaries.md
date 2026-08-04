@@ -54,5 +54,23 @@ This decree, along with the additional texts here, the trials from Lublin and Je
 
 ## Source 2 Original Text
 
+**שו''ת משאת בינימין סימן 86 ותקנות מדינת ליטא — Shu``T Masa'at Binyamin siman 86 ve-takkanot medinat lita, Benjamin Slonik and Council of Lithuania, 1632, 1637, 1650 (EMW Vol. 4, 2007, p. 197)**
+
+Benjamin Slonik, ShU"T Masa`at Binyamin [Responsa], no. 86
+
+שו"ת משאת בנימין סימן פו
+
+שאלה עכו"ם שואלים מישראל מלבושים ותכשיטים ביום חגיהם ולובשים אותם בשעה שנכנסין לבית תפלותם ואחר כך מחזירים אותן אי שר להשאיל להם בכה"ג מפני דרכי שלום אי לא
+
+Takkanot Medinat Lita:
+
+Takkanah 321, 1637 שכא:
+
+וכן כל בגד הנעשה דוגמות הבגרי' שמתלבשים בהם גוי' אסורי' איסור גמור.
+
+Takkanah 468, 1650:
+
+וגם יזהירו מאוד וישגיחו שלא ילכו הנשים במלבושים העשוי' כמלבושי גוי' ושלא להתלבש בהם.
+
 ## Source 3 Original Text
 
