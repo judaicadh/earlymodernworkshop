@@ -75,6 +75,8 @@ And we have followed the legal formality of symbolical delivery [*qinyan*] and h
 
 **טופסי דשטרי כתובת בת ישראל ותנאיה וכללותיה ופרטיה — Tofsi de-shitrei ketubat bat Israel, Itzhak Zabakh, 1635 (EMW Vol. 3, 2006, pp. 94–96)**
 
+The document was mentioned in M. Rozen’s article ‘The Position of the Musta’rabs in the Inter Community Relationships in Eretz Israel from the End of the 15th Century to the End of the 17th Century’ (in Hebrew), Cathedra, 17 (1980), pp. 73-101 (a photocopy on p. 86). Also in my book A Separate People, Leiden-Boston-Köln 2000, pp. 123-124. Some aspects of the ketubah are discussed in my comprehensive Hebrew article on Ms. Jerusalem 8°958 (Sefer Tikun Sofrim) which is currently in print, and will appear in the forthcoming issue of Tarbiz (no. 74, 2006).
+
 שטר כתובה מתוך כ"י בית הספרים הלאומי והאוניברסיטאי, ירושלים 958°8
 
 [דף 14 ע"ב – דף 16 ע"א, סימן א]
