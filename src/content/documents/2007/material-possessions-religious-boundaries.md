@@ -142,12 +142,6 @@ Responded that she did not know, did not see it.
 Asked how long this thief frequented her husband  
 Responded that about a year ago he was for two days and this year he was about two or three days and he stayed at my place.
 
-**Endnotes**
-
-[1] Examples of the *zupan* maybe seen at [http://www.kismeta.com/diGrasse/Costume](http://www.kismeta.com/diGrasse/Costume) /AZupan1_1630.jpg and [http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg](http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg) and a discussion of Polish costumes can also be seen at [http://www.kismeta.com](http://www.kismeta.com) /diGrasse/polish_costume_polski_ubior.htm
-
-[2] The Crown Tribunal worked between the first Monday after the first Sunday following Easter [Dominica Conductus Paschae] until all cases were tried but usually no longer than August 24.
-
 ## Source 1 Original Text
 
 **Dekret Trybunału Litewskiego przeciwko Żydom brzeskim**  
@@ -190,6 +184,70 @@ Takkanah 468, 1650:
 
 ## Source 3 Original Text
 
+**Dwie sprawy kryminalne w Sądzie miasta Lublina**
+
+**Wyjątki z aktów sądowych**
+
+**1625, 1638**
+
+**[AP Lublin, 141, 64-77] a 1625 case against four Christians robbing Jewish merchants.**  
+[67] Tertius, Stanislaus Gay seu Gaiek utroq titulo nuncupatus  
+Pytany kedy by miał gospodę
+
+Powiedział na Dananskiem  
+Pytany o Muchaierze  
+Powiedział przyszedł do mnie Cherlinski y rzekł bracie tam iest Muchaieru kilka sztuk w boru rozbiliśmy Żydy, pouciekaliśmy, zostawilismy go w boru ale ia oniem niewiem [67v] Pytany kędy tę czapkę wziął ktora na niem iest gdyż iest żydowska.  
+Powierział ze mu ią Dłuski dał  
+Pytany czymby się bawił  
+Odpowiedział ze się bawił przy iatkach Żydowskich byłem kozołupem.  
+Pytany z częstoby sie przy złodzieiach bawił  
+Odpowiedział Niewiedziałem o tym żeby się bawieli ta robotą gdyż nie byli o to osadzeni.
+
+Quartus  
+Joannes Wisienka Wisniowski seu Szypowski diverso vocabulo nominatus Pytany iesli był przy rozbiciu iako na niego powiadaią  
+Zeznał ze był w ten czas kiedy Żydy rozbito pod Chmielem iest temu tydzień Pytany iesli ten czas Szorc wzięto  
+Powiedział ze w ten czas  
+Pytany wieleby przy rozbiciu [68] pieniędzy wziął Żydom  
+Zeznł zem ia był przytem kiedy Gaiowski wziął pieniądze Żydowi a iam tilko wziął kopieniak, cztery nas było Przytem ieden Dłoski Jasiek Gaiewski a ia czwarty Pytany iesli te rzeczy przedawał rozbite.
+
+201
+
+EMW -Workshops
+
+EMW 2007
+
+Powiedział ze dał mi do przedania Gaiewski to iest cewkę iedną złota a drugą srebrną Pytany kędy Żydów rozbili  
+Powiedział nas switaniem pod Chmielem  
+Pytany o Czwelich y o Xięgi Żydowski y o insze rzeczy niemało ktore Żydom pobrali mianowicie o pieniądzach czterdziestu złotych,
+
+Do niczego się nie przyznał....  
+[69] Przetoż iz takowi się złoczyńcy znaiduią ktorzy in uiis publicis homines pacificos infestant y ktorzy tak od JeMci Pana Podstarościego Lubelskiego iako y a Spectabili Senatu Consulari Lublinensi są do ninieyszego Gorącego zagaiąnego profacienda ultimaria et finali exequutione odesłani Proszę tedy imieniem Principałow moich zeby pierwey torturis examinowani byli potym paenis in jure descriptis pokarani....
+
+[71v, testimony under torture] Rybak zeznał ze siostry moie iedna iest szwaczką a druga rzeźniczką... tractus tertio zeznał zona moia kazała sobie z żydowskiey sukniey suknie zrobić  
+Zeznał ze Gaiek o wszystkich rzeczach wie bo ich przedawał
+
+Zeznał ze serdak zydowski na niem iest....
+
+**[AP Lublin 141, 244-245] a 1628 case of Jew Jacob Zagiera against Catherina Rogulszczyna, the wife of Albert Rogulla:**  
+[244] Postmodum praefata Catherina Rogulszczyna per [244v] Judicium praesens quaesita Jesly wiedziała o rzeczach kradzionych ktore do męża iey Kwiatanowski z drugiemi złodzieiami przynosił.
+
+Odpowiedziała ze teraz dopierom sie dowiedziała kiedy ten Żyd szukał swey zguby, iednak domyslyłam sie ze to rzeczy żydowskie ktorych dał sobie robic Żupan.  
+Pytana iak dawno złodzieyskie rzeczy brał iey mąż  
+Odpowiedziała ze tak rok strony tegosz złodzieia moi mąż miał kłopot a to sie w Trybunał działo
+
+Jednak ia swemu mężowi nie raz mowiła zeby sie złodzieystwm nie bawił ale mie biiał barzo zebym na niego nie wołała.  
+Pytany kędy szaty są Żydowskie.  
+Odpowiedziała ze ie mąż przedał na Krakowskiem przedmieściu a drugie przerabiał. [245] Pytana iesly sama brała szaty od tego złodzieia
+
+Odpowiedziała zem ia nie brała ale mąsz moy.  
+Pytana iesly iey mąż kradał  
+Odpowiedziała nie wiem, nie widziałam tego.  
+Pytana dawno by ten złodziey u męża bywał  
+Odpowiedziała ze tak rok był dwa dni a tego Roku był albo dwa dni alebo trzy dni y u mnie nocował.
+
+**Archive:** Archiwum Państwowe w Lublinie, Akta m. Lublina 141, fols. 64-77 and 244-245  
+
+
 Footnotes
 
 [^1]: Popular since the fifteenth century, known also in Italian as drappo d’oro, or tela d’oro. See, Nina Kudiš Burić (Department for Visual Arts, Faculty of Arts, University of Rijeka, Croatia), “Odjevanje, svakodnievni Život i hrana u krku od 12. do kraja 13. stoleća-dominacija venecijanske kulture,” [http://www.grad-krk.hr/docs/GradKrkHR/documents/57/Original.doc](http://www.grad-krk.hr/docs/GradKrkHR/documents/57/Original.doc)  
@@ -199,6 +257,6 @@ Footnotes
 [^5]: I.e. those Jews who actually committed the crime.  
 [^6]: For explanation of the term ‘rok zawity’ or ‘terminus peremptorius’, see, Stanisław Kutrzeba, *Dawne polskie prawo sądowe w zarysie* (Lwów, Warszawa, Kraków: Wydawnictwo Zakładu Imienia Ossolińskich, 1927), 82—83.
 
-[^7]: 
+[^7]: Examples of the *zupan* maybe seen at [http://www.kismeta.com/diGrasse/Costume/AZupan1_1630.jpg](http://www.kismeta.com/diGrasse/Costume/AZupan1_1630.jpg) and [http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg](http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg) and a discussion of Polish costumes can also be seen at [http://www.kismeta.com/diGrasse/polish_costume_polski_ubior.htm](http://www.kismeta.com/diGrasse/polish_costume_polski_ubior.htm)
 
-[^8]: 
+[^8]: The Crown Tribunal worked between the first Monday after the first Sunday following Easter [Dominica Conductus Paschae] until all cases were tried but usually no longer than August 24.
