@@ -86,6 +86,68 @@ And they will also warn [strongly] and assure that [Jewish] women shall not go a
 
 ## Source 3 Translation
 
+**Two criminal cases in the court of the city of Lublin**
+
+**Excerpts from court records**
+
+**1625, 1638**
+
+**[AP Lublin, 141, 64-77] a 1625 case against four Christians robbing Jewish merchants.**  
+Third [accused] Stanislaus Gay or Gaiek, called both names  
+Asked where he lived
+
+Responded on the Dananskie  
+Asked about *muchaier* [a satin fabric]  
+Responded Cherlinsky came to me and said brother there are a few pieces of *muchaier*, we robbed Jews in the forest, run away and left it [the fabric] in the forest but I don’t know about it.  
+[67v] Asked where he got the hat he is wearing because it is the Jew's.  
+Responded that Dłuski gave it to him  
+Asked what was his occupation  
+Responded that he worked at the Jewish butchers’ stalls, he was *kozołup* [one who removes skin of the slaughtered animals]  
+Asked is he frequently worked with the thieves  
+Responded I did not know that they engaged in this job because they were never imprisoned for this
+
+Fourth [accused] Joannes Wisienka Wisniowski or Szypowskie named with diverse names  
+Asked if he was present at the robbery as they charge him  
+Confessed that he was there at the time when Jews were robbed near Chmiel that is a week ago
+
+Asked if the *szorc* [woolen fabric or woolen skirt] was taken at the time Responded that [it was taken] at the time
+
+Asked how much money he took from Jews during the robbery  
+Confessed that I was present when Gaiowski took money from the Jews I only took a cloak, there were four of us at the time, one Dłoski, Jasiek, Gaiewski and I, the fourth Asked if the sold any of the stolen things  
+Responded that Gaiewski gave me to sell, that is one silver pipe [or reel, *cewka*] and the second golden  
+Asked when they robbed the Jews  
+Responded around dawn near Chmiel  
+Asked about twill [czwelich] and Jewish books and other not a few things which they took from Jews, namely about money, fourty zloty  
+He did not admit to anything....  
+[69] Therefore because such criminals are found who on public roads attack peaceful people and who are sent by His Honor Lord vice-captain of Lublin and the notable Senate of the Lublin Council to this Summary Open court in order to reach the ultimate and final punishment, I therefore request on behalf of my superiors that they first be examined under torture and then punished according to the punishments prescribed by law....  
+[71v] Rybak confessed [under torture] that one of my sisters is a seamstress and another a butcher...*tractus* for the third time confessed that my wife had a dress made of the Jewish [or Jew's] dress  
+Confessed that Gaiek knows about all the things because he was selling them  
+Confessed that he is wearing the Jews jacket .....
+
+**[AP Lublin 141, 244-245] a 1628 case of Jew Jacob Zagiera against Catherina Rogulszczyna, the wife of Albert Rogulla:**  
+Presently, the above mentioned Catherlina Rogulszczyna was questioned by the court: whether she knew of the stolen things that Kwiatkowski with other thieves would bring to her husband
+
+Responded that only now did I find out when this Jew was looking for his loss, but I suspected that these were the Jew's things from which he [the husband] had a costume [*żupan*][^7] made.  
+Asked how long has her husband been taking stolen things
+
+Responded that [it’s been] about a year that my husband had problems with this thief and it was around the [time when the] Tribunal [met].[^8] But I told my husband not once not to engage in thievery but he would beat me up a lot so that I would not nag him. Asked where the Jewish robes are.
+
+Responded that my husband sold them in Krakowskie przedmieście and the second was retailored.  
+Asked if she also took robes from this thief  
+Responded that I did not, only my husband.
+
+Asked if her husband stole.
+
+Responded that she did not know, did not see it.  
+Asked how long this thief frequented her husband  
+Responded that about a year ago he was for two days and this year he was about two or three days and he stayed at my place.
+
+**Endnotes**
+
+[1] Examples of the *zupan* maybe seen at [http://www.kismeta.com/diGrasse/Costume](http://www.kismeta.com/diGrasse/Costume) /AZupan1_1630.jpg and [http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg](http://www.kismeta.com/diGrasse/Costume/Ubior/fot31.jpg) and a discussion of Polish costumes can also be seen at [http://www.kismeta.com](http://www.kismeta.com) /diGrasse/polish_costume_polski_ubior.htm
+
+[2] The Crown Tribunal worked between the first Monday after the first Sunday following Easter [Dominica Conductus Paschae] until all cases were tried but usually no longer than August 24.
+
 ## Source 1 Original Text
 
 **Dekret Trybunału Litewskiego przeciwko Żydom brzeskim**  
@@ -136,3 +198,7 @@ Footnotes
 [^4]: I.e. the Jewish community.  
 [^5]: I.e. those Jews who actually committed the crime.  
 [^6]: For explanation of the term ‘rok zawity’ or ‘terminus peremptorius’, see, Stanisław Kutrzeba, *Dawne polskie prawo sądowe w zarysie* (Lwów, Warszawa, Kraków: Wydawnictwo Zakładu Imienia Ossolińskich, 1927), 82—83.
+
+[^7]: 
+
+[^8]: 
