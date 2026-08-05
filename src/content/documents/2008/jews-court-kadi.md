@@ -97,7 +97,7 @@ Publisher: Darkei No'am, Venice 1697, Even Ha'ezer, 35, 117b
 Footnotes
 
 [^1]: Hacker, “Jewish Autonomy,” and more concisely, idem, Hacker, “Spanish Exiles in the Ottoman Empire,” 469–70. On this tax see above, Chapter Four.  
-[^2]: Hacker, “Chief Rabbinate”; Cohen, *Jewish Life*, 36-56**.**  
+[^2]: Hacker, “Chief Rabbinate”; Cohen, *Jewish Life*, 36-56.  
 [^3]: For *haskamot* dealing with this issue, see the subject index of Hacker and Ben-Naeh, *Ordinances*. See also Leah Bornstein-Makovetsky, “Jewish Informers in the Ottoman Empire in the 16th–17th Centuries,” in *Jerusalem, City of Law and Justice*, ed. Nahum Rakover (Jerusalem 1998), 309–24; Eliahu Z. Ben-Zimra, “On Informing in Jewish Community Life in Recent Ages,” in *Sefer Aviad: A Collection of Articles and Studies in Memory of Yeshayahu Wolfsberg-Aviad*, ed. Yitzhak Raphael (Jerusalem 1986), 124–28 (Hebrew).  
 [^4]: See, in exenso, Rossitsa Gradeva, “Orthodox Christians in the Kadi Courts: The Practice of the Sofia Sheriat Court, Seventeenth Century,” *Islamic Law and Society* 4 (1997): 37–69. For prohibition of local Christians and Europeans against applying to the *kadi*’s court, see also Goffman, *Britons*, 51. For Europeans who refrained from appearing in the *şaria* court, see Masters, *Origins*, 66–68.  
 [^5]: Danon, “La Communauté juive de Salonica” (part II): 112–15. The *haskamah* seems to have been renewed in Istanbul during the late 1550s and also sent to Salonika; see Rozen, *In the Mediterranean Routes*, 138–43.  
