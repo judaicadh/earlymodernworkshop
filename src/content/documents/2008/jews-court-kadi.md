@@ -5,7 +5,7 @@ institution: Hebrew University of Jerusalem
 volume: 5
 year: "2008"
 slug: jews-court-kadi
-description: >+
+description: >
   One of the most astonishing phenomena of Jewish life in the Ottoman state is
   the widespread appeal to the kadi's court - a muslim court. I intend to
   describe the frequency of this norm, against explicit regulations, and explain
@@ -59,6 +59,14 @@ Turning to a Gentile court seem to have achieved legitimacy and became normative
 While the Jewish communities in the major Ottoman cities were aware of how much their autonomous judicial system was unique and would boast about it to foreigners, the *hakhamim*’s judicial authority was not universally accepted. There is even some evidence of challenging the authority of the religious courts and their judges as part of the wider phenomenon of abasing the Torah and its learners. For some persons, the *hakhamim* were a thorn in the flesh. They disregarded their decisions and refused to comply with sentences issued against them, at times even expressing outright denial of the judicial authority of the court’s *dayyanim* and the validity of the *halakhah*. There were cases in which this deteriorated to informing against the *hakham* (as with Radbaz in Jerusalem)or the *dayyanim*, or even to physical attacks against them.
 
 ## Source 1 Translation
+
+**Darkei Noam (Pleasant Ways)**
+
+**Mordekhai haLevi, 17th century**
+
+R. Mordekhai haLevi, Darkei No'am, Venice 1697, Even Ha'ezer, 35, 117b:
+
+"Reuven quarreled with Shimon his father in-law and they went to the Muslim court and Shimon spent money for bribery and brought false Jewish witnesses and they declared that Reuven divorced his wife in front of them in the Muslim manner in *talak tlata* [=triple divorce] in which according to their law it is impossible to remarry her unless in an illicit way which is forbidden for us; and with many frauds and bribes that Shimon gave they [=the *kadi'*s court] received and affirmed the testimony of these scoundrels, and then Shimon charged again Reuven his daughter's dowry, and the court ordered him to pay this huge sum of about 3000 gurush and the sum has been written in a *hujjet-i sher'iyye*. And after all that they came before the beyt din and Shimon told Reuven that if he will divorce his daughter with a valid get he will concede that debt and he would tear the *hujjet*, but if he won't, he would imprison him and would harass him in any possible way because of this debt, and Shimon was a forceful person that was able to do so. And the members of the *beyt din yud bet* told them that if Reuven will be reconciled to divorce as long as the *hujjet* and the obligation will exist, he is considerd as divorcing because of *ones* and under duress, therefore there is no other way but that he shall tear the *hujjet*, and will write a *berat* that he paid his debt, otherwise it is not enough, as he might make a copy of the hujjet from the *sijil*, as they are accustomed to do. Anyhow the *beyt din* members were worried because of the *talak tlata* as in the muslims law the husband can not possibly remarry his divorcée unless through a forbidden manner which may not be done. Therefore, even though the ones of the debt and the pestering Reuven is still not allowed to keep her, so he is still anus (=compelled) in giving the get. But this has been solved of itself, as the woman was pregnant while the *talaq* has been done, and then she gave birth to a baby boy, and the gentile sages gave a *fetva* that n a case such as that a woman is allowed to return to her husband because her birth of a baby boy comes instead of *istihlal* which according to them allows her remarriage; but now we come back to the ones of the aforementioned hujjet; and some of the decisors advised to list debts and fines on the father of Reuven, by writing a hujjet on the father for a known sum, and it shall be given to a third party, and if after tearing the hujjet written on Reuven he will be willing to divorce, they shall tear the second hujjet as well, but if he shall not want to divorce then the third person shall hand the second hujjet to Shimon and he will be repayed [117c] the other sum which he [Reuven]owed, and that this is not ones for he divorces by his own will, therefore he ordered to act in this manner. And the plaintiff asked wether it is indeed sufficient to remove the ones of the get, or not.
 
 ## Source 2 Translation
 
