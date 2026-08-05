@@ -70,9 +70,29 @@ R. Mordekhai haLevi, Darkei No'am, Venice 1697, Even Ha'ezer, 35, 117b:
 
 ## Source 2 Translation
 
+**The court records of istanbul**
+
+**1662**
+
+**Hasköy, vol. 3, p. p. 82 «Divorce and Dowry-I»**
+
+Poshtire binti Avraham the Jewess who lives in the Kiremitçi Ahmet Çelebi neighborhood in Hasköy, came to the court and sued Bunyamin v. Hanuka the Jew: “The mentioned Binyamin used to be my husband. He divorced me with an Islamic formula of *talak-i selase,* but now he wants to remarry me. I ask you to question him and forbid him to approach me.” After questioning, the mentioned Avraham denied the charge and said: “Three years ago I married to her and our dowry was 100 *riyali guruş*. Two months ago she took her belongings and left the home for her father’s home.” When the mentioned Poshtire was asked to bring evidence for her case, Musa v. Yahuda and Kalef v. Baruh the Jews from the same community offered their testimonies according to which the events took place as the mentioned Poshtire described. After their testimonies were accepted, what happened was registered on 25 Şevval 1072 (12 June 1662).
+
+**Hasköy, vol. 3, p. page 83 «Divorce and Dowry-II»**
+
+Poshtire binti Avraham the Jewess, who lives in the Kiremitçi Ahmet Çelebi neighborhood in Hasköy, came to the court and sued Bunyamin v. Hanuka the Jew: “The mentioned Bunyamin married to me three years ago, and agreed to pay 100 *guruş* as a delayed dowry. When he divorced me, I sued him to get the money. At the beginning he denied that he had divorced me, but then the court decided in favor of me. However, he has still not paid the money. I request from you to question him”. After questioning, the mentioned Bunyamin accepted that he owed her 100 *guruş*. He was demanded to pay the money to her in full. What happened was registered on 29 Şevval 1072 (16 June 1662).
+
 ## Source 1 Original Text
 
+R. Mordekhai haLevi, Darkei No'am, Venice 1697, Even Ha'ezer, 35, 117b:
+
+‫ר' מרדכי הלוי, דרכי נעם, ונציה תנ"ז, אה"ע, לה, קיז ע"ב: "ראובן נתקוטט עם חמיו שמעון ונתעצם הריב והלכו לעש"ג ופיזר שמעון הוצאות ושוחדו'[ת] והביא עידי שקר פריצים מבני עמינו והעידו שבפניהם גירש ראובן את אשתו בתו של שמעון הנז' בנימוסי הגוים בטָלָא"ק תְ לַאתָ "א שאי אפשר כפי נמוסיהן לחזור לכונסה כי אם בדרך איסור ועבירה שאי אפשר ליעשות בדינינו ועל ידי רוב הונאות ושוחדות שפיזר שמעון הנז' קיימו וקבלו עדות אלו הפריצים וחזר אח"כ שמעון ותבע מראובן סכי כתובת בתו וחייבוהו בערכאותיהן לפרוע הסך של הכתובה והוא סך גדול קרוב לשלשה אלפים גרושוש ונכתב הסך הנז' בחוג'ה שרעייא ואח'[ר] כל זה באו לב"ד ואמר לו שמעון לראובן הנז' שאם יגרש בתו ויפטרנה בגט כשר ימחול לו אותו חוב ויקרע החוג'ה ואם לאו יאסרנו בבי'[ת] האסורים ובנגישות בכל הבא בידו בעד פרעון החוב הנז' והיתה ידו של שמעון תקיפה לעשות ככל היוצא מפיו. אמרו להם הב"ד י"ב שאם באולי יתרצה ראובן לגרש כל עוד שהחוג'ה וחייובה קיימת הרי זה מגרש מחמת אונס ומפחד החוב והנגישות שיש לאל ידו לעשות לכן אין שם שום תקנה אלא שיקרע החוג'ה וגם יכתוב לו ברא"ה [=בראת] ר"ל [=רוצה לומר] שהגיעו החוב שאם לא כן אין בקריעת החוגא ממש שיכול לחזור להעתיקה מן אַל סִ גִי"ל כמנהגם. ומ"מ היה לבם של ב"ד נוקפם מענין הטלא"ק תלאת"א כיון שבדיניהם אינו יכול להחזירה בשום פנים כי אם דרך איסור ועבירה שאי אפשר ליעשות. אם כן אעפ"י שיתבטל אונס החוב והנגישות עדיין אינו רשאי ראובן לקיימ'[ה] ואם כן הוה ליה מצד זה אנוס עדיין בענין נתינת הגט, אלא שלזה נתקן הדבר מאליו שהיתה האשה מעוברת כשנעשה הטלא"ק ואח"כ ילדה זכר ובאה פֶתְ וַו"א מחכמי הגוים שכשאירע ענין כזה הותרה האשה לחזור לבעלה אחר הטלא"ק כי לידתה זכר הוא במקום אסתחלא"ל המתיר בנימוסיהם אלא שחזרנו לענין אונס החוג'ה הנז'; ויש מן המורים שהורו לעשות על אביו של ראובן חובות וקנסות דהיינו שיכתבו על האב חוג'ית בסך ידוע ויותן ביד שליש אם אחר קריעת החוג'ה של אותו החוב הנכתב על ראובן בנו יתרצה ויפטור את אשתו בגט כשר יקרעו גם זאת החוג'[ה] השני'[ה] ואם לא יאבה ראובן לגרש אז ימסור השליש החוג'ה השנית ביד שמעון ויפרע ממנו [קיז ע"ג] אותו הסך השני הכתוב עליו ושזה אינו אונס דמגרש [מ]עצמו ולכן הורה לעשות תקנה זו. ושאל השואל אם יש בתקנה זו ממש לסלק אונס הגט או לא"‬‎
+
+Publisher: Darkei No'am, Venice 1697, Even Ha'ezer, 35, 117b
+
 ## Source 2 Translation
+
+**See image on PDF**
 
 Footnotes
 
