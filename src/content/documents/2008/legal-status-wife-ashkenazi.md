@@ -295,6 +295,10 @@ Gloss ha-RemuPrecisely in places in which we know [positively] that the enactmen
 
 ## Source 3 Original Text
 
+**Shulhan `Arukh, HaGahoth ha-Rama**
+
+**Moses Isserles, 2nd half of the 16th century, 1st half of the 17th century**
+
 ‎‫שולחן ערוך, הגהות רמ''א
 
 ג. שולחן ערוך והגהות הרמ"א, אבן העזר, סימן א סעיף י'
