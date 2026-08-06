@@ -201,6 +201,9 @@ Gloss ha-RemuPrecisely in places in which we know [positively] that the enactmen
 
 ## Source 1 Original Text
 
+**Shut Maharshal, Siman 14**  
+**Maharshal (Solomon Luria), 16th-17th century**
+
 ‎‫שו''ת מהרש''ל  
 סימן י''ד
 
