@@ -123,6 +123,39 @@ This is the words of Shlomo Luria.
 
 ## Source 2 Translation
 
+**Responsa Maharshal No. 65**
+
+**Shut Maharshal**
+
+**מהרש''ל -שלמה לוריא**  
+**16th-17th Century**
+
+Res. Maharshal, Ch. 65
+
+**Question: A wife whose menstruation was disrupted**
+
+A man who was married some years and lived together until she was subjected to the rigor of the law and having deteriorated to the point where she saw blood with the occasion of each intercourse and he was prohibited from having intercourse with her. The question is: do we allow the man to divorce her against her will? although R. Gershom’s ban prohibits divorcing [a wife] against her will, in such a case this is permitted because R. Gershom had not issued the ban in order to annul the commandment to be fruitful and multiply. This is not less serious than the case in which the wife became insane that he [the husband] was allowed to divorce her against her will by proxy and deposit her Ketubba so that she receives her *get*. [The reason for this is] the commandment to be fruitful and multiply, [which applies] even if she may recover and return to sanity. All the more so here, when she has no chance of recovering and returning to live with the man, he is allowed to divorce her against her will.
+
+**1. The case of the Italian student whose wife became insane**
+
+Although divorcing a woman against her will in case of insanity is obvious to you, this is not my position. here is a copy of what I wrote some time ago about a case that occurred at a place where scholars gathered. A young scholar arrived from Italy to this kingdom to study in the Yeshivot here. His wife had become insane in his country some years earlier. After studying about two years, the matchmaker offered him a woman and he agreed. But the father of the virgin and her relatives opposed it until he obtained permission from our rabbis that he was allowed to marry another wife. And he was brave as a lion and quick as a gazelle to fulfill the requirements [of the father and of the relatives], and asked our rabbis to permit him to divorce [his Italian wife] and marry another.
+
+**2. The position of Rashal in the case of the Italian student**
+
+I refused to agree with them but I did not oppose them either, as I had no halachic arguments with which to contradict their position, as their argument was that R. Gershom, the light of the Diaspora, did not enacted [his ban] in order to annul the commandment to be fruitful and multiply. And they [the rabbis] allowed him to deposit a *get* with a proxy so that if she returned to sanity she would receive the *get* and her Ketubba. After the deed was done it was done [and we can not change it], but my conscience nagged me. And some years later I searched in the big book of Ravia and found that the great sages had forbidden [this action] in practice [in the case of the insane], and here are their responsa...
+
+**3. Ravia absolutely prohibited lifting R. Gershom's ban**
+
+We briefly answered R. Simcha about the insane wife. We inform our teacher about [another] case, that of R. Shmuel b. Azriel of Mainz, whose wife was insane like the wife about whom you wrote us. And he [R. Shmuel b. Azriel] and his father came to the synod of the communities and several times cancelled the prayers because of canceling the commandment to be fruitful and multiply, and he demanded to lift the ban of R. Gershom. And they [the rabbis of the synod] refused to lift the ban and argued that it is better to loose one soul and not to cause a breakdown for the coming generations. He also went to Bonn, and there also the rabbis refused to lift the ban. Similarly in the current case, we are wary of lifting the ban, especially because in the case [of R. Shmuel b. Azriel] there were rumors about concealed relations [between R. Shmuel b. Azriel and another woman] and even so they refused to grant permission.
+
+**4. The position of Rashal in the case of the insane wife**
+
+And from now on my [Rashal] opinion is to forbid him even *post factum* to divorce her by a proxy who holds the *get* and the Ketubba until she may recover.All the more so if he divorces her [directly] with the wife receiving the *get*, even if she were able to keep the *get* and check it, but she is unable to keep herself [from men] even if she has a father or a brother [to keep her]. And this is also the case [the divorce is not valid] of a wife who is at times sane and at times not.  
+Moreover I say that even in case that the wife is at times entirely sane and agrees to receive the *get*, and her relatives also agree, it is forbidden to divorce her without permission of the court, which would verify the truth of the facts, i.e., that she would be kept from looseness. But without their [the court’s] consent, I decline to allow the husband to marry another wife even if she [the first wife] was entirely sane at the time of receiving the *get*.  
+**5. Menstruation disorder is not a ground for lifting the ban**
+
+You assume that it is absolutely legitimate to divorce an insane wife because you heard the case of the young scholar [from Italy], and I did not oppose it at the time. But from now on my opinion is to forbid it. Similarly in the case [of menstruation disorder] you asked me about, I have no power to lift the ban and permit divorcing her against her will, as we can argue that his field was swept away. Even though, the sages in this town, has to put in effort and try to attract her so that she would agree to receive willingly the Get.
+
 ## Source 3 Translation
 
 **Introduction**
