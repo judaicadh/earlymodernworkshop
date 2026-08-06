@@ -146,6 +146,26 @@ Additional reading:
 2. E. Westreich, "The Commandment of Procreation in Jewish Law in the Sixteenth Century Ottoman Empire",(Hebrew) *Te'euda*, Vol. 13, (1997) 195-240.  
 3. E. Westreich, “The Ban on Polygamy in Polish Rabbinic Thought”, *Polin* Vol. 10 (1997) 66-84.
 
+**Source**
+
+**Shulkhan Arukh, Glosses by Moses Isserles**  
+**Even Ha-Ezer, 1:10**  
+**Shulhan `Arukh, HaGahoth ha-Rama**  
+**Moses Isserles, 2nd half of the 16th century, 1st half of the 17th century**
+
+**ג. שולחן ערוך והגהות הרמ"א, אבן העזר, סימן א סעיף י'** 
+
+(Shulchan Aruch and Hagahoth Remu, Even Ha-Ezer, 1:10 )
+
+R. Gershom banned a man who married bigamously, but in a case of a levirate marriage ]yevamah] he did not ban, and neither did he in the case of a betrothed woman.
+
+1. Gloss ha-Remu: If he refuses to marry [the betrothed] but wants to divorce her. The rule applies in case a commandment is not observed, like the case of a man who stayed with his wife for ten years and she has not given birth. But there are sages who oppose this and maintain that the ban of R. Gershom is valid also if the commandment is not observed and even in the case of a levirate marriage, and he [the husband] must perform halitza [to his brother's widow]. But, if the first wife is not divorceable, as in the case that she has become insane or she is obliged to be divorced but refuses to receive the *get*, we can be lenient and allow him to marry another wife, all the more so if she is betrothed but refuses to marry him or to divorce him.
+
+2. And his enactment had not spread to all the countries.  
+Gloss ha-RemuPrecisely in places in which we know [positively] that the enactment had not spread, but probably it is the usage in every place. See *Yoreh Deah*, Ch. 228, if he moved from a place where the custom was strict to one where it was applied leniently.
+
+3. And he did not ban but until the end of the fifth millennium. Gloss ha-Remu: In all these countries the enactment and the custom are still valid, people do not marry bigamously, and [the authorities] use banishment and ban to coerce those who married bigamously to divorce one of them. Some sages say that in these days it is not allowed to coerce [by banishment] a man who violated the ban of R. Gershom, as the fifth millennium has ended, but we do not conduct ourselves according to this view. Some sages say that a man whose wife converted grants the *get* to a another [as her proxy] and is permitted to marry another, and this is the usage in some places. But in places in which there is no a specific custom [and a requirement to deposit a *get*] there is no need for strictness and it is permitted to marry another without divorcing the first wife.
+
 ## Source 1 Original Text
 
 ## Source 2 Original Text
