@@ -266,6 +266,8 @@ Gloss ha-RemuPrecisely in places in which we know [positively] that the enactmen
 
 ## Source 2 Original Text
 
+**Shut Maharshal**
+
 ‎‫שו''ת מהרש''ל  
 סימן ס''ה
 
