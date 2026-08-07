@@ -195,116 +195,63 @@ Footnotes:
 [^4]: In fact, *neziqin* has ten *masekhtot*, not eight, while *Tohoroth* has twelve, not thirteen. There are a total of sixty-three *masekhtot*, not sixty-two. Masius might have considered the first three *masekhtot* of *neziqin* (*Baba Kamma*, *Baba Metzia* and *Baba Bathra*) as one, as they are sometimes considered one tri-partite tractate. However, in his commentary he also refers to *Baba Bathra* as an individual tractate.  
 [^5]: Masius’ chronology on Rabbi Ashi here is correct. He died c. 427 C.E., and was therefore indeed active some 350 years after the destruction of the Second. Temple. Also, the idea that Rabbi Ashi was the final editor of the Babylonian Talmud was common, and even supported by such authorities as Rashi and Maimonides. However, a few rabbi’s are mentioned in the Talmud who are now known to have lived later than Rabbi Ashi, and his editorship is no longer supported. See R. Hidary, *Encyclopedia Judaica* (2nd ed., 2007), s.v. ‘Ashi’.  
 [^6]: The description of the Talmud here is longer than that of any other book in this list, and its clear discussion, *seder* by *seder*, seems intended not only to display his own panoramic understanding of this vast and dense work, but – as the closing remark suggests – also to dispel what myths and prejudices even his most learned reader might well have of the most reviled book of the early modern period.  
-
-
 [^7]: Masius is referring here to the long-lost midrashic anthology by Moses ha-Darshan of Narbonne, now thought to be the basis for *Genesis Rabbati*. His information on Moses ha-Darshan could well have come from his copy of the *Sefer ha-Yashar*, noted in this list, as well as from Martini’s *Pugio Fidei*, which refers to it on numerous occasions. Both here and in his note on what he calls the ‘midrashot’ we can see Masius consulting what material he has at his disposal to attempt to reconstruct the history of early rabbinic literature.  
-
-
 [^8]: Elijah Levita and Sebastian Münster, *Masoret ha-Masoret* (Basel: Henricus Petri 1539). Masius leaves unmentioned here that this edition is bilingual, and that the Latin translation of the *Sefer ha-Ta’amim*, which accompanies it, has a dedicatory epistle by the translator, Sebastian Münster, to the young Andreas Masius whom Münster calls ‘hebraicae linguae studiotissim[us]’. Among other praises, Münster notes that Masius had written him letters in Hebrew.  
-
-
 [^9]: The *Mekhilta de-Rabbi Yishmael*, correctly identified by Masius as a commentary on (only part of) Exodus. Masius’ copy might be one of either two editions that had been printed by his day (Constantinople: Astruc de Toulon from Provence 1515) or (Venice: Daniel Bomberg 1545).  
-
-
 [^10]: By Masius’ day, several editions had appeared. His copy might have been that printed in Constantinople (*Midrash Tanhuma haniqra yelammedenu*, Constantinople: Shlomo ben Mazal Tov, 1520-2), Venice (*Tanhuma haniqra yelammedenu*, Venice: Cornelio Adelkind for Daniel Bomberg, 1545), or that printed in Mantua (*Midrash Tanhuma haniqra yelammedenu*, Mantua: Giacomo Ruffinello for Meir ben Ephraim of Padua and Ezra ben Isaac of Fano, 1563). Based on the numerous ascriptions in the text itself, Masius ascribes the work as a whole to Rabbi Tanhuma bar Abba.  
-
-
 [^11]: It is unclear from this description whether the work in question is the *Seder ‘Olam Rabba* or the *Seder ‘Olam Zuta*.  
-
-
 [^12]: As in note 2 on what he calls the ‘rabbot’, we see Masius struggling to reconstruct the history of early rabbinic literature. While he has trouble seeing the midrashic forest through the trees of his library, he already grasps that there are several different historical layers to this rich body of literature, and that midrashic works are of a different kind than say, halakhic treatises and responsa-literature, philosophy or kabbalah. The *editio princeps* of the *Midrash Shmu’el* was printed in Constantinople (1517), but since they are here mentioned together, it seems more likely that Masius’ copy was that of Venice 1546, in which  
-
-
 [^13]: [Rabbi Achay of Shabha] *She’eltot de-Rav Ahai Ga’on* (Venice, Daniel Bomberg 1546)
 
 [^14]: The work in question is quite possibly the Zohar, as Masius refers in his commentary (p. 14), to ‘R. Simeon Iohai filius [...] qui librum Zohar in Pentateuchum scripsit’.  
-
-
 [^15]: No doubt the Bomberg edition (Venice: Cornelio Adelkind for Daniel Bomberg 1545)  
-
-
 [^16]: This description suggests a convolute volume containing mss bound together with a printed work, not an uncommon phenomenon.  
-
-
 [^17]: The Hebrew original is by Joseph ben Abraham Gikatilla, and Masius’ copy would have been one of two editions, (Mantua: Jacob ben Naftali ha-Cohen 1561) or (Riva di Trento: Jacob Marcaria 1561). The Latin translation by the famous convert Paul Ricci is *Portae Lucis* (Augsburg: Johann Miller 1516). Though he doesn’t mention it here, from his notes on *Shaarey Tsedeq*, furtheron in this list, it is clear that Masius knows the author of both books to be Joseph ‘Nyctelo’ – a misreading of the first letter of Gikatilla as a *nun* rather than a *gimmel*, an understandable error for someone to whom Gikatilla is unknown and who comes across the name for the first time on the title page as printed by Marcaria. The copy digitalized at the Jewish National and University Library and available through its website belonged to Gershom Sholem.  
-
-
 [^18]: Certainly the *editio princeps* (Mantua, 1562). As the first chapter of the *Sefer Yezirah* deals with the ten *sephirot*, it cannot be ruled out that the title immediately preceding this in Masius’ list is in fact the first chapter of the this work, mistakenly taken as a separate title. Masius has misunderstood the mythical ascription: the author was not thought to have been Adam, but Abraham, an error which makes it unlikely that Masius also consulted Guillaume Postel’s Latin translation of the *Sefer Yezira* (Paris 1552), which follows the Abrahamic ascription.  
-
-
 [^19]: Probably the work of this name by Rabbi Shem Tov Melamed, though the first edition known to me dates from 1596, over twenty years after Masius’ death.  
-
-
 [^20]: Masius' copy could be either of two editions (Ferrara: Abraham ibn Usque 1557) or (Mantua: Yaacov Naftali ha-Cohen of Gazzuolo 1558). The former edition attributes to work to Perets ben Isaac Gerondi, while the latter is anonymous. Since Masius mentions no author, his copy was likely of the latter edition. The plural 'diuinarum' suggests that Masius mistakenly read ‏‫האלוהות‬‎ as 'ha-elohot' rather than 'ha-elohut', but he sensed correctly the systematic kabbalistic nature of the work.  
 [^21]: This must refer to a manuscript, as the *editio princeps* only appeared in Amsterdam in 1651.  
-
-
 [^22]: Menachem ben Benjamin Recanati, *Perush ha-Tefilot* (Constantinople: Eliezer ben Gershom Soncino 1544). It is the second item in this edition, following the same author’s *Taamey ha-Mitsvot*. It has the title *Perush ha-Tefilot* only on its own first page. On the title page of the entire work it is called *Perush ha-Berakhot ve-ha-Zemirot*.  
-
-
 [^23]: Certainly not by Recanati, though Masius’ suspicion is interesting as evidence of his struggle to reconstruct the history of rabbinic literature: reading it alongside what he knew for sure to be work by Recanati, Masius apparently believed to have recognized the master’s style or method. It is probably the brief work of this title by Judah ben Samuel ha-Hasid, also known as Judah the Pious or Judah of Regensburg, the leader of the medieval German pietistic movement known as Hasidey Ashkenaz.  
+[^24]: Jacob ben Abraham Gikatilla, *Sefer Shaarey Tsedeq* (Riva di Trento: Jacob Marcaria 1561). Masius read the letter gimel in Gikatilla as a nun (see above, note to *Sefer Shaarey Orah*).  
+[^25]: If Masius’ copy of complete Talmud was the Bomberg *editio princeps*, than that is likely to be his edition of Maimonides’ *Commentary on the Mishnah* as well, since the relevant part of Maimonides’ *Commentary* was included among the appendices to each Talmudic tractate in the Bomberg edition.  
+[^26]: By Masius’ day, there had been several editions of both Maimonides’ *Commentary on the Mishna* as well as of the *Guide of the Perplexed*, the two works mentioned here, both in the Hebrew translation from the Arabic by Samuel ibn Tibbon, including incunabula. An appendix to Michael Schwartz translation into modern Hebrew (Tel Aviv: Tel Aviv University Press 2002) contains a list of editions and translation.  
+[^27]: Solomon of Gaul is certainly Rashi, Rabbi Solomon ben Isaac of Troyes in Champagne. Both individual Talmudic tractates as published for example by the house of Soncino, as well as the first complete edition published by Bomberg, contained (parts of) Rashi’s commentary on the Talmud – Masius could have it in either or both of these editions. Various editions of the Hebrew Bible contained his popular commentaries, too.  
+[^28]: Moses the son of Nachman is Rabbi Moshe ben Nachman, known by his rabbinic acronym Ramban as well as by the Greek patronymic Nachmanides. Nachmanides’ Biblical commentaries would have been available to Masius in numerous printed editions (not to mention manuscripts), starting with one published in Rome c. 1470.  
+[^29]: Abraham ibn Ezra’s commentary on the Bible would have been available to Masius in numerous editions, starting with that printed by Joseph ben Jacob Ashkenazi in Naples in 1488.  
+[^30]: Quite certainly the Bomberg edition [Bahya ibn Paquda], *Rabbenu Bahya Biur al ha-Torah* (Venice: Cornelio Adelkind in the house of Daniel Bomberg 1546)  
+[^31]: Menachem Recanati, *Perush ha-Torah al derekh ha-Emet* (Venice: Daniel Bomberg 1523)
 
+[^32]: Masius might have had David Kimhi’s biblical commentary in the edition of the Hebrew Bible printed in Salonika in 1522 or (more likely) in the second rabbinic bible printed by Daniel Bomberg in Venice in 1525-6.  
+[^33]: Levi the son of Gerson is Rabbi Levi ben Gershom, known by his rabbinic acronym Ralbag as well as by the Greek patronymic Gersonides. Most likely Masius owned a copy of the second Rabbinic Bible (Venice: Bomberg 1525), which included among others the commentary of Gersonides as well as Kimhi (mentioned in this list just above). It cannot be ruled out, however, that he owned a separate edition, such as the incunabulum printed in Mantua in 1476.
 
-[^24]:
+[^34]: Levi ben Gershom, *Milhamot ha-Shem*.  
+[^35]: Isaac ben Moses Arama, *Aqedat Yitzhaq*, first printed in Salonika 1522, and again in Venice (Aloisio Bragadin 1565). Masius’ copy could have been either.  
+[^36]: Isaac ben Joseph Caro, *Toledot Yitzhak*. Already available in several editions by Masius’ time (Constantinople 1518, Mantua 1552, Mantua 1558, Riva di Trento 1558, Saloniki 1571). Isaac ben Joseph Caro was the uncle and adoptive father of the famous Joseph Caro, author of the *Shulkhan Arukh*.  
+[^37]: Abraham ibn Daud (ha-Levi), *Sefer ha-Kabbalah*. The *editio princeps* was printed in Mantua in 1514, though Masius might also have owned the 1545 printed in Venice by Giustiniani.  
+[^38]: *Avkat Rochel*. Not the well-known book of responsa by Joseph Karo of the same title, not printed until 1791, but quite certainly the *Avkat Rochel* attributed to a certain Rabbi Makhir, of which numerous editions had appeared by Masius’ time (Constantinople 1516, Rimini 1526, and Venice: Giorgio di Cabali 1566). Masius would likely have known that the title derives from *Song of Songs* 3:6, but doesn’t translate the phrase according to the Vulgate.  
+[^39]: Yehuda ben Abraham Khalatz, *Sefer ha-Musar*, available to Masius in two editions, (Constantinople: Eliezer ben Gershom Soncino 1536) and (Mantua, Giacomo Ruffineli, 1560).  
+[^40]:  Joseph Albo, *Sefer ha-Iqarim*. By Masius’ day, several editions had appeared: (Soncino: Joshua Solomon ben Israel Nathan Soncino, 1485), (Salonika: 1520), (Venice: Daniel Bomberg 1520-21), (Rimini: Soncino 1522), (Venice: Cornelio Adelkind for Giovanni de Gara, 1544). Already the Soncino incunabulum identified Albo as a native of the city of Soria in Castile, though in fact he moved there from his native Saragossa Province, from the town of Daroca which he served as rabbi, and after his studies with Hasdai Crescas. See Dror Ehrlich, Encyclopedia Judaica (2nd ed, 2007), s.v. ‘Albo, Joseph’.  
+[^41]: Abraham ben Isaac ben Judah ben Samuel Shalom, *Sefer Neveh Shalom* (Constantinople: Eliezer ben Gershom Soncino 1538-9). A second edition appeared in Venice a year after Masius’ death.  
+[^42]: Yeshu’a ben Joseph ha-Levi, of Tlemcen, *Halikhot ‘Olam*, one of several editions published by Masius’ time: (Lisbon, 1490), (Constantinople 1510), (Venice: Giovanni de Gara 1544), (Sabbioneta: Vincenzo Conti 1567). Joseph Karo’s *Kelaley ha-Gemara* is a supercommentary on the *Halikhot ‘Olam*. The correct translation of *‘olam* here – the title is an expression taken from Habakkuk 3:6 – is ‘eternal’ or ‘everlasting.’  
+[^43]: Menachem ben Benjamin Recanati, *Piskey halakhot* (Bologna, 1538)
 
-[^25]: 
+[^44]: *Sefer ha-Yashar*, indeed attributed by many to Jacob ben Meir, known as Rabbenu Tam, the grandson of Rashi, but by others to Zerahia ha-Yevani. Joseph Dan, who published a modern edition of the text (Jerusalem: Mossad Bialik 1986), asserts in the *Encyclopedia Judaica* (2nd edition, 2007), s.v. ‘Sefer ha-Yashar’, that the *editio princeps* was published in Venice in 1544 (Cornelio Adelkind for Zuan de Gara). A book of the same title appeared in Constantinople, however, 1518-20, of which there are copies in the Beinecke Library, the Jewish Theological Seminary in New York, and the New York Public Library, which might be an earlier edition of our text. I have not yet been able to establish whether or not this is the case.
 
-[^26]: 
+[^45]: Solomon ben Moses ha-Levi Alkabez the younger, *Ayelet Ahavim* (Venice: Daniel Adelkind 1552). Indeed a commentary on the Song of Songs. The ‘h’ in the title is probably a typographical error – Masius knew what *smichut* was. Alkabez (1505-1584), best known as the author of the Sabbath hymn ‘Lecha Dodi’, should not be confused with his grandfather of the same name, the printer in Guadelajara. Solomon ben Moses ha-Levi Alkabez the younger is the most contemporary Jewish author on Masius’ list, surviving him by some ten years.
 
-[^27]: 
+[^46]: Abu-l-Hasan Judah ha-Levi, *Sefer ha-Kuzar*, translated from the Arabic by Judah ibn Tibbon (Fano: Gershom Soncino 1506).  
+[^47]: Obadiah ben Jacob Sforno, *Sefer Or ‘Amim* (Bologna 1537), Sforno (c. 1470- c. 1550), a Jewish Renaissance humanist, was an older contemporary of Masius, and taught Hebrew to Johannes Reuchlin, author of the first substantial Hebrew handbook by a Christian. His *Sefer Or ‘Amim*, a philosophical work of anti-Aristotelian purport, was translated by the author into Latin and published in 1548 as *Lumen Gentium*.
 
-[^28]: 
+[^48]: Like Judah ha-Levi’s *Kuzari*, this masterpiece of Andalusian Judeo-Arabic ethical literature was translated from Arabic into Hebrew by Judah ibn Tibbon. It is unclear whether Masius was aware of this. In his notes to the *Kuzari* he mentions it. Here, he does not. Several editions of Ibn Tibbon’s Hebrew translation of this popular classic had appeared by Masius’ day: (Soncino: Joshua ben Israel Nathan of Soncino, 1484), (Venice, Cornelio Adelkind 1545-6), (Cremona: Vincenzo Conti 1558).
 
-[^29]: 
+[^49]: By Masius’ day, eight (!) editions of Yedaiah ben Abraham Bedersi ha-Penini’s popular classic of medieval Jewish philosophy had appeared (Mantua 1474, Soncino 1484, Constantinople 1520, Venice 1546, Ferrara 1551, Mantua 1556, Riva di Trento 1559 and Salonika 1560). The Mantua and Ferrara editions also include the *Baqashat ha-Memin* by Yedaiah, and since Masius doesn’t mention this, it is less likely that his copy was one of these editions.
 
-[^30]: 
+[^50]: Kalonymus ben Kalonymus ben Meir, *Even Bohan*. Masius’ copy could have been one of three, including an incunabulum: (Naples: Yom Tov Zarfati for Joseph ben Jacob Ashkenazi Gunzenhauser 1489), (Venice: Cornelio Adelkind 1545-6), or (Cremona: Vincenzo Conti 1558). Kalonymus, while culturally Sephardic – he dedicated much of his life to Andalusian Judeo-Arabic culture and to translating philosophical and scientific works from Arabic into Hebrew and from both into Latin – was a native of Provence.
 
-[^31]: 
+[^51]: Don Joseph ben David ibn Yahya, *Torah Or* (Bologna: 1537-8). Masius’ brief description of its contents is a nearly word-for-word translation from the Hebrew of the title page of the Bologna edition. Not to be confused with the critical apparatus of the same title (a phrase from Proverbs 6:23) designed by Joshua Bo’az ben Simon Baruch, the main editor of the 1546-1551 edition of the Babylonian Talmud published in Venice by Marco Antonio Giustiniani, which identifies and refers to Biblical quotations.  
+[^52]: Menachem ben Simon of Posquières. This must quite certainly be a manuscript. No printed edition appeared prior to the 20th century.  
+[^53]: Benjamin ben Judah Bozecco (Bozecchi), also known as Benjamin ben Judah of Rome. Yehoshua Horwitz (*Encyclopedia Judaica*, 2nd ed., s.v. ‘Bozecco’), asserts that Benjamin ben Juda completed the commentary to Kings left unfinished by Isaiah ben Elijah di Trani, which confirms the identification of the author of this title and the next.
 
-[^32]: 
-
-[^33]:
-
-[^34]:
-
-[^35]: 
-
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]:
-
-[^40]:  
-
-[^41]: 
-
-[^42]: 
-
-[^43]:
-
-[^44]:
-
-[^45]: 
-
-[^46]: 
-
-[^47]: 
-
-[^48]:
-
-[^49]: 
-
-[^50]: 
-
-[^51]: 
-
-[^52]: 
-
-[^53]:
-
-[^54]:
-
-[^55]: 
+[^54]: Isaiah ben Elijah di Trani. This is Isaiah of Trani the younger, not to be confused with Isaiah (ben Mali) of Trani, the elder, whose commentaries on several prophets were included in the third Bomberg Rabbinic Bible, or *Miqra’ot Gedolot*, (Venice: Daniel Bomberg 1546).  
+[^55]: Quite certainly this ‘magnum volumen’ is the *Mahbarot* of Immanuel ben Solomon of Rome, also known as Manuello Romano or Manuello Giudeo, who poetry in both Hebrew and Italian, and whose work reflects both the influence of the Andalusian Hebrew maqama’s as well as that of his contemporary, Dante. If Masius recognized that Immanuel’s 28th mahberet was modeled on the Divina Commedia, he doesn’t mention it here. However, before saying that it is of no interest to mention them, Masius has mentioned them: he took pleasure in noting the pleasure he took in Hebrew poetry, regardless of its use for scholarship.
