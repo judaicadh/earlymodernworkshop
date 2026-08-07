@@ -232,15 +232,18 @@ Footnotes:
 [^18]: Certainly the *editio princeps* (Mantua, 1562). As the first chapter of the *Sefer Yezirah* deals with the ten *sephirot*, it cannot be ruled out that the title immediately preceding this in Masius’ list is in fact the first chapter of the this work, mistakenly taken as a separate title. Masius has misunderstood the mythical ascription: the author was not thought to have been Adam, but Abraham, an error which makes it unlikely that Masius also consulted Guillaume Postel’s Latin translation of the *Sefer Yezira* (Paris 1552), which follows the Abrahamic ascription.  
 
 
-[^19]:
+[^19]: Probably the work of this name by Rabbi Shem Tov Melamed, though the first edition known to me dates from 1596, over twenty years after Masius’ death.  
 
-[^20]: 
 
- [^21]: 
+[^20]: Masius' copy could be either of two editions (Ferrara: Abraham ibn Usque 1557) or (Mantua: Yaacov Naftali ha-Cohen of Gazzuolo 1558). The former edition attributes to work to Perets ben Isaac Gerondi, while the latter is anonymous. Since Masius mentions no author, his copy was likely of the latter edition. The plural 'diuinarum' suggests that Masius mistakenly read ‏‫האלוהות‬‎ as 'ha-elohot' rather than 'ha-elohut', but he sensed correctly the systematic kabbalistic nature of the work.  
+[^21]: This must refer to a manuscript, as the *editio princeps* only appeared in Amsterdam in 1651.  
 
-[^22]: 
 
-[^23]:
+[^22]: Menachem ben Benjamin Recanati, *Perush ha-Tefilot* (Constantinople: Eliezer ben Gershom Soncino 1544). It is the second item in this edition, following the same author’s *Taamey ha-Mitsvot*. It has the title *Perush ha-Tefilot* only on its own first page. On the title page of the entire work it is called *Perush ha-Berakhot ve-ha-Zemirot*.  
+
+
+[^23]: Certainly not by Recanati, though Masius’ suspicion is interesting as evidence of his struggle to reconstruct the history of rabbinic literature: reading it alongside what he knew for sure to be work by Recanati, Masius apparently believed to have recognized the master’s style or method. It is probably the brief work of this title by Judah ben Samuel ha-Hasid, also known as Judah the Pious or Judah of Regensburg, the leader of the medieval German pietistic movement known as Hasidey Ashkenaz.  
+
 
 [^24]:
 
