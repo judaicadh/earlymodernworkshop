@@ -66,6 +66,17 @@ D. Rabbi Mordecai Jaffe[^19] wrote that our custom is that when one has an anima
 
 ## Source 3 Translation
 
+**Turei Zahab-The Golden Columns Yoreh dah 19.1**  
+**Turey zahab, Yoreh deah 19.1**  
+**1646**
+
+Commentary of David ben Samuel Ha-Levi (ca. 1586–1667)[^20]
+
+*Sefer turey zahab* (Lublin, 1646)
+
+1. This is stated to exclude the view found in the laws of Eldad ha-Dani[^21] cited by Mordecai ben Hillel[^22] who prohibited meat slaughtered this way [i.e., without a blessing]. And Mordecai ben Hillel wrote in the sixth chapter of tractate *Hullin* in the name of Rabbi Eliezer ben Joel ha-Levi[^23] that if someone purposely slaughtered the animal without saying the blessing, that person may not eat from the meat of the animal and they [i.e., the community] would punish [lit., whip] him, however, other people could eat from the meat. And Rabbi Joseph Caro wrote that Moses Maimonides[^24] and other authorities disagree with R. Eliezer ben Joel ha-Levi.[^25] And my teacher and father-in-law of blessed memory, [Rabbi Joel Sirkes[^26]], wrote that nevertheless, one should be stringent and fine the ritual slaughterer based on R. Eliezer ben Joel ha-Levi’s view.
+2. And some have the custom of slaughtering an animal that does not require an internal inspection at the same time [and they say a blessing over it first] and this is certainly preferable.
+
 ## Source 1 Original Text
 
 ‫שלחן ערוך  
@@ -180,3 +191,17 @@ Footnotes
 [^18]: A member of the generation that was exiled from Spain, he moved to Tunis, Greece, and later Egypt (1522). He eventually made his way to Jerusalem where he died in 1542. See [http://www.jewishencyclopedia.com/view.jsp?artid=1061&letter=A.](http://www.jewishencyclopedia.com/view.jsp?artid=1061&letter=A)
 
 [^19]: A student of Rabbis Isserles and Luria, he wrote a comprehensive code of Jewish law entitled *Lebush Mordecai* that may well have been more popular that the *Shulhan `aruk* in eastern Europe when it was first published in the late sixteenth and early seventeenth centuries. See [http://www.jewishencyclopedia.com/view.jsp?artid=136&letter=J&search=Jaffe#469](http://www.jewishencyclopedia.com/view.jsp?artid=136&letter=J&search=Jaffe#469).
+
+[^20]: One of the leading rabbinic scholars of the mid-seventeenth century, his comments on the *Shulhan `aruk* helped make Caro’s work the standard reference work in Jewish law until this day. After studying with his father-in-law, Rabbi Joel Sirkes, in Cracow, he served in the rabbinate in a number of communities including Poznań and Ostrog. See [http://www.jewishencyclopedia.com/view.jsp?artid=139&letter=D.](http://www.jewishencyclopedia.com/view.jsp?artid=139&letter=D)
+
+[^21]: Eldad ha-Dani was a ninth-century traveler who claimed to be from the biblical tribe of Dan. His origins remain a mystery and many thought him to be a charlatan, however, he transmitted a number of laws regarding ritual slaughtering that were accepted as legitimate sources by medieval Ashkenazic authorities. See [http://www.jewishencyclopedia.com/view.jsp?artid=126&letter=E.](http://www.jewishencyclopedia.com/view.jsp?artid=126&letter=E)
+
+[^22]: An outstanding student of Rabbi Meir of Rothenburg, Mordecai wrote a halakic compendium that followed the organization of the Talmud and included rabbinic sources from England, France, and Germany. It is generally simply referred to as “the *Mordecai*.” He died in 1296. See [http://www.jewishencyclopedia.com/view.jsp?artid=772&letter=M](http://www.jewishencyclopedia.com/view.jsp?artid=772&letter=M).
+
+[^23]: Rabbi Eliezer ben Joel ha-Levi was the great grandfather of Rabbi Mordecai ben Hillel and perhaps the leading rabbinic scholar in German in the twelfth century. See [http://www.jewishencyclopedia.com/view.jsp?artid=225&letter=E.](http://www.jewishencyclopedia.com/view.jsp?artid=225&letter=E)
+
+[^24]: The leading rabbinic figure of the Sephardic world through the centuries, he codified the entire corpus of Jewish law in his *Mishneh Torah* (Code of Law). Born in Spain, he fled with his parents to North Africa and later settled in Egypt where he lived for most of his life. He died in 1204. See [http://www.jewishencyclopedia.com/view.jsp?artid=905&letter=M](http://www.jewishencyclopedia.com/view.jsp?artid=905&letter=M).
+
+[^25]: Caro was stating a point of law and not referring to an actual disagreement that took place between the two. Maimonides never saw Rabbi Eliezer ben Joel ha-Levi’s work and is unlikely to have ever heard of it.
+
+[^26]: Polish rabbi who wrote numerous responsa and a comprehensive commentary on the entire corpus of Jewish law applicable in the post-Temple period. He was rabbi of Cracow from 1619 until his death in 1640. See [http://www.jewishencyclopedia.com/view.jsp?artid=839&letter=S](http://www.jewishencyclopedia.com/view.jsp?artid=839&letter=S).
