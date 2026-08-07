@@ -185,9 +185,9 @@ The End.
 
 Footnotes:
 
-[^1]: 
+[^1]: See R. J. Wilkinson, *The Kabbalistic scholars of the Antwerp Polyglot Bible* (Leiden: Brill 2007), idem, *Orientalism, Aramaic, and Kabbalah in the Catholic Reformation. The first printing of the Syriac New Testament* (Leiden: Brill 2007), and the devastating review of both books by Alastair Hamilton in *Quaerendo* 38 (2008), 398-409.
 
-[^2]: 
+[^2]: Masius had an immediate and personal reason to abhor the decree: as a diplomat without a fixed home, he had as yet no library of his own in which to keep his books. Until his retirement, he had decided to store all his Hebrew books in Venice in the Bomberg warehouse. When the destruction of the Talmud was ordered in Venice, Masius’ books were confiscated, too. His correspondence reveals the great lengths to which he went to retrieve them.
 
 [^3]:
 
