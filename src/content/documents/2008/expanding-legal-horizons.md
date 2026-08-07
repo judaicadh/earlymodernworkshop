@@ -21,9 +21,31 @@ description: >+
 
   - Turei Zahab-The Golden Columns
 ---
+## Introduction
+
+The advent of movable print in the second half of the fifteenth century and the subsequent publication of hundreds of works dealing with almost the full spectrum of Jewish culture offered readers in many geographic settings the opportunity to explore ideas from beyond their traditional cultural frames of reference. For example, the printing of philosophical, mystical, and scientific writings of Sephardic (Spanish) Jewry, often first in the Italian lands from where they were carried into eastern Europe as part of ongoing commercial and cultural exchanges, offered Jews living in sixteenth and seventeenth-century eastern Europe the opportunity to delve into material that they and their predecessors had generally been unfamiliar with when these works remained in manuscript. Biblical commentaries and super commentaries too were published and they contributed to a rethinking of earlier ideas and even an outburst of creativity in commentaries on the medieval biblical commentary of Rabbi Solomon ben Isaac (known by the acronym Rashi) in eastern Europe.
+
+Jewish law (*halakah*) was another area in which material from the Sephardic world was printed and found its way to eastern Europe. However, law was a relatively conservative endeavor and most Polish rabbis hesitated to embrace works from the Sephardic world. For the most part they continued to rely on traditional Ashkenazic sources, that is works from medieval France and Germany. Writing in mid-sixteenth century Cracow, Rabbi Moses Isserles noted that his contemporaries commonly said that legal rulings were to follow the views of Rabbi Mordecai ben Hillel, Rabbi Israel of Krems (both from the German lands), and Rabbi Jacob ben Asher, author of the fourteenth-century law code the `Arba`*ah turim* (The Four Columns) who often followed the views of his illustrious father, Rabbi Asher ben Yehiel, yet another Ashkenazic jurist (see Isserles, *Darkey Mosheh ha-shalem*, H. S. Rosenthal, ed., vol. 1 [Jerusalem, 1979], p. 37 [introduction]). Most Sephardic authorities simply never attained full standing in the legal world of sixteenth-century halakists in Poland.
+
+The tendency to rely on a limited legal library persisted among Polish rabbis well into the seventeenth century. It was only with the publication of Rabbi Shabbetay ben Me’ir ha-Kohen’s *Siftey kohen* (The Priest’s Lips) in 1646 that the scope of sources used in eastern European halakic parlance was truly opened up. Beyond demonstrating the young author’s acumen for legal analysis, *Siftey kohen*, a running commentary/gloss on Rabbis Joseph Caro and Moses Isserles’s *Shulhan `aruk* (The Set Table; a comprehensive code dealing with all aspects of Jewish law applicable in post-Temple period), is chalk full of references to legal sources from the Sephardic world, including texts from the sixteenth-century Ottoman Empire. Rabbi Shabbetay’s receptiveness to views from beyond the Ashkenazic pale stood in stark contrast to the work of his older contemporary, Rabbi David ben Samuel ha-Levi whose *Turey zahab* (Golden Columns) was published earlier in the same year, on the same text, and in the very same format as *Siftey kohen*. The *Turey zahab* was not without its innovations but it reflected the traditional Ashkenazic legal world; Rabbi Shabbetay embraced all sources of legal information.
+
+Rabbi Shabbetay ben Me’ir’s innovation does not seem to have been emulated, not by his contemporaries and not by his successors. A quantitative survey of citations in legal works from the period shows that it was only in the eighteenth century that Ashkenazic authorities truly broadened their scope. This suggests that changes wrought during the Early Modern Period affected different fields in different ways and that law, or at least Jewish law in eastern Europe, was more insular than other fields of Jewish culture.
+
 ## Source 1 Translation
 
+**Shulhan 'arukh**  
+**The Set Table, Yoreh deah 19.1**
 
+**Shulhan aruk, Yoreh deah 19.1**
+
+**1567**
+
+Shulhan aruk, Yoreh deah[^1] 19.1  
+The base text of Rabbi Joseph Caro’s Shulhan aruk was first published in Venice in 1565. Rabbi Moses Isserles’s glosses were added to Yoreh deah in Cracow in 1570.
+
+**Rabbi Joseph Caro**: The ritual slaughterer should say the following blessing before performing the act of slaughter: “[Blessed are You, Lord our God, King of the universe], who has sanctified us through His precepts and commanded us regarding ritual slaughter.” And if one slaughtered and **(1)** did not make the blessing, the act of slaughter is still **(A)** acceptable.
+
+**Gloss of Rabbi Moses Isserles**: And if one slaughtered an animal **(B)** in which there was some doubt regarding its acceptability and there is need of an internal examination of the animal to determine that it is kosher, **(2)** one should slaughter the animal without making the blessing and, **(C)** if one finds it to be ritually acceptable, **(D)** one should then make the blessing on slaughtering, so long as it is not long after the act of slaughtering. And if one slaughters in the slaughterhouse, which is a dirty place, one should recite the blessing at a distance of four ells before entering the slaughterhouse and [from then on] one should not talk until after one performs the act of ritual slaughter.
 
 ## Source 2 Translation
 
@@ -104,3 +126,6 @@ Sefer turey zahab (Lublin, 1646)
 
 (ב) ישחטנו בלא ברכה: ויש נוהגים לשחוט עמו שחיטה כשירה וזה עדיף טפי:‬‎
 
+Footnotes
+
+[^1]: Rabbi Joseph Caro’s legal code, the *Shulhan 'aruk*, is divided into four main sections. The second such section is entitled *Yoreh de'ah* and deals with numerous aspects of Jewish ritual life that are *not* dependent on the calendar cycle (e.g., kosher food, respect for parents, laws of mourning, etc.).
