@@ -5,7 +5,7 @@ institution: Ben-Gurion University of the Negev
 volume: 5
 year: "2008"
 slug: expanding-legal-horizons
-description: >+
+description: >
   Legal change was not only a result needs to adapt the law to new situations
   but could be stimulated by new information. New sources were not always
   accepted and this presentation will attepmt to locate the point in time in
@@ -34,9 +34,7 @@ Rabbi Shabbetay ben Me’ir’s innovation does not seem to have been emulated, 
 ## Source 1 Translation
 
 **Shulhan 'arukh**  
-**The Set Table, Yoreh deah 19.1**
-
-**Shulhan aruk, Yoreh deah 19.1**
+**The Set Table, Shulhan aruk, Yoreh deah 19.1**
 
 **1567**
 
