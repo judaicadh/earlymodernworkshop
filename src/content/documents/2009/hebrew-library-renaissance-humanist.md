@@ -191,37 +191,46 @@ Footnotes:
 
 [^2]: Masius had an immediate and personal reason to abhor the decree: as a diplomat without a fixed home, he had as yet no library of his own in which to keep his books. Until his retirement, he had decided to store all his Hebrew books in Venice in the Bomberg warehouse. When the destruction of the Talmud was ordered in Venice, Masius’ books were confiscated, too. His correspondence reveals the great lengths to which he went to retrieve them.
 
-[^3]:
+[^3]: By the time of Masius’ death, numerous editions of single tractates of the Babylonian Talmud had been printed as well as complete editions of both the Babylonian and the Palestinian (Jerusalem) Talmud. The first complete edition of the Babylonian Talmud was printed in Venice by Daniel Bomberg of Antwerp, in 1519-1523. Bomberg printed a second edition between 1526 and 1539, and a third edition between 1543 and 1549. Between 1546 and 1551, Marco Antonio Giustiniani, also in Venice, published an edition of the Babylonian Talmud with the help of Cornelio Adelkind, Bomberg’s partner. Bomberg and Masius were close friends, and Bomberg was also Masius most important source of Hebrew books, some of which he bought and others were given to him by the printer. From his correspondence we know that Masius possessed both a complete Bomberg Babylonian Talmud as well as a Palestinian Talmud, of which Bomberg had printed the *editio princeps* (from a manuscript that is now part of the Scaliger bequest at the University of Leiden). ‘Universum’ here might denote both a complete copy of the Bomberg Babylonian Talmud, as well as both Talmuds together. Masius had already been hounded and condemned for his use of the Talmud in print, and putting it here at the top of his list was something of an act of defiance to which his printer Plantin, using a bigger Hebrew type for its title than for any other book in the list, is something of an accomplice.  
+[^4]: In fact, *neziqin* has ten *masekhtot*, not eight, while *Tohoroth* has twelve, not thirteen. There are a total of sixty-three *masekhtot*, not sixty-two. Masius might have considered the first three *masekhtot* of *neziqin* (*Baba Kamma*, *Baba Metzia* and *Baba Bathra*) as one, as they are sometimes considered one tri-partite tractate. However, in his commentary he also refers to *Baba Bathra* as an individual tractate.  
+[^5]: Masius’ chronology on Rabbi Ashi here is correct. He died c. 427 C.E., and was therefore indeed active some 350 years after the destruction of the Second. Temple. Also, the idea that Rabbi Ashi was the final editor of the Babylonian Talmud was common, and even supported by such authorities as Rashi and Maimonides. However, a few rabbi’s are mentioned in the Talmud who are now known to have lived later than Rabbi Ashi, and his editorship is no longer supported. See R. Hidary, *Encyclopedia Judaica* (2nd ed., 2007), s.v. ‘Ashi’.  
+[^6]: The description of the Talmud here is longer than that of any other book in this list, and its clear discussion, *seder* by *seder*, seems intended not only to display his own panoramic understanding of this vast and dense work, but – as the closing remark suggests – also to dispel what myths and prejudices even his most learned reader might well have of the most reviled book of the early modern period.  
 
-[^4]:
 
-[^5]: 
+[^7]: Masius is referring here to the long-lost midrashic anthology by Moses ha-Darshan of Narbonne, now thought to be the basis for *Genesis Rabbati*. His information on Moses ha-Darshan could well have come from his copy of the *Sefer ha-Yashar*, noted in this list, as well as from Martini’s *Pugio Fidei*, which refers to it on numerous occasions. Both here and in his note on what he calls the ‘midrashot’ we can see Masius consulting what material he has at his disposal to attempt to reconstruct the history of early rabbinic literature.  
 
-[^6]: 
 
-[^7]: 
+[^8]: Elijah Levita and Sebastian Münster, *Masoret ha-Masoret* (Basel: Henricus Petri 1539). Masius leaves unmentioned here that this edition is bilingual, and that the Latin translation of the *Sefer ha-Ta’amim*, which accompanies it, has a dedicatory epistle by the translator, Sebastian Münster, to the young Andreas Masius whom Münster calls ‘hebraicae linguae studiotissim[us]’. Among other praises, Münster notes that Masius had written him letters in Hebrew.  
 
-[^8]: 
 
-[^9]: 
+[^9]: The *Mekhilta de-Rabbi Yishmael*, correctly identified by Masius as a commentary on (only part of) Exodus. Masius’ copy might be one of either two editions that had been printed by his day (Constantinople: Astruc de Toulon from Provence 1515) or (Venice: Daniel Bomberg 1545).  
 
-[^10]: 
 
-[^11]: 
+[^10]: By Masius’ day, several editions had appeared. His copy might have been that printed in Constantinople (*Midrash Tanhuma haniqra yelammedenu*, Constantinople: Shlomo ben Mazal Tov, 1520-2), Venice (*Tanhuma haniqra yelammedenu*, Venice: Cornelio Adelkind for Daniel Bomberg, 1545), or that printed in Mantua (*Midrash Tanhuma haniqra yelammedenu*, Mantua: Giacomo Ruffinello for Meir ben Ephraim of Padua and Ezra ben Isaac of Fano, 1563). Based on the numerous ascriptions in the text itself, Masius ascribes the work as a whole to Rabbi Tanhuma bar Abba.  
 
-[^12]: 
 
-[^13]:
+[^11]: It is unclear from this description whether the work in question is the *Seder ‘Olam Rabba* or the *Seder ‘Olam Zuta*.  
 
-[^14]:
 
-[^15]: 
+[^12]: As in note 2 on what he calls the ‘rabbot’, we see Masius struggling to reconstruct the history of early rabbinic literature. While he has trouble seeing the midrashic forest through the trees of his library, he already grasps that there are several different historical layers to this rich body of literature, and that midrashic works are of a different kind than say, halakhic treatises and responsa-literature, philosophy or kabbalah. The *editio princeps* of the *Midrash Shmu’el* was printed in Constantinople (1517), but since they are here mentioned together, it seems more likely that Masius’ copy was that of Venice 1546, in which  
 
-[^16]: 
 
-[^17]: 
+[^13]: [Rabbi Achay of Shabha] *She’eltot de-Rav Ahai Ga’on* (Venice, Daniel Bomberg 1546)
 
-[^18]: 
+[^14]: The work in question is quite possibly the Zohar, as Masius refers in his commentary (p. 14), to ‘R. Simeon Iohai filius [...] qui librum Zohar in Pentateuchum scripsit’.  
+
+
+[^15]: No doubt the Bomberg edition (Venice: Cornelio Adelkind for Daniel Bomberg 1545)  
+
+
+[^16]: This description suggests a convolute volume containing mss bound together with a printed work, not an uncommon phenomenon.  
+
+
+[^17]: The Hebrew original is by Joseph ben Abraham Gikatilla, and Masius’ copy would have been one of two editions, (Mantua: Jacob ben Naftali ha-Cohen 1561) or (Riva di Trento: Jacob Marcaria 1561). The Latin translation by the famous convert Paul Ricci is *Portae Lucis* (Augsburg: Johann Miller 1516). Though he doesn’t mention it here, from his notes on *Shaarey Tsedeq*, furtheron in this list, it is clear that Masius knows the author of both books to be Joseph ‘Nyctelo’ – a misreading of the first letter of Gikatilla as a *nun* rather than a *gimmel*, an understandable error for someone to whom Gikatilla is unknown and who comes across the name for the first time on the title page as printed by Marcaria. The copy digitalized at the Jewish National and University Library and available through its website belonged to Gershom Sholem.  
+
+
+[^18]: Certainly the *editio princeps* (Mantua, 1562). As the first chapter of the *Sefer Yezirah* deals with the ten *sephirot*, it cannot be ruled out that the title immediately preceding this in Masius’ list is in fact the first chapter of the this work, mistakenly taken as a separate title. Masius has misunderstood the mythical ascription: the author was not thought to have been Adam, but Abraham, an error which makes it unlikely that Masius also consulted Guillaume Postel’s Latin translation of the *Sefer Yezira* (Paris 1552), which follows the Abrahamic ascription.  
+
 
 [^19]:
 
