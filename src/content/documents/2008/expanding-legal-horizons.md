@@ -47,6 +47,23 @@ The base text of Rabbi Joseph Caro’s Shulhan aruk was first published in Venic
 
 ## Source 2 Translation
 
+**Siftei Kohen-The Priest's Lips Yoreh de`ah 19.1**  
+**1647**
+
+Shabbetai ben Meir ha-Kohen (1621–1662)[^2]
+
+*Siftey Kohen* (Cracow, 1646)
+
+1. Even if someone purposely did not say the blessing, the meat is still permitted to him.
+
+  And this is how Rabbis Joseph Caro, Moses Isserles, and Solomon Luria[^3] (*Yam shel Shelomoh*, Hullin 6.1) ruled and this is also implied in the Halakot Gedolot[^4] (beg. fol. 126) but Rabbi Joel Sirkes did not rule in this way. Cf. beginning of section 28 [n. 3 in Shabbetai ben Meir’s commentary].
+2. And Rabbi Solomon Luria (*op. cit*. 6.5) ruled according to Rashi’s[^5] view that one should make the blessing before slaughtering because even if the animal would be found to be ritually unacceptable, ritual slaughtering removes it from the category of being a carrion [an animal that has died a natural death] (and at the end of this section, Rabbi Joel Sirkes in his commentary on Jacob ben Asher’s *Arb'ah turim*, cited Luria as following Rabbi Isaac ben Moses of Vienna; in my humble opinion, Sirkes was not careful to read Luria in his entirety; cf., Luria). And this does not seem to be the view of the Jerusalem Talmud in *Berakot* (chap. 9) in which it says regarding the blessing on slaughtering that there is a presumption that the intestines are kosher. Cf., Yoreh de'ah 28 n. 26 [in Shabbetai ben Meir’s commentary].
+3. And Rabbi Moses Isserles in his *Darkey Mosheh* cites in the name of Rabbi Israel of Krems[^6] on the first chapter of tractate *Hullin* that, “even when slaughtering a [presumably] kosher animal, if the slaughterer forgot to recite the blessing before slaughtering, the blessing should be said after slaughtering.” And so is found in a few recent slaughtering manuals. And Rabbi Israel of Krems concluded there “that in all precepts, if one did not recite a blessing before performing it, one recites the blessing after doing the precept as is explained in tractate *Berakot* by Rabbi Isaac ben Moses of Vienna.”[^7] And in the first chapter of tractate *Berakot*, he [Rabbi Isaac ben Moses of Vienna] wrote as follows: “when one did not recite the blessing before performing the precept one should recite it after performing it and thus one will fulfill his obligation. However, at a meal, when it is prohibited for one to have pleasure without first having blessed, if one transgressed and ate without first making a blessing, since one has now come to the grace after eating, the blessing before the food is superseded [by the grace after the meal and there is nothing to do].” However, this is not Maimonides’ view (*Co*de of Law, Blessings 11.6) who wrote that “if one slaughtered without first reciting a blessing, or for that matter, even if one separated priestly tithes (terumot) and tithes to the Levites (maserot) or ritually immersed and did not first recite a blessing, one does not subsequently go back and recite a blessing after doing the precept. And so too in all similar matters.” And Abraham Treves[^8] in his work Birkat Abraham (end of section one and beginning of section ten) went to great lengths to counter Maimonides’ view with arguments and discourses and his basic point is that if one says that one may not make a blessing after having performed the act, then how is it that we require a convert (see Shulhan aruk, Yoreh de`ah 268.2) as well as all others who require ritual immersion (cf. 200) and those who do other precepts to bless after having performed the act. And if it is because one could not say the blessing before performing the precept [for whatever reason], then one should not make a blessing at all. And in my humble opinion, all of Treves’s views do not make sense, for we have certainly learned that all blessings except for the Grace After Meals are rabbinical decrees, as is found in tractate *Berakot* in a number of places as well as in subsequent rabbinic literature. If so, the Rabbis said to say the blessing before performing precepts and not after and they also said regarding converts and cases where the individual is incapable [for technical reasons] of saying the blessing that one should say the blessing after performing the precept. And this is implied in B.T., *Berakot* 51a where it is said “Ravina said: Therefore, even if one finished eating, one should go back and say the blessing, as is learned in an earlier rabbinic text: ‘One who ritually immersed, when the person emerges from the water, the person should say: “Blessed [are You, Lord our God, King of the universe] who sanctified us through his precepts and commanded us regarding ritual immersion.”’ [The Rabbis responded to Ravina], this is not [a proof because] with respect to ritual immersion the person was incapable [of making the blessing beforehand] but here [on the blessing on food] the person was capable [of making the blessing but] failed to do so and therefore should not [go back] and make the blessing.” It would thus seem that only regarding ritual immersion and instances where one is incapable of making the blessing [did the Rabbis allow one to say the blessing after performing the precept], however, where one is capable of saying the blessing beforehand but did not do so, one may not say the blessing after [performing the precept]. And even though Rabbi Abraham Treves wrote that one might be able to differentiate between blessings over food and those said on performing the precepts, this is not at all certain. Moreover, Ravina himself did not make such a differentiation [between blessings over food and precepts] and we do not see that the Rabbis objected to him over this point. And this is also implied in the view of Rabbi Jonah Gerondi[^9] in his comments on this section in tractate *Berakot*, who wrote that this is the law regarding all other blessings, that one must recite the blessing before performing the act and, if one did not do so, one does not say the blessing thereafter.
+
+And another clear proof of this [that one cannot say the blessing after performing the precept] is that we learn in the beginning of tractate *Pesahim* (7b): “In the study house of Rav they said that all ritual blessings must be said before performing the precept, except for ritual immersion since the person was not [ritually] capable of saying it beforehand. We have also learned this in a tannaitic source, ‘One who immerses and comes up [out of the water], upon coming up one says, “Blessed [are You, Lord our God, King of the universe] who has sanctified us through His precepts and commanded us regarding ritual immersion.”’” What proof can be brought from this tannaitic source? One might say that only one who immersed and came up [can say the blessing afterwards] but ideally this not how it should be done, as Ravina, who explained that this tannaitic source is specifically discussing what to do if one had already immersed, therefore in other precepts too one can say the blessing after performing the act if one forgot to say it before. However, the Talmud certainly thought otherwise, for it would not have cited the reason that the person was not [ritually] capable of making the blessing [if this was not so]. If so, if someone performed a precept and the time for saying the blessing has passed, it has passed. And this is implied in the words of the tosafists[^10] in B.T., *Sukkah* 39a and by Rabbi Asher ben Yehiel[^11] (*ibid*) who wrote, “if one took the four species[^12] in one’s hand without first saying the blessing, one should still recite the blessing. The reason for this must certainly be that one has not yet completed doing the precept for one must still shake the species.” This implies that if one has totally completed fulfilling the precept—and this would be true of all precepts—one does not say the blessing. (And in his work *Nekuddot ha-kesef*,[^13] Shabbetai ben Meir deleted from “And another clear proof...” until here. And some gloss there, “and if so, even after having performed the precept one does not say the blessing for since [the opportunity for saying] it has passed, it has passed.”) And also in the rulings of Rabbi Menachem Recanati[^14] (no. 72), who cites Rabbi Isaac ben Moses and then Maimonides in his conclusion, implying that he too is of this opinion [i.e., by citing Maimonides last, Recanati signals to the reader his agreement with his view that one cannot say the blessing after having performed the precept]. And so too, Rabbi David Abudraham[^15] wrote that Rabbi Zerahiah ha-Levi[^16] shared Maimonides’ view [in this matter]. And this would appear to be the view of Rabbi Isaac Alfasi[^17] [as cited] in a responsum regarding the blessing said upon circumcision by Rabbi Moses Alashkar[^18] in responsum no. 18. Moreover, we know that whenever there is a doubt regarding blessings we are lenient [and do not recite them].
+
+D. Rabbi Mordecai Jaffe[^19] wrote that our custom is that when one has an animal and there is a question whether it can ever be kosher, one slaughters a chicken or other fowl before slaughtering the large animal (e.g., cattle) and says the blessing before slaughtering on the fowl with the intention of including [the ritual slaughtering to be done on] the large animal. And this is what Rabbi Joel Sirkes wrote and it is proper to do so. And so it is written later (28.4) regarding covering the blood of a buffalo. Nevertheless, it is obvious that Rabbi Moses Isserles’s ruling is correct where there is no possibility of slaughtering a fowl.
+
 ## Source 3 Translation
 
 ## Source 1 Original Text
@@ -127,3 +144,39 @@ Sefer turey zahab (Lublin, 1646)
 Footnotes
 
 [^1]: Rabbi Joseph Caro’s legal code, the *Shulhan 'aruk*, is divided into four main sections. The second such section is entitled *Yoreh de'ah* and deals with numerous aspects of Jewish ritual life that are *not* dependent on the calendar cycle (e.g., kosher food, respect for parents, laws of mourning, etc.).
+
+[^2]: There was some resistance to the publication of Rabbi Shabbetai ben Meir’s work given his young age. His commentary shows great originality and was highly critical of views that he did not agree with. See [http://www.jewishencyclopedia.com/view.jsp?artid=525&letter=S.](http://www.jewishencyclopedia.com/view.jsp?artid=525&letter=S)
+
+[^3]: A relative and contemporary of Rabbi Moses Isserles who disagreed with the whole notion of a concise code of Jewish law as exemplified by the *Shulhan `aruk*. See [http://www.jewishencyclopedia.com/view.jsp?artid=627&letter=L.](http://www.jewishencyclopedia.com/view.jsp?artid=627&letter=L)
+
+[^4]: A ninth-century legal work by Rabbi Simon Kayyara that was probably written in Sura (present day Iraq). It was transmitted in two recensions, both of which eventually arrived in medieval Franco-Germany. See [http://www.jewishencyclopedia.com/view.jsp?artid=151&letter=K&search=halakot%20gedolot.](http://www.jewishencyclopedia.com/view.jsp?artid=151&letter=K&search=halakot%20gedolot)
+
+[^5]: he most important commentator on the Bible and Babylonian Talmud. Rabbi Solomon ben Isaac (known by his acronym, Rashi) was also a respected legalist who lived in Troyes (France) and died in 1105. See [http://www.jewishencyclopedia.com/view.jsp?artid=121&letter=R.](http://www.jewishencyclopedia.com/view.jsp?artid=121&letter=R)
+
+[^6]: Author of the *Hagahot Ashri*, a commentary on Rabbi Asher ben Yehiel’s legal work. Rabbi Israel lived in Austria and died in 1420. See [http://www.jewishencyclopedia.com/view.jsp?letter=I&artid=310.](http://www.jewishencyclopedia.com/view.jsp?letter=I&artid=310)
+
+[^7]: One of the outstanding German rabbis of the thirteenth century, he studied in both France and Germany and was the teacher of Rabbi Meir of Rothenburg. See [http://www.jewishencyclopedia.com/view.jsp?letter=I&artid=231.](http://www.jewishencyclopedia.com/view.jsp?letter=I&artid=231)
+
+[^8]: A member of a leading French rabbinical family, Treves corresponded with a number of outstanding rabbis who lived around the Mediterranean basin in the sixteenth- century. His work, *Birkat Abraham* was published in Venice in 1552. See [http://www.jewishencyclopedia.com/view.jsp?artid=322&letter=T#1346](http://www.jewishencyclopedia.com/view.jsp?artid=322&letter=T#1346).
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
