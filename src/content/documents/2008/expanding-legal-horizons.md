@@ -159,24 +159,24 @@ Footnotes
 
 [^8]: A member of a leading French rabbinical family, Treves corresponded with a number of outstanding rabbis who lived around the Mediterranean basin in the sixteenth- century. His work, *Birkat Abraham* was published in Venice in 1552. See [http://www.jewishencyclopedia.com/view.jsp?artid=322&letter=T#1346](http://www.jewishencyclopedia.com/view.jsp?artid=322&letter=T#1346).
 
-[^9]: 
+[^9]: Catalonian rabbi famous for his ethical work, his legal commentary on tractate *Berakot* that is cited here was written by his students and attributed to him. He died in 1263. See [http://www.jewishencyclopedia.com/view.jsp?artid=166&letter=G](http://www.jewishencyclopedia.com/view.jsp?artid=166&letter=G).
 
-[^10]: 
+[^10]: *Tosafot* literally means “additions” or “supplements.” The term refers to rabbis in France and Germany from about the mid-twelfth century until the end of the thirteenth century who dealt with legal issues and whose comments on the Talmud were considered additions to the work of Rashi. See [http://www.jewishencyclopedia.com/view.jsp?artid=276&letter=T](http://www.jewishencyclopedia.com/view.jsp?artid=276&letter=T).
 
-[^11]: 
+[^11]: The leading student of Rabbi Meir of Rothenburg, he fled Germany and settled in Toledo where he died in 1328. His legal commentary is a standard reference work in both the Ashkenazic and Sephardic legal communities. See [http://www.jewishencyclopedia.com/view.jsp?artid=1930&letter=A](http://www.jewishencyclopedia.com/view.jsp?artid=1930&letter=A)
 
-[^12]: 
+[^12]: See Lev. 23.40.
 
-[^13]: 
+[^13]: The work was first published in 1677. An editor has added this comment.
 
-[^14]: 
+[^14]: Menachem ben Benjamin Recanati (1250–1310) was an important kabbalist who lived in the Italian lands. Almost all of his writings focused on Jewish mysticism but he did write one legal work, his *Pisqey halakot* (Bologna, 1538). On Recanati, see [http://www.jewishencyclopedia.com/view.jsp?artid=151&letter=R#402](http://www.jewishencyclopedia.com/view.jsp?artid=151&letter=R#402)
 
-[^15]: 
+[^15]: A student of Rabbi Asher ben Yehiel, Rabbi David Abudraham lived in Seville in the fourteenth century and wrote a commentary on the liturgy. See [http://www.jewishencyclopedia.com/view.jsp?artid=690&letter=A&search=Abudarham](http://www.jewishencyclopedia.com/view.jsp?artid=690&letter=A&search=Abudarham).
 
-[^16]: 
+[^16]: Zerahiah ben Isaac ha-Levi Gerondi, a leading Provencal talmudic scholar of the twelfth century, wrote *Sefer ha-me'or*, a critique on Rabbi Isaac Alfasi (see next note) as well as a platform for his own original legal thought. See [http://www.jewishencyclopedia.com/view.jsp?artid=108&letter=Z.](http://www.jewishencyclopedia.com/view.jsp?artid=108&letter=Z)
 
-[^17]: 
+[^17]: Eleventh-century rabbinic scholar who lived most of his life in Fez (North Africa). His *Halakot* that offered readers an abridgement of talmudic legal discussions and his own conclusions. See [http://www.jewishencyclopedia.com/view.jsp?letter=A&artid=1191.](http://www.jewishencyclopedia.com/view.jsp?letter=A&artid=1191)
 
-[^18]: 
+[^18]: A member of the generation that was exiled from Spain, he moved to Tunis, Greece, and later Egypt (1522). He eventually made his way to Jerusalem where he died in 1542. See [http://www.jewishencyclopedia.com/view.jsp?artid=1061&letter=A.](http://www.jewishencyclopedia.com/view.jsp?artid=1061&letter=A)
 
-[^19]: 
+[^19]: A student of Rabbis Isserles and Luria, he wrote a comprehensive code of Jewish law entitled *Lebush Mordecai* that may well have been more popular that the *Shulhan `aruk* in eastern Europe when it was first published in the late sixteenth and early seventeenth centuries. See [http://www.jewishencyclopedia.com/view.jsp?artid=136&letter=J&search=Jaffe#469](http://www.jewishencyclopedia.com/view.jsp?artid=136&letter=J&search=Jaffe#469).
