@@ -189,7 +189,7 @@ The End.
 
 SEQVVNTVR NOMINA AVCTORVM ET LIBRORVM Hebraicorum, quibus And[reas] Masius in scribendis istis commentariis vsus est. Nam Latinos & Graecos nihil attinet indicare. sunt enim omnis generis multi.
 
-‏‫תלמוד‬‎ . Id est, Doctrinale, uniuersum, cu[m] comme[n]tariis. Diuisum est autem in sex ‏‫סדרים‬‎ , hoc est, ordines.
+‎‏‫תלמוד‬‎ . Id est, Doctrinale, uniuersum, cu[m] comme[n]tariis. Diuisum est autem in sex ‏‫סדרים‬‎ , hoc est, ordines.
 
 Primus ordo vocatur, ‏‫זרעים‬‎ , id autem est, Semina. Nam in eo agitur de ritibus omnibus, qui quouis modo spectant ad eas res, quae gignuntur ex terra. Cuiusmodi sunt, decimae, quies anni septimi. Pars frugum relinquenda pauperibus. Libum sacerdoti ex quauis massa dandum. Semina no[n] permiscenda. Nouarum arborum fructus non temere gustandi. & quae his sunt similes caeremoniae.
 
