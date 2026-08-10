@@ -8,6 +8,8 @@
     --color-bronze: #8a6a2f;
     --color-venetian: #8e2f23;
     --color-venetian-light: #c4674f;
+    --color-burgundy: #6b1f2e;
+    --color-burgundy-light: #9a3348;
 }
 /* Fonts — EB Garamond for Latin, Frank Ruhl Libre as the matching Hebrew serif.
    (If you already load EB Garamond via <link> in Layout.astro, you can delete

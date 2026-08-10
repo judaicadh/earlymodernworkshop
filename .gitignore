@@ -28,3 +28,4 @@ node_modules
 .netlify
 .claude/worktrees/tender-dhawan-ec1e2b/
 .claude/launch.json
+.claude/launch.json
