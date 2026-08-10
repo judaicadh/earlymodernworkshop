@@ -9,7 +9,7 @@ year: "2009"
 slug: hebrew-library-renaissance-humanist
 language:
   - Latin
-description: >
+description: >+
   Andreas Masius' 1574 polyglot edition of the book of Joshua with copious
   annotations and commentaries is a monument of Renaissance biblical
   scholarship. In an appendix - the text presented here - Masius recorded the
@@ -197,37 +197,37 @@ Secundus ordo dicitur, ‏‫מועד‬‎ , id autem est, ac si, celebritatem 
 
 Tertius ordo appellatur, ‏‫נשים‬‎ , hoc est, mulieres. In eo multis modis disceptatur de iis quae ad coniugia attinent. Veluti, de iure leuiri, de nuptialibus contractibus, de votis mulierum. de Nazaraeis de libelis repudij, et huius generic aliis iuribus, non sine miris superstitionibus.
 
-Quartus ordo inscribitur, ‏‫נזיקין‬‎ *(extracted as "ןנזיקי" — a letter-level glitch; "נזיקין" / Neziqin is the near-certain intended reading, matching the Latin gloss "damna" and the endnote's identification of this as the fourth order)*, ac si, damna, dicas. Agit enim de damnis, & commodis, quibus afficiuntur homines ab hominibus. déq[ue] variis contractibus, iudiciis, sententiis, testificationibus, iure-iurando, de poenis, de Messia quoq[ue] & resurrectione mortuorum deniq[ue] de cultu alienorum deorum: & huiusmodi aliis negotiis, hominum inter ipsos.
+Quartus ordo inscribitur, ‏‫ןנזיקי‬‎ , ac si, damna, dicas. Agit enim de damnis, & commodis, quibus afficiuntur homines ab hominibus. déq[ue] variis contractibus, iudiciis, sententiis, testificationibus, iure-iurando, de poenis, de Messia quoq[ue] & resurrectione mortuorum deniq[ue] de cultu alienorum deorum: & huiusmodi aliis negotiis, hominum inter ipsos.
 
 Quintus ordo vocatur ‏‫קדשים‬‎ , i[d est] de rebus consecratis. Etenim in eo disputatur de loco, deq[ue] modo sacrificandi. & de animantibus ad uictimas utilibus. de libis sacris. deniq[ue] de preciis, quibus quaeq[ue] res Deo dicatae possunt redimi. & c[etera].
 
 Sextus ordo titulum habet ‏‫טהרות‬‎ , id aute[m] significat, res mundas. Nam in hoc disceptant Iudaei, sanè pueriliter plerumq[ue] de uariis modis, quibus res tum contaminantur, tum expurga[n]tur. Atq[ue] tot sunt ueluti genera uniuersae doctrinae Iudaicae, qua[m] vocant ‏‫תלמוד‬‎ , hoc est, doctrinam. Diuiduntur autem singula rursus in aliquot ‏‫מסכתות‬‎ , hoc est, dispositiones. Nam primu[m] genus, siue ordo primus, continet, dispositiones undecim. Secu[n]dus, duodecim. Tertius, septem. Quartus, octo. Quintus, undecim. Sextus, tredecim. Rursus unaquaeq[ue] dispositio diducitur in plures ‏‫פרקים‬‎ , hoc est, distinctiones, & tamqua[m] capita rerum. Sed non pergam enumerare singula, ne in re non necessaria longior fiam. Est autem ‏‫תלמוד‬‎ duplex: alterum Ierosolymitanu[m] voca[n]t. hoc conscripsit quida[m] ‏‫ר' יוחנן‬‎ , R[abbi] Ioannes, annis circiter duce[n]tis post euersum à Tito templum. ultimum tamen ‏‫סדר‬‎ , siue ordinem, qui uocatur ‏‫טהרות‬‎ , non absoluit ille, cu[m] ei uita non suppeteret; sed eius successores, synagogae principes. Alteru[m] uocant Babylonicum: & hoc paenè solo utuntur Iudaei ubiq[ue] gentium. Huius ‏‫משניות‬‎ , hoc est, δευτερωσεις, quae sunt tamqua[m] ipsum textu[m]; conscripserant multi collati studiis, qui tum principes Synagogae era[n]t, anno circiter ce[n]tesimo et vicesimo, post expugnata[m] atq[ue] vastata[m] à Tito urbe[m] sancta[m]. Nec annis, post illud te[m]pus, pluribus quàm circiter dece[m], co[m]posuit quidam Rabbi, dictus ‏‫בר קפרא‬‎ , additiones, quas uocant ‏‫תוספתא‬‎ . Ceteru[m] ad illas Deuteroses addi ta[n]dem coeperunt, tamquam com[m]entaria, quae voca[n]t, ‏‫גמרא‬‎ , hoc est, absolutione[m] perfectionemq[ue], anno post uastatu[m] à Tito templum, ter centesimo, quinquagesimo, à quoda[m] Rabbino, nomine ‏‫ר' אשי‬‎ . Sed cùm is annis circiter octo in ea re opera[m] multam consumpsisset, obiit. Itaq[ue] inchoatum ab ipso opus, tande[m], anno post eius excessu[m], septuagesimo tertio, est ab ipsius filiis, aliisq[ue] sucessoribus absolutum, cum incredibili omnium Iudaeoru[m] qui tunc usquam uiuebant; gaudio & exsultatione. Fuerunt igitur in hoc suo Doctrinali co[m]ponendo districti Iudaei annis circiter octoginta. Sed dabit mihi veniam lector, quòd haec longius persecutus sim. putaba[m] enim nostris hominibus parum nota esse.
 
-‏‫רבות‬‎ . Sunt commentaria ex ueterum dictis scriptisq[ue] congesta, in quinq[ue] libros Mosis. Eorum auctor nomen habebat, ‏‫רבה‬‎ , filius Nechmanni. Conscripsit autem anno Christi circiter ter centesimo. Nam illa ‏‫רבות‬‎ , quae Moses Hadarsan composuerat, sunt à Iudaeis, quantum apparet, abolita: quòd a nostris mysteriis uiderentur fauere in multis locis.
+‎‏‫רבות‬‎ . Sunt commentaria ex ueterum dictis scriptisq[ue] congesta, in quinq[ue] libros Mosis. Eorum auctor nomen habebat, ‏‫רבה‬‎ , filius Nechmanni. Conscripsit autem anno Christi circiter ter centesimo. Nam illa ‏‫רבות‬‎ , quae Moses Hadarsan composuerat, sunt à Iudaeis, quantum apparet, abolita: quòd a nostris mysteriis uiderentur fauere in multis locis.
 
-‏‫מסרת‬‎ , liber, in quo annotata sunt ea, quae ad scripturam, atq[ue] ad notas uocales accentusq[ue] sacrarum literarum pertinent. Eius auctores fuere olim multi; & quide[m] illi ipsi, qui principes fuere illarum notarum in Bibliis scribendarum; ut ait Elias Leuita, qui nostra memoria etia[m] ipse rem ista[m] egregio opera illustrauit.
+‎‏‫מסרת‬‎ , liber, in quo annotata sunt ea, quae ad scripturam, atq[ue] ad notas uocales accentusq[ue] sacrarum literarum pertinent. Eius auctores fuere olim multi; & quide[m] illi ipsi, qui principes fuere illarum notarum in Bibliis scribendarum; ut ait Elias Leuita, qui nostra memoria etia[m] ipse rem ista[m] egregio opera illustrauit.
 
-‏‫מכילתא‬‎ . Sunt commentaria in maximam partem Exodi, ex ueterum dictis composita, à quodam R[abbi] Ismaele & sociis, ante Doctrinale Babylonicum.
+‎‏‫מכילתא‬‎ . Sunt commentaria in maximam partem Exodi, ex ueterum dictis composita, à quodam R[abbi] Ismaele & sociis, ante Doctrinale Babylonicum.
 
-‏‫ילמדנו‬‎ siue ‏‫תנחומא‬‎ . comme[n]taria sunt qualia quae proximè dicebam. sed in quinq[ue] Mosis libros. Eorum auctor est ‏‫ר' תנחומא‬‎ & ipse cum primis uetus.
+‎‏‫ילמדנו‬‎ siue ‏‫תנחומא‬‎ . comme[n]taria sunt qualia quae proximè dicebam. sed in quinq[ue] Mosis libros. Eorum auctor est ‏‫ר' תנחומא‬‎ & ipse cum primis uetus.
 
-‏‫סדר עולם‬‎ , hoc est, Series mundi: liber chronicus, continens temporum rationem, quam omnes Iudaei plenis approbationis velis sequuntur, iam usque ab aliquot retrò saeculis.
+‎‏‫סדר עולם‬‎ , hoc est, Series mundi: liber chronicus, continens temporum rationem, quam omnes Iudaei plenis approbationis velis sequuntur, iam usque ab aliquot retrò saeculis.
 
-‏‫מדרשות‬‎ in Psalmos; in Cantica; in Ecclesiasten; in Ruth; in Lamentationes Ieremiae; in Esther; in Prouerbia; denique ‏‫מדרש‬‎ Samuelis. Sunt aute[m] ‏‫מדרשות‬‎ prorsus illiusmodi comme[n]taria, qualia ‏‫רבות‬‎ , quae nuper dicebam. neq[ue] iis, etiam uetustate cedunt. quaedam etiam, nisi fallor, superant. Sunt enim etiam ipsa co[n]scripta ab illis, qui diceba[n]tur ‏‫אמוראים‬‎ . Floruerunt autem ‏‫אמוראים‬‎ ferè ab anno Christi ducentesimo quadragesimo, usq[ue] ad eius annum quadringentesimum septuagesimum sextum quo anno obiit ‏‫רב סימא בן רבא‬‎ , qui fuit ultimus inter ‏‫אמוראים‬‎ .
+‎‏‫מדרשות‬‎ in Psalmos; in Cantica; in Ecclesiasten; in Ruth; in Lamentationes Ieremiae; in Esther; in Prouerbia; denique ‏‫מדרש‬‎ Samuelis. Sunt aute[m] ‏‫מדרשות‬‎ prorsus illiusmodi comme[n]taria, qualia ‏‫רבות‬‎ , quae nuper dicebam. neq[ue] iis, etiam uetustate cedunt. quaedam etiam, nisi fallor, superant. Sunt enim etiam ipsa co[n]scripta ab illis, qui diceba[n]tur ‏‫אמוראים‬‎ . Floruerunt autem ‏‫אמוראים‬‎ ferè ab anno Christi ducentesimo quadragesimo, usq[ue] ad eius annum quadringentesimum septuagesimum sextum quo anno obiit ‏‫רב סימא בן רבא‬‎ , qui fuit ultimus inter ‏‫אמוראים‬‎ .
 
-‏‫שאלתות‬‎ , i[d est] quaestiones de constitutionibus sacris, quae in quinq[ue] Mosis libris habentur. Conscripsit autem eas Rabbi ‏‫אחאי‬‎ , qui floruit anno Christi septingentesimo quadragesimo. fuitq[ue] unus ex iis, quos uocaba[n]t ‏‫גאונים‬‎ , quasi principes uiros dicas. Commentaria in quinq[ue] libros Mosis, quae conscripsit ‏‫ר' שמעון בן יוחי‬‎ , circa te[m]pora Adriani Imperatoris.
+‎‏‫שאלתות‬‎ , i[d est] quaestiones de constitutionibus sacris, quae in quinq[ue] Mosis libris habentur. Conscripsit autem eas Rabbi ‏‫אחאי‬‎ , qui floruit anno Christi septingentesimo quadragesimo. fuitq[ue] unus ex iis, quos uocaba[n]t ‏‫גאונים‬‎ , quasi principes uiros dicas. Commentaria in quinq[ue] libros Mosis, quae conscripsit ‏‫ר' שמעון בן יוחי‬‎ , circa te[m]pora Adriani Imperatoris.
 
-‏‫ספרא‬‎ , siue, ‏‫תורת כהנים‬‎ , commentaria in Leuiticu[m] uetusta cum primis, quorum auctor dictus est Rabbi Iuda. Eum ego, coniectura quada[m], auguror fuisse, caecu[m] illum; qui inter ‏‫גאונים‬‎ floruit anno Christi circiter septinge[n]tesimo sexagesimo. fieri tamen potest, ut fallar.
+‎‏‫ספרא‬‎ , siue, ‏‫תורת כהנים‬‎ , commentaria in Leuiticu[m] uetusta cum primis, quorum auctor dictus est Rabbi Iuda. Eum ego, coniectura quada[m], auguror fuisse, caecu[m] illum; qui inter ‏‫גאונים‬‎ floruit anno Christi circiter septinge[n]tesimo sexagesimo. fieri tamen potest, ut fallar.
 
 Sequuntur libri Cabbalistici manu scripti aliquot, eiusdem Andreae Masij.
 
-‏‫שערי אורה‬‎ , hoc est, porta lucis. Cuius libri ueluti specimen quodda[m] exhibuit Latinè, nostra ferè memoria, Paulus Riccius Caesaris Maxaemiliani medicus.
+‎‏‫שערי אורה‬‎ , hoc est, porta lucis. Cuius libri ueluti specimen quodda[m] exhibuit Latinè, nostra ferè memoria, Paulus Riccius Caesaris Maxaemiliani medicus.
 
-‏‫ר' עקיבא‬‎ , de apicibus literarum. Floruit ille tempore Adriani Imper[atoris] cuius iussu dilaniatus est: cu[m] fautor atq[ue] adiutor fuisset secessionis, quam apud Iudaeos fecerat ‏‫בר כוזיבא‬‎ , Bar-Cosba.
+‎‏‫ר' עקיבא‬‎ , de apicibus literarum. Floruit ille tempore Adriani Imper[atoris] cuius iussu dilaniatus est: cu[m] fautor atq[ue] adiutor fuisset secessionis, quam apud Iudaeos fecerat ‏‫בר כוזיבא‬‎ , Bar-Cosba.
 
 Liber de decem ‏‫ספירות‬‎ , incerto auctore. cum explanatione adiecta.
 
-‏‫ספר יצירה‬‎ , liber de creatione. cuius fabulantur Iudaei auctore[m] fuisse Adamum: Adscripta sunt diuersa etiam commentaria.
+‎‏‫ספר יצירה‬‎ , liber de creatione. cuius fabulantur Iudaei auctore[m] fuisse Adamum: Adscripta sunt diuersa etiam commentaria.
 
 Liber inscriptus ‏‫משנת אברהם אבינו ויוסף בן עוזיאל‬‎ , hoc est, Deuterosis Abrahami patris nostri. & Rabbi Iosephi Vzielis filij. Sunt etiam ista tamquam commentaria libri ‏‫יצירה‬‎ .
 
@@ -235,25 +235,25 @@ Liber inscriptus ‏‫כתר שם טוב‬‎ , i[d est] Corona boni nominis; 
 
 Liber inscriptus ‏‫שרשים מספרי קבלה‬‎ , hoc est, radices librorum Cabbalisticorum. neque hic auctoris nomen apparet.
 
-‏‫מערכת האלוהות‬‎ , hoc est, dipositio rerum diuinaru[m]: liber in quo nihil ferè est praetermissum, quod ad Cabbalisticam philosophiam pertineat.
+‎‏‫מערכת האלוהות‬‎ , hoc est, dipositio rerum diuinaru[m]: liber in quo nihil ferè est praetermissum, quod ad Cabbalisticam philosophiam pertineat.
 
-‏‫ספר הבהיר‬‎ , i[d est] liber ilustris. Eius auctor fuit, ut tradunt Iudaei, ‏‫ר' נחוניא בן הקנה‬‎ , qui uixit ante composites Deuteroses Doct[rinalis] Hebr[aeorum]. Fuit enim ex ‏‫תנאים‬‎ , qui in ipsis deuterosibus citantur. In quibus huius quoq[ue] nomen non rarò occurit. Vidi ego etiam aliquando huius commentaria in Mosis libros. sed adhuc non potui adipisci.
+‎‏‫ספר הבהיר‬‎ , i[d est] liber ilustris. Eius auctor fuit, ut tradunt Iudaei, ‏‫ר' נחוניא בן הקנה‬‎ , qui uixit ante composites Deuteroses Doct[rinalis] Hebr[aeorum]. Fuit enim ex ‏‫תנאים‬‎ , qui in ipsis deuterosibus citantur. In quibus huius quoq[ue] nomen non rarò occurit. Vidi ego etiam aliquando huius commentaria in Mosis libros. sed adhuc non potui adipisci.
 
-‏‫פירוש תפלה‬‎ , hoc est, explanatio orationum, & precationum aliquot, quas solent Iudaei ad Deum adhibere. Hunc librum conscripsit R[abbi] Menahem Recanatensis: eoq[ue] prosequitur abstrusissima quaeq[ue] in intima philosophia Cabbalistica: Deiq[ue] proprietates, ut uocamus, explicat: & qua mente orandus sit Deus, docet.
+‎‏‫פירוש תפלה‬‎ , hoc est, explanatio orationum, & precationum aliquot, quas solent Iudaei ad Deum adhibere. Hunc librum conscripsit R[abbi] Menahem Recanatensis: eoq[ue] prosequitur abstrusissima quaeq[ue] in intima philosophia Cabbalistica: Deiq[ue] proprietates, ut uocamus, explicat: & qua mente orandus sit Deus, docet.
 
-‏‫סוד הייחוד‬‎ , Mysteriu[m] unitatis. Et hunc libellum ab illo Rabbi Menahem conscriptum esse suspicor. Eius argumentum praecipuè uersatur in simplicissima Dei unitate ostendenda.
+‎‏‫סוד הייחוד‬‎ , Mysteriu[m] unitatis. Et hunc libellum ab illo Rabbi Menahem conscriptum esse suspicor. Eius argumentum praecipuè uersatur in simplicissima Dei unitate ostendenda.
 
-‏‫עשר ספירות‬‎ , Explanatio est dece[m] numeroru[m], quibus Cabbalistae maximam suae doctrinae parte[m] tradu[n]t: sed breuis admodum. Auctoris nomen non apparet.
+‎‏‫עשר ספירות‬‎ , Explanatio est dece[m] numeroru[m], quibus Cabbalistae maximam suae doctrinae parte[m] tradu[n]t: sed breuis admodum. Auctoris nomen non apparet.
 
-‏‫שם המפורש‬‎ , hoc est, Nomen explicatum, liber Cabbalisticus sanè mirabiliter scriptus, tacito auctore.
+‎‏‫שם המפורש‬‎ , hoc est, Nomen explicatum, liber Cabbalisticus sanè mirabiliter scriptus, tacito auctore.
 
 Epitome libri, qui inscribi ‏‫מבחר המאמרים‬‎ . Scripsit autem olim eum librum quidam Rabbi Nathan; cùm quinque Mosis libros arcanis modis interpretaretur; atque sacrum historiam, ad rectam & sanctam communis uitae uiam ubique acco[m]modaret. Itaq[ue] libellus iste lectu profectò dignissimus est. Sed parum Cabbalisticus.
 
 Liber qui inscribitur ‏‫מאזני העיונים‬‎ , id autem est, statera co[n]templationum. Neq[ue] iste liber ferè distringitur in Cabbalistarum philosophia; sed ipsum creatorem, & res creatas contemplatur: qualis sit cuiq[ue] indita natura, & c[etera].
 
-‏‫שערי צדק‬‎ , Porta Iustitiae: liber prorsus cabbalisticus. in quo ea doctrina, quae in Porta Lucis; de quo libro suprà dixi; ueluti inchoata erat, absoluitur. Est autem utriusq[ue] libri idem auctor, Rabbi Ioseph, cognomento Nyctelo. Cuius etiam pauca quaedam, Cabbalistico more scripta de notis uocalibus nominis diuini, apud me sunt. Et hi sunt ferè libri Cabbalistici, manuscripti, quos apud me habeo. Ceterùm alij auctores typis peruulgati, ex recentioribus, quibus usus sum, hi sunt.
+‎‏‫שערי צדק‬‎ , Porta Iustitiae: liber prorsus cabbalisticus. in quo ea doctrina, quae in Porta Lucis; de quo libro suprà dixi; ueluti inchoata erat, absoluitur. Est autem utriusq[ue] libri idem auctor, Rabbi Ioseph, cognomento Nyctelo. Cuius etiam pauca quaedam, Cabbalistico more scripta de notis uocalibus nominis diuini, apud me sunt. Et hi sunt ferè libri Cabbalistici, manuscripti, quos apud me habeo. Ceterùm alij auctores typis peruulgati, ex recentioribus, quibus usus sum, hi sunt.
 
-R[abbi] Mosis Maimonij Aegyptij explanatio in Doctrinalis Misnaioth, siue deuteroses. Eiusde[m] liber qui inscribitur ‏‫מורה הנבוכים‬‎ *(extracted "מורה הנבוכים" — this one is atypical: word order here actually reads correctly forward already, i.e. no reversal needed; flagging for transparency since it breaks the pattern)*, hoc est, doctor eorum qui dubitant, neq[ue] se expedire possunt.
+R[abbi] Mosis Maimonij Aegyptij explanatio in Doctrinalis Misnaioth, siue deuteroses. Eiusde[m] liber qui inscribitur ‏‫מורה הנבוכים‬‎ , hoc est, doctor eorum qui dubitant, neq[ue] se expedire possunt.
 
 In hunc librum varia diversoru[m] auctoru[m] commentaria, partim edita in lucem typis, alia manu scripta.
 
@@ -272,9 +272,9 @@ R[abbi] Isaac Cari liber, inscriptus ab eo, ‏‫תולדות יצחק‬‎ , 
 
 R[abbi] Abraham Leuitae liber, cui titulus est, Cabbala. quo ille res gestas, atque ipsos principes synagogae apud Iudaeos, ab exsilio Babylonico, ad suam usq[ue] memoria[m], hoc est, usq[ue] ad annum Christi circiter millesimu[m] centesimum & sexagesimum, luculenter explicauit.
 
-‏‫אבקת רוכל‬‎ hoc est, puluis aromaticus; liber cuiusda[m] Rabbi Iacob de bellis Messiae cum Antichristo, siue Gog & Magog. Tum de statu animarum post resurrectionem. deniq[ue] de homine creato & de quibusdam dictis Doctorum Hebr[aeorum] explicatis.
+‎‏‫אבקת רוכל‬‎ hoc est, puluis aromaticus; liber cuiusda[m] Rabbi Iacob de bellis Messiae cum Antichristo, siue Gog & Magog. Tum de statu animarum post resurrectionem. deniq[ue] de homine creato & de quibusdam dictis Doctorum Hebr[aeorum] explicatis.
 
-‏‫ספר המוסר‬‎ , hoc est, liber disciplinae: scriptus à quoda[m] R. Iuda. quo ille tum ea, quae ad commune[m] hominum vitam attinent, tum multa insuper legis diuinae mysteria, sed Iudaico more explicauit.
+‎‏‫ספר המוסר‬‎ , hoc est, liber disciplinae: scriptus à quoda[m] R. Iuda. quo ille tum ea, quae ad commune[m] hominum vitam attinent, tum multa insuper legis diuinae mysteria, sed Iudaico more explicauit.
 
 Liber inscriptus, ‏‫עיקרים‬‎ , hoc est, fundamenta sacrae legis videlicet, auctore Rabbi Iosepho Albo Soriense Hispano: doctus profectò liber: & ex media philosophia scriptus. Diuisus est autem in ‏‫מאמרים‬‎ , siue orationes quatuor. & harum unaquaeque in multa & varia capita. Prima oratione agitur universè de fundamentis diuinae legis; quae & qualia sint. Secunda, de primo fundamento, hoc est, de ipsa Dei essential, ut sic dicam. Tertia, de secundo fundamento. Id aute[m] est, Legem quam Moses edixit, caelestem esse. Quarta, de fundamento tertio, quod est; de poena malorum hominum, deq[ue] praemio proborum.
 
@@ -282,23 +282,23 @@ Liber cui titulus est, ‏‫נוה שלום‬‎ , i[d est] habitatio pacis. E
 
 Liber inscriptus ‏‫הליכות עולם‬‎ , consuetudo mundi. Est introductio ad Doctoru[m] Hebr[aeorum] disciplinam. Eius auctor est R. Iosua Leuita.
 
-Liber inscriptus ‏‫פסיקה הליכות‬‎ *(likely intended as "פסקי הלכות" / Pisqey Halakhot per endnote 41 — beyond the word-order issue, the letters themselves look off here, so I'm leaving this one as extracted rather than "correcting" it)* auctore R. Menahem Ricinatense. quo ille, quid in Iudaeorum quibusuis caeremoniis obseruandum sit, definiuit, tamquam pronuniatis sententiis.
+Liber inscriptus ‏‫פסיקה הליכות‬‎ auctore R. Menahem Ricinatense. quo ille, quid in Iudaeorum quibusuis caeremoniis obseruandum sit, definiuit, tamquam pronuniatis sententiis.
 
-‏‫ספר הישר‬‎ i[d est] liber recti. Eius scriptor est, ‏‫רבינו תם‬‎ . Tractatur in eo, doctè sanè, et minimè vulgariter, de fundamentis atq[ue] mysteriis cultus diuini.
+‎‏‫ספר הישר‬‎ i[d est] liber recti. Eius scriptor est, ‏‫רבינו תם‬‎ . Tractatur in eo, doctè sanè, et minimè vulgariter, de fundamentis atq[ue] mysteriis cultus diuini.
 
-‏‫איילה אהבים‬‎ *(extracted "אהבים אילה"; reversed word order gives "אילה אהבים" — the first word may be a variant/simplified spelling of "איילת," Ayelet, per endnote 43; flagging the spelling as uncertain)* , Cerua amorum. Est explanatio & co[m]mentarius in Cantica Canticorum, auctore Solomone Leuita.
+‎‏‫איילה אהבים‬‎ , Cerua amorum. Est explanatio & co[m]mentarius in Cantica Canticorum, auctore Solomone Leuita.
 
-‏‫כוזרי‬‎ Liber continens variam disputatione[m] de religione Hebraeorum per colloquium. Scripsit eum Rab[bi] Iudas Leuita Hispanus Arabicè. Sed est in Hebraica[m] linguam traductus.
+‎‏‫כוזרי‬‎ Liber continens variam disputatione[m] de religione Hebraeorum per colloquium. Scripsit eum Rab[bi] Iudas Leuita Hispanus Arabicè. Sed est in Hebraica[m] linguam traductus.
 
-‏‫אור העמים‬‎ , Lux Populorum. In hoc libro agitur de Deo, an sit primus omnium rerum opifex. an corpus, an uero animus. Vnus, an plures. Cognoscens, moderansq[ue], res omnes, Omnipotens, an vero secus. Deinde hominis animus, possit ne corpus relinquere; res diuinas contemplari. & quae sunt his similes disputationes: est autem eius scriptor ‏‫ר' עובדיה מספורנו‬‎ .
+‎‏‫אור העמים‬‎ , Lux Populorum. In hoc libro agitur de Deo, an sit primus omnium rerum opifex. an corpus, an uero animus. Vnus, an plures. Cognoscens, moderansq[ue], res omnes, Omnipotens, an vero secus. Deinde hominis animus, possit ne corpus relinquere; res diuinas contemplari. & quae sunt his similes disputationes: est autem eius scriptor ‏‫ר' עובדיה מספורנו‬‎ .
 
-‏‫מבחר הפנינים‬‎ , hoc est, selectissimae gemmae. Sunt selectae sententiae ex veterum dictis, de sapientia, de prudentia, iniustitia, temperantia. & in summa, de omnibus ferè virtutibus & vitiis: atq[ue] aliis hominu[m] affectionibus: veluti de amore, de odio, de diuitiis, de paupertate &c. Cum doctis commentariis.
+‎‏‫מבחר הפנינים‬‎ , hoc est, selectissimae gemmae. Sunt selectae sententiae ex veterum dictis, de sapientia, de prudentia, iniustitia, temperantia. & in summa, de omnibus ferè virtutibus & vitiis: atq[ue] aliis hominu[m] affectionibus: veluti de amore, de odio, de diuitiis, de paupertate &c. Cum doctis commentariis.
 
-‏‫בחינת עולם‬‎ i. experimentum mundi: libellus à ‏‫ר' ידעיה‬‎ Philosopho conscriptus, quo docet, res huius mundi caducas atq[ue] incertas esse. & proinde ad solas caelestes & diuinas nobis esse aspirandum. Adscripta est etiam explanation non inerudita.
+‎‏‫בחינת עולם‬‎ i. experimentum mundi: libellus à ‏‫ר' ידעיה‬‎ Philosopho conscriptus, quo docet, res huius mundi caducas atq[ue] incertas esse. & proinde ad solas caelestes & diuinas nobis esse aspirandum. Adscripta est etiam explanation non inerudita.
 
-‏‫אבן בחן‬‎ hoc est, lapis experimenti. Libellus scriptus à R. Calonymo Hispano, anno Christi circiter millesimo ducentesimo trigesimo nono. Argumentum ferè eiusmodi est cuiusmodi superiori libelli. Continet enim varia adhortamenta, quibus hominum animus à vanis mundi rebus auertatur ad res aeternas.
+‎‏‫אבן בחן‬‎ hoc est, lapis experimenti. Libellus scriptus à R. Calonymo Hispano, anno Christi circiter millesimo ducentesimo trigesimo nono. Argumentum ferè eiusmodi est cuiusmodi superiori libelli. Continet enim varia adhortamenta, quibus hominum animus à vanis mundi rebus auertatur ad res aeternas.
 
-‏‫ספר תורה אור‬‎ libellus inscriptus, Lex lumen est. Tractat de ultimo animae thesauro: id est de vita vel beata, vel infelice. de Paradiso; de Gehenna; & de saeculo post mortem venturo. Doctus sane libellus, in quo tamen plurimae sunt Iudaicae nugae, et superstitions. Eius auctor est R. Ioseph Dauidis filius, Hispanus. Scripsit autem patrem nostrorum memoria.
+‎‏‫ספר תורה אור‬‎ libellus inscriptus, Lex lumen est. Tractat de ultimo animae thesauro: id est de vita vel beata, vel infelice. de Paradiso; de Gehenna; & de saeculo post mortem venturo. Doctus sane libellus, in quo tamen plurimae sunt Iudaicae nugae, et superstitions. Eius auctor est R. Ioseph Dauidis filius, Hispanus. Scripsit autem patrem nostrorum memoria.
 
 R. Menahem F. Simonis commentaria in Ieremiam, & Ezechielem.  
 R. Benjamin F. Iudae Romani comment[aria] in duos posteriores libros Regum à capite septimo usque ad finem. Et in Paralipomena. Et in Prouerbia Solomonis.  
