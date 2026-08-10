@@ -278,16 +278,18 @@ const SYNONYM_GROUPS = synonyms.groups;
                     els.synNote.classList.add("hidden");
                 }
 
-                // With no query and no filters, show nothing (prompt state).
+                // With no query and no filters, show the "type to search" prompt.
                 let searches;
                 if (!raw.trim() && !anyFilterActive()) {
                     els.results.innerHTML = "";
                     els.count.textContent = "";
                     els.empty.classList.add("hidden");
+                    els.prompt.classList.remove("hidden");
                     renderFilters(null);
                     if (pushUrl) syncUrl();
                     return;
                 }
+                els.prompt.classList.add("hidden");
 
                 if (!raw.trim()) {
                     // Browse-by-filter: null query returns everything matching filters.
@@ -357,6 +359,20 @@ const SYNONYM_GROUPS = synonyms.groups;
                 e.preventDefault();
                 run();
                 els.q.blur();
+            });
+            // Search as you type (debounced), Google-style incremental results.
+            let debounce;
+            els.q.addEventListener("input", () => {
+                clearTimeout(debounce);
+                debounce = setTimeout(() => run(), 180);
+            });
+            // Example-term shortcuts in the empty state.
+            document.querySelectorAll(".example-term").forEach((btn) => {
+                btn.addEventListener("click", () => {
+                    els.q.value = btn.textContent.trim();
+                    run();
+                    els.q.focus();
+                });
             });
             els.clear.addEventListener("click", () => {
                 for (const key of Object.keys(selected)) selected[key].clear();
