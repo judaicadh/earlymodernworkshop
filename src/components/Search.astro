@@ -44,6 +44,18 @@ import Search from "astro-pagefind/components/Search.astro";
             />
         </div>
 
+        <!-- Footer: link to the full advanced search page (filters, result counts). -->
+        <div class="shrink-0 flex items-center justify-between gap-3 px-4 py-3 border-t border-ink/10 dark:border-paper/15">
+            <span class="text-xs text-ink/50 dark:text-paper/50">Press <kbd class="rounded border border-ink/20 dark:border-paper/25 px-1 py-0.5 text-[0.65rem] font-sans">Enter</kbd> to see all results</span>
+            <a id="advanced-search-link" href="/search"
+               class="inline-flex items-center gap-1.5 text-sm font-medium text-venetian dark:text-venetian-light hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt rounded-sm">
+                Advanced search
+                <svg xmlns="http://www.w3.org/2000/svg" class="size-4" fill="none" viewBox="0 0 24 24" stroke-width="1.75" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                </svg>
+            </a>
+        </div>
+
         <!-- Adapt the v2 <pagefind-searchbox> (dropdown widget) to live inside our
              modal: fill the panel width and render results in-flow instead of as a
              floating absolute-positioned dropdown, so the modal body scrolls them. -->
@@ -144,6 +156,7 @@ import Search from "astro-pagefind/components/Search.astro";
     backdrop?.addEventListener('click', close);
 
     // Enter in the search box → go to the full /search results page (Google-style).
+    const advLink = document.getElementById('advanced-search-link');
     overlay?.addEventListener('keydown', (e) => {
         if (e.key !== 'Enter') return;
         const input = e.target;
@@ -152,6 +165,13 @@ import Search from "astro-pagefind/components/Search.astro";
         if (!q) return;
         e.preventDefault();
         window.location.href = `/search?q=${encodeURIComponent(q)}`;
+    });
+    // Keep the "Advanced search" link carrying the current query.
+    overlay?.addEventListener('input', (e) => {
+        const input = e.target;
+        if (!input || !input.matches?.('.pf-searchbox-input, input[type="search"]') || !advLink) return;
+        const q = (input.value || '').trim();
+        advLink.href = q ? `/search?q=${encodeURIComponent(q)}` : '/search';
     });
 
     const isOpen = () => overlay && !overlay.classList.contains('hidden');

@@ -23,23 +23,23 @@ const SYNONYM_GROUPS = synonyms.groups;
             <!-- Search bar: type + Enter, like a familiar search engine -->
             <form id="search-form" role="search" class="mb-8" autocomplete="off">
                 <div class="flex flex-col sm:flex-row gap-3">
-                    <label class="relative flex-1">
-                        <span class="sr-only">Search terms</span>
+                    <div class="flex-1 flex items-center gap-3 rounded-sm border border-ink/25 dark:border-paper/25 bg-white dark:bg-paper/5 px-4 focus-within:border-gilt focus-within:ring-2 focus-within:ring-gilt transition-colors">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
-                             class="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 size-5 text-ink/40 dark:text-paper/40">
+                             class="shrink-0 size-5 text-ink/40 dark:text-paper/40" aria-hidden="true">
                             <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
                         </svg>
+                        <label for="q" class="sr-only">Search terms</label>
                         <input
                                 id="q"
                                 name="q"
                                 type="search"
                                 enterkeyhint="search"
                                 placeholder="Search e.g. kehillah, kashrut, Venice…"
-                                class="w-full rounded-sm border border-ink/25 dark:border-paper/25 bg-white dark:bg-paper/5 pl-12 pr-4 py-3.5 text-ink dark:text-paper placeholder:text-ink/40 dark:placeholder:text-paper/40 focus:outline-none focus:border-gilt focus-visible:ring-2 focus-visible:ring-gilt transition-colors"
+                                class="flex-1 min-w-0 border-0 bg-transparent py-3.5 text-ink dark:text-paper placeholder:text-ink/40 dark:placeholder:text-paper/40 focus:outline-none focus:ring-0"
                         />
-                    </label>
+                    </div>
                     <button type="submit"
-                            class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-sm bg-burgundy text-white font-semibold tracking-wide shadow-md ring-1 ring-burgundy/40 hover:bg-burgundy-light focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+                            class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-sm bg-burgundy! text-white! font-semibold tracking-wide shadow-md ring-1 ring-burgundy/40 hover:bg-burgundy-light! focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
                         Search
                     </button>
                 </div>
