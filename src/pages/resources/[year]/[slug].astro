@@ -49,6 +49,8 @@ if (Array.isArray(resource_link) && resource_link.length > 0) {
 }
 const allHeadings = [...extraHeadings, ...headings];
 const safeTags: string[] = tags ?? [];
+const theme = document.data.event?.theme;
+const languages: string[] = language ?? [];
 ---
 
 <Layout>
@@ -87,6 +89,17 @@ const safeTags: string[] = tags ?? [];
     <span class="text-ink dark:text-paper normal-case tracking-normal text-sm max-w-[18rem] truncate">{title}</span>
     </div>
     </nav>
+
+    {/* Pagefind filters & metadata — hidden; power the /search page facets and result cards */}
+    <div hidden aria-hidden="true">
+    <span data-pagefind-filter="type:resource"></span>
+    <span data-pagefind-filter={`year:${year}`} data-pagefind-meta={`year:${year}`}></span>
+    {author && <span data-pagefind-filter={`scholar:${author}`} data-pagefind-meta={`scholar:${author}`}></span>}
+    {safeTags.map((t) => <span data-pagefind-filter={`tag:${t}`}></span>)}
+    {theme && <span data-pagefind-filter={`tag:${theme}`} data-pagefind-meta={`theme:${theme}`}></span>}
+    {languages.map((l) => <span data-pagefind-filter={`language:${l}`}></span>)}
+    {languages.length > 0 && <span data-pagefind-meta={`languages:${languages.join(', ')}`}></span>}
+    </div>
 
     <!-- Desktop grid: readable content column + steady sidebar -->
     <div class="grid gap-10 lg:gap-12 lg:grid-cols-[minmax(0,72ch)_minmax(280px,340px)] items-start">

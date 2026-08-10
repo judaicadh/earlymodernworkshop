@@ -143,6 +143,17 @@ import Search from "astro-pagefind/components/Search.astro";
     closeBtn?.addEventListener('click', close);
     backdrop?.addEventListener('click', close);
 
+    // Enter in the search box → go to the full /search results page (Google-style).
+    overlay?.addEventListener('keydown', (e) => {
+        if (e.key !== 'Enter') return;
+        const input = e.target;
+        if (!input || !input.matches?.('.pf-searchbox-input, input[type="search"]')) return;
+        const q = (input.value || '').trim();
+        if (!q) return;
+        e.preventDefault();
+        window.location.href = `/search?q=${encodeURIComponent(q)}`;
+    });
+
     const isOpen = () => overlay && !overlay.classList.contains('hidden');
     const isTyping = (el) =>
         el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable);

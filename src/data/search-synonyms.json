@@ -1,0 +1,27 @@
+{
+  "_comment": "Anglicization / transliteration synonym groups for the /search page. Each array is a set of interchangeable spellings of the same term; searching any one also searches the rest. Kept deliberately to transliteration variants (plus a few standard scholarly English forms) rather than plain-English translations, so result sets stay precise. Matched case-insensitively against whole words; a typed word of 4+ letters also matches by prefix (so 'kehil' finds 'kehillah'). Add groups freely.",
+  "groups": [
+    ["kehillah", "kehilla", "kehila", "kehilah", "kehilat", "kehillot", "kehilot", "kehiloth", "kahal", "qehillah", "qahal", "kehillos"],
+    ["kashrut", "kashruth", "kashrus", "kasher"],
+    ["halakhah", "halakha", "halacha", "halachah", "halakhic"],
+    ["herem", "cherem", "haram"],
+    ["ketubah", "ketubbah", "kesuba", "kesubah", "ketuba"],
+    ["takkanah", "takanah", "takkanot", "takanot", "takkanoth"],
+    ["responsa", "responsum", "teshuvot", "teshuva", "teshuvah"],
+    ["beit din", "bet din", "beth din"],
+    ["mikveh", "mikvah", "mikve", "mikvaot"],
+    ["shohet", "shochet", "shohatim"],
+    ["yeshiva", "yeshivah", "yeshivot", "yeshivas"],
+    ["parnas", "parnassim", "parnasim", "parnass"],
+    ["pinkas", "pinkes", "pinqas", "pinkasim"],
+    ["minhag", "minhagim"],
+    ["mohel", "mohelim"],
+    ["converso", "conversos", "marrano", "marranos", "anusim", "crypto-jew", "crypto-jews"],
+    ["hakham", "chacham", "haham", "hakhamim"],
+    ["shabbat", "shabbos", "shabbath", "sabbath"],
+    ["hanukkah", "chanukah", "hanukah", "chanukkah"],
+    ["pesach", "pesah", "passover"],
+    ["sephardi", "sephardic", "sefardi", "sefardic"],
+    ["ashkenazi", "ashkenazic", "ashkenaz"]
+  ]
+}

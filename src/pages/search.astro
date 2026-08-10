@@ -1,0 +1,374 @@
+---
+import Layout from "../layouts/Layout.astro";
+import synonyms from "../data/search-synonyms.json";
+
+const SYNONYM_GROUPS = synonyms.groups;
+---
+
+<Layout>
+    <Fragment slot="head">
+        <title>Search | Early Modern Workshop</title>
+        <meta name="description" content="Search the Early Modern Workshop archive by keyword, scholar, year, theme, and language." />
+        <meta name="robots" content="noindex" />
+    </Fragment>
+
+    <section class="py-12 sm:py-16 bg-parchment dark:bg-ink transition-colors min-h-[70vh]">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+
+            <header class="mb-8">
+                <p class="text-[0.72rem] uppercase tracking-[0.22em] text-bronze dark:text-gilt mb-2">Search the archive</p>
+                <h1 class="font-display text-3xl sm:text-4xl font-semibold text-ink dark:text-paper">Advanced Search</h1>
+            </header>
+
+            <!-- Search bar: type + Enter, like a familiar search engine -->
+            <form id="search-form" role="search" class="mb-8" autocomplete="off">
+                <div class="flex flex-col sm:flex-row gap-3">
+                    <label class="relative flex-1">
+                        <span class="sr-only">Search terms</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
+                             class="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 size-5 text-ink/40 dark:text-paper/40">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                        </svg>
+                        <input
+                                id="q"
+                                name="q"
+                                type="search"
+                                enterkeyhint="search"
+                                placeholder="Search e.g. kehillah, kashrut, Venice…"
+                                class="w-full rounded-sm border border-ink/25 dark:border-paper/25 bg-white dark:bg-paper/5 pl-12 pr-4 py-3.5 text-ink dark:text-paper placeholder:text-ink/40 dark:placeholder:text-paper/40 focus:outline-none focus:border-gilt focus-visible:ring-2 focus-visible:ring-gilt transition-colors"
+                        />
+                    </label>
+                    <button type="submit"
+                            class="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-sm bg-burgundy text-white font-semibold tracking-wide shadow-md ring-1 ring-burgundy/40 hover:bg-burgundy-light focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt transition-colors">
+                        Search
+                    </button>
+                </div>
+                <!-- Synonym notice (e.g. "kehil" also matched kehillah, kahal…) -->
+                <p id="synonym-note" class="mt-2 text-sm text-ink/60 dark:text-paper/60 hidden"></p>
+            </form>
+
+            <div class="grid gap-8 lg:grid-cols-[minmax(220px,260px)_minmax(0,1fr)] items-start">
+
+                <!-- Filters -->
+                <aside class="lg:sticky lg:top-24 space-y-4">
+                    <div class="flex items-center justify-between">
+                        <h2 class="text-[0.7rem] uppercase tracking-[0.22em] text-bronze dark:text-gilt">Filters</h2>
+                        <button id="clear-filters" type="button"
+                                class="text-xs text-ink/50 dark:text-paper/50 hover:text-venetian dark:hover:text-venetian-light hidden focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt rounded-sm">
+                            Clear all
+                        </button>
+                    </div>
+                    <div id="filters" class="space-y-3">
+                        <p class="text-sm text-ink/50 dark:text-paper/50">Loading filters…</p>
+                    </div>
+                </aside>
+
+                <!-- Results -->
+                <div>
+                    <div id="result-count" class="mb-5 text-sm text-ink/70 dark:text-paper/70" aria-live="polite"></div>
+                    <ol id="results" class="space-y-5"></ol>
+                    <div id="empty-state" class="hidden py-16 text-center">
+                        <p class="text-ink/60 dark:text-paper/60">No results found. Try fewer or different terms.</p>
+                    </div>
+                    <div id="index-error" class="hidden py-16 text-center">
+                        <p class="text-ink/60 dark:text-paper/60">The search index isn’t available. It is generated at build time — run <code class="px-1 rounded bg-ink/10 dark:bg-paper/10">npm run build</code> and preview the built site.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style is:global>
+        /* Pagefind excerpt highlight — match the site's Venetian/gilt accents */
+        #results mark {
+            background: transparent;
+            color: var(--venetian, #8e2f23);
+            font-weight: 600;
+            padding: 0;
+        }
+        @media (prefers-color-scheme: dark) {
+            #results mark { color: #d07d68; }
+        }
+    </style>
+
+    <script is:inline define:vars={{ SYNONYM_GROUPS }}>
+        (async () => {
+            const FILTER_ORDER = [
+                { key: "year", label: "Year" },
+                { key: "scholar", label: "Scholar" },
+                { key: "tag", label: "Tag / theme" },
+                { key: "language", label: "Language" },
+            ];
+
+            const els = {
+                form: document.getElementById("search-form"),
+                q: document.getElementById("q"),
+                filters: document.getElementById("filters"),
+                results: document.getElementById("results"),
+                count: document.getElementById("result-count"),
+                empty: document.getElementById("empty-state"),
+                error: document.getElementById("index-error"),
+                clear: document.getElementById("clear-filters"),
+                synNote: document.getElementById("synonym-note"),
+            };
+
+            // ── Load the Pagefind runtime (built by `astro build` into /pagefind) ──
+            let pagefind;
+            try {
+                pagefind = await import(/* @vite-ignore */ "/pagefind/pagefind.js");
+                await pagefind.options({ excerptLength: 25 });
+                await pagefind.init();
+            } catch (err) {
+                console.warn("Pagefind index unavailable:", err);
+                els.filters.innerHTML = "";
+                els.error.classList.remove("hidden");
+                return;
+            }
+
+            // ── Anglicization / synonym expansion ──────────────────────────────
+            const normalize = (w) =>
+                (w || "").toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9'-]/g, "");
+
+            function groupFor(word) {
+                for (const g of SYNONYM_GROUPS) {
+                    for (const term of g) {
+                        const t = normalize(term);
+                        if (!t) continue;
+                        if (t === word) return g;
+                        // prefix/stem match so "kehil" also finds "kehillah", "kahal", …
+                        if (word.length >= 4 && t.startsWith(word)) return g;
+                    }
+                }
+                return null;
+            }
+
+            // Build a set of query strings to run, plus the extra terms we added.
+            function expandQuery(raw) {
+                const base = raw.trim();
+                const queries = new Set();
+                const added = new Set();
+                if (base) queries.add(base);
+                const words = base.split(/\s+/).filter(Boolean);
+                words.forEach((word, i) => {
+                    const nw = normalize(word);
+                    if (!nw) return;
+                    const group = groupFor(nw);
+                    if (!group) return;
+                    group.forEach((syn) => {
+                        if (normalize(syn) === nw) return;
+                        const copy = words.slice();
+                        copy[i] = syn;
+                        queries.add(copy.join(" "));
+                        added.add(syn);
+                    });
+                });
+                return { queries: Array.from(queries).slice(0, 16), added: Array.from(added) };
+            }
+
+            // ── State ──────────────────────────────────────────────────────────
+            const selected = { year: new Set(), scholar: new Set(), tag: new Set(), language: new Set() };
+            let allFilters = {};
+
+            function activeFilters() {
+                const f = { type: ["resource"] };
+                for (const key of Object.keys(selected)) {
+                    if (selected[key].size) f[key] = Array.from(selected[key]);
+                }
+                return f;
+            }
+
+            function anyFilterActive() {
+                return Object.values(selected).some((s) => s.size > 0);
+            }
+
+            // ── Render filter facets ─────────────────────────────────────────────
+            function renderFilters(counts) {
+                els.filters.innerHTML = "";
+                for (const { key, label } of FILTER_ORDER) {
+                    const values = allFilters[key];
+                    if (!values || !Object.keys(values).length) continue;
+
+                    const wrap = document.createElement("details");
+                    wrap.open = key === "year" || selected[key].size > 0;
+                    wrap.className = "group rounded-sm border border-ink/10 dark:border-paper/15 bg-white dark:bg-paper/5";
+
+                    const summary = document.createElement("summary");
+                    summary.className = "cursor-pointer list-none flex items-center justify-between p-3 text-sm font-medium text-ink dark:text-paper";
+                    summary.innerHTML = `<span>${label}</span><svg class="transition-transform group-open:rotate-180 text-gilt" width="16" height="16" viewBox="0 0 24 24"><path fill="currentColor" d="m7 10l5 5l5-5z"/></svg>`;
+                    wrap.appendChild(summary);
+
+                    const list = document.createElement("div");
+                    list.className = "px-3 pb-3 max-h-60 overflow-auto space-y-1.5";
+
+                    const names = Object.keys(values).sort((a, b) =>
+                        key === "year" ? b.localeCompare(a) : a.localeCompare(b)
+                    );
+                    for (const name of names) {
+                        const ctxCount = counts?.[key]?.[name];
+                        const total = values[name];
+                        const shown = ctxCount ?? total;
+                        const id = `f-${key}-${name}`.replace(/[^a-zA-Z0-9_-]/g, "_");
+                        const row = document.createElement("label");
+                        row.htmlFor = id;
+                        row.className = "flex items-center gap-2 text-sm text-ink/80 dark:text-paper/80 cursor-pointer";
+                        const cb = document.createElement("input");
+                        cb.type = "checkbox";
+                        cb.id = id;
+                        cb.checked = selected[key].has(name);
+                        cb.disabled = shown === 0 && !cb.checked;
+                        cb.className = "accent-[#6b1f2e]";
+                        cb.addEventListener("change", () => {
+                            cb.checked ? selected[key].add(name) : selected[key].delete(name);
+                            run();
+                        });
+                        const text = document.createElement("span");
+                        text.className = "flex-1 min-w-0 truncate" + (cb.disabled ? " opacity-40" : "");
+                        text.textContent = name;
+                        const badge = document.createElement("span");
+                        badge.className = "text-xs text-ink/40 dark:text-paper/40";
+                        badge.textContent = shown;
+                        row.append(cb, text, badge);
+                        list.appendChild(row);
+                    }
+                    wrap.appendChild(list);
+                    els.filters.appendChild(wrap);
+                }
+                els.clear.classList.toggle("hidden", !anyFilterActive());
+            }
+
+            // ── Render results ───────────────────────────────────────────────────
+            function resultCard(data) {
+                const li = document.createElement("li");
+                li.className = "rounded-sm border border-ink/10 dark:border-paper/15 bg-white dark:bg-paper/5 shadow-sm p-5 transition-colors hover:border-gilt";
+                const meta = data.meta || {};
+                const year = meta.year ? `<span class="inline-block rounded-sm bg-ink text-paper dark:bg-gilt dark:text-ink text-[0.65rem] font-semibold uppercase tracking-[0.1em] px-2 py-0.5 mr-2 align-middle">${meta.year}</span>` : "";
+                const scholar = meta.scholar ? `<span class="text-sm text-ink/60 dark:text-paper/60">${meta.scholar}</span>` : "";
+                const langs = meta.languages ? `<span class="text-xs text-ink/45 dark:text-paper/45">· ${meta.languages}</span>` : "";
+                li.innerHTML = `
+                    <a href="${data.url}" class="block focus:outline-none focus-visible:ring-2 focus-visible:ring-gilt rounded-sm">
+                        <h3 class="font-display text-xl font-semibold text-ink dark:text-paper mb-1">${year}${data.meta?.title || "Untitled"}</h3>
+                        <div class="flex flex-wrap items-center gap-x-2 mb-2">${scholar}${langs}</div>
+                        <p class="text-sm text-ink/70 dark:text-paper/70 leading-relaxed">${data.excerpt || ""}</p>
+                    </a>`;
+                return li;
+            }
+
+            // ── Run a search (with synonym expansion + filters) ──────────────────
+            let runToken = 0;
+            async function run(pushUrl = true) {
+                const token = ++runToken;
+                const raw = els.q.value;
+                const filters = activeFilters();
+                const { queries, added } = expandQuery(raw);
+
+                // Synonym note
+                if (added.length) {
+                    els.synNote.textContent = `Also matching related spellings: ${added.slice(0, 8).join(", ")}${added.length > 8 ? "…" : ""}`;
+                    els.synNote.classList.remove("hidden");
+                } else {
+                    els.synNote.classList.add("hidden");
+                }
+
+                // With no query and no filters, show nothing (prompt state).
+                let searches;
+                if (!raw.trim() && !anyFilterActive()) {
+                    els.results.innerHTML = "";
+                    els.count.textContent = "";
+                    els.empty.classList.add("hidden");
+                    renderFilters(null);
+                    if (pushUrl) syncUrl();
+                    return;
+                }
+
+                if (!raw.trim()) {
+                    // Browse-by-filter: null query returns everything matching filters.
+                    searches = [pagefind.search(null, { filters })];
+                } else {
+                    searches = queries.map((query) => pagefind.search(query, { filters }));
+                }
+
+                const responses = await Promise.all(searches);
+                if (token !== runToken) return; // a newer search superseded this one
+
+                // Merge + dedupe, keeping best score, and merge contextual filter counts.
+                const byId = new Map();
+                const mergedFilterCounts = {};
+                for (const res of responses) {
+                    for (const r of res.results) {
+                        const prev = byId.get(r.id);
+                        if (!prev || r.score > prev.score) byId.set(r.id, r);
+                    }
+                    if (res.filters) {
+                        for (const fk of Object.keys(res.filters)) {
+                            mergedFilterCounts[fk] = mergedFilterCounts[fk] || {};
+                            for (const [v, c] of Object.entries(res.filters[fk])) {
+                                mergedFilterCounts[fk][v] = Math.max(mergedFilterCounts[fk][v] || 0, c);
+                            }
+                        }
+                    }
+                }
+
+                const merged = Array.from(byId.values()).sort((a, b) => b.score - a.score);
+                renderFilters(mergedFilterCounts);
+
+                const n = merged.length;
+                els.count.textContent = n === 0 ? "" : `${n} result${n === 1 ? "" : "s"}`;
+                els.empty.classList.toggle("hidden", n !== 0);
+
+                els.results.innerHTML = "";
+                const top = merged.slice(0, 60);
+                const datas = await Promise.all(top.map((r) => r.data()));
+                if (token !== runToken) return;
+                for (const d of datas) els.results.appendChild(resultCard(d));
+
+                if (pushUrl) syncUrl();
+            }
+
+            // ── URL sync (shareable searches) ────────────────────────────────────
+            function syncUrl() {
+                const params = new URLSearchParams();
+                if (els.q.value.trim()) params.set("q", els.q.value.trim());
+                for (const key of Object.keys(selected)) {
+                    for (const v of selected[key]) params.append(key, v);
+                }
+                const qs = params.toString();
+                history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+            }
+
+            function readUrl() {
+                const p = new URLSearchParams(location.search);
+                els.q.value = p.get("q") || "";
+                for (const key of Object.keys(selected)) {
+                    selected[key] = new Set(p.getAll(key));
+                }
+            }
+
+            // ── Wire up ──────────────────────────────────────────────────────────
+            els.form.addEventListener("submit", (e) => {
+                e.preventDefault();
+                run();
+                els.q.blur();
+            });
+            els.clear.addEventListener("click", () => {
+                for (const key of Object.keys(selected)) selected[key].clear();
+                run();
+            });
+
+            // Preload the full set of facets so filters show before first search.
+            try {
+                allFilters = await pagefind.filters();
+            } catch (_) {
+                allFilters = {};
+            }
+            delete allFilters.type;
+
+            readUrl();
+            renderFilters(null);
+            if (els.q.value.trim() || anyFilterActive()) {
+                run(false);
+            } else {
+                els.q.focus();
+            }
+        })();
+    </script>
+</Layout>
