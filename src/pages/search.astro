@@ -67,6 +67,13 @@ const SYNONYM_GROUPS = synonyms.groups;
                 <div>
                     <div id="result-count" class="mb-5 text-sm text-ink/70 dark:text-paper/70" aria-live="polite"></div>
                     <ol id="results" class="space-y-5"></ol>
+                    <div id="prompt" class="py-16 text-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1" stroke="currentColor" class="mx-auto size-10 text-ink/25 dark:text-paper/25 mb-4">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                        </svg>
+                        <p class="text-ink/60 dark:text-paper/60">Type a word above to search the archive.</p>
+                        <p class="mt-1 text-sm text-ink/45 dark:text-paper/45">Results appear as you type. Related spellings are matched automatically — try <button type="button" class="example-term underline decoration-dotted underline-offset-2 hover:text-venetian dark:hover:text-venetian-light">kehillah</button>, <button type="button" class="example-term underline decoration-dotted underline-offset-2 hover:text-venetian dark:hover:text-venetian-light">kashrut</button>, or <button type="button" class="example-term underline decoration-dotted underline-offset-2 hover:text-venetian dark:hover:text-venetian-light">converso</button>. Or narrow by filter on the left.</p>
+                    </div>
                     <div id="empty-state" class="hidden py-16 text-center">
                         <p class="text-ink/60 dark:text-paper/60">No results found. Try fewer or different terms.</p>
                     </div>
@@ -107,6 +114,7 @@ const SYNONYM_GROUPS = synonyms.groups;
                 results: document.getElementById("results"),
                 count: document.getElementById("result-count"),
                 empty: document.getElementById("empty-state"),
+                prompt: document.getElementById("prompt"),
                 error: document.getElementById("index-error"),
                 clear: document.getElementById("clear-filters"),
                 synNote: document.getElementById("synonym-note"),
@@ -121,6 +129,7 @@ const SYNONYM_GROUPS = synonyms.groups;
             } catch (err) {
                 console.warn("Pagefind index unavailable:", err);
                 els.filters.innerHTML = "";
+                els.prompt.classList.add("hidden");
                 els.error.classList.remove("hidden");
                 return;
             }
