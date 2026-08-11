@@ -16,6 +16,7 @@ const WORDS: Record<string, number> = {
     seventeenth: 17, eighteenth: 18, nineteenth: 19, twentieth: 20,
 };
 // Pull the earliest 4-digit year (1400–1850) and/or century phrase from a string.
+// Handles century ranges ("18-19th century", "14th-15th century") as the earliest.
 function parseDate(str: string): { year: number | null; century: number | null } {
     if (!str) return { year: null, century: null };
     const years: number[] = [];
@@ -23,15 +24,28 @@ function parseDate(str: string): { year: number | null; century: number | null }
     const yearRe = /\b(1[4-8]\d{2})\b/g;
     while ((m = yearRe.exec(str))) { const y = parseInt(m[1], 10); if (y >= 1400 && y <= 1850) years.push(y); }
     const centuries: number[] = [];
-    const numRe = /(\d{1,2})(?:th|st|nd|rd)[\s-]*century/gi;
+    const rangeRe = /(\d{1,2})(?:th|st|nd|rd)?\s*[-–]\s*(\d{1,2})(?:th|st|nd|rd)?\s*centur/gi;
+    while ((m = rangeRe.exec(str))) { const a = parseInt(m[1], 10), b = parseInt(m[2], 10); if (a >= 13 && a <= 20) centuries.push(a); if (b >= 13 && b <= 20) centuries.push(b); }
+    const numRe = /(\d{1,2})(?:th|st|nd|rd)[\s-]*centur/gi;
     while ((m = numRe.exec(str))) { const n = parseInt(m[1], 10); if (n >= 13 && n <= 20) centuries.push(n); }
-    for (const [w, n] of Object.entries(WORDS)) { if (new RegExp(w + "[\\s-]*century", "i").test(str)) centuries.push(n); }
+    for (const [w, n] of Object.entries(WORDS)) { if (new RegExp(w + "[\\s-]*centur", "i").test(str)) centuries.push(n); }
     years.forEach((y) => centuries.push(Math.floor((y - 1) / 100) + 1));
     return {
         year: years.length ? Math.min(...years) : null,
         century: centuries.length ? Math.min(...centuries) : null,
     };
 }
+
+// A resource's historical date: the primary source's date wins; otherwise the
+// title, then the description (many titles carry "18th-Century" / "(1774)").
+const dateOf = (d: any): { year: number | null; century: number | null } => {
+    const cands = [sourceBySlug[d.data.slug], cleanTitle(d.data.title), d.data.description].filter(Boolean);
+    for (const c of cands) {
+        const r = parseDate(c as string);
+        if (r.century != null) return r;
+    }
+    return { year: null, century: null };
+};
 
 type Entry = { url: string; title: string; author?: string; year: string; sourceYear: number | null; source?: string };
 const entryOf = (d: any): Entry => {
@@ -41,7 +55,7 @@ const entryOf = (d: any): Entry => {
         title: cleanTitle(d.data.title),
         author: d.data.author,
         year: String(d.data.year),
-        sourceYear: parseDate(source).year,
+        sourceYear: dateOf(d).year,
         source,
     };
 };
@@ -66,12 +80,7 @@ const ordinal = (c: number) => `${c}th century`;
 
 const byCentury = new Map<number | "none", Entry[]>();
 for (const d of docs) {
-    // Prefer the primary source's stated date; fall back to a light scan of
-    // the title + description; otherwise leave the period unspecified.
-    const src = sourceBySlug[d.data.slug];
-    let century = parseDate(src).century;
-    if (century == null) century = parseDate([d.data.title, d.data.description].filter(Boolean).join("  ")).century;
-    const key = century ?? "none";
+    const key = dateOf(d).century ?? "none";
     if (!byCentury.has(key)) byCentury.set(key, []);
     byCentury.get(key)!.push(entryOf(d));
 }
