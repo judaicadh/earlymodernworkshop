@@ -1,171 +1,1204 @@
 {
   "_comment": "Per resource: w = where the source(s) were written/produced; m = other places the source mentions. Keyed by the real content slug. Canonical place names must match src/data/gazetteer.json; regions/countries/unknowns are omitted. Used by /map, which shows written and mentioned as two distinct pin styles.",
   "bySlug": {
-    "maximizing-allowances-kashrut": { "w": ["Krakow"], "m": [] },
-    "bedikah-nikur-women": { "w": ["Bonn"], "m": ["Prague"] },
-    "kitchens-identity-italy": { "w": ["Casale Monferrato", "Venice", "Pisa"], "m": [] },
-    "cheese-words-italian": { "w": ["Reggio Emilia"], "m": [] },
-    "wine-kabbalists-safed": { "w": ["Safed"], "m": [] },
-    "beer-politics-lublin-litigation": { "w": ["Lublin", "Warsaw"], "m": [] },
-    "kashrut-new-community": { "w": ["Pisa"], "m": [] },
-    "foodways-emancipation-france": { "w": ["Paris"], "m": [] },
-    "messengers-to-themselves": { "w": ["Jerusalem"], "m": [] },
-    "representation-israel-karo": { "w": ["Safed"], "m": [] },
-    "diamo-creator-poem-purim": { "w": ["Dubrovnik"], "m": [] },
-    "provenzalo-responsum-tennis": { "w": ["Mantua"], "m": [] },
-    "leisure-roman-vineyard": { "w": ["Rome"], "m": [] },
-    "bonding-nacao-fun": { "w": ["Coimbra", "Lisbon"], "m": ["Porto"] },
-    "mobility-culture-poland": { "w": ["Sandomierz"], "m": [] },
-    "morpurgo-family-mobility": { "w": ["Gorizia", "Thessaloniki"], "m": ["Ancona"] },
-    "gleanings-mappings-circulation-sacre": { "w": ["Amsterdam", "Bordeaux", "Venice", "Tunis", "Livorno"], "m": [] },
-    "expulsion-algeria-oran-diaspora": { "w": ["Oran"], "m": [] },
-    "wills-southern-colonies": { "w": ["Charleston", "Savannah"], "m": [] },
-    "david-pomis-autobiography": { "w": ["Venice"], "m": ["Pisa"] },
-    "physical-health-amsterdam": { "w": ["Amsterdam"], "m": [] },
-    "childbirth-healthcare-memorbucher": { "w": ["Metz", "Frankfurt", "Mainz"], "m": [] },
-    "remedy-magical-segulot": { "w": ["Edirne", "Amsterdam"], "m": [] },
-    "plague-response-ashkenaz": { "w": ["Frankfurt an der Oder"], "m": [] },
-    "execution-frantz-engelberger": { "w": ["Vienna"], "m": [] },
-    "muzzles-senses-soul-salvation": { "w": ["Basel", "Wittenberg"], "m": [] },
-    "march-procession-prague": { "w": ["Prague"], "m": [] },
-    "fluid-boundaries-rivers": { "w": ["Worms", "Koblenz", "Prague"], "m": [] },
-    "absconding-chasing-western-sephardic-diaspora": { "w": ["Amsterdam", "Porto", "Lisbon"], "m": [] },
-    "inquistorial-prison-cross-cultural-encounter": { "w": ["Amsterdam"], "m": ["London", "Lisbon", "Hamburg"] },
-    "domestic-religious-public-space-women": { "w": ["Venice"], "m": ["Antwerp", "Amsterdam", "Istanbul"] },
-    "mapping-midwives-amsterdam": { "w": ["Amsterdam"], "m": [] },
-    "biblical-space-jewish-identity": { "w": ["Mantua"], "m": [] },
-    "unrecorded-justice-medieval-courts": { "w": ["Worms", "Wurzburg", "Speyer", "Toledo"], "m": [] },
-    "strategic-record-keeping-autonomy": { "w": ["Frankfurt"], "m": [] },
-    "taqqanot-qandiya-crete": { "w": ["Heraklion"], "m": [] },
-    "linguistic-formal-record-italy": { "w": ["Pisa", "Rome"], "m": [] },
-    "counting-recording-sins": { "w": ["Munich"], "m": [] },
-    "documents-records-border-crossings": { "w": ["Worms", "Frankfurt"], "m": [] },
-    "construction-ottoman-heartlands": { "w": ["Belgrade", "Jerusalem", "Istanbul"], "m": [] },
-    "founding-documents-amsterdam": { "w": ["Amsterdam"], "m": [] },
-    "expulsion-jews-state-milan": { "w": ["Milan", "Alessandria"], "m": ["Madrid"] },
-    "emotions-preaching": { "w": ["Liege"], "m": ["Acre"] },
-    "emotions-margins-toledot-yeshu": { "w": [], "m": ["Lyon"] },
-    "rebbe-nachman-melancholy-joy": { "w": ["Bratslav"], "m": [] },
-    "horror-early-modern-jews-monsters": { "w": ["Venice", "Hamburg"], "m": [] },
-    "emotions-communal-identity": { "w": ["Altona"], "m": [] },
-    "regret-repentance-law": { "w": ["Braunschweig"], "m": [] },
-    "police-dossiers-emotions-france": { "w": ["Paris"], "m": [] },
-    "emotions-business-mediterranean": { "w": ["Tunis"], "m": ["Livorno", "Izmir"] },
-    "jewish-casino-livorno": { "w": ["Livorno"], "m": [] },
-    "experience-proof-text-observation": { "w": ["Venice"], "m": [] },
-    "illicit-sex-law-ghettos": { "w": ["Venice", "Mantua", "Modena"], "m": [] },
-    "jewish-space-spiritual-supremacy": { "w": ["Padua"], "m": [] },
-    "rabbi-sabbateanism-christianity": { "w": ["Schweinfurt"], "m": ["Krakow"] },
-    "pietist-improvement-jewish-society": { "w": ["Celle", "Halle"], "m": ["Gdansk", "Kaliningrad", "Frankfurt"] },
-    "end-jewish-democracy-prague": { "w": ["Prague"], "m": ["Vienna"] },
-    "religious-condition-german-jewries": { "w": ["Celle", "Halle", "Frankfurt"], "m": ["Hamburg", "London", "Amsterdam"] },
-    "sabbatean-emden-eibeschutz-cannibalism": { "w": ["Altona"], "m": ["Amsterdam"] },
-    "realities-representations-violence-ukraine": { "w": ["Krakow", "Lviv", "Vitebsk", "Tulchyn"], "m": [] },
-    "plague-violence-early-modern": { "w": ["Lisbon", "Venice", "Bologna", "Florence", "Milan"], "m": [] },
-    "rome-murder-investigation-ghetto": { "w": ["Rome"], "m": [] },
-    "violence-western-sephardic-diaspora": { "w": ["Porto", "Amsterdam"], "m": [] },
-    "jewish-violence-polish-laws": { "w": ["Lviv", "Nowy Wisnicz"], "m": [] },
-    "big-blows-small-stage": { "w": ["Altona"], "m": [] },
-    "jewish-perspective-execution": { "w": ["Stuttgart"], "m": [] },
-    "exorcism-violence-contexts": { "w": ["Ostroh"], "m": ["Tuchyn", "Sieniawa"] },
-    "violence-purim-ball": { "w": ["Livorno"], "m": [] },
-    "real-virtual-contact-literature": { "w": ["Krakow"], "m": [] },
-    "finding-common-ground-metz": { "w": ["Metz"], "m": [] },
-    "medicine-cultural-connection-italy": { "w": ["Padua", "Urbino"], "m": ["Venice"] },
-    "jewish-christian-commentary-luke": { "w": ["Halle"], "m": [] },
-    "jewish-merchant-family-moroccan": { "w": ["Jebel Alam", "Istanbul"], "m": ["Agadir", "Essaouira"] },
-    "jailhouse-encounter-jewish-christian": { "w": ["Tripoli", "Geislingen"], "m": ["Stuttgart"] },
-    "early-modern-inn-exchange": { "w": ["Rozwadow"], "m": [] },
-    "cultural-transmission-assimilation-quotidian": { "w": ["Toledo"], "m": [] },
-    "mining-unusual-ego-text": { "w": ["Bolekhiv"], "m": ["Lviv"] },
-    "descend-abyss-jacob-frank": { "w": ["Brno"], "m": [] },
-    "travel-diaries-azulai": { "w": ["Livorno", "Jerusalem"], "m": ["Seligenstadt", "Hanau", "Paris", "Tunis", "Hebron", "Alexandria"] },
-    "autobiographical-accounts-letters": { "w": ["Livorno"], "m": [] },
-    "generational-conflict-coverso-families": { "w": ["Deza", "Siguenza"], "m": ["Cuenca", "San Clemente"] },
-    "introduction-megillat-sefer-emden": { "w": ["Warsaw", "Jerusalem"], "m": [] },
-    "personal-life-context-death": { "w": ["Berlin", "Istanbul"], "m": ["Poznan", "Frankfurt"] },
-    "happiness-overturned-mourning-memory": { "w": ["Prague"], "m": [] },
-    "communities-developing-association-place": { "w": ["Florence"], "m": [] },
-    "minhag-migration-yiddish-venice": { "w": ["Venice"], "m": [] },
-    "regulating-communal-space-mikvaot": { "w": ["Altona"], "m": [] },
-    "struggle-transcend-differences-conflicts": { "w": ["New York"], "m": [] },
-    "rabbinic-authority-community-germany": { "w": ["Mainz"], "m": [] },
-    "price-power-financing": { "w": ["Frankfurt"], "m": [] },
-    "early-modern-jewish-parliament": { "w": ["Jaroslaw"], "m": ["Krakow", "Poznan", "Lviv", "Lublin"] },
-    "communication-community-multiplex-networks": { "w": ["London", "Amsterdam"], "m": ["Bordeaux", "Ferrara", "Safed", "Paramaribo"] },
-    "layered-networks-functioning-communities": { "w": ["Istanbul"], "m": ["Safed", "Jerusalem", "Aleppo", "Heraklion", "Venice", "Livorno", "Algiers"] },
-    "conjugal-disputes-jewish-court": { "w": ["Altona"], "m": [] },
-    "spiritual-community-social-world": { "w": ["Safed"], "m": [] },
-    "merchants-rabbis-lviv": { "w": ["Lublin"], "m": [] },
-    "technology-preservation-freedom-expression": { "w": ["Rome", "Pesaro", "Mantua"], "m": [] },
-    "publisher-service-readers": { "w": ["Amsterdam"], "m": [] },
-    "shlomo-lutzker-introduction": { "w": ["Korets"], "m": [] },
-    "leon-moderna-print-manuscript": { "w": ["Venice"], "m": [] },
-    "paratexts-jacob-marcaria": { "w": ["Riva del Garda"], "m": ["Cremona"] },
-    "putting-hebrew-books-order": { "w": ["Amsterdam"], "m": ["Prague"] },
-    "jews-under-surveillance-censorship": { "w": ["Correggio", "Modena"], "m": [] },
-    "power-texts-conversion": { "w": ["Salamanca"], "m": [] },
-    "apologetics-polemics-enlightenment": { "w": ["Amsterdam", "Paris"], "m": ["London"] },
-    "early-modern-yiddish-readers": { "w": ["Frankfurt", "Amsterdam"], "m": [] },
-    "sefer-or-erev-misunderstanding": { "w": ["Halle"], "m": ["London"] },
-    "hebrew-library-renaissance-humanist": { "w": ["Antwerp"], "m": [] },
-    "broadsheet-koheles-shlomo": { "w": ["Amsterdam"], "m": [] },
-    "expanding-legal-horizons": { "w": ["Venice", "Krakow", "Lublin"], "m": [] },
-    "legal-status-wife-ashkenazi": { "w": ["Krakow"], "m": ["Pleven"] },
-    "takkanot-kahal-origin-communal": { "w": ["Uhlfeld"], "m": [] },
-    "challenging-herem-hamburg": { "w": ["Hamburg"], "m": [] },
-    "herem-source-authority": { "w": ["Amsterdam"], "m": [] },
-    "evasion-legal-tactic-amsterdam": { "w": ["Amsterdam"], "m": [] },
-    "imperial-protection-jewish-presence": { "w": [], "m": ["Speyer", "Vienna"] },
-    "jews-court-kadi": { "w": ["Venice", "Istanbul"], "m": [] },
-    "trying-issues-jurisdictions": { "w": ["Lviv", "Przemysl"], "m": [] },
-    "indelible-sacrament-baptism": { "w": ["Venice"], "m": [] },
-    "jews-ius-commune": { "w": ["Turin"], "m": [] },
-    "image-jewish-wedding": { "w": ["Nuremberg", "Frankfurt", "Leipzig"], "m": ["Amsterdam", "Damascus", "Alexandria"] },
-    "phoenix-exodus-temple": { "w": ["Amsterdam"], "m": ["Jerusalem"] },
-    "jewish-display-silver": { "w": ["Nuremberg", "Berlin"], "m": [] },
-    "zaks-parokhet-prague": { "w": ["Prague"], "m": [] },
-    "possessions-two-italian-jews": { "w": ["Gavi"], "m": [] },
-    "inventory-inquisitorial-prisoner": { "w": ["Lima"], "m": ["Santiago"] },
-    "estates-jewish-merchant-rabbi": { "w": ["Venice"], "m": [] },
-    "symbolic-clothes-marginality": { "w": ["Palermo"], "m": [] },
-    "material-possessions-religious-boundaries": { "w": ["Brest", "Lublin"], "m": [] },
-    "ordering-early-modern-marriage": { "w": ["Worms"], "m": [] },
-    "jewish-marriage-christian-eyes": { "w": ["Basel"], "m": [] },
-    "pinkas-shamash-altona": { "w": ["Altona"], "m": ["Hamburg", "Wandsbek"] },
-    "family-wealth-power": { "w": ["Krakow"], "m": ["Jaroslaw", "Prostejov"] },
-    "marriage-networkbuilding": { "w": ["Steinbiedersdorf"], "m": ["Frankfurt", "Bouxwiller", "Hamburg"] },
-    "family-ties-political-structure": { "w": ["Pisa"], "m": ["Livorno"] },
-    "ketubah-sefer-tikun-sofrim": { "w": ["Jerusalem"], "m": [] },
-    "unequal-opportunities-economic-possibilities": { "w": ["Slutsk", "Kalisz", "Mir"], "m": ["Vilnius", "Pinsk", "Brest", "Hrodna"] },
-    "woodstruck-deed-documentation-defloration": { "w": ["Livorno", "Padua", "Rome"], "m": ["Ferrara"] },
-    "first-duty-nature": { "w": ["Trieste"], "m": [] },
-    "role-marriage-marital-sexuality": { "w": ["Safed"], "m": ["Tel Aviv", "Vilnius"] },
-    "two-cases-apostasy-dubno": { "w": ["Dubno"], "m": ["Kyiv"] },
-    "challenge-sexual-marital-propriety": { "w": ["Rome"], "m": [] },
-    "shtetl-in-context": { "w": ["Gwozdziec"], "m": [] },
-    "proceeding-of-old-bailey": { "w": ["London"], "m": [] },
-    "taverns-public-drinking-florence": { "w": ["Florence"], "m": [] },
-    "rural-jews-alsace": { "w": ["Strasbourg", "Haguenau"], "m": [] },
-    "close-quarters-privacy": { "w": ["Krakow", "Poznan", "Labiszyn"], "m": [] },
-    "personal-record-book-dayyan": { "w": ["Frankfurt"], "m": [] },
-    "marching-soldiers-opera-houses": { "w": ["The Hague"], "m": [] },
-    "law-boundaries-city-life": { "w": ["Minsk"], "m": [] },
-    "city-place-regulation": { "w": ["Livorno"], "m": [] },
-    "domestic-interiors-viennese-elites": { "w": ["Vienna"], "m": [] },
-    "elia-schadeus-mysterium-conversion": { "w": ["Strasbourg"], "m": [] },
-    "jewish-legal-status": { "w": ["Krakow", "Yampil"], "m": [] },
-    "privilege-statute-maria-theresia": { "w": ["Trieste"], "m": ["Vienna"] },
-    "introduction-hayyim-vital": { "w": ["Safed"], "m": [] },
-    "popularization-kabbalah-perspectives": { "w": ["Mantua", "Altona"], "m": [] },
-    "introduction-triumpho-govierno-popular": { "w": ["Amsterdam"], "m": [] },
-    "letter-jerusalem-obadiah-bertinoro": { "w": ["Jerusalem"], "m": ["Citta di Castello", "Rome", "Naples", "Salerno", "Palermo"] },
-    "letters-bella-perlhefter": { "w": ["Schnaittach"], "m": ["Altdorf", "Prague"] },
-    "trent-responses-pope": { "w": ["Trent"], "m": ["Rome"] },
-    "anti-jewish-accusations-poland": { "w": ["Vilnius", "Sandomierz"], "m": [] },
-    "order-women-commandments": { "w": ["Krakow"], "m": [] },
-    "jewishness-of-conversos": { "w": ["Livorno", "Amsterdam", "Algiers", "Venice"], "m": [] },
-    "records-metz-beit-din": { "w": ["Metz"], "m": ["Phalsbourg"] },
-    "sefer-zikhronot-book-remembrances": { "w": ["Venice"], "m": [] }
+    "maximizing-allowances-kashrut": {
+      "w": [
+        "Krakow"
+      ],
+      "m": []
+    },
+    "bedikah-nikur-women": {
+      "w": [
+        "Bonn"
+      ],
+      "m": [
+        "Prague"
+      ]
+    },
+    "kitchens-identity-italy": {
+      "w": [
+        "Casale Monferrato",
+        "Venice",
+        "Pisa"
+      ],
+      "m": []
+    },
+    "cheese-words-italian": {
+      "w": [
+        "Reggio Emilia"
+      ],
+      "m": []
+    },
+    "wine-kabbalists-safed": {
+      "w": [
+        "Safed"
+      ],
+      "m": []
+    },
+    "beer-politics-lublin-litigation": {
+      "w": [
+        "Lublin",
+        "Warsaw"
+      ],
+      "m": []
+    },
+    "kashrut-new-community": {
+      "w": [
+        "Pisa"
+      ],
+      "m": []
+    },
+    "foodways-emancipation-france": {
+      "w": [
+        "Paris"
+      ],
+      "m": []
+    },
+    "messengers-to-themselves": {
+      "w": [
+        "Jerusalem"
+      ],
+      "m": []
+    },
+    "representation-israel-karo": {
+      "w": [
+        "Safed"
+      ],
+      "m": []
+    },
+    "diamo-creator-poem-purim": {
+      "w": [
+        "Dubrovnik"
+      ],
+      "m": []
+    },
+    "provenzalo-responsum-tennis": {
+      "w": [
+        "Mantua"
+      ],
+      "m": []
+    },
+    "leisure-roman-vineyard": {
+      "w": [
+        "Rome"
+      ],
+      "m": []
+    },
+    "bonding-nacao-fun": {
+      "w": [
+        "Coimbra",
+        "Lisbon"
+      ],
+      "m": [
+        "Porto"
+      ]
+    },
+    "mobility-culture-poland": {
+      "w": [
+        "Sandomierz"
+      ],
+      "m": []
+    },
+    "morpurgo-family-mobility": {
+      "w": [
+        "Gorizia",
+        "Thessaloniki"
+      ],
+      "m": [
+        "Ancona"
+      ]
+    },
+    "expulsion-algeria-oran-diaspora": {
+      "w": [
+        "Oran"
+      ],
+      "m": []
+    },
+    "wills-southern-colonies": {
+      "w": [
+        "Charleston",
+        "Savannah"
+      ],
+      "m": []
+    },
+    "david-pomis-autobiography": {
+      "w": [
+        "Venice"
+      ],
+      "m": [
+        "Pisa"
+      ]
+    },
+    "physical-health-amsterdam": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "childbirth-healthcare-memorbucher": {
+      "w": [
+        "Metz",
+        "Frankfurt",
+        "Mainz"
+      ],
+      "m": []
+    },
+    "remedy-magical-segulot": {
+      "w": [
+        "Edirne",
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "plague-response-ashkenaz": {
+      "w": [
+        "Frankfurt an der Oder"
+      ],
+      "m": []
+    },
+    "execution-frantz-engelberger": {
+      "w": [
+        "Vienna"
+      ],
+      "m": []
+    },
+    "muzzles-senses-soul-salvation": {
+      "w": [
+        "Basel",
+        "Wittenberg"
+      ],
+      "m": []
+    },
+    "march-procession-prague": {
+      "w": [
+        "Prague"
+      ],
+      "m": []
+    },
+    "fluid-boundaries-rivers": {
+      "w": [
+        "Worms",
+        "Koblenz",
+        "Prague"
+      ],
+      "m": []
+    },
+    "absconding-chasing-western-sephardic-diaspora": {
+      "w": [
+        "Amsterdam",
+        "Porto",
+        "Lisbon"
+      ],
+      "m": []
+    },
+    "inquistorial-prison-cross-cultural-encounter": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": [
+        "London",
+        "Lisbon",
+        "Hamburg"
+      ]
+    },
+    "domestic-religious-public-space-women": {
+      "w": [
+        "Venice"
+      ],
+      "m": [
+        "Antwerp",
+        "Amsterdam",
+        "Istanbul"
+      ]
+    },
+    "mapping-midwives-amsterdam": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "biblical-space-jewish-identity": {
+      "w": [
+        "Mantua"
+      ],
+      "m": []
+    },
+    "unrecorded-justice-medieval-courts": {
+      "w": [
+        "Worms",
+        "Wurzburg",
+        "Speyer",
+        "Toledo"
+      ],
+      "m": []
+    },
+    "strategic-record-keeping-autonomy": {
+      "w": [
+        "Frankfurt"
+      ],
+      "m": []
+    },
+    "taqqanot-qandiya-crete": {
+      "w": [
+        "Heraklion"
+      ],
+      "m": []
+    },
+    "linguistic-formal-record-italy": {
+      "w": [
+        "Pisa",
+        "Rome"
+      ],
+      "m": []
+    },
+    "counting-recording-sins": {
+      "w": [
+        "Munich"
+      ],
+      "m": []
+    },
+    "documents-records-border-crossings": {
+      "w": [
+        "Worms",
+        "Frankfurt"
+      ],
+      "m": []
+    },
+    "construction-ottoman-heartlands": {
+      "w": [
+        "Belgrade",
+        "Jerusalem",
+        "Istanbul"
+      ],
+      "m": []
+    },
+    "founding-documents-amsterdam": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "expulsion-jews-state-milan": {
+      "w": [
+        "Milan",
+        "Alessandria"
+      ],
+      "m": [
+        "Madrid"
+      ]
+    },
+    "emotions-preaching": {
+      "w": [
+        "Liege"
+      ],
+      "m": [
+        "Acre"
+      ]
+    },
+    "emotions-margins-toledot-yeshu": {
+      "w": [],
+      "m": [
+        "Lyon"
+      ]
+    },
+    "rebbe-nachman-melancholy-joy": {
+      "w": [
+        "Bratslav"
+      ],
+      "m": []
+    },
+    "horror-early-modern-jews-monsters": {
+      "w": [
+        "Venice",
+        "Hamburg"
+      ],
+      "m": []
+    },
+    "emotions-communal-identity": {
+      "w": [
+        "Altona"
+      ],
+      "m": []
+    },
+    "regret-repentance-law": {
+      "w": [
+        "Braunschweig"
+      ],
+      "m": []
+    },
+    "police-dossiers-emotions-france": {
+      "w": [
+        "Paris"
+      ],
+      "m": []
+    },
+    "emotions-business-mediterranean": {
+      "w": [
+        "Tunis"
+      ],
+      "m": [
+        "Livorno",
+        "Izmir"
+      ]
+    },
+    "jewish-casino-livorno": {
+      "w": [
+        "Livorno"
+      ],
+      "m": []
+    },
+    "experience-proof-text-observation": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    },
+    "illicit-sex-law-ghettos": {
+      "w": [
+        "Venice",
+        "Mantua",
+        "Modena"
+      ],
+      "m": []
+    },
+    "jewish-space-spiritual-supremacy": {
+      "w": [
+        "Padua"
+      ],
+      "m": []
+    },
+    "rabbi-sabbateanism-christianity": {
+      "w": [
+        "Schweinfurt"
+      ],
+      "m": [
+        "Krakow"
+      ]
+    },
+    "pietist-improvement-jewish-society": {
+      "w": [
+        "Celle",
+        "Halle"
+      ],
+      "m": [
+        "Gdansk",
+        "Kaliningrad",
+        "Frankfurt"
+      ]
+    },
+    "end-jewish-democracy-prague": {
+      "w": [
+        "Prague"
+      ],
+      "m": [
+        "Vienna"
+      ]
+    },
+    "religious-condition-german-jewries": {
+      "w": [
+        "Celle",
+        "Halle",
+        "Frankfurt"
+      ],
+      "m": [
+        "Hamburg",
+        "London",
+        "Amsterdam"
+      ]
+    },
+    "sabbatean-emden-eibeschutz-cannibalism": {
+      "w": [
+        "Altona"
+      ],
+      "m": [
+        "Amsterdam"
+      ]
+    },
+    "realities-representations-violence-ukraine": {
+      "w": [
+        "Krakow",
+        "Lviv",
+        "Vitebsk",
+        "Tulchyn"
+      ],
+      "m": []
+    },
+    "plague-violence-early-modern": {
+      "w": [
+        "Lisbon",
+        "Venice",
+        "Bologna",
+        "Florence",
+        "Milan"
+      ],
+      "m": []
+    },
+    "rome-murder-investigation-ghetto": {
+      "w": [
+        "Rome"
+      ],
+      "m": []
+    },
+    "violence-western-sephardic-diaspora": {
+      "w": [
+        "Porto",
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "jewish-violence-polish-laws": {
+      "w": [
+        "Lviv",
+        "Nowy Wisnicz"
+      ],
+      "m": []
+    },
+    "big-blows-small-stage": {
+      "w": [
+        "Altona"
+      ],
+      "m": []
+    },
+    "jewish-perspective-execution": {
+      "w": [
+        "Stuttgart"
+      ],
+      "m": []
+    },
+    "exorcism-violence-contexts": {
+      "w": [
+        "Ostroh"
+      ],
+      "m": [
+        "Tuchyn",
+        "Sieniawa"
+      ]
+    },
+    "violence-purim-ball": {
+      "w": [
+        "Livorno"
+      ],
+      "m": []
+    },
+    "real-virtual-contact-literature": {
+      "w": [
+        "Krakow"
+      ],
+      "m": []
+    },
+    "finding-common-ground-metz": {
+      "w": [
+        "Metz"
+      ],
+      "m": []
+    },
+    "medicine-cultural-connection-italy": {
+      "w": [
+        "Padua",
+        "Urbino"
+      ],
+      "m": [
+        "Venice"
+      ]
+    },
+    "jewish-christian-commentary-luke": {
+      "w": [
+        "Halle"
+      ],
+      "m": []
+    },
+    "jewish-merchant-family-moroccan": {
+      "w": [
+        "Jebel Alam",
+        "Istanbul"
+      ],
+      "m": [
+        "Agadir",
+        "Essaouira"
+      ]
+    },
+    "jailhouse-encounter-jewish-christian": {
+      "w": [
+        "Tripoli",
+        "Geislingen"
+      ],
+      "m": [
+        "Stuttgart"
+      ]
+    },
+    "early-modern-inn-exchange": {
+      "w": [
+        "Rozwadow"
+      ],
+      "m": []
+    },
+    "cultural-transmission-assimilation-quotidian": {
+      "w": [
+        "Toledo"
+      ],
+      "m": []
+    },
+    "mining-unusual-ego-text": {
+      "w": [
+        "Bolekhiv"
+      ],
+      "m": [
+        "Lviv"
+      ]
+    },
+    "descend-abyss-jacob-frank": {
+      "w": [
+        "Brno"
+      ],
+      "m": []
+    },
+    "travel-diaries-azulai": {
+      "w": [
+        "Livorno",
+        "Jerusalem"
+      ],
+      "m": [
+        "Seligenstadt",
+        "Hanau",
+        "Paris",
+        "Tunis",
+        "Hebron",
+        "Alexandria"
+      ]
+    },
+    "autobiographical-accounts-letters": {
+      "w": [
+        "Livorno"
+      ],
+      "m": []
+    },
+    "generational-conflict-coverso-families": {
+      "w": [
+        "Deza",
+        "Siguenza"
+      ],
+      "m": [
+        "Cuenca",
+        "San Clemente"
+      ]
+    },
+    "introduction-megillat-sefer-emden": {
+      "w": [
+        "Warsaw",
+        "Jerusalem"
+      ],
+      "m": []
+    },
+    "personal-life-context-death": {
+      "w": [
+        "Berlin",
+        "Istanbul"
+      ],
+      "m": [
+        "Poznan",
+        "Frankfurt"
+      ]
+    },
+    "happiness-overturned-mourning-memory": {
+      "w": [
+        "Prague"
+      ],
+      "m": []
+    },
+    "communities-developing-association-place": {
+      "w": [
+        "Florence"
+      ],
+      "m": []
+    },
+    "minhag-migration-yiddish-venice": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    },
+    "regulating-communal-space-mikvaot": {
+      "w": [
+        "Altona"
+      ],
+      "m": []
+    },
+    "struggle-transcend-differences-conflicts": {
+      "w": [
+        "New York"
+      ],
+      "m": []
+    },
+    "rabbinic-authority-community-germany": {
+      "w": [
+        "Mainz"
+      ],
+      "m": []
+    },
+    "price-power-financing": {
+      "w": [
+        "Frankfurt"
+      ],
+      "m": []
+    },
+    "early-modern-jewish-parliament": {
+      "w": [
+        "Jaroslaw"
+      ],
+      "m": [
+        "Krakow",
+        "Poznan",
+        "Lviv",
+        "Lublin"
+      ]
+    },
+    "communication-community-multiplex-networks": {
+      "w": [
+        "London",
+        "Amsterdam"
+      ],
+      "m": [
+        "Bordeaux",
+        "Ferrara",
+        "Safed",
+        "Paramaribo"
+      ]
+    },
+    "layered-networks-functioning-communities": {
+      "w": [
+        "Istanbul"
+      ],
+      "m": [
+        "Safed",
+        "Jerusalem",
+        "Aleppo",
+        "Heraklion",
+        "Venice",
+        "Livorno",
+        "Algiers"
+      ]
+    },
+    "conjugal-disputes-jewish-court": {
+      "w": [
+        "Altona"
+      ],
+      "m": []
+    },
+    "spiritual-community-social-world": {
+      "w": [
+        "Safed"
+      ],
+      "m": []
+    },
+    "merchants-rabbis-lviv": {
+      "w": [
+        "Lublin"
+      ],
+      "m": []
+    },
+    "technology-preservation-freedom-expression": {
+      "w": [
+        "Rome",
+        "Pesaro",
+        "Mantua"
+      ],
+      "m": []
+    },
+    "publisher-service-readers": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "shlomo-lutzker-introduction": {
+      "w": [
+        "Korets"
+      ],
+      "m": []
+    },
+    "leon-moderna-print-manuscript": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    },
+    "paratexts-jacob-marcaria": {
+      "w": [
+        "Riva del Garda"
+      ],
+      "m": [
+        "Cremona"
+      ]
+    },
+    "putting-hebrew-books-order": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": [
+        "Prague"
+      ]
+    },
+    "jews-under-surveillance-censorship": {
+      "w": [
+        "Correggio",
+        "Modena"
+      ],
+      "m": []
+    },
+    "power-texts-conversion": {
+      "w": [
+        "Salamanca"
+      ],
+      "m": []
+    },
+    "apologetics-polemics-enlightenment": {
+      "w": [
+        "Amsterdam",
+        "Paris"
+      ],
+      "m": [
+        "London"
+      ]
+    },
+    "early-modern-yiddish-readers": {
+      "w": [
+        "Frankfurt",
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "sefer-or-erev-misunderstanding": {
+      "w": [
+        "Halle"
+      ],
+      "m": [
+        "London"
+      ]
+    },
+    "hebrew-library-renaissance-humanist": {
+      "w": [
+        "Antwerp"
+      ],
+      "m": []
+    },
+    "broadsheet-koheles-shlomo": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "expanding-legal-horizons": {
+      "w": [
+        "Venice",
+        "Krakow",
+        "Lublin"
+      ],
+      "m": []
+    },
+    "legal-status-wife-ashkenazi": {
+      "w": [
+        "Krakow"
+      ],
+      "m": [
+        "Pleven"
+      ]
+    },
+    "takkanot-kahal-origin-communal": {
+      "w": [
+        "Uhlfeld"
+      ],
+      "m": []
+    },
+    "challenging-herem-hamburg": {
+      "w": [
+        "Hamburg"
+      ],
+      "m": []
+    },
+    "herem-source-authority": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "evasion-legal-tactic-amsterdam": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "imperial-protection-jewish-presence": {
+      "w": [],
+      "m": [
+        "Speyer",
+        "Vienna"
+      ]
+    },
+    "jews-court-kadi": {
+      "w": [
+        "Venice",
+        "Istanbul"
+      ],
+      "m": []
+    },
+    "trying-issues-jurisdictions": {
+      "w": [
+        "Lviv",
+        "Przemysl"
+      ],
+      "m": []
+    },
+    "indelible-sacrament-baptism": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    },
+    "jews-ius-commune": {
+      "w": [
+        "Turin"
+      ],
+      "m": []
+    },
+    "image-jewish-wedding": {
+      "w": [
+        "Nuremberg",
+        "Frankfurt",
+        "Leipzig"
+      ],
+      "m": [
+        "Amsterdam",
+        "Damascus",
+        "Alexandria"
+      ]
+    },
+    "phoenix-exodus-temple": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": [
+        "Jerusalem"
+      ]
+    },
+    "jewish-display-silver": {
+      "w": [
+        "Nuremberg",
+        "Berlin"
+      ],
+      "m": []
+    },
+    "zaks-parokhet-prague": {
+      "w": [
+        "Prague"
+      ],
+      "m": []
+    },
+    "possessions-two-italian-jews": {
+      "w": [
+        "Gavi"
+      ],
+      "m": []
+    },
+    "inventory-inquisitorial-prisoner": {
+      "w": [
+        "Lima"
+      ],
+      "m": [
+        "Santiago"
+      ]
+    },
+    "estates-jewish-merchant-rabbi": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    },
+    "symbolic-clothes-marginality": {
+      "w": [
+        "Palermo"
+      ],
+      "m": []
+    },
+    "material-possessions-religious-boundaries": {
+      "w": [
+        "Brest",
+        "Lublin"
+      ],
+      "m": []
+    },
+    "ordering-early-modern-marriage": {
+      "w": [
+        "Worms"
+      ],
+      "m": []
+    },
+    "jewish-marriage-christian-eyes": {
+      "w": [
+        "Basel"
+      ],
+      "m": []
+    },
+    "pinkas-shamash-altona": {
+      "w": [
+        "Altona"
+      ],
+      "m": [
+        "Hamburg",
+        "Wandsbek"
+      ]
+    },
+    "family-wealth-power": {
+      "w": [
+        "Krakow"
+      ],
+      "m": [
+        "Jaroslaw",
+        "Prostejov"
+      ]
+    },
+    "marriage-networkbuilding": {
+      "w": [
+        "Steinbiedersdorf"
+      ],
+      "m": [
+        "Frankfurt",
+        "Bouxwiller",
+        "Hamburg"
+      ]
+    },
+    "family-ties-political-structure": {
+      "w": [
+        "Pisa"
+      ],
+      "m": [
+        "Livorno"
+      ]
+    },
+    "ketubah-sefer-tikun-sofrim": {
+      "w": [
+        "Jerusalem"
+      ],
+      "m": []
+    },
+    "unequal-opportunities-economic-possibilities": {
+      "w": [
+        "Slutsk",
+        "Kalisz",
+        "Mir"
+      ],
+      "m": [
+        "Vilnius",
+        "Pinsk",
+        "Brest",
+        "Hrodna"
+      ]
+    },
+    "woodstruck-deed-documentation-defloration": {
+      "w": [
+        "Livorno",
+        "Padua",
+        "Rome"
+      ],
+      "m": [
+        "Ferrara"
+      ]
+    },
+    "first-duty-nature": {
+      "w": [
+        "Trieste"
+      ],
+      "m": []
+    },
+    "role-marriage-marital-sexuality": {
+      "w": [
+        "Safed"
+      ],
+      "m": [
+        "Tel Aviv",
+        "Vilnius"
+      ]
+    },
+    "two-cases-apostasy-dubno": {
+      "w": [
+        "Dubno"
+      ],
+      "m": [
+        "Kyiv"
+      ]
+    },
+    "challenge-sexual-marital-propriety": {
+      "w": [
+        "Rome"
+      ],
+      "m": []
+    },
+    "shtetl-in-context": {
+      "w": [
+        "Gwozdziec"
+      ],
+      "m": []
+    },
+    "proceeding-of-old-bailey": {
+      "w": [
+        "London"
+      ],
+      "m": []
+    },
+    "taverns-public-drinking-florence": {
+      "w": [
+        "Florence"
+      ],
+      "m": []
+    },
+    "rural-jews-alsace": {
+      "w": [
+        "Strasbourg",
+        "Haguenau"
+      ],
+      "m": []
+    },
+    "close-quarters-privacy": {
+      "w": [
+        "Krakow",
+        "Poznan",
+        "Labiszyn"
+      ],
+      "m": []
+    },
+    "personal-record-book-dayyan": {
+      "w": [
+        "Frankfurt"
+      ],
+      "m": []
+    },
+    "marching-soldiers-opera-houses": {
+      "w": [
+        "The Hague"
+      ],
+      "m": []
+    },
+    "law-boundaries-city-life": {
+      "w": [
+        "Minsk"
+      ],
+      "m": []
+    },
+    "city-place-regulation": {
+      "w": [
+        "Livorno"
+      ],
+      "m": []
+    },
+    "domestic-interiors-viennese-elites": {
+      "w": [
+        "Vienna"
+      ],
+      "m": []
+    },
+    "elia-schadeus-mysterium-conversion": {
+      "w": [
+        "Strasbourg"
+      ],
+      "m": []
+    },
+    "jewish-legal-status": {
+      "w": [
+        "Krakow",
+        "Yampil"
+      ],
+      "m": []
+    },
+    "privilege-statute-maria-theresia": {
+      "w": [
+        "Trieste"
+      ],
+      "m": [
+        "Vienna"
+      ]
+    },
+    "introduction-hayyim-vital": {
+      "w": [
+        "Safed"
+      ],
+      "m": []
+    },
+    "popularization-kabbalah-perspectives": {
+      "w": [
+        "Mantua",
+        "Altona"
+      ],
+      "m": []
+    },
+    "introduction-triumpho-govierno-popular": {
+      "w": [
+        "Amsterdam"
+      ],
+      "m": []
+    },
+    "letter-jerusalem-obadiah-bertinoro": {
+      "w": [
+        "Jerusalem"
+      ],
+      "m": [
+        "Citta di Castello",
+        "Rome",
+        "Naples",
+        "Salerno",
+        "Palermo"
+      ]
+    },
+    "letters-bella-perlhefter": {
+      "w": [
+        "Schnaittach"
+      ],
+      "m": [
+        "Altdorf",
+        "Prague"
+      ]
+    },
+    "trent-responses-pope": {
+      "w": [
+        "Trent"
+      ],
+      "m": [
+        "Rome"
+      ]
+    },
+    "anti-jewish-accusations-poland": {
+      "w": [
+        "Vilnius",
+        "Sandomierz"
+      ],
+      "m": []
+    },
+    "order-women-commandments": {
+      "w": [
+        "Krakow"
+      ],
+      "m": []
+    },
+    "jewishness-of-conversos": {
+      "w": [
+        "Livorno",
+        "Amsterdam",
+        "Algiers",
+        "Venice"
+      ],
+      "m": []
+    },
+    "records-metz-beit-din": {
+      "w": [
+        "Metz"
+      ],
+      "m": [
+        "Phalsbourg"
+      ]
+    },
+    "sefer-zikhronot-book-remembrances": {
+      "w": [
+        "Venice"
+      ],
+      "m": []
+    }
   }
 }
