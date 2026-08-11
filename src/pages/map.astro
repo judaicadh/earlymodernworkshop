@@ -1,0 +1,193 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from "../layouts/Layout.astro";
+import gazetteer from "../data/gazetteer.json";
+import docLocations from "../data/document-locations.json";
+
+const docs = await getCollection('documents');
+const gaz = gazetteer.places as Record<string, { lat: number; lng: number; region?: string }>;
+const bySlug = docLocations.bySlug as Record<string, { w?: string[]; m?: string[] }>;
+
+const cleanTitle = (t: string) => (t || "").replace(/[*_`]/g, "");
+
+type Doc = { url: string; title: string; year: string };
+type Place = { name: string; lat: number; lng: number; region?: string; written: Doc[]; mentioned: Doc[] };
+const placeMap = new Map<string, Place>();
+
+function ensure(name: string): Place | null {
+    const g = gaz[name];
+    if (!g) return null;
+    if (!placeMap.has(name)) placeMap.set(name, { name, lat: g.lat, lng: g.lng, region: g.region, written: [], mentioned: [] });
+    return placeMap.get(name)!;
+}
+
+for (const d of docs) {
+    const entry = bySlug[d.data.slug];
+    if (!entry) continue;
+    const doc: Doc = { url: `/resources/${d.data.year}/${d.data.slug}`, title: cleanTitle(d.data.title), year: String(d.data.year) };
+    (entry.w || []).forEach((p) => ensure(p)?.written.push(doc));
+    (entry.m || []).forEach((p) => ensure(p)?.mentioned.push(doc));
+}
+
+const places = Array.from(placeMap.values()).sort(
+    (a, b) => (b.written.length + b.mentioned.length) - (a.written.length + a.mentioned.length) || a.name.localeCompare(b.name)
+);
+places.forEach((p) => { p.written.sort((a, b) => a.year.localeCompare(b.year)); p.mentioned.sort((a, b) => a.year.localeCompare(b.year)); });
+const writtenTotal = places.reduce((n, p) => n + p.written.length, 0);
+const mentionedTotal = places.reduce((n, p) => n + p.mentioned.length, 0);
+---
+
+<Layout>
+    <Fragment slot="head">
+        <title>Map | Early Modern Workshop</title>
+        <meta name="description" content="Browse the Early Modern Workshop archive by location — where sources were written and the places they mention." />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+              integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    </Fragment>
+
+    <section class="py-12 sm:py-16 bg-parchment dark:bg-ink transition-colors">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <header class="mb-6">
+                <p class="text-[0.72rem] uppercase tracking-[0.22em] text-bronze dark:text-gilt mb-2">Browse by location</p>
+                <h1 class="font-display text-3xl sm:text-4xl font-semibold text-ink dark:text-paper">Map</h1>
+                <p class="mt-3 max-w-2xl text-ink/70 dark:text-paper/70">
+                    {places.length} places across the archive. Filled pins mark where sources were <strong>written</strong> ({writtenTotal}); outlined pins mark places a source <strong>mentions</strong> ({mentionedTotal}). Click a pin — or a place in the list — to see the resources.
+                </p>
+            </header>
+
+            <!-- Legend + layer toggles -->
+            <div class="flex flex-wrap items-center gap-x-6 gap-y-2 mb-4 text-sm">
+                <label class="inline-flex items-center gap-2 cursor-pointer">
+                    <input type="checkbox" id="toggle-written" checked class="accent-[#8e2f23]" />
+                    <span class="inline-block size-3.5 rounded-full bg-[#8e2f23] border border-[#6b1f2e]"></span>
+                    <span class="text-ink/80 dark:text-paper/80">Written here</span>
+                </label>
+                <label class="inline-flex items-center gap-2 cursor-pointer">
+                    <input type="checkbox" id="toggle-mentioned" checked class="accent-[#8a6a2f]" />
+                    <span class="inline-block size-3.5 rounded-full border-2 border-[#8a6a2f]" style="background:transparent"></span>
+                    <span class="text-ink/80 dark:text-paper/80">Mentioned in text</span>
+                </label>
+            </div>
+
+            <div class="grid gap-6 lg:grid-cols-[minmax(0,1fr)_320px] items-start">
+                <!-- Map -->
+                <div id="map" class="h-[420px] sm:h-[600px] w-full rounded-sm border border-ink/15 dark:border-paper/15 shadow-sm bg-white/50 dark:bg-paper/5 z-0"></div>
+
+                <!-- Place list (also the no-JS fallback) -->
+                <aside class="lg:sticky lg:top-24 lg:max-h-[600px] lg:overflow-auto rounded-sm border border-ink/10 dark:border-paper/15 bg-white dark:bg-paper/5 divide-y divide-ink/10 dark:divide-paper/10">
+                    {places.map((p) => (
+                        <details class="group" data-place={p.name}>
+                            <summary class="cursor-pointer list-none flex items-center justify-between gap-2 p-3 hover:bg-ink/5 dark:hover:bg-paper/10">
+                                <span class="flex items-center gap-2 min-w-0">
+                                    <button type="button" class="fly-to shrink-0 inline-flex items-center gap-1" data-lat={p.lat} data-lng={p.lng} aria-label={`Zoom to ${p.name}`}>
+                                        {p.written.length > 0 && <span class="inline-flex size-5 items-center justify-center rounded-full bg-[#8e2f23] text-white text-[0.65rem] font-semibold">{p.written.length}</span>}
+                                        {p.mentioned.length > 0 && <span class="inline-flex size-5 items-center justify-center rounded-full border-2 border-[#8a6a2f] text-bronze dark:text-gilt text-[0.65rem] font-semibold">{p.mentioned.length}</span>}
+                                    </button>
+                                    <span class="truncate">
+                                        <span class="font-medium text-ink dark:text-paper">{p.name}</span>
+                                        {p.region && <span class="ml-1 text-xs text-ink/45 dark:text-paper/45">{p.region}</span>}
+                                    </span>
+                                </span>
+                                <svg class="shrink-0 transition-transform group-open:rotate-180 text-gilt" width="16" height="16" viewBox="0 0 24 24"><path fill="currentColor" d="m7 10l5 5l5-5z"/></svg>
+                            </summary>
+                            <div class="px-3 pb-3 space-y-2">
+                                {p.written.length > 0 && (
+                                    <div>
+                                        <p class="text-[0.65rem] uppercase tracking-[0.15em] text-bronze dark:text-gilt mb-1">Written here</p>
+                                        <ul class="space-y-1">{p.written.map((doc) => (
+                                            <li><a href={doc.url} class="text-sm text-venetian dark:text-venetian-light hover:underline"><span class="text-ink/40 dark:text-paper/40 tabular-nums mr-1">{doc.year}</span>{doc.title}</a></li>
+                                        ))}</ul>
+                                    </div>
+                                )}
+                                {p.mentioned.length > 0 && (
+                                    <div>
+                                        <p class="text-[0.65rem] uppercase tracking-[0.15em] text-bronze dark:text-gilt mb-1">Mentioned in text</p>
+                                        <ul class="space-y-1">{p.mentioned.map((doc) => (
+                                            <li><a href={doc.url} class="text-sm text-venetian dark:text-venetian-light hover:underline"><span class="text-ink/40 dark:text-paper/40 tabular-nums mr-1">{doc.year}</span>{doc.title}</a></li>
+                                        ))}</ul>
+                                    </div>
+                                )}
+                            </div>
+                        </details>
+                    ))}
+                </aside>
+            </div>
+        </div>
+    </section>
+
+    <script is:inline define:vars={{ places }}>
+        (function () {
+            function initMap() {
+                const map = L.map('map', { scrollWheelZoom: false, minZoom: 2 }).setView([46, 12], 4);
+                L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                    subdomains: 'abcd', maxZoom: 19,
+                }).addTo(map);
+
+                const writtenLayer = L.layerGroup().addTo(map);
+                const mentionedLayer = L.layerGroup().addTo(map);
+                const markers = {};
+                const bounds = [];
+                const esc = (s) => (s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+                const listHtml = (docs) => docs.map((d) => `<li style="margin:.15rem 0"><a href="${esc(d.url)}" style="color:#8e2f23;text-decoration:none"><span style="color:#999">${esc(d.year)}</span> ${esc(d.title)}</a></li>`).join("");
+
+                function popupHtml(p) {
+                    let h = `<div style="max-height:240px;overflow:auto"><strong style="font-size:0.95rem">${esc(p.name)}</strong>`;
+                    if (p.region) h += ` <span style="color:#999;font-size:0.8rem">${esc(p.region)}</span>`;
+                    if (p.written.length) h += `<div style="margin-top:.4rem;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:#8a6a2f">Written here</div><ul style="list-style:none;padding:0;margin:.15rem 0">${listHtml(p.written)}</ul>`;
+                    if (p.mentioned.length) h += `<div style="margin-top:.4rem;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:#8a6a2f">Mentioned in text</div><ul style="list-style:none;padding:0;margin:.15rem 0">${listHtml(p.mentioned)}</ul>`;
+                    return h + `</div>`;
+                }
+
+                places.forEach((p) => {
+                    bounds.push([p.lat, p.lng]);
+                    // Mentioned first (drawn behind), as a hollow bronze ring.
+                    if (p.mentioned.length) {
+                        const r = Math.min(8 + p.mentioned.length * 1.5, 20);
+                        const m = L.circleMarker([p.lat, p.lng], { radius: r, color: "#8a6a2f", weight: 2, fill: false, dashArray: "3" })
+                            .bindPopup(popupHtml(p), { maxWidth: 300 });
+                        m.addTo(mentionedLayer);
+                        markers[p.name] = markers[p.name] || m;
+                    }
+                    // Written on top, as a filled venetian dot.
+                    if (p.written.length) {
+                        const r = Math.min(8 + p.written.length * 1.6, 22);
+                        const m = L.circleMarker([p.lat, p.lng], { radius: r, color: "#6b1f2e", weight: 1.5, fillColor: "#8e2f23", fillOpacity: 0.8 })
+                            .bindPopup(popupHtml(p), { maxWidth: 300 });
+                        m.addTo(writtenLayer);
+                        markers[p.name] = m; // prefer the written marker for fly-to
+                    }
+                });
+
+                if (bounds.length) map.fitBounds(bounds, { padding: [30, 30] });
+
+                document.getElementById("toggle-written").addEventListener("change", (e) => {
+                    e.target.checked ? writtenLayer.addTo(map) : map.removeLayer(writtenLayer);
+                });
+                document.getElementById("toggle-mentioned").addEventListener("change", (e) => {
+                    e.target.checked ? mentionedLayer.addTo(map) : map.removeLayer(mentionedLayer);
+                });
+
+                document.querySelectorAll(".fly-to").forEach((btn) => {
+                    btn.addEventListener("click", (e) => {
+                        e.preventDefault();
+                        const lat = parseFloat(btn.dataset.lat), lng = parseFloat(btn.dataset.lng);
+                        map.flyTo([lat, lng], 7, { duration: 0.6 });
+                        const place = btn.closest("[data-place]")?.dataset.place;
+                        const m = markers[place];
+                        if (m) setTimeout(() => m.openPopup(), 650);
+                        document.getElementById("map").scrollIntoView({ behavior: "smooth", block: "center" });
+                    });
+                });
+            }
+
+            if (window.L) { initMap(); return; }
+            const s = document.createElement("script");
+            s.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
+            s.integrity = "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=";
+            s.crossOrigin = "";
+            s.onload = initMap;
+            document.head.appendChild(s);
+        })();
+    </script>
+</Layout>
