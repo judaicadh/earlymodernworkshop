@@ -250,7 +250,7 @@ Ums se sirviran mandarnos copia autentica de la prim[e]ra carta que resibieron d
 
 Y porlo que toca a lo que Vms preguntan si estan v[uest]ro sugetos a n[uest]ro *K[aal] K[ados]* en esta, le diremos que si pero en cosas semejantes que quieren imputar los de Saphet, lo que no se puede suponer, todo Israel estamos sobrepuestos y es de obligasion a salir p[or] honra de N[uest]ra S[an]ta Ley acudir con el mas pronto remedio. Aprovamos lo que Vms dispusieron en escrevir luego a Isidro de Saphet para aplacar el primer fuego y sin dilasion p. quanto antes procurar el darles la clarezas a los referidos de Saphet para q[ue] sepan la verdad.  
 Vms nos deven mandar una declarasion si fuese posible en que se declare por las Bañad[o]ras quien son las Ss[eñor]as que sirven lo qual deven Vms hazer muy en lo inculto de las d[ic]has Ss[eñor]as, como asi mandaran otra cazo que las haiga de no servirse de d[ic]ho baño con la seguridad de que d[ic]has atestaciones quedaran sequestradas em poder de los Ss[eño]res del *Mahamad* para que jamas puedan salir al publico lo que sera en benif[ici]o de Vms y guia para nos en dar la repuesta en devida forma a los de Saphet y dios premita consedernos su amor y temor y nos asista para ser de alivio a los q[ue] se valieren de nos inspirandonos los medios p[ar]a ataxar el mal que per pecados se manifiesten entre nos Bendiga esse *K[aal] K[ados]* en augm[ien]to de N[uest]ra S[an]ta ley y g[ar]de las personas de Vms como les anunsiamos.  
-Ss[eño]res Ab Cohen Peixotto parnas, Ab Fereira e S. Nabaro. F[irm]o D.B.1  
+Ss[eño]res Ab Cohen Peixotto parnas, Ab Fereira e S. Nabaro. F[irm]o D.B.[^12]  
 As cartas na gaveta do presidente.
 
 Letter 2 :
@@ -260,10 +260,9 @@ Source : Stadsarchief Amsterdam (formerly Gemeentlijke Archiefdienst Amsterdam) 
 Saphet  
 S[enho]r H[a]H[am] R[ab] Moseh Malqui Amst[erda]m 6 nisan 5488
 
-S[enho]r meu a prezente serve de notisiar a V.M. como resebemos varias cartas do K[aal] de Bourdeux com notisia do rigor com que S.M. os trata sobre informes falsos y logo com despreso por nao averem sido puntuais en responderlhe a prim[ei]ra, lho faz a segunda o S[enho]r Gabay Isidro em n[om]e de V.M. com termos tão chocantes q[ue] quazi não podemos querer seja de ordem de V.M. a q[e]m depois de nos referir em tudo a carta q[ue] lhe escreveo a V.M. oS[enho]r nosso H[a]H[am] sobre este particular, lhe diremos primeiram[en]te que o ditto Kahal est[ ?]2 muito tempo p[ar]a manter o judesmo ser nessesario fazelo com m[ui]ta precausão por estarem en teras donde tiñão poca liberdade, e agora pela grasa de D[eu]s alcansarão benignidade no governador a q[ue] posão observar o judesmo como nos consta fazem, y agazalhão com toda estimação e dispendio aos H[a]H[am] o seluhim q[ue] vem dessa os quais sobre aver lhes dado mao pago deverão de aver informado a V.M. estas e outras alevozias (he quando fose asi o q[ue] D[eu]s não premite) aguardavamos da prudençiade V.M.  
-ouvese escrito suas queixas ao seu H[a]H[am] que he homen m[ui]to de bem, o a nos debaixo de cuja protecsao estão pois sao nosos vezinos mais proximos lo informariamos de tudo e sendo sesecario[sic] fariamos a deligensia p[ar]a manter o judesmo como manda nossa Santa Ley, asi esperamos de sua m[ui]ta prudencia queira responder lhes a sua carta afalagandoos3 pois se achão consternados, p[or] merecelo o cazo,y amimalos4 asi ouver algum abuzo entre elles procurem remedialo com todo frevor e zelo e D[eu]s por sua misericordia nos conseda seu amor e temor e V.M. em compania de sua familia milhoradas festas chegando os a outros muitos e milhoradas como de coração lhes anunsiamos e g[ar]de a V.M. m[ui]tos a[nn]os.
+S[enho]r meu a prezente serve de notisiar a V.M. como resebemos varias cartas do K[aal] de Bourdeux com notisia do rigor com que S.M. os trata sobre informes falsos y logo com despreso por nao averem sido puntuais en responderlhe a prim[ei]ra, lho faz a segunda o S[enho]r Gabay Isidro em n[om]e de V.M. com termos tão chocantes q[ue] quazi não podemos querer seja de ordem de V.M. a q[e]m depois de nos referir em tudo a carta q[ue] lhe escreveo a V.M. oS[enho]r nosso H[a]H[am] sobre este particular, lhe diremos primeiram[en]te que o ditto Kahal est[ ?][^13] muito tempo p[ar]a manter o judesmo ser nessesario fazelo com m[ui]ta precausão por estarem en teras donde tiñão poca liberdade, e agora pela grasa de D[eu]s alcansarão benignidade no governador a q[ue] posão observar o judesmo como nos consta fazem, y agazalhão com toda estimação e dispendio aos H[a]H[am] o seluhim q[ue] vem dessa os quais sobre aver lhes dado mao pago deverão de aver informado a V.M. estas e outras alevozias (he quando fose asi o q[ue] D[eu]s não premite) aguardavamos da prudençiade V.M. ouvese escrito suas queixas ao seu H[a]H[am] que he homen m[ui]to de bem, o a nos debaixo de cuja protecsao estão pois sao nosos vezinos mais proximos lo informariamos de tudo e sendo sesecario[sic] fariamos a deligensia p[ar]a manter o judesmo como manda nossa Santa Ley, asi esperamos de sua m[ui]ta prudencia queira responder lhes a sua carta afalagandoos[^14] pois se achão consternados, p[or] merecelo o cazo,y amimalos[^15] asi ouver algum abuzo entre elles procurem remedialo com todo frevor e zelo e D[eu]s por sua misericordia nos conseda seu amor e temor e V.M. em compania de sua familia milhoradas festas chegando os a outros muitos e milhoradas como de coração lhes anunsiamos e g[ar]de a V.M. m[ui]tos a[nn]os.
 
-Firmarao B.N.H.5 e D.B.6
+Firmarao B.N.H.[^16] e D.B.[^17]
 
 **Bibliography**
 
@@ -272,10 +271,6 @@ Gérard Nahon, "Les émissaires de la Terre Sainte dans les communautés jude
 
 Evelyne Oliel-Grausz, « Patrocinio and Authority : Assessing the Metropolitan Role of the Portuguese Nation of Amsterdam in the Eighteenth Century », in Y. Kaplan ed., The Dutch Intersection. The Jews and the Netherlands in Modern History, Proceedings of the Tenth International Symposium on the History of the Jews in the Netherlands, nov 2004, Brill, 2008, pp. 149-172.  
 **Archive:** Statdsarchief Amsterdam, 334-94, 946-10
-
-
-
-FOOTNOTES
 
 ## Source 4 Original Text
 
@@ -293,6 +288,22 @@ D. M. da C[os]ta
 **Archive:** Statdsarchief Amsterdam, 334-94, 946-10
 
 ## Source 5 Original Text
+
+**Communication and transnational cooperation for the defense of Polish Jewry against blood libels : a letter sent from Amsterdam to Ferrara Source : Stadsarchief Amsterdam (formerly Gemeentlijke Archiefdienst Amsterdam)**
+
+**PA 334 93 1750-1757, Copiador de cartas, f°149-50**
+
+Muy Illustres SS[enhor]es Hahamim & Parnassim do K[aal] K[ados] de Ferrara q[ue] D[eu]s aumente  
+Amsterd[a]m 14 de Tamus 5513[^18]
+
+SS[enhor]es, Havendonos sido representado pello Haham dos Asquenasim a trista nova que reçebeo de Paulitz na Polonia, escritta pellos Hahamim e Parnassim do K[aal] K[ados] de Brod , com narraçao da calumnia fizerao a Naçam de uzarem da sangue de Cristão na Pascua, o que seguio com tanta violensia e rigor que pretendem privar da vida aos individuos de ditta kehila em que se achao homems muito sapientissimos , havendo ya começado a exçerser a execusão : motivo que essa opprimida gente lamentendose de sua situasao ocurem a todas as kehilot e implorao sua asistensia com todo empenho para solicitar por todas as vias cartas de favor em que fasao ver ser hua alevosia , que em tempos passados em diversas occasioems forão atacados os Judeos, e sempre reconheserão a inosensia e mesmo ser directamente contra nossa religiao . Avista desta disgraça e opprimida gente, nam podemos deixar de ocorer com toda vigilançia para contribuir a procurar as vias mais asentadas para derogar este decretos, a cuyo fim suplicamos a Vms m[ui]to Ill[ustres]s com toda instançia façao seo esforço quanto antes de opter hua copia authentica de çerto edito passado em Senigalia data 14 julio 1721 em que declarao a inoçensia sobre semelhante calumnia e que a expidao sem perder tempo a Roma para que o Papa suprima e anule este decreto, pois a 100 anos que o Papa com 13 cardenais escreverao a Polonia contra semelhantes aleives em favor da Naçao Judaica suplicandolhes ao mesmo remeternos tao bem hua copia authentica para servirnos della , e remostrala aos que nos podem servir de amparo neste cazo, e como sao empenhos em que todos nos devemos enteressar , pois o cazo e presante como Vms m[ui]to Ill[ustres]s verao pella incluza copia nao duvidamos de seo zelo contribuirão con todo fervor a soliçitar o dezeijado fim com as pesoas que possao ser de utilidade neste cazo: e rogamos a Deos nos conserve sua graça e asista a nosso esparsido povo, guarde e prospere a Vms m[ui]to Ill[ustres]s por largos & feliçes anos como dezejamos.  
+Muy Ill[ustres]s SS-res  
+Muy servidores de Vms  
+os parnassim do K[aal] K[ados] de T[almud] T[ora]  
+Selomoh Curiel  
+Isaac da Veiga Henriques  
+Ishac de Joseph de Meza  
+**Archive:** Statdsarchief Amsterdam, 334-94, 946-10
 
 Footnotes
 
@@ -317,3 +328,17 @@ Footnotes
 [^10]: The accused, mostly from Pawolocz, were tried in Zytomierz ; 33 Jews were imprisoned, 13 were sentenced to death by the court of Zytomierz on 26 May 1753, out of which two were spared after converting. The others met a cruel death : See Zenon Guldon, Jacek Wijaczka, « The Accusation of Ritual Murder in Poland, 1500-1800 », *Polin*, 10, 1997, pp.132-3, and ‫חיים בר־דיין, ״גזרות פבולוץ״ ומשפת ז״טומיר״, אדר היקר, תל אביב, תש״ז, קלא־קמד.‬‎
 
 [^11]: Possibly referring to the report written in 1664 by Giovanni Battista de Marinis, General of the Dominican Order, addressed to the Holy Office, declaring the accusation to be a baseless invention.
+
+[^12]: Daniel Bueno, parnas in 5487.
+
+[^13]: Estava ?
+
+[^14]: afagando ?
+
+[^15]: animarlos ?
+
+[^16]: Benjamin Nunez Henriquez, parnas in 5487
+
+[^17]: Daniel Bueno, parnas in 5487
+
+[^18]: 16 July 1753.
