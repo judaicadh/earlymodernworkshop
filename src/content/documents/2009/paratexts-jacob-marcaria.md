@@ -228,3 +228,43 @@ Footnotes
 [^6]: allusion to II Kings 9:20; “driving wildly”  
 [^7]: or, “understand it from within.”  
 [^8]: after Psalms 65:2. I am grateful to Adam Teller for his suggestions on the translation of this passage.
+
+[^9]: The date of the colophon is: Hanukkah 321= 25 Nov-2 Dec 1560. That is, the title page was laid out prior to Rosh Hashannah in 1560 and the printing was completed in late November or early December of 1560.
+
+[^10]: an allusion to the active intellect? I thank Lawrence Kaplan for the suggestion.
+
+[^11]: after Gen. 29: 34. "This time my husband will become attached [‎‫ילווה‬‎] to me, for I have borne him three sons." This is the third book by Gersonides published by Marcaria. I thank Daniel Lasker and Charles Manekin for pointing this out to me.
+
+[^12]: after II Chron. 13:14.
+
+[^13]: Gen 2: 20
+
+[^14]: see Numbers 20:13
+
+[^15]: after Ps 56:3.
+
+[^16]: lit. "They with theirs and we with ours." After BT Berakhot 8a.
+
+[^17]: after Judges 5:23
+
+[^18]: i.e. Abraham Shalom; see Herbert Davidson on Shalom's attempts to reconcile Gersonides' and Maimonides' views. (*The Philosophy of Abraham Shalom* [Los Angeles, 1964], pp.10-11.) *Neve Shalom* was first printed in Constantinople in 1539 and was re-printed in Venice in 1574/75.
+
+[^19]: after Song of Songs 3:8
+
+[^20]: Exodus 17:14
+
+[^21]: a pun on II Kings 2:12 "chariot of Israel and its horsemen" ‎‫רכב ישראל ופרשיו‬‎
+
+[^22]: after Job 7:11
+
+[^23]: He refers here to the printed edition not the literary "work" as the next sentence makes clear.
+
+[^24]: a play on Mishnah Avot 3: 7 "How lovely the tree; how lovely the ploughed field [‎‫ניר‬‎]."
+
+[^25]: after Numbers 23:21 (with "harm" and "woe" reversed)
+
+[^26]: The first "book" refers to the literary work, while the second "book" refers apparently to this edition.
+
+[^27]: see Is. 57:19. Elisabeth Hollender informs me that variations on this phrase are common in the Italian and Ashkenazic piyyut traditions from the 13th century on. I am grateful to her for her help with this passage.
+
+[^28]: after Ps. 144:1.
