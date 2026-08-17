@@ -12,7 +12,7 @@ publication_location:
   - Riva del Garda
 text_location:
   - Cremona
-description: >+
+description: >
   For a few years in the middle of the sixteenth century (1557-1564), a Hebrew
   press was active in Riva del Garda (Riva di Trento) under the management of
   Jacob Marcaria, a physician. The business arrangements of the press seem
@@ -57,3 +57,38 @@ description: >+
 
   - The Book of Rabbi Mordecai
 ---
+## Source 1 Translation
+
+**Abraham Klausner, *Minhagim*, 1558, in octavo** title page (1r):
+
+translation:
+
+Customs | of our teacher, the rabbi Abraham Klausner, nicely abridged | with annotations collected from halakhic decisors, from here and there, | printed under the regime of the Cardinal | Christophil Madruzzi, may his glory be increased. | Kislev of the year 319[^1], according to the minor counting | Riva di Trent[o]
+
+verso of title page (1v):
+
+To the reader:
+
+And even this. Whereas other authors [might be], this author is not one who is uneducated;[^2] He is more powerful than his brothers.[^3] For all of them went on at length and moved forward with difficulty,[^4] but this man came to be brief--in order to satisfy the young and the old and not exhaust them, giving to each season[^5] its law, without behaving in a frenzy.[^6] Kindly read this and become acquainted with its content.[^7] For praise befits it.[^8]
+
+These are the words of the physician who is not practicing, Jacob Marcaria.
+
+## Source 2 Translation
+
+## Source 3 Translation
+
+## Source 1 Original Text
+
+## Source 2 Original Text
+
+## Source 3 Original Text
+
+Footnotes  
+[^1]: colophon indicates 2 Kislev= 12 November 1558  
+[^2]: lit. “does not cut reeds in the marshland”; see Jastrow, s.v. אגמא., citing BT Sanhedrin 33b and BT Shabbat 95a.  
+[^3]: I. Chron 5: 2  
+[^4]: after Ex 14: 25  
+[^5]: lit. “time.”  
+[^6]: allusion to II Kings 9:20; “driving wildly”  
+[^7]: or, “understand it from within.”  
+[^8]: after Psalms 65:2. I am grateful to Adam Teller for his suggestions on the translation of this passage.
