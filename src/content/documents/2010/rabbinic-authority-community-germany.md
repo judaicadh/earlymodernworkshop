@@ -96,14 +96,6 @@ After that the wise head of the rabbinic court, God may protect him, sent two *n
 
 Today, Sunday, 1 Tevet 5515[^5], Salman, son of Nathan, God may protect him, and Shlomo Berlin, God may protect him were called to the gathering of the persons listed on the margin. They were employed by the governors, God may protect them, as supervisors in the two baking houses. In the third bakery Itzig ben Nathan will remain supervisor as usual. They have to pay special attention as described in the regulation that was handed over to them by the head of the rabbinic court and they are obliged to fulfill their task as they have promised by handshake to the wise head of the rabbinic court. Each of the supervisors will receive a payment for supervising from the fund of the governors, God may protect them, each Sabbath evening and evenings of holidays twelve *Kreutzers* for each supervisor. Each one will get three *levonim*[^6] from the monthly *gabbai* in charge, and three *levonim* from the baker where he supervises. Also the three bakers, who have contracts with the governors named Wunderly and Russi and Thomas, were called and they have accepted with good will. Each time they will pay the supervisors three *levonim* out of their own pocket. In addition, a written contract shall be made between the *govim*, God may protect them, and the mentioned bakers, according to which there will be no baking with other bakers. Also was decided that whenever a head of household from our community, whoever he may be, is going to bake baker's bread on the evening of the Holy Sabbath, it will be distributed immediately among the poor of our town. Whoever will contravene has to pay a fine of half a *gulden* to the *hekdesh*. All the above was resolved by the wise head of the rabbinic court as can be seen on the backside of the folio, on last Thursday, which is the 28 Kislev 5515.
 
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 [^1]: On him and the other rabbis in the early modern archbishopric of Mainz see my article: 'Rabbiner und jüdische Gelehrte im Kurfürstentum Mainz während der Frühen Neuzeit', in: Pelizaeus, Ludolf (ed.), *Innere Räume – äußere Zäune: Jüdischer Alltag im Rheingebiet im Spätmittelalter und in der Frühen Neuzeit*, Mainz 2010, pp. 97-116.
 
 [^2]: *Beginnings of the Haskala among German Jewry*, Jerusalem 1960 (Hebrew).
