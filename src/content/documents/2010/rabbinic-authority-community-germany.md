@@ -6,4 +6,8 @@ institution: Jewish National Library, Israel
 volume: 7
 year: "2010"
 slug: rabbinic-authority-community-germany
+language:
+  - Yiddish
+publication_location:
+  - Mainz
 ---
