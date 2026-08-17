@@ -172,6 +172,22 @@ D. M. da C[os]ta
 
 ## Source 5 Translation
 
+**Copiador de cartas/Letter copybook (5): A Letter from Amsterdam to Ferrara on behalf of Polish Jews, 1753**
+
+**Communication and transnational cooperation for the defense of Polish Jewry against blood libels: a letter sent from Amsterdam to Ferrara Source: Stadsarchief Amsterdam (formerly Gemeentlijke Archiefdienst Amsterdam)**
+
+**PA 334 93 1750-1757, Copiador de cartas, f°149-50**
+
+Illustrious Gentlemen Hahamim and parnassim of the Kaal Kados (Holy Congregation) of Ferrara,  
+Amsterdam, 14 tamuz 55131  
+Mrs, Having ben informed by the Haham of the Ashkenazim of the sad news that he received from Paulitz in Poland2, [in a letter] written by the Hahamim and parnassim of the Kaal Kados (Holy Congregation) of Brod3, with a description of the calumny made against the [Jewish] Nation, accused of using Christian blood for Easter, which was followed by so much violence and harshness that they intend to take the lives of the individuals fom this kehila [community], in which are to be found some very learned men, and which sentence they have already started to execute 4: for this reason, these oppressed people, lamenting their situation, resort to all the kehilot (communities), imploring their help and devoted efforts to request by all possible means letters of protection which will demonstrate that this is a false accusation, that in past times on various occasions Jews were blamed [for such crimes], and that everytime they were proved innocent, and this [was proved] even to be against our religion. Considering this calamity and these oppressed people, we cannot fail to bring all our attention and contribution in order to provide the most judicious way to have those decrees rescinded, for which end we beseech you urgently, Illustrious Gentlemen, to make all efforts in order to obtain as soon as possible an authentic copy of a certain sentence rendered in Senigallia dated 14 July 1721, in which the innocence [of the Jews] was proclaimed following a similar calumny, and that it be sent without delay to Rome, so that the Pope may suppress and annull this sentence, and indeed a hundred years ago the Pope together with 13 cardinals wrote to Poland against such false accusations and in defence of the Jewish Nation5, and we beseech you at the same time to send us as well an authentic copy so that we may use it and show it to those who may be of service to us in this case, and since these are efforts in which all of us must engage, since the case is pressing as you Illustrious Gentlemen will see in the copy included in this letter, we have no doubt that you will diligently and devotedly bring your contribution towards achieving the wished for conclusion, as well as the persons who may be useful in this case ; and we pray that God may grant us His mercy and assist our scattered People, May He protect you Illustrious gentlemen for many happy years as we wish.
+
+Illustrious Gentlemen,  
+Your devoted servants  
+The parnassim of Kaal Kados (Holy Congregation) Talmud Tora Selomoh Curiel  
+Isaac da Veiga Henriques  
+Ishac de Joseph de Meza
+
 ## Source 1 Original Text
 
 **Copiador de cartas**  
@@ -232,15 +248,7 @@ Resebimos su carta de Vms (aun que sin fecha) y sentimos como se deve su conteni
 
 Ums se sirviran mandarnos copia autentica de la prim[e]ra carta que resibieron del *rab* de Saphet que Vms apuntan vino firmado de su mano en que andaron Vms algo diminutos en no aver respondido luego a dicha carta y assy venga luego en repuesta sin mas delasion para podernos capasitar desu contenido con sertesa p[ar]a n[uest]ro govierno en la repuesta .
 
-Y porlo que toca a lo que Vms preguntan si estan v[uest]ro sugetos a n[uest]ro *K[aal] K[ados]* en esta, le diremos que si pero en cosas semejantes que quieren imputar los de Saphet, lo que no se puede suponer, todo Israel estamos sobrepuestos y es de obligasion
-
-121
-
-EMW -Workshops
-
-EMW 2010
-
-a salir p[or] honra de N[uest]ra S[an]ta Ley acudir con el mas pronto remedio. Aprovamos lo que Vms dispusieron en escrevir luego a Isidro de Saphet para aplacar el primer fuego y sin dilasion p. quanto antes procurar el darles la clarezas a los referidos de Saphet para q[ue] sepan la verdad.  
+Y porlo que toca a lo que Vms preguntan si estan v[uest]ro sugetos a n[uest]ro *K[aal] K[ados]* en esta, le diremos que si pero en cosas semejantes que quieren imputar los de Saphet, lo que no se puede suponer, todo Israel estamos sobrepuestos y es de obligasion a salir p[or] honra de N[uest]ra S[an]ta Ley acudir con el mas pronto remedio. Aprovamos lo que Vms dispusieron en escrevir luego a Isidro de Saphet para aplacar el primer fuego y sin dilasion p. quanto antes procurar el darles la clarezas a los referidos de Saphet para q[ue] sepan la verdad.  
 Vms nos deven mandar una declarasion si fuese posible en que se declare por las Bañad[o]ras quien son las Ss[eñor]as que sirven lo qual deven Vms hazer muy en lo inculto de las d[ic]has Ss[eñor]as, como asi mandaran otra cazo que las haiga de no servirse de d[ic]ho baño con la seguridad de que d[ic]has atestaciones quedaran sequestradas em poder de los Ss[eño]res del *Mahamad* para que jamas puedan salir al publico lo que sera en benif[ici]o de Vms y guia para nos en dar la repuesta en devida forma a los de Saphet y dios premita consedernos su amor y temor y nos asista para ser de alivio a los q[ue] se valieren de nos inspirandonos los medios p[ar]a ataxar el mal que per pecados se manifiesten entre nos Bendiga esse *K[aal] K[ados]* en augm[ien]to de N[uest]ra S[an]ta ley y g[ar]de las personas de Vms como les anunsiamos.  
 Ss[eño]res Ab Cohen Peixotto parnas, Ab Fereira e S. Nabaro. F[irm]o D.B.1  
 As cartas na gaveta do presidente.
