@@ -75,6 +75,30 @@ These are the words of the physician who is not practicing, Jacob Marcaria.
 
 ## Source 2 Translation
 
+Levi ben Gershon (Gersonides), Sefer Milḥamot ha-Shem, 1560, in folio.
+
+title page (1r):
+
+Book of | the Wars of the Lord | by the Divine Philosopher, The Great Teacher, Rabbi | Levi ben Gershom, may the memory of the righteous be a blessing. | Edited and elevated with choice flour from the books of | Aristotle and the other philosophers, famous from time immemorial. | Printed here, Riva di Trento, in the year 320[^9], according to the shortened counting.
+
+verso of title page (1v):
+
+To the reader:
+
+This time my husband[^10] will be connected to me for I have borne for you [three books].[^11] And it is called the Book of the Wars of the Lord, by the divine philosopher, the teacher, Rabbi Levi ben Gershon, may his memory live in the world to come, who attained heights in philosophy, speaking about the divine.
+
+Although there appear to be in his words contradictions to our Torah and [the words of] the sages of our nation, the war was before and behind the Lord[^12], [and this book forms] a helpmeet.[^13] But many have called this "Wars with the Lord" and the Waters of Meribah [where the Israelites] quarreled with [God].[^14] Many are [the author's adversaries], O Most High One.[^15] But does he not offer an explanation for this in his introduction to the book and in the last chapter of the first treatise? And we see there: For the words of Torah and philosophy are separate. To each his own.[^16]
+
+But I did not come to be his messenger or advocate. For the wars of the Lord we must fight. For some have already come to the aid of the Lord among the warriors.[^17] [Such as] the teacher, author of the Book Neve ha-Shalom[^18] and the others who are experts in war.[^19]
+
+Write this as a memorial in the book[^20]: that all men who desire to come and attain heights, even to the ultimate end of philosophy, can see his way and learn [from this book].
+
+And thus do not leave or foresake this book. For all others are nothing in contrast to it. And the man's name is known in Israel as the author of enlightening works, in his own war chariot [i.e. this book] and in his commentaries.[^21] Therefore I will not stop my mouth[^22] from reciting some of his praises and [the praises of] the majesty and glory of this work.[^23] There is no need, for with your own eyes, you see how fine are the paper and the tree,[^24] and also its editing with my removal of all evil from its camp, so that there be no woe for Jacob or harm to Israel.[^25]
+
+And the difficult matter was the writings that are quoted in this book, and I had many doubts about it. So I looked in the books of Aristotle and all the famous ones mentioned and brought by this author in his mind, and I quoted directly from those writings. Thus, take from the heights the fine and sifted flour, this book of the covenant, as it comes now in this book.[^26] May the utterance of my lips[^27] bless the one who trains my hands for battle and my fingers for warfare.[^28]
+
+These are the words of the physician who is not practicing, Jacob Marcaria.
+
 ## Source 3 Translation
 
 ## Source 1 Original Text
