@@ -6,4 +6,7 @@ institution: Université Paris 1 Sorbonne, France
 volume: 7
 year: "2010"
 slug: communication-community-multiplex-networks
+language:
+  - Portugese
+  - Judeo-Spanish
 ---
