@@ -101,6 +101,56 @@ These are the words of the physician who is not practicing, Jacob Marcaria.
 
 ## Source 3 Translation
 
+The Book of Rabbi Mordecai
+
+Sefer Rav Mordekhai
+
+1558
+
+Translated by Adam Shear, University of Pittsburgh, USA
+
+Sefer Rav Mordekhai, 1558 [Kislev 319], in folio.
+
+title page (1r):
+
+The Book of Rav Mordecai
+
+And Mordecai went out in a royal garb[^29] [with] annotations
+
+and a crown and fine linen[^30], an index of all the laws at its head.[^31]
+
+And this was not performed with honor and dignity[^32] since the days of old.
+
+Printed by the Gaon, our teacher and rabbi, Joseph Ottoleng[hi], may God preserve him,
+
+under the regime of the lord, the Cardinal Christophil Madruzz[o], may his glory be increased.
+
+[Printed in] Kislev of the year 319 [i.e. November-December 1558] according to the minor counting
+
+here in Riva di Trent[o]
+
+verso of title page (1v):
+
+To the Observer[^33]:
+
+Those who rejoice to exultation are glad to find a man[^34] who fears the Lord[^35] and profits God by his righteousness,[^36] and takes of the spirit that was upon him[^37] for the many. This is the gaon, our teacher and rabbi Joseph Ottolenghi [lit. Ottolengo], may God preserve him, in his perception of the greatness of this Book of Rav Mordecai. For all rabbis[^38] wax mighty in power [with this book],[^39] and it excels over all.[^40]
+
+And the full account of the greatness of Mordecai--is this not written in the book you have before you[^41], in every line? From each line, a novel interpretation or a legal judgement is set out. But from times of old, it has been hidden in the baggage.[^42] One did not see it and its glory was changed to that which does not profit.[^43] For it was swallowed within the books of the Rabbi from Fez [Alfasi], one [interpretation] here or one there. And it was sliced into several parts. And not everyone was privileged to have it between his hands and always upon his forehead.[^44]
+
+He [i.e. Rabbi Ottolenghi] said to print it on its own base[^45] and on its own podium.[^46] And without anything extraneous[^47], except for the annotations of the author.[^48] And most of them are light sown[^49] on the edge of the codex.[^50] And in addition to this, [he also said to print] Tosafot to "The Eves of Passover,"[^51], from small works that were not lost.[^52]
+
+And he commanded me saying to take hold of this, and withdraw not your hand from this,[^53] to the point of polishing and erasing all the errors and mistakes. All this, but only possibly[^54] [can I erase] those that remain and are hidden after the editing of this gaon. And I act according to the command of this holy man. And thus I was at work on it daily and I came to do my work on it. And I saw it was not arranged according to his judgements, although full of his gems. It would tire a man to find what came to mind.[^55]
+
+I said to him to open a gate[^56] that would not consist of a mixture of things. And with different things, do not mix them.
+
+[So] I have erected markers[^57] for it in order to rescue them from the burden of a king and his ministers.[^58] Thus did the people of the Lord march down to the gates[^59]--gates that our fathers did not know.[^60] So that knowledge may come easily to the wise man.[^61] And all the judgements are within reach of those who desire them[^62] without your eyes having to wander across the whole book and the numbers [of judgements] for they are more than can be told.[^63] For perhaps something is omitted, a sign and a reminder[^64] of the pearls of his words for [the book] is overflowing [with] novel interpretations and judgements, and many customs [for] those who judge,[^65] and everybody else.[^66] It is all here. And even [so-called] foolish customs without a basis in the early commentators will be sustained on a firm basis[^67] and will find support.[^68]
+
+Therefore whoever is eager for life,[^69] please hurry and take the choice products of the land[^70]
+
+These are the words of the physician who is not practicing,
+
+Jacob Marcaria, son of the honorable, our teacher and rabbi David Marcaria, may his memory live in the world to come.
+
 ## Source 1 Original Text
 
 Abraham Klausner, *Minhagim*, 1558, in octavo
