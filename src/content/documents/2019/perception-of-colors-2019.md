@@ -24,4 +24,3 @@ bibliography:
     year: year here
     pages: pages here
 ---
-BODY
