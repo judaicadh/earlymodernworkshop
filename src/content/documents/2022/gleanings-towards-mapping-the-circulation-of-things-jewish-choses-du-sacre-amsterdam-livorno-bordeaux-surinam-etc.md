@@ -148,6 +148,20 @@ Signed H. Abram Abendana de Britto, Aron Spinosa Cattela Jessurun”
 
 ## Source 4 Translation
 
+Livorno, ACEL, Filza de cartas, 1727-8. Two letters from Tunis to Livorno, 1727 1/ ACEL, Filza de cartas 1715-1723, n°118, 27 tebet 5487
+
+Most Illustrious Dayanim and Masares of the Holy Community of Livorno Tunis, 27 Tevet 5487 [20 January 1727]  
+May this [letter] find you in the perfect health desired, and it was that a woman from Algiers named Melexa presented herself in front of our Magistrate, wife of Yexiya Coen, informing us that her said husband had sold and delivered a *sefer Torah* to be paid one piece and a quarter every month, and Sir Moseh de Semuel Coen from your city having accepted the task of collecting this sum, and it was deposited and put in the house of the late Sr Beniamin Sacutto, and after this order was given him he went away to travel the world, and currently it is not known where he is, and also she says that she was informed that her said husband sent from Tripoli another *sefer torah* so that it be sold; she produced before us such complaints with much crying as she was giving us information about the great ordeals she experienced with her family in foreign parts without receiving any help from anyone, that we felt compassion , and knowing your benevolence, and having been informed that the said Sr Coen is a Gd fearing man, we were brought to write the present letter informing you of the whole case, so that you may see in which way this poor woman may be helped in recovering her husband’s due interests, may you receive from Gd for such pious work the rightful reward...
+
+2/ ACEL, Filza de cartas 1715-1723, n°248, October 8, 1728.
+
+« Most Excellent Sirs Daianim and Massari of the K.K. of Livorno Tunes, 8 October 1728,
+
+After greeting V.M. and wishing that you may enjoy perfect health, the present serves to inform you that Gracia Calvo de Castro being currently here, when she was in your city she had married her daughter with her nephew Abraham Lopes Siera, and he gave her *qedusim*, and after coming to this city, for all the attempts and manners she tried to convince him to come here to marry, promising him numerous commodities, he never wanted to do so, misleading her with words, and lastly he married with whom he wanted, and during these she resorted to us so that we write the present letter to your VM so that at least he will send her Get that she may be free to hope a better fortune, this being a heavy charge on the conscience that the poor woman remains here, bound, and this being a great work of charity, and your VM will pursue what is to be done in reason and by way of Justice, and we shall not expand [on this matter], May Gd grant you a reward for that which you will do. This also serves to inform you that we have received news that some have written from your [city] asking if the *alxale* and the salted tongues that are customarily sent from here if when the animals are killed, to remove the fat, *nefixa* is done, to which we shall say that here it is not general, some take that precaution and others do not, and this how our *daianim* have always been used to do here, we do not stand watch in the meathall to know those that are with *nefixa* and those that are not, may this serve to inform you and guide you, in case someone wants to send some of the said *alxale* and tongues. As always, we are expecting an answer to what was written [and sent] in the previous ships, and when it occurs we shall inform you, remaining eager to your orders, may Gd protect you for numerous years.
+
+Joseph Mendes Ossuna Abraham de Isaque Lumbroso Moseh de Abraham Franco » משה דרמון  
+[another signature in Hebrew]
+
 ## Source 1 Original Text
 
 Stadsarchief Amsterdam.
