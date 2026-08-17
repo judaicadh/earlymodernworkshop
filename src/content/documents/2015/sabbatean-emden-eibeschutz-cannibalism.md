@@ -34,21 +34,7 @@ original_language_body: >-
   ## Source 1 Original
 
 
-  EARLY MODERN WORKSHOP: Jewish History Resources
-
-
-  **Volume 12: Continuity and Change in the Jewish Communities of the Early
-  Eighteenth Century, Ohio State University, Columbus, August 17-19, 2015**
-
-
-  **The Sabbatean who devoured his Son: The Emden-Eibeschütz Controversy and
-  Cannibalism**
-
-
-  Shai Alleson-Gerberg, Hebrew University of Jerusalem
-
-
-  ‫יעקב עמדין, שאילת יעבץ ח"א, אלטונא תצ"ט, שאלה מא, סט ע"א.‬‎
+  **‫יעקב עמדין, שאילת יעבץ ח"א, אלטונא תצ"ט, שאלה מא, סט ע"א.‬‎**
 
 
   ‫ובילדותי ראיתי תשובה א' מהה"ג כמו' דוד אופנהיים ז"ל (זה חמש ועשרים שנה, כששלח
