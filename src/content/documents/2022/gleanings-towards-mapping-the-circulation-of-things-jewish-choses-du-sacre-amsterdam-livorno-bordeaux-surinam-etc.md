@@ -56,7 +56,33 @@ Ead., « Networks and communication in the Sephardi diaspora : an added dimensio
 
 ## Source 1 Translation
 
+Stadsarchief Amsterdam.
 
+**The correspondence of a commission trader between Surinam and Amsterdam (1720’s).**
+
+« Amsterdam, 28 March 1725
+
+Sr Jacob Henriquez de Barrios,  
+We have received your two esteemed letters dated last December 4, with Captain Jan Blom et Simon Quaboer by which we were informed that you received ours dated 24 July and Augut 1st past.  
+We take notice of your disapproval of the rental of warehouses [pacus] for the goods we are shipping out to you, this being in your opinion nothing but a novelty invented by ourselves and Abrabanel, to which we reply that you are wrong since this is the mercantile custom, and that those who do not pay for it, you may be sure of that, will pay while incurring the expense of keeping the goods aboard, or of loading the shipped goods onboard ; and regarding what you say, that it is not necessary to keep the merchandise and supplies that we are shipping in warehouses, you are arguing against your own interest, since if each one of your suppliers of the goods and supplies we are shipping out were to send to have the merchandise they send loaded aboard ships, the price paid to the mariner/boatman and the expenses for each parcel would amount to much more than the cost of renting a warehouse for a month, not to mention the fact that it is impossible to send aboard some type of merchandise and to send aboard some type of staples/goods : as for instance the coal arriving in vessels from the Rhine which are measured in the market in which thesaid vessel arrives , and from there taken to warehouses since there is no commercial ship bound for Surinam ; the butter comes from Leyden, on tugboats which are unloaded in the city, the meats, since we are Jewish, are sent to be salted, kosherized, and packed in special warehouses with a Jewish surveyor. The salt is bought in large quantities to gain 25 p/cent in the price whereas when it is bought in retail it costs between 6 ir even 6f pr OHH [*Hogshead]*, and so forth for various other goods, into which we shall not linger so as not to expand our already long letter, and be able to serve your interest with zeal and conscience, and the Flemish correspondents you name are doing the contrary of this, since, considering that they do not charge you for the warehouse rental they will set the interest of the money that they put out at 4 to 6 p/ cent yearly , and they will overcharge for some staples, which we do not do ; We apologize for dwelling at length upon this issue and being so bothersome with this long letter, and in  
+effect you shall let us know in the future if you wish to pay for the cost of the warehouse , which is a short term item, or if you prefer to pay the cost for each staple to the boatman that will take them aboard, which will raise by much the level of expenses, as we have already said.  
+As for the price of the snakewood [/pao letro][^1] , it remains even, for there was no
+
+opportunity to sell it successfully, some are desperate that do not want to be in credit with their correspondents will sell it at f. 3.15 pour 100, which we believe it is inappropriate to do, for, since no letterhout having arrived in the last two ships, the price is bound to go up again , and this we do for your benefit, although we are your creditors.
+
+Following your order , we have insured 10 OHH [*Hogshead]*of sugar at f.50 par OHH [*Hogshead]*with a premium at 4 p/cent in the ship Gekroode lam ,Captain Jurian Schonevelt, and we have also insured in the said ship 12 OHH [*Hogshead]* upon order of Mr. Abraham da Costa at f.50, and we shall hold on to the letterhout until it reaches 41/2 for f/5 pour 100 cash in profit as you have ordered, and we request again that you desist from sending anymore letterhout.
+
+We will attempt at receive and sell 2 OHH [*Hogshead]* sugar sent Jan Blom on your personal account.  
+We had a glass cabinet [glaze Kas ] made out of letterhout, a press, a mirror, 12 table feet, exactly as you ordered, however for the eight smooth pieces that you have requested , that is four pieces 28 feet long, and 4 pieces 18 feet long , we have never seen or received pieces of Letterhout long enough , and therefore we inferred that it may be a slip of the pen on your part, and hope for a response from you.
+
+We have collected information about how much it would cost to factor a dozen chairs and an armchair, and we were asked for between f8-16, when providing the Letterhout [added above the line] – may this serve as an indication.  
+On the 8 of this month we have sent you a letter with captain Vet saying that the ship Conde Carlo Boromeo Capo Jacob de Jongh was wrecked on the coast , and since it was impossible for the ship to pursue its journey, all the goods will be transferred to the Maria Theresa Gerret Cocq, as you can see in the annexed lading bill, and the said Cocq will carry as well the letters first sent] on the Jacob de Jongh, as well as and the accounts for the staples and merchandise for Mrs Abigail et Simha de Castro, and in this way the documents sent on thesaid Jacob de Jongh are cancelled.
+
+With this letter we are including two current accounts, on from your personal account, in which it appears that you owe us f. 8271,19, and a second company account in which you are owed f.170,9, which two amounts we shall appose and credit [added above the line in new accounts, and we hope that, being indebted to us, you will give us some indication about how much you will offer, and remain as always willing to execute your orders.
+
+May God keep you for many years  
+Your esteemed friends and servants,  
+With the ship Maria Theresa, Captain Gerrit Cocq .
 
 ## Source 2 Translation
 
@@ -71,4 +97,8 @@ Ead., « Networks and communication in the Sephardi diaspora : an added dimensio
 ## Source 3 Original Text
 
 ## Source 4 Original Text
+
+Footnotes
+
+[^1]: Letterhout en néerlandais.
 
