@@ -145,6 +145,33 @@ Com o navio o Maria Theresa Capo Gerrit Cocq
 
 ## Source 2 Original Text
 
+**Taxes communautaires et surveillance halakhique de la fabrication, entre Hambourg et Bordeaux**  
+*Bordeaux, A.D.G., C 1089, pièce 57*
+
+"Il y a nombre d'années que les Juifs établis a Hambourg et à Altona font un trafic de vins a Bourdeaux, faisant acheter la dépouille des vignes des propriétaires par des marchands Chrétiens, ils les font travailler et préparer à leurs manières tant par leurs propres ouvriers que par les ouvriers Juifs de Bordeaux. Ces vins n'ont jamais payé plus d'impots que ceux que font négociant chrétien ou juif paye ordinairement.
+
+Selon leurs Loix les Juifs ne doivent point boire d'autre vin que celuy qu'ils nomment Kasser ; pour plus de seureté, et pour satisfaire les marchands de vin Juifs d'icy, leurs commissionnaires chrétiens a Bordeaux ont pris autrefois un certificat du précédent Rabin de la Nation Portugaise à Bourdeaux pour constater que les vins qu'ils chargeoint étoient véritablement Kasser, et ont donné une petite gratification au Rabin pour ce certificat.
+
+Il y a environ 9 ans que les premiers Rabins et Savans Juifs d'icy ont eu quelques soupcons de la droiture du Rabin Portugais de Bordeaux et de ses certificats ce qui les obligea de faire défendre dans toutes les synagogues de recevoir le vin de Kasser de Bordeaux muny du seul certificat du Rabin. Ce mandement a été renouvellé et confirmé par le premier Rabin d'icy nomme Jonathan Eybeschuz qui est venu de Metz et où il est depuis trois ans.
+
+Par cette défense les marchands de vins juifs ont été contraints de vendre à grande perte aux Chrétiens leurs vins qu'ils avaoient fait venir de Bordeaux, les Juifs n'en voulant point acheter. Pour y remedier on a envoyé à Bordeaux de la part de la Communauté Juive d'icy deux hommes affidés auxquels il a été expressement ordonné d'étre présents à la préparation des vins depuis le commencement jusqu'à la fin, et d'avoir soin que tout fût observé selon les Loix Judaïques. Ces deux hommes demeurent toujours à Bordeaux aux dépens de la Communauté ; le certificat du Rabin de Bordeaux n'étant plus nécessaire ni d'usage, on ne se croit plus obligé à la gratification. on peut vérifier par les livres des commissionnaires que depuis ce tems là, elle n'a été ni demandée ni donnée. Il se pourroit que les Juifs de Londres et d'Amsterdam qui ne sont point soumis aux défenses de notre Rabin d'icy ont continué à prendre les certificats du Rabin de Bordeaux et à luy payer la gratification.
+
+Cet exemple ne doit point servir de Loy aux parties, la demande du certificat ayant toujours été indifférente et arbitraire.
+
+Cepandant depuis six ans le Rabin Portugais de Bordeaux a prétendu indistinctement de tout juif un impôt sur chaque tonneau de vin Kasser, soit qu'il prit un certificat ou qu'iul n'en prit point en fixant même la somme. Sur le refus que nous avons fait de payer, il en aporté ses plaintes a M. l'Intendant qui a parfaitement connu le peu de fondement de ses prétentions. tout le monde scait que dans un Royaume il n'est permis qu'au Souverain de mettre des impots nouveaux.
+
+Et d'ailleurs les Loix Judaïques ne permettent à aucune communauté Juive de mettre des impôts sur les Juifs étrangers.
+
+Malgré cela le Rabin Portugais ne s'est point désisté de ses prétentions, et pour obtenir la perception d'un droit qu'il vouloit imposer, il a attiré dans son party les Anciens et les Syndics de la nation Portugaise a Bordeaux, et ont voulu faire passer cet impôt comme un droit du et qui devoit être employé à la nourriture des pauvres de leur Nation.
+
+Les Juifs Allemands n'ont aucune connexion ni communion avec les Portugais, ils forment au contraire deux sectes différentes.
+
+En 1751 les marchands de vins Juifs d'icy ordonnèrent à leurs commissionnaires chrétiens à Bordeaux la quantité de vin dont ils avoient besoin et de la délivrer à leurs gens pour la travailler. Ceux-ci furent troublés dans leur travail par un mandement que le Rabin Portugais et les Anciens avoient fait publier dans toutes les synagogues par lequel ils défendoient à tous ouvriers soit de leur nation soit étranger de faire du vin Kasser qu'ils ne leur eussent payées le droit de 4# par tonneau.
+
+Cette défense sous des peines sensibles aux Juifs comme d'être privés de sepulture, leurs femmes bannies des bains Judaïques et autres peines semblables a tellement intimidé les ouvriers qu'ils ont abandonné leur travail.
+
+Sur les plaintes que les commissionnaires chrétiens aportèrent a M. l'Intendant il fit d'abord suspendre l'exécution de ce mandement et donna ordre au Rabin, aux anciens et aux syndics de produire leurs raisons. Les commissionnaires peu informés des Loix Judaïques ne s'étant point opposés et n'ayant point répondu aux raisons des anciens, M. l'Intendant fut porté à recevoir ces raisons comme fondées, et de faire le 12 février 1752 une ordonnance par laquelle il donne défaut contre les commissionnaires et les condamne à payer aux anciens et Sindics 4# par tonneau de vin Kasser qu'ils avoient chargé ou qu'ils chargeroient."
+
 ## Source 3 Original Text
 
 ## Source 4 Original Text
