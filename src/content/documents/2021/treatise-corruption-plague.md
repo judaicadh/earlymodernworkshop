@@ -30,7 +30,7 @@ description: >-
 
   I chose to present the preface, which offers two main focuses of interest: 1.
   Medicinal: it portrays a pre-modern understanding of corrupted air, how it
-  affected  the environment, how it entered the body and some possible
+  affected the environment, how it entered the body and some possible
   treatments. Ideas about contagion and preventive measures during plague time
   correspond with challenges we are facing today. 2 Socio-religious: The preface
   offers a glimpse to the existing tension between polemics and collaboration,
@@ -38,8 +38,8 @@ description: >-
   medical arena. The Jewish translator notes his efforts to obtain the treatise
   from Christians, who hid it like a treasure. Though a common motif in Jewish
   translations of Latin medical sources, it raises  questions regarding the
-  demand to wrestle knowledge from Christian colleagues.  What can be learnt
-  from this phrase, given that when the treatise was translated  original Hebrew
+  demand to wrestle knowledge from Christian colleagues. What can be learnt from
+  this phrase, given that when the treatise was translated  original Hebrew
   plague treatises were already composed and medical knowledge  circulated among
   Jews relatively freely? Why did the Jewish translator choose to leave John's
   personal motivation to write the treatise as is, and not to state only his own
@@ -55,9 +55,9 @@ I chose to present the preface, which offers two main focuses of interest: 1. Me
 
 ++**Suggested Bibliography**++ 
 
-Barkai, Ron. 1998. "Jewish Treaties on the Black Death (1350–1500): A Preliminary  Study". Medicine from the Black Death to the French Disease. Aldershot: Ashgate.  6-25. 
+Barkai, Ron. 1998. "Jewish Treaties on the Black Death (1350–1500): A Preliminary Study". Medicine from the Black Death to the French Disease. Aldershot: Ashgate.  6-25. 
 
-Einbinder, Susan. 2018. "Abraham Caslari: A Jewish Physician on the Plague".  After the Black Death: Plague and Commemoration among Iberian Jews.  Philadelphia: University of Pennsylvania Press. 57-78. 
+Einbinder, Susan. 2018. "Abraham Caslari: A Jewish Physician on the Plague". After the Black Death: Plague and Commemoration among Iberian Jews.  Philadelphia: University of Pennsylvania Press. 57-78. 
 
 Freudenthal, Gad. 2018. "The Brighter Side of Medieval Christian - Jewish  Polemical Encounters: Transfer of Medical Knowledge in the Midi (Twelfth - Fourteen Centuries)". Medieval Encounters 24. 29-61. 
 
