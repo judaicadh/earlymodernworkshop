@@ -265,7 +265,7 @@ part (a): ethics, which are the character traits that should govern a person's b
 
 ## Source 1 Original Text
 
-**Sefer Siftey Yeshenim — Hebrew source text (pp. 98–125)**
+**Sefer Siftey Yeshenim** 
 
 ‎‫ספר שפתי ישינים
 
