@@ -127,7 +127,7 @@ A Gospel according to Luke the Evangelist that is taken from books known as the 
 
 **1. Since many have taken to their hearts to set down an orderly account of the events which have been validated to us 2. Just as they were handed on to us by those who from the beginning were eyewitnesses and servants of the word of God.[^1]**
 
----
+--------------
 
 **1. Since** - It was already explained in the introduction to this book why the books that tell about the birth of Jesus, the miracles he performed before all the people and his resurrection are called the **good gospel** and why the people who wrote them are called **evangelists**. And there you will also see that each and every book was written by the person to whom it is attributed although he did not disclose his name. And the intention of the narrator who tells us these things in the first four verses in this book, which are like an introduction to his book, is to announce the reason for writing this book.
 
