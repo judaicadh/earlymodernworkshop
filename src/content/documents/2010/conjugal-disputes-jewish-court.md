@@ -5,9 +5,13 @@ institution: Hebrew University of Jerusalem
 volume: 7
 year: "2010"
 slug: conjugal-disputes-jewish-court
+language:
+  - Hebrew
+publication_location:
+  - Altona
 description: >+
   Disputes between married couples in 18th century were sometimes brought before
-  the Jewish court ( the Beit-Din). Analysis of protocols of session which dealt
+  the Jewish court (the Beit-Din). Analysis of protocols of session which dealt
   with such disputes reveals facts about tensions caused by contemporary family
   structure and marriage customs as well as about the means which the court
   applied to enforce policy. The texts presented here are excerpts from one of
