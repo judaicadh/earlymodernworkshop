@@ -6,4 +6,8 @@ institution: University of Amsterdam, The Netherlands
 volume: 6
 year: "2009"
 slug: publisher-service-readers
+language:
+  - Yiddish
+publication_location:
+  - Amsterdam
 ---
