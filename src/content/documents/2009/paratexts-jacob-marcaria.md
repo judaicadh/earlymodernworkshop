@@ -147,7 +147,7 @@ I said to him to open a gate[^56] that would not consist of a mixture of things.
 
 Therefore whoever is eager for life,[^69] please hurry and take the choice products of the land[^70]
 
-These are the words of the physician who is not practicing,
+These are the words of the physician who is not practicing,[^71]
 
 Jacob Marcaria, son of the honorable, our teacher and rabbi David Marcaria, may his memory live in the world to come.
 
