@@ -395,6 +395,6 @@ But I have seen that the *Tsene Rene* was printed several times and copies of wh
 
 And let God help me bring forth more projects and print more books which I plan. I hope that my supporters will not forsake me, and thus my standing will be greater as I am not letting myself into folly with which one cannot buy his place in eternity. And all those who helped with the book, God will double and redouble their remuneration and they will see (=experience) consolation and be present at the building of Jerusalem…….
 
-**Publisher: Hayyim Druker** 
+**Publisher:** Hayyim Druker 
 
-**Archive: Rosenthalian, JNUL, Bodleiana and others**
+**Archive:** Rosenthalian, JNUL, Bodleiana and others
