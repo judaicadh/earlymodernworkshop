@@ -79,6 +79,40 @@ These are the words of the physician who is not practicing, Jacob Marcaria.
 
 ## Source 1 Original Text
 
+Abraham Klausner, *Minhagim*, 1558, in octavo
+
+title page (1r):
+
+‎‫מנהגים‬‎
+
+‎‫של מה"רר אברהם קלויזנר בקצור נאה‬‎
+
+‎‫עם הגהות נלקטו מן הפוסקים‬‎
+
+‎‫אחת הנה ואחת הנה נדפס‬‎
+
+‎‫תחת ממשלת‬‎
+
+‎‫החשמן‬‎
+
+‎‫קרישטופיל מאדרוצי יר"ה‬‎
+
+‎‫כסליו שנת שי"ט פה‬‎
+
+‎‫ריווא דטרינט‬‎
+
+verso of title page (1v):
+
+‎‫אל הקורא‬‎
+
+‎‫ואף גם זאת. בהיות שאר מחבר' לאו קטלא קני באגמא המחבר הלזה. גבר באחיו. כי כולם האריכו. וינהגו בכבדות. והאיש הלזה בא בקצרה. למען ירוצה בו נערים ויששים ולא ייעפו. תת לכל זמן חוקו. ולא כשגעון ינהג. קראו נא בו. ויודע בקרבו. כי לו דומיה תהלה.‬‎
+
+‎‫נאום הרופא ולא לו‬‎
+
+‎‫יעקב מרקריאה‬‎
+
+Publisher: in Abraham Klausner, Minhagim, Riva di Trento, 1558, 1r-1v.
+
 ## Source 2 Original Text
 
 ## Source 3 Original Text
