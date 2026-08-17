@@ -9,7 +9,7 @@ language:
   - Hebrew
 publication_location:
   - Koretz
-description: >+
+description: >
   This presentation analyzes Shlomo Lutzker's Introduction to Magid Devarav
   Le-Ya'akov as a key source of information on the process of formation and
   publication of early hasidic books and the activities of printers and aditors.
@@ -27,8 +27,6 @@ description: >+
 
 **Shlomo Lutzker's Introduction to Magid Devarav Le-Ya'akov: Likutei Amarim**  
 **Magid Devarav Le-Ya'akov: Likutei Amarim, Hakdamat Ha-Sefer 1781**
-
-Translated by Moshe Rosman, Bar-Ilan University, Israel
 
 This is a translation of Shlomoh Lutzker's Introduction to the book, Maggid Devarav Le-Ya'akov (Koretz, 1781), a compilation of the *hanhagot* (conduct teachings) of Dov Ber, the Maggid of Mezerich. Lutzker was the *mavi le-vet ha-defus* (publisher/production editor) of this and other early Hasidic books.
 
