@@ -86,6 +86,26 @@ With the ship Maria Theresa, Captain Gerrit Cocq .
 
 ## Source 2 Translation
 
+*Bordeaux, A.D.G., C 1089, pièce 57-***Kosher wine**
+
+“For a number of years now, the Jews established in Hamburg and Altona have been trading wine in Bourdeaux, resorting to Christian merchants to buy the stripped grapes (harvest) from the estate owners, and having them processed and prepared by their own workers as well as by Jewish workers from Bordeaux. These wines were never more heavily taxed than those ordinarily made by Christian traders or by Jews. According to their Laws, the Jews cannot drink any wine but that which they name Kasser; for better safety and in order to satisfy the Jewish wine traders from this place, their Christian commission traders in Bordeaux used to obtain a certificate from the previous Rabbi of the Portuguese nation in Bourdeaux stating that the wine they were loading was truly Kasser, and they gave a small fee to the Rabbi for that certificate.
+
+Approximately 9 years ago some Rabbis and scholars from here (Hamburg) started suspecting the righteousness of the Portuguese rabbi and of his certificates, which compelled them to declare a prohibition in all synagogues on any kosher wine from Bordeaux that came only with the Rabbi’s certificate. This order was reiterated and confirmed by our first Rabbi here, named Jonathan Eybeschuz, who came from Metz three years ago.
+
+Due to this prohibition, Jewish wine traders were forced to sell with great financial loss the wine they had brought over from Bordeaux, since the Jews would not buy it. To remedy the situation, two trusted men were sent by the Jewish community here, and they were expressly ordered to be present during the preparation of the
+
+wine from beginning to end, and to make sure that everything would be done in keeping with Jewish Laws. These two men are still in Bordeaux, at the expense of this community; since the certificate from the Rabbi in Bordeaux has become neither necessary nor in use, it seems the need to pay the fee is moot. It can be checked in the books of the commission traders that since those days it was neither requested nor given. It is possible that the Jews of London or Amsterdam, who are not subject to the prohibitions of our Rabbi here, have continued to receive certificates from the Bordeaux rabbi and to pay the fee.
+
+Such an example should not be used as the law regarding the parties, since the request for this certificate was always contingent and voluntary.  
+Yet, for the past six years, the Portuguese Rabbi in Bordeaux has claimed from all Jews without making any distinctions, a tax on every barrel of kosher wine, with a similar amount whether a certificate was obtained or not. Upon our refusal to pay, he took his complaints to the Sir Intendant, who gave little credit to his claims. It is of common knowledge that in a kingdom the Sovereign is the only one who can levy new taxes.
+
+And besides, Jewish laws do not allow any Jewish community to levy taxes upon foreign Jews.  
+However, the Portuguese rabbi did not desist from his claims, and in order to obtain the collection of a tax that he wanted to impose, he obtained the assent of the Elders and the syndics of the Portuguese Nation of Bordeaux, and they tried to pass off this tax as a legitimate collection to be used for the sustenance of the Nation’s poor. German Jews have neither association nor harmony with the Portuguese, and on the contrary, they constitute two different sects.
+
+In 1751 the Jewish wine merchants from this town ordered from their Christian commissioners in Bordeaux the required quantity of wine to be processed by their employees. These employees were disrupted in their work by a proclamation posted by the Portuguese Rabbi and the Elders in all the synagogues, by which they forbade every worker, whether from their nation or a foreigner, to make Kasser wine unless the 4# duty per barrel was paid.
+
+This prohibition, entailing sensitive sanctions for the Jews such as the denial of burial rites, or the ban from the Jewish baths for their wives, and other similar sanctions proved so intimidating to the workforce that they abandoned their task. Upon the complaints brought to the Sir Intendant by the Christian commissioners, the latter first halted the execution of that prohibition and ordered the Rabbi, the Elders, and the syndics, to provide their arguments. Since the said commissioners, knowing very little about Jewish Laws, did not express their opposition and did not reply to the arguments brought forth by the Elders, the Sir Intendant was led to consent to their arguments as legitimate, and produced on February 123, 1752, an ordonnance by which he decides against the commissioners and condemns the latter to pay 4# to the Elders and syndics for each barrel they had loaded or would load.”
+
 ## Source 3 Translation
 
 ## Source 4 Translation
