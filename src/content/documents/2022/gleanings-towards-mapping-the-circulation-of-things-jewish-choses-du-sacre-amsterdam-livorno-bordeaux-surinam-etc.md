@@ -108,6 +108,44 @@ This prohibition, entailing sensitive sanctions for the Jews such as the denial 
 
 ## Source 3 Translation
 
+**Two letters from Amsterdam to Venice on etrogim**
+
+Stadsarchief Amsterdam, PA334, Copiador de cartas.
+
+« Most Illustrious Gentlemen Parnassim of the General University of the Jews  
+in Venice,  
+Amsterdam, 30 September 1773,  
+Gentlemen, We received in its time the Gentlemen’s estimated letter dated 3 and  
+10 September with a notice regarding the shipping of a small box with 40 citrons,  
+which we received, and we express our gratitude for the good zeal employed in the service of this *Kahal Kados;* notwithstanding the good trust in our friendship we find it necessary to bring to your knowledge that when this box was opened with much caution we found that the said citrons were almost all of poor quality
+
+and none was perfect; it is true that all over they did not come out favorably this  
+year, but we have been informed that a box arrived [here] in which most were  
+better and beautiful so that we suspect that these [people], despite the export  
+prohibition in Corfu that Your Highnesses have made us aware of, by way of some maneuver, obtained directly the best ones, or else that the person that Your  
+Highnesses entrusted with our errand did not devote it the required attention, and  
+we beg you to investigate [the matter], so that next year, May Gd benevolently allow us to reach it , we can avoid that anindividualbegivenpreferenceoveran entire *kehila,* asking you therefore to provide us in that time with an identical quantity of citrons, which will please us considerably; the amount for those received is p. 39 which yields f.86.14 B[an]co at the rate of 887/8 sao f.86.14 per p., which our Gabay drew, was accepted and will be collected in its time; and since we  
+sold on September 1 6/m of advance for the affair in favor of your University, our  
+Gabay drew today in favor of Your very Illustrious Highnesses a letter of  
+436.16.6 p. Banco at usance to the bearer Guayta e Comp[anh]a, the value of these amounts to f. 960.14 Banco
+
+at the exchange of (? Pound Flemish) 88 per P., which we entrust to your good care, and at the same time we congratulate you for the beginning of the New year, in which we pray Gd to grant you prosperity and added years, and that you may celebrate the upcoming holidays with contentment in company of your respective families, and May Gd keep you well for numerous years;
+
+Affectionate Servants of your very Illustrious Gentlemen,  
+The parnassim of the Jewish Nation,  
+Signed, Moseh Telles da Costa, Joseph de David Mendes da Costa”
+
+Stadsarchief Amsterdam, PA334, Copiador de cartas.
+
+“Amsterdam 11 8-bro 1778,
+
+Illustrious Gentlemen, We received in their time the much esteemed [lettres] from Your very Illustrious Gentlemen dated 28 August, 2, 11, & 18 September; we acknowledge everything you said had happened this year with the *Etroguim* and specifically with your shipment to us of 40 p. on behalf of this K.K; we cannot refrain from expressing our well founded / legitimate complaints, and greatly surprised by what you claim explains the bad quality of the *etroguim* this year, as we have seen the boxes that various individuals have received from your city; even when many were *pessulim*, the remainder was beautiful in shape as well as in color, and some of the most perfect that came for a number of years, whereas ours were ugly and misshapen, and none was perfect and sent by mail by courier just as if they had been pouches of diamonds, and this resulted in the fact that we paid here f.156.18 for transportation when individuals received it by “conduta” (coach) and some by express [mail] to Augusta[Augsburg], and its total cost was 5f per piece, all arrived on time and only a few days after ours; considering the above, we cannot comprehend what moved your Illustrious Highnesses to ship ours by courier, causing us to pay such an excessive shopping cost, and since it is the latest harvest, there is no reason that justifies it, and pondering with reason the vague excuses formulated, it seems the quill of your accountant should erase it; besides the cost you mentioned of f.156.18 with expenses of f153.9 amounting to
+
+330 pounds paid in the Flemish Post, and we protest and demand you reimburse us, and we were so bothered by these events that we discussed protesting the payment sent by your accountant of the said 1534.0 banco, but ultimately in order not to tarnish ou, we paid the letter, so that the 40 cost 317.12 f cash, and they are ugly and bad, and from all of this we conclude that you were misled regarding the poor quality, and as for the extraordinary way chosen for the expedition, it seems the person who was entrusted with it lacked good sense, because the individuals did not experience such disappointment, and they arrived here in due time, it is painfully clear that the money from the chest of the poor has been wasted, and for that we request the restitution of the £330 that you charged us, because we paid the shipping here; if about this commission we entrusted you with, or the person whom you gave instructions to has specific reasons to disdain us, we think that Your Illustrious Highnesses should give us some explanations in your reply in order to take other measures for next year....[The end of the letter, deals with financial matters connected with a loan from the Hague community, has been left out.]
+
+Yours Most illustrious Highness Affectionate servants, Parnassim of the Jewish Portuguese Nation,  
+Signed H. Abram Abendana de Britto, Aron Spinosa Cattela Jessurun”
+
 ## Source 4 Translation
 
 ## Source 1 Original Text
