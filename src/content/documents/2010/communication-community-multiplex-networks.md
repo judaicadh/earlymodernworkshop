@@ -314,6 +314,6 @@ Footnotes
 
 [^9]: Brody
 
-[^10]: The accused, mostly from Pawolocz, were tried in Zytomierz ; 33 Jews were imprisoned, 13 were sentenced to death by the court of Zytomierz on 26 May 1753, out of which two were spared after converting. The others met a cruel death : See Zenon Guldon, Jacek Wijaczka, « The Accusation of Ritual Murder in Poland, 1500-1800 », חיים בר־דיין, ״גזרות פבולוץ״ ומשפת ז״טומיר״,אדר היקר, תל אביב, תש״ז, *Polin*, 10, 1997, pp.132-3, and . קלא־קםד
+[^10]: The accused, mostly from Pawolocz, were tried in Zytomierz ; 33 Jews were imprisoned, 13 were sentenced to death by the court of Zytomierz on 26 May 1753, out of which two were spared after converting. The others met a cruel death : See Zenon Guldon, Jacek Wijaczka, « The Accusation of Ritual Murder in Poland, 1500-1800 », *Polin*, 10, 1997, pp.132-3, and ‫חיים בר־דיין, ״גזרות פבולוץ״ ומשפת ז״טומיר״, אדר היקר, תל אביב, תש״ז, קלא־קמד.‬‎
 
 [^11]: Possibly referring to the report written in 1664 by Giovanni Battista de Marinis, General of the Dominican Order, addressed to the Holy Office, declaring the accusation to be a baseless invention.
