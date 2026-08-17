@@ -4,4 +4,6 @@ presenter: Ruth von Bernuth
 institution: University of North Carolina at Chapel Hill
 year: "2019"
 slug: senses-disabled-yiddish
+language:
+  - Yiddish
 ---
