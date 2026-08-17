@@ -318,3 +318,89 @@ Footnotes
 [^27]: see Is. 57:19. Elisabeth Hollender informs me that variations on this phrase are common in the Italian and Ashkenazic piyyut traditions from the 13th century on. I am grateful to her for her help with this passage.
 
 [^28]: after Ps. 144:1.
+
+[^29]: after Esther 6:8 and 8:15
+
+[^30]: after Esther 8:15
+
+[^31]: This is an allusion to the bonus feature of the index, *Simane Mordechai* by Ottolenghi which could be sold together with this edition or sold separately for those who already had a Talmud or a *Sefer Rev Alfasi* with the *Mordechai* in it.
+
+[^32]: after Esther 6:3
+
+[^33]: The sense here is "to the reader"; however, I leave the more literal translation to distinguish from prefaces where Marcaria specifically addresses the "reader" (*koreh*).
+
+[^34]: after Job 3:22 "those who rejoice to exultation and are glad to reach the grave." Marcaria replaced ‎‫קבר‬‎ (grave) in Job with ‎‫גבר‬‎ (man) here.
+
+[^35]: after Psalm 112:1, "happy is the man who fears the Lord"
+
+[^36]: after Job 22:3, "Is it any advantage to the Almighty that thou art righteous?"
+
+[^37]: after Numbers 11:25,
+
+[^38]: lit. "halakhic decisors" (*poskim*)
+
+[^39]: after Job 21:7.
+
+[^40]: after Prov 31:29 (*Eishet Ḥayil*)
+
+[^41]: after Esther 10:2; "before you" lit. "before him," i.e. the "examiner," or reader.
+
+[^42]: see I Sam 10:22.
+
+[^43]: after Jeremiah 2:11.
+
+[^44]: Exodus 28:38
+
+[^45]: cf Daniel 11: 20, 21, 38.
+
+[^46]: cf II Chron. 34:31.
+
+[^47]: lit. "and there was no stranger with it"; cf. I Kings 3:18.
+
+[^48]: For discussion of the "hagahot" in this and other additions, see A. Helprin, "Sefer ha-Mordecai in Light of Its Printings" [in Hebrew], *Iyunim be-sifrut ḥazal, ba-mikra, uve-toldot yisrael*, ed. Y. Gilat et al (Ramat-Gan, Israel: Bar Ilan University, 1982), pp.329-330.
+
+[^49]: Ps. 97: 11
+
+[^50]: "at the edge of the *maḥberet*"=a play on "at the edges of the camp [*maḥaneh*]" (e.g. Judges 7:17)?
+
+[^51]: i.e. the tenth chapter of Tractate Pesaḥim
+
+[^52]: lit. "trodden on"; see Jastrow s.v. ‎‫רכס‬‎
+
+[^53]: a play on Eccl. 7: 18: "grasp the one without letting go of the other"
+
+[^54]: See BT Ḥagigah 4b "all this, and only perhaps," (Soncino trans.)
+
+[^55]: lit. "to find what came up to his spirit."
+
+[^56]: "Gates" here and in the following sentences also refers to sections or chapters of a book.
+
+[^57]: see Jeremiah 31:21.
+
+[^58]: see Hosea 8:10: ‎‫ויחלו מעט ממשא מלך שרים‬‎. Marcaria changes the *ayin* in ‎‫מעט‬‎ to a *lamed*, thus yielding the phrase "rescue from the burden" similar to the phrasing found in Is. 46:2 (‎‫מלט משא‬‎). Thus, he conflates the two verses to yield the full phrase. Cf. BT Bava Batra 8b where the phrase from Hosea is quoted in support of the notion that Torah scholars should be exempt from poll taxes ("the burden of kings and their servants").
+
+[^59]: Judges 5:11.
+
+[^60]: lit. "did not fear"; after Deut 32: 17. See JPS New which notes the Arabic root "sha'ara" implying: "did not know." Regardless of whether Marcaria knew Arabic (which is unlikely), this usage appears in Hebrew philosophical texts (see Klatzkin, 4: 128).
+
+[^61]: Proverbs 14:6
+
+[^62]: Psalms 111: 2.
+
+[^63]: after Psalms 40:6
+
+[^64]: after Exodus 13:9.
+
+[^65]: see Ex 18:22
+
+[^66]: after Psalms 49:2.
+
+[^67]: lit. "sustained on cedar"; after Psalms 41:4, modifying ‎‫יסעדנו על-ערש‬‎ to ‎‫יסעדנו על ארז‬‎.
+
+[^68]: i.e. biblical support.
+
+[^69]: after Ps. 34:13
+
+[^70]: Gen : 11. I have altered the order of this sentence for clarity in English.
+
+[^71]: The exact meaning of this phrase is obscure. Lit. "the physician--but not for himself," as trans. in Joshua Bloch, "Hebrew Printing in Riva di Trento," pamphlet, New York: NYPL, 1933, p.6 n.20 (reprinted in *Hebrew Printing and Bibliography,* ed. Charles Berlin [New York, NYPL/Ktav, 1976]. Bloch cites Samuel Krauss and Moritz Steinschneider who had previously commented on this phrase. Bloch speculates that Marcaria relocated from Cremona to Riva del Garda after taking ill, and "therefore went to the Tyolese mountains, where the delightful climatic conditions and the luxuriance of the vegetation are most favorable for the treatment of patients suffering from pulmonary disease." While Bloch's comment certainly evokes pleasant images of the lake region of northern Italy, Meir Benayahu rightly pointed out that this is entirely speculative and that Marcaria's phrase may simply mean "MD--but not acting in that capacity," identifying himself as a physician but stating that he is not acting as one in writing prefaces or managing the press (*Ha-defus ha-ivri be-Kremona* [Jerusalem: Makhon Ben Ẓvi, 1971], p.113 n. 2). But Benayahu's suggestion is also conjectural and requires a less literal reading of the phrase. Krauss and Bloch offer a reading that is closer to a plain sense reading-- "ve-lo lo" = "and not to himself." (Benayahu also points out that Bloch's assumption that Marcaria had lived in Cremona and had been a rabbinical judge and member of Ottolenghi's yeshiva was also conjecture. (ibid, p.113). Indeed, Bloch's only evidence for halakhic activity by Marcaria is his signature on a responsum in the Tamar-Ventorrozzi case, from 1566, after the end of the printing press in Riva.)
