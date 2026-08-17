@@ -35,17 +35,16 @@ description: >-
    Medicinal: it portrays a pre-modern understanding of corrupted air, how it
   affected  the environment, how it entered the body and some possible
   treatments. Ideas about  contagion and preventive measures during plague time
-  correspond with challenges  we are facing today. 2 Socio-religious: The
-  preface offers a glimpse to the existing  tension between polemics and
-  collaboration, as well as questions of medical  authority, between Jews and
-  Christians in the medical arena. The Jewish translator  notes his efforts to
-  obtain the treatise from Christians, who hid it like a treasure.  Though a
-  common motif in Jewish translations of Latin medical sources, it raises
-   questions regarding the demand to wrestle knowledge from Christian
-  colleagues.  What can be learnt from this phrase, given that when the treatise
-  was translated  original Hebrew plague treatises were already composed and
-  medical knowledge  circulated among Jews relatively freely? Why did the Jewish
-  translator choose to 
+  correspond with challenges we are facing today. 2 Socio-religious: The preface
+  offers a glimpse to the existing  tension between polemics and collaboration,
+  as well as questions of medical  authority, between Jews and Christians in the
+  medical arena. The Jewish translator  notes his efforts to obtain the treatise
+  from Christians, who hid it like a treasure.  Though a common motif in Jewish
+  translations of Latin medical sources, it raises  questions regarding the
+  demand to wrestle knowledge from Christian colleagues.  What can be learnt
+  from this phrase, given that when the treatise was translated  original Hebrew
+  plague treatises were already composed and medical knowledge  circulated among
+  Jews relatively freely? Why did the Jewish translator choose to 
 
 
   leave John's personal motivation to write the treatise as is, and not to state
