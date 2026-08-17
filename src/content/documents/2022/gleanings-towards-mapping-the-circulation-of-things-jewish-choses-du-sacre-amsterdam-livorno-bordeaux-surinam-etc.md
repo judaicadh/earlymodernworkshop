@@ -261,8 +261,6 @@ Esta ache a Vmds com a saude perfeita q[ue] se desegião e sendo que se present
 Daianim e masares da nasao portugueza Beniamin da Carra  
 Isaaque franco
 
-89
-
 2/ ACEL, Filza de cartas 1715-1723, n°248, October 8, 1728.
 
 « Exc[ellentissi]mos Ss[enho]res Daianim e Masares do K[ahal] K[ados] de Liorne  
