@@ -251,6 +251,30 @@ H. Abram Abendana de Britto, Aron Spinosa Cattela Jessurun”
 
 ## Source 4 Original Text
 
+Livorno, ACEL, Filza de cartas, 1727-8. Two letters from Tunis to Livorno, 1727 1/ ACEL, Filza de cartas 1715-1723, n°118, 27 tebet 5487
+
+Muy Ill[ustre]s Ss[enho]res Dayanim e Masares do K[ahal] K[ados]  
+de Liorne  
+Tunes, a 27 tebet 5487  
+Esta ache a Vmds com a saude perfeita q[ue] se desegião e sendo que se presento em este noso Magistrado uma argelina chamada Melexa mulher de Yexiya Coen noteficandonos em como d[itt]o seu marido bendeu e mesa um sefer Tora apagar uma peza e um quarto cada mes avendo degiado a incumbensa e proccura de d[itt]a cobransa a ese S[enho]r Moseh de Semuel Coen q[ue] esta aposentado e mesa em casa de seu tio bm S[enho]r Beniamin Sacutto e que depois de averle degiado d[itt]o ordem se foi p. os mundos aoqual presentem[en]te não se save donde esta, como assi mesmio dis que neim notocias de q[ue] ditto seu marido mando de Tripole ad-o Sr Coen otro Sefer Tora p[ar]a q. selo bendese; forao tantas as esclamasois quel fes diante de nos com grandes choros com fazernos informar as grandes mizerias q[ue] pasa em comp[anh]a de sua familha em terra forasteira seim ter socoro de nenhum que de compadesidos ereconhosendo a benegnidade de Vmd eavernos informado de que d[itt]o Sr Coen ser pesoa temeroso de D[eu]s nos obligo a fazer a pres[en]te noteficandoles todo o sobre d[itt]o p[ara] que begiao o modo i q. d-a pobre mulher segia socorida dos intereses d. d[itt]o seu marido que de tal obra pia saraõ de D[eu]s terão o pago que é q[uan]to p agora se nos offreze dezir nos recomandandonos em todos Vmd mui de coraçaõ a queim D[eu]s G[ar]de m[uito]s a[nno]s
+
+Daianim e masares da nasao portugueza Beniamin da Carra  
+Isaaque franco
+
+89
+
+2/ ACEL, Filza de cartas 1715-1723, n°248, October 8, 1728.
+
+« Exc[ellentissi]mos Ss[enho]res Daianim e Masares do K[ahal] K[ados] de Liorne  
+Tunes , 8 8-bre 1728
+
+Despois de saludar a Vmd, e que os ache com a saude perfeita que se deseijaō sirve noticiarles como achandose aqui Gracia Calvo de Castro aqual quando estava em essa avia desposado sua filha com seu sobrinho Abraham Lopes Siera, avendolé dado *qedusim* e depois de aver vindo a esta, p.[or] mais q[ue] ques fazer modos e maneras p[ar]a persuadilo de que viese a esta à casarse com bastantes combeniencias que le prometia, nunca quis conseguilo entretendoa com palabras e p[er] Ultimo se caso e mesa com quem le pareseu a qual em ò inter que ò supo recoreu a nosotros que figiesemos a pres[en]te a Vmd p[ar]a que ao menos de que le mande seu Get quedando libre a esperar sua fortuna sendo que e um grande cargo de consensia que a pobre quede aqui atada que p[or] ser que é bastante obra de caredade e Vmd farao solecitar o que de rezao e Giustizia nao alargamos e do que obrareim de D[eo]s terao o pago.
+
+Sirve tambem avisar a Vmd como tubemos noticiais em come ubo queim escrebeu de esa preguntando se ò alxale e linguas saladas que soim mandar de aqui aesa se quando matao os anímaís p[ar]a begitar se faseim nefixa aò que diremos que aqui nao e general ai queim fas escurpulos eai queim nao o fas q[ue] assi sempre se acostumo em esta e nostros Daianim nao estamos p. guardias em a carneseria p[ar]a saver as que sao com nefixa e as q. nao sao, que les serva de avizo e governo. Esperando reposta como nos emos de conter p. ò ouvir para satisfasao de Vmd ; p. si acaso algum quigier mandar de d[itt]as alxale e linguas. Como tambeim esperamos reposta do escritoles em as embarcaçois pasadas q[ue] asi importa conforme les avisemos quedando mui pr[on]tos a suas ord[e]m a queim D[eu]s G[ar]de M[uito]s A-s
+
+Joseph Mendes Ossuna Abraham de Isaque Lumbroso Moseh de Abraham Franco » משה דרמון  
+[another signature in Hebrew]
+
 Footnotes
 
 [^1]: Letterhout en néerlandais.
