@@ -13,6 +13,33 @@ publication_location:
   - Amsterdam
   - Bordeaux
   - Tunis
+description: >+
+  The following documents constitute a sampling of the gleanings culled along
+  the way of research in the history of early modern Sephardic *kehillot*:
+
+
+  1. Document 1 is a letter taken from the correspondence of a Sephardic
+  commission trader in Amsterdam involved in colonial trade between Amsterdam
+  and Surinam in the 1720’s and 1730’s, Abraham da Costa, and describes in
+  unusual details the preparation, storage and shipment of kosher items in
+  Amsterdam (Stadsarchief Amsterdam).
+
+  2. Document 2 is a report on the making and the trading of Kosher wine in
+  Bordeaux in mid-eighteenth century, found in the archives of the Intendance of
+  Bordeaux, or the representative of Royal authority in the French provinces
+  (1752, Archives départementales de la Gironde).
+
+  3. Document 3 is a sampling of two letters on the ordering, supplying and
+  shipping of etroguim between Venice and Amsterdam in the 1770’s, taken from
+  the copiador de cartas, that is the registers in which a copy of the outbound
+  letters sent by the community Talmud Torah of Amsterdam and its various
+  officials was kept( Stadsarchief Amsterdam).
+
+  4. Document 4 is composed of two letters sent from Tunis to Livorno in the
+  1720’s on- ,among other things- the issue of preparation and shipment of meat,
+  on the production and sale of sifre torah, extracted from the incoming
+  correspondence of the Livorno Nazione (Archives of the Jewish Community of
+  Livorno).
 ---
 ## Introduction
 
