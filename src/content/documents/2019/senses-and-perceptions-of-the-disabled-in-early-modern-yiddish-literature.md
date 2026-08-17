@@ -334,22 +334,7 @@ original_language_body: >-
   ## Source 2 Original
 
 
-  EARLY MODERN WORKSHOP: Jewish History Resources
-
-
-  **Volume 16: Senses and Perceptions**
-
-
-  Fordham University, New York, August 19-20, 2019
-
-
-  ## Senses and Perceptions of the Disabled in Early Modern Yiddish Literature
-
-
-  Ruth von Bernuth, UNC-Chapel Hill
-
-
-  *איין שוין מעשה בוך. בזל, 1602, 158א–159א.*
+  **איין שוין מעשה בוך. בזל, 1602, 158א–159א.**
 
 
   ‫ריב [וויא איין מענש האט גאט גאר ֿפאר לייקנט לסוף האט ער גרוש חרטה]
