@@ -68,3 +68,45 @@ Shoham-Steiner, Ephraim, *On the Margins of a Minority: Leprosy, Madness, and Di
 *Un beau livre d’histoires: Eyn shön mayse bukh; Facsimilé de l’editio princeps de Bâle (1602).* Edited, introduced, and translated by Astrid Starck-Adler. 2 vol. Basel: Schwabe Verlag, 2004.
 
 Waldschmidt, Anne, “Disability Goes Cultural: The Cultural Model of Disability as an Analytical Tool.” In *Culture – Theory – Disability: Encounters between Disability Studies and Cultural Studies,* edited by Anne Waldschmidt, Hanjo Berressem, and Moritz Ingwersen. Bielefeld: transcript Verlag 2017, 19-27.
+
+## Source 1 Translation
+
+**Munich, Bayerische Staatsbibliothek, cod. hebr. 100, fol. 147r-148v.**
+
+**Translated by Ruth von Bernuth from the Yiddish manuscript with reference to Paul Oppenheimer’s translation of the German *Ein kurtzweilig lesen von Dyl Ulenspiegel*. Straßburg 1515.**
+
+The twenty-seventh story 
+
+How Ayleshpigel painted the Landgrave of Hesse and persuaded him that whoever was illegitimate could not see it
+
+Ayleshpigel performed amazing things in the country of Hesse. When he had roamed the country of Saxony through and through, he was so well-known, that was no longer quite able to get away with his mischief-making. Then he moved into the country of Hesse and arrived in Marburg at the Landgrave’s [court].
+
+He was asked what he could do. He replied and said, “I am an artist.” This pleased the Landgrave. He thought he could do alchemy, because the Landgrave concerned himself quite deeply with alchemy. He asked whether he was an alchemist. Ayleshpigel said, “No, gracious Lord, I am a painter—one whose equal will not be found in many countries. For my work far exceeds the work of others.” 
+
+The Landgrave said, “Let’s see something.”Ayleshpigel said, “Yes, gracious Lord.” He had with him various artful paintings, which he had bought in Flanders. He pulled these out of his sack and showed them to the Landgrave. The Lord certainly liked them, and said to him, “Dear master, how much would you charge for painting our hall—showing the origins of the Landgrave of Hesse and how he initiated the friendship with the King of Hungary, and other Princes and Lords, and how long all this has lasted? And we would like to have this done as sumptuously as possible.” Ayleshpigel replied, “Gracious Lord, if Your Grace were to let me do it, it would probably cost four hundred guilders.” The Landgrave said, “Master, just do it well. We plan to pay you well for it.”
+
+Ayleshpigel took the job on, but the Landgrave had to give him hundred guilders right away, so he could buy paints and hire assistants. But when Ayleshpigel, with three assistants, was ready to start his work, he demanded to allow no one other than his assistants into the hall while he was working that he was not disturbed. The Landgrave promised him this.
+
+Ayleshpigel next came to an agreement with his assistants. He ordered them to say nothing and let him take care of everything. They were not to work and they would receive their pay. Their greatest labor would consist of playing board games. They were pleased that they were to earn money for sitting idle.
+
+All this went on for one or four weeks—till the Landgrave desired to see what the master and his cronies might be painting, and whether it would really be as good as the sample. And he spoke to Ayleshpigel, “Ah, dear master, we very much desire to see your work. We demand to go into the hall with you to view your painting.”
+
+Ayleshpigel said to him, “Yes, gracious Lord. But I’ve got to tell Your Grace one thing. Whoever enters with Your Grace and views the painting—if he is not of legitimate birth, he won’t be able to see my painting.” The Landgrave said, “Master, this would be a big deal.” 
+
+As they spoke, they were walking into the hall. Ayleshpigel had spread a long linen cloth across the wall where he was supposed to have been painting. And he drew this back a little. He pointed at the wall with a small white stick, and began to speak. “Look here, this man—he was the first Landgrave of Hesse and a pillar of Rome. He had as his princess and Lady mild Justinian’s daughter, a Duchess of Bavaria. He afterwards became Kaiser. Look here, gracious Lord. Adolfus was born of him. Adolfus sired Vilhelem the Black. Vilhelem sired Ludvig the Pious—and so on, to Your Princely Grace. Indeed, I know this much: no one can censure my work, so artistic it is and of such beautiful colors.” The Landgrave saw nothing other than the white wall and thought to himself, “I can see mothing except a white wall, even if that makes me the son of a whore for sure.” Nonetheless he said, wishing to be moderate, “Dear master, we are well satisfied—but we aren’t sophisticated enough to judge.” With that, he left the hall.
+
+When the Landgrave came to his Princess, she asked him, “Ah, gracious Lord, what is your free master? You’ve seen it. How do you like his work? I have but little faith in it. He looks like a rogue.” The Prince said, “Dear Lady, I certainly like his work. You do him an injustice.” “Gracious Lord,” she said, “should we not also view it?” “Yes, with the master’s permission,” said the Lord.
+
+She had brought Ayleshpigel to her, and requested that she might see the painting too. Ayleshpigel told her what he had told the Prince: whoever was illegitimate would not be able to see his painting. Then she, along with eight maids and a female court fool, went into the hall. Ayleshpigel now drew back the cloth, as before, and told the Countess too about the origin of the Landgraves, one section after the other. But the Princess and her maids remained silent. No one praised or condemned the painting. And several regretted that they were born out of wedlock, either on their father’s or mother’s side. But finally the female court fool spoke and said, “Dear master, I don’t see any painting, even if that makes me the daughter of a whore for the rest of my life.”
+
+Ayleshpigel thought, “This isn’t good at all. [If fools] are telling the truth, then I, in truth, must leave.” And he turned it into a laughing matter. 
+
+Then the Princess returned to her Lord, and he asked her whether she liked the painting. She answered and said, “Gracious Lord, I like it as much as Your Grace. But our fool didn’t like it. She also says she doesn’t see any painting at all. Our maids say the same.” She was worried there was knavery in this business.
+
+The Prince took it to heart. Even though he had been tricked, he had Ayleshpigel informed that he should make ready his work that everyone at court might see his work. The Prince said he wished to find out who among his noblemen might be born in wedlock and which were not, for he would retrieve all the fiefs.
+
+And dismissed him.[^1] Then he charged the steward another hundred guilders, and got them. Then he left at once.
+
+The next day the Prince inquired after his painter—he was gone. Whereupon the Prince, with all the people of his court, went the next day into the hall to discover whether anyone could see the painting. But no one could say he saw anything and as they all remained silent, the Landgrave said, “We see well that we have been tricked. I never wanted to be troubled with Ayleshpigel. He came to us anyhow. We can forget easily enough about the two hundred guilders, though. You can’t stop him from being the rogue that he is. For that reason he has to stay out of our realm.”
+
+But Ayleshpigel was gone from Marburg and had no wish to engage in any more painting.
