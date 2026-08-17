@@ -111,4 +111,25 @@ The next day the Prince inquired after his painter—he was gone. Whereupon the 
 
 But Ayleshpigel was gone from Marburg and had no wish to engage in any more painting.
 
+## Source 2 Translation
+
+**Eyn shoyn mayse bukh. Basel 1602, fol. 158r-159r.**
+
+**Translated from the original (Basel, 1602) with reference to Moses Gaster’s free adaptation**
+
+Story no. 212
+
+[Regarding a man who apostasized but in the end had great regrets]
+
+This is the story of a man who repeatedly repudiated the Holy One Blessed Be He, until finally he regretted it. Then he asked himself, “How can I atone for my sins? Shall I do penance by fasting? I cannot do that, for I have never been accustomed to much fasting. He thought, “I will go and sanctify God’s name. This is the best penitence I can do.”
+
+Then he went to a place where a prince-bishop had his seat, which bishop was especially zealous for the faith. When he arrived, he went to the palace and said to the mighty prince, “What does one deserve for making counterfeit money?” The prince replied: “He deserves to burn at the stake.” The Jew said, “Then I deserve that punishment, for I have made counterfeit coins.” He was immediately arrested, and the prince asked him what he meant by bringing such charges against himself. He replied that it was true: he had made counterfeit money, for once he had believed in the Almighty God [of the Jews], but now he had turned away from Him. When the bishop heard this, he was mortified that the man had reviled his idol [the Christian God], and he ordered him to be tortured severely, so that he should recant. But he stayed adamant. The bishop was now afraid that the Jew might [continue to] blaspheme and wanted him killed quickly. He ordered a pillar of iron, with an iron chain attached to it, to be placed in an open field, and he had a proclamation made throughout the entire country that whoever wished to see a Jew roast alive should come on a particular day to this place and he would see it.
+
+When the day announced by the bishop came, all the people of the country assembled. A fire was made around the pillar. The Jew was tied by the chain to the pillar and was promenaded around. Slowly, he was driven round and the iron pillar until he was almost roasted. This was done to make his death a harsh one, in the hope that he might recant. When the executioner saw what a horrific death it was, he walked away and refused to execute the sentence, for he was afraid of [deserving thereby] such a horrible death himself.
+
+The bishop, seeing that his executioner did not want to execute the sentence, rose from his seat and said, “I will carry out the sentence myself for the sake of my faith.” He drove him around the pillar in the fire with the iron chain until the fat ran down his body. But he persisted to sanctify God’s name. The bishop drew this out for three days, because he wanted to inflict [a maximum of] pain before he died. Periodically he stopped and asked if he would renounce his faith and be set free. But the Jew cried out every time, “No.” So he continued until he was almost dead. Then the man said to the bishop, “Listen, bishop, before eight days have passed I will judge you as you are judging me, and everyone will see it.” Then he shouted, “Hear, O Israel, the Lord our God, the Lord is one,” and, during the “one,” his soul left him and he was completely burned to powder.
+
+Then the bishop ordered a banquet for the people of the country and gave them plenty of wine to drink for the strengthening of their faith. As they were sitting at the table, the bishop began to laugh. His counselors asked him, “Your Grace, why are you laughing?” The bishop said, “Why should I not laugh? The foolish Jew whom I have judged said to me that before eight days pass he would also judge me. That is why I am laughing.” At the bishop’s table sat a counselor who was a dwarf, and he said, “Gracious Prince and Lord, if I had been here at the time, I would have not advised you thus. I cannot say more.” They went on eating and drinking. Suddenly the bishop began to cry, “Woe is me! I feel so hot.” He was carried into a cool cellar, but it did not help. Then the little dwarf said to him, “The Jew told you the honest truth, for I will show you that the Jew is judging you as you judged him.” And the little dwarf made everybody see that the Jew was judging the bishop just as he had judged him and that he was making him writhe [as if] around a pillar. And everybody could see the revenge clearly. Thereupon, the dwarf disappeared, no one knows where!
+
 [^1]: The beginning of the sentence is missing here. The German text has: “Eulenspiegel went to his assistants and dismissed them.”
+
