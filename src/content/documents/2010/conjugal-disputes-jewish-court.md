@@ -36,23 +36,13 @@ description: >
 
   - Protocol of Altona Jewish Court
 original_language_body: >-
-  EARLY MODERN WORKSHOP: Jewish History Resources
-
-
-  **Volume 7: Jewish Community and Identity in the Early Modern Period, 2010,
-  Wesleyan University, Middletown, CT**
-
-
-  ## פרטאקאל מעשה בית דין באלטונא
+  **פרטאקאל מעשה בית דין באלטונא**
 
 
   **Protocol Maaseh Beit Din BeAltona**
 
 
   **1768,1769**
-
-
-  *Prepared by Noa Shashar, Hebrew University, Jerusalem, Israel*
 
 
   ‫פראטאקאל מעשה בית דין באלטונא, CAHJP, AHW/121/1‬‎
