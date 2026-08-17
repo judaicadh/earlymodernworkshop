@@ -92,9 +92,7 @@ Z(l)lhh (זל)ל(ה"ה (= זכרונו )לברכה( לחיי העולם הבא =
 ## Source 1 Original Text
 
 ‎‫ספר מגיד דבריו ליעקב: ליקוטי אמרים, הקדמת הספר‬‎
-
 Magid Devarav Le-Ya'akov: Likutei Amarim, Hakdamat Ha-Sefer
-
 1781
 
 Prepared by Shlomo Lutzker
