@@ -110,3 +110,5 @@ And dismissed him.[^1] Then he charged the steward another hundred guilders, and
 The next day the Prince inquired after his painter—he was gone. Whereupon the Prince, with all the people of his court, went the next day into the hall to discover whether anyone could see the painting. But no one could say he saw anything and as they all remained silent, the Landgrave said, “We see well that we have been tricked. I never wanted to be troubled with Ayleshpigel. He came to us anyhow. We can forget easily enough about the two hundred guilders, though. You can’t stop him from being the rogue that he is. For that reason he has to stay out of our realm.”
 
 But Ayleshpigel was gone from Marburg and had no wish to engage in any more painting.
+
+[^1]: The beginning of the sentence is missing here. The German text has: “Eulenspiegel went to his assistants and dismissed them.”
