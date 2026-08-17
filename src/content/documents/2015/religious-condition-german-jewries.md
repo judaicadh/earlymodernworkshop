@@ -386,7 +386,7 @@ Solchergestalt verließen wir nun Franckfurth am Mayn nach dem wir die verborgen
 
 [^38]: = Ein Jude aus Fürth, mit dem der Missionar Widmann lange Gespräche zu Beginn des Jahres 1732 führte und eine freundschaftliche Beziehung entwickelte.
 
-[^39]: Die Episode mit der Frau Münchhausen fand kurze Zeit davor in Hannover statt. Siehe darüber im gleichen Tagebuch, Bl. 126<sup>r</sup>.
+[^39]: Die Episode mit der Frau Münchhausen fand kurze Zeit davor in Hannover statt. Siehe darüber im gleichen Tagebuch, Bl. 126r.
 
 [^40]: ‎= Eine Missionsschrift, welche die Missionare selbst verfasst haben. Der Name *Joreh Deah* [=Lehrer der Weisheit] ist eine Anspielung an einem Werk des mittelalterlichen jüdischen Gelehrten Jaacov ben Ascher und wird oft mit einem Teil des Werks von Josef Karo *Schulchan Aruch* (‫שולחן ערוך‬‎).
 
