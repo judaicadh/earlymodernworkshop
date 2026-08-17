@@ -55,7 +55,7 @@ I chose to present the preface, which offers two main focuses of interest: 1. Me
 
 ++**Suggested Bibliography**++ 
 
-Barkai, Ron. 1998. "Jewish Treaties on the Black Death (1350–1500): A Preliminary Study". Medicine from the Black Death to the French Disease. Aldershot: Ashgate.  6-25. 
+Barkai, Ron. 1998. "Jewish Treaties on the Black Death (1350–1500): A Preliminary Study". Medicine from the Black Death to the French Disease. Aldershot: Ashgate. 6-25. 
 
 Einbinder, Susan. 2018. "Abraham Caslari: A Jewish Physician on the Plague". After the Black Death: Plague and Commemoration among Iberian Jews.  Philadelphia: University of Pennsylvania Press. 57-78. 
 
