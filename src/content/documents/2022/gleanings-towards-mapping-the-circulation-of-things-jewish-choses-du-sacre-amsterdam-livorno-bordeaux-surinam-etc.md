@@ -6,4 +6,11 @@ institution: Université Paris 1 Panthéon Sorbonne/IHMC
 volume: 5
 year: "2022"
 slug: gleanings-mappings-circulation-sacre
+language:
+  - French
+  - Portugese
+publication_location:
+  - Amsterdam
+  - Bordeaux
+  - Tunis
 ---
