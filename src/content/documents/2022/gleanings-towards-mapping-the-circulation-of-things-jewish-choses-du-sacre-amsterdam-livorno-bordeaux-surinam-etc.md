@@ -92,6 +92,37 @@ With the ship Maria Theresa, Captain Gerrit Cocq .
 
 ## Source 1 Original Text
 
+Stadsarchief Amsterdam.
+
+**The correspondence of a commission trader between Surinam and Amsterdam (1720s).**
+
+“Amsterdam a 28 Março 1725 S[enho]r Jacob Henriquez de Barrios
+
+Ressebemos 2 muy estimadas de Vm. De 4 dezembro passado com os Capm Jan Blom e Simon Quaboer pelas quays vemos haverem ressebido as nossas de 24 de Julio e 1 de agosto passado.
+
+Vemos apontar Vm. não poder aprovar o aluguer de pacus das fazendas que lhe remeteremos paresendolhe ser novidade inventada por nos outros e Abrabanel, ao que lhe respondemos a Vm. : que esta muy abuzado pois he estilo mercantil, eos que nao ocaregão sigurese Vm. ocargarão em gastos de levar a bordo, ou de sobrecargar nas fazendas que remetem e tocante aoque Vm. dis que as fazendas e provizoems que remetemos não nessesitão ressebelas em Pacus fala Vm. contra seo interese, por quanto seos vendedores das fazendas e provizoems que remetemos cada qual mandar o que vende a bordo cargara no jeneros q[ue] entregar, o salio que paga ao barqueiro, e gasto de hum despacho p[ar]a cada partida, eomontara m[ui]to mais do que monto oaluguer de hum mez de pacus ademais ser imposivel mandar algum jeneros a bordo : como por exemplo a Cael vem em enbarcasoems do rim, a qual semide ( ?) no mercado onde chega ditta enbarcasão e dahi p[ar]a opacus por nao haver navio a carga p[ar]a Serinaem ; a manteiga vem de Leide em barcos da sirga os quais descaregão dentro da cidade ;
+
+as carnes como somos Judeus se mandão salgar em pacus propio com hum guardeão Judeó a par para casserar salgar e enpacar. O sal compram[o]s p[o]r partida grande por avansar 25 p.cen[to] no presso, porquanto quando se compra por miudo custa de 5 athe f[lorins]. 6 por OHH [Okshoofd], easim muitos jeneros mays pelo conseguinte, que não referim[o]s p[o]r não nos alargar na escritura e asim servimos a vm. A seo beneficio com zello e consiensia, eos correspondentes framengos que vm. aponta uzão bem ao contrario, pois se nao cargar aluguer de pacus caregara interese a 4 ea 6 p. cen[to] por anno do dinheiro que estão em desembolso, e sobrecaregão en algums jeneros, oque nos outros não fazemos, pezame havenos alargado tanto neste ponto de tão pouco valor e enfadar a Vm. Com nossa dilatada escritura, easim avizara Vm. Para oadiante sequer pagar o aluguer de pacus que he couza muy tenua ou siquer milhor pagar os gastos de cada jenero ao barqueiro por levalos abordo que montarao muito mais os gastos, como temos ditto em volta.
+
+F°182
+
+Tocante ao presso do pão letro fica enpatado p[o]r não haver ocasião de vendelo com reputasão algums afogados que não que não [sic] querem estar em desenbolso por suas correspondentes e venderao a f3.15 por 100 ( ?) o que não acham[o]s convinhente fazer, pois não vindo dessa em 2 frettas mais pão letro sertam[en]te bolvera a subir, isto fazemos a beneficio de vm. ahinda que estamos en desenbolso. Em virtude de sua ordem de Vm.. Fizemos siguro de 10 OHH [Oxhoofd ] de asucar a f[lorins].50 por OHH[Oxhoofd] o premio a 4 p. c[en]to no navio o Gekroon de lam Cap-o Jurian Schonevelt como tambem siguramos em do navio 12 OHH por ordem do s[enho]r Ab[raha]m da Costa a f.50 e guardaremos o pão letro athe ficarem de 41/2 a f.5 por 100 liquido rendim[en]to como vm. Nos ordena, e bolvemos a pedir a vm. não nos mande mais pão letro.
+
+Precuraremos resseber e vender 2 OHH [Okshoofd], de asucar que VM. remete com Jan Blom de sua conta particular.
+
+Mandamos fazer de pão letro hum glaze Kas, huma enprensa, hum espelho, 12 pes de meza torneados, tudo como vm.. Nos aponta, porem os 8 pedasos lizos que vm.. Nos manda pedir a saber 4 pedasos de 28 pes de longo e 4 pedasos de 18 pes de longo, jamais vimos nem ressebemos pedasos de pão letro tão longos , e asim considramos sera abuzo de pluma de que espero reposta de vm.
+
+Nos informamos quanto custara de feitio huma duzia de cadeiras e huma de encosto e nos pidirão f.8 a f. 16 – o dando o pão letro [rajout au dessus de la ligne]- que sirva de governo.
+
+Em 8 deste escrevemos a vm. com o Capo Vet haver dado a Costa o navio o Conde Carlo Boromeo Capo Jacob de Jongh, e por se achar o navio incapas de proseguir seo viagem se transportarão todas as fazendas no navio o Maria Theresa Gerret Cocq como podra vm. Ver pelo incluzo conhesim[en]to e com do Cocq vao as cartas de Jacob de Jongh como tambem as contas do custo das provizoems e miudezas que remetemos aSsras Abigail e Simha de Castro e asim ficados anulados os conhesim[en]tos de do Jacob de Jongh.
+
+F°183
+
+Com esta vão incluzas duas contas correntes huma de sua conta particular de vm. naqual nos fica devendo f.8271.19 e outra de conta de Compa na qual lhe fica devendo f.170.9, cuyas duas sommas cargamos e abonamos [These two words added above the line] em contas novas e achando as Vm. ao dever nos dara avizo sendo quanto se nos ofrese ficando como sempre muy pronto as ordems de Vm. A quem Deus guarde muitos annos.
+
+Muy amigos e servidores de Vm.  
+Com o navio o Maria Theresa Capo Gerrit Cocq
+
 ## Source 2 Original Text
 
 ## Source 3 Original Text
