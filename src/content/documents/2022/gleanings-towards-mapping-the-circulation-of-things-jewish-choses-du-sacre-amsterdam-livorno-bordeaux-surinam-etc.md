@@ -212,6 +212,29 @@ Sur les plaintes que les commissionnaires chrétiens aportèrent a M. l'Intend
 
 ## Source 3 Original Text
 
+**Two letters from Amsterdam to Venice on etrogim.**
+
+Stadsarchief Amsterdam, PA334, Copiador de cartas, 1773-1784 1/ SAA, PA334, Copiador de cartas, 1773-1784
+
+"Muy Illustres Senhores Parnassim da universidade Geral dos Hebreos de Veneza, Amsterd[a]m 30 Septembro 1773
+
+Senhores, Em seos tempos resebemos as muy estimadas de Vms muyto Illustres de 3 e 10 septembro com avizo da expedição de huma caixinha com 40 sidroems cuyos resebemos elhes damos as graças pelo bom zelo tenem para fazer servicio a este *Kahal Kados* não obstante na boa confiança de sua amizade achamos indispensavel
+
+o por em seo conhesimento que havendo aberto ditta caixa com muyto pezar achamos que dittos cidroems quaize todos forão podres e nenhum perfeito, bem he verdade que universalmente não sahirão favoravel este anno, porem nos consta chegou huma caixa os quais se acharão por mayor sem averia e bellos de modo que sospeitamos que estes não obstante a prohibição da extracsão en Corfu como Vossas Senhorias nos apontão, por via de alguma intriga os tiverão directamente os milhores, ou bem a pessoa que Vossas Senhorias encargarão desta nossa incombencia não lhe aplicou a devida atenção, que suplicamos tenhão a bondade de inquerir, e que para o proximo anno que Deus nos chegue com bem prevenhão que hum particular não tinha preferencia sobre huma *kehila* inteira, pedindolhes em consequencia de remeternos para esse tempo igual quantitade de cidroems no que nos farão particular gosto, o custo das resebidos sao p.39 qua ao cambio de 887/8 sao f.86.14 Bco que sacou Osenhor Gabay a nosso cargo que fica aceitada e a seo tempo sera recolhida- e havendose vendido em 1-° septembro as 6/ m avanço da negosiaçao a cargo dessa universidade, sacou ojem nosso Gabay da sedaca a cargo de VS m-to Illl-es letra de p. 436.16.6 de Bco a uzo a ordem de Guayta e Comp-a valor de dittos que ao cambio de 88 por P. monta f. 960.14 Bco que recomendamos a seo bom cuydado e ao mesmo tempo lhes felecitamos na entrada deste anno novo no qual rogamos a D-s de concederlhes properidades e augm-tos celebrando as proximas festas com todo contento em comp-a de suas respectivas familhas e G-de p-r dilatados annos
+
+De VS muyto Illustres Muy affectos servidores,  
+Os parnassim da nacao Judaica portuguesa  
+Firmados, Moseh Telles da Costa, Joseph de David Mendes da Costa »
+
+2/ SAA, PA334, Copiador de cartas 1773-1784
+
+"Muy Illustres SS-res Parnassim da universidade geral dos Hebreos de Veneza, Amsterdam 11 ( ?) 8bro 1778,
+
+Illustres SS-res, Em seos tempos resebemos as muy estimadas de VS muito Illustres de 28 agosto, 2, 11, & 18 Settembro, reconhesemos todo o que nos dizem tem susedido este anno com os Etroguim e sobre o particular do emvio nos fizeraõ de 40 p. conta deste K.K. naõ podemos deixar de remostrarlhes nossas bemfundadas queixas, admirandonos muito do que nos avizão em ordem o motivo dama qualidade de *etroguim* este anno, quando temos visto as caixas que diversos particulares reseberão dessa, soposto que ouverão muitos *pessulim*, os demais forão bellos tanto da forma como da cor, e algums tão perfeitos quanto em annos vierão, os nossos forão feos & disfigurados & nenhum perfeito & expedidos plo coreo na mala igualmente como se fossem bizallos de diamantes de que resultou que pagamos nesta por porte f.156.18 quando os particulares os reseberão pela conduta & algums por expreso the Augustos este ultimo não sahirão custando em tudo a f. 5 a pessa, todos chegarão a tempo & poucos dias despois dos nossos”, avista do referido naõ podemos apersebernos o que motivo a VS m-to Illustres de expedir os nossos plo coreo fazendonos pagar hum porte tão exesivo, pois oserem do ultimo corte como dizem nao he rezao equivalente, e considranos as escuzas abstractas a boa rezão, e como tal a pluma de seu caxeiro devia suprimilas , independante dos f.156.18 nos avizao custarao nessa com os gastos f.153.9 Banco comprendido livras 330# pagos na posta de Flandes cuya partida reclamamos e pretendemos senos bonefique e tao agravados do sucedido estavamos em deliberaçao de bolver a protesto a saca seo caixero dos sobre dittos f.153.9 Bco, com todo por nao deslustrarlhes pagamos ditta letra, do modo sahem custando os 40 f.317.12 de caixa, & isso feos e maos de todo o qual devemos concluir VS m-to Illustres forao enganados em ordem ama qual-d & em quanto a extra ordinaria via da expediçao, parece faltoù conhesimento a pessoa a quem o encargarao, pois os particulares nao sufrirao estes desapontos e chegarao a tempo a esta, he bem sensivel se aya malbaratado (wasted) o dinheiro da caixa dos pobres, e como tal requerimos a restituiçao das £ 330 que nos debitarao pois que nesta pagam- o porte, se esta nossa comiçao lhes he de encargo, ou a pessoa a quem deixarao a direcsao tenhan rezoems particulares para nos desviar, estimaremos VS m-to Illustres se expliquem em reposta para tomar outras medidas plo anno proximo.......[The end of the letter, deals with financial matters connected with a loan from the Hague community]
+
+De V.M. m[ui]tos Illustres Muy Affectos Servidores, Os Parnassim da nação judaica Portugueza  
+H. Abram Abendana de Britto, Aron Spinosa Cattela Jessurun”
+
 ## Source 4 Original Text
 
 Footnotes
