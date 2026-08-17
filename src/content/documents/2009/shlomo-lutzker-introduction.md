@@ -23,11 +23,7 @@ description: >
   - Shlomo Lutzker's Introduction to Magid Devarav Le-Ya'akov: Likutei Amarim
   (1781)
 ---
-`‎Hello ‫ שלום‬‎ World`
-
-
-
-&nbsp;
+‎‫שלום‬‎ World
 
 ## Source 1 Translation
 
