@@ -9,7 +9,7 @@ language:
   - Hebrew
 publication_location:
   - Halle
-description: >-
+description: >+
   In 1735, Immanuel Frommann, a converted Jew who was working at the Institutum
   Judaicum in Halle translated the book of Luke and wrote a commentary on the
   text. This text is probably the first printed Hebrew commentary on the New
@@ -40,6 +40,7 @@ description: >-
   prior ab erudito proselyto Henr. Christ. Imman. Frommanno Doct. Med. in
   linguam ebraeam transferri ac explicari curauit ediditque Io. Henr.
   Callenberg, Halle, 1735
+
 original_language_body: >-
   ## Source 1 Original
 
@@ -57,7 +58,7 @@ original_language_body: >-
   לנו אשר ראו הכל בעיניהם מראשית ומשרתי דבר ה' היו:
 
 
-  --------------
+  ---
 
 
   **1. אחרי**: כבר נתבאר בהקדמה לספר הזה הטעם למה נקראו הספרים המדברים מלידת
@@ -103,7 +104,7 @@ original_language_body: >-
   מכתר עליון והוא כתר הבריאה וזוהר האחדות השוה לכתר עליון או לאין סוף בכל מיני
   מעלה כפי הקבלה בספר יצירה נתיב ב':
 ---
-## Introduction 
+## Introduction
 
 In 1735, Immanuel Frommann, a converted Jew who was working at the Institutum Judaicum in Halle translated the book of Luke and wrote a commentary on the text. This text is probably the first printed Hebrew commentary on the New Testament. In his commentary, Frommann uses a wide range of Hebrew sources. He quotes regularly from the Babylonian and Palestinian Talmud, biblical commentaries, midrashim, legal treatises, philosophical texts and historical works. He also makes use of mystical and kabbalistic works. The commentary has several layers of interpretation: relatively short lexical or grammatical explanations of words or phrases; literary explanations of the text that are meant to make it more comprehensive to the readers; as well as “Christological interpretations”. 
 
@@ -127,7 +128,7 @@ A Gospel according to Luke the Evangelist that is taken from books known as the 
 
 **1. Since many have taken to their hearts to set down an orderly account of the events which have been validated to us 2. Just as they were handed on to us by those who from the beginning were eyewitnesses and servants of the word of God.[^1]**
 
---------------
+---
 
 **1. Since** - It was already explained in the introduction to this book why the books that tell about the birth of Jesus, the miracles he performed before all the people and his resurrection are called the **good gospel** and why the people who wrote them are called **evangelists**. And there you will also see that each and every book was written by the person to whom it is attributed although he did not disclose his name. And the intention of the narrator who tells us these things in the first four verses in this book, which are like an introduction to his book, is to announce the reason for writing this book.
 
