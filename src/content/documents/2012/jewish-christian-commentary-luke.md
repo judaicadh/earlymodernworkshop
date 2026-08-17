@@ -61,6 +61,9 @@ original_language_body: >-
   ---
 
 
+  _________________________
+
+
   **1. אחרי**: כבר נתבאר בהקדמה לספר הזה הטעם למה נקראו הספרים המדברים מלידת
   ישוע ומאותותיו ומופתיו אשר עשה לעיני כל העם וממיתתו בשם **בשורה טובה**,
   והאנשים אשר כתבום נקראים למה מבשרים: ושם תראה כ"ג מבואר, כי כל ספר וספר יד
@@ -127,6 +130,8 @@ Wolfson, Elliott R. “Immanuel Frommann's Commentary on Luke and the Christiani
 A Gospel according to Luke the Evangelist that is taken from books known as the New Testament, copied from the Greek, to the holy tongue, and explained with a commentary, Part I, in the year 495 (1735)
 
 **1. Since many have taken to their hearts to set down an orderly account of the events which have been validated to us 2. Just as they were handed on to us by those who from the beginning were eyewitnesses and servants of the word of God.[^1]**
+
+_________________________
 
 ---
 
