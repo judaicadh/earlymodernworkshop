@@ -5,4 +5,8 @@ institution: Hebrew University of Jerusalem
 volume: 9
 year: "2012"
 slug: jewish-christian-commentary-luke
+language:
+  - Hebrew
+publication_location:
+  - Halle
 ---
