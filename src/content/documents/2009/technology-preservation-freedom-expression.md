@@ -15,4 +15,18 @@ publication_location:
   - Rome
   - Pesaro
   - Mantua
+description: >+
+  The presentation discusses broader questions of the relationship between
+  technology and freedom of expression in sixteenth-century Italy. It takes into
+  account the Counter-Reformation context and its impact on Jewish printing and
+  culture.  
+
+  **This presentation is for the following text(s):**
+
+
+  - A ruling against rabbis who have sought to delay the printing of the Zohar
+
+  - Responsa of Rabbenu Nissim of Gerona
+
+  - The "imprimatur" by Isaac de Lattes
 ---
