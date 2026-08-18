@@ -9,7 +9,7 @@ language:
   - Hebrew
 publication_location:
   - Koretz
-description: >
+description: >+
   This presentation analyzes Shlomo Lutzker's Introduction to Magid Devarav
   Le-Ya'akov as a key source of information on the process of formation and
   publication of early hasidic books and the activities of printers and aditors.
@@ -23,7 +23,9 @@ description: >
   - Shlomo Lutzker's Introduction to Magid Devarav Le-Ya'akov: Likutei Amarim
   (1781)
 ---
-‎‫שלום‬‎ World
+`‎‫ספר מגיד דבריו ליעקב: ליקוטי אמרים, הקדמת הספר‬‎`
+
+
 
 ## Source 1 Translation
 
