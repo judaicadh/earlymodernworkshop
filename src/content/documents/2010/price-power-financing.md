@@ -203,7 +203,7 @@ Aaron bar Sh.
 
 Feibish Cohen
 
-_________________---------_________
+_________________
 
 Concerning the above mentioned five thousand mark banco, which the previous *kahal*
 
