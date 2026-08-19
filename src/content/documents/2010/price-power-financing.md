@@ -229,7 +229,7 @@ mentioned bill of exchange has been issued on November 1, 1771; today 5. Tevet [
 
 [fol. 20r]
 
-In the meeting of the 1812 of our community *y[ishmerehu] ts[uro] v[iyheyehu]* [May
+In the meeting of the 18[^12] of our community *y[ishmerehu] ts[uro] v[iyheyehu]* [May
 
 God protect and preserve it!] concerning the issuance of the bill of exchange of thousand
 
@@ -301,9 +301,9 @@ Reichsthaler in Friedrichs d’or à 5 Reichsthaler,[^14] which we will pay off 
 
 of the Reminiscere [fair], which we have owned to Mr. Weiss for a while and which we
 
-will now pay to the above mentioned. And we, the signers, gave a bill of exchange in
+will now pay to the above mentioned. And we, the signers, gave a bill of exchange[^7] in
 
-solidum to the afore mentioned *p[arnas]* and *k[atsin]* R. Herz.
+solidum[^8] to the afore mentioned *p[arnas]* and *k[atsin]* R. Herz.
 
 F[rank]f[urt] on the Oder, Monday [night] 13. Iyyar [5]537 [May 19, 1777]
 
