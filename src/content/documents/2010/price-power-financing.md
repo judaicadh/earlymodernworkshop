@@ -286,3 +286,113 @@ accountant Weisenberg and paid it off with it; officially permitted by the signe
 F[rank]f[urt] Thursday, 6. Adar *rishon* [5]537 [February 13, 1777]
 
 Herz H[alber]sh[tadt]    Herz Ber     Eli[as] bar Leib Buko
+
+[...]
+
+[fol. 23r]
+
+In the meeting of the 18, we, the signers, borrowed for the needs of our community from
+
+the orphans of the deceased R. Feibish Katz sz”l on the order of the above mentioned
+
+guardian *p[arnas]* and *ha-katsin k[avod] ha-r[av]* Herz Ber two hundred and fifty
+
+Reichsthaler in Friedrichs d’or à 5 Reichsthaler,14 which we will pay off at the beginning
+
+of the Reminiscere [fair], which we have owned to Mr. Weiss for a while and which we
+
+will now pay to the above mentioned. And we, the signers, gave a bill of exchange in
+
+solidum to the afore mentioned *p[arnas]* and *k[atsin]* R. Herz.
+
+F[rank]f[urt] on the Oder, Monday [night] 13. Iyyar [5]537 [May 19, 1777]
+
+*ha-k[atsin]* Mori Katz from F[rank]f[urt] on the Oder Herz Halbershtadt Herz Ber
+
+Hirsch bar H. z”l
+
+Eli[as] Buko
+
+Sanvil bar L. z”l
+
+*ha-k[atsin]* Yusfa Buko
+
+Mordekhai Cohen
+
+Yeshayi[ah] Segal
+
+Leman Cohen
+
+Yisrael *b[en] ha-rav m[orenu] ve[rabenu] ha-[rav] r[rabi]* Aaron Frenkel
+
+Izaak Reis
+
+Menahem bar Y. Cohen
+
+The above mentioned assets have been paid to R. Benish, son of the deceased *k[avod]*
+
+*m[orenu] ha[rav]* Feibisch Cohen z”l by the *alufi[m] gobaim* [heads of the collectors]
+
+The torn bill of exchange, on which R. Benish also has confirmed the correct receipt on 
+
+the back of the bill of exchange, is kept in the files of the community under February 20,
+
+1781, no. 144.
+
+Mori Cohen Herz Hal[ber]sh[tadt] Herz Ber Sanvil *b[en] ha-r[av] r[abi]* Leib z“l
+
+
+
+[fol. 46v]
+
+The *alufi[m] p[arnasim] ve-m[anhigim]* of the community together with the 18 men
+
+met on Thursday 13. Nissan [5]542 [March 28, 1782] and it was brought forward since
+
+the *katsin* *p[arnas] ve-m[anhig] mo[renu] ha[rav]* Mori Cohen terminated his loan of
+
+3,200 Reichsthaler, which he gave to the *kahal*, and similarly the *katsin p[arnas]*
+
+*ve-m[anhig] k[avod] ha[rav]* Herz Ber terminated his loan of 300 Reichsthaler, the
+
+*kahal* wanted to borrow this amount from the accountant Weisenberg, but the 18 men
+
+decided that the *k[atsin] k[avod] ha[rav]* Eli[as] bar L[eib] Buki and the *k[atsin]*
+
+*g[abai] ha-[ir?] k[avod] ha[rav]* Yeshayia Segal, who say they believe that they can
+
+receive these assets for 4 ½ percent [interest] instead of having to give 5 percent to the
+
+accountant Weisenberg; after good consideration, R. Yisrael Frenkel claimed that he will
+
+be able to supply the sum of 4,000 Reichsthaler for 4 ½ percent on the house [the
+
+synagogue as security]. It was decided that one should borrow the amount of 4,000
+
+thaler, to pay from this a sum 2,450 Reichsthaler liabilities on the house [synagogue],
+
+and to satisfy the *k[atsin] p[arnas] ve-m[anhig] mo[renu] ha[rav]* Mori Cohen with the
+
+remaining sum and from the box [accounts] of the *kahal;* At the same time, the 18 men
+
+authorize the *kahal* to carry these things out, and to sign accordingly when the time
+
+comes.
+
+Mori Cohen Herz Ber
+
+*ha-k[atsin]* David bar Leib Kunitz    Yeshayia Segal
+
+*ha-k[atsin]* Eli[as] bar Leib Buki z”l    Pinhas ha-Levi Horovits
+
+*ha-k[atsin]* Abraham ha-Levi Horovits
+
+Leman Cohen    Haim bar H.
+
+Yisrael *b[en] ha-rav m[orenu] ha-r[av] r[abi]* Aaron Frenkel sz“l
+
+Yosa Leib ben *k[avod] ha[rav] b[en] ha-r[av] r[abi]* [?], scribe
+
+Abraham bar D. Cohen
+
+Isar Pollak
