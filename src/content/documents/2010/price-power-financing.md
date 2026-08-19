@@ -446,3 +446,23 @@ cancelation on a bill of exchange; and we have no doubts that all members of the
 community, even if they are not at the meeting, will sign; made Wednesday, *ch[ol]*
 
 *ha-m[oed]* Pessach [5]542 [April 3, 1782]
+
+Mori Cohen   Herz Halberstadt   Herz Ber   Naftali Herz Cohen
+
+Zanwil bar Leib z”l   Pinhas Cohen *ha-k[atsin]*   David bar L[eib] Kunitz
+
+[?] bar P. Abraham bar M. Frenkel
+
+Yosef bar   P. Leib bar M[arcus] Cohen   Isar Pollak
+
+Herz F”d   Yisrael Frenkel   Aron Cohen
+
+Liman bar Sh.   Aron bar Yosef
+
+Yuda Leib ben *b[en] ha-r[av] r[abi]* Izaak   Wolf Openheim
+
+Haim bar H.  *ha-k[atsin]* Mordekhai bar Y. Karfl(?)
+
+Abraham Cohen  Eli bar D[avid] Buko
+
+Avril bar Y. ha-kadosh z”l
