@@ -499,7 +499,7 @@ which also has been done today and which the *alufi[m]* will acknowledge
 
 Mori Cohen   Herz Ber
 
-
+**Footnotes:**
 
 [^1]: Louis d’or is the term for a variety of French gold coins that were first introduced in 1640 by Louis XIII.
 
