@@ -741,9 +741,6 @@ original_language_body: >-
 
 
   [^13]: à vista
-
-
-  Copyright © 2012 Early Modern Workshop
 ---
 ## Introduction
 
