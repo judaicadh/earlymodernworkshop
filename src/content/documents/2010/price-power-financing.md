@@ -466,3 +466,67 @@ Haim bar H.  *ha-k[atsin]* Mordekhai bar Y. Karfl(?)
 Abraham Cohen  Eli bar D[avid] Buko
 
 Avril bar Y. ha-kadosh z”l
+
+
+
+[fol. 48v]
+
+Today, Thursday *ch[ol] ha-m[oed]* Pessach [5]542 [April 4, 1782] after all members of
+
+the community have decided to take out a loan of the amount of 1,900 Reichsthaler,
+
+namely 1,500 Reichsthaler in F[riedrich] d[‘or] and 400 Reichsthaler *Courant*, from the
+
+accountant Wisenbrig, we immediately transferred it to the *alufi[m] gobai[m]*
+
+*ha[kakham] ha[gadol] k[avod] ha[rav]* Abraham Cohen and *ha[hakham] ha[gadol]*
+
+*k[avod] ha[rav]* Yeshayia Segal and *ha[hakham] ha[gadol] k[avod] ha[rav]* Leib bar
+
+M[arcus] Cohen and have instructed them at the same time to pay the bill of exchange
+
+from R. Herz Rintel in Hamburg, which was in the hands of the *p[arnas] ve-m[anhig]*
+
+*mo[renu] ha[rav]* Mori Cohen over the amount of 3,200 mark banco according to the
+
+currency rate *a vista* [short term]letters;15 at the same time to pay a bill of exchange of
+
+300 Reichsthaler in Friedrich d’or to the *p[arnas] ve-m[anhig]* R. Herz Ber; and to
+
+submit both of the above mentioned bills of exchange torn to the files of the *kahal*,
+
+which also has been done today and which the *alufi[m]* will acknowledge
+
+Mori Cohen   Herz Ber
+
+
+
+[^1]: Louis d’or is the term for a variety of French gold coins that were first introduced in 1640 by Louis XIII.
+
+[^2]: The turn Courant or Kurant refers to currency money, i.e. money in full circulation, which market value is the value of the precious metal it contains.
+
+[^3]: In June of 1766, the Jewish community of Frankfurt/Oder auctioned off eight seats in the men’s and eight seats in the women’s section of the synagogue among members of the community to raise money for a communal loan. The transactions are recorded in the logbook of the community.
+
+[^4]: The *Akzise* (excise tax) was usually a tax on food items and refers here most likely to the so-called *pardon*, a consumption tax assessed mainly on kosher meat. It is unclear was the following addition “without giving” refers to.
+
+[^5]: These payments toward the maintenance of a bolting cloth manufactory was a repeated measure used by the Prussian government to engage Jews and Jewish communities in the development of desirable manufactories. Prussian communities were regularly forced to finance and sometimes also to run manufactories.
+
+[^6]: The interest rate is missing here.
+
+[^7]: A Sola bill of exchange refers to a bill of which only one copy (Sola) was issued. This means the bill was probably not widely circulated as multiple copies (prima, secunda) were usually issued when there was a fear that a bill of exchange would not reach its payer. In the case of multiple copies, the first was often sent directly to the payer, while the second copy was circulated. Sometimes two copies were sent to the payer through different channels to ensure its arrival.
+
+[^8]: *In solidum* means that all signing members of the community are jointly liable for the bill of exchange.
+
+[^9]: In Frankfurt/Oder fairs took place annually in March (*Reminiscere Messe*), July (*Margarethen Messe*) and November (*Martini Messe*).
+
+[^10]: Reference to the regular gatherings of representatives of the Jewish communities in Prussia.
+
+[^11]:  Mark banco was a coin of account (unlike currency money it was not circulated), which was used for credit operations and wholesale trade. It was used especially in Hamburg to keep account books at the Hamburg bank and generally was more stable than currency money.
+
+[^12]: Although the logbook of the community does not contain detailed information on these 18 elected members of the community, this forum of 18 men (sometime enlarged to 32 members as in the following excerpt, fol. 22v) made major decisions regarding the Jewish community. It included members of different social groups within the community; members of the economic elite, however, held the majority.
+
+[^13]: Friedrich d’or was a Prussian gold coin modeled after the French Louis d’or. It was used from 1741 on and was nominally worth five silver Prussian Reichsthaler.
+
+[^14]: For a 5 percent interest rate.
+
+[^15]: *A vista* refers to short term letters.
