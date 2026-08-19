@@ -297,7 +297,7 @@ the orphans of the deceased R. Feibish Katz sz”l on the order of the above men
 
 guardian *p[arnas]* and *ha-katsin k[avod] ha-r[av]* Herz Ber two hundred and fifty
 
-Reichsthaler in Friedrichs d’or à 5 Reichsthaler,14 which we will pay off at the beginning
+Reichsthaler in Friedrichs d’or à 5 Reichsthaler,[^14] which we will pay off at the beginning
 
 of the Reminiscere [fair], which we have owned to Mr. Weiss for a while and which we
 
