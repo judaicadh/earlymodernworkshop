@@ -489,7 +489,7 @@ from R. Herz Rintel in Hamburg, which was in the hands of the *p[arnas] ve-m[anh
 
 *mo[renu] ha[rav]* Mori Cohen over the amount of 3,200 mark banco according to the
 
-currency rate *a vista* [short term]letters;15 at the same time to pay a bill of exchange of
+currency rate *a vista* [short term]letters;[^15] at the same time to pay a bill of exchange of
 
 300 Reichsthaler in Friedrich d’or to the *p[arnas] ve-m[anhig]* R. Herz Ber; and to
 
