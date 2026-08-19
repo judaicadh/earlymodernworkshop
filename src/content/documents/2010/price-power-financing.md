@@ -115,9 +115,9 @@ his assets back, then this sum shall be raised from the members of the community
 
 according to individuals and half according to assets; but at first, that is at the Martini
 
-fair9 that begins in the month of Cheshvan [5]528 [1767]; there will be an *asifat medina*;
+fair[^9] that begins in the month of Cheshvan [5]528 [1767]; there will be an *asifat medina*;
 
-*10* then external impartial arbitrators shall agree in which ways the above mentioned tax
+[^10] then external impartial arbitrators shall agree in which ways the above mentioned tax
 
 [*netina*], i.e. the excise [*Akzise*] [without giving?] and bolting cloth manufactory shall be
 
@@ -189,7 +189,7 @@ our community as mentioned on the previous page, but the afore mentioned R. Yako
 
 did not want to accept the bill of exchange in Louis d’or, therefore we borrowed instead
 
-of 22 hundred Reichsthaler Louis d’or five thousand mark banco11 on a bill of exchange
+of 22 hundred Reichsthaler Louis d’or five thousand mark banco[^11] on a bill of exchange
 
 from the afore mentioned *katsin* for four years; and it shall [be given?] to R. Yisrael,
 
@@ -277,7 +277,7 @@ Avraham bar M. Segal   Avraham bar Y. Cohen Naftali   Herz Reis
 
 […]
 
-In the meeting of the 32 we have borrowed three hundred Reichsthaler Friedrich d’or13
+In the meeting of the 32 we have borrowed three hundred Reichsthaler Friedrich d’or[^13]
 
 from the *katsin* R. Herz Ber for the needs of our community, which we still owed to the
 
