@@ -694,7 +694,7 @@ original_language_body: >-
   [...]
 
 
-  *Archive: Maimonides Library Tel Aviv, MS 19*
+  **Archive**: Maimonides Library Tel Aviv, MS 19
 
 
   **Endnotes**
