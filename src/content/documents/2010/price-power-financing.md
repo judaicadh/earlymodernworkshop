@@ -204,3 +204,85 @@ Aaron bar Sh.
 Feibish Cohen
 
 _________________---------_________
+
+Concerning the above mentioned five thousand mark banco, which the previous *kahal*
+
+borrowed for the needs of the community from the *p[arnas] ve-m[anhig] ha-k[atsin]*
+
+*k[avod] ha[rav]* Yakov Katz in Hamburg, we paid back two thousand seven hundred
+
+mark banco two years ago, and for the remaining two thousand three hundred mark
+
+banco, which we still have to pay to the afore mentioned *k[atsin] p[arnas] ve-m[anhig]*
+
+*k[avod] ha[rav]* Yakov Katz in H[am]b[urg], we have issued a new bill of exchange for
+
+two years, and since this one is due now, it has been renewed, and the costs for this one
+
+will be collected half according to assets and half according to individuals; the afore
+
+mentioned bill of exchange has been issued on November 1, 1771; today 5. Tevet [5]532
+
+[December 12, 1771]
+
+
+
+[fol. 20r]
+
+In the meeting of the 1812 of our community *y[ishmerehu] ts[uro] v[iyheyehu]* [May
+
+God protect and preserve it!] concerning the issuance of the bill of exchange of thousand
+
+Reichsthaler Louis d’or – 1,000 rt – for the accountant Wisenburg in order to pay the
+
+*k[atsin]* R. Yakov Schlesinger in Hamburg 2,200 Reichsthaler banco we, the signers,
+
+have all signed the bill of exchange except for the *nahal hesh[bon]* [account keeper] the
+
+*k[atsin]* R. Avraham and another R. Pinhas bar Yosef Segal, and they refused to sign the
+
+afore mentioned bill of exchange, therefore the afore mentioned account keeper and the
+
+other violated against the *takanah* [regulation] as it is explained in the main logbook
+
+[*pinkas gadol*], *takanah* 10; therefore the above mentioned account keeper and the
+
+other will be regarded as rebellious and will not be allowed to any future appointment,
+
+but because this happened the first time, we, the signers, have [decided?] that when the
+
+afore mentioned account keeper and the other one will each pay a fine of five
+
+Reichsthaler, half of it to our Lord the King *yar[um] h[odo]* [His Majesty] and half of it
+
+for the *zedakah* [charity] box; the above mentioned account keeper and the other will
+
+have compensated [for their transgression] with this fine, but if they will refuse
+
+something again another time the afore mentioned *takanah* will remain in effect according to the afore mentioned *takanah*.
+
+F[rank]f[urt] on the Oder, on the eve of Monday 12. Menahem [Av] [5]535 [August 7,
+
+1775]
+
+Aaron bar Sh. *ha-k[atsin]* Mori Katz Herz Hal[ber]sch[tadt]
+
+Avril bar Y. ha-Kadosh z”l *ha-k[atsin]* Eli[as] bar L[eib] Buko *ha-k[atsin]* Yusfah Buko
+
+Avraham bar M. Segal   Avraham bar Y. Cohen Naftali   Herz Reis
+
+
+
+[fol. 22v]
+
+[…]
+
+In the meeting of the 32 we have borrowed three hundred Reichsthaler Friedrich d’or13
+
+from the *katsin* R. Herz Ber for the needs of our community, which we still owed to the
+
+accountant Weisenberg and paid it off with it; officially permitted by the signees
+
+F[rank]f[urt] Thursday, 6. Adar *rishon* [5]537 [February 13, 1777]
+
+Herz H[alber]sh[tadt]    Herz Ber     Eli[as] bar Leib Buko
