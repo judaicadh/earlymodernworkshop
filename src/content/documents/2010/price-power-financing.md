@@ -203,7 +203,7 @@ Aaron bar Sh.
 
 Feibish Cohen
 
-_________________
+_________________-
 
 Concerning the above mentioned five thousand mark banco, which the previous *kahal*
 
@@ -396,3 +396,53 @@ Yosa Leib ben *k[avod] ha[rav] b[en] ha-r[av] r[abi]* [?], scribe
 Abraham bar D. Cohen
 
 Isar Pollak
+
+
+
+[fol. 47r]
+
+It was brought forward, since R. Eli[as] bar L[eib] Buki and also R. Yeshayi[a] Segal
+
+obliged themselves to obtain funds on 4 ½ percent interest, they were given time until
+
+today; but when we sent R. Leib, *shamash*, today to R. Eli[as] in the name of the
+
+community; from him he received his answer that after the arrival of today’s mounted
+
+mail from Berlin he has not yet received a satisfying answer to the two letters that he
+
+wrote to Berlin regarding these assets. But he still expects another letter around noon
+
+per enclosure and we should return around noon; R. Leib, *shamash*, asked him again at
+
+noon, and his answer was that he has not received an answer. The suggestion of R.
+
+Yeshayia Segal was to mortgage the synagogue, but it has been rejected unanimously by all the above mentioned attending individuals since it would be against the honor of the
+
+community to mortgage the synagogue.
+
+R. Yisrael Frenkel Segal suggested to obtain [money] from the *Assistenzrat* advocate
+
+Dames; today, however, this advocate told the *parnasi[m] m[orenu] ve[rabenu]*
+
+*ha-r[av] r[avi]* Mori and R. Herz Ber that he first needs to inquire with the university;
+
+now according to everybody’s opinion the assembly of exceptional individuals realizes
+
+that all suggestions are fruitless
+
+[fol. 47v]
+
+And since the *p[arnas] ve-m[anhig] mo[renu] ha[rav]* Mori Cohen and p*[arnas]*
+
+*ve-m[anhig] k[avod] ha[rav]* Herz Ber rightfully demand their payment, because they
+
+need it; therefore we decided to take out a loan of 1,900 Reichsthaler from the
+
+accountant Wisenbrig, on the conditions of six years, with a half a year period of
+
+cancelation on a bill of exchange; and we have no doubts that all members of the
+
+community, even if they are not at the meeting, will sign; made Wednesday, *ch[ol]*
+
+*ha-m[oed]* Pessach [5]542 [April 3, 1782]
