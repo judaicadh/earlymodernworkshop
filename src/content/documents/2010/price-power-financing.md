@@ -65,9 +65,9 @@ July 27, 1766
 
 The *kahal* borrowed 400 Reichsthaler on a bill of exchange from the *katsin* [leader] R.
 
-Wolf Openheim and paid R. Yosef Segal 1,000 Reichsthaler Louis d’or,1 i.e. *Courant2* on
+Wolf Openheim and paid R. Yosef Segal 1,000 Reichsthaler Louis d’or,[^1] i.e. *Courant*[^2] 
 
-a bill of exchange from the *kahal* in Berlin from the sale of the seats.3
+on a bill of exchange from the *kahal* in Berlin from the sale of the seats.[^3]
 
 Friday, 24. Tevet [5]527 [December 26, 1766]
 
@@ -93,23 +93,23 @@ Today, Tuesday 27. Tishri [5]528 [October 20, 1767] we, the undersigned, assembl
 
 and found that our community has great need to take out a loan of two thousand two
 
-hundred Reichsthaler for the needs of our community, i.e. to pay the excise [*Akzise*]4
+hundred Reichsthaler for the needs of our community, i.e. to pay the excise [*Akzise*][^4]
 
-[also without giving?], and for the bolting cloth [*Beuteltuch*] manufactory,5 and for the
+[also without giving?], and for the bolting cloth [*Beuteltuch*] manufactory,[^5] and for the
 
 remainder of needs of the community; the necessary assets and [fines?] for our
 
 community from *ha[hakham] ha[gadol]* *ha-k[atsin]* *p[arnas] ve ha-r[av] r[avi]* Yakov
 
-Katz in Hamburg for four years with […]6 on one hundred in his hand. The interest on the 22 hundred thaler Louis d’or will be collected by *ha-k[atsin] m[anhig] ha-[?]* Mori
+Katz in Hamburg for four years with […][^6] on one hundred in his hand. The interest on the 22 hundred thaler Louis d’or will be collected by *ha-k[atsin] m[anhig] ha-[?]* Mori
 
 Katz, who delivers [?] the money to *ha[hakham] ha[gadol] ha-r[av] r[abi]* Israel bar
 
 Sh. and he should calculate the 22 hundred Reichsthaler as usual. We, the undersigned,
 
-have thus signed for the good of the community a Sola bill of exchange7 in solidum8 for
+have thus signed for the good of the community a Sola bill of exchange[^7] in solidum[^8] 
 
-the above mentioned R. Yakov and have [received it in cash?]. When R. Yakov demands
+for the above mentioned R. Yakov and have [received it in cash?]. When R. Yakov demands
 
 his assets back, then this sum shall be raised from the members of the community, half
 
@@ -301,9 +301,9 @@ Reichsthaler in Friedrichs d’or à 5 Reichsthaler,[^14] which we will pay off 
 
 of the Reminiscere [fair], which we have owned to Mr. Weiss for a while and which we
 
-will now pay to the above mentioned. And we, the signers, gave a bill of exchange[^7] in
+will now pay to the above mentioned. And we, the signers, gave a bill of exchange in
 
-solidum[^8] to the afore mentioned *p[arnas]* and *k[atsin]* R. Herz.
+solidum to the afore mentioned *p[arnas]* and *k[atsin]* R. Herz.
 
 F[rank]f[urt] on the Oder, Monday [night] 13. Iyyar [5]537 [May 19, 1777]
 
