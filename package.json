@@ -28,7 +28,7 @@
     "@tailwindcss/vite": "^4.3.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
-    "astro": "^7.0.6",
+    "astro": "^7.3.2",
     "astro-breadcrumbs": "^3.4.1",
     "astro-collection-search": "^0.0.13",
     "astro-disqus": "^1.0.1",
