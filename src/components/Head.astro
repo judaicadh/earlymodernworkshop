@@ -23,9 +23,123 @@ import "../styles/global.css";
     <script src="/pagefind/pagefind-ui.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js" defer></script>
 
-    <!-- Mailchimp connected-site script: enables Mailchimp-designed signup
-         forms/pop-ups and audience tracking across the site. -->
-    <script is:inline id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bc637738e21130912a04684ca/142577ecf45ce6f6b476f8672.js");</script>
+    <!-- ── Silktide cookie consent manager ──────────────────────────────
+         The Mailchimp connected-site script (signup pop-ups + audience
+         tracking) is loaded from the "marketing" consent's onAccept below,
+         so it only runs once the visitor accepts marketing cookies. -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link
+        rel="stylesheet"
+        id="silktide-consent-manager-css"
+        href="https://cdn.jsdelivr.net/gh/silktide/consent-manager@v2.0.1/silktide-consent-manager.css"
+        integrity="sha384-EdMq+R+YOnsbelo08wPenoTlnxbAyxI11NMIxzugx/qAsbh64KcOkqxYqq6pfvO/"
+        crossorigin="anonymous"
+    />
+    <style is:inline id="silktide-consent-manager-overrides">
+        /* Themed to the Early Modern Workshop palette (see global.css). */
+        #stcm-wrapper {
+            --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
+            --fontFamily: "EB Garamond", Georgia, "Times New Roman", serif;
+            --primaryColor: #6b1f2e;           /* burgundy */
+            --backgroundColor: #fbf7ee;        /* parchment */
+            --textColor: #1b130d;              /* ink */
+            --backdropBackgroundColor: #1b130d33;
+            --backdropBackgroundBlur: 0px;
+            --iconColor: #6b1f2e;              /* burgundy */
+            --iconBackgroundColor: #fbf7ee;    /* parchment */
+        }
+
+        /* Dark mode mirrors the site's prefers-color-scheme styles. */
+        @media (prefers-color-scheme: dark) {
+            #stcm-wrapper {
+                --primaryColor: #9a3348;         /* burgundy-light */
+                --backgroundColor: #120c08;      /* footer ink */
+                --textColor: #f4ecda;            /* paper */
+                --iconColor: #cfa45c;            /* gilt */
+                --iconBackgroundColor: #120c08;
+            }
+        }
+    </style>
+    <script
+        is:inline
+        src="https://cdn.jsdelivr.net/gh/silktide/consent-manager@v2.0.1/silktide-consent-manager.js"
+        integrity="sha384-5Pt34uiIbCsvfiiZXoLi4HRf/YBXjr9c8e+gYeVo9smUaInNHYVtc8NZ8wUnXJIq"
+        crossorigin="anonymous"
+    ></script>
+    <script is:inline>
+        function loadMailchimp() {
+            if (document.getElementById("mcjs")) return;
+            var s = document.createElement("script");
+            s.id = "mcjs";
+            s.async = true;
+            s.src =
+                "https://chimpstatic.com/mcjs-connected/js/users/bc637738e21130912a04684ca/142577ecf45ce6f6b476f8672.js";
+            document.head.appendChild(s);
+        }
+
+        window.silktideConsentManager.init({
+            backdrop: {
+                show: true,
+            },
+            icon: {
+                position: "bottomLeft",
+            },
+            prompt: {
+                position: "bottomRight",
+            },
+            consentTypes: [
+                {
+                    id: "essential",
+                    label: "Essential",
+                    description:
+                        "<p>These cookies are necessary for the website to function properly and cannot be switched off. They help with things like logging in and setting your privacy preferences.</p>",
+                    required: true,
+                },
+                {
+                    id: "analytics",
+                    label: "Analytics",
+                    description:
+                        "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
+                    required: false,
+                    defaultValue: true,
+                    gtag: "analytics_storage",
+                },
+                {
+                    id: "marketing",
+                    label: "Marketing",
+                    description:
+                        "<p>These cookies are used by us and our advertising partners to show you relevant ads on this site and elsewhere, and to measure how those campaigns perform.</p>",
+                    required: false,
+                    gtag: ["ad_storage", "ad_user_data", "ad_personalization"],
+                    onAccept: function () {
+                        loadMailchimp();
+                    },
+                },
+            ],
+            text: {
+                prompt: {
+                    description:
+                        "<p>We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic.</p>",
+                    acceptAllButtonText: "Accept all",
+                    acceptAllButtonAccessibleLabel: "Accept all cookies",
+                    rejectNonEssentialButtonText: "Reject non-essential",
+                    rejectNonEssentialButtonAccessibleLabel:
+                        "Reject all non-essential cookies",
+                    preferencesButtonText: "Preferences",
+                    preferencesButtonAccessibleLabel: "Toggle preferences",
+                },
+                preferences: {
+                    title: "Customize your cookie preferences",
+                    description:
+                        "<p>We respect your right to privacy. You can choose not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
+                    saveButtonText: "Save and close",
+                    saveButtonAccessibleLabel: "Save your cookie preferences",
+                    creditLinkText: "Get this banner for free",
+                    creditLinkAccessibleLabel: "Get this banner for free",
+                },
+            },
+        });
+    </script>
 
     <slot />
     </head>
