@@ -35,6 +35,7 @@ const places = Array.from(placeMap.values()).sort(
 places.forEach((p) => { p.written.sort((a, b) => a.year.localeCompare(b.year)); p.mentioned.sort((a, b) => a.year.localeCompare(b.year)); });
 const writtenTotal = places.reduce((n, p) => n + p.written.length, 0);
 const mentionedTotal = places.reduce((n, p) => n + p.mentioned.length, 0);
+const cartoKey = import.meta.env.PUBLIC_CARTO_KEY || "";
 ---
 
 <Layout>
@@ -115,11 +116,12 @@ const mentionedTotal = places.reduce((n, p) => n + p.mentioned.length, 0);
         </div>
     </section>
 
-    <script is:inline define:vars={{ places }}>
+    <script is:inline define:vars={{ places, cartoKey }}>
         (function () {
             function initMap() {
                 const map = L.map('map', { scrollWheelZoom: false, minZoom: 2 }).setView([46, 12], 4);
-                L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                const cartoSuffix = cartoKey ? `?key=${cartoKey}` : '';
+                L.tileLayer(`https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png${cartoSuffix}`, {
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
                     subdomains: 'abcd', maxZoom: 19,
                 }).addTo(map);
