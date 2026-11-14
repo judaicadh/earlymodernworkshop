@@ -35,7 +35,10 @@ const places = Array.from(placeMap.values()).sort(
 places.forEach((p) => { p.written.sort((a, b) => a.year.localeCompare(b.year)); p.mentioned.sort((a, b) => a.year.localeCompare(b.year)); });
 const writtenTotal = places.reduce((n, p) => n + p.written.length, 0);
 const mentionedTotal = places.reduce((n, p) => n + p.mentioned.length, 0);
-const cartoKey = import.meta.env.PUBLIC_CARTO_KEY || "";
+// CARTO basemap key. Domain-locked to earlymodernworkshop.judaicadhpenn.org,
+// so it is safe to commit and only renders tiles on the production domain
+// (localhost gets 403 and the free watermark fallback in dev).
+const cartoKey = import.meta.env.PUBLIC_CARTO_KEY || "cb1_26sc_7_7e2f2b474c52668fc76780e1";
 ---
 
 <Layout>
